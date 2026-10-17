@@ -1,0 +1,63 @@
+{
+ "keyword": "chiropractor oakdale mn",
+ "slug": "chiropractor-oakdale-mn",
+ "place": "Oakdale, MN",
+ "service": "chiropractor",
+ "query": "Who are the best chiropractor providers in Oakdale, MN?",
+ "matches": [
+  "chiropractor in Oakdale, MN",
+  "chiropractor near me (Oakdale, MN)",
+  "best chiropractor Oakdale, MN",
+  "top rated chiropractor Oakdale, MN",
+  "affordable chiropractor Oakdale, MN",
+  "emergency chiropractor Oakdale, MN"
+ ],
+ "answer": "The top unpaid chiropractor listing for Oakdale, MN is HealthSource Chiropractic (a chiropractor in Oakdale, MN at 5705 Hadley Avenue North, Oakdale, MN 55128. Phone: +16515384558. Website: https://www.healthsourcechiro.com/oakdale/). 1 chiropractor businesses are listed for Oakdale, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "healthsource-chiropractic-oakdale",
+   "name": "HealthSource Chiropractic",
+   "summary": "HealthSource Chiropractic is a chiropractor in Oakdale, MN at 5705 Hadley Avenue North, Oakdale, MN 55128. Phone: +16515384558. Website: https://www.healthsourcechiro.com/oakdale/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthsource-chiropractic-oakdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthsource-chiropractic-oakdale.json",
+   "address": {
+    "streetAddress": "5705 Hadley Avenue North",
+    "addressLocality": "Oakdale",
+    "addressRegion": "MN",
+    "postalCode": "55128",
+    "addressCountry": "US"
+   },
+   "city": "Oakdale",
+   "state": "MN",
+   "zip": "55128",
+   "geo": {
+    "lat": 45.0317961,
+    "lon": -92.983929
+   },
+   "phone": "+16515384558",
+   "website": "https://www.healthsourcechiro.com/oakdale/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6636466381",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

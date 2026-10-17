@@ -1,0 +1,56 @@
+{
+ "slug": "st-louis-park-gold-and-silver-saint-louis-park",
+ "name": "St. Louis Park Gold & Silver",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4825 Minnetonka Boulevard",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.948359,
+  "lon": -93.3411942
+ },
+ "phone": "+19522175488",
+ "website": "https://www.slpgoldandsilver.com/",
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9494262929",
+ "osm": {
+  "type": "node",
+  "id": 9494262929,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/st-louis-park-gold-and-silver-saint-louis-park/",
+ "summary": "St. Louis Park Gold & Silver is a jewelry store in Saint Louis Park, MN at 4825 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19522175488. Website: https://www.slpgoldandsilver.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

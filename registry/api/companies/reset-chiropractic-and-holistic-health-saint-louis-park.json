@@ -1,0 +1,57 @@
+{
+ "slug": "reset-chiropractic-and-holistic-health-saint-louis-park",
+ "name": "RESET Chiropractic and Holistic Health",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4833 Minnetonka Boulevard",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.948363,
+  "lon": -93.3414232
+ },
+ "phone": "+16125671338",
+ "website": "https://www.resetmn.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9494262932",
+ "osm": {
+  "type": "node",
+  "id": 9494262932,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/reset-chiropractic-and-holistic-health-saint-louis-park/",
+ "summary": "RESET Chiropractic and Holistic Health is a chiropractor in Saint Louis Park, MN at 4833 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +16125671338. Website: https://www.resetmn.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

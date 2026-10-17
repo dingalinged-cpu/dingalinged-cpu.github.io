@@ -1,0 +1,52 @@
+{
+ "slug": "undisputed-weightlifting-club-eagan",
+ "name": "Undisputed Weightlifting Club",
+ "categories": [
+  "crossfit"
+ ],
+ "keywords": [
+  "crossfit",
+  "crossfit eagan mn"
+ ],
+ "services": [
+  {
+   "name": "crossfit",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "geo": {
+  "lat": 44.7889263,
+  "lon": -93.2047906
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5910751754",
+ "osm": {
+  "type": "node",
+  "id": 5910751754,
+  "tags_used": {
+   "leisure": "sports_centre",
+   "sport": "weightlifting;crossfit"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/undisputed-weightlifting-club-eagan/",
+ "summary": "Undisputed Weightlifting Club is a CrossFit gym in Eagan, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

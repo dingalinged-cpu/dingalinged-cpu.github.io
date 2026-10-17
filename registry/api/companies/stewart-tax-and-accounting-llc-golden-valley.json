@@ -1,0 +1,62 @@
+{
+ "slug": "stewart-tax-and-accounting-llc-golden-valley",
+ "name": "Stewart Tax & Accounting LLC",
+ "categories": [
+  "accountant"
+ ],
+ "keywords": [
+  "accountant",
+  "accounting services",
+  "accountant golden valley mn",
+  "accounting services golden valley mn"
+ ],
+ "services": [
+  {
+   "name": "accountant",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "accounting services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4959 Olson Memorial Highway",
+  "addressLocality": "Golden Valley",
+  "addressRegion": "MN",
+  "postalCode": "55422",
+  "addressCountry": "US"
+ },
+ "city": "Golden Valley",
+ "state": "MN",
+ "zip": "55422",
+ "geo": {
+  "lat": 44.9837349,
+  "lon": -93.3424719
+ },
+ "phone": "+17635453501",
+ "website": "https://stewarttax.com/meet-our-team/",
+ "schema_type": "AccountingService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11124443894",
+ "osm": {
+  "type": "node",
+  "id": 11124443894,
+  "tags_used": {
+   "office": "accountant"
+  }
+ },
+ "municipality": "Golden Valley",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/stewart-tax-and-accounting-llc-golden-valley/",
+ "summary": "Stewart Tax & Accounting LLC is an accountant in Golden Valley, MN at 4959 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17635453501. Website: https://stewarttax.com/meet-our-team/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

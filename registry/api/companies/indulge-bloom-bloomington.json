@@ -1,0 +1,54 @@
+{
+ "slug": "indulge-bloom-bloomington",
+ "name": "Indulge + Bloom",
+ "categories": [
+  "gift shop"
+ ],
+ "keywords": [
+  "gift shop",
+  "gift shop bloomington mn"
+ ],
+ "services": [
+  {
+   "name": "gift shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "314 North Garden",
+  "addressLocality": "Bloomington",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Bloomington",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8558415,
+  "lon": -93.2425563
+ },
+ "phone": "+16123430000",
+ "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5739829652",
+ "osm": {
+  "type": "node",
+  "id": 5739829652,
+  "tags_used": {
+   "shop": "gift"
+  }
+ },
+ "municipality": "Bloomington",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/indulge-bloom-bloomington/",
+ "summary": "Indulge + Bloom is a gift shop in Bloomington, MN at 314 North Garden, Bloomington, MN. Phone: +16123430000.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

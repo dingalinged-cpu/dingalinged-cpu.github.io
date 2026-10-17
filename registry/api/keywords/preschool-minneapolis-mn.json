@@ -1,0 +1,311 @@
+{
+ "keyword": "preschool minneapolis mn",
+ "slug": "preschool-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "preschool",
+ "query": "Who are the best preschool providers in Minneapolis, MN?",
+ "matches": [
+  "preschool in Minneapolis, MN",
+  "preschool near me (Minneapolis, MN)",
+  "best preschool Minneapolis, MN",
+  "top rated preschool Minneapolis, MN",
+  "affordable preschool Minneapolis, MN",
+  "emergency preschool Minneapolis, MN"
+ ],
+ "answer": "The top unpaid preschool listing for Minneapolis, MN is Academia Elze Spanish Immersion Early Learning Center (a preschool in Minneapolis, MN at 4 West Franklin Avenue, Minneapolis, MN 55403. Phone: +16123455370. Website: https://www.academiaelze.com/). 9 preschool businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "academia-elze-spanish-immersion-early-learning-center-minneapolis",
+   "name": "Academia Elze Spanish Immersion Early Learning Center",
+   "summary": "Academia Elze Spanish Immersion Early Learning Center is a preschool in Minneapolis, MN at 4 West Franklin Avenue, Minneapolis, MN 55403. Phone: +16123455370. Website: https://www.academiaelze.com/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/academia-elze-spanish-immersion-early-learning-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/academia-elze-spanish-immersion-early-learning-center-minneapolis.json",
+   "address": {
+    "streetAddress": "4 West Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9633108,
+    "lon": -93.2786889
+   },
+   "phone": "+16123455370",
+   "website": "https://www.academiaelze.com/",
+   "opening_hours": "Mo-Fr 06:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11608690662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "kindercare-minneapolis",
+   "name": "KinderCare",
+   "summary": "KinderCare is a preschool in Minneapolis, MN at 525 Southeast Huron Boulevard, Minneapolis, MN 55414. Phone: +16126234642. Website: https://www.kindercare.com/our-centers/minneapolis/mn/000855.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-minneapolis.json",
+   "address": {
+    "streetAddress": "525 Southeast Huron Boulevard",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9702324,
+    "lon": -93.2222644
+   },
+   "phone": "+16126234642",
+   "website": "https://www.kindercare.com/our-centers/minneapolis/mn/000855",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1517824588",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "mcknight-early-childhood-family-development-center-minneapolis",
+   "name": "McKnight Early Childhood Family Development Center",
+   "summary": "McKnight Early Childhood Family Development Center is a preschool in Minneapolis, MN at 4225 3rd Avenue South, Minneapolis, MN 55409. Phone: +16128257422. Website: https://www.picaheadstart.org/locations/mcknight.html.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcknight-early-childhood-family-development-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcknight-early-childhood-family-development-center-minneapolis.json",
+   "address": {
+    "streetAddress": "4225 3rd Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.9259507,
+    "lon": -93.2714479
+   },
+   "phone": "+16128257422",
+   "website": "https://www.picaheadstart.org/locations/mcknight.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/111293501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "new-horizon-academy-minneapolis",
+   "name": "New Horizon Academy",
+   "summary": "New Horizon Academy is a preschool in Minneapolis, MN. Phone: +16123542470.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-horizon-academy-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9580759,
+    "lon": -93.2945728
+   },
+   "phone": "+16123542470",
+   "opening_hours": "Mo-Fr 06:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835960213",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "gartner-school-minneapolis",
+   "name": "Gartner School",
+   "summary": "Gartner School is a preschool in Minneapolis, MN. Website: https://www.thegardnerschool.com/schools/minneapolis/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gartner-school-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gartner-school-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9760551,
+    "lon": -93.274576
+   },
+   "website": "https://www.thegardnerschool.com/schools/minneapolis/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451748991",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "creative-minds-daycare-minneapolis",
+   "name": "Creative Minds Daycare",
+   "summary": "Creative Minds Daycare is a preschool in Minneapolis, MN at 3801 Portland Avenue, Minneapolis, MN.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creative-minds-daycare-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creative-minds-daycare-minneapolis.json",
+   "address": {
+    "streetAddress": "3801 Portland Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9339518,
+    "lon": -93.2671452
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8611669333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "jardin-spanish-immersion-academy-minneapolis",
+   "name": "Jardin Spanish Immersion Academy",
+   "summary": "Jardin Spanish Immersion Academy is a preschool in Minneapolis, MN at 4040 Bloomington Avenue, Minneapolis, MN.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jardin-spanish-immersion-academy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jardin-spanish-immersion-academy-minneapolis.json",
+   "address": {
+    "streetAddress": "4040 Bloomington Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9290198,
+    "lon": -93.253056
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9603638847",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "new-horizon-academy-minneapolis-n10925436338",
+   "name": "New Horizon Academy",
+   "summary": "New Horizon Academy is a preschool in Minneapolis, MN.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-minneapolis-n10925436338/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-horizon-academy-minneapolis-n10925436338.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9741309,
+    "lon": -93.2827861
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10925436338",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "perfect-balance-child-care-minneapolis",
+   "name": "Perfect Balance Child Care",
+   "summary": "Perfect Balance Child Care is a preschool in Minneapolis, MN.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/perfect-balance-child-care-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/perfect-balance-child-care-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9371796,
+    "lon": -93.2578731
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/923516256",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

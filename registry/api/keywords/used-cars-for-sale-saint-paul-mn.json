@@ -1,0 +1,126 @@
+{
+ "keyword": "used cars for sale saint paul mn",
+ "slug": "used-cars-for-sale-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "used cars for sale",
+ "query": "Who are the best used cars for sale providers in Saint Paul, MN?",
+ "matches": [
+  "used cars for sale in Saint Paul, MN",
+  "used cars for sale near me (Saint Paul, MN)",
+  "best used cars for sale Saint Paul, MN",
+  "top rated used cars for sale Saint Paul, MN",
+  "affordable used cars for sale Saint Paul, MN",
+  "emergency used cars for sale Saint Paul, MN"
+ ],
+ "answer": "The top unpaid used cars for sale listing for Saint Paul, MN is Ado's Motors (an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/). 3 used cars for sale businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ados-motors-saint-paul",
+   "name": "Ado's Motors",
+   "summary": "Ado's Motors is an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ados-motors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ados-motors-saint-paul.json",
+   "address": {
+    "streetAddress": "834 7th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9308362,
+    "lon": -93.1215044
+   },
+   "phone": "+16124453093",
+   "website": "https://adosmotorsmn.com/",
+   "opening_hours": "Mo,We-Fr 11:00-19:00; Tu 09:00-17:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211419793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "carver-auto-sales-saint-paul",
+   "name": "Carver Auto Sales",
+   "summary": "Carver Auto Sales is an used car dealer in Saint Paul, MN at 1328 Point Douglas Road South, Saint Paul, MN 55119.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carver-auto-sales-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carver-auto-sales-saint-paul.json",
+   "address": {
+    "streetAddress": "1328 Point Douglas Road South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55119",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55119",
+   "geo": {
+    "lat": 44.9011257,
+    "lon": -93.0092068
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/966334468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "glorias-downtown-auto-sales-saint-paul",
+   "name": "Gloria's Downtown Auto Sales",
+   "summary": "Gloria's Downtown Auto Sales is an used car dealer in Saint Paul, MN at 359 Robert Street South, Saint Paul, MN.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glorias-downtown-auto-sales-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glorias-downtown-auto-sales-saint-paul.json",
+   "address": {
+    "streetAddress": "359 Robert Street South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9350336,
+    "lon": -93.0812609
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241059080",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "keyword": "gift shop maple grove mn",
+ "slug": "gift-shop-maple-grove-mn",
+ "place": "Maple Grove, MN",
+ "service": "gift shop",
+ "query": "Who are the best gift shop providers in Maple Grove, MN?",
+ "matches": [
+  "gift shop in Maple Grove, MN",
+  "gift shop near me (Maple Grove, MN)",
+  "best gift shop Maple Grove, MN",
+  "top rated gift shop Maple Grove, MN",
+  "affordable gift shop Maple Grove, MN",
+  "emergency gift shop Maple Grove, MN"
+ ],
+ "answer": "The top unpaid gift shop listing for Maple Grove, MN is Edible Arrangements (a gift shop in Maple Grove, MN at 13712 Grove Drive North, Maple Grove, MN 55311. Phone: +17634203115. Website: https://www.ediblearrangements.com/). 1 gift shop businesses are listed for Maple Grove, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "edible-arrangements-maple-grove",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Maple Grove, MN at 13712 Grove Drive North, Maple Grove, MN 55311. Phone: +17634203115. Website: https://www.ediblearrangements.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-maple-grove.json",
+   "address": {
+    "streetAddress": "13712 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1045226,
+    "lon": -93.4542225
+   },
+   "phone": "+17634203115",
+   "website": "https://www.ediblearrangements.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5777444270",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

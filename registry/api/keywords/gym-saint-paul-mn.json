@@ -1,0 +1,720 @@
+{
+ "keyword": "gym saint paul mn",
+ "slug": "gym-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in Saint Paul, MN?",
+ "matches": [
+  "gym in Saint Paul, MN",
+  "gym near me (Saint Paul, MN)",
+  "best gym Saint Paul, MN",
+  "top rated gym Saint Paul, MN",
+  "affordable gym Saint Paul, MN",
+  "emergency gym Saint Paul, MN"
+ ],
+ "answer": "The top unpaid gym listing for Saint Paul, MN is Anytime Fitness (a gym in Saint Paul, MN at 1059 Grand Avenue, Saint Paul, MN 55106. Phone: +16513402811. Website: https://www.anytimefitness.com/gyms/2074/st-paul-mn-55106/). 22 gym businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "anytime-fitness-saint-paul",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Saint Paul, MN at 1059 Grand Avenue, Saint Paul, MN 55106. Phone: +16513402811. Website: https://www.anytimefitness.com/gyms/2074/st-paul-mn-55106/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-saint-paul.json",
+   "address": {
+    "streetAddress": "1059 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55106",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55106",
+   "geo": {
+    "lat": 44.9401316,
+    "lon": -93.1449154
+   },
+   "phone": "+16513402811",
+   "website": "https://www.anytimefitness.com/gyms/2074/st-paul-mn-55106/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1313774058",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "snap-fitness-saint-paul",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Saint Paul, MN at 1960 Cliff Lake Road #115, Saint Paul, MN 55122. Phone: +16512893070. Website: https://www.snapfitness.com/us/gyms/eagan-cliff-lake-rd-mn.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-saint-paul.json",
+   "address": {
+    "streetAddress": "1960 Cliff Lake Road #115",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.7937998,
+    "lon": -93.2049485
+   },
+   "phone": "+16512893070",
+   "website": "https://www.snapfitness.com/us/gyms/eagan-cliff-lake-rd-mn",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12192614807",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "vertical-endeavors-twin-cities-bouldering-saint-paul",
+   "name": "Vertical Endeavors - Twin Cities Bouldering",
+   "summary": "Vertical Endeavors - Twin Cities Bouldering is a gym in Saint Paul, MN at 2550 Wabash Avenue, Saint Paul, MN 55114. Phone: +16513308661. Website: https://www.verticalendeavors.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vertical-endeavors-twin-cities-bouldering-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vertical-endeavors-twin-cities-bouldering-saint-paul.json",
+   "address": {
+    "streetAddress": "2550 Wabash Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9604979,
+    "lon": -93.2068105
+   },
+   "phone": "+16513308661",
+   "website": "https://www.verticalendeavors.com/",
+   "opening_hours": "Mo-Fr 06:00-22:00; Sa 08:00-20:00; Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6329878282",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "life-time-saint-paul",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Saint Paul, MN at Ford Parkway, Saint Paul, MN. Phone: +16516985000. Website: https://www.lifetime.life/life-time-locations/mn-st-paul-highland-park.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-saint-paul.json",
+   "address": {
+    "streetAddress": "Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9181008,
+    "lon": -93.1907365
+   },
+   "phone": "+16516985000",
+   "website": "https://www.lifetime.life/life-time-locations/mn-st-paul-highland-park.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3300857187",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "friday-strength-saint-paul",
+   "name": "Friday Strength",
+   "summary": "Friday Strength is a gym in Saint Paul, MN at 666 Transfer Road, Saint Paul, MN 55114. Phone: +16517555916. Website: https://fridaystrength.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/friday-strength-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/friday-strength-saint-paul.json",
+   "address": {
+    "streetAddress": "666 Transfer Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9606988,
+    "lon": -93.1855332
+   },
+   "phone": "+16517555916",
+   "website": "https://fridaystrength.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7192306910",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "orangetheory-fitness-saint-paul",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Saint Paul, MN at 850 Grand Avenue, Saint Paul, MN 55105. Phone: +16513646888. Website: https://www.orangetheory.com/en-us/locations/minnesota/st-paul/805-grand-avenue/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-saint-paul.json",
+   "address": {
+    "streetAddress": "850 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9397446,
+    "lon": -93.1360114
+   },
+   "phone": "+16513646888",
+   "website": "https://www.orangetheory.com/en-us/locations/minnesota/st-paul/805-grand-avenue/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8924973333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "sweatshop-health-club-saint-paul",
+   "name": "Sweatshop Health Club",
+   "summary": "Sweatshop Health Club is a gym in Saint Paul, MN at 167 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516468418. Website: https://sweatshopfitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sweatshop-health-club-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sweatshop-health-club-saint-paul.json",
+   "address": {
+    "streetAddress": "167 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9463322,
+    "lon": -93.1672344
+   },
+   "phone": "+16516468418",
+   "website": "https://sweatshopfitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3695583048",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "alchemy-365-saint-paul",
+   "name": "Alchemy 365",
+   "summary": "Alchemy 365 is a gym in Saint Paul, MN at 747 Cleveland Avenue South, Saint Paul, MN. Phone: +16124446287. Website: https://alchemy365.com/studios/minnesota/highlandpark/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alchemy-365-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alchemy-365-saint-paul.json",
+   "address": {
+    "streetAddress": "747 Cleveland Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9190415,
+    "lon": -93.1876025
+   },
+   "phone": "+16124446287",
+   "website": "https://alchemy365.com/studios/minnesota/highlandpark/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8769392792",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "defining-you-fitness-studio-saint-paul",
+   "name": "Defining You Fitness Studio",
+   "summary": "Defining You Fitness Studio is a gym in Saint Paul, MN. Phone: +16517695712. Website: https://www.definingyoufitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/defining-you-fitness-studio-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/defining-you-fitness-studio-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9579673,
+    "lon": -93.1913711
+   },
+   "phone": "+16517695712",
+   "website": "https://www.definingyoufitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12360512602",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "fisico-training-saint-paul",
+   "name": "Fisico Training",
+   "summary": "Fisico Training is a gym in Saint Paul, MN. Phone: +16514700626. Website: https://www.fisicotraining.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fisico-training-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fisico-training-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9228615,
+    "lon": -93.1672714
+   },
+   "phone": "+16514700626",
+   "website": "https://www.fisicotraining.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1411811121",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "timberwolf-crossfit-saint-paul",
+   "name": "Timberwolf Crossfit",
+   "summary": "Timberwolf Crossfit is a gym in Saint Paul, MN at 600 7th Street West, Saint Paul, MN 55102. Website: https://timberwolfcrossfit.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/timberwolf-crossfit-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/timberwolf-crossfit-saint-paul.json",
+   "address": {
+    "streetAddress": "600 7th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9351128,
+    "lon": -93.1155881
+   },
+   "website": "https://timberwolfcrossfit.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3086952977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "anytime-fitness-saint-paul-n12081775408",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Saint Paul, MN at 897 Saint Paul Avenue, Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-saint-paul-n12081775408/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-saint-paul-n12081775408.json",
+   "address": {
+    "streetAddress": "897 Saint Paul Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9137715,
+    "lon": -93.1861187
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12081775408",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "la-fitness-saint-paul",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Saint Paul, MN at 1370 University Avenue, Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-saint-paul.json",
+   "address": {
+    "streetAddress": "1370 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9549278,
+    "lon": -93.157934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/413729677",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "milton-m-hurwitz-exercare-fitness-center-saint-paul",
+   "name": "Milton M. Hurwitz ExerCare Fitness Center",
+   "summary": "Milton M. Hurwitz ExerCare Fitness Center is a gym in Saint Paul, MN at 362 North Walnut Street, Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/milton-m-hurwitz-exercare-fitness-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/milton-m-hurwitz-exercare-fitness-center-saint-paul.json",
+   "address": {
+    "streetAddress": "362 North Walnut Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9434043,
+    "lon": -93.1060998
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13752991061",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "anytime-fitness-saint-paul-n11872681554",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-saint-paul-n11872681554/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-saint-paul-n11872681554.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9507023,
+    "lon": -93.028696
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11872681554",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "butler-sports-and-fitness-center-saint-paul",
+   "name": "Butler Sports and Fitness Center",
+   "summary": "Butler Sports and Fitness Center is a gym in Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/butler-sports-and-fitness-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/butler-sports-and-fitness-center-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.92484,
+    "lon": -93.1821056
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/58869692",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "duell-fitness-saint-paul",
+   "name": "Duell Fitness",
+   "summary": "Duell Fitness is a gym in Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duell-fitness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duell-fitness-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9845323,
+    "lon": -93.0661777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11942849686",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "hotworx-saint-paul",
+   "name": "Hotworx",
+   "summary": "Hotworx is a gym in Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hotworx-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hotworx-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9537143,
+    "lon": -93.1672849
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12329608244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "never-alone-fitness-saint-paul",
+   "name": "Never Alone Fitness",
+   "summary": "Never Alone Fitness is a gym in Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/never-alone-fitness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/never-alone-fitness-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.923645,
+    "lon": -93.1323032
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3095001946",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "saint-paul-eastside-ymca-saint-paul",
+   "name": "Saint Paul Eastside YMCA",
+   "summary": "Saint Paul Eastside YMCA is a gym in Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-paul-eastside-ymca-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-paul-eastside-ymca-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9681107,
+    "lon": -93.067708
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4714498174",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "statera-fitness-saint-paul",
+   "name": "Statera Fitness",
+   "summary": "Statera Fitness is a gym in Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/statera-fitness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/statera-fitness-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9469522,
+    "lon": -93.1433017
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/501063682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "stretch-lab-saint-paul",
+   "name": "Stretch Lab",
+   "summary": "Stretch Lab is a gym in Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stretch-lab-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stretch-lab-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9404004,
+    "lon": -93.1368328
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13890119206",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

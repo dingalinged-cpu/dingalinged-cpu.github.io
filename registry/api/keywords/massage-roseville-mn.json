@@ -1,0 +1,99 @@
+{
+ "keyword": "massage roseville mn",
+ "slug": "massage-roseville-mn",
+ "place": "Roseville, MN",
+ "service": "massage",
+ "query": "Who are the best massage providers in Roseville, MN?",
+ "matches": [
+  "massage in Roseville, MN",
+  "massage near me (Roseville, MN)",
+  "best massage Roseville, MN",
+  "top rated massage Roseville, MN",
+  "affordable massage Roseville, MN",
+  "emergency massage Roseville, MN"
+ ],
+ "answer": "The top unpaid massage listing for Roseville, MN is Grace's Massage Therapy (a massage studio in Roseville, MN at 1734 Lexington Avenue N, Roseville, MN 55113. Phone: +17633372188. Website: https://www.gracesmassagetherapy.com/). 2 massage businesses are listed for Roseville, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "graces-massage-therapy-roseville",
+   "name": "Grace's Massage Therapy",
+   "summary": "Grace's Massage Therapy is a massage studio in Roseville, MN at 1734 Lexington Avenue N, Roseville, MN 55113. Phone: +17633372188. Website: https://www.gracesmassagetherapy.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/graces-massage-therapy-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/graces-massage-therapy-roseville.json",
+   "address": {
+    "streetAddress": "1734 Lexington Avenue N",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9936138,
+    "lon": -93.1456915
+   },
+   "phone": "+17633372188",
+   "website": "https://www.gracesmassagetherapy.com/",
+   "opening_hours": "Mo-Su 09:30-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147169434",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "massage-xcape-roseville",
+   "name": "Massage Xcape",
+   "summary": "Massage Xcape is a massage studio in Roseville, MN at 1767 Lexington Avenue North, Roseville, MN 55113. Phone: +16519641112. Website: https://www.massage-xcape.business.site/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-xcape-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-xcape-roseville.json",
+   "address": {
+    "streetAddress": "1767 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9946963,
+    "lon": -93.1469149
+   },
+   "phone": "+16519641112",
+   "website": "https://www.massage-xcape.business.site/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7141890137",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

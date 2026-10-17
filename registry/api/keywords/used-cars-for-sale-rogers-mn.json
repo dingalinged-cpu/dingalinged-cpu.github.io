@@ -1,0 +1,157 @@
+{
+ "keyword": "used cars for sale rogers mn",
+ "slug": "used-cars-for-sale-rogers-mn",
+ "place": "Rogers, MN",
+ "service": "used cars for sale",
+ "query": "Who are the best used cars for sale providers in Rogers, MN?",
+ "matches": [
+  "used cars for sale in Rogers, MN",
+  "used cars for sale near me (Rogers, MN)",
+  "best used cars for sale Rogers, MN",
+  "top rated used cars for sale Rogers, MN",
+  "affordable used cars for sale Rogers, MN",
+  "emergency used cars for sale Rogers, MN"
+ ],
+ "answer": "The top unpaid used cars for sale listing for Rogers, MN is Bedrock Motors (an used car dealer in Rogers, MN at 13830 Northdale Boulevard, Rogers, MN 55374). 4 used cars for sale businesses are listed for Rogers, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bedrock-motors-rogers",
+   "name": "Bedrock Motors",
+   "summary": "Bedrock Motors is an used car dealer in Rogers, MN at 13830 Northdale Boulevard, Rogers, MN 55374.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bedrock-motors-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bedrock-motors-rogers.json",
+   "address": {
+    "streetAddress": "13830 Northdale Boulevard",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.205545,
+    "lon": -93.5546342
+   },
+   "opening_hours": "Mo-Th 08:30-20:00; Fr-Sa 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/546236329",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "freeway-motors-rogers",
+   "name": "Freeway Motors",
+   "summary": "Freeway Motors is an used car dealer in Rogers, MN at 14080 Main Street, Rogers, MN 55374.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeway-motors-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeway-motors-rogers.json",
+   "address": {
+    "streetAddress": "14080 Main Street",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.2084249,
+    "lon": -93.5514919
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/556516039",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "ultimate-golf-carts-rogers",
+   "name": "Ultimate Golf Carts",
+   "summary": "Ultimate Golf Carts is an used car dealer in Rogers, MN at 14295 James Road #Suite 100, Rogers, MN 55374.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimate-golf-carts-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimate-golf-carts-rogers.json",
+   "address": {
+    "streetAddress": "14295 James Road #Suite 100",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.2136665,
+    "lon": -93.5517483
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152126416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "ellingson-motorcars-rogers",
+   "name": "Ellingson Motorcars",
+   "summary": "Ellingson Motorcars is an used car dealer in Rogers, MN.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ellingson-motorcars-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ellingson-motorcars-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1928136,
+    "lon": -93.5458524
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/770737726",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

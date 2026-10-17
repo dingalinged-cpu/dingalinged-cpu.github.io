@@ -1,0 +1,152 @@
+{
+ "keyword": "car wash shoreview mn",
+ "slug": "car-wash-shoreview-mn",
+ "place": "Shoreview, MN",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in Shoreview, MN?",
+ "matches": [
+  "car wash in Shoreview, MN",
+  "car wash near me (Shoreview, MN)",
+  "best car wash Shoreview, MN",
+  "top rated car wash Shoreview, MN",
+  "affordable car wash Shoreview, MN",
+  "emergency car wash Shoreview, MN"
+ ],
+ "answer": "The top unpaid car wash listing for Shoreview, MN is BP Car Wash (a car wash in Saint Paul, MN at 5990 Hodgson Road, Saint Paul, MN 55126). 4 car wash businesses are listed for Shoreview, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bp-car-wash-saint-paul",
+   "name": "BP Car Wash",
+   "summary": "BP Car Wash is a car wash in Saint Paul, MN at 5990 Hodgson Road, Saint Paul, MN 55126.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-car-wash-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-car-wash-saint-paul.json",
+   "address": {
+    "streetAddress": "5990 Hodgson Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55126",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55126",
+   "geo": {
+    "lat": 45.1237745,
+    "lon": -93.1265384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1318525268",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "mister-car-wash-shoreview",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Shoreview, MN at 4595 Hodgson Road, Shoreview, MN 55126.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-shoreview.json",
+   "address": {
+    "streetAddress": "4595 Hodgson Road",
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "postalCode": "55126",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "zip": "55126",
+   "geo": {
+    "lat": 45.0802429,
+    "lon": -93.1185332
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/385187222",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "tonys-wash-n-fill-shoreview",
+   "name": "Tony's Wash N Fill",
+   "summary": "Tony's Wash N Fill is a car wash in Shoreview, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tonys-wash-n-fill-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tonys-wash-n-fill-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0579374,
+    "lon": -93.1458702
+   },
+   "opening_hours": "07:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/165915408",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "speedy-wash-shoreview",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Shoreview, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1231878,
+    "lon": -93.1853577
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478643339",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "keyword": "vet eagan mn",
+ "slug": "vet-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "vet",
+ "query": "Who are the best vet providers in Eagan, MN?",
+ "matches": [
+  "vet in Eagan, MN",
+  "vet near me (Eagan, MN)",
+  "best vet Eagan, MN",
+  "top rated vet Eagan, MN",
+  "affordable vet Eagan, MN",
+  "emergency vet Eagan, MN"
+ ],
+ "answer": "The top unpaid vet listing for Eagan, MN is Banfield Pet Hospital (a veterinarian in Eagan, MN at 1278 Town Centre Drive, Eagan, MN 55123. Phone: +16516883001. Website: https://www.banfield.com/locations/veterinarians/mn/eagan/eag/). 6 vet businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "banfield-pet-hospital-eagan",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Eagan, MN at 1278 Town Centre Drive, Eagan, MN 55123. Phone: +16516883001. Website: https://www.banfield.com/locations/veterinarians/mn/eagan/eag/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-eagan.json",
+   "address": {
+    "streetAddress": "1278 Town Centre Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.830148,
+    "lon": -93.1628973
+   },
+   "phone": "+16516883001",
+   "website": "https://www.banfield.com/locations/veterinarians/mn/eagan/eag/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/460005308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "cliff-lake-veterinary-clinic-eagan",
+   "name": "Cliff Lake Veterinary Clinic",
+   "summary": "Cliff Lake Veterinary Clinic is a veterinarian in Eagan, MN at 1960 Cliff Lake Road, Eagan, MN 55122.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cliff-lake-veterinary-clinic-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cliff-lake-veterinary-clinic-eagan.json",
+   "address": {
+    "streetAddress": "1960 Cliff Lake Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.7942327,
+    "lon": -93.2039653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3269922301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "eagan-pet-clinic-eagan",
+   "name": "Eagan Pet Clinic",
+   "summary": "Eagan Pet Clinic is a veterinarian in Eagan, MN at 4395 Rahn Road, Eagan, MN 55122.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eagan-pet-clinic-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eagan-pet-clinic-eagan.json",
+   "address": {
+    "streetAddress": "4395 Rahn Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.7943272,
+    "lon": -93.2074212
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/320470602",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "pilot-knob-animal-hospital-eagan",
+   "name": "Pilot Knob Animal Hospital",
+   "summary": "Pilot Knob Animal Hospital is a veterinarian in Eagan, MN at 4145 Knob Drive, Eagan, MN 55122.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilot-knob-animal-hospital-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilot-knob-animal-hospital-eagan.json",
+   "address": {
+    "streetAddress": "4145 Knob Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.8069313,
+    "lon": -93.1681027
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/528914163",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "vet-eye-pros-eagan",
+   "name": "Vet Eye Pros",
+   "summary": "Vet Eye Pros is a veterinarian in Eagan, MN at 1380 Duckwood Drive #109, Eagan, MN 55123.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vet-eye-pros-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vet-eye-pros-eagan.json",
+   "address": {
+    "streetAddress": "1380 Duckwood Drive #109",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8269277,
+    "lon": -93.1651804
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1719957774",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "companion-animal-hospital-eagan",
+   "name": "Companion Animal Hospital",
+   "summary": "Companion Animal Hospital is a veterinarian in Eagan, MN.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/companion-animal-hospital-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8271422,
+    "lon": -93.1603408
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1374555601",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

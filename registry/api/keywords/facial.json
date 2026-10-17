@@ -1,0 +1,554 @@
+{
+ "keyword": "facial",
+ "slug": "facial",
+ "place": "the United States",
+ "service": "facial",
+ "query": "Who are the best facial providers in the United States?",
+ "matches": [
+  "facial in the United States",
+  "facial near me (the United States)",
+  "best facial the United States",
+  "top rated facial the United States",
+  "affordable facial the United States",
+  "emergency facial the United States"
+ ],
+ "answer": "The top unpaid facial listing for the United States is LABB Collective (a waxing salon in Edina, MN at 3941 Market Street, Edina, MN 55424. Phone: +16126055304. Website: https://labbcollective.com/). 16 facial businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "labb-collective-edina",
+   "name": "LABB Collective",
+   "summary": "LABB Collective is a waxing salon in Edina, MN at 3941 Market Street, Edina, MN 55424. Phone: +16126055304. Website: https://labbcollective.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/labb-collective-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/labb-collective-edina.json",
+   "address": {
+    "streetAddress": "3941 Market Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9132957,
+    "lon": -93.3314863
+   },
+   "phone": "+16126055304",
+   "website": "https://labbcollective.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116022",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "ulta-beauty-eden-prairie",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Eden Prairie, MN at 12591 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +16516155595. Website: https://www.ulta.com/stores/eden-prairie-mn-1648.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-eden-prairie.json",
+   "address": {
+    "streetAddress": "12591 Castlemoor Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8506786,
+    "lon": -93.4361125
+   },
+   "phone": "+16516155595",
+   "website": "https://www.ulta.com/stores/eden-prairie-mn-1648",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10597376678",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "ulta-beauty-maple-grove",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Maple Grove, MN at 12181 Elm Creek Boulevard North, Maple Grove, MN 55369. Phone: +17634255385. Website: https://www.ulta.com/stores/maple-grove-mn-136.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-maple-grove.json",
+   "address": {
+    "streetAddress": "12181 Elm Creek Boulevard North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0931145,
+    "lon": -93.4352394
+   },
+   "phone": "+17634255385",
+   "website": "https://www.ulta.com/stores/maple-grove-mn-136",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7146785819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "ulta-beauty-minneapolis",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Minneapolis, MN at 1050 West 78th Street, Minneapolis, MN 55423. Phone: +16128690150. Website: https://www.ulta.com/stores/richfield-mn-607.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-minneapolis.json",
+   "address": {
+    "streetAddress": "1050 West 78th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8630385,
+    "lon": -93.2932678
+   },
+   "phone": "+16128690150",
+   "website": "https://www.ulta.com/stores/richfield-mn-607",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4756650905",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "watershed-spa-minneapolis",
+   "name": "Watershed Spa",
+   "summary": "Watershed Spa is a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/watershed-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/watershed-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "514 Southeast 2nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9830368,
+    "lon": -93.2495555
+   },
+   "phone": "+16123314182",
+   "website": "https://www.watershedspa.com/",
+   "opening_hours": "Mo-Su 09:00-23:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13631283072",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "wrinkleboss-minneapolis",
+   "name": "Wrinkleboss",
+   "summary": "Wrinkleboss is a skin care studio in Minneapolis, MN at 4308 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16124052326. Website: https://wrinkleboss.co/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wrinkleboss-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wrinkleboss-minneapolis.json",
+   "address": {
+    "streetAddress": "4308 Bryant Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.9246645,
+    "lon": -93.291009
+   },
+   "phone": "+16124052326",
+   "website": "https://wrinkleboss.co/",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287810997",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "kalla-lily-maple-grove",
+   "name": "Kalla Lily",
+   "summary": "Kalla Lily is a spa in Maple Grove, MN at 9851 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +17634161700. Website: https://www.kallalily.com/home.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kalla-lily-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kalla-lily-maple-grove.json",
+   "address": {
+    "streetAddress": "9851 Maple Grove Parkway",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1333153,
+    "lon": -93.4773758
+   },
+   "phone": "+17634161700",
+   "website": "https://www.kallalily.com/home",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9291222005",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "sola-salons-roseville",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Roseville, MN at 2401 Fairview Avenue North, Roseville, MN. Phone: +16513646352. Website: https://www.solasalonstudios.com/locations/roseville.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-roseville.json",
+   "address": {
+    "streetAddress": "2401 Fairview Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0129813,
+    "lon": -93.179652
+   },
+   "phone": "+16513646352",
+   "website": "https://www.solasalonstudios.com/locations/roseville",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12994941464",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "schweiger-dermatology-group-edina-edina",
+   "name": "Schweiger Dermatology Group – Edina",
+   "summary": "Schweiger Dermatology Group – Edina is a skin care studio in Edina, MN at 4100 West 50th Street, Edina, MN 55424. Website: https://www.schweigerderm.com/location/minnesota/edina/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schweiger-dermatology-group-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schweiger-dermatology-group-edina-edina.json",
+   "address": {
+    "streetAddress": "4100 West 50th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9127425,
+    "lon": -93.332209
+   },
+   "website": "https://www.schweigerderm.com/location/minnesota/edina/",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11952199135",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "jett-beauty-jett-makeup-edina",
+   "name": "Jett Beauty - Jett Makeup",
+   "summary": "Jett Beauty - Jett Makeup is a skin care studio in Edina, MN. Website: https://jettbeauty.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jett-beauty-jett-makeup-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jett-beauty-jett-makeup-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9128038,
+    "lon": -93.3310873
+   },
+   "website": "https://jettbeauty.com/",
+   "opening_hours": "Mo,Tu,Th,Sa 09:00-17:00; We,Fr 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116019",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "laseraway-edina",
+   "name": "LaserAway",
+   "summary": "LaserAway is a skin care studio in Edina, MN. Website: https://www.laseraway.com/locations/mn/minneapolis/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laseraway-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laseraway-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9126644,
+    "lon": -93.3311149
+   },
+   "website": "https://www.laseraway.com/locations/mn/minneapolis/",
+   "opening_hours": "Mo 10:00-20:00; Tu,We 10:00-18:00; Th 10:00-20:00; Fr-Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "spa-sweet-minneapolis",
+   "name": "Spa Sweet",
+   "summary": "Spa Sweet is a nail salon in Minneapolis, MN at 4747 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16127993588.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spa-sweet-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spa-sweet-minneapolis.json",
+   "address": {
+    "streetAddress": "4747 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9163939,
+    "lon": -93.2624443
+   },
+   "phone": "+16127993588",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7651142709",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "sola-salons-edina",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Edina, MN at 3519 West 70th Street, Edina, MN 55435.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-edina.json",
+   "address": {
+    "streetAddress": "3519 West 70th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8754729,
+    "lon": -93.3256818
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810693556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "sola-salons-saint-louis-park",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Saint Louis Park, MN at 1675 Park Place Boulevard, Saint Louis Park, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1675 Park Place Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9663175,
+    "lon": -93.3490632
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13761447949",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "modern-roots-wayzata",
+   "name": "Modern Roots",
+   "summary": "Modern Roots is a skin care studio in Wayzata, MN.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/modern-roots-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/modern-roots-wayzata.json",
+   "address": {
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9722561,
+    "lon": -93.5013612
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8541854046",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "vively-wayzata",
+   "name": "Vively",
+   "summary": "Vively is a skin care studio in Wayzata, MN.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vively-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vively-wayzata.json",
+   "address": {
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "geo": {
+    "lat": 44.972276,
+    "lon": -93.5012878
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8541854040",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

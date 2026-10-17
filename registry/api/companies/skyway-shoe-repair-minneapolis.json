@@ -1,0 +1,51 @@
+{
+ "slug": "skyway-shoe-repair-minneapolis",
+ "name": "Skyway Shoe Repair",
+ "categories": [
+  "shoe repair"
+ ],
+ "keywords": [
+  "shoe repair",
+  "shoe repair minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "shoe repair",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9750967,
+  "lon": -93.2727561
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13410756368",
+ "osm": {
+  "type": "node",
+  "id": 13410756368,
+  "tags_used": {
+   "craft": "shoemaker"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/skyway-shoe-repair-minneapolis/",
+ "summary": "Skyway Shoe Repair is a shoe repair in Minneapolis, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

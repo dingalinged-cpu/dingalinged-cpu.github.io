@@ -1,0 +1,62 @@
+{
+ "keyword": "pet store inver grove heights mn",
+ "slug": "pet-store-inver-grove-heights-mn",
+ "place": "Inver Grove Heights, MN",
+ "service": "pet store",
+ "query": "Who are the best pet store providers in Inver Grove Heights, MN?",
+ "matches": [
+  "pet store in Inver Grove Heights, MN",
+  "pet store near me (Inver Grove Heights, MN)",
+  "best pet store Inver Grove Heights, MN",
+  "top rated pet store Inver Grove Heights, MN",
+  "affordable pet store Inver Grove Heights, MN",
+  "emergency pet store Inver Grove Heights, MN"
+ ],
+ "answer": "The top unpaid pet store listing for Inver Grove Heights, MN is Paws Abilities Dog Training (a pet store in Inver Grove Heights, MN at 6475 Cahill Avenue, Inver Grove Heights, MN 55076. Website: https://pawsabilitiesmn.com/). 1 pet store businesses are listed for Inver Grove Heights, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "paws-abilities-dog-training-inver-grove-heights",
+   "name": "Paws Abilities Dog Training",
+   "summary": "Paws Abilities Dog Training is a pet store in Inver Grove Heights, MN at 6475 Cahill Avenue, Inver Grove Heights, MN 55076. Website: https://pawsabilitiesmn.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paws-abilities-dog-training-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paws-abilities-dog-training-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "6475 Cahill Avenue",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8557606,
+    "lon": -93.0455387
+   },
+   "website": "https://pawsabilitiesmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5155386653",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

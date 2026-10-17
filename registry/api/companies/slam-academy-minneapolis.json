@@ -1,0 +1,53 @@
+{
+ "slug": "slam-academy-minneapolis",
+ "name": "Slam Academy",
+ "categories": [
+  "music lessons"
+ ],
+ "keywords": [
+  "music lessons",
+  "music lessons minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "music lessons",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9731202,
+  "lon": -93.2737845
+ },
+ "phone": "+16122937526",
+ "website": "https://slamacademy.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2527309568",
+ "osm": {
+  "type": "node",
+  "id": 2527309568,
+  "tags_used": {
+   "amenity": "music_school"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/slam-academy-minneapolis/",
+ "summary": "Slam Academy is a music school in Minneapolis, MN. Phone: +16122937526. Website: https://slamacademy.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,99 @@
+{
+ "keyword": "daycare blaine mn",
+ "slug": "daycare-blaine-mn",
+ "place": "Blaine, MN",
+ "service": "daycare",
+ "query": "Who are the best daycare providers in Blaine, MN?",
+ "matches": [
+  "daycare in Blaine, MN",
+  "daycare near me (Blaine, MN)",
+  "best daycare Blaine, MN",
+  "top rated daycare Blaine, MN",
+  "affordable daycare Blaine, MN",
+  "emergency daycare Blaine, MN"
+ ],
+ "answer": "The top unpaid daycare listing for Blaine, MN is New Creations Child Care & Learning Center | Blaine (a daycare in Blaine, MN at 12267 Aberdeen Street Northeast, Blaine, MN 55449. Phone: +17634475659. Website: https://www.newcreationschildcare.com/blaine). 2 daycare businesses are listed for Blaine, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "new-creations-child-care-and-learning-center-blaine-blaine",
+   "name": "New Creations Child Care & Learning Center | Blaine",
+   "summary": "New Creations Child Care & Learning Center | Blaine is a daycare in Blaine, MN at 12267 Aberdeen Street Northeast, Blaine, MN 55449. Phone: +17634475659. Website: https://www.newcreationschildcare.com/blaine.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-blaine-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-blaine-blaine.json",
+   "address": {
+    "streetAddress": "12267 Aberdeen Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1927778,
+    "lon": -93.2325542
+   },
+   "phone": "+17634475659",
+   "website": "https://www.newcreationschildcare.com/blaine",
+   "opening_hours": "Mo-Fr 07:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11030590505",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "new-creations-child-care-and-learning-center-blaine-at-lexington-blaine",
+   "name": "New Creations Child Care & Learning Center | Blaine (at Lexington)",
+   "summary": "New Creations Child Care & Learning Center | Blaine (at Lexington) is a daycare in Blaine, MN at 10301 Lexington Avenue Northeast, Blaine, MN 55014. Phone: +17636570387. Website: https://www.newcreationschildcare.com/blaine-at-lexington.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-blaine-at-lexington-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-blaine-at-lexington-blaine.json",
+   "address": {
+    "streetAddress": "10301 Lexington Avenue Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.1573407,
+    "lon": -93.1625908
+   },
+   "phone": "+17636570387",
+   "website": "https://www.newcreationschildcare.com/blaine-at-lexington",
+   "opening_hours": "Mo-Fr 06:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11030600305",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "great-clips-minnetonka",
+ "name": "Great Clips",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon minnetonka mn",
+  "haircut minnetonka mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4761 County Road 101",
+  "addressLocality": "Minnetonka",
+  "addressRegion": "MN",
+  "postalCode": "55345",
+  "addressCountry": "US"
+ },
+ "city": "Minnetonka",
+ "state": "MN",
+ "zip": "55345",
+ "geo": {
+  "lat": 44.9177663,
+  "lon": -93.5012173
+ },
+ "phone": "+19529330019",
+ "website": "https://salons.greatclips.com/",
+ "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-17:00; Su 09:00-15:00",
+ "brand": "Great Clips",
+ "wikidata": "Q5598967",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/846233317",
+ "osm": {
+  "type": "node",
+  "id": 846233317,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Minnetonka",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-minnetonka/",
+ "summary": "Great Clips is a hair salon in Minnetonka, MN at 4761 County Road 101, Minnetonka, MN 55345. Phone: +19529330019. Website: https://salons.greatclips.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

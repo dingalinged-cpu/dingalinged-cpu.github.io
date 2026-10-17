@@ -1,0 +1,54 @@
+{
+ "slug": "chanhassen-vetrinary-clinic-chanhassen",
+ "name": "Chanhassen Vetrinary Clinic",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store chanhassen mn"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "440 West 79th Street",
+  "addressLocality": "Chanhassen",
+  "addressRegion": "MN",
+  "postalCode": "55317",
+  "addressCountry": "US"
+ },
+ "city": "Chanhassen",
+ "state": "MN",
+ "zip": "55317",
+ "geo": {
+  "lat": 44.8601711,
+  "lon": -93.5318341
+ },
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3823589660",
+ "osm": {
+  "type": "node",
+  "id": 3823589660,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Chanhassen",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-vetrinary-clinic-chanhassen/",
+ "summary": "Chanhassen Vetrinary Clinic is a pet store in Chanhassen, MN at 440 West 79th Street, Chanhassen, MN 55317.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

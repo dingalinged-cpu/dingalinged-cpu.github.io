@@ -1,0 +1,59 @@
+{
+ "slug": "wayzata-dental-wayzata",
+ "name": "Wayzata Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist wayzata mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "250 Central Avenue North #202",
+  "addressLocality": "Wayzata",
+  "addressRegion": "MN",
+  "postalCode": "55391",
+  "addressCountry": "US"
+ },
+ "city": "Wayzata",
+ "state": "MN",
+ "zip": "55391",
+ "geo": {
+  "lat": 44.9742506,
+  "lon": -93.5014622
+ },
+ "phone": "+19524734900",
+ "website": "https://www.wayzatadental.com/",
+ "opening_hours": "Mo-Fr 07:00-16:30",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6236126673",
+ "osm": {
+  "type": "node",
+  "id": 6236126673,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "Dentist;Laser_Dentistry;Oral_Exam;Dental"
+  }
+ },
+ "municipality": "Wayzata",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/wayzata-dental-wayzata/",
+ "summary": "Wayzata Dental is a dentist in Wayzata, MN at 250 Central Avenue North #202, Wayzata, MN 55391. Phone: +19524734900. Website: https://www.wayzatadental.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

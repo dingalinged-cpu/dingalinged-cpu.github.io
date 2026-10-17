@@ -1,0 +1,23 @@
+Civil Site Group, PC is a business consultant in Golden Valley, MN at 5000 Glenwood Avenue, Golden Valley, MN 55422. Phone: +16126150060. Website: https://www.civilsitegroup.com/.
+
+# Civil Site Group, PC
+
+- Category: business consultant
+- Services: business consultant
+- Address: 5000 Glenwood Avenue, Golden Valley, MN 55422
+- City: Golden Valley
+- State: MN
+- ZIP: 55422
+- Coordinates: 44.9782701, -93.342167
+- Phone: +16126150060
+- Website: https://www.civilsitegroup.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/civil-site-group-pc-golden-valley/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/civil-site-group-pc-golden-valley.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/388506294 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

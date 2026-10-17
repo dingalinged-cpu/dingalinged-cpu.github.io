@@ -1,0 +1,62 @@
+{
+ "keyword": "staffing agency columbia heights mn",
+ "slug": "staffing-agency-columbia-heights-mn",
+ "place": "Columbia Heights, MN",
+ "service": "staffing agency",
+ "query": "Who are the best staffing agency providers in Columbia Heights, MN?",
+ "matches": [
+  "staffing agency in Columbia Heights, MN",
+  "staffing agency near me (Columbia Heights, MN)",
+  "best staffing agency Columbia Heights, MN",
+  "top rated staffing agency Columbia Heights, MN",
+  "affordable staffing agency Columbia Heights, MN",
+  "emergency staffing agency Columbia Heights, MN"
+ ],
+ "answer": "The top unpaid staffing agency listing for Columbia Heights, MN is Atlas Staffing (a staffing agency in Columbia Heights, MN at 4801 Central Avenue Northeast, Columbia Heights, MN. Phone: +17633330300. Website: https://atlasstaffinginc.com/contact/columbia-heights/). 1 staffing agency businesses are listed for Columbia Heights, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "atlas-staffing-columbia-heights",
+   "name": "Atlas Staffing",
+   "summary": "Atlas Staffing is a staffing agency in Columbia Heights, MN at 4801 Central Avenue Northeast, Columbia Heights, MN. Phone: +17633330300. Website: https://atlasstaffinginc.com/contact/columbia-heights/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlas-staffing-columbia-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlas-staffing-columbia-heights.json",
+   "address": {
+    "streetAddress": "4801 Central Avenue Northeast",
+    "addressLocality": "Columbia Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Columbia Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0555031,
+    "lon": -93.2469056
+   },
+   "phone": "+17633330300",
+   "website": "https://atlasstaffinginc.com/contact/columbia-heights/",
+   "opening_hours": "Mo-Fr 06:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13116384422",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Oak Liquor is a liquor store in Oakdale, MN at 1801 Geneva Avenue North, Oakdale, MN 55128. Phone: +16517399739. Website: https://oak-liquor.business.site/.
+
+# Oak Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1801 Geneva Avenue North, Oakdale, MN 55128
+- City: Oakdale
+- State: MN
+- ZIP: 55128
+- Coordinates: 44.9754538, -92.9840193
+- Phone: +16517399739
+- Website: https://oak-liquor.business.site/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/oak-liquor-oakdale/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/oak-liquor-oakdale.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1180104009 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

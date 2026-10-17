@@ -1,0 +1,91 @@
+{
+ "keyword": "liquor store wayzata mn",
+ "slug": "liquor-store-wayzata-mn",
+ "place": "Wayzata, MN",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in Wayzata, MN?",
+ "matches": [
+  "liquor store in Wayzata, MN",
+  "liquor store near me (Wayzata, MN)",
+  "best liquor store Wayzata, MN",
+  "top rated liquor store Wayzata, MN",
+  "affordable liquor store Wayzata, MN",
+  "emergency liquor store Wayzata, MN"
+ ],
+ "answer": "The top unpaid liquor store listing for Wayzata, MN is Navarre Liquors Inc (a liquor store in Wayzata, MN at 4321 Shoreline Drive, Wayzata, MN 55391. Phone: +19524718800). 2 liquor store businesses are listed for Wayzata, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "navarre-liquors-inc-wayzata",
+   "name": "Navarre Liquors Inc",
+   "summary": "Navarre Liquors Inc is a liquor store in Wayzata, MN at 4321 Shoreline Drive, Wayzata, MN 55391. Phone: +19524718800.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/navarre-liquors-inc-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/navarre-liquors-inc-wayzata.json",
+   "address": {
+    "streetAddress": "4321 Shoreline Drive",
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "postalCode": "55391",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "zip": "55391",
+   "geo": {
+    "lat": 44.934292,
+    "lon": -93.6102817
+   },
+   "phone": "+19524718800",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12123539257",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "wayzata-wine-and-spirits-wayzata",
+   "name": "Wayzata Wine & Spirits",
+   "summary": "Wayzata Wine & Spirits is a liquor store in Wayzata, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wayzata-wine-and-spirits-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wayzata-wine-and-spirits-wayzata.json",
+   "address": {
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9694959,
+    "lon": -93.5091539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4117121581",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

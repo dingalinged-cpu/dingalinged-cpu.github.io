@@ -1,0 +1,60 @@
+{
+ "slug": "the-ups-store-saint-louis-park",
+ "name": "The UPS Store",
+ "categories": [
+  "printing services"
+ ],
+ "keywords": [
+  "printing services",
+  "printing services saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "printing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5115 Excelsior Boulevard",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9307143,
+  "lon": -93.346544
+ },
+ "phone": "+19529278137",
+ "website": "https://locations.theupsstore.com/mn/saint-louis-park/5115-excelsior-blvd",
+ "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-16:00; PH closed",
+ "brand": "The UPS Store",
+ "wikidata": "Q7771029",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2246717603",
+ "osm": {
+  "type": "node",
+  "id": 2246717603,
+  "tags_used": {
+   "shop": "copyshop",
+   "amenity": "post_office"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-saint-louis-park/",
+ "summary": "The UPS Store is a printing service in Saint Louis Park, MN at 5115 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529278137. Website: https://locations.theupsstore.com/mn/saint-louis-park/5115-excelsior-blvd.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

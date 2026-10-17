@@ -1,0 +1,57 @@
+{
+ "slug": "slumberland-furnature-eagan",
+ "name": "Slumberland Furnature",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store eagan mn"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1257 Northwood Parkway",
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "postalCode": "55121",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "zip": "55121",
+ "geo": {
+  "lat": 44.8376689,
+  "lon": -93.1565622
+ },
+ "phone": "+16514050700",
+ "website": "https://stores.slumberland.com/mn/eagan/1257-northwood-parkway-09",
+ "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/350242402",
+ "osm": {
+  "type": "way",
+  "id": 350242402,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-furnature-eagan/",
+ "summary": "Slumberland Furnature is a furniture store in Eagan, MN at 1257 Northwood Parkway, Eagan, MN 55121. Phone: +16514050700. Website: https://stores.slumberland.com/mn/eagan/1257-northwood-parkway-09.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

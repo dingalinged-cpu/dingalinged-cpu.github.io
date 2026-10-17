@@ -1,0 +1,90 @@
+{
+ "keyword": "insurance agent new brighton mn",
+ "slug": "insurance-agent-new-brighton-mn",
+ "place": "New Brighton, MN",
+ "service": "insurance agent",
+ "query": "Who are the best insurance agent providers in New Brighton, MN?",
+ "matches": [
+  "insurance agent in New Brighton, MN",
+  "insurance agent near me (New Brighton, MN)",
+  "best insurance agent New Brighton, MN",
+  "top rated insurance agent New Brighton, MN",
+  "affordable insurance agent New Brighton, MN",
+  "emergency insurance agent New Brighton, MN"
+ ],
+ "answer": "The top unpaid insurance agent listing for New Brighton, MN is American Family Insurance (an insurance agent in New Brighton, MN at 201 Silver Lake Road Northwest #B, New Brighton, MN. Phone: +16512550015. Website: https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr). 2 insurance agent businesses are listed for New Brighton, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "american-family-insurance-new-brighton",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in New Brighton, MN at 201 Silver Lake Road Northwest #B, New Brighton, MN. Phone: +16512550015. Website: https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-new-brighton.json",
+   "address": {
+    "streetAddress": "201 Silver Lake Road Northwest #B",
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0515136,
+    "lon": -93.217439
+   },
+   "phone": "+16512550015",
+   "website": "https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12947628740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "farmers-insurance-new-brighton",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in New Brighton, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0588397,
+    "lon": -93.1933261
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7360557228",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,343 @@
+{
+ "keyword": "tailor minneapolis mn",
+ "slug": "tailor-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "tailor",
+ "query": "Who are the best tailor providers in Minneapolis, MN?",
+ "matches": [
+  "tailor in Minneapolis, MN",
+  "tailor near me (Minneapolis, MN)",
+  "best tailor Minneapolis, MN",
+  "top rated tailor Minneapolis, MN",
+  "affordable tailor Minneapolis, MN",
+  "emergency tailor Minneapolis, MN"
+ ],
+ "answer": "The top unpaid tailor listing for Minneapolis, MN is Sew Biz Tailoring (a tailor in Minneapolis, MN at 706 2nd Avenue South, Minneapolis, MN 55402. Phone: +16123326364. Website: https://sewbiztailoring.com/). 10 tailor businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "sew-biz-tailoring-minneapolis",
+   "name": "Sew Biz Tailoring",
+   "summary": "Sew Biz Tailoring is a tailor in Minneapolis, MN at 706 2nd Avenue South, Minneapolis, MN 55402. Phone: +16123326364. Website: https://sewbiztailoring.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-biz-tailoring-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-biz-tailoring-minneapolis.json",
+   "address": {
+    "streetAddress": "706 2nd Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55402",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55402",
+   "geo": {
+    "lat": 44.9755888,
+    "lon": -93.269903
+   },
+   "phone": "+16123326364",
+   "website": "https://sewbiztailoring.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4679771192",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "j-hilburn-stylist-studio-minneapolis",
+   "name": "J. Hilburn Stylist Studio",
+   "summary": "J. Hilburn Stylist Studio is a tailor in Minneapolis, MN at 5047 France Avenue South, Minneapolis, MN 55410. Website: https://jennifershinners.jhilburn.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-hilburn-stylist-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-hilburn-stylist-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "5047 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9111106,
+    "lon": -93.3289006
+   },
+   "website": "https://jennifershinners.jhilburn.com/",
+   "opening_hours": "We-Sa 11:00-17:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12143327853",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "northeast-tailor-shop-minneapolis",
+   "name": "Northeast Tailor Shop",
+   "summary": "Northeast Tailor Shop is a tailor in Minneapolis, MN at 2831 Northeast Johnson Street, Minneapolis, MN. Phone: +16127813810.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northeast-tailor-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northeast-tailor-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "2831 Northeast Johnson Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0195921,
+    "lon": -93.236966
+   },
+   "phone": "+16127813810",
+   "opening_hours": "Mo-Fr 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8169224524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "irinas-stitch-in-time-minneapolis",
+   "name": "Irina's Stitch in Time",
+   "summary": "Irina's Stitch in Time is a tailor in Minneapolis, MN at 3021 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128224744.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/irinas-stitch-in-time-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/irinas-stitch-in-time-minneapolis.json",
+   "address": {
+    "streetAddress": "3021 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9476558,
+    "lon": -93.2879089
+   },
+   "phone": "+16128224744",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5294111683",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "sew-simple-minneapolis",
+   "name": "Sew Simple",
+   "summary": "Sew Simple is a tailor in Minneapolis, MN at 2424 Nicollet Avenue South, Minneapolis, MN 55404.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-simple-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-simple-minneapolis.json",
+   "address": {
+    "streetAddress": "2424 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9582168,
+    "lon": -93.2781153
+   },
+   "opening_hours": "11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617359207",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "elenis-tailoring-minneapolis",
+   "name": "Eleni's Tailoring",
+   "summary": "Eleni's Tailoring is a tailor in Minneapolis, MN at West Lake Street, Minneapolis, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elenis-tailoring-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elenis-tailoring-minneapolis.json",
+   "address": {
+    "streetAddress": "West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485046,
+    "lon": -93.3027802
+   },
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6450215751",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "lovelys-sewing-and-arts-collective-minneapolis",
+   "name": "Lovely's Sewing & Arts Collective",
+   "summary": "Lovely's Sewing & Arts Collective is a tailor in Minneapolis, MN. Website: https://www.lovelyssewing.org/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovelys-sewing-and-arts-collective-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovelys-sewing-and-arts-collective-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758771,
+    "lon": -93.2717532
+   },
+   "website": "https://www.lovelyssewing.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410756369",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "chi-tailors-and-cleaners-minneapolis",
+   "name": "Chi Tailors and Cleaners",
+   "summary": "Chi Tailors and Cleaners is a tailor in Minneapolis, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chi-tailors-and-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chi-tailors-and-cleaners-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9613268,
+    "lon": -93.2882535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12698037506",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "lindas-minneapolis",
+   "name": "Linda's",
+   "summary": "Linda's is a tailor in Minneapolis, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lindas-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lindas-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485545,
+    "lon": -93.2195066
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12209239828",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "sew-what-minneapolis",
+   "name": "Sew What!",
+   "summary": "Sew What! is a tailor in Minneapolis, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-what-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-what-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9741623,
+    "lon": -93.2714076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410756378",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

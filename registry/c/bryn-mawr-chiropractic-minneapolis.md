@@ -1,0 +1,23 @@
+Bryn Mawr Chiropractic is a chiropractor in Minneapolis, MN at 402 Penn Avenue South, Minneapolis, MN 55405. Phone: +16123773248. Website: https://www.brynmawrchiro.com/.
+
+# Bryn Mawr Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 402 Penn Avenue South, Minneapolis, MN 55405
+- City: Minneapolis
+- State: MN
+- ZIP: 55405
+- Coordinates: 44.9734464, -93.3085267
+- Phone: +16123773248
+- Website: https://www.brynmawrchiro.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bryn-mawr-chiropractic-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bryn-mawr-chiropractic-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9104267201 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

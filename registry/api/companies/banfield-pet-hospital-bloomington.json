@@ -1,0 +1,59 @@
+{
+ "slug": "banfield-pet-hospital-bloomington",
+ "name": "Banfield Pet Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet bloomington mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10538 France Avenue South",
+  "addressLocality": "Bloomington",
+  "addressRegion": "MN",
+  "postalCode": "55431",
+  "addressCountry": "US"
+ },
+ "city": "Bloomington",
+ "state": "MN",
+ "zip": "55431",
+ "geo": {
+  "lat": 44.8121594,
+  "lon": -93.3322128
+ },
+ "phone": "+19528881586",
+ "website": "https://banfield.com/",
+ "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off",
+ "brand": "Banfield Pet Hospital",
+ "wikidata": "Q2882416",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13783820540",
+ "osm": {
+  "type": "node",
+  "id": 13783820540,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Bloomington",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-bloomington/",
+ "summary": "Banfield Pet Hospital is a veterinarian in Bloomington, MN at 10538 France Avenue South, Bloomington, MN 55431. Phone: +19528881586. Website: https://banfield.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

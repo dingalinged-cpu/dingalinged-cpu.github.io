@@ -1,0 +1,58 @@
+{
+ "slug": "5-tan-shakopee",
+ "name": "$5 Tan",
+ "categories": [
+  "tanning salon"
+ ],
+ "keywords": [
+  "tanning salon",
+  "tanning salon shakopee mn"
+ ],
+ "services": [
+  {
+   "name": "tanning salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1102 Vierling Drive East",
+  "addressLocality": "Shakopee",
+  "addressRegion": "MN",
+  "postalCode": "55379",
+  "addressCountry": "US"
+ },
+ "city": "Shakopee",
+ "state": "MN",
+ "zip": "55379",
+ "geo": {
+  "lat": 44.7818187,
+  "lon": -93.5091018
+ },
+ "phone": "+19524020800",
+ "website": "https://5dollartan.com/l",
+ "opening_hours": "Mo-Fr 8:00-20:00; Sa-Su 8:00-20:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/535792767",
+ "osm": {
+  "type": "node",
+  "id": 535792767,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "tanning"
+  }
+ },
+ "municipality": "Shakopee",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/5-tan-shakopee/",
+ "summary": "$5 Tan is a tanning salon in Shakopee, MN at 1102 Vierling Drive East, Shakopee, MN 55379. Phone: +19524020800. Website: https://5dollartan.com/l.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

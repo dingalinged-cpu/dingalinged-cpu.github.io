@@ -1,0 +1,58 @@
+{
+ "keyword": "waxing eagan mn",
+ "slug": "waxing-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "waxing",
+ "query": "Who are the best waxing providers in Eagan, MN?",
+ "matches": [
+  "waxing in Eagan, MN",
+  "waxing near me (Eagan, MN)",
+  "best waxing Eagan, MN",
+  "top rated waxing Eagan, MN",
+  "affordable waxing Eagan, MN",
+  "emergency waxing Eagan, MN"
+ ],
+ "answer": "The top unpaid waxing listing for Eagan, MN is European Wax Center (a waxing salon in Eagan, MN). 1 waxing businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "european-wax-center-eagan",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Eagan, MN.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8359494,
+    "lon": -93.1695461
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724662588",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Top 10 Liquors is a liquor store in Roseville, MN at 1609 West County Road C, Roseville, MN. Phone: +16513401846. Website: https://toptenliquors.com/.
+
+# Top 10 Liquors
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1609 West County Road C, Roseville, MN
+- City: Roseville
+- State: MN
+- ZIP: n/a
+- Coordinates: 45.0226394, -93.1702195
+- Phone: +16513401846
+- Website: https://toptenliquors.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 11:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/top-10-liquors-roseville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/top-10-liquors-roseville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6566813793 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

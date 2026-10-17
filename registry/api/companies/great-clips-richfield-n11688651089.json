@@ -1,0 +1,62 @@
+{
+ "slug": "great-clips-richfield-n11688651089",
+ "name": "Great Clips",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon richfield mn",
+  "haircut richfield mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6549 Lyndale Avenue South",
+  "addressLocality": "Richfield",
+  "addressRegion": "MN",
+  "postalCode": "55423",
+  "addressCountry": "US"
+ },
+ "city": "Richfield",
+ "state": "MN",
+ "zip": "55423",
+ "geo": {
+  "lat": 44.8837168,
+  "lon": -93.2858175
+ },
+ "brand": "Great Clips",
+ "wikidata": "Q5598967",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11688651089",
+ "osm": {
+  "type": "node",
+  "id": 11688651089,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Richfield",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-richfield-n11688651089/",
+ "summary": "Great Clips is a hair salon in Richfield, MN at 6549 Lyndale Avenue South, Richfield, MN 55423.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

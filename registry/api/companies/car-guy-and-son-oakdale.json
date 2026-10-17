@@ -1,0 +1,59 @@
+{
+ "slug": "car-guy-and-son-oakdale",
+ "name": "Car Guy & Son",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair oakdale mn",
+  "mechanic oakdale mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6027 Georgia Boulevard North",
+  "addressLocality": "Oakdale",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Oakdale",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0191363,
+  "lon": -92.9840369
+ },
+ "phone": "+16517773797",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13055261416",
+ "osm": {
+  "type": "node",
+  "id": 13055261416,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Oakdale",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/car-guy-and-son-oakdale/",
+ "summary": "Car Guy & Son is an auto repair shop in Oakdale, MN at 6027 Georgia Boulevard North, Oakdale, MN. Phone: +16517773797.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

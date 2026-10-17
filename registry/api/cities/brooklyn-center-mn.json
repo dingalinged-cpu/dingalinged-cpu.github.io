@@ -1,0 +1,445 @@
+{
+ "place": "Brooklyn Center, MN",
+ "slug": "brooklyn-center-mn",
+ "count": 13,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-brooklyn-center-mn.json"
+  },
+  {
+   "keyword": "car wash brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-brooklyn-center-mn.json"
+  },
+  {
+   "keyword": "dentist brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-brooklyn-center-mn.json"
+  },
+  {
+   "keyword": "funeral home brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-brooklyn-center-mn.json"
+  },
+  {
+   "keyword": "furniture store brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-brooklyn-center-mn.json"
+  },
+  {
+   "keyword": "gym brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-brooklyn-center-mn.json"
+  },
+  {
+   "keyword": "mechanic brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-brooklyn-center-mn.json"
+  },
+  {
+   "keyword": "storage units brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-brooklyn-center-mn.json"
+  },
+  {
+   "keyword": "tire shop brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-brooklyn-center-mn.json"
+  },
+  {
+   "keyword": "window repair brooklyn center mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-repair-brooklyn-center-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "firestone-brooklyn-center",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Brooklyn Center, MN at 5445 Xerxes Avenue North, Brooklyn Center, MN 55430. Phone: +17633541870. Website: https://www.firestonecompleteautocare.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-brooklyn-center.json",
+   "address": {
+    "streetAddress": "5445 Xerxes Avenue North",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0538458,
+    "lon": -93.321931
+   },
+   "phone": "+17633541870",
+   "website": "https://www.firestonecompleteautocare.com/",
+   "opening_hours": "Mo-Sa 07:00-18:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12048245070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "glass-specialists-llc-brooklyn-center",
+   "name": "Glass Specialists LLC",
+   "summary": "Glass Specialists LLC is a window repair service in Brooklyn Center, MN at 6660 Shingle Creek Pkwy #Suite B, Brooklyn Center, MN 55430. Phone: +16514241936. Website: https://glassspecialistsllc.com/.",
+   "categories": [
+    "window repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glass-specialists-llc-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glass-specialists-llc-brooklyn-center.json",
+   "address": {
+    "streetAddress": "6660 Shingle Creek Pkwy #Suite B",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0758858,
+    "lon": -93.3048854
+   },
+   "phone": "+16514241936",
+   "website": "https://glassspecialistsllc.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13930837443",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brooklyn-blvd-dental-brooklyn-center",
+   "name": "Brooklyn Blvd. Dental",
+   "summary": "Brooklyn Blvd. Dental is a dentist in Brooklyn Center, MN at 5831 Brooklyn Boulevard, Brooklyn Center, MN 55429. Phone: +17635338669. Website: https://brooklynblvddental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brooklyn-blvd-dental-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brooklyn-blvd-dental-brooklyn-center.json",
+   "address": {
+    "streetAddress": "5831 Brooklyn Boulevard",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55429",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55429",
+   "geo": {
+    "lat": 45.0614191,
+    "lon": -93.3256555
+   },
+   "phone": "+17635338669",
+   "website": "https://brooklynblvddental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1039199196",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-brooklyn-center",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Brooklyn Center, MN at 1450 Shingle Creek Crossing, Brooklyn Center, MN 55430. Phone: +16518460207. Website: https://www.discounttire.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-brooklyn-center.json",
+   "address": {
+    "streetAddress": "1450 Shingle Creek Crossing",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0579078,
+    "lon": -93.3207576
+   },
+   "phone": "+16518460207",
+   "website": "https://www.discounttire.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/875263442",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "evans-nordby-funeral-homes-brooklyn-center-brooklyn-center",
+   "name": "Evans-Nordby Funeral Homes - Brooklyn Center",
+   "summary": "Evans-Nordby Funeral Homes - Brooklyn Center is a funeral home in Brooklyn Center, MN at 6000 Brooklyn Boulevard, Brooklyn Center, MN 55429. Phone: +17635333000. Website: https://www.evansnordby.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evans-nordby-funeral-homes-brooklyn-center-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evans-nordby-funeral-homes-brooklyn-center-brooklyn-center.json",
+   "address": {
+    "streetAddress": "6000 Brooklyn Boulevard",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55429",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55429",
+   "geo": {
+    "lat": 45.0642381,
+    "lon": -93.3248727
+   },
+   "phone": "+17635333000",
+   "website": "https://www.evansnordby.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6374365685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "park-dental-brookpark-brooklyn-center",
+   "name": "Park Dental Brookpark",
+   "summary": "Park Dental Brookpark is a dentist in Brooklyn Center, MN at 6437 Brooklyn Boulevard, Brooklyn Center, MN. Phone: +17635317177. Website: https://www.parkdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-dental-brookpark-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-dental-brookpark-brooklyn-center.json",
+   "address": {
+    "streetAddress": "6437 Brooklyn Boulevard",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0718108,
+    "lon": -93.3300046
+   },
+   "phone": "+17635317177",
+   "website": "https://www.parkdental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10134443644",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pop-car-wash-brooklyn-center",
+   "name": "Pop! Car Wash",
+   "summary": "Pop! Car Wash is a car wash in Brooklyn Center, MN at 1080 Shingle Creek Crossing, Brooklyn Center, MN 55430.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pop-car-wash-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pop-car-wash-brooklyn-center.json",
+   "address": {
+    "streetAddress": "1080 Shingle Creek Crossing",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0585712,
+    "lon": -93.3145285
+   },
+   "opening_hours": "Mo-Fr 07:30-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1031050894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "extra-space-storage-brooklyn-center",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Brooklyn Center, MN at 5721 Logan Avenue North, Brooklyn Center, MN 55430.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-brooklyn-center.json",
+   "address": {
+    "streetAddress": "5721 Logan Avenue North",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0598227,
+    "lon": -93.3048351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1434884122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hom-furniture-brooklyn-center",
+   "name": "HOM Furniture",
+   "summary": "HOM Furniture is a furniture store in Brooklyn Center, MN at 2501 County Road 10, Brooklyn Center, MN 55430.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hom-furniture-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hom-furniture-brooklyn-center.json",
+   "address": {
+    "streetAddress": "2501 County Road 10",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0583606,
+    "lon": -93.3113795
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/126102163",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-brooklyn-center",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Brooklyn Center, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-brooklyn-center.json",
+   "address": {
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0584974,
+    "lon": -93.3193182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/746497280",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "napa-autocare-center-brooklyn-center",
+   "name": "NAPA AutoCare Center",
+   "summary": "NAPA AutoCare Center is an auto repair shop in Brooklyn Center, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/napa-autocare-center-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/napa-autocare-center-brooklyn-center.json",
+   "address": {
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0513655,
+    "lon": -93.2936712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1258088776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-brooklyn-center",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Brooklyn Center, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-brooklyn-center.json",
+   "address": {
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0815048,
+    "lon": -93.3376914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478538955",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-brooklyn-center-n12478589865",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Brooklyn Center, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-brooklyn-center-n12478589865/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-brooklyn-center-n12478589865.json",
+   "address": {
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0737693,
+    "lon": -93.2878532
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478589865",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

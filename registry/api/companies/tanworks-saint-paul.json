@@ -1,0 +1,55 @@
+{
+ "slug": "tanworks-saint-paul",
+ "name": "TanWorks",
+ "categories": [
+  "tanning salon"
+ ],
+ "keywords": [
+  "tanning salon",
+  "tanning salon saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "tanning salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "80 Snelling Avenue #Ste D",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55104",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55104",
+ "geo": {
+  "lat": 44.9434237,
+  "lon": -93.1660575
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7685403555",
+ "osm": {
+  "type": "node",
+  "id": 7685403555,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "tanning"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tanworks-saint-paul/",
+ "summary": "TanWorks is a tanning salon in Saint Paul, MN at 80 Snelling Avenue #Ste D, Saint Paul, MN 55104.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

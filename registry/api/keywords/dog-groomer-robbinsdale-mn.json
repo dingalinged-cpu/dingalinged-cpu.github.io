@@ -1,0 +1,61 @@
+{
+ "keyword": "dog groomer robbinsdale mn",
+ "slug": "dog-groomer-robbinsdale-mn",
+ "place": "Robbinsdale, MN",
+ "service": "dog groomer",
+ "query": "Who are the best dog groomer providers in Robbinsdale, MN?",
+ "matches": [
+  "dog groomer in Robbinsdale, MN",
+  "dog groomer near me (Robbinsdale, MN)",
+  "best dog groomer Robbinsdale, MN",
+  "top rated dog groomer Robbinsdale, MN",
+  "affordable dog groomer Robbinsdale, MN",
+  "emergency dog groomer Robbinsdale, MN"
+ ],
+ "answer": "The top unpaid dog groomer listing for Robbinsdale, MN is Bark & Bathe (a dog groomer in Robbinsdale, MN at 3833 West Broadway Avenue, Robbinsdale, MN 55422). 1 dog groomer businesses are listed for Robbinsdale, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bark-and-bathe-robbinsdale",
+   "name": "Bark & Bathe",
+   "summary": "Bark & Bathe is a dog groomer in Robbinsdale, MN at 3833 West Broadway Avenue, Robbinsdale, MN 55422.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bark-and-bathe-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bark-and-bathe-robbinsdale.json",
+   "address": {
+    "streetAddress": "3833 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0257546,
+    "lon": -93.3333133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232225729",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

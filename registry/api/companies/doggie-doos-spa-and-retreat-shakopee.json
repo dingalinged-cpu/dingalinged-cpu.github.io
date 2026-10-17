@@ -1,0 +1,56 @@
+{
+ "slug": "doggie-doos-spa-and-retreat-shakopee",
+ "name": "Doggie Doo's Spa and Retreat",
+ "categories": [
+  "dog groomer"
+ ],
+ "keywords": [
+  "dog groomer",
+  "dog groomer shakopee mn"
+ ],
+ "services": [
+  {
+   "name": "dog groomer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2555 Vierling Drive West",
+  "addressLocality": "Shakopee",
+  "addressRegion": "MN",
+  "postalCode": "55379",
+  "addressCountry": "US"
+ },
+ "city": "Shakopee",
+ "state": "MN",
+ "zip": "55379",
+ "geo": {
+  "lat": 44.7839845,
+  "lon": -93.5570019
+ },
+ "phone": "+19524455262",
+ "website": "https://www.doggiedoosspaandretreat.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/966565468",
+ "osm": {
+  "type": "way",
+  "id": 966565468,
+  "tags_used": {
+   "shop": "pet_grooming"
+  }
+ },
+ "municipality": "Shakopee",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/doggie-doos-spa-and-retreat-shakopee/",
+ "summary": "Doggie Doo's Spa and Retreat is a dog groomer in Shakopee, MN at 2555 Vierling Drive West, Shakopee, MN 55379. Phone: +19524455262. Website: https://www.doggiedoosspaandretreat.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

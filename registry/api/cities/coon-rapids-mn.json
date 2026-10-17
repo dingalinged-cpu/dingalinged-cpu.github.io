@@ -1,0 +1,1565 @@
+{
+ "place": "Coon Rapids, MN",
+ "slug": "coon-rapids-mn",
+ "count": 47,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "bike shop coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "car wash coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "chiropractor coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "daycare coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "dentist coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "dry cleaners coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "financial advisor coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "furniture store coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "gym coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "hair salon coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "haircut coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "insurance agency coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "insurance agent coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "insurance agents coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "liquor store coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "mechanic coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "nail salon coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "pet store coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "preschool coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "real estate agent coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "realtor coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "roofer coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "roofing contractor coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "spa coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/spa-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "tanning salon coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "therapist coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "thrift store coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "tire shop coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-coon-rapids-mn.json"
+  },
+  {
+   "keyword": "window replacement coon rapids mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-replacement-coon-rapids-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "aaa-insurance-coon-rapids",
+   "name": "AAA Insurance",
+   "summary": "AAA Insurance is an insurance agent in Coon Rapids, MN at 2150 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17634274110. Website: https://mn-ia.aaa.com/Branches/Branch.aspx?branchid=CGQ.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaa-insurance-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaa-insurance-coon-rapids.json",
+   "address": {
+    "streetAddress": "2150 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1821151,
+    "lon": -93.320833
+   },
+   "phone": "+17634274110",
+   "website": "https://mn-ia.aaa.com/Branches/Branch.aspx?branchid=CGQ",
+   "opening_hours": "Mo-Fr 08:30-17:30; Sa-Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9319816189",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alpha-contracting-coon-rapids",
+   "name": "Alpha Contracting",
+   "summary": "Alpha Contracting is a roofer in Coon Rapids, MN at 11375 Robinson Drive Northwest, Coon Rapids, MN 55433. Phone: +16125989868. Website: https://alphacontracting.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpha-contracting-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpha-contracting-coon-rapids.json",
+   "address": {
+    "streetAddress": "11375 Robinson Drive Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1781233,
+    "lon": -93.3097142
+   },
+   "phone": "+16125989868",
+   "website": "https://alphacontracting.com/",
+   "opening_hours": "Mo-Sa 07:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12922870999",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "eriks-bike-board-ski-coon-rapids",
+   "name": "ERIK'S Bike Board Ski",
+   "summary": "ERIK'S Bike Board Ski is a bike shop in Coon Rapids, MN at 2120 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17638620091. Website: https://www.eriksbikeshop.com/store/coon-rapids-mn-55433/Cnrp.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eriks-bike-board-ski-coon-rapids.json",
+   "address": {
+    "streetAddress": "2120 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1819675,
+    "lon": -93.3208399
+   },
+   "phone": "+17638620091",
+   "website": "https://www.eriksbikeshop.com/store/coon-rapids-mn-55433/Cnrp",
+   "opening_hours": "Mo-Fr 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6575710317",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "farmers-insurance-coon-rapids",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Coon Rapids, MN at 11490 Hanson Boulevard Northwest #Ste C, Coon Rapids, MN 55433. Phone: +17633237637. Website: https://agents.farmers.com/mn/coon-rapids/kevin-krejsa.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-coon-rapids.json",
+   "address": {
+    "streetAddress": "11490 Hanson Boulevard Northwest #Ste C",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1790354,
+    "lon": -93.3181043
+   },
+   "phone": "+17633237637",
+   "website": "https://agents.farmers.com/mn/coon-rapids/kevin-krejsa",
+   "opening_hours": "Mo-Fr 8:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9247350038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-coon-rapids",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Coon Rapids, MN at 11491 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +16123148360. Website: https://www.firestonecompleteautocare.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-coon-rapids.json",
+   "address": {
+    "streetAddress": "11491 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1788886,
+    "lon": -93.316725
+   },
+   "phone": "+16123148360",
+   "website": "https://www.firestonecompleteautocare.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1002159003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fit-the-bill-construction-llc-coon-rapids",
+   "name": "Fit The Bill Construction LLC",
+   "summary": "Fit The Bill Construction LLC is a roofer in Coon Rapids, MN at 9531 Foley Boulevard Northwest, Coon Rapids, MN 55433. Phone: +16129007560. Website: https://fitthebillconstruction.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fit-the-bill-construction-llc-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fit-the-bill-construction-llc-coon-rapids.json",
+   "address": {
+    "streetAddress": "9531 Foley Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1427402,
+    "lon": -93.2851284
+   },
+   "phone": "+16129007560",
+   "website": "https://fitthebillconstruction.com/",
+   "opening_hours": "Mo-Fr 07:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7174594316",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-coon-rapids-n9191803479",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Coon Rapids, MN at 2032 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17638624015. Website: https://salons.greatclips.com/us/mn/coon-rapids/2032-northdale-blvd.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-coon-rapids-n9191803479/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-coon-rapids-n9191803479.json",
+   "address": {
+    "streetAddress": "2032 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1805652,
+    "lon": -93.3181038
+   },
+   "phone": "+17638624015",
+   "website": "https://salons.greatclips.com/us/mn/coon-rapids/2032-northdale-blvd",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-15:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9191803479",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "life-time-coon-rapids-coon-rapids",
+   "name": "Life Time - Coon Rapids",
+   "summary": "Life Time - Coon Rapids is a gym in Coon Rapids, MN at 2100 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637679000. Website: https://www.lifetime.life/life-time-locations/mn-coon-rapids.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-coon-rapids-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-coon-rapids-coon-rapids.json",
+   "address": {
+    "streetAddress": "2100 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1808868,
+    "lon": -93.3206799
+   },
+   "phone": "+17637679000",
+   "website": "https://www.lifetime.life/life-time-locations/mn-coon-rapids.html",
+   "opening_hours": "Mo-Fr 05:00-23:00; Sa-Su 06:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317005283",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "modeen-company-coon-rapids",
+   "name": "Modeen Company",
+   "summary": "Modeen Company is a window installer in Coon Rapids, MN at 1285 114th Avenue Northwest #140, Coon Rapids, MN 55448. Phone: +17634253600. Website: https://modeenwindowanddoor.com/.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/modeen-company-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/modeen-company-coon-rapids.json",
+   "address": {
+    "streetAddress": "1285 114th Avenue Northwest #140",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55448",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55448",
+   "geo": {
+    "lat": 45.1780203,
+    "lon": -93.2987843
+   },
+   "phone": "+17634253600",
+   "website": "https://modeenwindowanddoor.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5505225930",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "new-creations-child-care-and-learning-center-coon-rapids-coon-rapids",
+   "name": "New Creations Child Care & Learning Center | Coon Rapids",
+   "summary": "New Creations Child Care & Learning Center | Coon Rapids is a daycare in Coon Rapids, MN at 1805 Gateway Drive Northwest, Coon Rapids, MN 55448. Phone: +17636001335. Website: https://www.newcreationschildcare.com/riverdale.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-coon-rapids-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-coon-rapids-coon-rapids.json",
+   "address": {
+    "streetAddress": "1805 Gateway Drive Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55448",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55448",
+   "geo": {
+    "lat": 45.1860638,
+    "lon": -93.3124991
+   },
+   "phone": "+17636001335",
+   "website": "https://www.newcreationschildcare.com/riverdale",
+   "opening_hours": "Mo-Fr 06:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11030619805",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "north-suburban-agencies-coon-rapids",
+   "name": "North Suburban Agencies",
+   "summary": "North Suburban Agencies is an insurance agent in Coon Rapids, MN at 11421 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637552300. Website: https://nsagencies.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-suburban-agencies-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-suburban-agencies-coon-rapids.json",
+   "address": {
+    "streetAddress": "11421 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1780016,
+    "lon": -93.3162204
+   },
+   "phone": "+17637552300",
+   "website": "https://nsagencies.com/",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249369717",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petco-coon-rapids",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Coon Rapids, MN at 3380 124th Avenue Northwest, Coon Rapids, MN 55433. Phone: +17635769100. Website: https://stores.petco.com/mn/coonrapids/pet-supplies-coonrapids-mn-884.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-coon-rapids.json",
+   "address": {
+    "streetAddress": "3380 124th Avenue Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.194668,
+    "lon": -93.3525435
+   },
+   "phone": "+17635769100",
+   "website": "https://stores.petco.com/mn/coonrapids/pet-supplies-coonrapids-mn-884.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9650304175",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "silverstar-car-wash-coon-rapids",
+   "name": "Silverstar Car Wash",
+   "summary": "Silverstar Car Wash is a car wash in Coon Rapids, MN at 2085 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17048700250. Website: https://www.silverstarcarwashes.com/locations/coon-rapids/mn/coon-creek/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silverstar-car-wash-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silverstar-car-wash-coon-rapids.json",
+   "address": {
+    "streetAddress": "2085 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1824571,
+    "lon": -93.3191609
+   },
+   "phone": "+17048700250",
+   "website": "https://www.silverstarcarwashes.com/locations/coon-rapids/mn/coon-creek/",
+   "opening_hours": "Mo-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1431561294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-coon-rapids",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Coon Rapids, MN at 11413 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637557350. Website: https://www.rjbergstrom.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-coon-rapids.json",
+   "address": {
+    "streetAddress": "11413 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1780522,
+    "lon": -93.3162269
+   },
+   "phone": "+17637557350",
+   "website": "https://www.rjbergstrom.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa,Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249369715",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tafoya-salon-coon-rapids",
+   "name": "Tafoya Salon",
+   "summary": "Tafoya Salon is a hair salon in Coon Rapids, MN at 2160 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17634270511. Website: https://tafoyasalon.info/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tafoya-salon-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tafoya-salon-coon-rapids.json",
+   "address": {
+    "streetAddress": "2160 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1822527,
+    "lon": -93.3208243
+   },
+   "phone": "+17634270511",
+   "website": "https://tafoyasalon.info/",
+   "opening_hours": "Mo 09:00-18:00; Tu-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9319816190",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "total-health-and-healing-center-coon-rapids",
+   "name": "Total Health and Healing Center",
+   "summary": "Total Health and Healing Center is a chiropractor in Coon Rapids, MN at 11417 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541482. Website: https://totalhealthandhealing.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-health-and-healing-center-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-health-and-healing-center-coon-rapids.json",
+   "address": {
+    "streetAddress": "11417 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1780968,
+    "lon": -93.3162225
+   },
+   "phone": "+17637541482",
+   "website": "https://totalhealthandhealing.com/",
+   "opening_hours": "Mo-We 08:00-19:00; We-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249369714",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ashworth-real-estate-coon-rapids",
+   "name": "Ashworth Real Estate",
+   "summary": "Ashworth Real Estate is a real estate agency in Coon Rapids, MN at 11417 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +16512147258. Website: https://realtygroupmn.com/coon-rapids-team-2/matt-ashworth-licensed-real-estate-agent.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashworth-real-estate-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashworth-real-estate-coon-rapids.json",
+   "address": {
+    "streetAddress": "11417 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1781327,
+    "lon": -93.3164722
+   },
+   "phone": "+16512147258",
+   "website": "https://realtygroupmn.com/coon-rapids-team-2/matt-ashworth-licensed-real-estate-agent",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249369712",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hwy-10-car-care-coon-rapids",
+   "name": "Hwy 10 Car Care",
+   "summary": "Hwy 10 Car Care is an auto repair shop in Coon Rapids, MN. Phone: +17637576789. Website: https://hwy10carcare.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hwy-10-car-care-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hwy-10-car-care-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1800743,
+    "lon": -93.31749
+   },
+   "phone": "+17637576789",
+   "website": "https://hwy10carcare.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249380549",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "new-horizon-academy-coon-rapids-w1002158993",
+   "name": "New Horizon Academy",
+   "summary": "New Horizon Academy is a preschool in Coon Rapids, MN at 11441 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637553064. Website: https://www.newhorizonacademy.net/location/coon-rapids/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-coon-rapids-w1002158993/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-horizon-academy-coon-rapids-w1002158993.json",
+   "address": {
+    "streetAddress": "11441 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1783143,
+    "lon": -93.3167677
+   },
+   "phone": "+17637553064",
+   "website": "https://www.newhorizonacademy.net/location/coon-rapids/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1002158993",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "oakwood-insurance-agency-coon-rapids",
+   "name": "Oakwood Insurance Agency",
+   "summary": "Oakwood Insurance Agency is an insurance agent in Coon Rapids, MN at 2003 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541825. Website: https://oakwoodinsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oakwood-insurance-agency-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oakwood-insurance-agency-coon-rapids.json",
+   "address": {
+    "streetAddress": "2003 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1811535,
+    "lon": -93.3178286
+   },
+   "phone": "+17637541825",
+   "website": "https://oakwoodinsurance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1033662809",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ben-nails-and-spa-coon-rapids",
+   "name": "Ben Nails & Spa",
+   "summary": "Ben Nails & Spa is a nail salon in Coon Rapids, MN at 2026 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637550903.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ben-nails-and-spa-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ben-nails-and-spa-coon-rapids.json",
+   "address": {
+    "streetAddress": "2026 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1805673,
+    "lon": -93.3181996
+   },
+   "phone": "+17637550903",
+   "opening_hours": "Sa 11:00-18:00; Su 11:00-17:00; Mo-Fr 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9191803478",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "talking-heads-salon-coon-rapids",
+   "name": "Talking Heads Salon",
+   "summary": "Talking Heads Salon is a hair salon in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +16122207281.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/talking-heads-salon-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/talking-heads-salon-coon-rapids.json",
+   "address": {
+    "streetAddress": "11427 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1781234,
+    "lon": -93.3164289
+   },
+   "phone": "+16122207281",
+   "opening_hours": "Mo,Th 13:00-21:00; Tu,We 11:00-18:00; Fr 09:00-17:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249369716",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anoka-psychological-services-coon-rapids",
+   "name": "Anoka Psychological Services",
+   "summary": "Anoka Psychological Services is a therapy practice in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541531.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anoka-psychological-services-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anoka-psychological-services-coon-rapids.json",
+   "address": {
+    "streetAddress": "11427 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1781234,
+    "lon": -93.316335
+   },
+   "phone": "+17637541531",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249369713",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "darque-tan-coon-rapids",
+   "name": "Darque Tan",
+   "summary": "Darque Tan is a tanning salon in Coon Rapids, MN at 13131 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17638622663.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/darque-tan-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/darque-tan-coon-rapids.json",
+   "address": {
+    "streetAddress": "13131 Riverdale Drive NW",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55448",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55448",
+   "geo": {
+    "lat": 45.2090963,
+    "lon": -93.3583511
+   },
+   "phone": "+17638622663",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952077",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "new-horizon-academy-coon-rapids",
+   "name": "New Horizon Academy",
+   "summary": "New Horizon Academy is a preschool in Coon Rapids, MN at 13130 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17635533099.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-horizon-academy-coon-rapids.json",
+   "address": {
+    "streetAddress": "13130 Riverdale Drive NW",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55448",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55448",
+   "geo": {
+    "lat": 45.209203,
+    "lon": -93.3598451
+   },
+   "phone": "+17635533099",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/51161637",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "precision-tune-auto-care-coon-rapids",
+   "name": "Precision Tune Auto Care",
+   "summary": "Precision Tune Auto Care is an auto repair shop in Coon Rapids, MN at 2831 Coon Rapids Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17632751390.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/precision-tune-auto-care-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/precision-tune-auto-care-coon-rapids.json",
+   "address": {
+    "streetAddress": "2831 Coon Rapids Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1720185,
+    "lon": -93.3392762
+   },
+   "phone": "+17632751390",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/744896810",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "furniture-and-things-coon-rapids",
+   "name": "Furniture & Things",
+   "summary": "Furniture & Things is a furniture store in Coon Rapids, MN at 2163 Coon Rapids Boulevard Northwest, Coon Rapids, MN. Phone: +17637554149.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furniture-and-things-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furniture-and-things-coon-rapids.json",
+   "address": {
+    "streetAddress": "2163 Coon Rapids Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1638087,
+    "lon": -93.3227107
+   },
+   "phone": "+17637554149",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/745483529",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "black-sheep-barber-studio-coon-rapids",
+   "name": "Black Sheep Barber Studio",
+   "summary": "Black Sheep Barber Studio is a hair salon in Coon Rapids, MN at 3359 Coon Rapids Boulevard Northwest, Coon Rapids, MN 55433.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/black-sheep-barber-studio-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/black-sheep-barber-studio-coon-rapids.json",
+   "address": {
+    "streetAddress": "3359 Coon Rapids Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1782882,
+    "lon": -93.3520773
+   },
+   "opening_hours": "Tu-Fr 09:00-18:30; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8063645908",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-coon-rapids",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Coon Rapids, MN. Phone: +17634214381.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.207936,
+    "lon": -93.358622
+   },
+   "phone": "+17634214381",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952069",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kalla-lilly-coon-rapids",
+   "name": "Kalla Lilly",
+   "summary": "Kalla Lilly is a hair salon in Coon Rapids, MN. Phone: +17633230777.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kalla-lilly-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kalla-lilly-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2086313,
+    "lon": -93.3597401
+   },
+   "phone": "+17633230777",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952097",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "metro-dental-care-coon-rapids",
+   "name": "Metro Dental Care",
+   "summary": "Metro Dental Care is a dentist in Coon Rapids, MN. Phone: +17633233042.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-dental-care-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-dental-care-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2083177,
+    "lon": -93.3611701
+   },
+   "phone": "+17633233042",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952171",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pilgrim-cleaners-coon-rapids",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Coon Rapids, MN. Phone: +17633239949.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2080871,
+    "lon": -93.3584072
+   },
+   "phone": "+17633239949",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952098",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "turn-style-coon-rapids",
+   "name": "Turn Style",
+   "summary": "Turn Style is a thrift store in Coon Rapids, MN. Phone: +17634216686.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/turn-style-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/turn-style-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2061804,
+    "lon": -93.361889
+   },
+   "phone": "+17634216686",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952187",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "abc-dental-pa-coon-rapids",
+   "name": "ABC Dental PA",
+   "summary": "ABC Dental PA is a dentist in Coon Rapids, MN at 3371 Coon Rapids Boulevard Northwest, Coon Rapids, MN 55433.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abc-dental-pa-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abc-dental-pa-coon-rapids.json",
+   "address": {
+    "streetAddress": "3371 Coon Rapids Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.178526,
+    "lon": -93.3521183
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6972451704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-coon-rapids",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Coon Rapids, MN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2056673,
+    "lon": -93.3587449
+   },
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/51161625",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edward-jones-coon-rapids",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Coon Rapids, MN at 11650 Round Lake Boulevard Northwest, Coon Rapids, MN 55433.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-coon-rapids.json",
+   "address": {
+    "streetAddress": "11650 Round Lake Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1828721,
+    "lon": -93.3638271
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6972153954",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "summit-dental-care-coon-rapids",
+   "name": "Summit Dental Care",
+   "summary": "Summit Dental Care is a dentist in Coon Rapids, MN at 10756 Butternut Street Northwest, Coon Rapids, MN 55448.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/summit-dental-care-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/summit-dental-care-coon-rapids.json",
+   "address": {
+    "streetAddress": "10756 Butternut Street Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55448",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55448",
+   "geo": {
+    "lat": 45.1659568,
+    "lon": -93.267215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13089392420",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "team-liquor-wine-and-spirits-coon-rapids",
+   "name": "Team Liquor Wine & Spirits",
+   "summary": "Team Liquor Wine & Spirits is a liquor store in Coon Rapids, MN at 1921 Coon Rapids Boulevard Northwest, Coon Rapids, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/team-liquor-wine-and-spirits-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/team-liquor-wine-and-spirits-coon-rapids.json",
+   "address": {
+    "streetAddress": "1921 Coon Rapids Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1612344,
+    "lon": -93.316434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/745358333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chase-cole-galleries-coon-rapids",
+   "name": "Chase Cole Galleries",
+   "summary": "Chase Cole Galleries is a furniture store in Coon Rapids, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chase-cole-galleries-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chase-cole-galleries-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1726143,
+    "lon": -93.3447918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/696025366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-coon-rapids",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Coon Rapids, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1744982,
+    "lon": -93.3442669
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5019060764",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jerrys-bike-shop-coon-rapids",
+   "name": "Jerry's Bike Shop",
+   "summary": "Jerry's Bike Shop is a bike shop in Coon Rapids, MN.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jerrys-bike-shop-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jerrys-bike-shop-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1850689,
+    "lon": -93.3721966
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/699298335",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kindercare-coon-rapids",
+   "name": "KinderCare",
+   "summary": "KinderCare is a daycare in Coon Rapids, MN.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1905627,
+    "lon": -93.3106507
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/669740264",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "osage-dental-associates-coon-rapids",
+   "name": "Osage Dental Associates",
+   "summary": "Osage Dental Associates is a dentist in Coon Rapids, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/osage-dental-associates-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/osage-dental-associates-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1786804,
+    "lon": -93.3187152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9236659368",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "r-c-liquors-coon-rapids",
+   "name": "R/C Liquors",
+   "summary": "R/C Liquors is a liquor store in Coon Rapids, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-c-liquors-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-c-liquors-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2063486,
+    "lon": -93.3618353
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952194",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sarah-nails-coon-rapids",
+   "name": "Sarah Nails",
+   "summary": "Sarah Nails is a hair salon in Coon Rapids, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sarah-nails-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sarah-nails-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2080399,
+    "lon": -93.3586167
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/653287051",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-coon-rapids",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Coon Rapids, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1551555,
+    "lon": -93.3051247
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478609969",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wiser-choice-liquor-coon-rapids",
+   "name": "Wiser Choice Liquor",
+   "summary": "Wiser Choice Liquor is a liquor store in Coon Rapids, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wiser-choice-liquor-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wiser-choice-liquor-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1723721,
+    "lon": -93.3399704
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/744895710",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

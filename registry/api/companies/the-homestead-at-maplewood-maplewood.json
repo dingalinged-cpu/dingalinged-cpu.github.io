@@ -1,0 +1,56 @@
+{
+ "slug": "the-homestead-at-maplewood-maplewood",
+ "name": "The Homestead at Maplewood",
+ "categories": [
+  "assisted living"
+ ],
+ "keywords": [
+  "assisted living",
+  "assisted living maplewood mn"
+ ],
+ "services": [
+  {
+   "name": "assisted living",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1890 Sherren Avenue East",
+  "addressLocality": "Maplewood",
+  "addressRegion": "MN",
+  "postalCode": "55109",
+  "addressCountry": "US"
+ },
+ "city": "Maplewood",
+ "state": "MN",
+ "zip": "55109",
+ "geo": {
+  "lat": 45.0105386,
+  "lon": -93.0207227
+ },
+ "phone": "+16517703959",
+ "website": "https://www.voaseniorliving.org/communities/the-homestead-at-maplewood/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/784317513",
+ "osm": {
+  "type": "way",
+  "id": 784317513,
+  "tags_used": {
+   "amenity": "social_facility"
+  }
+ },
+ "municipality": "Maplewood",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-homestead-at-maplewood-maplewood/",
+ "summary": "The Homestead at Maplewood is an assisted living facility in Maplewood, MN at 1890 Sherren Avenue East, Maplewood, MN 55109. Phone: +16517703959. Website: https://www.voaseniorliving.org/communities/the-homestead-at-maplewood/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

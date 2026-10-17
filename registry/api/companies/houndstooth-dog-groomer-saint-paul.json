@@ -1,0 +1,51 @@
+{
+ "slug": "houndstooth-dog-groomer-saint-paul",
+ "name": "Houndstooth Dog Groomer",
+ "categories": [
+  "dog groomer"
+ ],
+ "keywords": [
+  "dog groomer",
+  "dog groomer saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "dog groomer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9272076,
+  "lon": -93.1871246
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13608457353",
+ "osm": {
+  "type": "node",
+  "id": 13608457353,
+  "tags_used": {
+   "shop": "pet_grooming"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/houndstooth-dog-groomer-saint-paul/",
+ "summary": "Houndstooth Dog Groomer is a dog groomer in Saint Paul, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

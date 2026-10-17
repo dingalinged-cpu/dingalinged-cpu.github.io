@@ -1,0 +1,117 @@
+{
+ "keyword": "tax preparer new hope mn",
+ "slug": "tax-preparer-new-hope-mn",
+ "place": "New Hope, MN",
+ "service": "tax preparer",
+ "query": "Who are the best tax preparer providers in New Hope, MN?",
+ "matches": [
+  "tax preparer in New Hope, MN",
+  "tax preparer near me (New Hope, MN)",
+  "best tax preparer New Hope, MN",
+  "top rated tax preparer New Hope, MN",
+  "affordable tax preparer New Hope, MN",
+  "emergency tax preparer New Hope, MN"
+ ],
+ "answer": "The top unpaid tax preparer listing for New Hope, MN is H&R Block (a tax preparation service in New Hope, MN at 3542 Winnetka Avenue North, New Hope, MN). 3 tax preparer businesses are listed for New Hope, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "h-and-r-block-new-hope",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in New Hope, MN at 3542 Winnetka Avenue North, New Hope, MN.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-new-hope.json",
+   "address": {
+    "streetAddress": "3542 Winnetka Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0210984,
+    "lon": -93.3788668
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4183839911",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "jackson-hewitt-new-hope",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in New Hope, MN.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0336554,
+    "lon": -93.3819396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7089810772",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "liberty-tax-new-hope",
+   "name": "Liberty Tax",
+   "summary": "Liberty Tax is a tax preparation service in New Hope, MN.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liberty-tax-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0091178,
+    "lon": -93.3811934
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7120251589",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

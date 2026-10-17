@@ -1,0 +1,55 @@
+{
+ "slug": "edward-jones-new-brighton",
+ "name": "Edward Jones",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor new brighton mn"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "201 Silver Lake Road Northwest #A",
+  "addressLocality": "New Brighton",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "New Brighton",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0514162,
+  "lon": -93.2174412
+ },
+ "phone": "+16516338998",
+ "brand": "Edward Jones",
+ "wikidata": "Q5343830",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12947628739",
+ "osm": {
+  "type": "node",
+  "id": 12947628739,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "New Brighton",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-new-brighton/",
+ "summary": "Edward Jones is a financial advisor in New Brighton, MN at 201 Silver Lake Road Northwest #A, New Brighton, MN. Phone: +16516338998.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "becklund-jewelers-eden-prairie",
+ "name": "Becklund Jewelers",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store eden prairie mn"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Eden Prairie",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Eden Prairie",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8530258,
+  "lon": -93.4291649
+ },
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4751256644",
+ "osm": {
+  "type": "node",
+  "id": 4751256644,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Eden Prairie",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/becklund-jewelers-eden-prairie/",
+ "summary": "Becklund Jewelers is a jewelry store in Eden Prairie, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

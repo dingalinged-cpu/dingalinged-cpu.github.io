@@ -1,0 +1,23 @@
+Goodwill is a thrift store in Roseville, MN at 2500, Roseville, MN.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: 2500, Roseville, MN
+- City: Roseville
+- State: MN
+- ZIP: n/a
+- Coordinates: 45.0164589, -93.1862955
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-roseville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-roseville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/38452458 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

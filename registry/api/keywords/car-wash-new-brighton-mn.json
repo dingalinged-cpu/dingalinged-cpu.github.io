@@ -1,0 +1,58 @@
+{
+ "keyword": "car wash new brighton mn",
+ "slug": "car-wash-new-brighton-mn",
+ "place": "New Brighton, MN",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in New Brighton, MN?",
+ "matches": [
+  "car wash in New Brighton, MN",
+  "car wash near me (New Brighton, MN)",
+  "best car wash New Brighton, MN",
+  "top rated car wash New Brighton, MN",
+  "affordable car wash New Brighton, MN",
+  "emergency car wash New Brighton, MN"
+ ],
+ "answer": "The top unpaid car wash listing for New Brighton, MN is Stevies Gas and Splash (a car wash in New Brighton, MN). 1 car wash businesses are listed for New Brighton, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "stevies-gas-and-splash-new-brighton",
+   "name": "Stevies Gas and Splash",
+   "summary": "Stevies Gas and Splash is a car wash in New Brighton, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stevies-gas-and-splash-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stevies-gas-and-splash-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0551958,
+    "lon": -93.1976381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/787328202",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "keyword": "massage fort snelling unorganized territory mn",
+ "slug": "massage-fort-snelling-unorganized-territory-mn",
+ "place": "Fort Snelling Unorganized Territory, MN",
+ "service": "massage",
+ "query": "Who are the best massage providers in Fort Snelling Unorganized Territory, MN?",
+ "matches": [
+  "massage in Fort Snelling Unorganized Territory, MN",
+  "massage near me (Fort Snelling Unorganized Territory, MN)",
+  "best massage Fort Snelling Unorganized Territory, MN",
+  "top rated massage Fort Snelling Unorganized Territory, MN",
+  "affordable massage Fort Snelling Unorganized Territory, MN",
+  "emergency massage Fort Snelling Unorganized Territory, MN"
+ ],
+ "answer": "The top unpaid massage listing for Fort Snelling Unorganized Territory, MN is The Chiroport Chiropractic (a massage studio in Fort Snelling Unorganized Territory, MN). 2 massage businesses are listed for Fort Snelling Unorganized Territory, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "the-chiroport-chiropractic-fort-snelling-unorganized-territory",
+   "name": "The Chiroport Chiropractic",
+   "summary": "The Chiroport Chiropractic is a massage studio in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-chiroport-chiropractic-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-chiroport-chiropractic-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8814702,
+    "lon": -93.2106495
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387501088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "xpresspa-fort-snelling-unorganized-territory",
+   "name": "XpresSpa",
+   "summary": "XpresSpa is a massage studio in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/xpresspa-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/xpresspa-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8849348,
+    "lon": -93.2105956
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5744517021",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "eriks-bike-vadnais-heights",
+ "name": "Erik's Bike",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop vadnais heights mn"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Vadnais Heights",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Vadnais Heights",
+ "state": "MN",
+ "geo": {
+  "lat": 45.051694,
+  "lon": -93.063719
+ },
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5571918691",
+ "osm": {
+  "type": "node",
+  "id": 5571918691,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Vadnais Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/eriks-bike-vadnais-heights/",
+ "summary": "Erik's Bike is a bike shop in Vadnais Heights, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

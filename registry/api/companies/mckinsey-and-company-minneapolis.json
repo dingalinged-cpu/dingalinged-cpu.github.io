@@ -1,0 +1,54 @@
+{
+ "slug": "mckinsey-and-company-minneapolis",
+ "name": "McKinsey & Company",
+ "categories": [
+  "business consultant"
+ ],
+ "keywords": [
+  "business consultant",
+  "business consultant minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "business consultant",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9764705,
+  "lon": -93.2751805
+ },
+ "phone": "+16123713100",
+ "website": "https://www.mckinsey.com/midwest/minneapolis",
+ "wikidata": "Q310207",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6661087680",
+ "osm": {
+  "type": "node",
+  "id": 6661087680,
+  "tags_used": {
+   "office": "consulting"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/mckinsey-and-company-minneapolis/",
+ "summary": "McKinsey & Company is a business consultant in Minneapolis, MN. Phone: +16123713100. Website: https://www.mckinsey.com/midwest/minneapolis.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

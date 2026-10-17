@@ -1,0 +1,62 @@
+{
+ "keyword": "insurance agents newport mn",
+ "slug": "insurance-agents-newport-mn",
+ "place": "Newport, MN",
+ "service": "insurance agents",
+ "query": "Who are the best insurance agents providers in Newport, MN?",
+ "matches": [
+  "insurance agents in Newport, MN",
+  "insurance agents near me (Newport, MN)",
+  "best insurance agents Newport, MN",
+  "top rated insurance agents Newport, MN",
+  "affordable insurance agents Newport, MN",
+  "emergency insurance agents Newport, MN"
+ ],
+ "answer": "The top unpaid insurance agents listing for Newport, MN is RSI Agency (an insurance agent in Newport, MN at 745 High Street #3, Newport, MN 55055. Website: https://www.rsiins.com/). 1 insurance agents businesses are listed for Newport, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "rsi-agency-newport",
+   "name": "RSI Agency",
+   "summary": "RSI Agency is an insurance agent in Newport, MN at 745 High Street #3, Newport, MN 55055. Website: https://www.rsiins.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rsi-agency-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rsi-agency-newport.json",
+   "address": {
+    "streetAddress": "745 High Street #3",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.8754624,
+    "lon": -93.0005953
+   },
+   "website": "https://www.rsiins.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/977366472",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Hat Trick Liquors is a liquor store in South Saint Paul, MN at 1150 Southview Boulevard, South Saint Paul, MN 55075. Phone: +16515521996.
+
+# Hat Trick Liquors
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1150 Southview Boulevard, South Saint Paul, MN 55075
+- City: South Saint Paul
+- State: MN
+- ZIP: 55075
+- Coordinates: 44.8893099, -93.048312
+- Phone: +16515521996
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-21:55
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hat-trick-liquors-south-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hat-trick-liquors-south-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/447124503 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

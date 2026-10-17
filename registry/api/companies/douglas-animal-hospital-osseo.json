@@ -1,0 +1,54 @@
+{
+ "slug": "douglas-animal-hospital-osseo",
+ "name": "Douglas Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet osseo mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "116 Central Avenue",
+  "addressLocality": "Osseo",
+  "addressRegion": "MN",
+  "postalCode": "55369",
+  "addressCountry": "US"
+ },
+ "city": "Osseo",
+ "state": "MN",
+ "zip": "55369",
+ "geo": {
+  "lat": 45.1176733,
+  "lon": -93.401917
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/766064545",
+ "osm": {
+  "type": "way",
+  "id": 766064545,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Osseo",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/douglas-animal-hospital-osseo/",
+ "summary": "Douglas Animal Hospital is a veterinarian in Osseo, MN at 116 Central Avenue, Osseo, MN 55369.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

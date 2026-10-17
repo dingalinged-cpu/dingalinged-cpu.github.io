@@ -1,0 +1,445 @@
+{
+ "keyword": "dentist edina mn",
+ "slug": "dentist-edina-mn",
+ "place": "Edina, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Edina, MN?",
+ "matches": [
+  "dentist in Edina, MN",
+  "dentist near me (Edina, MN)",
+  "best dentist Edina, MN",
+  "top rated dentist Edina, MN",
+  "affordable dentist Edina, MN",
+  "emergency dentist Edina, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Edina, MN is Heidi Brandenburg, DDS (a dentist in Edina, MN at 3948 West 50th Street #Suite 201, Edina, MN 55424. Phone: +19529002077. Website: https://www.hb-dds.com/). 13 dentist businesses are listed for Edina, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "heidi-brandenburg-dds-edina",
+   "name": "Heidi Brandenburg, DDS",
+   "summary": "Heidi Brandenburg, DDS is a dentist in Edina, MN at 3948 West 50th Street #Suite 201, Edina, MN 55424. Phone: +19529002077. Website: https://www.hb-dds.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heidi-brandenburg-dds-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heidi-brandenburg-dds-edina.json",
+   "address": {
+    "streetAddress": "3948 West 50th Street #Suite 201",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9127405,
+    "lon": -93.3314685
+   },
+   "phone": "+19529002077",
+   "website": "https://www.hb-dds.com/",
+   "opening_hours": "Mo-Tu 07:30-17:00; We 07:00-14:00; Th 07:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116012",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "h-lsa-edina-dental-edina",
+   "name": "Hälsa Edina Dental",
+   "summary": "Hälsa Edina Dental is a dentist in Edina, MN at 3948 West 50th Street #Suite 205, Edina, MN 55424. Phone: +19529228111. Website: https://www.halsaedina.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-lsa-edina-dental-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-lsa-edina-dental-edina.json",
+   "address": {
+    "streetAddress": "3948 West 50th Street #Suite 205",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9128932,
+    "lon": -93.3313324
+   },
+   "phone": "+19529228111",
+   "website": "https://www.halsaedina.com/",
+   "opening_hours": "Mo-We 07:00-16:00; Th 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088878",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "interlachen-dental-associates-edina",
+   "name": "Interlachen Dental Associates",
+   "summary": "Interlachen Dental Associates is a dentist in Edina, MN. Phone: +19529209579. Website: https://interlachendental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/interlachen-dental-associates-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/interlachen-dental-associates-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9109704,
+    "lon": -93.3546801
+   },
+   "phone": "+19529209579",
+   "website": "https://interlachendental.com/",
+   "opening_hours": "Mo-Th 07:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335504029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "pan-orthodontics-edina",
+   "name": "Pan Orthodontics",
+   "summary": "Pan Orthodontics is a dentist in Edina, MN. Phone: +19529263747. Website: https://www.panorthodontics.com/edina/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pan-orthodontics-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pan-orthodontics-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9107622,
+    "lon": -93.3548103
+   },
+   "phone": "+19529263747",
+   "website": "https://www.panorthodontics.com/edina/",
+   "opening_hours": "Mo-Th 07:00-16:00; Fr 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335479796",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "the-dentists-house-of-edina-edina",
+   "name": "The Dentist's House of Edina",
+   "summary": "The Dentist's House of Edina is a dentist in Edina, MN at 3930 Sunnyside Road, Edina, MN 55424. Phone: +19529299131. Website: https://www.dentistshouse.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dentists-house-of-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dentists-house-of-edina-edina.json",
+   "address": {
+    "streetAddress": "3930 Sunnyside Road",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9214317,
+    "lon": -93.330278
+   },
+   "phone": "+19529299131",
+   "website": "https://www.dentistshouse.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/390529015",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "gentle-dentistry-edina",
+   "name": "Gentle Dentistry",
+   "summary": "Gentle Dentistry is a dentist in Edina, MN at 5107 Gus Young Lane, Edina, MN 55436. Website: https://smilemn.com/edina/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gentle-dentistry-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gentle-dentistry-edina.json",
+   "address": {
+    "streetAddress": "5107 Gus Young Lane",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9112839,
+    "lon": -93.3527775
+   },
+   "website": "https://smilemn.com/edina/",
+   "opening_hours": "Mo 07:00-16:00; Tu 08:00-18:00; We 07:00-17:00; Th 07:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12272163248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "44th-street-dental-edina",
+   "name": "44th Street Dental",
+   "summary": "44th Street Dental is a dentist in Edina, MN at 3925 West 44th Street, Edina, MN 55424. Website: https://www.44thstdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/44th-street-dental-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/44th-street-dental-edina.json",
+   "address": {
+    "streetAddress": "3925 West 44th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9221429,
+    "lon": -93.3306567
+   },
+   "website": "https://www.44thstdental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1170470513",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "anderson-dentalcare-edina",
+   "name": "Anderson Dentalcare",
+   "summary": "Anderson Dentalcare is a dentist in Edina, MN. Website: https://rjandersondds.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anderson-dentalcare-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anderson-dentalcare-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9120465,
+    "lon": -93.3299826
+   },
+   "website": "https://rjandersondds.com/",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867396",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "edina-dental-care-edina",
+   "name": "Edina Dental Care",
+   "summary": "Edina Dental Care is a dentist in Edina, MN. Website: https://www.edinadentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-dental-care-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-dental-care-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9121117,
+    "lon": -93.3304322
+   },
+   "website": "https://www.edinadentalcare.com/",
+   "opening_hours": "Mo 07:30-16:30; Tu 09:00-15:30; We 07:30-16:30; Th 07:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088880",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "50th-and-france-dental-care-edina",
+   "name": "50th and France Dental Care",
+   "summary": "50th and France Dental Care is a dentist in Edina, MN. Website: https://www.50thandfrancedentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/50th-and-france-dental-care-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/50th-and-france-dental-care-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9120534,
+    "lon": -93.3304285
+   },
+   "website": "https://www.50thandfrancedentalcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867368",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "edina-endodontics-edina",
+   "name": "Edina Endodontics",
+   "summary": "Edina Endodontics is a dentist in Edina, MN. Website: https://edinaendo.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-endodontics-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-endodontics-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9121244,
+    "lon": -93.3303777
+   },
+   "website": "https://edinaendo.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "edina-orthodontics-50th-and-france-edina",
+   "name": "Edina Orthodontics - 50th & France",
+   "summary": "Edina Orthodontics - 50th & France is a dentist in Edina, MN. Website: https://www.edinaortho.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-orthodontics-50th-and-france-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-orthodontics-50th-and-france-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9122439,
+    "lon": -93.330515
+   },
+   "website": "https://www.edinaortho.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088883",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "york-dental-edina",
+   "name": "York Dental",
+   "summary": "York Dental is a dentist in Edina, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/york-dental-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/york-dental-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8652659,
+    "lon": -93.3198288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13883833775",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

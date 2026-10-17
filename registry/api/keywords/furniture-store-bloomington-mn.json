@@ -1,0 +1,190 @@
+{
+ "keyword": "furniture store bloomington mn",
+ "slug": "furniture-store-bloomington-mn",
+ "place": "Bloomington, MN",
+ "service": "furniture store",
+ "query": "Who are the best furniture store providers in Bloomington, MN?",
+ "matches": [
+  "furniture store in Bloomington, MN",
+  "furniture store near me (Bloomington, MN)",
+  "best furniture store Bloomington, MN",
+  "top rated furniture store Bloomington, MN",
+  "affordable furniture store Bloomington, MN",
+  "emergency furniture store Bloomington, MN"
+ ],
+ "answer": "The top unpaid furniture store listing for Bloomington, MN is Slumberland Furniture (a furniture store in Bloomington, MN at 7961 Southtown Center, Bloomington, MN 55431. Phone: +19528886204. Website: https://stores.slumberland.com/mn/bloomington/7961-southtown-center-01). 5 furniture store businesses are listed for Bloomington, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "slumberland-furniture-bloomington",
+   "name": "Slumberland Furniture",
+   "summary": "Slumberland Furniture is a furniture store in Bloomington, MN at 7961 Southtown Center, Bloomington, MN 55431. Phone: +19528886204. Website: https://stores.slumberland.com/mn/bloomington/7961-southtown-center-01.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-furniture-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slumberland-furniture-bloomington.json",
+   "address": {
+    "streetAddress": "7961 Southtown Center",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8594669,
+    "lon": -93.3044617
+   },
+   "phone": "+19528886204",
+   "website": "https://stores.slumberland.com/mn/bloomington/7961-southtown-center-01",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2090426825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "ikea-bloomington",
+   "name": "IKEA",
+   "summary": "IKEA is a furniture store in Bloomington, MN at 800 IKEA Way, Bloomington, MN 55425. Website: https://www.ikea.com/us/en/stores/minneapolis/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ikea-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ikea-bloomington.json",
+   "address": {
+    "streetAddress": "800 IKEA Way",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55425",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55425",
+   "geo": {
+    "lat": 44.8588059,
+    "lon": -93.2449123
+   },
+   "website": "https://www.ikea.com/us/en/stores/minneapolis/",
+   "opening_hours": "Mo-Sa 09:30-21:00; Su 09:30-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/98613388",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "lovesac-bloomington",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Bloomington, MN at 327 West Market, Bloomington, MN. Phone: +19528545105.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-bloomington.json",
+   "address": {
+    "streetAddress": "327 West Market",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8544849,
+    "lon": -93.2438036
+   },
+   "phone": "+19528545105",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829640",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "chicago-furniture-bloomington",
+   "name": "Chicago Furniture",
+   "summary": "Chicago Furniture is a furniture store in Bloomington, MN at 258 South Avenue, Bloomington, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-furniture-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-furniture-bloomington.json",
+   "address": {
+    "streetAddress": "258 South Avenue",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8536407,
+    "lon": -93.243488
+   },
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13724119935",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "schneidermans-furniture-bloomington",
+   "name": "Schneiderman's Furniture",
+   "summary": "Schneiderman's Furniture is a furniture store in Bloomington, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schneidermans-furniture-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schneidermans-furniture-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.860447,
+    "lon": -93.3146052
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12633523052",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

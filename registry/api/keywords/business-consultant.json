@@ -1,0 +1,829 @@
+{
+ "keyword": "business consultant",
+ "slug": "business-consultant",
+ "place": "the United States",
+ "service": "business consultant",
+ "query": "Who are the best business consultant providers in the United States?",
+ "matches": [
+  "business consultant in the United States",
+  "business consultant near me (the United States)",
+  "best business consultant the United States",
+  "top rated business consultant the United States",
+  "affordable business consultant the United States",
+  "emergency business consultant the United States"
+ ],
+ "answer": "The top unpaid business consultant listing for the United States is Lab651 (a business consultant in Saint Paul, MN at 550 Vandalia Street ##224, Saint Paul, MN 55114. Phone: +16513004868. Website: https://lab651.com/). 24 business consultant businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "lab651-saint-paul",
+   "name": "Lab651",
+   "summary": "Lab651 is a business consultant in Saint Paul, MN at 550 Vandalia Street ##224, Saint Paul, MN 55114. Phone: +16513004868. Website: https://lab651.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lab651-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lab651-saint-paul.json",
+   "address": {
+    "streetAddress": "550 Vandalia Street ##224",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9580407,
+    "lon": -93.1913584
+   },
+   "phone": "+16513004868",
+   "website": "https://lab651.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176539509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "premiere-exteriors-llc-burnsville",
+   "name": "Premiere Exteriors, LLC",
+   "summary": "Premiere Exteriors, LLC is a business consultant in Burnsville, MN at 12235 Wood Lake Drive, Burnsville, MN 55337. Phone: +19524268027. Website: https://premiereexteriors.us/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premiere-exteriors-llc-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premiere-exteriors-llc-burnsville.json",
+   "address": {
+    "streetAddress": "12235 Wood Lake Drive",
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "postalCode": "55337",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "zip": "55337",
+   "geo": {
+    "lat": 44.7818116,
+    "lon": -93.2744966
+   },
+   "phone": "+19524268027",
+   "website": "https://premiereexteriors.us/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10281639029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "solution-design-group-golden-valley",
+   "name": "Solution Design Group",
+   "summary": "Solution Design Group is a business consultant in Golden Valley, MN at 7500 Olson Memorial Hwy #250, Golden Valley, MN 55427. Phone: +19522782500. Website: https://www.solutiondesign.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/solution-design-group-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/solution-design-group-golden-valley.json",
+   "address": {
+    "streetAddress": "7500 Olson Memorial Hwy #250",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55427",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55427",
+   "geo": {
+    "lat": 44.9837671,
+    "lon": -93.3766451
+   },
+   "phone": "+19522782500",
+   "website": "https://www.solutiondesign.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12705578844",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-improve-group-saint-paul",
+   "name": "The Improve Group",
+   "summary": "The Improve Group is a business consultant in Saint Paul, MN at 661 Lasalle Street ##300, Saint Paul, MN 55114. Phone: +16513158919. Website: https://www.theimprovegroup.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-improve-group-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-improve-group-saint-paul.json",
+   "address": {
+    "streetAddress": "661 Lasalle Street ##300",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9611115,
+    "lon": -93.1962931
+   },
+   "phone": "+16513158919",
+   "website": "https://www.theimprovegroup.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6456665458",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "civil-site-group-pc-golden-valley",
+   "name": "Civil Site Group, PC",
+   "summary": "Civil Site Group, PC is a business consultant in Golden Valley, MN at 5000 Glenwood Avenue, Golden Valley, MN 55422. Phone: +16126150060. Website: https://www.civilsitegroup.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/civil-site-group-pc-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/civil-site-group-pc-golden-valley.json",
+   "address": {
+    "streetAddress": "5000 Glenwood Avenue",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.9782701,
+    "lon": -93.342167
+   },
+   "phone": "+16126150060",
+   "website": "https://www.civilsitegroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/388506294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "core-income-advisors-golden-valley",
+   "name": "Core Income Advisors",
+   "summary": "Core Income Advisors is a business consultant in Golden Valley, MN at 5940 Golden Hills Drive, Golden Valley, MN 55416. Phone: +18005417713. Website: https://coreincome.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/core-income-advisors-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/core-income-advisors-golden-valley.json",
+   "address": {
+    "streetAddress": "5940 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9735183,
+    "lon": -93.3558216
+   },
+   "phone": "+18005417713",
+   "website": "https://coreincome.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11129016214",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "digital-pictures-saint-paul",
+   "name": "Digital Pictures",
+   "summary": "Digital Pictures is a business consultant in Saint Paul, MN at 953 Westgate Drive ##105, Saint Paul, MN 55114. Phone: +16123714515. Website: https://www.digitalpictures.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/digital-pictures-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/digital-pictures-saint-paul.json",
+   "address": {
+    "streetAddress": "953 Westgate Drive ##105",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9702547,
+    "lon": -93.2058614
+   },
+   "phone": "+16123714515",
+   "website": "https://www.digitalpictures.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6280049471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "environmental-plant-services-inc-saint-paul",
+   "name": "Environmental Plant Services, Inc.",
+   "summary": "Environmental Plant Services, Inc. is a business consultant in Saint Paul, MN at 2286 Capp Road, Saint Paul, MN 55114. Phone: +16516444441. Website: https://www.eps.vg/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/environmental-plant-services-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/environmental-plant-services-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "2286 Capp Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9688877,
+    "lon": -93.1919639
+   },
+   "phone": "+16516444441",
+   "website": "https://www.eps.vg/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267117644",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "lelch-audio-video-saint-louis-park",
+   "name": "Lelch Audio Video",
+   "summary": "Lelch Audio Video is a business consultant in Saint Louis Park, MN at 2600 Excelsior Boulevard #201, Saint Louis Park, MN 55416. Phone: +16123535087. Website: https://www.lelchav.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lelch-audio-video-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lelch-audio-video-saint-louis-park.json",
+   "address": {
+    "streetAddress": "2600 Excelsior Boulevard #201",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.930326,
+    "lon": -93.3509535
+   },
+   "phone": "+16123535087",
+   "website": "https://www.lelchav.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9590592417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "mra-the-management-association-golden-valley",
+   "name": "MRA - The Management Association",
+   "summary": "MRA - The Management Association is a business consultant in Golden Valley, MN at 5980 Golden Hills Drive, Golden Valley, MN 55416. Phone: +17632539100. Website: https://www.mranet.org/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mra-the-management-association-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mra-the-management-association-golden-valley.json",
+   "address": {
+    "streetAddress": "5980 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9735347,
+    "lon": -93.3564308
+   },
+   "phone": "+17632539100",
+   "website": "https://www.mranet.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11129016212",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "on-demand-group-minneapolis",
+   "name": "On-Demand Group",
+   "summary": "On-Demand Group is a business consultant in Minneapolis, MN at 2604 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16123678101. Website: https://www.ondemandgroup.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/on-demand-group-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/on-demand-group-minneapolis.json",
+   "address": {
+    "streetAddress": "2604 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9552793,
+    "lon": -93.2883663
+   },
+   "phone": "+16123678101",
+   "website": "https://www.ondemandgroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5288464644",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "propharma-group-saint-paul",
+   "name": "ProPharma Group",
+   "summary": "ProPharma Group is a business consultant in Saint Paul, MN at 2635 University Avenue West #Suite 195, Saint Paul, MN 55114. Phone: +16519176100. Website: https://propharmagroup.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/propharma-group-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/propharma-group-saint-paul.json",
+   "address": {
+    "streetAddress": "2635 University Avenue West #Suite 195",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9681518,
+    "lon": -93.2047216
+   },
+   "phone": "+16519176100",
+   "website": "https://propharmagroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6277568959",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "synergetic-endeavors-saint-paul",
+   "name": "Synergetic Endeavors",
+   "summary": "Synergetic Endeavors is a business consultant in Saint Paul, MN at 660 Transfer Road, Saint Paul, MN 55114. Phone: +16513404848. Website: https://www.synergeticendeavors.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/synergetic-endeavors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/synergetic-endeavors-saint-paul.json",
+   "address": {
+    "streetAddress": "660 Transfer Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9607873,
+    "lon": -93.1856889
+   },
+   "phone": "+16513404848",
+   "website": "https://www.synergeticendeavors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7192306901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "burnet-title-minneapolis",
+   "name": "Burnet Title",
+   "summary": "Burnet Title is a business consultant in Minneapolis, MN at 3033 Excelsior, Minneapolis, MN. Phone: +16129207667. Website: https://www.burnettitle.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burnet-title-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burnet-title-minneapolis.json",
+   "address": {
+    "streetAddress": "3033 Excelsior",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9479538,
+    "lon": -93.3178185
+   },
+   "phone": "+16129207667",
+   "website": "https://www.burnettitle.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13706157388",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "mckinsey-and-company-minneapolis",
+   "name": "McKinsey & Company",
+   "summary": "McKinsey & Company is a business consultant in Minneapolis, MN. Phone: +16123713100. Website: https://www.mckinsey.com/midwest/minneapolis.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mckinsey-and-company-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mckinsey-and-company-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9764705,
+    "lon": -93.2751805
+   },
+   "phone": "+16123713100",
+   "website": "https://www.mckinsey.com/midwest/minneapolis",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6661087680",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "alt-kie-computer-consultants-inc-saint-paul",
+   "name": "Alt-Kie Computer Consultants, Inc.",
+   "summary": "Alt-Kie Computer Consultants, Inc. is a business consultant in Saint Paul, MN at 2324 University Avenue West ##116, Saint Paul, MN 55114. Phone: +16519991000.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alt-kie-computer-consultants-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alt-kie-computer-consultants-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "2324 University Avenue West ##116",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9626036,
+    "lon": -93.1958342
+   },
+   "phone": "+16519991000",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7150081730",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "alta-planning-design-minneapolis",
+   "name": "Alta Planning + Design",
+   "summary": "Alta Planning + Design is a business consultant in Minneapolis, MN at 400 South 4th Street #401-102, Minneapolis, MN 55415. Website: https://altago.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alta-planning-design-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alta-planning-design-minneapolis.json",
+   "address": {
+    "streetAddress": "400 South 4th Street #401-102",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55415",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55415",
+   "geo": {
+    "lat": 44.9776159,
+    "lon": -93.2636419
+   },
+   "website": "https://altago.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13134637745",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "ascent-solutions-minneapolis",
+   "name": "Ascent Solutions",
+   "summary": "Ascent Solutions is a business consultant in Minneapolis, MN at 323 Washington Avenue North #410, Minneapolis, MN 55401. Website: https://www.meetascent.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ascent-solutions-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ascent-solutions-minneapolis.json",
+   "address": {
+    "streetAddress": "323 Washington Avenue North #410",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9841516,
+    "lon": -93.2752089
+   },
+   "website": "https://www.meetascent.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13713067309",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "clientek-minneapolis",
+   "name": "Clientek",
+   "summary": "Clientek is a business consultant in Minneapolis, MN at 417 2nd Avenue North, Minneapolis, MN 55401. Website: https://www.clientek.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clientek-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clientek-minneapolis.json",
+   "address": {
+    "streetAddress": "417 2nd Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9814756,
+    "lon": -93.2741645
+   },
+   "website": "https://www.clientek.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12870055620",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "m-j-shahidi-business-saint-louis-park",
+   "name": "M J Shahidi Business",
+   "summary": "M J Shahidi Business is a business consultant in Saint Louis Park, MN at 6504 Walker Street, Saint Louis Park, MN 55426. Phone: +19529204202.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-j-shahidi-business-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-j-shahidi-business-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6504 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9391405,
+    "lon": -93.3621589
+   },
+   "phone": "+19529204202",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604575738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "mikeworth-consulting-minneapolis",
+   "name": "Mikeworth Consulting",
+   "summary": "Mikeworth Consulting is a business consultant in Minneapolis, MN at 3801 West 50th Street, Minneapolis, MN 55410. Website: https://mikeworthconsulting.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mikeworth-consulting-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mikeworth-consulting-minneapolis.json",
+   "address": {
+    "streetAddress": "3801 West 50th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9123883,
+    "lon": -93.3279225
+   },
+   "website": "https://mikeworthconsulting.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116028",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "atlas-technical-consultants-fridley",
+   "name": "Atlas Technical Consultants",
+   "summary": "Atlas Technical Consultants is a business consultant in Fridley, MN at 5301 East River Rd Service Road #101, Fridley, MN 55421.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlas-technical-consultants-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlas-technical-consultants-fridley.json",
+   "address": {
+    "streetAddress": "5301 East River Rd Service Road #101",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0662944,
+    "lon": -93.2775387
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13140376156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "west-elm-workspace-saint-paul",
+   "name": "West Elm Workspace",
+   "summary": "West Elm Workspace is a business consultant in Saint Paul, MN at 2635 University Avenue West ##120, Saint Paul, MN 55114.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-elm-workspace-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-elm-workspace-saint-paul.json",
+   "address": {
+    "streetAddress": "2635 University Avenue West ##120",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9681555,
+    "lon": -93.2056957
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6277568962",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "african-economic-development-solutions-saint-paul",
+   "name": "African Economic Development Solutions",
+   "summary": "African Economic Development Solutions is a business consultant in Saint Paul, MN.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/african-economic-development-solutions-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/african-economic-development-solutions-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9615004,
+    "lon": -93.1666578
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13269336950",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

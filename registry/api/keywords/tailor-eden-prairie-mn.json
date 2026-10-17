@@ -1,0 +1,58 @@
+{
+ "keyword": "tailor eden prairie mn",
+ "slug": "tailor-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "tailor",
+ "query": "Who are the best tailor providers in Eden Prairie, MN?",
+ "matches": [
+  "tailor in Eden Prairie, MN",
+  "tailor near me (Eden Prairie, MN)",
+  "best tailor Eden Prairie, MN",
+  "top rated tailor Eden Prairie, MN",
+  "affordable tailor Eden Prairie, MN",
+  "emergency tailor Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid tailor listing for Eden Prairie, MN is Eden Tailors (a tailor in Eden Prairie, MN). 1 tailor businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "eden-tailors-eden-prairie",
+   "name": "Eden Tailors",
+   "summary": "Eden Tailors is a tailor in Eden Prairie, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eden-tailors-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eden-tailors-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8360437,
+    "lon": -93.4007913
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12191200558",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

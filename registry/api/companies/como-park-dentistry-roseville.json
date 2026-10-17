@@ -1,0 +1,60 @@
+{
+ "slug": "como-park-dentistry-roseville",
+ "name": "Como Park Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist saint paul mn",
+  "dentist roseville mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1132 Larpenteur Avenue West",
+  "addressLocality": "Roseville",
+  "addressRegion": "MN",
+  "postalCode": "55113",
+  "addressCountry": "US"
+ },
+ "city": "Roseville",
+ "state": "MN",
+ "zip": "55113",
+ "geo": {
+  "lat": 44.9917031,
+  "lon": -93.1478327
+ },
+ "phone": "+16514890641",
+ "website": "https://www.comoparkdentistry.com/",
+ "opening_hours": "Mo-Th 08:00-17:00; Fr 07:00-15:30",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7147743967",
+ "osm": {
+  "type": "node",
+  "id": 7147743967,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "dentist"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/como-park-dentistry-roseville/",
+ "summary": "Como Park Dentistry is a dentist in Roseville, MN at 1132 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514890641. Website: https://www.comoparkdentistry.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

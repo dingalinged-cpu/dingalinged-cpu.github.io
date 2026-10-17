@@ -1,0 +1,23 @@
+Ulta Beauty is a skin care studio in Maple Grove, MN at 12181 Elm Creek Boulevard North, Maple Grove, MN 55369. Phone: +17634255385. Website: https://www.ulta.com/stores/maple-grove-mn-136.
+
+# Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 12181 Elm Creek Boulevard North, Maple Grove, MN 55369
+- City: Maple Grove
+- State: MN
+- ZIP: 55369
+- Coordinates: 45.0931145, -93.4352394
+- Phone: +17634255385
+- Website: https://www.ulta.com/stores/maple-grove-mn-136
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ulta-beauty-maple-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-maple-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7146785819 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

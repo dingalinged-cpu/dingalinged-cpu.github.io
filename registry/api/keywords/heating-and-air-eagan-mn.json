@@ -1,0 +1,63 @@
+{
+ "keyword": "heating and air eagan mn",
+ "slug": "heating-and-air-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "heating and air",
+ "query": "Who are the best heating and air providers in Eagan, MN?",
+ "matches": [
+  "heating and air in Eagan, MN",
+  "heating and air near me (Eagan, MN)",
+  "best heating and air Eagan, MN",
+  "top rated heating and air Eagan, MN",
+  "affordable heating and air Eagan, MN",
+  "emergency heating and air Eagan, MN"
+ ],
+ "answer": "The top unpaid heating and air listing for Eagan, MN is Bob Boldt HVAC (a HVAC contractor in Eagan, MN at 4310 Trenton Trail, Eagan, MN 55123. Phone: +16514547760. Website: https://www.bobhvac.com/). 1 heating and air businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bob-boldt-hvac-eagan",
+   "name": "Bob Boldt HVAC",
+   "summary": "Bob Boldt HVAC is a HVAC contractor in Eagan, MN at 4310 Trenton Trail, Eagan, MN 55123. Phone: +16514547760. Website: https://www.bobhvac.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bob-boldt-hvac-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bob-boldt-hvac-eagan.json",
+   "address": {
+    "streetAddress": "4310 Trenton Trail",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.800456,
+    "lon": -93.1270617
+   },
+   "phone": "+16514547760",
+   "website": "https://www.bobhvac.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4065524522",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

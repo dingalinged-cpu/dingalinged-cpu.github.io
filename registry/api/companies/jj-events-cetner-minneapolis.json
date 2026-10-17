@@ -1,0 +1,57 @@
+{
+ "slug": "jj-events-cetner-minneapolis",
+ "name": "JJ Events Cetner",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3500 East Lake Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55406",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55406",
+ "geo": {
+  "lat": 44.9485579,
+  "lon": -93.2214947
+ },
+ "phone": "+19525649566",
+ "website": "https://jjeventcentre.com/",
+ "opening_hours": "Mo-Fr 09:00-17:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11148995120",
+ "osm": {
+  "type": "node",
+  "id": 11148995120,
+  "tags_used": {
+   "amenity": "events_venue"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jj-events-cetner-minneapolis/",
+ "summary": "JJ Events Cetner is an event venue in Minneapolis, MN at 3500 East Lake Street, Minneapolis, MN 55406. Phone: +19525649566. Website: https://jjeventcentre.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

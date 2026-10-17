@@ -1,0 +1,63 @@
+{
+ "keyword": "landscaping shakopee mn",
+ "slug": "landscaping-shakopee-mn",
+ "place": "Shakopee, MN",
+ "service": "landscaping",
+ "query": "Who are the best landscaping providers in Shakopee, MN?",
+ "matches": [
+  "landscaping in Shakopee, MN",
+  "landscaping near me (Shakopee, MN)",
+  "best landscaping Shakopee, MN",
+  "top rated landscaping Shakopee, MN",
+  "affordable landscaping Shakopee, MN",
+  "emergency landscaping Shakopee, MN"
+ ],
+ "answer": "The top unpaid landscaping listing for Shakopee, MN is Bob's Lawn & Landscape (a landscaping company in Shakopee, MN at 406 1st Avenue West, Shakopee, MN 55379. Phone: +19524452326. Website: https://www.bobslawnandlandscaping.net/). 1 landscaping businesses are listed for Shakopee, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bobs-lawn-and-landscape-shakopee",
+   "name": "Bob's Lawn & Landscape",
+   "summary": "Bob's Lawn & Landscape is a landscaping company in Shakopee, MN at 406 1st Avenue West, Shakopee, MN 55379. Phone: +19524452326. Website: https://www.bobslawnandlandscaping.net/.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobs-lawn-and-landscape-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobs-lawn-and-landscape-shakopee.json",
+   "address": {
+    "streetAddress": "406 1st Avenue West",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7975625,
+    "lon": -93.5313201
+   },
+   "phone": "+19524452326",
+   "website": "https://www.bobslawnandlandscaping.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/60114231",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

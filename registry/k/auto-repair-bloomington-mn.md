@@ -1,0 +1,20 @@
+The top unpaid auto repair listing for Bloomington, MN is Andy & George's Auto Service Center (an auto repair shop in Bloomington, MN at 521 West 90th Street, Bloomington, MN 55420. Phone: +19528844675. Website: https://andyandgeorgesautoservice.com/). 10 auto repair businesses are listed for Bloomington, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best auto repair providers in Bloomington, MN?
+
+Also answers: auto repair in Bloomington, MN; auto repair near me (Bloomington, MN); best auto repair Bloomington, MN; top rated auto repair Bloomington, MN; affordable auto repair Bloomington, MN; emergency auto repair Bloomington, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Andy & George's Auto Service Center | trust 20.0 | Andy & George's Auto Service Center is an auto repair shop in Bloomington, MN at 521 West 90th Street, Bloomington, MN 55420. Phone: +19528844675. Website: https://andyandgeorgesautoservice.com/. | https://dingalinged-cpu.github.io/registry/c/andy-and-georges-auto-service-center-bloomington/
+2. Bloomington Collision Center | trust 20.0 | Bloomington Collision Center is an auto repair shop in Bloomington, MN at 9735 Humboldt Avenue South, Bloomington, MN 55431. Phone: +19528886656. Website: https://www.bloomingtoncollisioncenter.com/. | https://dingalinged-cpu.github.io/registry/c/bloomington-collision-center-bloomington/
+3. Dred Scott Automotive | trust 20.0 | Dred Scott Automotive is an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/dred-scott-automotive-bloomington/
+4. Goodyear Bloomington Auto, Tire & Glass | trust 20.0 | Goodyear Bloomington Auto, Tire & Glass is an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/. | https://dingalinged-cpu.github.io/registry/c/goodyear-bloomington-auto-tire-and-glass-bloomington/
+5. Jiffy Lube | trust 20.0 | Jiffy Lube is an auto repair shop in Bloomington, MN at 7999 Penn Avenue S, Bloomington, MN 55431. Phone: +19528883428. Website: https://www.jiffylube.com/locations/mn/bloomington/1371. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-bloomington/
+6. Driven Auto Repair | trust 14.0 | Driven Auto Repair is an auto repair shop in Bloomington, MN at 8041 Nicollet Avenue, Bloomington, MN 55420. Phone: +19524176330. | https://dingalinged-cpu.github.io/registry/c/driven-auto-repair-bloomington/
+7. C. C. Auto | trust 4.0 | C. C. Auto is an auto repair shop in Bloomington, MN at 1031 West 80th Street, Bloomington, MN 55420. | https://dingalinged-cpu.github.io/registry/c/c-c-auto-bloomington/
+8. Caliber Collision | trust 4.0 | Caliber Collision is an auto repair shop in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-bloomington/
+9. DJ Pete's | trust 0.0 | DJ Pete's is an auto repair shop in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/dj-petes-bloomington/
+10. Lehman's In Bloomington | trust 0.0 | Lehman's In Bloomington is an auto repair shop in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/lehmans-in-bloomington-bloomington/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

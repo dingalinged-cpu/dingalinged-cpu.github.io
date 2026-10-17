@@ -1,0 +1,52 @@
+{
+ "slug": "access-point-dental-west-saint-paul",
+ "name": "Access Point Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist west saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "West Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "West Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8982986,
+  "lon": -93.080037
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12729435294",
+ "osm": {
+  "type": "node",
+  "id": 12729435294,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "West Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/access-point-dental-west-saint-paul/",
+ "summary": "Access Point Dental is a dentist in West Saint Paul, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "tutor-time-blaine",
+ "name": "Tutor Time",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool blaine mn"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Blaine",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Blaine",
+ "state": "MN",
+ "geo": {
+  "lat": 45.1669358,
+  "lon": -93.2306543
+ },
+ "brand": "Tutor Time",
+ "wikidata": "Q64877826",
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/214790230",
+ "osm": {
+  "type": "way",
+  "id": 214790230,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Blaine",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tutor-time-blaine/",
+ "summary": "Tutor Time is a preschool in Blaine, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

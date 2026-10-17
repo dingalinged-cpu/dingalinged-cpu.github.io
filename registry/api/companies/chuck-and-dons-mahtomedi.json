@@ -1,0 +1,54 @@
+{
+ "slug": "chuck-and-dons-mahtomedi",
+ "name": "Chuck & Don's",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store mahtomedi mn"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "910 Wildwood Road",
+  "addressLocality": "Mahtomedi",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Mahtomedi",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0497089,
+  "lon": -92.9836004
+ },
+ "website": "https://stores.chuckanddons.com/mn-mahtomedi-104/",
+ "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00",
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/593488385",
+ "osm": {
+  "type": "way",
+  "id": 593488385,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Mahtomedi",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-mahtomedi/",
+ "summary": "Chuck & Don's is a pet store in Mahtomedi, MN at 910 Wildwood Road, Mahtomedi, MN. Website: https://stores.chuckanddons.com/mn-mahtomedi-104/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

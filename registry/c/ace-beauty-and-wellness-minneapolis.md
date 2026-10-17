@@ -1,0 +1,23 @@
+Ace Beauty & Wellness is a plastic surgeon in Minneapolis, MN at 1620 West Lake Street, Minneapolis, MN. Phone: +16125402745. Website: https://acebeautyandwellness.com/.
+
+# Ace Beauty & Wellness
+
+- Category: plastic surgeon
+- Services: plastic surgeon
+- Address: 1620 West Lake Street, Minneapolis, MN
+- City: Minneapolis
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.948523, -93.3030006
+- Phone: +16125402745
+- Website: https://acebeautyandwellness.com/
+- Email: info@acebeautyandwellness.com
+- Opening hours (OSM syntax): Tu-Fr 09:00-18:00; Sa 09:00-14:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ace-beauty-and-wellness-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ace-beauty-and-wellness-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6450215746 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

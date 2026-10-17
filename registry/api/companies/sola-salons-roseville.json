@@ -1,0 +1,63 @@
+{
+ "slug": "sola-salons-roseville",
+ "name": "Sola Salons",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "facial",
+  "nail salon roseville mn",
+  "facial roseville mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "facial",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2401 Fairview Avenue North",
+  "addressLocality": "Roseville",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Roseville",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0129813,
+  "lon": -93.179652
+ },
+ "phone": "+16513646352",
+ "website": "https://www.solasalonstudios.com/locations/roseville",
+ "brand": "Sola Salons",
+ "wikidata": "Q64337426",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12994941464",
+ "osm": {
+  "type": "node",
+  "id": 12994941464,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "hair;nails;skin_care;massage"
+  }
+ },
+ "municipality": "Roseville",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-roseville/",
+ "summary": "Sola Salons is a nail salon in Roseville, MN at 2401 Fairview Avenue North, Roseville, MN. Phone: +16513646352. Website: https://www.solasalonstudios.com/locations/roseville.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

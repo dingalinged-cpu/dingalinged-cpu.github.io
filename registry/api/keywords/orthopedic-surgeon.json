@@ -1,0 +1,128 @@
+{
+ "keyword": "orthopedic surgeon",
+ "slug": "orthopedic-surgeon",
+ "place": "the United States",
+ "service": "orthopedic surgeon",
+ "query": "Who are the best orthopedic surgeon providers in the United States?",
+ "matches": [
+  "orthopedic surgeon in the United States",
+  "orthopedic surgeon near me (the United States)",
+  "best orthopedic surgeon the United States",
+  "top rated orthopedic surgeon the United States",
+  "affordable orthopedic surgeon the United States",
+  "emergency orthopedic surgeon the United States"
+ ],
+ "answer": "The top unpaid orthopedic surgeon listing for the United States is HealthPartners Specialty Center 435 Building (a podiatrist in Saint Paul, MN at 435 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/435-specialty-center/). 3 orthopedic surgeon businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "healthpartners-specialty-center-435-building-saint-paul",
+   "name": "HealthPartners Specialty Center 435 Building",
+   "summary": "HealthPartners Specialty Center 435 Building is a podiatrist in Saint Paul, MN at 435 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/435-specialty-center/.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthpartners-specialty-center-435-building-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthpartners-specialty-center-435-building-saint-paul.json",
+   "address": {
+    "streetAddress": "435 Phalen Boulevard",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55130",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55130",
+   "geo": {
+    "lat": 44.9656462,
+    "lon": -93.0825013
+   },
+   "phone": "+16512547400",
+   "website": "https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/435-specialty-center/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/100183925",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "allina-health-orthopedics-minneapolis",
+   "name": "Allina Health Orthopedics",
+   "summary": "Allina Health Orthopedics is an orthopedic surgeon in Minneapolis, MN at 2800 Chicago Avenue, Minneapolis, MN 55407. Website: https://account.allinahealth.org/locations/684.",
+   "categories": [
+    "orthopedic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allina-health-orthopedics-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allina-health-orthopedics-minneapolis.json",
+   "address": {
+    "streetAddress": "2800 Chicago Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9517493,
+    "lon": -93.2629751
+   },
+   "website": "https://account.allinahealth.org/locations/684",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12900765233",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "summit-orthopedics-woodbury",
+   "name": "Summit Orthopedics",
+   "summary": "Summit Orthopedics is an orthopedic surgeon in Woodbury, MN at 2090 Woodwinds Drive, Woodbury, MN 55125.",
+   "categories": [
+    "orthopedic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/summit-orthopedics-woodbury/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/summit-orthopedics-woodbury.json",
+   "address": {
+    "streetAddress": "2090 Woodwinds Drive",
+    "addressLocality": "Woodbury",
+    "addressRegion": "MN",
+    "postalCode": "55125",
+    "addressCountry": "US"
+   },
+   "city": "Woodbury",
+   "state": "MN",
+   "zip": "55125",
+   "geo": {
+    "lat": 44.9182695,
+    "lon": -92.9811347
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/956416289",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

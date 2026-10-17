@@ -1,0 +1,59 @@
+{
+ "slug": "morries-mazda-inver-grove-heights",
+ "name": "Morries Mazda",
+ "categories": [
+  "used cars for sale"
+ ],
+ "keywords": [
+  "used cars for sale",
+  "used cars for sale inver grove heights mn"
+ ],
+ "services": [
+  {
+   "name": "used cars for sale",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10 Mendota Road East",
+  "addressLocality": "Inver Grove Heights",
+  "addressRegion": "MN",
+  "postalCode": "55077",
+  "addressCountry": "US"
+ },
+ "city": "Inver Grove Heights",
+ "state": "MN",
+ "zip": "55077",
+ "geo": {
+  "lat": 44.8829772,
+  "lon": -93.0846816
+ },
+ "phone": "+16516914672",
+ "website": "https://www.morriesinvergrovemazda.com/",
+ "opening_hours": "Mo-Fr 09:00-18:00, Sa 08:00-16:00",
+ "brand": "Mazda",
+ "wikidata": "Q35996",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/527085044",
+ "osm": {
+  "type": "way",
+  "id": 527085044,
+  "tags_used": {
+   "shop": "car"
+  }
+ },
+ "municipality": "Inver Grove Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/morries-mazda-inver-grove-heights/",
+ "summary": "Morries Mazda is an used car dealer in Inver Grove Heights, MN at 10 Mendota Road East, Inver Grove Heights, MN 55077. Phone: +16516914672. Website: https://www.morriesinvergrovemazda.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

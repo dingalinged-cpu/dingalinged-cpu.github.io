@@ -1,0 +1,58 @@
+{
+ "slug": "gent-saint-paul",
+ "name": "Gent",
+ "categories": [
+  "barber shop"
+ ],
+ "keywords": [
+  "barber shop",
+  "haircut",
+  "barber shop saint paul mn",
+  "haircut saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "barber shop",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9403938,
+  "lon": -93.1366818
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13890137549",
+ "osm": {
+  "type": "node",
+  "id": 13890137549,
+  "tags_used": {
+   "shop": "hairdresser",
+   "hairdresser": "barber"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/gent-saint-paul/",
+ "summary": "Gent is a barber shop in Saint Paul, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

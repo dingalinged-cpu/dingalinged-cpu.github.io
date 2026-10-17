@@ -1,0 +1,23 @@
+Sustainable 9 Design + Build is an architect in Minneapolis, MN at 3511 West 44th Street, Minneapolis, MN 55410. Website: https://sustainable9.com/.
+
+# Sustainable 9 Design + Build
+
+- Category: architect
+- Services: architect
+- Address: 3511 West 44th Street, Minneapolis, MN 55410
+- City: Minneapolis
+- State: MN
+- ZIP: 55410
+- Coordinates: 44.9229845, -93.3246463
+- Phone: n/a
+- Website: https://sustainable9.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sustainable-9-design-build-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sustainable-9-design-build-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1308879559 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

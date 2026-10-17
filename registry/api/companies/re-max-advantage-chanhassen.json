@@ -1,0 +1,62 @@
+{
+ "slug": "re-max-advantage-chanhassen",
+ "name": "Re/Max Advantage",
+ "categories": [
+  "real estate agent"
+ ],
+ "keywords": [
+  "real estate agent",
+  "realtor",
+  "real estate agent chanhassen mn",
+  "realtor chanhassen mn"
+ ],
+ "services": [
+  {
+   "name": "real estate agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "realtor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7811 Great Plains Boulevard",
+  "addressLocality": "Chanhassen",
+  "addressRegion": "MN",
+  "postalCode": "55317",
+  "addressCountry": "US"
+ },
+ "city": "Chanhassen",
+ "state": "MN",
+ "zip": "55317",
+ "geo": {
+  "lat": 44.8611596,
+  "lon": -93.5305709
+ },
+ "brand": "RE/MAX",
+ "wikidata": "Q965845",
+ "schema_type": "RealEstateAgent",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/100494267",
+ "osm": {
+  "type": "way",
+  "id": 100494267,
+  "tags_used": {
+   "office": "estate_agent"
+  }
+ },
+ "municipality": "Chanhassen",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/re-max-advantage-chanhassen/",
+ "summary": "Re/Max Advantage is a real estate agency in Chanhassen, MN at 7811 Great Plains Boulevard, Chanhassen, MN 55317.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

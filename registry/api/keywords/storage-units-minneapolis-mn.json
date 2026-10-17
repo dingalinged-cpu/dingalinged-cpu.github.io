@@ -1,0 +1,379 @@
+{
+ "keyword": "storage units minneapolis mn",
+ "slug": "storage-units-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "storage units",
+ "query": "Who are the best storage units providers in Minneapolis, MN?",
+ "matches": [
+  "storage units in Minneapolis, MN",
+  "storage units near me (Minneapolis, MN)",
+  "best storage units Minneapolis, MN",
+  "top rated storage units Minneapolis, MN",
+  "affordable storage units Minneapolis, MN",
+  "emergency storage units Minneapolis, MN"
+ ],
+ "answer": "The top unpaid storage units listing for Minneapolis, MN is U-Haul (a self-storage facility in Minneapolis, MN at 4215 Hiawatha Avenue, Minneapolis, MN 55406. Phone: +16127261728. Website: https://www.uhaul.com/Locations/Self-Storage-near-Minneapolis-MN-55406/726072/). 11 storage units businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "u-haul-minneapolis-w1273095401",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Minneapolis, MN at 4215 Hiawatha Avenue, Minneapolis, MN 55406. Phone: +16127261728. Website: https://www.uhaul.com/Locations/Self-Storage-near-Minneapolis-MN-55406/726072/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-minneapolis-w1273095401/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-minneapolis-w1273095401.json",
+   "address": {
+    "streetAddress": "4215 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9263697,
+    "lon": -93.2228565
+   },
+   "phone": "+16127261728",
+   "website": "https://www.uhaul.com/Locations/Self-Storage-near-Minneapolis-MN-55406/726072/",
+   "opening_hours": "Mo-Th, Sa 07:00-19:00; Fr 07:00-20:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1273095401",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "istorage-minneapolis-w65728472",
+   "name": "iStorage",
+   "summary": "iStorage is a self-storage facility in Minneapolis, MN at 3601 Hiawatha Avenue, Minneapolis, MN 55406. Phone: +16122760918. Website: https://www.istorage.com/storage/minnesota/storage-units-minneapolis/3601-Hiawatha-Ave-369.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/istorage-minneapolis-w65728472/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/istorage-minneapolis-w65728472.json",
+   "address": {
+    "streetAddress": "3601 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9368438,
+    "lon": -93.229884
+   },
+   "phone": "+16122760918",
+   "website": "https://www.istorage.com/storage/minnesota/storage-units-minneapolis/3601-Hiawatha-Ave-369",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/65728472",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "public-storage-minneapolis",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Minneapolis, MN at 425 Washington Avenue North, Minneapolis, MN 55401. Phone: +18006888057. Website: https://publicstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-minneapolis.json",
+   "address": {
+    "streetAddress": "425 Washington Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9858372,
+    "lon": -93.274709
+   },
+   "phone": "+18006888057",
+   "website": "https://publicstorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12754418102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "public-storage-minneapolis-n12754418701",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Minneapolis, MN. Phone: +16122000395. Website: https://publicstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-minneapolis-n12754418701/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-minneapolis-n12754418701.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9823091,
+    "lon": -93.2759276
+   },
+   "phone": "+16122000395",
+   "website": "https://publicstorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12754418701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "acorn-mini-storage-minneapolis",
+   "name": "Acorn Mini Storage",
+   "summary": "Acorn Mini Storage is a self-storage facility in Minneapolis, MN at 4652 North Lyndale Avenue, Minneapolis, MN 55412.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acorn-mini-storage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acorn-mini-storage-minneapolis.json",
+   "address": {
+    "streetAddress": "4652 North Lyndale Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55412",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55412",
+   "geo": {
+    "lat": 45.040143,
+    "lon": -93.2862985
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/934110770",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "istorage-minneapolis",
+   "name": "iStorage",
+   "summary": "iStorage is a self-storage facility in Minneapolis, MN at 4311 Hiawatha Avenue, Minneapolis, MN 55406.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/istorage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/istorage-minneapolis.json",
+   "address": {
+    "streetAddress": "4311 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9242234,
+    "lon": -93.2213134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/35412661",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "public-storage-minneapolis-w119610712",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Minneapolis, MN at 3245 Hiawatha Avenue, Minneapolis, MN 55406.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-minneapolis-w119610712/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-minneapolis-w119610712.json",
+   "address": {
+    "streetAddress": "3245 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9438447,
+    "lon": -93.2347282
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/119610712",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "public-storage-minneapolis-w1223301110",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Minneapolis, MN at 1720 North Washington Avenue, Minneapolis, MN 55411.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-minneapolis-w1223301110/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-minneapolis-w1223301110.json",
+   "address": {
+    "streetAddress": "1720 North Washington Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55411",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55411",
+   "geo": {
+    "lat": 44.9969237,
+    "lon": -93.2811272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223301110",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "u-haul-minneapolis",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Minneapolis, MN at 1717 West River Road North, Minneapolis, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-minneapolis.json",
+   "address": {
+    "streetAddress": "1717 West River Road North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9966545,
+    "lon": -93.2777023
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13021868108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "extra-space-storage-minneapolis",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Minneapolis, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8928308,
+    "lon": -93.2829416
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1312884891",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "us-storage-centers-minneapolis",
+   "name": "US Storage Centers",
+   "summary": "US Storage Centers is a self-storage facility in Minneapolis, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/us-storage-centers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/us-storage-centers-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9826767,
+    "lon": -93.2860498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/89070231",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

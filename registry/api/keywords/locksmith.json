@@ -1,0 +1,283 @@
+{
+ "keyword": "locksmith",
+ "slug": "locksmith",
+ "place": "the United States",
+ "service": "locksmith",
+ "query": "Who are the best locksmith providers in the United States?",
+ "matches": [
+  "locksmith in the United States",
+  "locksmith near me (the United States)",
+  "best locksmith the United States",
+  "top rated locksmith the United States",
+  "affordable locksmith the United States",
+  "emergency locksmith the United States"
+ ],
+ "answer": "The top unpaid locksmith listing for the United States is Maple Grove Lock & Safe (a locksmith in Maple Grove, MN at 13563 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949075. Website: https://maplegrovelockandsafe.com/). 8 locksmith businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "maple-grove-lock-and-safe-maple-grove",
+   "name": "Maple Grove Lock & Safe",
+   "summary": "Maple Grove Lock & Safe is a locksmith in Maple Grove, MN at 13563 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949075. Website: https://maplegrovelockandsafe.com/.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maple-grove-lock-and-safe-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maple-grove-lock-and-safe-maple-grove.json",
+   "address": {
+    "streetAddress": "13563 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1037449,
+    "lon": -93.4538278
+   },
+   "phone": "+17634949075",
+   "website": "https://maplegrovelockandsafe.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00;Sa \"call\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5759711980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "a-1-lock-service-by-kee-wee-saint-paul",
+   "name": "A-1 Lock Service by Kee Wee",
+   "summary": "A-1 Lock Service by Kee Wee is a locksmith in Saint Paul, MN at 191 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516452244. Website: https://keeweelocks.wix.com/mysite.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-1-lock-service-by-kee-wee-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-1-lock-service-by-kee-wee-saint-paul.json",
+   "address": {
+    "streetAddress": "191 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9470022,
+    "lon": -93.1672227
+   },
+   "phone": "+16516452244",
+   "website": "https://keeweelocks.wix.com/mysite",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8787039677",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "mighty-lock-and-safe-south-saint-paul",
+   "name": "Mighty Lock and Safe",
+   "summary": "Mighty Lock and Safe is a locksmith in South Saint Paul, MN at 1523 5th Avenue South, South Saint Paul, MN 55075. Phone: +16512074187. Website: https://www.mightylockandsafe.com/.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mighty-lock-and-safe-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mighty-lock-and-safe-south-saint-paul.json",
+   "address": {
+    "streetAddress": "1523 5th Avenue South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8646824,
+    "lon": -93.0394533
+   },
+   "phone": "+16512074187",
+   "website": "https://www.mightylockandsafe.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217026277",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "kat-keys-saint-paul",
+   "name": "Kat-Keys",
+   "summary": "Kat-Keys is a locksmith in Saint Paul, MN.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kat-keys-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kat-keys-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9511465,
+    "lon": -93.088459
+   },
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2846172918",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "minneapolis-lock-and-key-minneapolis",
+   "name": "Minneapolis Lock & Key",
+   "summary": "Minneapolis Lock & Key is a locksmith in Minneapolis, MN.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minneapolis-lock-and-key-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-lock-and-key-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9218404,
+    "lon": -93.2781648
+   },
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12965462742",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "reliable-locksmith-saint-louis-park",
+   "name": "Reliable Locksmith",
+   "summary": "Reliable Locksmith is a locksmith in Saint Louis Park, MN at 6312 Minnetonka Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reliable-locksmith-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reliable-locksmith-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6312 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9499148,
+    "lon": -93.3598082
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13308861565",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "central-lock-and-safe-minneapolis",
+   "name": "Central Lock & Safe",
+   "summary": "Central Lock & Safe is a locksmith in Minneapolis, MN at 2000 Central Avenue Northeast, Minneapolis, MN.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-lock-and-safe-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-lock-and-safe-minneapolis.json",
+   "address": {
+    "streetAddress": "2000 Central Avenue Northeast",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0091016,
+    "lon": -93.247721
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10840045847",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "babcock-and-son-security-corporation-saint-paul",
+   "name": "Babcock and Son Security Corporation",
+   "summary": "Babcock and Son Security Corporation is a locksmith in Saint Paul, MN.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/babcock-and-son-security-corporation-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/babcock-and-son-security-corporation-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9200216,
+    "lon": -93.1869804
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/728154110",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

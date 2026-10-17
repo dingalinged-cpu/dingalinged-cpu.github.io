@@ -1,0 +1,23 @@
+Merriam Park Nails is a tailor in Saint Paul, MN at 1558 Selby Avenue, Saint Paul, MN 55104. Phone: +16516468409. Website: https://merriam-park-nails.edan.io/.
+
+# Merriam Park Nails
+
+- Category: tailor
+- Services: tailor, nail salon
+- Address: 1558 Selby Avenue, Saint Paul, MN 55104
+- City: Saint Paul
+- State: MN
+- ZIP: 55104
+- Coordinates: 44.9464364, -93.1660587
+- Phone: +16516468409
+- Website: https://merriam-park-nails.edan.io/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/merriam-park-nails-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/merriam-park-nails-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8502104649 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

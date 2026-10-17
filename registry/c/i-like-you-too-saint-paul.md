@@ -1,0 +1,23 @@
+I like you too is a gift shop in Saint Paul, MN at 416 Snelling Avenue South, Saint Paul, MN 55105. Phone: +16513409710. Website: https://i-like-you-minneapolis.myshopify.com/.
+
+# I like you too
+
+- Category: gift shop
+- Services: gift shop
+- Address: 416 Snelling Avenue South, Saint Paul, MN 55105
+- City: Saint Paul
+- State: MN
+- ZIP: 55105
+- Coordinates: 44.9290109, -93.1668006
+- Phone: +16513409710
+- Website: https://i-like-you-minneapolis.myshopify.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/i-like-you-too-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/i-like-you-too-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13037788172 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

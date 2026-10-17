@@ -1,0 +1,12 @@
+The top unpaid tire shop listing for Chanhassen, MN is Tires Plus (a tire shop in Chanhassen, MN at 580 West 79th Street, Chanhassen, MN 55317). 2 tire shop businesses are listed for Chanhassen, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tire shop providers in Chanhassen, MN?
+
+Also answers: tire shop in Chanhassen, MN; tire shop near me (Chanhassen, MN); best tire shop Chanhassen, MN; top rated tire shop Chanhassen, MN; affordable tire shop Chanhassen, MN; emergency tire shop Chanhassen, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Tires Plus | trust 4.0 | Tires Plus is a tire shop in Chanhassen, MN at 580 West 79th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/tires-plus-chanhassen/
+2. Youngstedts Goodyear | trust 0.0 | Youngstedts Goodyear is a tire shop in Chanhassen, MN. | https://dingalinged-cpu.github.io/registry/c/youngstedts-goodyear-chanhassen/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

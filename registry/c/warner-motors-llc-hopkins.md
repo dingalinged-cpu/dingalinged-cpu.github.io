@@ -1,0 +1,23 @@
+Warner Motors LLC is an used car dealer in Hopkins, MN at 400 11th Avenue South, Hopkins, MN 55343.
+
+# Warner Motors LLC
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: 400 11th Avenue South, Hopkins, MN 55343
+- City: Hopkins
+- State: MN
+- ZIP: 55343
+- Coordinates: 44.918527, -93.4148618
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/warner-motors-llc-hopkins/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/warner-motors-llc-hopkins.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12099776257 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

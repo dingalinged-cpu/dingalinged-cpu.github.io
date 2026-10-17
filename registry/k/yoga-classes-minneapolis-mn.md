@@ -1,0 +1,26 @@
+The top unpaid yoga classes listing for Minneapolis, MN is BKS Lyengar Yoga Center (a yoga studio in Minneapolis, MN at 2736 Lyndale Avenue South ##B, Minneapolis, MN 55405. Phone: +16128728708. Website: https://www.iyengaryogampls.com/). 16 yoga classes businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best yoga classes providers in Minneapolis, MN?
+
+Also answers: yoga classes in Minneapolis, MN; yoga classes near me (Minneapolis, MN); best yoga classes Minneapolis, MN; top rated yoga classes Minneapolis, MN; affordable yoga classes Minneapolis, MN; emergency yoga classes Minneapolis, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. BKS Lyengar Yoga Center | trust 20.0 | BKS Lyengar Yoga Center is a yoga studio in Minneapolis, MN at 2736 Lyndale Avenue South ##B, Minneapolis, MN 55405. Phone: +16128728708. Website: https://www.iyengaryogampls.com/. | https://dingalinged-cpu.github.io/registry/c/bks-lyengar-yoga-center-minneapolis/
+2. Minneapolis Bouldering Project | trust 19.0 | Minneapolis Bouldering Project is a yoga studio in Minneapolis, MN at 1433 West River Road North, Minneapolis, MN. Phone: +16123082800. Website: https://minneapolisboulderingproject.com/. | https://dingalinged-cpu.github.io/registry/c/minneapolis-bouldering-project-minneapolis/
+3. Radiant Life Yoga | trust 19.0 | Radiant Life Yoga is a yoga studio in Minneapolis, MN at 2657 Dupont Avenue South, Minneapolis, MN. Phone: +16128458175. Website: https://www.radiantlifeyoga.com/. | https://dingalinged-cpu.github.io/registry/c/radiant-life-yoga-minneapolis/
+4. Blooma | trust 16.0 | Blooma is a yoga studio in Minneapolis, MN at 5315 Lyndale Avenue South, Minneapolis, MN 55419. Phone: +16122238064. Website: https://blooma.com/. | https://dingalinged-cpu.github.io/registry/c/blooma-minneapolis/
+5. Modo Yoga | trust 16.0 | Modo Yoga is a yoga studio in Minneapolis, MN at 3252B Lake Street West, Minneapolis, MN 55416. Phone: +16129203004. Website: https://modoyoga.com/minneapolis/join/class-schedule/. | https://dingalinged-cpu.github.io/registry/c/modo-yoga-minneapolis/
+6. Sunna | trust 16.0 | Sunna is a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, Minneapolis, MN 55414. Phone: +16124171991. Website: https://www.spacesunna.com/. | https://dingalinged-cpu.github.io/registry/c/sunna-minneapolis/
+7. YogaFit | trust 16.0 | YogaFit is a yoga studio in Edina, MN at 4507 France Avenue South, Edina, MN 55410. Phone: +16124441991. Website: https://www.yogafitstudios.com/studios/linden-hills. | https://dingalinged-cpu.github.io/registry/c/yogafit-edina/
+8. YMCA | trust 14.0 | YMCA is a yoga studio in Minneapolis, MN at 651 Nicollet Mall #300, Minneapolis, MN 55402. Website: https://www.ymcanorth.org/locations/dayton_y. | https://dingalinged-cpu.github.io/registry/c/ymca-minneapolis/
+9. 612 Jungle | trust 10.0 | 612 Jungle is a yoga studio in Minneapolis, MN at 2905 Garfield Avenue, Minneapolis, MN 55408. Website: https://www.612jungle.com/. | https://dingalinged-cpu.github.io/registry/c/612-jungle-minneapolis/
+10. Open Minds Fusion Studio | trust 10.0 | Open Minds Fusion Studio is a yoga studio in Minneapolis, MN at 515 West Lake Street, Minneapolis, MN 55408. Website: https://www.openmindsfusionstudio.com/. | https://dingalinged-cpu.github.io/registry/c/open-minds-fusion-studio-minneapolis/
+11. YogaFit | trust 9.0 | YogaFit is a yoga studio in Minneapolis, MN at 520 Northeast 1st Avenue, Minneapolis, MN. Website: https://yogafitstudios.com/. | https://dingalinged-cpu.github.io/registry/c/yogafit-minneapolis/
+12. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Minneapolis, MN at 945 Northeast Broadway Street, Minneapolis, MN 55413. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-minneapolis/
+13. Movement Arts Center | trust 4.0 | Movement Arts Center is a martial arts school in Minneapolis, MN at 2209 East Franklin Avenue, Minneapolis, MN 55404. | https://dingalinged-cpu.github.io/registry/c/movement-arts-center-minneapolis/
+14. YogaFit | trust 4.0 | YogaFit is a yoga studio in Minneapolis, MN at 1461 West Lake Street, Minneapolis, MN 55408. | https://dingalinged-cpu.github.io/registry/c/yogafit-minneapolis-n10104612819/
+15. Yess Yoga | trust 3.0 | Yess Yoga is a yoga studio in Minneapolis, MN at 105 East 26th Street, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/yess-yoga-minneapolis/
+16. Big River Yoga | trust 0.0 | Big River Yoga is a yoga studio in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/big-river-yoga-minneapolis/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

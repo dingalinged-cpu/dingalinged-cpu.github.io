@@ -1,0 +1,606 @@
+{
+ "keyword": "chiropractor minneapolis mn",
+ "slug": "chiropractor-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "chiropractor",
+ "query": "Who are the best chiropractor providers in Minneapolis, MN?",
+ "matches": [
+  "chiropractor in Minneapolis, MN",
+  "chiropractor near me (Minneapolis, MN)",
+  "best chiropractor Minneapolis, MN",
+  "top rated chiropractor Minneapolis, MN",
+  "affordable chiropractor Minneapolis, MN",
+  "emergency chiropractor Minneapolis, MN"
+ ],
+ "answer": "The top unpaid chiropractor listing for Minneapolis, MN is Lyn Lake Chiropractic (a chiropractor in Minneapolis, MN at 2937 Lyndale Avenue South #201, Minneapolis, MN 55408. Phone: +16128798000. Website: https://lynlakechiropractic.com/). 18 chiropractor businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "lyn-lake-chiropractic-minneapolis",
+   "name": "Lyn Lake Chiropractic",
+   "summary": "Lyn Lake Chiropractic is a chiropractor in Minneapolis, MN at 2937 Lyndale Avenue South #201, Minneapolis, MN 55408. Phone: +16128798000. Website: https://lynlakechiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyn-lake-chiropractic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyn-lake-chiropractic-minneapolis.json",
+   "address": {
+    "streetAddress": "2937 Lyndale Avenue South #201",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9491138,
+    "lon": -93.2876545
+   },
+   "phone": "+16128798000",
+   "website": "https://lynlakechiropractic.com/",
+   "opening_hours": "Mo 08:30-18:00; Tu-Th14:00-18:00; Fr 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9894547871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "art-district-chiropractic-minneapolis",
+   "name": "Art District Chiropractic",
+   "summary": "Art District Chiropractic is a chiropractor in Minneapolis, MN at 208 Northeast 13th Avenue, Minneapolis, MN 55413. Phone: +16127412736. Website: https://artdistrictchiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/art-district-chiropractic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/art-district-chiropractic-minneapolis.json",
+   "address": {
+    "streetAddress": "208 Northeast 13th Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0005821,
+    "lon": -93.2656941
+   },
+   "phone": "+16127412736",
+   "website": "https://artdistrictchiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11255882263",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "bryn-mawr-chiropractic-minneapolis",
+   "name": "Bryn Mawr Chiropractic",
+   "summary": "Bryn Mawr Chiropractic is a chiropractor in Minneapolis, MN at 402 Penn Avenue South, Minneapolis, MN 55405. Phone: +16123773248. Website: https://www.brynmawrchiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bryn-mawr-chiropractic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bryn-mawr-chiropractic-minneapolis.json",
+   "address": {
+    "streetAddress": "402 Penn Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9734464,
+    "lon": -93.3085267
+   },
+   "phone": "+16123773248",
+   "website": "https://www.brynmawrchiro.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9104267201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "chirocenter-chiropractic-minneapolis",
+   "name": "ChiroCenter Chiropractic",
+   "summary": "ChiroCenter Chiropractic is a chiropractor in Minneapolis, MN at 2112 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128741313. Website: https://www.chirocentermn.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chirocenter-chiropractic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chirocenter-chiropractic-minneapolis.json",
+   "address": {
+    "streetAddress": "2112 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9614465,
+    "lon": -93.2882671
+   },
+   "phone": "+16128741313",
+   "website": "https://www.chirocentermn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287908890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "minneapolis-chiropractic-center-minneapolis",
+   "name": "Minneapolis Chiropractic Center",
+   "summary": "Minneapolis Chiropractic Center is a chiropractor in Minneapolis, MN at 1216 West Lake Street, Minneapolis, MN 55408. Phone: +16123455396. Website: https://mplschiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minneapolis-chiropractic-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-chiropractic-center-minneapolis.json",
+   "address": {
+    "streetAddress": "1216 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9485116,
+    "lon": -93.2953907
+   },
+   "phone": "+16123455396",
+   "website": "https://mplschiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334216611",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "uptown-chiropractic-minneapolis",
+   "name": "Uptown Chiropractic",
+   "summary": "Uptown Chiropractic is a chiropractor in Minneapolis, MN at 1221 West Lake Street #102, Minneapolis, MN 55408. Phone: +16128740705. Website: https://www.uptownchiropractor.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uptown-chiropractic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uptown-chiropractic-minneapolis.json",
+   "address": {
+    "streetAddress": "1221 West Lake Street #102",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482365,
+    "lon": -93.2946861
+   },
+   "phone": "+16128740705",
+   "website": "https://www.uptownchiropractor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11004566370",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "vyan-chiropractic-clinic-p-a-minneapolis",
+   "name": "Vyan Chiropractic Clinic, P.A.",
+   "summary": "Vyan Chiropractic Clinic, P.A. is a chiropractor in Minneapolis, MN at 2727 Nicollet Avenue South #6, Minneapolis, MN 55408. Phone: +16128702545. Website: https://www.chauchiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vyan-chiropractic-clinic-p-a-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vyan-chiropractic-clinic-p-a-minneapolis.json",
+   "address": {
+    "streetAddress": "2727 Nicollet Avenue South #6",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9526912,
+    "lon": -93.2774343
+   },
+   "phone": "+16128702545",
+   "website": "https://www.chauchiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4621509980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "life-in-light-chiropractic-minneapolis",
+   "name": "Life in Light Chiropractic",
+   "summary": "Life in Light Chiropractic is a chiropractor in Minneapolis, MN at 3304 West 44th Street, Minneapolis, MN 55410. Website: https://www.lifeinlight.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-in-light-chiropractic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-in-light-chiropractic-minneapolis.json",
+   "address": {
+    "streetAddress": "3304 West 44th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9234619,
+    "lon": -93.3218583
+   },
+   "website": "https://www.lifeinlight.com/",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12171075661",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "the-joint-chiropractic-minneapolis",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Minneapolis, MN at 3208 Lake Street West, Minneapolis, MN 55416. Phone: +16513748580.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-minneapolis.json",
+   "address": {
+    "streetAddress": "3208 Lake Street West",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9491159,
+    "lon": -93.3199538
+   },
+   "phone": "+16513748580",
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 10:00-14:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6815703766",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "old-st-anthony-chiropractic-and-rehabilitation-minneapolis",
+   "name": "Old St. Anthony Chiropractic and Rehabilitation",
+   "summary": "Old St. Anthony Chiropractic and Rehabilitation is a chiropractor in Minneapolis, MN at 21 4th Street Northeast, Minneapolis, MN. Phone: +16123792344.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/old-st-anthony-chiropractic-and-rehabilitation-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/old-st-anthony-chiropractic-and-rehabilitation-minneapolis.json",
+   "address": {
+    "streetAddress": "21 4th Street Northeast",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.989205,
+    "lon": -93.2552334
+   },
+   "phone": "+16123792344",
+   "opening_hours": "Mo-We,Fr 08:30-12:00; Mo,We,Fr 13:00-18:00; Tu 13:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1087602224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "core-health-chiropractic-minneapolis",
+   "name": "Core Health Chiropractic",
+   "summary": "Core Health Chiropractic is a chiropractor in Minneapolis, MN at 2837 Lyndale Avenue South, Minneapolis, MN 55408. Website: https://uptowncore.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/core-health-chiropractic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/core-health-chiropractic-minneapolis.json",
+   "address": {
+    "streetAddress": "2837 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9507373,
+    "lon": -93.2878379
+   },
+   "website": "https://uptowncore.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5288561961",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "project-chair-minneapolis",
+   "name": "Project Chair",
+   "summary": "Project Chair is a chiropractor in Minneapolis, MN. Website: https://www.projectwellness.com/bakercenter.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/project-chair-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/project-chair-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9752607,
+    "lon": -93.2706342
+   },
+   "website": "https://www.projectwellness.com/bakercenter",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451748983",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "take-care-chiropractic-and-wellness-minneapolis",
+   "name": "Take Care Chiropractic & Wellness",
+   "summary": "Take Care Chiropractic & Wellness is a chiropractor in Minneapolis, MN. Website: https://www.takecarechiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-care-chiropractic-and-wellness-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-care-chiropractic-and-wellness-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9773836,
+    "lon": -93.2690576
+   },
+   "website": "https://www.takecarechiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13030049621",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "cultural-chiropractic-north-minneapolis",
+   "name": "Cultural Chiropractic North",
+   "summary": "Cultural Chiropractic North is a chiropractor in Minneapolis, MN.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cultural-chiropractic-north-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cultural-chiropractic-north-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0260526,
+    "lon": -93.3131697
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11347302002",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "lakes-holistic-care-minneapolis",
+   "name": "Lakes Holistic Care",
+   "summary": "Lakes Holistic Care is a chiropractor in Minneapolis, MN.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakes-holistic-care-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakes-holistic-care-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.901482,
+    "lon": -93.2624282
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12305698180",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "minneapolis-and-st-paul-chiropractic-minneapolis",
+   "name": "Minneapolis & St Paul Chiropractic",
+   "summary": "Minneapolis & St Paul Chiropractic is a chiropractor in Minneapolis, MN.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minneapolis-and-st-paul-chiropractic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-and-st-paul-chiropractic-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.948202,
+    "lon": -93.2099755
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12233125764",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "premier-health-minneapolis",
+   "name": "Premier Health",
+   "summary": "Premier Health is a chiropractor in Minneapolis, MN.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-health-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-health-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482416,
+    "lon": -93.247964
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12175198690",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "robbins-urban-wellness-retreat-minneapolis",
+   "name": "Robbins Urban Wellness Retreat",
+   "summary": "Robbins Urban Wellness Retreat is a chiropractor in Minneapolis, MN.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/robbins-urban-wellness-retreat-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/robbins-urban-wellness-retreat-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0260533,
+    "lon": -93.3133118
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11347302001",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

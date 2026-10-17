@@ -1,0 +1,63 @@
+{
+ "keyword": "primary care physician rogers mn",
+ "slug": "primary-care-physician-rogers-mn",
+ "place": "Rogers, MN",
+ "service": "primary care physician",
+ "query": "Who are the best primary care physician providers in Rogers, MN?",
+ "matches": [
+  "primary care physician in Rogers, MN",
+  "primary care physician near me (Rogers, MN)",
+  "best primary care physician Rogers, MN",
+  "top rated primary care physician Rogers, MN",
+  "affordable primary care physician Rogers, MN",
+  "emergency primary care physician Rogers, MN"
+ ],
+ "answer": "The top unpaid primary care physician listing for Rogers, MN is Northwest Family Clinics (a family medicine practice in Rogers, MN at 21395 John Milless Drive #Suite 100, Rogers, MN 55374. Phone: +17635046400. Website: https://www.northwestfamilyclinics.com/). 1 primary care physician businesses are listed for Rogers, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "northwest-family-clinics-rogers",
+   "name": "Northwest Family Clinics",
+   "summary": "Northwest Family Clinics is a family medicine practice in Rogers, MN at 21395 John Milless Drive #Suite 100, Rogers, MN 55374. Phone: +17635046400. Website: https://www.northwestfamilyclinics.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwest-family-clinics-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwest-family-clinics-rogers.json",
+   "address": {
+    "streetAddress": "21395 John Milless Drive #Suite 100",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1920835,
+    "lon": -93.5508165
+   },
+   "phone": "+17635046400",
+   "website": "https://www.northwestfamilyclinics.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7061386957",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

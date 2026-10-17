@@ -1,0 +1,669 @@
+{
+ "keyword": "music lessons",
+ "slug": "music-lessons",
+ "place": "the United States",
+ "service": "music lessons",
+ "query": "Who are the best music lessons providers in the United States?",
+ "matches": [
+  "music lessons in the United States",
+  "music lessons near me (the United States)",
+  "best music lessons the United States",
+  "top rated music lessons the United States",
+  "affordable music lessons the United States",
+  "emergency music lessons the United States"
+ ],
+ "answer": "The top unpaid music lessons listing for the United States is Chanson Voice & Music Academy (a music school in Saint Paul, MN at 795 Raymond Avenue, Saint Paul, MN 55114. Phone: +16126301599. Website: https://chansonvoicestudios.com/). 20 music lessons businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "chanson-voice-and-music-academy-saint-paul",
+   "name": "Chanson Voice & Music Academy",
+   "summary": "Chanson Voice & Music Academy is a music school in Saint Paul, MN at 795 Raymond Avenue, Saint Paul, MN 55114. Phone: +16126301599. Website: https://chansonvoicestudios.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanson-voice-and-music-academy-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanson-voice-and-music-academy-saint-paul.json",
+   "address": {
+    "streetAddress": "795 Raymond Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9653119,
+    "lon": -93.1977724
+   },
+   "phone": "+16126301599",
+   "website": "https://chansonvoicestudios.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6262946708",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "macphail-center-for-music-minneapolis",
+   "name": "MacPhail Center for Music",
+   "summary": "MacPhail Center for Music is a music school in Minneapolis, MN at 501 South 2nd Street, Minneapolis, MN 55401. Phone: +16123210100. Website: https://www.macphail.org/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/macphail-center-for-music-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/macphail-center-for-music-minneapolis.json",
+   "address": {
+    "streetAddress": "501 South 2nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9794451,
+    "lon": -93.2604934
+   },
+   "phone": "+16123210100",
+   "website": "https://www.macphail.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/81049070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "sarah-janes-music-school-minneapolis",
+   "name": "Sarah Janes Music School",
+   "summary": "Sarah Janes Music School is a music school in Minneapolis, MN. Phone: +16129302522. Website: https://www.sarahjanesmusicschool.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sarah-janes-music-school-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sarah-janes-music-school-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0139189,
+    "lon": -93.2475895
+   },
+   "phone": "+16129302522",
+   "website": "https://www.sarahjanesmusicschool.com/",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11261722556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "school-of-rock-saint-paul",
+   "name": "School of Rock",
+   "summary": "School of Rock is a music school in Saint Paul, MN at 244 Cleveland Avenue South, Saint Paul, MN 55105. Phone: +16512921917. Website: https://www.schoolofrock.com/locations/stpaul.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/school-of-rock-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/school-of-rock-saint-paul.json",
+   "address": {
+    "streetAddress": "244 Cleveland Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9341119,
+    "lon": -93.1872435
+   },
+   "phone": "+16512921917",
+   "website": "https://www.schoolofrock.com/locations/stpaul",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11587522628",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "walker-west-music-academy-saint-paul",
+   "name": "Walker West Music Academy",
+   "summary": "Walker West Music Academy is a music school in Saint Paul, MN at 650 Marshall Avenue, Saint Paul, MN 55104. Phone: +16512242929. Website: https://walkerwest.org/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walker-west-music-academy-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walker-west-music-academy-saint-paul.json",
+   "address": {
+    "streetAddress": "650 Marshall Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9482334,
+    "lon": -93.1279844
+   },
+   "phone": "+16512242929",
+   "website": "https://walkerwest.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3129507950",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "womens-drum-center-saint-paul",
+   "name": "Women's Drum Center",
+   "summary": "Women's Drum Center is a music school in Saint Paul, MN at 2242 University Avenue West, Saint Paul, MN 55114. Phone: +16512067617. Website: https://womensdrumcenter.org/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/womens-drum-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/womens-drum-center-saint-paul.json",
+   "address": {
+    "streetAddress": "2242 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9615799,
+    "lon": -93.1928112
+   },
+   "phone": "+16512067617",
+   "website": "https://womensdrumcenter.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152738745",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "eighty-eight-notes-school-of-music-falcon-heights",
+   "name": "Eighty Eight Notes School of Music",
+   "summary": "Eighty Eight Notes School of Music is a music school in Falcon Heights, MN at 1557 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16518950891. Website: https://www.88notesmusic.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eighty-eight-notes-school-of-music-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eighty-eight-notes-school-of-music-falcon-heights.json",
+   "address": {
+    "streetAddress": "1557 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920795,
+    "lon": -93.1655699
+   },
+   "phone": "+16518950891",
+   "website": "https://www.88notesmusic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "house-of-music-minneapolis",
+   "name": "House of Music",
+   "summary": "House of Music is a music school in Minneapolis, MN at 4948 Washburn Avenue South, Minneapolis, MN 55410. Website: https://www.lhhouseofmusic.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/house-of-music-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/house-of-music-minneapolis.json",
+   "address": {
+    "streetAddress": "4948 Washburn Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9128027,
+    "lon": -93.3179366
+   },
+   "website": "https://www.lhhouseofmusic.com/",
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12223879872",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "slam-academy-minneapolis",
+   "name": "Slam Academy",
+   "summary": "Slam Academy is a music school in Minneapolis, MN. Phone: +16122937526. Website: https://slamacademy.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slam-academy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slam-academy-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9731202,
+    "lon": -93.2737845
+   },
+   "phone": "+16122937526",
+   "website": "https://slamacademy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2527309568",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "the-st-paul-conservatory-of-music-saint-paul",
+   "name": "The St. Paul Conservatory of Music",
+   "summary": "The St. Paul Conservatory of Music is a music school in Saint Paul, MN. Phone: +16512242205. Website: https://thespcm.org/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-st-paul-conservatory-of-music-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-st-paul-conservatory-of-music-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9407876,
+    "lon": -93.1649686
+   },
+   "phone": "+16512242205",
+   "website": "https://thespcm.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8807876221",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "brighter-minds-music-mendota-heights",
+   "name": "Brighter Minds Music",
+   "summary": "Brighter Minds Music is a music school in Mendota Heights, MN at 770 North Plaza Drive, Mendota Heights, MN 55120. Website: https://www.brightermindsmusic.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brighter-minds-music-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brighter-minds-music-mendota-heights.json",
+   "address": {
+    "streetAddress": "770 North Plaza Drive",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55120",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55120",
+   "geo": {
+    "lat": 44.8819626,
+    "lon": -93.1247324
+   },
+   "website": "https://www.brightermindsmusic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "bach-to-rock-plymouth",
+   "name": "Bach to Rock",
+   "summary": "Bach to Rock is a music school in Plymouth, MN at 4345 Nathan Lane North, Plymouth, MN 55442.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bach-to-rock-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bach-to-rock-plymouth.json",
+   "address": {
+    "streetAddress": "4345 Nathan Lane North",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55442",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55442",
+   "geo": {
+    "lat": 45.0337744,
+    "lon": -93.4096703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9382489662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "bongos-and-buds-hopkins",
+   "name": "Bongo's & Bud's",
+   "summary": "Bongo's & Bud's is a music school in Hopkins, MN at 820 Mainstreet, Hopkins, MN 55343.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bongos-and-buds-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bongos-and-buds-hopkins.json",
+   "address": {
+    "streetAddress": "820 Mainstreet",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9242998,
+    "lon": -93.4111018
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8690947763",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "macphail-chanhassen",
+   "name": "MacPhail",
+   "summary": "MacPhail is a music school in Chanhassen, MN at 470 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/macphail-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/macphail-chanhassen.json",
+   "address": {
+    "streetAddress": "470 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8623126,
+    "lon": -93.5326917
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391790003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "maestoso-music-studio-saint-louis-park",
+   "name": "Maestoso Music Studio",
+   "summary": "Maestoso Music Studio is a music school in Saint Louis Park, MN at 3402 Library Lane, Saint Louis Park, MN 55426.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maestoso-music-studio-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maestoso-music-studio-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3402 Library Lane",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9396586,
+    "lon": -93.3627817
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604575743",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "rock-camp-experience-saint-louis-park",
+   "name": "Rock Camp Experience",
+   "summary": "Rock Camp Experience is a music school in Saint Louis Park, MN at 6415 Walker Street, Saint Louis Park, MN 55426.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rock-camp-experience-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rock-camp-experience-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6415 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9387636,
+    "lon": -93.3614152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/192837027",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "songs-with-sarah-minneapolis",
+   "name": "Songs with Sarah",
+   "summary": "Songs with Sarah is a music school in Minneapolis, MN at 404 East 48th Street, Minneapolis, MN.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/songs-with-sarah-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/songs-with-sarah-minneapolis.json",
+   "address": {
+    "streetAddress": "404 East 48th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9162235,
+    "lon": -93.270059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448437201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "bach-to-rock-minnetonka",
+   "name": "Bach to Rock",
+   "summary": "Bach to Rock is a music school in Minnetonka, MN.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bach-to-rock-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bach-to-rock-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9172847,
+    "lon": -93.5012545
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487982",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "music-on-grand-saint-paul",
+   "name": "Music on Grand",
+   "summary": "Music on Grand is a music school in Saint Paul, MN.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/music-on-grand-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/music-on-grand-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9397291,
+    "lon": -93.1316118
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13890155680",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "white-bear-dance-studio-white-bear-lake",
+   "name": "White Bear Dance Studio",
+   "summary": "White Bear Dance Studio is a music school in White Bear Lake, MN.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/white-bear-dance-studio-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/white-bear-dance-studio-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0638935,
+    "lon": -92.9965328
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449389871",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

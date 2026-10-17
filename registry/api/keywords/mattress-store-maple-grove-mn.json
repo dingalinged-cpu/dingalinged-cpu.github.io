@@ -1,0 +1,127 @@
+{
+ "keyword": "mattress store maple grove mn",
+ "slug": "mattress-store-maple-grove-mn",
+ "place": "Maple Grove, MN",
+ "service": "mattress store",
+ "query": "Who are the best mattress store providers in Maple Grove, MN?",
+ "matches": [
+  "mattress store in Maple Grove, MN",
+  "mattress store near me (Maple Grove, MN)",
+  "best mattress store Maple Grove, MN",
+  "top rated mattress store Maple Grove, MN",
+  "affordable mattress store Maple Grove, MN",
+  "emergency mattress store Maple Grove, MN"
+ ],
+ "answer": "The top unpaid mattress store listing for Maple Grove, MN is Original Mattress Factory (a mattress store in Maple Grove, MN at 8071 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634209944. Website: https://www.originalmattress.com/maple-grove-minnesota-store). 3 mattress store businesses are listed for Maple Grove, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "original-mattress-factory-maple-grove",
+   "name": "Original Mattress Factory",
+   "summary": "Original Mattress Factory is a mattress store in Maple Grove, MN at 8071 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634209944. Website: https://www.originalmattress.com/maple-grove-minnesota-store.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/original-mattress-factory-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/original-mattress-factory-maple-grove.json",
+   "address": {
+    "streetAddress": "8071 Wedgewood Lane",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1010014,
+    "lon": -93.4504595
+   },
+   "phone": "+17634209944",
+   "website": "https://www.originalmattress.com/maple-grove-minnesota-store",
+   "opening_hours": "Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613971253",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "mattress-firm-maple-grove",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Maple Grove, MN at 12729 Elm Creek Boulevard North, Maple Grove, MN 55369. Phone: +17634165226. Website: https://www.mattressfirm.com/en-us/stores/mn/maple-grove/080032/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-maple-grove.json",
+   "address": {
+    "streetAddress": "12729 Elm Creek Boulevard North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0942666,
+    "lon": -93.4421728
+   },
+   "phone": "+17634165226",
+   "website": "https://www.mattressfirm.com/en-us/stores/mn/maple-grove/080032/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8902410092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "sleep-number-maple-grove",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Maple Grove, MN.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0950405,
+    "lon": -93.4302948
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/761529217",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

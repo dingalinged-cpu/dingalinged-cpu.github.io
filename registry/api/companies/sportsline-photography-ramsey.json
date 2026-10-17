@@ -1,0 +1,62 @@
+{
+ "slug": "sportsline-photography-ramsey",
+ "name": "Sportsline Photography",
+ "categories": [
+  "photographer"
+ ],
+ "keywords": [
+  "photographer",
+  "photographer ramsey mn"
+ ],
+ "services": [
+  {
+   "name": "photographer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6451 McKinley Street Northwest #E",
+  "addressLocality": "Ramsey",
+  "addressRegion": "MN",
+  "postalCode": "55303",
+  "addressCountry": "US"
+ },
+ "city": "Ramsey",
+ "state": "MN",
+ "zip": "55303",
+ "geo": {
+  "lat": 45.2238534,
+  "lon": -93.430817
+ },
+ "phone": "+16128392618",
+ "website": "https://www.sportslinephotography.com/",
+ "email": "info@sportslinephotography.com",
+ "opening_hours": "Mo-Fr 09:00-17:00",
+ "social": [
+  "https://www.facebook.com/SportsLinePhotgraphy/",
+  "https://www.instagram.com/sportslinephotography/"
+ ],
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13444477992",
+ "osm": {
+  "type": "node",
+  "id": 13444477992,
+  "tags_used": {
+   "craft": "photographer"
+  }
+ },
+ "municipality": "Ramsey",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sportsline-photography-ramsey/",
+ "summary": "Sportsline Photography is a photographer in Ramsey, MN at 6451 McKinley Street Northwest #E, Ramsey, MN 55303. Phone: +16128392618. Website: https://www.sportslinephotography.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

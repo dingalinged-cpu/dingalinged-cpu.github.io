@@ -1,0 +1,64 @@
+{
+ "keyword": "mechanic falcon heights mn",
+ "slug": "mechanic-falcon-heights-mn",
+ "place": "Falcon Heights, MN",
+ "service": "mechanic",
+ "query": "Who are the best mechanic providers in Falcon Heights, MN?",
+ "matches": [
+  "mechanic in Falcon Heights, MN",
+  "mechanic near me (Falcon Heights, MN)",
+  "best mechanic Falcon Heights, MN",
+  "top rated mechanic Falcon Heights, MN",
+  "affordable mechanic Falcon Heights, MN",
+  "emergency mechanic Falcon Heights, MN"
+ ],
+ "answer": "The top unpaid mechanic listing for Falcon Heights, MN is Honest-1 Auto Care (an auto repair shop in Falcon Heights, MN at 1565 Hamline Avenue North, Falcon Heights, MN 55108. Phone: +16513625986. Website: https://honest1hamlinehoyt.com/). 1 mechanic businesses are listed for Falcon Heights, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "honest-1-auto-care-falcon-heights",
+   "name": "Honest-1 Auto Care",
+   "summary": "Honest-1 Auto Care is an auto repair shop in Falcon Heights, MN at 1565 Hamline Avenue North, Falcon Heights, MN 55108. Phone: +16513625986. Website: https://honest1hamlinehoyt.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/honest-1-auto-care-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/honest-1-auto-care-falcon-heights.json",
+   "address": {
+    "streetAddress": "1565 Hamline Avenue North",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9884857,
+    "lon": -93.1570153
+   },
+   "phone": "+16513625986",
+   "website": "https://honest1hamlinehoyt.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/159114538",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

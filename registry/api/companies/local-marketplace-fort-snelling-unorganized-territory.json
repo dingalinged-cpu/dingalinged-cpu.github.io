@@ -1,0 +1,51 @@
+{
+ "slug": "local-marketplace-fort-snelling-unorganized-territory",
+ "name": "Local Marketplace",
+ "categories": [
+  "gift shop"
+ ],
+ "keywords": [
+  "gift shop",
+  "gift shop fort snelling unorganized territory mn"
+ ],
+ "services": [
+  {
+   "name": "gift shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Fort Snelling Unorganized Territory",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Fort Snelling Unorganized Territory",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8834299,
+  "lon": -93.2147154
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11186279013",
+ "osm": {
+  "type": "node",
+  "id": 11186279013,
+  "tags_used": {
+   "shop": "gift"
+  }
+ },
+ "municipality": "Fort Snelling Unorganized Territory",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/local-marketplace-fort-snelling-unorganized-territory/",
+ "summary": "Local Marketplace is a gift shop in Fort Snelling Unorganized Territory, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,19 @@
+The top unpaid electrician listing for the United States is Damyans Electric Inc. (an electrician in Hopkins, MN at 8000 Powell Road ##150, Hopkins, MN 55343. Phone: +16126169251. Website: https://damyanselectric.com/). 9 electrician businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best electrician providers in the United States?
+
+Also answers: electrician in the United States; electrician near me (the United States); best electrician the United States; top rated electrician the United States; affordable electrician the United States; emergency electrician the United States
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Damyans Electric Inc. | trust 20.0 | Damyans Electric Inc. is an electrician in Hopkins, MN at 8000 Powell Road ##150, Hopkins, MN 55343. Phone: +16126169251. Website: https://damyanselectric.com/. | https://dingalinged-cpu.github.io/registry/c/damyans-electric-inc-hopkins/
+2. Electric City Corporation | trust 16.0 | Electric City Corporation is an electrician in Saint Louis Park, MN at 3230 Gorham Avenue #2, Saint Louis Park, MN 55426. Phone: +19524068238. Website: https://electriccitycorp.com/. | https://dingalinged-cpu.github.io/registry/c/electric-city-corporation-saint-louis-park/
+3. Electric Craftsman | trust 16.0 | Electric Craftsman is an electrician in Hopkins, MN at 1424 Mainstreet, Hopkins, MN 55343. Phone: +19529356739. Website: https://electric-craftsman.com/. | https://dingalinged-cpu.github.io/registry/c/electric-craftsman-hopkins/
+4. North Country Auto & Marine | trust 16.0 | North Country Auto & Marine is an electrician in Golden Valley, MN at 710 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +16129192963. Website: https://www.facebook.com/northcountryam/. | https://dingalinged-cpu.github.io/registry/c/north-country-auto-and-marine-golden-valley/
+5. Shinin' Brightly Electric LLC | trust 14.0 | Shinin' Brightly Electric LLC is an electrician in White Bear Lake, MN at 2130 11th Street, White Bear Lake, MN 55110. Phone: +16127304120. | https://dingalinged-cpu.github.io/registry/c/shinin-brightly-electric-llc-white-bear-lake/
+6. Gunnar Electric | trust 10.0 | Gunnar Electric is an electrician in Eden Prairie, MN at 14850 Martin Drive, Eden Prairie, MN 55344. Website: https://gunnarelectric.com/. | https://dingalinged-cpu.github.io/registry/c/gunnar-electric-eden-prairie/
+7. Park Grove Electric | trust 10.0 | Park Grove Electric is an electrician in Saint Paul Park, MN at 520 Pullman Avenue, Saint Paul Park, MN 55071. Website: https://www.parkgroveelectric.com/. | https://dingalinged-cpu.github.io/registry/c/park-grove-electric-saint-paul-park/
+8. Daley Electric | trust 4.0 | Daley Electric is an electrician in Newport, MN at 222 21st Street, Newport, MN 55055. | https://dingalinged-cpu.github.io/registry/c/daley-electric-newport/
+9. Paulson & Clark Electrical Engineering | trust 4.0 | Paulson & Clark Electrical Engineering is an electrician in White Bear Lake, MN at 2352 County Road J East, White Bear Lake, MN 55110. | https://dingalinged-cpu.github.io/registry/c/paulson-and-clark-electrical-engineering-white-bear-lake/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

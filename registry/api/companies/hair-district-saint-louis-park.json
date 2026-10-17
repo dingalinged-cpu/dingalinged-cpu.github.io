@@ -1,0 +1,63 @@
+{
+ "slug": "hair-district-saint-louis-park",
+ "name": "Hair District",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon saint louis park mn",
+  "haircut saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3725 Grand Way",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9344552,
+  "lon": -93.3401333
+ },
+ "phone": "+19529296900",
+ "website": "https://www.thehairdistrict.com/st-louis-park/",
+ "opening_hours": "Mo-Th 09:00-20:00; Fr 10:30-18:00; Sa 09:00-16:00; PH closed",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/1907408854",
+ "osm": {
+  "type": "node",
+  "id": 1907408854,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hair-district-saint-louis-park/",
+ "summary": "Hair District is a hair salon in Saint Louis Park, MN at 3725 Grand Way, Saint Louis Park, MN 55416. Phone: +19529296900. Website: https://www.thehairdistrict.com/st-louis-park/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

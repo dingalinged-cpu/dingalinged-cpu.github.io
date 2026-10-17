@@ -1,0 +1,23 @@
+Leather Works Minnesota is a boutique in Saint Paul, MN at 736 Oakdale Avenue, Saint Paul, MN 55017. Website: https://leatherworksminnesota.com/.
+
+# Leather Works Minnesota
+
+- Category: boutique
+- Services: boutique
+- Address: 736 Oakdale Avenue, Saint Paul, MN 55017
+- City: Saint Paul
+- State: MN
+- ZIP: 55017
+- Coordinates: 44.9238512, -93.0774733
+- Phone: n/a
+- Website: https://leatherworksminnesota.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/leather-works-minnesota-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/leather-works-minnesota-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13630461601 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

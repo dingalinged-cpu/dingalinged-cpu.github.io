@@ -1,0 +1,64 @@
+{
+ "keyword": "dog groomer roseville mn",
+ "slug": "dog-groomer-roseville-mn",
+ "place": "Roseville, MN",
+ "service": "dog groomer",
+ "query": "Who are the best dog groomer providers in Roseville, MN?",
+ "matches": [
+  "dog groomer in Roseville, MN",
+  "dog groomer near me (Roseville, MN)",
+  "best dog groomer Roseville, MN",
+  "top rated dog groomer Roseville, MN",
+  "affordable dog groomer Roseville, MN",
+  "emergency dog groomer Roseville, MN"
+ ],
+ "answer": "The top unpaid dog groomer listing for Roseville, MN is Dig It Dog Grooming (a dog groomer in Roseville, MN at 1748 Lexington Avenue North, Roseville, MN 55113. Phone: +16517759856. Website: https://www.digitdoggrooming.com/). 1 dog groomer businesses are listed for Roseville, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "dig-it-dog-grooming-roseville",
+   "name": "Dig It Dog Grooming",
+   "summary": "Dig It Dog Grooming is a dog groomer in Roseville, MN at 1748 Lexington Avenue North, Roseville, MN 55113. Phone: +16517759856. Website: https://www.digitdoggrooming.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dig-it-dog-grooming-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dig-it-dog-grooming-roseville.json",
+   "address": {
+    "streetAddress": "1748 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9943345,
+    "lon": -93.1456824
+   },
+   "phone": "+16517759856",
+   "website": "https://www.digitdoggrooming.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147583919",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

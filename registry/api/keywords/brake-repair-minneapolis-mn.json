@@ -1,0 +1,63 @@
+{
+ "keyword": "brake repair minneapolis mn",
+ "slug": "brake-repair-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "brake repair",
+ "query": "Who are the best brake repair providers in Minneapolis, MN?",
+ "matches": [
+  "brake repair in Minneapolis, MN",
+  "brake repair near me (Minneapolis, MN)",
+  "best brake repair Minneapolis, MN",
+  "top rated brake repair Minneapolis, MN",
+  "affordable brake repair Minneapolis, MN",
+  "emergency brake repair Minneapolis, MN"
+ ],
+ "answer": "The top unpaid brake repair listing for Minneapolis, MN is Great Brakes, Inc. (an auto repair shop in Minneapolis, MN at 3326 University Avenue Southeast, Minneapolis, MN 55414. Phone: +16123313635. Website: https://www.greatbrakesautorepair.com/). 1 brake repair businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "great-brakes-inc-minneapolis",
+   "name": "Great Brakes, Inc.",
+   "summary": "Great Brakes, Inc. is an auto repair shop in Minneapolis, MN at 3326 University Avenue Southeast, Minneapolis, MN 55414. Phone: +16123313635. Website: https://www.greatbrakesautorepair.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-brakes-inc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-brakes-inc-minneapolis.json",
+   "address": {
+    "streetAddress": "3326 University Avenue Southeast",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9687026,
+    "lon": -93.2106405
+   },
+   "phone": "+16123313635",
+   "website": "https://www.greatbrakesautorepair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6332183214",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

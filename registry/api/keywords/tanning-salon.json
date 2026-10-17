@@ -1,0 +1,644 @@
+{
+ "keyword": "tanning salon",
+ "slug": "tanning-salon",
+ "place": "the United States",
+ "service": "tanning salon",
+ "query": "Who are the best tanning salon providers in the United States?",
+ "matches": [
+  "tanning salon in the United States",
+  "tanning salon near me (the United States)",
+  "best tanning salon the United States",
+  "top rated tanning salon the United States",
+  "affordable tanning salon the United States",
+  "emergency tanning salon the United States"
+ ],
+ "answer": "The top unpaid tanning salon listing for the United States is $5 Tan (a tanning salon in Eagan, MN at 1348 Town Centre Drive, Eagan, MN 55123. Phone: +16514545500. Website: https://5dollartan.com/). 19 tanning salon businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "5-tan-eagan",
+   "name": "$5 Tan",
+   "summary": "$5 Tan is a tanning salon in Eagan, MN at 1348 Town Centre Drive, Eagan, MN 55123. Phone: +16514545500. Website: https://5dollartan.com/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-tan-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-tan-eagan.json",
+   "address": {
+    "streetAddress": "1348 Town Centre Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8305142,
+    "lon": -93.1637442
+   },
+   "phone": "+16514545500",
+   "website": "https://5dollartan.com/",
+   "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-19:00; Sa-Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12136740559",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "5-tan-shakopee",
+   "name": "$5 Tan",
+   "summary": "$5 Tan is a tanning salon in Shakopee, MN at 1102 Vierling Drive East, Shakopee, MN 55379. Phone: +19524020800. Website: https://5dollartan.com/l.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-tan-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-tan-shakopee.json",
+   "address": {
+    "streetAddress": "1102 Vierling Drive East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7818187,
+    "lon": -93.5091018
+   },
+   "phone": "+19524020800",
+   "website": "https://5dollartan.com/l",
+   "opening_hours": "Mo-Fr 8:00-20:00; Sa-Su 8:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/535792767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "sunwerks-minneapolis",
+   "name": "Sunwerks",
+   "summary": "Sunwerks is a tanning salon in Minneapolis, MN at 3070 Excelsior Boulevard #201, Minneapolis, MN 55416. Phone: +16122856000. Website: https://sunwerks.com/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunwerks-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunwerks-minneapolis.json",
+   "address": {
+    "streetAddress": "3070 Excelsior Boulevard #201",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9469913,
+    "lon": -93.3224569
+   },
+   "phone": "+16122856000",
+   "website": "https://sunwerks.com/",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-19:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6656004624",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "kats-airbrush-tanning-studios-saint-louis-park",
+   "name": "KATS Airbrush Tanning Studios",
+   "summary": "KATS Airbrush Tanning Studios is a tanning salon in Saint Louis Park, MN at 6510 Walker Street, Saint Louis Park, MN 55426. Phone: +16122404712. Website: https://katsairbrushtanning.com/home.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kats-airbrush-tanning-studios-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kats-airbrush-tanning-studios-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6510 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9391431,
+    "lon": -93.3622913
+   },
+   "phone": "+16122404712",
+   "website": "https://katsairbrushtanning.com/home",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604575739",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "palm-beach-tan-saint-louis-park",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Saint Louis Park, MN at 5330 Cedar Lake Road #300, Saint Louis Park, MN 55416. Phone: +19525440801. Website: https://palmbeachtan.com/locations/MN/St-Louis-Park-Cedar-Lake-Road.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5330 Cedar Lake Road #300",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9628574,
+    "lon": -93.3479834
+   },
+   "phone": "+19525440801",
+   "website": "https://palmbeachtan.com/locations/MN/St-Louis-Park-Cedar-Lake-Road",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9610330949",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "palm-beach-tan-roseville",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Roseville, MN at 2708 Lincoln Drive, Roseville, MN. Phone: +16516398266. Website: https://palmbeachtan.com/locations/MN/Roseville-Lincoln-Drive.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-roseville.json",
+   "address": {
+    "streetAddress": "2708 Lincoln Drive",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0222593,
+    "lon": -93.1686316
+   },
+   "phone": "+16516398266",
+   "website": "https://palmbeachtan.com/locations/MN/Roseville-Lincoln-Drive",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566806514",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "palm-beach-tan-minneapolis",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Minneapolis, MN at 1015 West Lake Street, Minneapolis, MN 55408. Website: https://palmbeachtan.com/locations/MN/Minneapolis-West-Lake-Street.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-minneapolis.json",
+   "address": {
+    "streetAddress": "1015 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482351,
+    "lon": -93.2928306
+   },
+   "website": "https://palmbeachtan.com/locations/MN/Minneapolis-West-Lake-Street",
+   "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-21:00; Su 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/771701402",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "totally-tan-and-spa-eagan",
+   "name": "Totally Tan and Spa",
+   "summary": "Totally Tan and Spa is a tanning salon in Eagan, MN at 1728 Town Centre Drive #145, Eagan, MN 55123. Phone: +17633559260.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/totally-tan-and-spa-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/totally-tan-and-spa-eagan.json",
+   "address": {
+    "streetAddress": "1728 Town Centre Drive #145",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8302194,
+    "lon": -93.1614459
+   },
+   "phone": "+17633559260",
+   "opening_hours": "Mo-Fr 09:00-21:00, Sa-Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1719957644",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "bronze-boss-tanned-by-tasheena-golden-valley",
+   "name": "Bronze Boss Tanned by Tasheena",
+   "summary": "Bronze Boss Tanned by Tasheena is a tanning salon in Golden Valley, MN. Phone: +16128171101. Website: https://bronzebosstannedbytasheena.business.site/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bronze-boss-tanned-by-tasheena-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bronze-boss-tanned-by-tasheena-golden-valley.json",
+   "address": {
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9719461,
+    "lon": -93.3630894
+   },
+   "phone": "+16128171101",
+   "website": "https://bronzebosstannedbytasheena.business.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11129016610",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "darque-tan-coon-rapids",
+   "name": "Darque Tan",
+   "summary": "Darque Tan is a tanning salon in Coon Rapids, MN at 13131 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17638622663.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/darque-tan-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/darque-tan-coon-rapids.json",
+   "address": {
+    "streetAddress": "13131 Riverdale Drive NW",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55448",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55448",
+   "geo": {
+    "lat": 45.2090963,
+    "lon": -93.3583511
+   },
+   "phone": "+17638622663",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952077",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "palm-beach-tan-chanhassen",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317. Website: https://palmbeachtan.com/locations/MN/West-79th-Street.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-chanhassen.json",
+   "address": {
+    "streetAddress": "530 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8598862,
+    "lon": -93.5335151
+   },
+   "website": "https://palmbeachtan.com/locations/MN/West-79th-Street",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391867611",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "the-glow-lounge-saint-paul",
+   "name": "The Glow Lounge",
+   "summary": "The Glow Lounge is a tanning salon in Saint Paul, MN at 1032 Grand Avenue, Saint Paul, MN 55105. Website: https://www.theglowlounge.com/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-glow-lounge-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-glow-lounge-saint-paul.json",
+   "address": {
+    "streetAddress": "1032 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9397402,
+    "lon": -93.1436647
+   },
+   "website": "https://www.theglowlounge.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/332909003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "totally-tan-saint-anthony",
+   "name": "Totally Tan",
+   "summary": "Totally Tan is a tanning salon in Saint Anthony, MN at 3910 Silver Lake Road Northeast, Saint Anthony, MN. Website: https://totallytanspa.com/our-locations/st-anthony/.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/totally-tan-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/totally-tan-saint-anthony.json",
+   "address": {
+    "streetAddress": "3910 Silver Lake Road Northeast",
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0398923,
+    "lon": -93.2190775
+   },
+   "website": "https://totallytanspa.com/our-locations/st-anthony/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12947681395",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "body-glow-sun-and-spray-long-lake",
+   "name": "Body Glow Sun & Spray",
+   "summary": "Body Glow Sun & Spray is a tanning salon in Long Lake, MN at 2073 Wayzata Boulevard #1000, Long Lake, MN 55356.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/body-glow-sun-and-spray-long-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/body-glow-sun-and-spray-long-lake.json",
+   "address": {
+    "streetAddress": "2073 Wayzata Boulevard #1000",
+    "addressLocality": "Long Lake",
+    "addressRegion": "MN",
+    "postalCode": "55356",
+    "addressCountry": "US"
+   },
+   "city": "Long Lake",
+   "state": "MN",
+   "zip": "55356",
+   "geo": {
+    "lat": 44.9879335,
+    "lon": -93.5774269
+   },
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6724052654",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "tanworks-saint-paul",
+   "name": "TanWorks",
+   "summary": "TanWorks is a tanning salon in Saint Paul, MN at 80 Snelling Avenue #Ste D, Saint Paul, MN 55104.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tanworks-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tanworks-saint-paul.json",
+   "address": {
+    "streetAddress": "80 Snelling Avenue #Ste D",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9434237,
+    "lon": -93.1660575
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7685403555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "5-tan-eden-prairie",
+   "name": "$5 Tan",
+   "summary": "$5 Tan is a tanning salon in Eden Prairie, MN.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-tan-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-tan-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8450863,
+    "lon": -93.4403979
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10597376711",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "5-tan-minnetonka",
+   "name": "$5 Tan",
+   "summary": "$5 Tan is a tanning salon in Minnetonka, MN.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-tan-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-tan-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9179907,
+    "lon": -93.5022694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "italian-tan-plymouth",
+   "name": "Italian Tan",
+   "summary": "Italian Tan is a tanning salon in Plymouth, MN.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/italian-tan-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/italian-tan-plymouth.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0287191,
+    "lon": -93.4556386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4119782528",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "sun-shoppe-crystal",
+   "name": "Sun Shoppe",
+   "summary": "Sun Shoppe is a tanning salon in Crystal, MN.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-shoppe-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-shoppe-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0527142,
+    "lon": -93.3684868
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129455339",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

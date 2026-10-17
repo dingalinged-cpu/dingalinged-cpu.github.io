@@ -1,0 +1,23 @@
+Stretch Lab is a gym in Minneapolis, MN at 3204 Lake Street West, Minneapolis, MN 55416. Phone: +16122364454. Website: https://stretchlab.com/.
+
+# Stretch Lab
+
+- Category: gym
+- Services: gym
+- Address: 3204 Lake Street West, Minneapolis, MN 55416
+- City: Minneapolis
+- State: MN
+- ZIP: 55416
+- Coordinates: 44.9490174, -93.319955
+- Phone: +16122364454
+- Website: https://stretchlab.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 06:00-20:00; Sa-Su 07:00-15:00; PH closed
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/stretch-lab-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/stretch-lab-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6815703745 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

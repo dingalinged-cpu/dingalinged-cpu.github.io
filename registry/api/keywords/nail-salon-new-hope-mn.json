@@ -1,0 +1,149 @@
+{
+ "keyword": "nail salon new hope mn",
+ "slug": "nail-salon-new-hope-mn",
+ "place": "New Hope, MN",
+ "service": "nail salon",
+ "query": "Who are the best nail salon providers in New Hope, MN?",
+ "matches": [
+  "nail salon in New Hope, MN",
+  "nail salon near me (New Hope, MN)",
+  "best nail salon New Hope, MN",
+  "top rated nail salon New Hope, MN",
+  "affordable nail salon New Hope, MN",
+  "emergency nail salon New Hope, MN"
+ ],
+ "answer": "The top unpaid nail salon listing for New Hope, MN is Great Nails (a nail salon in New Hope, MN at 4214 Winnetka Avenue North, New Hope, MN 55428). 4 nail salon businesses are listed for New Hope, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "great-nails-new-hope",
+   "name": "Great Nails",
+   "summary": "Great Nails is a nail salon in New Hope, MN at 4214 Winnetka Avenue North, New Hope, MN 55428.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-nails-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-nails-new-hope.json",
+   "address": {
+    "streetAddress": "4214 Winnetka Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "postalCode": "55428",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "zip": "55428",
+   "geo": {
+    "lat": 45.0337211,
+    "lon": -93.3797914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131834921",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "daisy-nails-new-hope",
+   "name": "Daisy Nails",
+   "summary": "Daisy Nails is a nail salon in New Hope, MN at 3548 Winnetka Avenue North, New Hope, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/daisy-nails-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/daisy-nails-new-hope.json",
+   "address": {
+    "streetAddress": "3548 Winnetka Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0211013,
+    "lon": -93.3786627
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4183839909",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "love-nails-new-hope",
+   "name": "Love Nails",
+   "summary": "Love Nails is a nail salon in New Hope, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/love-nails-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/love-nails-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0340301,
+    "lon": -93.3815471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7089810780",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "v-nails-new-hope",
+   "name": "V Nails",
+   "summary": "V Nails is a nail salon in New Hope, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/v-nails-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/v-nails-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0226451,
+    "lon": -93.3993539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335894131",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

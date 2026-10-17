@@ -1,0 +1,61 @@
+{
+ "keyword": "photographer saint louis park mn",
+ "slug": "photographer-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "photographer",
+ "query": "Who are the best photographer providers in Saint Louis Park, MN?",
+ "matches": [
+  "photographer in Saint Louis Park, MN",
+  "photographer near me (Saint Louis Park, MN)",
+  "best photographer Saint Louis Park, MN",
+  "top rated photographer Saint Louis Park, MN",
+  "affordable photographer Saint Louis Park, MN",
+  "emergency photographer Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid photographer listing for Saint Louis Park, MN is TKP Studio (a photographer in Saint Louis Park, MN at 3113 Lynn Avenue South, Saint Louis Park, MN 55416). 1 photographer businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "tkp-studio-saint-louis-park",
+   "name": "TKP Studio",
+   "summary": "TKP Studio is a photographer in Saint Louis Park, MN at 3113 Lynn Avenue South, Saint Louis Park, MN 55416.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tkp-studio-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tkp-studio-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3113 Lynn Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9461233,
+    "lon": -93.3356879
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/240334508",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

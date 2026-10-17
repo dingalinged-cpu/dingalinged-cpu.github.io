@@ -1,0 +1,161 @@
+{
+ "keyword": "preschool maple grove mn",
+ "slug": "preschool-maple-grove-mn",
+ "place": "Maple Grove, MN",
+ "service": "preschool",
+ "query": "Who are the best preschool providers in Maple Grove, MN?",
+ "matches": [
+  "preschool in Maple Grove, MN",
+  "preschool near me (Maple Grove, MN)",
+  "best preschool Maple Grove, MN",
+  "top rated preschool Maple Grove, MN",
+  "affordable preschool Maple Grove, MN",
+  "emergency preschool Maple Grove, MN"
+ ],
+ "answer": "The top unpaid preschool listing for Maple Grove, MN is KinderCare (a preschool in Maple Grove, MN at 13380 Grove Drive North, Maple Grove, MN 55369. Phone: +17634209200. Website: https://www.kindercare.com/our-centers/maple-grove/mn/301287). 4 preschool businesses are listed for Maple Grove, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "kindercare-maple-grove",
+   "name": "KinderCare",
+   "summary": "KinderCare is a preschool in Maple Grove, MN at 13380 Grove Drive North, Maple Grove, MN 55369. Phone: +17634209200. Website: https://www.kindercare.com/our-centers/maple-grove/mn/301287.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-maple-grove.json",
+   "address": {
+    "streetAddress": "13380 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1037097,
+    "lon": -93.4508217
+   },
+   "phone": "+17634209200",
+   "website": "https://www.kindercare.com/our-centers/maple-grove/mn/301287",
+   "opening_hours": "Mo-Fr 06:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613007176",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "casa-de-coraz-n-maple-grove",
+   "name": "Casa de Corazón",
+   "summary": "Casa de Corazón is a preschool in Maple Grove, MN at 8351 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17634163992. Website: https://casaearlylearning.com/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/casa-de-coraz-n-maple-grove.json",
+   "address": {
+    "streetAddress": "8351 Elm Creek Boulevard",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1065664,
+    "lon": -93.4524776
+   },
+   "phone": "+17634163992",
+   "website": "https://casaearlylearning.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/606991669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "yellow-brick-road-maple-grove",
+   "name": "Yellow Brick Road",
+   "summary": "Yellow Brick Road is a preschool in Maple Grove, MN at 9745 Revere Lane North, Maple Grove, MN 55369. Phone: +16129273232. Website: https://www.ybrecdc.org/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yellow-brick-road-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yellow-brick-road-maple-grove.json",
+   "address": {
+    "streetAddress": "9745 Revere Lane North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1317025,
+    "lon": -93.4130505
+   },
+   "phone": "+16129273232",
+   "website": "https://www.ybrecdc.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1006855213",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "tutor-time-of-maple-grove-maple-grove",
+   "name": "Tutor Time of Maple Grove",
+   "summary": "Tutor Time of Maple Grove is a preschool in Maple Grove, MN.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tutor-time-of-maple-grove-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tutor-time-of-maple-grove-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0702056,
+    "lon": -93.4492922
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1004051949",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

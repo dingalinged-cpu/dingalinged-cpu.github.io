@@ -1,0 +1,62 @@
+{
+ "slug": "valvoline-golden-valley",
+ "name": "Valvoline",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair golden valley mn",
+  "mechanic golden valley mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8950 Highway 55",
+  "addressLocality": "Golden Valley",
+  "addressRegion": "MN",
+  "postalCode": "55427",
+  "addressCountry": "US"
+ },
+ "city": "Golden Valley",
+ "state": "MN",
+ "zip": "55427",
+ "geo": {
+  "lat": 44.9844494,
+  "lon": -93.3942293
+ },
+ "brand": "Valvoline",
+ "wikidata": "Q7912852",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13205500496",
+ "osm": {
+  "type": "node",
+  "id": 13205500496,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Golden Valley",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-golden-valley/",
+ "summary": "Valvoline is an auto repair shop in Golden Valley, MN at 8950 Highway 55, Golden Valley, MN 55427.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "pathways-to-play-south-saint-paul",
+ "name": "Pathways to Play",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare south saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "South Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "South Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9047942,
+  "lon": -93.0567222
+ },
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5747601143",
+ "osm": {
+  "type": "node",
+  "id": 5747601143,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "South Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pathways-to-play-south-saint-paul/",
+ "summary": "Pathways to Play is a daycare in South Saint Paul, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

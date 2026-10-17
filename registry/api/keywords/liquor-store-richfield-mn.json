@@ -1,0 +1,165 @@
+{
+ "keyword": "liquor store richfield mn",
+ "slug": "liquor-store-richfield-mn",
+ "place": "Richfield, MN",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in Richfield, MN?",
+ "matches": [
+  "liquor store in Richfield, MN",
+  "liquor store near me (Richfield, MN)",
+  "best liquor store Richfield, MN",
+  "top rated liquor store Richfield, MN",
+  "affordable liquor store Richfield, MN",
+  "emergency liquor store Richfield, MN"
+ ],
+ "answer": "The top unpaid liquor store listing for Richfield, MN is Richfield Liquor - Cedar Point (a liquor store in Richfield, MN at 6600 Old Cedar Avenue South, Richfield, MN 55423. Phone: +16128619370. Website: https://www.richfieldmn.gov/departments/liquor_stores/). 4 liquor store businesses are listed for Richfield, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "richfield-liquor-cedar-point-richfield",
+   "name": "Richfield Liquor - Cedar Point",
+   "summary": "Richfield Liquor - Cedar Point is a liquor store in Richfield, MN at 6600 Old Cedar Avenue South, Richfield, MN 55423. Phone: +16128619370. Website: https://www.richfieldmn.gov/departments/liquor_stores/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richfield-liquor-cedar-point-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-cedar-point-richfield.json",
+   "address": {
+    "streetAddress": "6600 Old Cedar Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8830941,
+    "lon": -93.2485188
+   },
+   "phone": "+16128619370",
+   "website": "https://www.richfieldmn.gov/departments/liquor_stores/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/359257416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "richfield-liquor-downtown-richfield",
+   "name": "Richfield Liquor - Downtown",
+   "summary": "Richfield Liquor - Downtown is a liquor store in Richfield, MN at 6445 Lyndale Avenue South, Richfield, MN 55423. Phone: +16128619375. Website: https://www.richfieldmn.gov/departments/liquor_stores/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richfield-liquor-downtown-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-downtown-richfield.json",
+   "address": {
+    "streetAddress": "6445 Lyndale Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8852265,
+    "lon": -93.2868656
+   },
+   "phone": "+16128619375",
+   "website": "https://www.richfieldmn.gov/departments/liquor_stores/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1155595509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "richfield-liquor-penn-central-richfield",
+   "name": "Richfield Liquor - Penn Central",
+   "summary": "Richfield Liquor - Penn Central is a liquor store in Richfield, MN at 6444 Penn Avenue South, Richfield, MN 55423. Phone: +16128619380. Website: https://www.richfieldmn.gov/departments/liquor_stores/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richfield-liquor-penn-central-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-penn-central-richfield.json",
+   "address": {
+    "streetAddress": "6444 Penn Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8856585,
+    "lon": -93.3092471
+   },
+   "phone": "+16128619380",
+   "website": "https://www.richfieldmn.gov/departments/liquor_stores/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/311805842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "richfield-liquor-shops-at-lyndale-richfield",
+   "name": "Richfield Liquor - Shops at Lyndale",
+   "summary": "Richfield Liquor - Shops at Lyndale is a liquor store in Richfield, MN at 7700 Lyndale Avenue South, Richfield, MN 55423. Phone: +16128619352. Website: https://www.richfieldmn.gov/departments/liquor_stores/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richfield-liquor-shops-at-lyndale-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-shops-at-lyndale-richfield.json",
+   "address": {
+    "streetAddress": "7700 Lyndale Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8634589,
+    "lon": -93.2888992
+   },
+   "phone": "+16128619352",
+   "website": "https://www.richfieldmn.gov/departments/liquor_stores/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/99446873",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

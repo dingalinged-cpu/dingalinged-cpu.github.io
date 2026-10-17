@@ -1,0 +1,88 @@
+{
+ "keyword": "physical therapy eagan mn",
+ "slug": "physical-therapy-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "physical therapy",
+ "query": "Who are the best physical therapy providers in Eagan, MN?",
+ "matches": [
+  "physical therapy in Eagan, MN",
+  "physical therapy near me (Eagan, MN)",
+  "best physical therapy Eagan, MN",
+  "top rated physical therapy Eagan, MN",
+  "affordable physical therapy Eagan, MN",
+  "emergency physical therapy Eagan, MN"
+ ],
+ "answer": "The top unpaid physical therapy listing for Eagan, MN is viverant (a physical therapy clinic in Eagan, MN at 3365 #100, Eagan, MN). 2 physical therapy businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "viverant-eagan",
+   "name": "viverant",
+   "summary": "viverant is a physical therapy clinic in Eagan, MN at 3365 #100, Eagan, MN.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/viverant-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/viverant-eagan.json",
+   "address": {
+    "streetAddress": "3365 #100",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8356999,
+    "lon": -93.169981
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724654227",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "joy-eagan",
+   "name": "Joy",
+   "summary": "Joy is a physical therapy clinic in Eagan, MN.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joy-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joy-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8512507,
+    "lon": -93.1479829
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217077066",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

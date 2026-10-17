@@ -1,0 +1,431 @@
+{
+ "keyword": "haircut eagan mn",
+ "slug": "haircut-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "haircut",
+ "query": "Who are the best haircut providers in Eagan, MN?",
+ "matches": [
+  "haircut in Eagan, MN",
+  "haircut near me (Eagan, MN)",
+  "best haircut Eagan, MN",
+  "top rated haircut Eagan, MN",
+  "affordable haircut Eagan, MN",
+  "emergency haircut Eagan, MN"
+ ],
+ "answer": "The top unpaid haircut listing for Eagan, MN is Great Clips (a hair salon in Eagan, MN at 1380 Duckwood Drive, Eagan, MN 55123. Phone: +16514529676. Website: https://salons.greatclips.com/us/mn/eagan/1380-duckwood-dr). 13 haircut businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "great-clips-eagan",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Eagan, MN at 1380 Duckwood Drive, Eagan, MN 55123. Phone: +16514529676. Website: https://salons.greatclips.com/us/mn/eagan/1380-duckwood-dr.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-eagan.json",
+   "address": {
+    "streetAddress": "1380 Duckwood Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8269284,
+    "lon": -93.1652592
+   },
+   "phone": "+16514529676",
+   "website": "https://salons.greatclips.com/us/mn/eagan/1380-duckwood-dr",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 07:30-16:30; Su 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1719957682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "great-clips-eagan-n9464286591",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Eagan, MN at 1016 Diffley Road #200, Eagan, MN 55123. Phone: +16514056740. Website: https://www.greatclips.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-eagan-n9464286591/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-eagan-n9464286591.json",
+   "address": {
+    "streetAddress": "1016 Diffley Road #200",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8037976,
+    "lon": -93.1392629
+   },
+   "phone": "+16514056740",
+   "website": "https://www.greatclips.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-17:00; Su 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9464286591",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "sport-clips-eagan",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Eagan, MN at 1270 Promenade Place, Eagan, MN 55121. Phone: +16514521232. Website: https://sportclips.com/us-mn-eagan-mn109.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-eagan.json",
+   "address": {
+    "streetAddress": "1270 Promenade Place",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8343081,
+    "lon": -93.1537243
+   },
+   "phone": "+16514521232",
+   "website": "https://sportclips.com/us-mn-eagan-mn109",
+   "opening_hours": "Mo-Tu,Th-Fr 09:00-19:00; We 09:00-17:00; Sa 08:00-16:00; Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4750056460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-barbershop-eagan",
+   "name": "The Barbershop",
+   "summary": "The Barbershop is a hair salon in Eagan, MN at 1278 Town Centre Drive, Eagan, MN. Phone: +16512004147.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-barbershop-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-barbershop-eagan.json",
+   "address": {
+    "streetAddress": "1278 Town Centre Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8301781,
+    "lon": -93.1626556
+   },
+   "phone": "+16512004147",
+   "opening_hours": "Mo-Fr 09:00-19:00, Sa 08:00-16:00, Su",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12104466937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "amazing-lash-studio-eagan",
+   "name": "Amazing Lash Studio",
+   "summary": "Amazing Lash Studio is a hair salon in Eagan, MN at 2105 Cliff Road, Eagan, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amazing-lash-studio-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amazing-lash-studio-eagan.json",
+   "address": {
+    "streetAddress": "2105 Cliff Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7908218,
+    "lon": -93.2148994
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13802312001",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "braid-connections-eagan",
+   "name": "Braid Connections",
+   "summary": "Braid Connections is a hair salon in Eagan, MN at 1468A, Eagan, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/braid-connections-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/braid-connections-eagan.json",
+   "address": {
+    "streetAddress": "1468A",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8329316,
+    "lon": -93.1715076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134351509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "city-image-salon-eagan",
+   "name": "City Image Salon",
+   "summary": "City Image Salon is a hair salon in Eagan, MN at 3440, Eagan, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-image-salon-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-image-salon-eagan.json",
+   "address": {
+    "streetAddress": "3440",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8310851,
+    "lon": -93.1588141
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724585215",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "gent-eagan",
+   "name": "Gent",
+   "summary": "Gent is a hair salon in Eagan, MN at 3365 #120, Eagan, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gent-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gent-eagan.json",
+   "address": {
+    "streetAddress": "3365 #120",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8358038,
+    "lon": -93.170052
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724654226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "barbers-eagan",
+   "name": "Barbers",
+   "summary": "Barbers is a hair salon in Eagan, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barbers-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barbers-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8200248,
+    "lon": -93.2057478
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234733599",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "coles-salon-eagan",
+   "name": "Cole's Salon",
+   "summary": "Cole's Salon is a hair salon in Eagan, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coles-salon-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coles-salon-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8329606,
+    "lon": -93.1666299
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724605700",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "phenix-salon-suites-eagan",
+   "name": "Phenix Salon Suites",
+   "summary": "Phenix Salon Suites is a hair salon in Eagan, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phenix-salon-suites-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8363884,
+    "lon": -93.1562681
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138739578",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "stilo-cuts-eagan",
+   "name": "Stilo Cuts",
+   "summary": "Stilo Cuts is a hair salon in Eagan, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stilo-cuts-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stilo-cuts-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.832887,
+    "lon": -93.1702253
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12107180049",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "velvaere-mae-eagan",
+   "name": "Velvaere Mae",
+   "summary": "Velvaere Mae is a hair salon in Eagan, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/velvaere-mae-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/velvaere-mae-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8585763,
+    "lon": -93.1216524
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13231769896",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

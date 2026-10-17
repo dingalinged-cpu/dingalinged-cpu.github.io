@@ -1,0 +1,58 @@
+{
+ "keyword": "printing services wayzata mn",
+ "slug": "printing-services-wayzata-mn",
+ "place": "Wayzata, MN",
+ "service": "printing services",
+ "query": "Who are the best printing services providers in Wayzata, MN?",
+ "matches": [
+  "printing services in Wayzata, MN",
+  "printing services near me (Wayzata, MN)",
+  "best printing services Wayzata, MN",
+  "top rated printing services Wayzata, MN",
+  "affordable printing services Wayzata, MN",
+  "emergency printing services Wayzata, MN"
+ ],
+ "answer": "The top unpaid printing services listing for Wayzata, MN is The UPS Store (a printing service in Wayzata, MN). 1 printing services businesses are listed for Wayzata, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "the-ups-store-wayzata",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Wayzata, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-wayzata.json",
+   "address": {
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9717918,
+    "lon": -93.499908
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8541900855",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

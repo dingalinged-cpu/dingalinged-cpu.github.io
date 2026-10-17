@@ -1,0 +1,57 @@
+{
+ "slug": "essling-ltd-law-office-saint-paul",
+ "name": "Essling, Ltd. Law Office",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer saint paul mn",
+  "attorney saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9231387,
+  "lon": -93.133794
+ },
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/109493642",
+ "osm": {
+  "type": "way",
+  "id": 109493642,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/essling-ltd-law-office-saint-paul/",
+ "summary": "Essling, Ltd. Law Office is a lawyer in Saint Paul, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

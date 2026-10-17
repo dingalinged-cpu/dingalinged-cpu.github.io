@@ -1,0 +1,56 @@
+{
+ "slug": "t-t-angels-nails-saint-paul",
+ "name": "T T Angels Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2471 7th Street West",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55116",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55116",
+ "geo": {
+  "lat": 44.9025927,
+  "lon": -93.1704892
+ },
+ "phone": "+16516991044",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8463924063",
+ "osm": {
+  "type": "node",
+  "id": 8463924063,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/t-t-angels-nails-saint-paul/",
+ "summary": "T T Angels Nails is a nail salon in Saint Paul, MN at 2471 7th Street West, Saint Paul, MN 55116. Phone: +16516991044.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

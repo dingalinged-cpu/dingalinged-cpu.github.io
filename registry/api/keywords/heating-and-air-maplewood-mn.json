@@ -1,0 +1,64 @@
+{
+ "keyword": "heating and air maplewood mn",
+ "slug": "heating-and-air-maplewood-mn",
+ "place": "Maplewood, MN",
+ "service": "heating and air",
+ "query": "Who are the best heating and air providers in Maplewood, MN?",
+ "matches": [
+  "heating and air in Maplewood, MN",
+  "heating and air near me (Maplewood, MN)",
+  "best heating and air Maplewood, MN",
+  "top rated heating and air Maplewood, MN",
+  "affordable heating and air Maplewood, MN",
+  "emergency heating and air Maplewood, MN"
+ ],
+ "answer": "The top unpaid heating and air listing for Maplewood, MN is McQuillan Home Services LLC. (a HVAC contractor in Saint Paul, MN at 1727 Minnesota 36, Saint Paul, MN 55109. Phone: +16512433211. Website: https://mcquillanbros.com/). 1 heating and air businesses are listed for Maplewood, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mcquillan-home-services-llc-saint-paul",
+   "name": "McQuillan Home Services LLC.",
+   "summary": "McQuillan Home Services LLC. is a HVAC contractor in Saint Paul, MN at 1727 Minnesota 36, Saint Paul, MN 55109. Phone: +16512433211. Website: https://mcquillanbros.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcquillan-home-services-llc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcquillan-home-services-llc-saint-paul.json",
+   "address": {
+    "streetAddress": "1727 Minnesota 36",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0124687,
+    "lon": -93.0268731
+   },
+   "phone": "+16512433211",
+   "website": "https://mcquillanbros.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13363443895",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

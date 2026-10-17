@@ -1,0 +1,54 @@
+{
+ "slug": "m-and-m-cleaners-west-saint-paul",
+ "name": "M & M Cleaners",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners west saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1134 Robert Street South",
+  "addressLocality": "West Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55118",
+  "addressCountry": "US"
+ },
+ "city": "West Saint Paul",
+ "state": "MN",
+ "zip": "55118",
+ "geo": {
+  "lat": 44.9119285,
+  "lon": -93.0802324
+ },
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/527077152",
+ "osm": {
+  "type": "way",
+  "id": 527077152,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "West Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/m-and-m-cleaners-west-saint-paul/",
+ "summary": "M & M Cleaners is a dry cleaner in West Saint Paul, MN at 1134 Robert Street South, West Saint Paul, MN 55118.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

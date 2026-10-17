@@ -1,0 +1,64 @@
+{
+ "keyword": "business consultant burnsville mn",
+ "slug": "business-consultant-burnsville-mn",
+ "place": "Burnsville, MN",
+ "service": "business consultant",
+ "query": "Who are the best business consultant providers in Burnsville, MN?",
+ "matches": [
+  "business consultant in Burnsville, MN",
+  "business consultant near me (Burnsville, MN)",
+  "best business consultant Burnsville, MN",
+  "top rated business consultant Burnsville, MN",
+  "affordable business consultant Burnsville, MN",
+  "emergency business consultant Burnsville, MN"
+ ],
+ "answer": "The top unpaid business consultant listing for Burnsville, MN is Premiere Exteriors, LLC (a business consultant in Burnsville, MN at 12235 Wood Lake Drive, Burnsville, MN 55337. Phone: +19524268027. Website: https://premiereexteriors.us/). 1 business consultant businesses are listed for Burnsville, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "premiere-exteriors-llc-burnsville",
+   "name": "Premiere Exteriors, LLC",
+   "summary": "Premiere Exteriors, LLC is a business consultant in Burnsville, MN at 12235 Wood Lake Drive, Burnsville, MN 55337. Phone: +19524268027. Website: https://premiereexteriors.us/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premiere-exteriors-llc-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premiere-exteriors-llc-burnsville.json",
+   "address": {
+    "streetAddress": "12235 Wood Lake Drive",
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "postalCode": "55337",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "zip": "55337",
+   "geo": {
+    "lat": 44.7818116,
+    "lon": -93.2744966
+   },
+   "phone": "+19524268027",
+   "website": "https://premiereexteriors.us/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10281639029",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

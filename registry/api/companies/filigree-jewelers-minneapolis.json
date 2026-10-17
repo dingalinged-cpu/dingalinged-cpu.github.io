@@ -1,0 +1,56 @@
+{
+ "slug": "filigree-jewelers-minneapolis",
+ "name": "Filigree Jewelers",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "210 North 2nd Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55401",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55401",
+ "geo": {
+  "lat": 44.9848657,
+  "lon": -93.2702944
+ },
+ "phone": "+16124862290",
+ "website": "https://filigreejewelers.com/",
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13133932914",
+ "osm": {
+  "type": "node",
+  "id": 13133932914,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/filigree-jewelers-minneapolis/",
+ "summary": "Filigree Jewelers is a jewelry store in Minneapolis, MN at 210 North 2nd Street, Minneapolis, MN 55401. Phone: +16124862290. Website: https://filigreejewelers.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

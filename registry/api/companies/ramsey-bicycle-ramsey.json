@@ -1,0 +1,54 @@
+{
+ "slug": "ramsey-bicycle-ramsey",
+ "name": "Ramsey Bicycle",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop ramsey mn"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6825 US-10",
+  "addressLocality": "Ramsey",
+  "addressRegion": "MN",
+  "postalCode": "55303",
+  "addressCountry": "US"
+ },
+ "city": "Ramsey",
+ "state": "MN",
+ "zip": "55303",
+ "geo": {
+  "lat": 45.2243583,
+  "lon": -93.4403795
+ },
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/700234324",
+ "osm": {
+  "type": "way",
+  "id": 700234324,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Ramsey",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ramsey-bicycle-ramsey/",
+ "summary": "Ramsey Bicycle is a bike shop in Ramsey, MN at 6825 US-10, Ramsey, MN 55303.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

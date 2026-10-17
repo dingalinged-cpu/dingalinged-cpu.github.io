@@ -1,0 +1,58 @@
+{
+ "keyword": "coworking space eden prairie mn",
+ "slug": "coworking-space-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "coworking space",
+ "query": "Who are the best coworking space providers in Eden Prairie, MN?",
+ "matches": [
+  "coworking space in Eden Prairie, MN",
+  "coworking space near me (Eden Prairie, MN)",
+  "best coworking space Eden Prairie, MN",
+  "top rated coworking space Eden Prairie, MN",
+  "affordable coworking space Eden Prairie, MN",
+  "emergency coworking space Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid coworking space listing for Eden Prairie, MN is Kontor Cowork (a coworking space in Eden Prairie, MN). 1 coworking space businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "kontor-cowork-eden-prairie",
+   "name": "Kontor Cowork",
+   "summary": "Kontor Cowork is a coworking space in Eden Prairie, MN.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kontor-cowork-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kontor-cowork-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8649753,
+    "lon": -93.4613855
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12021268029",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

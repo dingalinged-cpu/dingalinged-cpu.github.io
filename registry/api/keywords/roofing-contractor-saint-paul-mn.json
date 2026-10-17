@@ -1,0 +1,97 @@
+{
+ "keyword": "roofing contractor saint paul mn",
+ "slug": "roofing-contractor-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "roofing contractor",
+ "query": "Who are the best roofing contractor providers in Saint Paul, MN?",
+ "matches": [
+  "roofing contractor in Saint Paul, MN",
+  "roofing contractor near me (Saint Paul, MN)",
+  "best roofing contractor Saint Paul, MN",
+  "top rated roofing contractor Saint Paul, MN",
+  "affordable roofing contractor Saint Paul, MN",
+  "emergency roofing contractor Saint Paul, MN"
+ ],
+ "answer": "The top unpaid roofing contractor listing for Saint Paul, MN is Shelter Construction LLC (a roofer in Saint Paul, MN at 2304 Gordon Avenue, Saint Paul, MN 55108. Phone: +16122308195. Website: https://shelter-usa.com/roofing-st-paul). 2 roofing contractor businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "shelter-construction-llc-saint-paul",
+   "name": "Shelter Construction LLC",
+   "summary": "Shelter Construction LLC is a roofer in Saint Paul, MN at 2304 Gordon Avenue, Saint Paul, MN 55108. Phone: +16122308195. Website: https://shelter-usa.com/roofing-st-paul.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shelter-construction-llc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shelter-construction-llc-saint-paul.json",
+   "address": {
+    "streetAddress": "2304 Gordon Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9773853,
+    "lon": -93.1984513
+   },
+   "phone": "+16122308195",
+   "website": "https://shelter-usa.com/roofing-st-paul",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8913357584",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "walker-roofing-saint-paul",
+   "name": "Walker Roofing",
+   "summary": "Walker Roofing is a roofer in Saint Paul, MN at 2270 Capp Road, Saint Paul, MN 55114. Phone: +16512510910. Website: https://www.walkerroofing.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walker-roofing-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walker-roofing-saint-paul.json",
+   "address": {
+    "streetAddress": "2270 Capp Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9690969,
+    "lon": -93.1909791
+   },
+   "phone": "+16512510910",
+   "website": "https://www.walkerroofing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267117648",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "keyword": "staffing agency eagan mn",
+ "slug": "staffing-agency-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "staffing agency",
+ "query": "Who are the best staffing agency providers in Eagan, MN?",
+ "matches": [
+  "staffing agency in Eagan, MN",
+  "staffing agency near me (Eagan, MN)",
+  "best staffing agency Eagan, MN",
+  "top rated staffing agency Eagan, MN",
+  "affordable staffing agency Eagan, MN",
+  "emergency staffing agency Eagan, MN"
+ ],
+ "answer": "The top unpaid staffing agency listing for Eagan, MN is IT Works 365 (a staffing agency in Eagan, MN at 3140 Neil Armstrong Boulevard #310, Eagan, MN 55121. Phone: +16516866551. Website: https://itworks365.com/). 3 staffing agency businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "it-works-365-eagan",
+   "name": "IT Works 365",
+   "summary": "IT Works 365 is a staffing agency in Eagan, MN at 3140 Neil Armstrong Boulevard #310, Eagan, MN 55121. Phone: +16516866551. Website: https://itworks365.com/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/it-works-365-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/it-works-365-eagan.json",
+   "address": {
+    "streetAddress": "3140 Neil Armstrong Boulevard #310",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8429543,
+    "lon": -93.1403266
+   },
+   "phone": "+16516866551",
+   "website": "https://itworks365.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7175937754",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "express-eagan",
+   "name": "Express",
+   "summary": "Express is a staffing agency in Eagan, MN at 1266 Lone Oak Road, Eagan, MN 55121. Phone: +19529152000. Website: https://www.expresspros.com/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-eagan.json",
+   "address": {
+    "streetAddress": "1266 Lone Oak Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8473402,
+    "lon": -93.1578828
+   },
+   "phone": "+19529152000",
+   "website": "https://www.expresspros.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12249282016",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "seek-careers-and-staffing-eagan",
+   "name": "Seek Careers and Staffing",
+   "summary": "Seek Careers and Staffing is a staffing agency in Eagan, MN.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seek-careers-and-staffing-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seek-careers-and-staffing-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8198139,
+    "lon": -93.205868
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234733602",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

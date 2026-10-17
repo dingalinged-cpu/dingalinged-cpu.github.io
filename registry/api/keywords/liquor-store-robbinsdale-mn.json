@@ -1,0 +1,61 @@
+{
+ "keyword": "liquor store robbinsdale mn",
+ "slug": "liquor-store-robbinsdale-mn",
+ "place": "Robbinsdale, MN",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in Robbinsdale, MN?",
+ "matches": [
+  "liquor store in Robbinsdale, MN",
+  "liquor store near me (Robbinsdale, MN)",
+  "best liquor store Robbinsdale, MN",
+  "top rated liquor store Robbinsdale, MN",
+  "affordable liquor store Robbinsdale, MN",
+  "emergency liquor store Robbinsdale, MN"
+ ],
+ "answer": "The top unpaid liquor store listing for Robbinsdale, MN is Robbinsdale Wine & Spirits (a liquor store in Robbinsdale, MN at 3501 Bottineau Boulevard, Robbinsdale, MN 55422). 1 liquor store businesses are listed for Robbinsdale, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "robbinsdale-wine-and-spirits-robbinsdale",
+   "name": "Robbinsdale Wine & Spirits",
+   "summary": "Robbinsdale Wine & Spirits is a liquor store in Robbinsdale, MN at 3501 Bottineau Boulevard, Robbinsdale, MN 55422.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/robbinsdale-wine-and-spirits-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/robbinsdale-wine-and-spirits-robbinsdale.json",
+   "address": {
+    "streetAddress": "3501 Bottineau Boulevard",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0190575,
+    "lon": -93.3276
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762950319",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

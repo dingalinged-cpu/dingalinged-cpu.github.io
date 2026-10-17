@@ -1,0 +1,58 @@
+{
+ "keyword": "pet store crystal mn",
+ "slug": "pet-store-crystal-mn",
+ "place": "Crystal, MN",
+ "service": "pet store",
+ "query": "Who are the best pet store providers in Crystal, MN?",
+ "matches": [
+  "pet store in Crystal, MN",
+  "pet store near me (Crystal, MN)",
+  "best pet store Crystal, MN",
+  "top rated pet store Crystal, MN",
+  "affordable pet store Crystal, MN",
+  "emergency pet store Crystal, MN"
+ ],
+ "answer": "The top unpaid pet store listing for Crystal, MN is Pet Supplies Plus (a pet store in Crystal, MN). 1 pet store businesses are listed for Crystal, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "pet-supplies-plus-crystal",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Crystal, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0541828,
+    "lon": -93.3688582
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129455334",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

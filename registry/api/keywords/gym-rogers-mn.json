@@ -1,0 +1,122 @@
+{
+ "keyword": "gym rogers mn",
+ "slug": "gym-rogers-mn",
+ "place": "Rogers, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in Rogers, MN?",
+ "matches": [
+  "gym in Rogers, MN",
+  "gym near me (Rogers, MN)",
+  "best gym Rogers, MN",
+  "top rated gym Rogers, MN",
+  "affordable gym Rogers, MN",
+  "emergency gym Rogers, MN"
+ ],
+ "answer": "The top unpaid gym listing for Rogers, MN is Anytime Fitness (a gym in Rogers, MN at 14142 Northdale Boulevard, Rogers, MN 55374. Phone: +17634281799. Website: https://www.anytimefitness.com/gyms/143/rogers-mn-55374/). 3 gym businesses are listed for Rogers, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "anytime-fitness-rogers",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Rogers, MN at 14142 Northdale Boulevard, Rogers, MN 55374. Phone: +17634281799. Website: https://www.anytimefitness.com/gyms/143/rogers-mn-55374/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-rogers.json",
+   "address": {
+    "streetAddress": "14142 Northdale Boulevard",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.2107769,
+    "lon": -93.5550818
+   },
+   "phone": "+17634281799",
+   "website": "https://www.anytimefitness.com/gyms/143/rogers-mn-55374/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737870743",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "snap-fitness-rogers",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Rogers, MN. Website: https://www.snapfitness.com/us/gyms/rogers-mn.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2019522,
+    "lon": -93.5552177
+   },
+   "website": "https://www.snapfitness.com/us/gyms/rogers-mn",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7156640365",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "hotworx-rogers",
+   "name": "Hotworx",
+   "summary": "Hotworx is a gym in Rogers, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hotworx-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hotworx-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2042157,
+    "lon": -93.5519181
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423663",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

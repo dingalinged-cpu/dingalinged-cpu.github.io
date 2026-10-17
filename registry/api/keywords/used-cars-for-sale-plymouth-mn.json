@@ -1,0 +1,63 @@
+{
+ "keyword": "used cars for sale plymouth mn",
+ "slug": "used-cars-for-sale-plymouth-mn",
+ "place": "Plymouth, MN",
+ "service": "used cars for sale",
+ "query": "Who are the best used cars for sale providers in Plymouth, MN?",
+ "matches": [
+  "used cars for sale in Plymouth, MN",
+  "used cars for sale near me (Plymouth, MN)",
+  "best used cars for sale Plymouth, MN",
+  "top rated used cars for sale Plymouth, MN",
+  "affordable used cars for sale Plymouth, MN",
+  "emergency used cars for sale Plymouth, MN"
+ ],
+ "answer": "The top unpaid used cars for sale listing for Plymouth, MN is Superior Ford (an used car dealer in Plymouth, MN at 9700 56th Avenue North, Plymouth, MN 55442. Phone: +17634536953. Website: https://www.superiorford.com/). 1 used cars for sale businesses are listed for Plymouth, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "superior-ford-plymouth",
+   "name": "Superior Ford",
+   "summary": "Superior Ford is an used car dealer in Plymouth, MN at 9700 56th Avenue North, Plymouth, MN 55442. Phone: +17634536953. Website: https://www.superiorford.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/superior-ford-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/superior-ford-plymouth.json",
+   "address": {
+    "streetAddress": "9700 56th Avenue North",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55442",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55442",
+   "geo": {
+    "lat": 45.0567834,
+    "lon": -93.4035675
+   },
+   "phone": "+17634536953",
+   "website": "https://www.superiorford.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/767358815",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

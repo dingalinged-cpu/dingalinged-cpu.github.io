@@ -1,0 +1,125 @@
+{
+ "keyword": "printing services edina mn",
+ "slug": "printing-services-edina-mn",
+ "place": "Edina, MN",
+ "service": "printing services",
+ "query": "Who are the best printing services providers in Edina, MN?",
+ "matches": [
+  "printing services in Edina, MN",
+  "printing services near me (Edina, MN)",
+  "best printing services Edina, MN",
+  "top rated printing services Edina, MN",
+  "affordable printing services Edina, MN",
+  "emergency printing services Edina, MN"
+ ],
+ "answer": "The top unpaid printing services listing for Edina, MN is Jerry's Printing (a printing service in Edina, MN. Phone: +19529201949. Website: https://www.jerrysprinting.com/). 3 printing services businesses are listed for Edina, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "jerrys-printing-edina",
+   "name": "Jerry's Printing",
+   "summary": "Jerry's Printing is a printing service in Edina, MN. Phone: +19529201949. Website: https://www.jerrysprinting.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jerrys-printing-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jerrys-printing-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9109091,
+    "lon": -93.3548068
+   },
+   "phone": "+19529201949",
+   "website": "https://www.jerrysprinting.com/",
+   "opening_hours": "Mo-Fr 08:30-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335570223",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "the-ups-store-edina",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Edina, MN at 5021 Vernon Avenue, Edina, MN 55436. Website: https://locations.theupsstore.com/mn/edina/5021-vernon-ave.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-edina.json",
+   "address": {
+    "streetAddress": "5021 Vernon Avenue",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9116417,
+    "lon": -93.3543939
+   },
+   "website": "https://locations.theupsstore.com/mn/edina/5021-vernon-ave",
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1908446285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "the-ups-store-edina-n11449400290",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Edina, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-edina-n11449400290/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-edina-n11449400290.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8675052,
+    "lon": -93.3266174
+   },
+   "opening_hours": "Mo-Fr 08:30-18:30; Su 09:30-15:00; Sa 08:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449400290",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

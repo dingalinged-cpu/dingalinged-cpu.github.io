@@ -1,0 +1,60 @@
+{
+ "slug": "langer-real-estate-west-saint-paul",
+ "name": "Langer Real Estate",
+ "categories": [
+  "real estate agent"
+ ],
+ "keywords": [
+  "real estate agent",
+  "realtor",
+  "real estate agent west saint paul mn",
+  "realtor west saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "real estate agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "realtor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1540 Humboldt Avenue",
+  "addressLocality": "West Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55118",
+  "addressCountry": "US"
+ },
+ "city": "West Saint Paul",
+ "state": "MN",
+ "zip": "55118",
+ "geo": {
+  "lat": 44.899846,
+  "lon": -93.0842829
+ },
+ "schema_type": "RealEstateAgent",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5155460787",
+ "osm": {
+  "type": "node",
+  "id": 5155460787,
+  "tags_used": {
+   "office": "estate_agent"
+  }
+ },
+ "municipality": "West Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/langer-real-estate-west-saint-paul/",
+ "summary": "Langer Real Estate is a real estate agency in West Saint Paul, MN at 1540 Humboldt Avenue, West Saint Paul, MN 55118.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "pauly-rays-sports-barbershop-shoreview",
+ "name": "Pauly Ray's Sports Barbershop",
+ "categories": [
+  "barber shop"
+ ],
+ "keywords": [
+  "barber shop",
+  "haircut",
+  "barber shop shoreview mn",
+  "haircut shoreview mn"
+ ],
+ "services": [
+  {
+   "name": "barber shop",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Shoreview",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Shoreview",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0807358,
+  "lon": -93.1451103
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12338849143",
+ "osm": {
+  "type": "node",
+  "id": 12338849143,
+  "tags_used": {
+   "shop": "hairdresser",
+   "hairdresser": "barber"
+  }
+ },
+ "municipality": "Shoreview",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pauly-rays-sports-barbershop-shoreview/",
+ "summary": "Pauly Ray's Sports Barbershop is a barber shop in Shoreview, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

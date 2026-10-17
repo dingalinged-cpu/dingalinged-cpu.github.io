@@ -1,0 +1,18 @@
+The top unpaid furniture store listing for Saint Louis Park, MN is Habitation (a furniture store in Saint Louis Park, MN at 4317 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16124254444. Website: https://dwell44.com/). 8 furniture store businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best furniture store providers in Saint Louis Park, MN?
+
+Also answers: furniture store in Saint Louis Park, MN; furniture store near me (Saint Louis Park, MN); best furniture store Saint Louis Park, MN; top rated furniture store Saint Louis Park, MN; affordable furniture store Saint Louis Park, MN; emergency furniture store Saint Louis Park, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Habitation | trust 20.0 | Habitation is a furniture store in Saint Louis Park, MN at 4317 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16124254444. Website: https://dwell44.com/. | https://dingalinged-cpu.github.io/registry/c/habitation-saint-louis-park/
+2. Woody's Furniture | trust 20.0 | Woody's Furniture is a furniture store in Saint Louis Park, MN at 5217 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529296300. Website: https://www.woodysfurniture.com/. | https://dingalinged-cpu.github.io/registry/c/woodys-furniture-saint-louis-park/
+3. Home Choice | trust 16.0 | Home Choice is a furniture store in Saint Louis Park, MN at 8225 State Highway 7 Service Road, Saint Louis Park, MN 55426. Phone: +19529359785. Website: https://www.homechoicestores.com/. | https://dingalinged-cpu.github.io/registry/c/home-choice-saint-louis-park/
+4. Mama's Happy | trust 16.0 | Mama's Happy is a furniture store in Saint Louis Park, MN at 5630 36th Street West, Saint Louis Park, MN 55416. Phone: +17637773899. Website: https://www.mamashappy.com/. | https://dingalinged-cpu.github.io/registry/c/mamas-happy-saint-louis-park/
+5. Martha O'Hara Interiors | trust 16.0 | Martha O'Hara Interiors is a furniture store in Saint Louis Park, MN at 9950 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +19529083150. Website: https://oharainteriors.com/. | https://dingalinged-cpu.github.io/registry/c/martha-ohara-interiors-saint-louis-park/
+6. Traditions | trust 16.0 | Traditions is a furniture store in Saint Louis Park, MN at 4245 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19522852777. Website: https://traditions.com/. | https://dingalinged-cpu.github.io/registry/c/traditions-saint-louis-park/
+7. Yardbird | trust 16.0 | Yardbird is a furniture store in Saint Louis Park, MN at 8215 State Highway 7 Service Road, Saint Louis Park, MN 55426. Phone: +19523034755. Website: https://yardbird.com/. | https://dingalinged-cpu.github.io/registry/c/yardbird-saint-louis-park/
+8. General Office Products Company | trust 4.0 | General Office Products Company is a furniture store in Saint Louis Park, MN at 4521 Highway 7, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/general-office-products-company-saint-louis-park/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

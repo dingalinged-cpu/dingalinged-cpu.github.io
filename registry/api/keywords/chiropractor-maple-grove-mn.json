@@ -1,0 +1,128 @@
+{
+ "keyword": "chiropractor maple grove mn",
+ "slug": "chiropractor-maple-grove-mn",
+ "place": "Maple Grove, MN",
+ "service": "chiropractor",
+ "query": "Who are the best chiropractor providers in Maple Grove, MN?",
+ "matches": [
+  "chiropractor in Maple Grove, MN",
+  "chiropractor near me (Maple Grove, MN)",
+  "best chiropractor Maple Grove, MN",
+  "top rated chiropractor Maple Grove, MN",
+  "affordable chiropractor Maple Grove, MN",
+  "emergency chiropractor Maple Grove, MN"
+ ],
+ "answer": "The top unpaid chiropractor listing for Maple Grove, MN is Johnson Chiropractic Clinic (a chiropractor in Maple Grove, MN at 13700 83rd Way North #200, Maple Grove, MN 55369. Phone: +17634204242. Website: https://www.johnsonchiroclinic.com/). 3 chiropractor businesses are listed for Maple Grove, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "johnson-chiropractic-clinic-maple-grove",
+   "name": "Johnson Chiropractic Clinic",
+   "summary": "Johnson Chiropractic Clinic is a chiropractor in Maple Grove, MN at 13700 83rd Way North #200, Maple Grove, MN 55369. Phone: +17634204242. Website: https://www.johnsonchiroclinic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-chiropractic-clinic-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-chiropractic-clinic-maple-grove.json",
+   "address": {
+    "streetAddress": "13700 83rd Way North #200",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1065351,
+    "lon": -93.4539897
+   },
+   "phone": "+17634204242",
+   "website": "https://www.johnsonchiroclinic.com/",
+   "opening_hours": "Mo,We 07:00-17:00;Tu 14:00-18:00;Th 08:00-18:00;Fr 07:00-11:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5757273578",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "the-adjustment-club-maple-grove",
+   "name": "The Adjustment Club",
+   "summary": "The Adjustment Club is a chiropractor in Maple Grove, MN at 13580 Grove Drive North, Maple Grove, MN 55311. Phone: +17637778269. Website: https://www.theadjustmentclub.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-adjustment-club-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-adjustment-club-maple-grove.json",
+   "address": {
+    "streetAddress": "13580 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1047061,
+    "lon": -93.4526556
+   },
+   "phone": "+17637778269",
+   "website": "https://www.theadjustmentclub.com/",
+   "opening_hours": "Mo-Th 09:00-12:00,14:00-18:00;Fr 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/610036218",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "the-joint-chiropractic-maple-grove",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Maple Grove, MN.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.096207,
+    "lon": -93.4419717
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8902410056",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

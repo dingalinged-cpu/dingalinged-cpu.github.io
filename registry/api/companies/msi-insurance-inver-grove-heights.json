@@ -1,0 +1,66 @@
+{
+ "slug": "msi-insurance-inver-grove-heights",
+ "name": "MSI Insurance",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent inver grove heights mn",
+  "insurance agency inver grove heights mn",
+  "insurance agents inver grove heights mn"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6685 Cahill Avenue",
+  "addressLocality": "Inver Grove Heights",
+  "addressRegion": "MN",
+  "postalCode": "55076",
+  "addressCountry": "US"
+ },
+ "city": "Inver Grove Heights",
+ "state": "MN",
+ "zip": "55076",
+ "geo": {
+  "lat": 44.8524084,
+  "lon": -93.0456133
+ },
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/490729737",
+ "osm": {
+  "type": "way",
+  "id": 490729737,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Inver Grove Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/msi-insurance-inver-grove-heights/",
+ "summary": "MSI Insurance is an insurance agent in Inver Grove Heights, MN at 6685 Cahill Avenue, Inver Grove Heights, MN 55076.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

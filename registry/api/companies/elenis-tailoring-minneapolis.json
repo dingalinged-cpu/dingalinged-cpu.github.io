@@ -1,0 +1,53 @@
+{
+ "slug": "elenis-tailoring-minneapolis",
+ "name": "Eleni's Tailoring",
+ "categories": [
+  "tailor"
+ ],
+ "keywords": [
+  "tailor",
+  "tailor minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "tailor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "West Lake Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9485046,
+  "lon": -93.3027802
+ },
+ "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00; PH closed",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6450215751",
+ "osm": {
+  "type": "node",
+  "id": 6450215751,
+  "tags_used": {
+   "shop": "tailor"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/elenis-tailoring-minneapolis/",
+ "summary": "Eleni's Tailoring is a tailor in Minneapolis, MN at West Lake Street, Minneapolis, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

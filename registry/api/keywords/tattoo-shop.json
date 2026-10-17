@@ -1,0 +1,1466 @@
+{
+ "keyword": "tattoo shop",
+ "slug": "tattoo-shop",
+ "place": "the United States",
+ "service": "tattoo shop",
+ "query": "Who are the best tattoo shop providers in the United States?",
+ "matches": [
+  "tattoo shop in the United States",
+  "tattoo shop near me (the United States)",
+  "best tattoo shop the United States",
+  "top rated tattoo shop the United States",
+  "affordable tattoo shop the United States",
+  "emergency tattoo shop the United States"
+ ],
+ "answer": "The top unpaid tattoo shop listing for the United States is Dinkytown Tattoo (a tattoo shop in Minneapolis, MN at 407 Southeast 14th Avenue, Minneapolis, MN 55414. Phone: +16122080821. Website: https://www.dinkytowntattoo.com/). 45 tattoo shop businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "dinkytown-tattoo-minneapolis",
+   "name": "Dinkytown Tattoo",
+   "summary": "Dinkytown Tattoo is a tattoo shop in Minneapolis, MN at 407 Southeast 14th Avenue, Minneapolis, MN 55414. Phone: +16122080821. Website: https://www.dinkytowntattoo.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dinkytown-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dinkytown-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "407 Southeast 14th Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9807786,
+    "lon": -93.2357821
+   },
+   "phone": "+16122080821",
+   "website": "https://www.dinkytowntattoo.com/",
+   "opening_hours": "Mo-Sa 12:00-20:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5582984688",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "fearless-tattoo-removal-maplewood",
+   "name": "Fearless Tattoo Removal",
+   "summary": "Fearless Tattoo Removal is a tattoo shop in Maplewood, MN at 1973 Sloan Pl Ste 70, Maplewood, MN 55117. Phone: +16123878022. Website: https://www.fearlesstattooremoval.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fearless-tattoo-removal-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fearless-tattoo-removal-maplewood.json",
+   "address": {
+    "streetAddress": "1973 Sloan Pl Ste 70",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55117",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55117",
+   "geo": {
+    "lat": 45.0007129,
+    "lon": -93.0884286
+   },
+   "phone": "+16123878022",
+   "website": "https://www.fearlesstattooremoval.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11906093994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "guns-n-needles-tattoo-minneapolis",
+   "name": "Guns N Needles Tattoo",
+   "summary": "Guns N Needles Tattoo is a tattoo shop in Minneapolis, MN at 2401 Dupont Avenue South, Minneapolis, MN 55405. Phone: +16129985997. Website: https://www.gunsnneedles.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/guns-n-needles-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/guns-n-needles-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "2401 Dupont Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9590425,
+    "lon": -93.2930135
+   },
+   "phone": "+16129985997",
+   "website": "https://www.gunsnneedles.com/",
+   "opening_hours": "Tu-Th 12:00-21:00, Fr-Sa 12:00-22:00, Su 12:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13354147212",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "ink-sanctum-tattoo-and-piercing-maple-grove",
+   "name": "Ink Sanctum Tattoo & Piercing",
+   "summary": "Ink Sanctum Tattoo & Piercing is a tattoo shop in Maple Grove, MN at 13649 Grove Drive North, Maple Grove, MN 55311. Phone: +17633176288. Website: https://www.inksanctum.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ink-sanctum-tattoo-and-piercing-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ink-sanctum-tattoo-and-piercing-maple-grove.json",
+   "address": {
+    "streetAddress": "13649 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1025253,
+    "lon": -93.4545967
+   },
+   "phone": "+17633176288",
+   "website": "https://www.inksanctum.com/",
+   "opening_hours": "Tu-Sa 10:00-20:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5782225994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "invisible-ink-tattoo-removeal-saint-louis-park",
+   "name": "Invisible Ink Tattoo Removeal",
+   "summary": "Invisible Ink Tattoo Removeal is a tattoo shop in Saint Louis Park, MN at 4616 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +18664650090. Website: https://removery.com/tattoo-removal/locations/mn/minneapolis/?y_source=1_MTY2NjUyNjItNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/invisible-ink-tattoo-removeal-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/invisible-ink-tattoo-removeal-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4616 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9339793,
+    "lon": -93.3385434
+   },
+   "phone": "+18664650090",
+   "website": "https://removery.com/tattoo-removal/locations/mn/minneapolis/?y_source=1_MTY2NjUyNjItNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl",
+   "opening_hours": "Tu-Fr 09:30-18:30; Sa 09:00-15:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566621923",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "jackalope-tattoo-minneapolis",
+   "name": "Jackalope Tattoo",
+   "summary": "Jackalope Tattoo is a tattoo shop in Minneapolis, MN at 3753 Cedar Avenue South, Minneapolis, MN 55407. Phone: +16123536846. Website: https://www.jackalopetattoo.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackalope-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackalope-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "3753 Cedar Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9343148,
+    "lon": -93.2471622
+   },
+   "phone": "+16123536846",
+   "website": "https://www.jackalopetattoo.com/",
+   "opening_hours": "Su-Sa 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4869038576",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "minneapolis-tattoo-shop-minneapolis",
+   "name": "Minneapolis Tattoo Shop",
+   "summary": "Minneapolis Tattoo Shop is a tattoo shop in Minneapolis, MN at 2211 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128756717. Website: https://www.mplstattoo.co/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minneapolis-tattoo-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-tattoo-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "2211 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9604897,
+    "lon": -93.2877997
+   },
+   "phone": "+16128756717",
+   "website": "https://www.mplstattoo.co/",
+   "opening_hours": "Mo-Sa 11:00-20:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4995650003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "the-ink-lab-minneapolis",
+   "name": "The Ink Lab",
+   "summary": "The Ink Lab is a tattoo shop in Minneapolis, MN at 919 West Lake Street, Minneapolis, MN 55408. Phone: +16128232969. Website: https://www.inklab.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ink-lab-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ink-lab-minneapolis.json",
+   "address": {
+    "streetAddress": "919 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482397,
+    "lon": -93.2915662
+   },
+   "phone": "+16128232969",
+   "website": "https://www.inklab.com/",
+   "opening_hours": "\"By appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334193685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "black-coffin-tattoo-saint-paul",
+   "name": "Black Coffin Tattoo",
+   "summary": "Black Coffin Tattoo is a tattoo shop in Saint Paul, MN at 2480 University Avenue West, Saint Paul, MN 55114. Phone: +16516414099. Website: https://www.blackcoffintattoo.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/black-coffin-tattoo-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/black-coffin-tattoo-saint-paul.json",
+   "address": {
+    "streetAddress": "2480 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9648283,
+    "lon": -93.2005968
+   },
+   "phone": "+16516414099",
+   "website": "https://www.blackcoffintattoo.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6275543767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "crazy-lady-ink-shakopee",
+   "name": "Crazy Lady Ink",
+   "summary": "Crazy Lady Ink is a tattoo shop in Shakopee, MN at 110 1st Avenue East, Shakopee, MN 55379. Phone: +19524453281. Website: https://www.crazyladyink.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crazy-lady-ink-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crazy-lady-ink-shakopee.json",
+   "address": {
+    "streetAddress": "110 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7984905,
+    "lon": -93.5263264
+   },
+   "phone": "+19524453281",
+   "website": "https://www.crazyladyink.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024231938",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "stone-arch-tattoo-minneapolis",
+   "name": "Stone Arch Tattoo",
+   "summary": "Stone Arch Tattoo is a tattoo shop in Minneapolis, MN at 129 Southeast 6th Avenue, Minneapolis, MN 55414. Phone: +16124027487. Website: https://stonearchtattoo.bigcartel.com/contact.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stone-arch-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stone-arch-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "129 Southeast 6th Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9827267,
+    "lon": -93.2489517
+   },
+   "phone": "+16124027487",
+   "website": "https://stonearchtattoo.bigcartel.com/contact",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11107061944",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "historic-tattoo-shorewood",
+   "name": "Historic Tattoo",
+   "summary": "Historic Tattoo is a tattoo shop in Shorewood, MN at 6140 Lake Linden Drive #111, Shorewood, MN 55331. Phone: +19524743324.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/historic-tattoo-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/historic-tattoo-shorewood.json",
+   "address": {
+    "streetAddress": "6140 Lake Linden Drive #111",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8924751,
+    "lon": -93.5835362
+   },
+   "phone": "+19524743324",
+   "opening_hours": "Mo-Sa 12:00-10:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215333022",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "saint-paul-tattoo-saint-paul",
+   "name": "Saint Paul Tattoo",
+   "summary": "Saint Paul Tattoo is a tattoo shop in Saint Paul, MN at 458 Robert Street South, Saint Paul, MN 55107. Phone: +16514553496.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-paul-tattoo-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-paul-tattoo-saint-paul.json",
+   "address": {
+    "streetAddress": "458 Robert Street South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55107",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55107",
+   "geo": {
+    "lat": 44.9321387,
+    "lon": -93.0806357
+   },
+   "phone": "+16514553496",
+   "opening_hours": "Mo-Su 12:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10158108331",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "tatu-s-by-kor-minneapolis",
+   "name": "Tatu’s By Koré",
+   "summary": "Tatu’s By Koré is a tattoo shop in Minneapolis, MN at 611 West Lake Street #C, Minneapolis, MN 55408. Website: https://www.tatusbykore.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tatu-s-by-kor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tatu-s-by-kor-minneapolis.json",
+   "address": {
+    "streetAddress": "611 West Lake Street #C",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9481886,
+    "lon": -93.2874902
+   },
+   "website": "https://www.tatusbykore.com/",
+   "opening_hours": "Tu,Th,Sa 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12517078581",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "love-helen-ink-minneapolis",
+   "name": "Love, Helen Ink",
+   "summary": "Love, Helen Ink is a tattoo shop in Minneapolis, MN at 1302 2nd St. NE #218, Minneapolis, MN 55413. Website: https://www.lovehelen.ink/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/love-helen-ink-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/love-helen-ink-minneapolis.json",
+   "address": {
+    "streetAddress": "1302 2nd St. NE #218",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.001126,
+    "lon": -93.2664255
+   },
+   "website": "https://www.lovehelen.ink/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11699113332",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "tattoo-spirit-minneapolis",
+   "name": "Tattoo Spirit",
+   "summary": "Tattoo Spirit is a tattoo shop in Minneapolis, MN at 3948 Lyndale Avenue South, Minneapolis, MN 55409. Website: https://spirit.tattoostudio.site/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tattoo-spirit-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tattoo-spirit-minneapolis.json",
+   "address": {
+    "streetAddress": "3948 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.9307205,
+    "lon": -93.2885234
+   },
+   "website": "https://spirit.tattoostudio.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13659355915",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "tattoos-spring-lake-park",
+   "name": "TATTOOS",
+   "summary": "TATTOOS is a tattoo shop in Spring Lake Park, MN at 8488 Central Avenue Northeast, Spring Lake Park, MN 55432. Phone: +17637104329.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tattoos-spring-lake-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tattoos-spring-lake-park.json",
+   "address": {
+    "streetAddress": "8488 Central Avenue Northeast",
+    "addressLocality": "Spring Lake Park",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Spring Lake Park",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.1244151,
+    "lon": -93.2361032
+   },
+   "phone": "+17637104329",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1314503758",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "uptown-tattoo-minneapolis",
+   "name": "Uptown Tattoo",
+   "summary": "Uptown Tattoo is a tattoo shop in Minneapolis, MN at 614 West 27th Street, Minneapolis, MN 55405. Website: https://www.uptowntattoo.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uptown-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uptown-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "614 West 27th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9538757,
+    "lon": -93.2878089
+   },
+   "website": "https://www.uptowntattoo.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5288488641",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "blackend-tattoo-atelier-minneapolis",
+   "name": "Blackend Tattoo Atelier",
+   "summary": "Blackend Tattoo Atelier is a tattoo shop in Minneapolis, MN at 3742 23rd Avenue South, Minneapolis, MN. Website: https://www.blackendtattoo.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blackend-tattoo-atelier-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blackend-tattoo-atelier-minneapolis.json",
+   "address": {
+    "streetAddress": "3742 23rd Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9344129,
+    "lon": -93.2390964
+   },
+   "website": "https://www.blackendtattoo.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5052091687",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "green-river-tattoo-minneapolis",
+   "name": "Green River Tattoo",
+   "summary": "Green River Tattoo is a tattoo shop in Minneapolis, MN at 118 East 26th Street, Minneapolis, MN 55404.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-river-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-river-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "118 East 26th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9556799,
+    "lon": -93.2754982
+   },
+   "opening_hours": "Tu-Sa 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619562330",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "nokomis-tattoo-minneapolis",
+   "name": "Nokomis Tattoo",
+   "summary": "Nokomis Tattoo is a tattoo shop in Minneapolis, MN at 4933 34th Avenue South, Minneapolis, MN 55417.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nokomis-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nokomis-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "4933 34th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.9133281,
+    "lon": -93.2225609
+   },
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/494050405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "the-ink-gallery-saint-paul",
+   "name": "The Ink Gallery",
+   "summary": "The Ink Gallery is a tattoo shop in Saint Paul, MN at 1722 University Avenue, Saint Paul, MN 55104.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ink-gallery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ink-gallery-saint-paul.json",
+   "address": {
+    "streetAddress": "1722 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9554781,
+    "lon": -93.1729768
+   },
+   "opening_hours": "Tu-Su 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7204839319",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "almost-famous-body-piercing-and-tattoos-minneapolis",
+   "name": "Almost Famous Body Piercing and Tattoos",
+   "summary": "Almost Famous Body Piercing and Tattoos is a tattoo shop in Minneapolis, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/almost-famous-body-piercing-and-tattoos-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/almost-famous-body-piercing-and-tattoos-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9880884,
+    "lon": -93.2541793
+   },
+   "opening_hours": "Mo-Sa 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627415960",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "fluid-ink-tattoos-saint-paul",
+   "name": "Fluid Ink Tattoos",
+   "summary": "Fluid Ink Tattoos is a tattoo shop in Saint Paul, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fluid-ink-tattoos-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fluid-ink-tattoos-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.959145,
+    "lon": -93.1673393
+   },
+   "opening_hours": "Mo-Su 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12971537016",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "grand-avenue-tattoo-saint-paul",
+   "name": "Grand Avenue Tattoo",
+   "summary": "Grand Avenue Tattoo is a tattoo shop in Saint Paul, MN at 42 South Dale Street, Saint Paul, MN 55102.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-avenue-tattoo-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-avenue-tattoo-saint-paul.json",
+   "address": {
+    "streetAddress": "42 South Dale Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9402985,
+    "lon": -93.1260685
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920889294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "leviticus-tattoo-minneapolis",
+   "name": "Leviticus Tattoo",
+   "summary": "Leviticus Tattoo is a tattoo shop in Minneapolis, MN at 4109 East Lake Street, Minneapolis, MN 55406.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leviticus-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leviticus-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "4109 East Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9480999,
+    "lon": -93.213465
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/403118291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "lost-city-tattoo-minneapolis",
+   "name": "Lost City Tattoo",
+   "summary": "Lost City Tattoo is a tattoo shop in Minneapolis, MN at 4802 Chicago Avenue South, Minneapolis, MN 55417.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lost-city-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lost-city-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "4802 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.9159476,
+    "lon": -93.262831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7690319801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "northeast-tattoo-and-removal-minneapolis",
+   "name": "Northeast Tattoo & Removal",
+   "summary": "Northeast Tattoo & Removal is a tattoo shop in Minneapolis, MN at 800 Northeast Lowry Avenue, Minneapolis, MN 55418.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northeast-tattoo-and-removal-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northeast-tattoo-and-removal-minneapolis.json",
+   "address": {
+    "streetAddress": "800 Northeast Lowry Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0130361,
+    "lon": -93.2506303
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1127930816",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "sea-wolf-tattoo-company-minneapolis",
+   "name": "Sea Wolf Tattoo Company",
+   "summary": "Sea Wolf Tattoo Company is a tattoo shop in Minneapolis, MN at 3455 Bloomington Avenue South, Minneapolis, MN 55407.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sea-wolf-tattoo-company-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sea-wolf-tattoo-company-minneapolis.json",
+   "address": {
+    "streetAddress": "3455 Bloomington Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9397671,
+    "lon": -93.252269
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12155564698",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "wingnut-tattoo-and-piercing-anoka",
+   "name": "Wingnut Tattoo & Piercing",
+   "summary": "Wingnut Tattoo & Piercing is a tattoo shop in Anoka, MN at 2022 North Ferry Street, Anoka, MN 55303.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wingnut-tattoo-and-piercing-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wingnut-tattoo-and-piercing-anoka.json",
+   "address": {
+    "streetAddress": "2022 North Ferry Street",
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "postalCode": "55303",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "zip": "55303",
+   "geo": {
+    "lat": 45.1992494,
+    "lon": -93.3921132
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/585525225",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "medallion-ink-saint-paul",
+   "name": "Medallion Ink",
+   "summary": "Medallion Ink is a tattoo shop in Saint Paul, MN at 878 Payne Avenue, Saint Paul, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/medallion-ink-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/medallion-ink-saint-paul.json",
+   "address": {
+    "streetAddress": "878 Payne Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9677413,
+    "lon": -93.0734132
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12264854811",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "sacred-siren-tattoo-and-art-parlor-minneapolis",
+   "name": "Sacred Siren Tattoo & Art Parlor",
+   "summary": "Sacred Siren Tattoo & Art Parlor is a tattoo shop in Minneapolis, MN at 1920 Central Avenue Northeast, Minneapolis, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sacred-siren-tattoo-and-art-parlor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sacred-siren-tattoo-and-art-parlor-minneapolis.json",
+   "address": {
+    "streetAddress": "1920 Central Avenue Northeast",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0086526,
+    "lon": -93.2476194
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10840045846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "tatoo-eden-prairie",
+   "name": "Tatoo",
+   "summary": "Tatoo is a tattoo shop in Eden Prairie, MN at 8260 Commonwealth Drive, Eden Prairie, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tatoo-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tatoo-eden-prairie.json",
+   "address": {
+    "streetAddress": "8260 Commonwealth Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547696,
+    "lon": -93.4343104
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4145440398",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "timeless-tattoo-minneapolis",
+   "name": "Timeless Tattoo",
+   "summary": "Timeless Tattoo is a tattoo shop in Minneapolis, MN at 525 Southeast Central Avenue, Minneapolis, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/timeless-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/timeless-tattoo-minneapolis.json",
+   "address": {
+    "streetAddress": "525 Southeast Central Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9897912,
+    "lon": -93.2527281
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11803191506",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "acme-tattoo-saint-paul",
+   "name": "Acme Tattoo",
+   "summary": "Acme Tattoo is a tattoo shop in Saint Paul, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acme-tattoo-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acme-tattoo-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9727559,
+    "lon": -93.0661693
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096349",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "bella-donna-tattoo-minneapolis",
+   "name": "Bella Donna Tattoo",
+   "summary": "Bella Donna Tattoo is a tattoo shop in Minneapolis, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bella-donna-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bella-donna-tattoo-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.948643,
+    "lon": -93.2985268
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13686673671",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "isa-tattoo-minneapolis",
+   "name": "Isa Tattoo",
+   "summary": "Isa Tattoo is a tattoo shop in Minneapolis, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/isa-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/isa-tattoo-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9484861,
+    "lon": -93.2708176
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7170492215",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "lady-liberty-tattoo-saint-paul-park",
+   "name": "Lady Liberty Tattoo",
+   "summary": "Lady Liberty Tattoo is a tattoo shop in Saint Paul Park, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lady-liberty-tattoo-saint-paul-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lady-liberty-tattoo-saint-paul-park.json",
+   "address": {
+    "addressLocality": "Saint Paul Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8481383,
+    "lon": -92.9962914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603190103",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "no-joke-tattoo-studio-white-bear-lake",
+   "name": "No Joke Tattoo Studio",
+   "summary": "No Joke Tattoo Studio is a tattoo shop in White Bear Lake, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/no-joke-tattoo-studio-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/no-joke-tattoo-studio-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0507043,
+    "lon": -93.0157756
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597140451",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "port-and-starboard-tattoo-and-piercing-saint-paul",
+   "name": "Port & Starboard Tattoo and Piercing",
+   "summary": "Port & Starboard Tattoo and Piercing is a tattoo shop in Saint Paul, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/port-and-starboard-tattoo-and-piercing-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/port-and-starboard-tattoo-and-piercing-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9740308,
+    "lon": -93.0733362
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605070037",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "rockin-tattoos-eagan",
+   "name": "Rockin Tattoos",
+   "summary": "Rockin Tattoos is a tattoo shop in Eagan, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rockin-tattoos-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rockin-tattoos-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8339829,
+    "lon": -93.1792215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724662580",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "steady-tattoo-minneapolis",
+   "name": "Steady Tattoo",
+   "summary": "Steady Tattoo is a tattoo shop in Minneapolis, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/steady-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/steady-tattoo-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9626407,
+    "lon": -93.2335226
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11003398434",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "tattoo-addiction-minneapolis",
+   "name": "Tattoo Addiction",
+   "summary": "Tattoo Addiction is a tattoo shop in Minneapolis, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tattoo-addiction-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tattoo-addiction-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9551966,
+    "lon": -93.2891212
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12799591958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "tiger-rose-tattoo-minneapolis",
+   "name": "Tiger Rose Tattoo",
+   "summary": "Tiger Rose Tattoo is a tattoo shop in Minneapolis, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiger-rose-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiger-rose-tattoo-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0010216,
+    "lon": -93.2619224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11358657761",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "twilight-tattoo-minneapolis",
+   "name": "Twilight Tattoo",
+   "summary": "Twilight Tattoo is a tattoo shop in Minneapolis, MN.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twilight-tattoo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twilight-tattoo-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9467568,
+    "lon": -93.2526855
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1513738117",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

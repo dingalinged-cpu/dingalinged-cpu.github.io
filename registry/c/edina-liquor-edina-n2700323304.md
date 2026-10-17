@@ -1,0 +1,23 @@
+Edina Liquor is a liquor store in Edina, MN at 6755 York Avenue South, Edina, MN 55435. Phone: +19529035730. Website: https://www.edinaliquor.com/.
+
+# Edina Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 6755 York Avenue South, Edina, MN 55435
+- City: Edina
+- State: MN
+- ZIP: 55435
+- Coordinates: 44.8804852, -93.3206173
+- Phone: +19529035730
+- Website: https://www.edinaliquor.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/edina-liquor-edina-n2700323304/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/edina-liquor-edina-n2700323304.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2700323304 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

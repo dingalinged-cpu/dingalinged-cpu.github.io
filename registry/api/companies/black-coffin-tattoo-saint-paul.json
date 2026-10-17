@@ -1,0 +1,56 @@
+{
+ "slug": "black-coffin-tattoo-saint-paul",
+ "name": "Black Coffin Tattoo",
+ "categories": [
+  "tattoo shop"
+ ],
+ "keywords": [
+  "tattoo shop",
+  "tattoo shop saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "tattoo shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2480 University Avenue West",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.9648283,
+  "lon": -93.2005968
+ },
+ "phone": "+16516414099",
+ "website": "https://www.blackcoffintattoo.com/",
+ "schema_type": "TattooParlor",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6275543767",
+ "osm": {
+  "type": "node",
+  "id": 6275543767,
+  "tags_used": {
+   "shop": "tattoo"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/black-coffin-tattoo-saint-paul/",
+ "summary": "Black Coffin Tattoo is a tattoo shop in Saint Paul, MN at 2480 University Avenue West, Saint Paul, MN 55114. Phone: +16516414099. Website: https://www.blackcoffintattoo.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

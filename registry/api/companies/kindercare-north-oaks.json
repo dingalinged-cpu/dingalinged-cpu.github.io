@@ -1,0 +1,51 @@
+{
+ "slug": "kindercare-north-oaks",
+ "name": "KinderCare",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare north oaks mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "North Oaks",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "North Oaks",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0821884,
+  "lon": -93.1179227
+ },
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/385705151",
+ "osm": {
+  "type": "way",
+  "id": 385705151,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "North Oaks",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-north-oaks/",
+ "summary": "KinderCare is a daycare in North Oaks, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

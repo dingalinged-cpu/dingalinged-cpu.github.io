@@ -1,0 +1,63 @@
+{
+ "keyword": "acupuncture saint louis park mn",
+ "slug": "acupuncture-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "acupuncture",
+ "query": "Who are the best acupuncture providers in Saint Louis Park, MN?",
+ "matches": [
+  "acupuncture in Saint Louis Park, MN",
+  "acupuncture near me (Saint Louis Park, MN)",
+  "best acupuncture Saint Louis Park, MN",
+  "top rated acupuncture Saint Louis Park, MN",
+  "affordable acupuncture Saint Louis Park, MN",
+  "emergency acupuncture Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid acupuncture listing for Saint Louis Park, MN is TCM Health Center (an acupuncture clinic in Saint Louis Park, MN at 3710 Grand Way, Saint Louis Park, MN 55416. Phone: +19527467992. Website: https://www.infertilitymn.com/). 1 acupuncture businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "tcm-health-center-saint-louis-park",
+   "name": "TCM Health Center",
+   "summary": "TCM Health Center is an acupuncture clinic in Saint Louis Park, MN at 3710 Grand Way, Saint Louis Park, MN 55416. Phone: +19527467992. Website: https://www.infertilitymn.com/.",
+   "categories": [
+    "acupuncture"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tcm-health-center-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tcm-health-center-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3710 Grand Way",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9342559,
+    "lon": -93.340819
+   },
+   "phone": "+19527467992",
+   "website": "https://www.infertilitymn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6611143058",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

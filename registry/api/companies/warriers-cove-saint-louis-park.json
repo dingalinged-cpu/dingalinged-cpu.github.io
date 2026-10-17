@@ -1,0 +1,56 @@
+{
+ "slug": "warriers-cove-saint-louis-park",
+ "name": "Warrier's Cove",
+ "categories": [
+  "martial arts"
+ ],
+ "keywords": [
+  "martial arts",
+  "martial arts saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "martial arts",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7107 Cedar Lake Road",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55426",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55426",
+ "geo": {
+  "lat": 44.9593797,
+  "lon": -93.3701359
+ },
+ "phone": "+16128088680",
+ "website": "https://warriorscove.com/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/702348822",
+ "osm": {
+  "type": "node",
+  "id": 702348822,
+  "tags_used": {
+   "amenity": "dojo"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/warriers-cove-saint-louis-park/",
+ "summary": "Warrier's Cove is a martial arts school in Saint Louis Park, MN at 7107 Cedar Lake Road, Saint Louis Park, MN 55426. Phone: +16128088680. Website: https://warriorscove.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

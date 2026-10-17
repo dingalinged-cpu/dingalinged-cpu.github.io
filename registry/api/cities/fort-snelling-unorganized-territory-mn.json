@@ -1,0 +1,608 @@
+{
+ "place": "Fort Snelling Unorganized Territory, MN",
+ "slug": "fort-snelling-unorganized-territory-mn",
+ "count": 21,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "gift shop fort snelling unorganized territory mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-fort-snelling-unorganized-territory-mn.json"
+  },
+  {
+   "keyword": "jewelry store fort snelling unorganized territory mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-fort-snelling-unorganized-territory-mn.json"
+  },
+  {
+   "keyword": "massage fort snelling unorganized territory mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-fort-snelling-unorganized-territory-mn.json"
+  },
+  {
+   "keyword": "property management companies fort snelling unorganized territory mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-fort-snelling-unorganized-territory-mn.json"
+  },
+  {
+   "keyword": "property management company fort snelling unorganized territory mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-fort-snelling-unorganized-territory-mn.json"
+  },
+  {
+   "keyword": "shoe repair fort snelling unorganized territory mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/shoe-repair-fort-snelling-unorganized-territory-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "upper-post-flats-fort-snelling-unorganized-territory",
+   "name": "Upper Post Flats",
+   "summary": "Upper Post Flats is a property management company in Fort Snelling Unorganized Territory, MN at Taylor Avenue, Fort Snelling Unorganized Territory, MN 55111.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/upper-post-flats-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/upper-post-flats-fort-snelling-unorganized-territory.json",
+   "address": {
+    "streetAddress": "Taylor Avenue",
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "postalCode": "55111",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "zip": "55111",
+   "geo": {
+    "lat": 44.8870289,
+    "lon": -93.1896344
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13124302301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "baggallini-fort-snelling-unorganized-territory",
+   "name": "Baggallini",
+   "summary": "Baggallini is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baggallini-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baggallini-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8803653,
+    "lon": -93.2079271
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387428086",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "frivolous-fort-snelling-unorganized-territory",
+   "name": "Frivolous",
+   "summary": "Frivolous is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/frivolous-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/frivolous-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8842447,
+    "lon": -93.2110527
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387483784",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hjem-home-wares-and-gifts-fort-snelling-unorganized-territory",
+   "name": "Hjem Home wares and gifts",
+   "summary": "Hjem Home wares and gifts is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hjem-home-wares-and-gifts-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hjem-home-wares-and-gifts-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8830313,
+    "lon": -93.2062954
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13722136902",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "inspired-life-art-fort-snelling-unorganized-territory",
+   "name": "Inspired Life + Art",
+   "summary": "Inspired Life + Art is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/inspired-life-art-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/inspired-life-art-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8830606,
+    "lon": -93.2061474
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387464086",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "local-marketplace-fort-snelling-unorganized-territory",
+   "name": "Local Marketplace",
+   "summary": "Local Marketplace is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/local-marketplace-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/local-marketplace-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8834299,
+    "lon": -93.2147154
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11186279013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lolli-and-pops-fort-snelling-unorganized-territory",
+   "name": "Lolli and Pops",
+   "summary": "Lolli and Pops is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lolli-and-pops-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lolli-and-pops-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8833306,
+    "lon": -93.214215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4781035123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "loring-park-essentials-fort-snelling-unorganized-territory",
+   "name": "Loring Park Essentials",
+   "summary": "Loring Park Essentials is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/loring-park-essentials-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/loring-park-essentials-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8848876,
+    "lon": -93.2106375
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4121880570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "minnesota-state-of-nice-fort-snelling-unorganized-territory",
+   "name": "Minnesota State of Nice",
+   "summary": "Minnesota State of Nice is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-state-of-nice-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-state-of-nice-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.883391,
+    "lon": -93.2113836
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387488088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "msp-duty-free-fort-snelling-unorganized-territory",
+   "name": "MSP Duty Free",
+   "summary": "MSP Duty Free is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/msp-duty-free-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/msp-duty-free-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8848581,
+    "lon": -93.2101746
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387483775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "msp-duty-free-fort-snelling-unorganized-territory-n6387495095",
+   "name": "MSP Duty Free",
+   "summary": "MSP Duty Free is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/msp-duty-free-fort-snelling-unorganized-territory-n6387495095/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/msp-duty-free-fort-snelling-unorganized-territory-n6387495095.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.88256,
+    "lon": -93.2123964
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387495095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "prince-fort-snelling-unorganized-territory",
+   "name": "Prince",
+   "summary": "Prince is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prince-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prince-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8825042,
+    "lon": -93.2121324
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387500888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shoe-shine-fort-snelling-unorganized-territory",
+   "name": "Shoe Shine",
+   "summary": "Shoe Shine is a shoe repair in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoe-shine-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoe-shine-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8827909,
+    "lon": -93.2056375
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387458186",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shoe-shine-fort-snelling-unorganized-territory-n6387494585",
+   "name": "Shoe Shine",
+   "summary": "Shoe Shine is a shoe repair in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoe-shine-fort-snelling-unorganized-territory-n6387494585/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoe-shine-fort-snelling-unorganized-territory-n6387494585.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8845315,
+    "lon": -93.2116207
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387494585",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shoe-shine-fort-snelling-unorganized-territory-n6387500892",
+   "name": "Shoe Shine",
+   "summary": "Shoe Shine is a shoe repair in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoe-shine-fort-snelling-unorganized-territory-n6387500892/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoe-shine-fort-snelling-unorganized-territory-n6387500892.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8820308,
+    "lon": -93.2122377
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387500892",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "swarovski-fort-snelling-unorganized-territory",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8837392,
+    "lon": -93.211106
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387478932",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-chiroport-chiropractic-fort-snelling-unorganized-territory",
+   "name": "The Chiroport Chiropractic",
+   "summary": "The Chiroport Chiropractic is a massage studio in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-chiroport-chiropractic-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-chiroport-chiropractic-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8814702,
+    "lon": -93.2106495
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387501088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-north-merchantile-fort-snelling-unorganized-territory",
+   "name": "The North Merchantile",
+   "summary": "The North Merchantile is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-north-merchantile-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-north-merchantile-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8823981,
+    "lon": -93.2125831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387495096",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tumi-fort-snelling-unorganized-territory",
+   "name": "Tumi",
+   "summary": "Tumi is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tumi-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tumi-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8841618,
+    "lon": -93.2107731
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387471976",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "words-fort-snelling-unorganized-territory",
+   "name": "Words",
+   "summary": "Words is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/words-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/words-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8825647,
+    "lon": -93.2050074
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4780177422",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "xpresspa-fort-snelling-unorganized-territory",
+   "name": "XpresSpa",
+   "summary": "XpresSpa is a massage studio in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/xpresspa-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/xpresspa-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8849348,
+    "lon": -93.2105956
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5744517021",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "keyword": "tailor west saint paul mn",
+ "slug": "tailor-west-saint-paul-mn",
+ "place": "West Saint Paul, MN",
+ "service": "tailor",
+ "query": "Who are the best tailor providers in West Saint Paul, MN?",
+ "matches": [
+  "tailor in West Saint Paul, MN",
+  "tailor near me (West Saint Paul, MN)",
+  "best tailor West Saint Paul, MN",
+  "top rated tailor West Saint Paul, MN",
+  "affordable tailor West Saint Paul, MN",
+  "emergency tailor West Saint Paul, MN"
+ ],
+ "answer": "The top unpaid tailor listing for West Saint Paul, MN is Tailor (a tailor in West Saint Paul, MN). 1 tailor businesses are listed for West Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "tailor-west-saint-paul",
+   "name": "Tailor",
+   "summary": "Tailor is a tailor in West Saint Paul, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tailor-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tailor-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8952742,
+    "lon": -93.0789
+   },
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729479024",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

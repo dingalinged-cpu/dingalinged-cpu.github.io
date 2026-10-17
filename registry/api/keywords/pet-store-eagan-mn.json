@@ -1,0 +1,129 @@
+{
+ "keyword": "pet store eagan mn",
+ "slug": "pet-store-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "pet store",
+ "query": "Who are the best pet store providers in Eagan, MN?",
+ "matches": [
+  "pet store in Eagan, MN",
+  "pet store near me (Eagan, MN)",
+  "best pet store Eagan, MN",
+  "top rated pet store Eagan, MN",
+  "affordable pet store Eagan, MN",
+  "emergency pet store Eagan, MN"
+ ],
+ "answer": "The top unpaid pet store listing for Eagan, MN is Petco (a pet store in Eagan, MN at 1505 Central Park Commons Drive #100, Eagan, MN 55121. Phone: +16512864898. Website: https://stores.petco.com/mn/eagan/pet-supplies-eagan-mn-2619.html). 3 pet store businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "petco-eagan",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Eagan, MN at 1505 Central Park Commons Drive #100, Eagan, MN 55121. Phone: +16512864898. Website: https://stores.petco.com/mn/eagan/pet-supplies-eagan-mn-2619.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-eagan.json",
+   "address": {
+    "streetAddress": "1505 Central Park Commons Drive #100",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8367933,
+    "lon": -93.17209
+   },
+   "phone": "+16512864898",
+   "website": "https://stores.petco.com/mn/eagan/pet-supplies-eagan-mn-2619.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11242363611",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "petsmart-eagan",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Eagan, MN at 1297 Promenade Place #2A, Eagan, MN 55121. Phone: +16514521140. Website: https://www.petsmart.com/stores/us/mn/eagan-store0469.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-eagan.json",
+   "address": {
+    "streetAddress": "1297 Promenade Place #2A",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8362793,
+    "lon": -93.1576115
+   },
+   "phone": "+16514521140",
+   "website": "https://www.petsmart.com/stores/us/mn/eagan-store0469.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/460005305",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "chuck-and-dons-eagan",
+   "name": "Chuck and Don's",
+   "summary": "Chuck and Don's is a pet store in Eagan, MN at 1254, Eagan, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-eagan.json",
+   "address": {
+    "streetAddress": "1254",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8318095,
+    "lon": -93.1572262
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12251426314",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

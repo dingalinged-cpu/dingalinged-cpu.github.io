@@ -1,0 +1,54 @@
+{
+ "slug": "yogafit-minneapolis",
+ "name": "YogaFit",
+ "categories": [
+  "yoga classes"
+ ],
+ "keywords": [
+  "yoga classes",
+  "yoga classes minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "yoga classes",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "520 Northeast 1st Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9902497,
+  "lon": -93.252904
+ },
+ "website": "https://yogafitstudios.com/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6773414139",
+ "osm": {
+  "type": "node",
+  "id": 6773414139,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "yoga"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/yogafit-minneapolis/",
+ "summary": "YogaFit is a yoga studio in Minneapolis, MN at 520 Northeast 1st Avenue, Minneapolis, MN. Website: https://yogafitstudios.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

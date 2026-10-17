@@ -1,0 +1,23 @@
+Spine Care, PA is a chiropractor in Saint Louis Park, MN at 5810 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529278686. Website: https://www.spinecareassociates.com/.
+
+# Spine Care, PA
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 5810 Excelsior Boulevard, Saint Louis Park, MN 55416
+- City: Saint Louis Park
+- State: MN
+- ZIP: 55416
+- Coordinates: 44.9293091, -93.3536932
+- Phone: +19529278686
+- Website: https://www.spinecareassociates.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/spine-care-pa-saint-louis-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/spine-care-pa-saint-louis-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9590592446 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

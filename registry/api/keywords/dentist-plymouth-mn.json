@@ -1,0 +1,160 @@
+{
+ "keyword": "dentist plymouth mn",
+ "slug": "dentist-plymouth-mn",
+ "place": "Plymouth, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Plymouth, MN?",
+ "matches": [
+  "dentist in Plymouth, MN",
+  "dentist near me (Plymouth, MN)",
+  "best dentist Plymouth, MN",
+  "top rated dentist Plymouth, MN",
+  "affordable dentist Plymouth, MN",
+  "emergency dentist Plymouth, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Plymouth, MN is Gentle Dentistry (a dentist in Plymouth, MN at 15650 36th Avenue North #150, Plymouth, MN 55446. Phone: +17635570287. Website: https://smilemn.com/plymouth/). 4 dentist businesses are listed for Plymouth, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "gentle-dentistry-plymouth",
+   "name": "Gentle Dentistry",
+   "summary": "Gentle Dentistry is a dentist in Plymouth, MN at 15650 36th Avenue North #150, Plymouth, MN 55446. Phone: +17635570287. Website: https://smilemn.com/plymouth/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gentle-dentistry-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gentle-dentistry-plymouth.json",
+   "address": {
+    "streetAddress": "15650 36th Avenue North #150",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55446",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55446",
+   "geo": {
+    "lat": 45.022484,
+    "lon": -93.4792408
+   },
+   "phone": "+17635570287",
+   "website": "https://smilemn.com/plymouth/",
+   "opening_hours": "Mo-Th 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9625347272",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "boger-dental-plymouth",
+   "name": "Boger Dental",
+   "summary": "Boger Dental is a dentist in Plymouth, MN at 2720 Annapolis Circle North #Suite A, Plymouth, MN 55441. Phone: +17635467707. Website: https://www.bogerdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boger-dental-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boger-dental-plymouth.json",
+   "address": {
+    "streetAddress": "2720 Annapolis Circle North #Suite A",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55441",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55441",
+   "geo": {
+    "lat": 45.0092599,
+    "lon": -93.4507768
+   },
+   "phone": "+17635467707",
+   "website": "https://www.bogerdental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12124640947",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "artisan-dental-plymouth",
+   "name": "Artisan Dental",
+   "summary": "Artisan Dental is a dentist in Plymouth, MN. Phone: +17635198880.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/artisan-dental-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/artisan-dental-plymouth.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0287185,
+    "lon": -93.455227
+   },
+   "phone": "+17635198880",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4119782525",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "rasmussen-dental-plymouth",
+   "name": "Rasmussen Dental",
+   "summary": "Rasmussen Dental is a dentist in Plymouth, MN at 9750 Rockford Road #Suite 400, Plymouth, MN 55442.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rasmussen-dental-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rasmussen-dental-plymouth.json",
+   "address": {
+    "streetAddress": "9750 Rockford Road #Suite 400",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55442",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55442",
+   "geo": {
+    "lat": 45.0341575,
+    "lon": -93.4036182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7167433141",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

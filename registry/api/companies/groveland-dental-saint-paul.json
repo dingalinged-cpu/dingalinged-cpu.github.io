@@ -1,0 +1,55 @@
+{
+ "slug": "groveland-dental-saint-paul",
+ "name": "Groveland Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2042 Saint Clair Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55105",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55105",
+ "geo": {
+  "lat": 44.9342228,
+  "lon": -93.1866013
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/1696695965",
+ "osm": {
+  "type": "node",
+  "id": 1696695965,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/groveland-dental-saint-paul/",
+ "summary": "Groveland Dental is a dentist in Saint Paul, MN at 2042 Saint Clair Avenue, Saint Paul, MN 55105.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

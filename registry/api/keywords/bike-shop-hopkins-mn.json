@@ -1,0 +1,93 @@
+{
+ "keyword": "bike shop hopkins mn",
+ "slug": "bike-shop-hopkins-mn",
+ "place": "Hopkins, MN",
+ "service": "bike shop",
+ "query": "Who are the best bike shop providers in Hopkins, MN?",
+ "matches": [
+  "bike shop in Hopkins, MN",
+  "bike shop near me (Hopkins, MN)",
+  "best bike shop Hopkins, MN",
+  "top rated bike shop Hopkins, MN",
+  "affordable bike shop Hopkins, MN",
+  "emergency bike shop Hopkins, MN"
+ ],
+ "answer": "The top unpaid bike shop listing for Hopkins, MN is Tonka Cycle & Ski (a bike shop in Hopkins, MN at 416 11th Avenue South, Hopkins, MN 55343. Phone: +19529388336. Website: https://www.tonkacycleandski.com/). 2 bike shop businesses are listed for Hopkins, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "tonka-cycle-and-ski-hopkins",
+   "name": "Tonka Cycle & Ski",
+   "summary": "Tonka Cycle & Ski is a bike shop in Hopkins, MN at 416 11th Avenue South, Hopkins, MN 55343. Phone: +19529388336. Website: https://www.tonkacycleandski.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tonka-cycle-and-ski-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tonka-cycle-and-ski-hopkins.json",
+   "address": {
+    "streetAddress": "416 11th Avenue South",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9179146,
+    "lon": -93.4147711
+   },
+   "phone": "+19529388336",
+   "website": "https://www.tonkacycleandski.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12099749045",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "jonny-rock-bikes-hopkins",
+   "name": "Jonny Rock Bikes",
+   "summary": "Jonny Rock Bikes is a bike shop in Hopkins, MN.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jonny-rock-bikes-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jonny-rock-bikes-hopkins.json",
+   "address": {
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9249281,
+    "lon": -93.3918836
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8534254789",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

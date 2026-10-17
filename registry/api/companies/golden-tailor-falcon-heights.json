@@ -1,0 +1,54 @@
+{
+ "slug": "golden-tailor-falcon-heights",
+ "name": "Golden Tailor",
+ "categories": [
+  "tailor"
+ ],
+ "keywords": [
+  "tailor",
+  "tailor falcon heights mn"
+ ],
+ "services": [
+  {
+   "name": "tailor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1555 Larpenteur Avenue West",
+  "addressLocality": "Falcon Heights",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Falcon Heights",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9920794,
+  "lon": -93.1654961
+ },
+ "phone": "+16516460938",
+ "website": "https://www.thegoldentailor.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7294714125",
+ "osm": {
+  "type": "node",
+  "id": 7294714125,
+  "tags_used": {
+   "shop": "tailor"
+  }
+ },
+ "municipality": "Falcon Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/golden-tailor-falcon-heights/",
+ "summary": "Golden Tailor is a tailor in Falcon Heights, MN at 1555 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16516460938. Website: https://www.thegoldentailor.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "gregg-and-jims-services-golden-valley",
+ "name": "Gregg & Jim's Services",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair golden valley mn",
+  "mechanic golden valley mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Golden Valley",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Golden Valley",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9992159,
+  "lon": -93.3597163
+ },
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/480536182",
+ "osm": {
+  "type": "way",
+  "id": 480536182,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Golden Valley",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/gregg-and-jims-services-golden-valley/",
+ "summary": "Gregg & Jim's Services is an auto repair shop in Golden Valley, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

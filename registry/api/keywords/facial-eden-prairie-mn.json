@@ -1,0 +1,64 @@
+{
+ "keyword": "facial eden prairie mn",
+ "slug": "facial-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "facial",
+ "query": "Who are the best facial providers in Eden Prairie, MN?",
+ "matches": [
+  "facial in Eden Prairie, MN",
+  "facial near me (Eden Prairie, MN)",
+  "best facial Eden Prairie, MN",
+  "top rated facial Eden Prairie, MN",
+  "affordable facial Eden Prairie, MN",
+  "emergency facial Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid facial listing for Eden Prairie, MN is Ulta Beauty (a skin care studio in Eden Prairie, MN at 12591 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +16516155595. Website: https://www.ulta.com/stores/eden-prairie-mn-1648). 1 facial businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ulta-beauty-eden-prairie",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Eden Prairie, MN at 12591 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +16516155595. Website: https://www.ulta.com/stores/eden-prairie-mn-1648.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-eden-prairie.json",
+   "address": {
+    "streetAddress": "12591 Castlemoor Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8506786,
+    "lon": -93.4361125
+   },
+   "phone": "+16516155595",
+   "website": "https://www.ulta.com/stores/eden-prairie-mn-1648",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10597376678",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

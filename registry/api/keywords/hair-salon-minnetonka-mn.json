@@ -1,0 +1,281 @@
+{
+ "keyword": "hair salon minnetonka mn",
+ "slug": "hair-salon-minnetonka-mn",
+ "place": "Minnetonka, MN",
+ "service": "hair salon",
+ "query": "Who are the best hair salon providers in Minnetonka, MN?",
+ "matches": [
+  "hair salon in Minnetonka, MN",
+  "hair salon near me (Minnetonka, MN)",
+  "best hair salon Minnetonka, MN",
+  "top rated hair salon Minnetonka, MN",
+  "affordable hair salon Minnetonka, MN",
+  "emergency hair salon Minnetonka, MN"
+ ],
+ "answer": "The top unpaid hair salon listing for Minnetonka, MN is Great Clips (a hair salon in Minnetonka, MN at 4761 County Road 101, Minnetonka, MN 55345. Phone: +19529330019. Website: https://salons.greatclips.com/). 8 hair salon businesses are listed for Minnetonka, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "great-clips-minnetonka",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Minnetonka, MN at 4761 County Road 101, Minnetonka, MN 55345. Phone: +19529330019. Website: https://salons.greatclips.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-minnetonka.json",
+   "address": {
+    "streetAddress": "4761 County Road 101",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9177663,
+    "lon": -93.5012173
+   },
+   "phone": "+19529330019",
+   "website": "https://salons.greatclips.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-17:00; Su 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/846233317",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "sakada-studios-minnetonka",
+   "name": "Sakada Studios",
+   "summary": "Sakada Studios is a hair salon in Minnetonka, MN at 14525 Minnesota State Highway 7 #120, Minnetonka, MN 55345. Phone: +19529389400.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sakada-studios-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sakada-studios-minnetonka.json",
+   "address": {
+    "streetAddress": "14525 Minnesota State Highway 7 #120",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9216678,
+    "lon": -93.4654921
+   },
+   "phone": "+19529389400",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379274297",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "city-looks-minnetonka",
+   "name": "City Looks",
+   "summary": "City Looks is a hair salon in Minnetonka, MN at 13135 Ridgedale Drive, Minnetonka, MN 55305. Website: https://citylooksminnetonka.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-looks-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-looks-minnetonka.json",
+   "address": {
+    "streetAddress": "13135 Ridgedale Drive",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9683854,
+    "lon": -93.4467337
+   },
+   "website": "https://citylooksminnetonka.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482425093",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "minnehaven-barbers-minnetonka",
+   "name": "Minnehaven Barbers",
+   "summary": "Minnehaven Barbers is a hair salon in Minnetonka, MN at 3400, Minnetonka, MN. Phone: +16124730283.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnehaven-barbers-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnehaven-barbers-minnetonka.json",
+   "address": {
+    "streetAddress": "3400",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9415504,
+    "lon": -93.5033844
+   },
+   "phone": "+16124730283",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "great-clips-minnetonka-n13596839201",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-minnetonka-n13596839201/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-minnetonka-n13596839201.json",
+   "address": {
+    "streetAddress": "11210 Wayzata Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.973553,
+    "lon": -93.4218351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596839201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "cost-cutters-minnetonka",
+   "name": "Cost Cutters",
+   "summary": "Cost Cutters is a hair salon in Minnetonka, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cost-cutters-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cost-cutters-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9691406,
+    "lon": -93.4477181
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482425094",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "lilli-salon-minnetonka",
+   "name": "Lilli Salon",
+   "summary": "Lilli Salon is a hair salon in Minnetonka, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lilli-salon-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lilli-salon-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9005553,
+    "lon": -93.4223138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/928666829",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "salons-by-jc-minnetonka",
+   "name": "Salons by JC",
+   "summary": "Salons by JC is a hair salon in Minnetonka, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salons-by-jc-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salons-by-jc-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9339628,
+    "lon": -93.424732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6417826213",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

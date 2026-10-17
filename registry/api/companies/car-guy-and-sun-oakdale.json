@@ -1,0 +1,57 @@
+{
+ "slug": "car-guy-and-sun-oakdale",
+ "name": "Car Guy & Sun",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair oakdale mn",
+  "mechanic oakdale mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Oakdale",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Oakdale",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0191723,
+  "lon": -92.9840086
+ },
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13056479510",
+ "osm": {
+  "type": "node",
+  "id": 13056479510,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Oakdale",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/car-guy-and-sun-oakdale/",
+ "summary": "Car Guy & Sun is an auto repair shop in Oakdale, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

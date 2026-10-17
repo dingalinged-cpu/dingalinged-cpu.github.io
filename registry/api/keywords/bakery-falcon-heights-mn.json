@@ -1,0 +1,59 @@
+{
+ "keyword": "bakery falcon heights mn",
+ "slug": "bakery-falcon-heights-mn",
+ "place": "Falcon Heights, MN",
+ "service": "bakery",
+ "query": "Who are the best bakery providers in Falcon Heights, MN?",
+ "matches": [
+  "bakery in Falcon Heights, MN",
+  "bakery near me (Falcon Heights, MN)",
+  "best bakery Falcon Heights, MN",
+  "top rated bakery Falcon Heights, MN",
+  "affordable bakery Falcon Heights, MN",
+  "emergency bakery Falcon Heights, MN"
+ ],
+ "answer": "The top unpaid bakery listing for Falcon Heights, MN is Sweet Martha's Cookies (a bakery in Falcon Heights, MN at 1795 Dan Patch Avenue, Falcon Heights, MN). 1 bakery businesses are listed for Falcon Heights, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "sweet-marthas-cookies-falcon-heights",
+   "name": "Sweet Martha's Cookies",
+   "summary": "Sweet Martha's Cookies is a bakery in Falcon Heights, MN at 1795 Dan Patch Avenue, Falcon Heights, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sweet-marthas-cookies-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sweet-marthas-cookies-falcon-heights.json",
+   "address": {
+    "streetAddress": "1795 Dan Patch Avenue",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9811115,
+    "lon": -93.1746191
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/177770137",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

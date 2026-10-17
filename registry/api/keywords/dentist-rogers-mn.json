@@ -1,0 +1,87 @@
+{
+ "keyword": "dentist rogers mn",
+ "slug": "dentist-rogers-mn",
+ "place": "Rogers, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Rogers, MN?",
+ "matches": [
+  "dentist in Rogers, MN",
+  "dentist near me (Rogers, MN)",
+  "best dentist Rogers, MN",
+  "top rated dentist Rogers, MN",
+  "affordable dentist Rogers, MN",
+  "emergency dentist Rogers, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Rogers, MN is Minnesota Orthodontics (a dentist in Rogers, MN). 2 dentist businesses are listed for Rogers, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "minnesota-orthodontics-rogers",
+   "name": "Minnesota Orthodontics",
+   "summary": "Minnesota Orthodontics is a dentist in Rogers, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-orthodontics-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-orthodontics-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2023282,
+    "lon": -93.5498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7156640350",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "rogers-dental-center-rogers",
+   "name": "Rogers Dental Center",
+   "summary": "Rogers Dental Center is a dentist in Rogers, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rogers-dental-center-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rogers-dental-center-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2028524,
+    "lon": -93.551096
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423667",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "gq-tailors-minnetonka",
+ "name": "GQ Tailors",
+ "categories": [
+  "tailor"
+ ],
+ "keywords": [
+  "tailor",
+  "tailor minnetonka mn"
+ ],
+ "services": [
+  {
+   "name": "tailor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minnetonka",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minnetonka",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9414535,
+  "lon": -93.5033895
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/923857591",
+ "osm": {
+  "type": "node",
+  "id": 923857591,
+  "tags_used": {
+   "shop": "tailor"
+  }
+ },
+ "municipality": "Minnetonka",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/gq-tailors-minnetonka/",
+ "summary": "GQ Tailors is a tailor in Minnetonka, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "new-creations-child-care-and-learning-center-ramsey-ramsey",
+ "name": "New Creations Child Care & Learning Center | Ramsey",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare ramsey mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5400 140th Avenue Northwest",
+  "addressLocality": "Ramsey",
+  "addressRegion": "MN",
+  "postalCode": "55303",
+  "addressCountry": "US"
+ },
+ "city": "Ramsey",
+ "state": "MN",
+ "zip": "55303",
+ "geo": {
+  "lat": 45.2249412,
+  "lon": -93.404722
+ },
+ "phone": "+17634344868",
+ "website": "https://www.newcreationschildcare.com/ramsey",
+ "email": "Marketing@newcreationschildcare.com",
+ "opening_hours": "Mo-Fr 07:00-17:00",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11032418805",
+ "osm": {
+  "type": "node",
+  "id": 11032418805,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Ramsey",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-ramsey-ramsey/",
+ "summary": "New Creations Child Care & Learning Center | Ramsey is a daycare in Ramsey, MN at 5400 140th Avenue Northwest, Ramsey, MN 55303. Phone: +17634344868. Website: https://www.newcreationschildcare.com/ramsey.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

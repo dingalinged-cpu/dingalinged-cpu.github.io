@@ -1,0 +1,23 @@
+Salam Barber is a barber shop in Minneapolis, MN at 2215 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127813956. Website: https://salaambarber.com/.
+
+# Salam Barber
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 2215 Northeast Central Avenue, Minneapolis, MN 55418
+- City: Minneapolis
+- State: MN
+- ZIP: 55418
+- Coordinates: 45.0104222, -93.2471424
+- Phone: +16127813956
+- Website: https://salaambarber.com/
+- Email: contact@salaambarber.com
+- Opening hours (OSM syntax): Mo-Su 10:00-20:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/salam-barber-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/salam-barber-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12806837083 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

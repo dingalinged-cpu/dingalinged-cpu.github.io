@@ -1,0 +1,52 @@
+{
+ "slug": "threads-of-hope-eagan",
+ "name": "Threads of Hope",
+ "categories": [
+  "therapist"
+ ],
+ "keywords": [
+  "therapist",
+  "therapist eagan mn"
+ ],
+ "services": [
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3410 Federal Drive",
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8328641,
+  "lon": -93.1718812
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12134351518",
+ "osm": {
+  "type": "node",
+  "id": 12134351518,
+  "tags_used": {
+   "healthcare": "counselling"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/threads-of-hope-eagan/",
+ "summary": "Threads of Hope is a therapy practice in Eagan, MN at 3410 Federal Drive, Eagan, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "arne-wellness-center-minnetonka",
+ "name": "Arne Wellness Center",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor minnetonka mn"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "13911 Ridgedale Drive #100A",
+  "addressLocality": "Minnetonka",
+  "addressRegion": "MN",
+  "postalCode": "55305",
+  "addressCountry": "US"
+ },
+ "city": "Minnetonka",
+ "state": "MN",
+ "zip": "55305",
+ "geo": {
+  "lat": 44.9701725,
+  "lon": -93.4557943
+ },
+ "phone": "+19526973100",
+ "website": "https://www.arnewellness.com/",
+ "opening_hours": "Tu-Th 11:00-19:00; Fr-Sa 08:00-14:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6392906444",
+ "osm": {
+  "type": "node",
+  "id": 6392906444,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Minnetonka",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/arne-wellness-center-minnetonka/",
+ "summary": "Arne Wellness Center is a chiropractor in Minnetonka, MN at 13911 Ridgedale Drive #100A, Minnetonka, MN 55305. Phone: +19526973100. Website: https://www.arnewellness.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Great Clips is a hair salon in Maple Grove, MN at 13550 Grove Drive North, Maple Grove, MN 55311. Phone: +17634207800. Website: https://www.greatclips.com/.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 13550 Grove Drive North, Maple Grove, MN 55311
+- City: Maple Grove
+- State: MN
+- ZIP: 55311
+- Coordinates: 45.1046912, -93.4524251
+- Phone: +17634207800
+- Website: https://www.greatclips.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-21:00;Sa 08:00-18:00;Su 10:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-maple-grove-w610036228/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-maple-grove-w610036228.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/610036228 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

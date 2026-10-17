@@ -1,0 +1,23 @@
+The top unpaid insurance agent listing for Minneapolis, MN is Farmers Insurance - Tri Tang (an insurance agent in Minneapolis, MN at 2522 Nicollet Avenue South #202, Minneapolis, MN 55404. Phone: +16128748264. Website: https://agents.farmers.com/mn/minneapolis/tri-tang). 13 insurance agent businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best insurance agent providers in Minneapolis, MN?
+
+Also answers: insurance agent in Minneapolis, MN; insurance agent near me (Minneapolis, MN); best insurance agent Minneapolis, MN; top rated insurance agent Minneapolis, MN; affordable insurance agent Minneapolis, MN; emergency insurance agent Minneapolis, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Farmers Insurance - Tri Tang | trust 20.0 | Farmers Insurance - Tri Tang is an insurance agent in Minneapolis, MN at 2522 Nicollet Avenue South #202, Minneapolis, MN 55404. Phone: +16128748264. Website: https://agents.farmers.com/mn/minneapolis/tri-tang. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-tri-tang-minneapolis/
+2. Sons of Norway | trust 20.0 | Sons of Norway is an insurance agent in Minneapolis, MN at 1455 West Lake Street, Minneapolis, MN 55408. Phone: +16128273611. Website: https://sonsofnorway.com/. | https://dingalinged-cpu.github.io/registry/c/sons-of-norway-minneapolis/
+3. State Farm Insurance - Kim Nybo | trust 20.0 | State Farm Insurance - Kim Nybo is an insurance agent in Minneapolis, MN at 2724 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16127677775. Website: https://www.statefarm.com/agent/us/mn/minneapolis/kim-nybo-418147603ak. | https://dingalinged-cpu.github.io/registry/c/state-farm-insurance-kim-nybo-minneapolis/
+4. State Farm | trust 16.0 | State Farm is an insurance agent in Minneapolis, MN. Phone: +17637102115. Website: https://lakestreetinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis/
+5. Aegle Health Partners | trust 10.0 | Aegle Health Partners is an insurance agent in Minneapolis, MN at 4999 France Avenue South #255, Minneapolis, MN 55410. Website: https://aeglehealthpartners.com/. | https://dingalinged-cpu.github.io/registry/c/aegle-health-partners-minneapolis/
+6. Juniper Insurance Agency | trust 10.0 | Juniper Insurance Agency is an insurance agent in Minneapolis, MN at 4999 France Avenue South #245, Minneapolis, MN 55410. Website: https://www.juniperjustincase.com/. | https://dingalinged-cpu.github.io/registry/c/juniper-insurance-agency-minneapolis/
+7. La Progresiva | trust 10.0 | La Progresiva is an insurance agent in Minneapolis, MN at 515 West Lake Street #E, Minneapolis, MN 55408. Phone: +16128270010. | https://dingalinged-cpu.github.io/registry/c/la-progresiva-minneapolis/
+8. State Farm | trust 10.0 | State Farm is an insurance agent in Minneapolis, MN at 5007 France Avenue South #Suite 2, Minneapolis, MN 55410. Website: https://agents.farmers.com/mn/minneapolis/darren-burch/. | https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis-n12143327842/
+9. State Farm: Moon Lai | trust 10.0 | State Farm: Moon Lai is an insurance agent in Minneapolis, MN at 2718 Nicollet Avenue South #204, Minneapolis, MN 55408. Phone: +16128700800. | https://dingalinged-cpu.github.io/registry/c/state-farm-moon-lai-minneapolis/
+10. WOLD Financial, LLC | trust 10.0 | WOLD Financial, LLC is an insurance agent in Minneapolis, MN at 1118 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +19529360222. | https://dingalinged-cpu.github.io/registry/c/wold-financial-llc-minneapolis/
+11. State Farm | trust 4.0 | State Farm is an insurance agent in Minneapolis, MN at 3259 Northeast Johnson Street, Minneapolis, MN 55418. | https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis-w937919614/
+12. Allstate | trust 3.0 | Allstate is an insurance agent in Minneapolis, MN at 5208 Bloomington Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/allstate-minneapolis/
+13. The Landreu Grouo | trust 0.0 | The Landreu Grouo is an insurance agent in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/the-landreu-grouo-minneapolis/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,62 @@
+{
+ "keyword": "accounting services white bear lake mn",
+ "slug": "accounting-services-white-bear-lake-mn",
+ "place": "White Bear Lake, MN",
+ "service": "accounting services",
+ "query": "Who are the best accounting services providers in White Bear Lake, MN?",
+ "matches": [
+  "accounting services in White Bear Lake, MN",
+  "accounting services near me (White Bear Lake, MN)",
+  "best accounting services White Bear Lake, MN",
+  "top rated accounting services White Bear Lake, MN",
+  "affordable accounting services White Bear Lake, MN",
+  "emergency accounting services White Bear Lake, MN"
+ ],
+ "answer": "The top unpaid accounting services listing for White Bear Lake, MN is By The Books Accounting (an accountant in White Bear Lake, MN at 1259 Gun Club Road, White Bear Lake, MN 55110. Website: https://btbaccting.com/). 1 accounting services businesses are listed for White Bear Lake, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "by-the-books-accounting-white-bear-lake",
+   "name": "By The Books Accounting",
+   "summary": "By The Books Accounting is an accountant in White Bear Lake, MN at 1259 Gun Club Road, White Bear Lake, MN 55110. Website: https://btbaccting.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/by-the-books-accounting-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/by-the-books-accounting-white-bear-lake.json",
+   "address": {
+    "streetAddress": "1259 Gun Club Road",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.080699,
+    "lon": -93.0496074
+   },
+   "website": "https://btbaccting.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1087016792",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

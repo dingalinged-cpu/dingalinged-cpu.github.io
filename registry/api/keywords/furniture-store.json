@@ -1,0 +1,3142 @@
+{
+ "keyword": "furniture store",
+ "slug": "furniture-store",
+ "place": "the United States",
+ "service": "furniture store",
+ "query": "Who are the best furniture store providers in the United States?",
+ "matches": [
+  "furniture store in the United States",
+  "furniture store near me (the United States)",
+  "best furniture store the United States",
+  "top rated furniture store the United States",
+  "affordable furniture store the United States",
+  "emergency furniture store the United States"
+ ],
+ "answer": "The top unpaid furniture store listing for the United States is Ashley HomeStore (a furniture store in Eagan, MN at 1295 Promenade Place, Eagan, MN 55121. Phone: +16122165580. Website: https://stores.ashleyfurniture.com/store/us/minnesota/eagan/9000816076/). 97 furniture store businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ashley-homestore-eagan",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Eagan, MN at 1295 Promenade Place, Eagan, MN 55121. Phone: +16122165580. Website: https://stores.ashleyfurniture.com/store/us/minnesota/eagan/9000816076/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-eagan.json",
+   "address": {
+    "streetAddress": "1295 Promenade Place",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8363409,
+    "lon": -93.1572399
+   },
+   "phone": "+16122165580",
+   "website": "https://stores.ashleyfurniture.com/store/us/minnesota/eagan/9000816076/",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3559965089",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "blu-dot-outlet-minneapolis",
+   "name": "Blu Dot Outlet",
+   "summary": "Blu Dot Outlet is a furniture store in Minneapolis, MN at 1331 Tyler ST NE, Minneapolis, MN 55413. Phone: +16123547964. Website: https://www.bludot.com/pages/minneapolis-outlet.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blu-dot-outlet-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blu-dot-outlet-minneapolis.json",
+   "address": {
+    "streetAddress": "1331 Tyler ST NE",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0020857,
+    "lon": -93.2457672
+   },
+   "phone": "+16123547964",
+   "website": "https://www.bludot.com/pages/minneapolis-outlet",
+   "opening_hours": "Th-Sa 10:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13728646301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "by-the-yard-inc-maple-grove",
+   "name": "By the Yard, Inc.",
+   "summary": "By the Yard, Inc. is a furniture store in Maple Grove, MN at 8046 Wedgewood Lane North, Maple Grove, MN 55369. Phone: +17634961019. Website: https://bytheyard.net/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/by-the-yard-inc-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/by-the-yard-inc-maple-grove.json",
+   "address": {
+    "streetAddress": "8046 Wedgewood Lane North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1004343,
+    "lon": -93.4476449
+   },
+   "phone": "+17634961019",
+   "website": "https://bytheyard.net/",
+   "opening_hours": "Monday - Friday: 10:00 AM – 6:00 PM, Saturday: 9:00 AM – 4:00 PM, Sunday: Closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12778052199",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "elsas-house-of-sleep-saint-paul",
+   "name": "Elsa's House of Sleep",
+   "summary": "Elsa's House of Sleep is a furniture store in Saint Paul, MN at 1441 University Avenue, Saint Paul, MN 55104. Phone: +16516470225. Website: https://elsasfurniture.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elsas-house-of-sleep-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elsas-house-of-sleep-saint-paul.json",
+   "address": {
+    "streetAddress": "1441 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9558948,
+    "lon": -93.1611295
+   },
+   "phone": "+16516470225",
+   "website": "https://elsasfurniture.com/",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12535550500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "furniture-barn-saint-paul",
+   "name": "Furniture Barn",
+   "summary": "Furniture Barn is a furniture store in Saint Paul, MN at 1389 University Avenue, Saint Paul, MN 55104. Phone: +16516447122. Website: https://furniturebarnmn.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furniture-barn-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furniture-barn-saint-paul.json",
+   "address": {
+    "streetAddress": "1389 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9559834,
+    "lon": -93.1587078
+   },
+   "phone": "+16516447122",
+   "website": "https://furniturebarnmn.com/",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/688258295",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "habitation-saint-louis-park",
+   "name": "Habitation",
+   "summary": "Habitation is a furniture store in Saint Louis Park, MN at 4317 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16124254444. Website: https://dwell44.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/habitation-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/habitation-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4317 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9355783,
+    "lon": -93.3346246
+   },
+   "phone": "+16124254444",
+   "website": "https://dwell44.com/",
+   "opening_hours": "Mo,We-Sa 10:00-18:00; Tu 10:00-15:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875286",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "harrian-minneapolis",
+   "name": "Harrian",
+   "summary": "Harrian is a furniture store in Minneapolis, MN at 3537 West 44th Street, Minneapolis, MN 55410. Phone: +16129229224. Website: https://www.harriann.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harrian-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harrian-minneapolis.json",
+   "address": {
+    "streetAddress": "3537 West 44th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9229959,
+    "lon": -93.3248726
+   },
+   "phone": "+16129229224",
+   "website": "https://www.harriann.com/",
+   "opening_hours": "Th-Sa 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12133061037",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "highcroft-wayzata",
+   "name": "Highcroft",
+   "summary": "Highcroft is a furniture store in Wayzata, MN at 770 Lake Street East, Wayzata, MN 55391. Phone: +19527465826. Website: https://www.highcrofthome.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/highcroft-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/highcroft-wayzata.json",
+   "address": {
+    "streetAddress": "770 Lake Street East",
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "postalCode": "55391",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "zip": "55391",
+   "geo": {
+    "lat": 44.9684317,
+    "lon": -93.509335
+   },
+   "phone": "+19527465826",
+   "website": "https://www.highcrofthome.com/",
+   "opening_hours": "Mo-Fr 10:30-17:30; Sa 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4116879526",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "home-choice-store-roseville",
+   "name": "Home Choice Store",
+   "summary": "Home Choice Store is a furniture store in Roseville, MN at 1688 Lexington Avenue North, Roseville, MN 55113. Phone: +16516451044. Website: https://www.homechoicestores.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/home-choice-store-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/home-choice-store-roseville.json",
+   "address": {
+    "streetAddress": "1688 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9925289,
+    "lon": -93.1457052
+   },
+   "phone": "+16516451044",
+   "website": "https://www.homechoicestores.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147169431",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "home-of-comfort-furniture-minneapolis",
+   "name": "Home of Comfort Furniture",
+   "summary": "Home of Comfort Furniture is a furniture store in Minneapolis, MN at 2109 Nicollet Avenue, Minneapolis, MN 55404. Phone: +16123536423. Website: https://www.homeofcomfortfurniture.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/home-of-comfort-furniture-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/home-of-comfort-furniture-minneapolis.json",
+   "address": {
+    "streetAddress": "2109 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9617367,
+    "lon": -93.2776391
+   },
+   "phone": "+16123536423",
+   "website": "https://www.homeofcomfortfurniture.com/",
+   "opening_hours": "Mo-Th 11:00-19:30; Fr 13:00-20:00; Sa,Su 12:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617420632",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "international-design-center-edina",
+   "name": "International Design Center",
+   "summary": "International Design Center is a furniture store in Edina, MN at 7035 Washington Avenue South, Edina, MN 55439. Phone: +16123413441. Website: https://www.idcmn.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/international-design-center-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/international-design-center-edina.json",
+   "address": {
+    "streetAddress": "7035 Washington Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55439",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55439",
+   "geo": {
+    "lat": 44.8759866,
+    "lon": -93.3979416
+   },
+   "phone": "+16123413441",
+   "website": "https://www.idcmn.com/",
+   "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6924104038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "midmodmen-friends-saint-paul",
+   "name": "MidModMen+friends",
+   "summary": "MidModMen+friends is a furniture store in Saint Paul, MN at 2401 University Avenue West, Saint Paul, MN 55114. Phone: +16122341201. Website: https://midmodmen.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midmodmen-friends-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midmodmen-friends-saint-paul.json",
+   "address": {
+    "streetAddress": "2401 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9643672,
+    "lon": -93.198089
+   },
+   "phone": "+16122341201",
+   "website": "https://midmodmen.com/",
+   "opening_hours": "Fr,Sa 11:00-16:00; Su 11:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5915013937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "new-uses-maple-grove",
+   "name": "New Uses",
+   "summary": "New Uses is a furniture store in Maple Grove, MN at 13777 Grove Drive North, Maple Grove, MN 55311. Phone: +17632734917. Website: https://www.newuses.com/maple-grove-mn/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-uses-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-uses-maple-grove.json",
+   "address": {
+    "streetAddress": "13777 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1033067,
+    "lon": -93.4560632
+   },
+   "phone": "+17632734917",
+   "website": "https://www.newuses.com/maple-grove-mn/",
+   "opening_hours": "Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/610584992",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "slumberland-furnature-eagan",
+   "name": "Slumberland Furnature",
+   "summary": "Slumberland Furnature is a furniture store in Eagan, MN at 1257 Northwood Parkway, Eagan, MN 55121. Phone: +16514050700. Website: https://stores.slumberland.com/mn/eagan/1257-northwood-parkway-09.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-furnature-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slumberland-furnature-eagan.json",
+   "address": {
+    "streetAddress": "1257 Northwood Parkway",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8376689,
+    "lon": -93.1565622
+   },
+   "phone": "+16514050700",
+   "website": "https://stores.slumberland.com/mn/eagan/1257-northwood-parkway-09",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/350242402",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "slumberland-furniture-bloomington",
+   "name": "Slumberland Furniture",
+   "summary": "Slumberland Furniture is a furniture store in Bloomington, MN at 7961 Southtown Center, Bloomington, MN 55431. Phone: +19528886204. Website: https://stores.slumberland.com/mn/bloomington/7961-southtown-center-01.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-furniture-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slumberland-furniture-bloomington.json",
+   "address": {
+    "streetAddress": "7961 Southtown Center",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8594669,
+    "lon": -93.3044617
+   },
+   "phone": "+19528886204",
+   "website": "https://stores.slumberland.com/mn/bloomington/7961-southtown-center-01",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2090426825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "willys-wood-restoration-saint-paul",
+   "name": "Willy's Wood Restoration",
+   "summary": "Willy's Wood Restoration is a furniture store in Saint Paul, MN at 755 North Prior Avenue ##005, Saint Paul, MN 55104. Phone: +16514342381. Website: https://www.willyswoodrestoration.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/willys-wood-restoration-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/willys-wood-restoration-saint-paul.json",
+   "address": {
+    "streetAddress": "755 North Prior Avenue ##005",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.963909,
+    "lon": -93.1831059
+   },
+   "phone": "+16514342381",
+   "website": "https://www.willyswoodrestoration.com/",
+   "opening_hours": "Mo-Fr 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196019067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "woodys-furniture-saint-louis-park",
+   "name": "Woody's Furniture",
+   "summary": "Woody's Furniture is a furniture store in Saint Louis Park, MN at 5217 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529296300. Website: https://www.woodysfurniture.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodys-furniture-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodys-furniture-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5217 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9306102,
+    "lon": -93.346883
+   },
+   "phone": "+19529296300",
+   "website": "https://www.woodysfurniture.com/",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2246717604",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "bobs-discount-furniture-roseville",
+   "name": "Bob's Discount Furniture",
+   "summary": "Bob's Discount Furniture is a furniture store in Roseville, MN at 2401 Fairview Avenue North #200, Roseville, MN. Phone: +16124646700. Website: https://www.mybobs.com/store/minnesota/roseville-mn.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-roseville.json",
+   "address": {
+    "streetAddress": "2401 Fairview Avenue North #200",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0130398,
+    "lon": -93.1800164
+   },
+   "phone": "+16124646700",
+   "website": "https://www.mybobs.com/store/minnesota/roseville-mn",
+   "opening_hours": "Su 11:00-19:00; Mo-Sa 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12994941459",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "strippers-saint-paul",
+   "name": "Strippers",
+   "summary": "Strippers is a furniture store in Saint Paul, MN at 1698 Selby Avenue, Saint Paul, MN. Phone: +16516451394. Website: https://strippersonselby.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strippers-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strippers-saint-paul.json",
+   "address": {
+    "streetAddress": "1698 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9464046,
+    "lon": -93.1719013
+   },
+   "phone": "+16516451394",
+   "website": "https://strippersonselby.com/",
+   "opening_hours": "Mo-Fr 09:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8097533023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "all-furniture-minneapolis",
+   "name": "All Furniture",
+   "summary": "All Furniture is a furniture store in Minneapolis, MN at 65 Saint Anthony Parkway, Minneapolis, MN 55418. Phone: +16122383200. Website: https://www.allfurnitureinc.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-furniture-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-furniture-minneapolis.json",
+   "address": {
+    "streetAddress": "65 Saint Anthony Parkway",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0284298,
+    "lon": -93.2734421
+   },
+   "phone": "+16122383200",
+   "website": "https://www.allfurnitureinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/81049508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "all-wood-furniture-saint-paul",
+   "name": "All Wood Furniture",
+   "summary": "All Wood Furniture is a furniture store in Saint Paul, MN at 891 Vandalia Street, Saint Paul, MN 55114. Phone: +16519179390. Website: https://allwoodfurn.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-wood-furniture-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-wood-furniture-saint-paul.json",
+   "address": {
+    "streetAddress": "891 Vandalia Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9678757,
+    "lon": -93.1896375
+   },
+   "phone": "+16519179390",
+   "website": "https://allwoodfurn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267097855",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "anthonys-furniture-restoration-minneapolis",
+   "name": "Anthony's Furniture Restoration",
+   "summary": "Anthony's Furniture Restoration is a furniture store in Minneapolis, MN at 4553 Bryant Avenue South, Minneapolis, MN 55419. Phone: +16128241717. Website: https://anthonystc.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anthonys-furniture-restoration-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anthonys-furniture-restoration-minneapolis.json",
+   "address": {
+    "streetAddress": "4553 Bryant Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9197746,
+    "lon": -93.2907298
+   },
+   "phone": "+16128241717",
+   "website": "https://anthonystc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2347587391",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "ashley-homestore-albertville",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Albertville, MN at 6497 Labeaux Avenue Northeast, Albertville, MN 55301. Phone: +17634970016. Website: https://stores.ashleyfurniture.com/store/us/minnesota/albertville/7710000210/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-albertville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-albertville.json",
+   "address": {
+    "streetAddress": "6497 Labeaux Avenue Northeast",
+    "addressLocality": "Albertville",
+    "addressRegion": "MN",
+    "postalCode": "55301",
+    "addressCountry": "US"
+   },
+   "city": "Albertville",
+   "state": "MN",
+   "zip": "55301",
+   "geo": {
+    "lat": 45.2437998,
+    "lon": -93.6660445
+   },
+   "phone": "+17634970016",
+   "website": "https://stores.ashleyfurniture.com/store/us/minnesota/albertville/7710000210/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/192324380",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "ashley-homestore-maplewood",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Maplewood, MN at 1770 County Road D East, Maplewood, MN 55109. Phone: +16513250200. Website: https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-maplewood.json",
+   "address": {
+    "streetAddress": "1770 County Road D East",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0352999,
+    "lon": -93.0262558
+   },
+   "phone": "+16513250200",
+   "website": "https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125710446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "brooks-office-interiors-inc-saint-paul",
+   "name": "Brooks Office Interiors Inc.",
+   "summary": "Brooks Office Interiors Inc. is a furniture store in Saint Paul, MN at 2299 West Territorial Road, Saint Paul, MN 55114. Phone: +16123316300. Website: https://www.brooksofficeinteriors.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brooks-office-interiors-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brooks-office-interiors-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "2299 West Territorial Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9653451,
+    "lon": -93.1944905
+   },
+   "phone": "+16123316300",
+   "website": "https://www.brooksofficeinteriors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6264993931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "find-furnish-minneapolis",
+   "name": "Find Furnish",
+   "summary": "Find Furnish is a furniture store in Minneapolis, MN at 2014 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16128688878. Website: https://www.findfurnish.com/pages/contact.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/find-furnish-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/find-furnish-minneapolis.json",
+   "address": {
+    "streetAddress": "2014 Northeast Central Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0093981,
+    "lon": -93.2477336
+   },
+   "phone": "+16128688878",
+   "website": "https://www.findfurnish.com/pages/contact",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13628529561",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "home-choice-saint-louis-park",
+   "name": "Home Choice",
+   "summary": "Home Choice is a furniture store in Saint Louis Park, MN at 8225 State Highway 7 Service Road, Saint Louis Park, MN 55426. Phone: +19529359785. Website: https://www.homechoicestores.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/home-choice-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/home-choice-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8225 State Highway 7 Service Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9353436,
+    "lon": -93.3840374
+   },
+   "phone": "+19529359785",
+   "website": "https://www.homechoicestores.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604315566",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "home-choice-shakopee",
+   "name": "Home Choice",
+   "summary": "Home Choice is a furniture store in Shakopee, MN at 1136 Vierling Drive East, Shakopee, MN 55379. Phone: +19523560936. Website: https://www.homechoicestores.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/home-choice-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/home-choice-shakopee.json",
+   "address": {
+    "streetAddress": "1136 Vierling Drive East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.780926,
+    "lon": -93.5084634
+   },
+   "phone": "+19523560936",
+   "website": "https://www.homechoicestores.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8936006733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "j-michaels-co-inc-furniture-repair-minneapolis",
+   "name": "J Michaels Co. Inc. Furniture Repair",
+   "summary": "J Michaels Co. Inc. Furniture Repair is a furniture store in Minneapolis, MN at 2608 1st Avenue South, Minneapolis, MN 55408. Phone: +16128717939. Website: https://www.jmichaelscoinc.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-michaels-co-inc-furniture-repair-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-michaels-co-inc-furniture-repair-minneapolis.json",
+   "address": {
+    "streetAddress": "2608 1st Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9551601,
+    "lon": -93.2767454
+   },
+   "phone": "+16128717939",
+   "website": "https://www.jmichaelscoinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4630861994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "kodiak-furniture-saint-paul",
+   "name": "Kodiak Furniture",
+   "summary": "Kodiak Furniture is a furniture store in Saint Paul, MN at 933 Vandalia Street, Saint Paul, MN 55114. Phone: +18776599261. Website: https://www.kodiakfurniture.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kodiak-furniture-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kodiak-furniture-saint-paul.json",
+   "address": {
+    "streetAddress": "933 Vandalia Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.968695,
+    "lon": -93.1897283
+   },
+   "phone": "+18776599261",
+   "website": "https://www.kodiakfurniture.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267117649",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "lovesac-saint-paul",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Saint Paul, MN. Phone: +15672291569. Website: https://lovesac.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9398394,
+    "lon": -93.1359779
+   },
+   "phone": "+15672291569",
+   "website": "https://lovesac.com/",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13890091308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "macys-furniture-gallery-edina",
+   "name": "Macy's Furniture Gallery",
+   "summary": "Macy's Furniture Gallery is a furniture store in Edina, MN at 7235 France Avenue South, Edina, MN 55435. Phone: +19528962160. Website: https://www.macys.com/stores/mn/edina/southdale-furniture-and-mattress-gallery_234.html.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/macys-furniture-gallery-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/macys-furniture-gallery-edina.json",
+   "address": {
+    "streetAddress": "7235 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8714778,
+    "lon": -93.3272592
+   },
+   "phone": "+19528962160",
+   "website": "https://www.macys.com/stores/mn/edina/southdale-furniture-and-mattress-gallery_234.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47586776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "mamas-happy-saint-louis-park",
+   "name": "Mama's Happy",
+   "summary": "Mama's Happy is a furniture store in Saint Louis Park, MN at 5630 36th Street West, Saint Louis Park, MN 55416. Phone: +17637773899. Website: https://www.mamashappy.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mamas-happy-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mamas-happy-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5630 36th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9385734,
+    "lon": -93.3509891
+   },
+   "phone": "+17637773899",
+   "website": "https://www.mamashappy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9590892959",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "martha-ohara-interiors-saint-louis-park",
+   "name": "Martha O'Hara Interiors",
+   "summary": "Martha O'Hara Interiors is a furniture store in Saint Louis Park, MN at 9950 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +19529083150. Website: https://oharainteriors.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/martha-ohara-interiors-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/martha-ohara-interiors-saint-louis-park.json",
+   "address": {
+    "streetAddress": "9950 Wayzata Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9743802,
+    "lon": -93.4068296
+   },
+   "phone": "+19529083150",
+   "website": "https://oharainteriors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/556379577",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "prevolv-inc-saint-paul",
+   "name": "Prevolv, Inc.",
+   "summary": "Prevolv, Inc. is a furniture store in Saint Paul, MN at 2635 University Avenue West ##120, Saint Paul, MN 55114. Phone: +16516452055. Website: https://www.prevolv.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prevolv-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prevolv-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "2635 University Avenue West ##120",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9683388,
+    "lon": -93.2057113
+   },
+   "phone": "+16516452055",
+   "website": "https://www.prevolv.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6277568961",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "quality-furniture-rental-little-canada",
+   "name": "Quality Furniture Rental",
+   "summary": "Quality Furniture Rental is a furniture store in Little Canada, MN at 2900 Rice Street #430, Little Canada, MN 55113. Phone: +16514872191. Website: https://qualityfurniturerental.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quality-furniture-rental-little-canada/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quality-furniture-rental-little-canada.json",
+   "address": {
+    "streetAddress": "2900 Rice Street #430",
+    "addressLocality": "Little Canada",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Little Canada",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 45.0283508,
+    "lon": -93.1025963
+   },
+   "phone": "+16514872191",
+   "website": "https://qualityfurniturerental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5881252149",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "traditions-saint-louis-park",
+   "name": "Traditions",
+   "summary": "Traditions is a furniture store in Saint Louis Park, MN at 4245 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19522852777. Website: https://traditions.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/traditions-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/traditions-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4245 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9362796,
+    "lon": -93.3338615
+   },
+   "phone": "+19522852777",
+   "website": "https://traditions.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875296",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "welcome-amish-furniture-albertville",
+   "name": "Welcome Amish Furniture",
+   "summary": "Welcome Amish Furniture is a furniture store in Albertville, MN at 10575 Keystone Avenue Northeast, Albertville, MN 55301. Phone: +17634977800. Website: https://www.welcomefurniture.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/welcome-amish-furniture-albertville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/welcome-amish-furniture-albertville.json",
+   "address": {
+    "streetAddress": "10575 Keystone Avenue Northeast",
+    "addressLocality": "Albertville",
+    "addressRegion": "MN",
+    "postalCode": "55301",
+    "addressCountry": "US"
+   },
+   "city": "Albertville",
+   "state": "MN",
+   "zip": "55301",
+   "geo": {
+    "lat": 45.2459616,
+    "lon": -93.6746377
+   },
+   "phone": "+17634977800",
+   "website": "https://www.welcomefurniture.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/192324381",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "woodsport-saint-paul",
+   "name": "Woodsport",
+   "summary": "Woodsport is a furniture store in Saint Paul, MN at 755 North Prior Avenue ##201, Saint Paul, MN 55104. Phone: +16128029006. Website: https://www.woodsport.net/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodsport-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodsport-saint-paul.json",
+   "address": {
+    "streetAddress": "755 North Prior Avenue ##201",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9659668,
+    "lon": -93.1828473
+   },
+   "phone": "+16128029006",
+   "website": "https://www.woodsport.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7195928871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "yardbird-saint-louis-park",
+   "name": "Yardbird",
+   "summary": "Yardbird is a furniture store in Saint Louis Park, MN at 8215 State Highway 7 Service Road, Saint Louis Park, MN 55426. Phone: +19523034755. Website: https://yardbird.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yardbird-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yardbird-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8215 State Highway 7 Service Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9354127,
+    "lon": -93.3833972
+   },
+   "phone": "+19523034755",
+   "website": "https://yardbird.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/699413486",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "charles-cabinet-co-roseville",
+   "name": "Charles Cabinet Co",
+   "summary": "Charles Cabinet Co is a furniture store in Roseville, MN at 3090 Cleveland Avenue North, Roseville, MN. Phone: +16516331488. Website: https://www.charlescabinetco.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-cabinet-co-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-cabinet-co-roseville.json",
+   "address": {
+    "streetAddress": "3090 Cleveland Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0344867,
+    "lon": -93.1871447
+   },
+   "phone": "+16516331488",
+   "website": "https://www.charlescabinetco.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10615641469",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "home-choice-hilltop",
+   "name": "Home Choice",
+   "summary": "Home Choice is a furniture store in Hilltop, MN at 915 45th Avenue Northeast, Hilltop, MN. Phone: +17635715889. Website: https://www.homechoicestores.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/home-choice-hilltop/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/home-choice-hilltop.json",
+   "address": {
+    "streetAddress": "915 45th Avenue Northeast",
+    "addressLocality": "Hilltop",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hilltop",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0505441,
+    "lon": -93.2480842
+   },
+   "phone": "+17635715889",
+   "website": "https://www.homechoicestores.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12989826460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "ikea-bloomington",
+   "name": "IKEA",
+   "summary": "IKEA is a furniture store in Bloomington, MN at 800 IKEA Way, Bloomington, MN 55425. Website: https://www.ikea.com/us/en/stores/minneapolis/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ikea-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ikea-bloomington.json",
+   "address": {
+    "streetAddress": "800 IKEA Way",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55425",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55425",
+   "geo": {
+    "lat": 44.8588059,
+    "lon": -93.2449123
+   },
+   "website": "https://www.ikea.com/us/en/stores/minneapolis/",
+   "opening_hours": "Mo-Sa 09:30-21:00; Su 09:30-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/98613388",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "west-elm-minneapolis",
+   "name": "west elm",
+   "summary": "west elm is a furniture store in Minneapolis, MN at 128 North 2nd Street, Minneapolis, MN 55401. Phone: +16124459378.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-elm-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-elm-minneapolis.json",
+   "address": {
+    "streetAddress": "128 North 2nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9840505,
+    "lon": -93.2690683
+   },
+   "phone": "+16124459378",
+   "opening_hours": "Mo-Sa 10:00-19:00 Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11298730913",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "lovesac-bloomington",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Bloomington, MN at 327 West Market, Bloomington, MN. Phone: +19528545105.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-bloomington.json",
+   "address": {
+    "streetAddress": "327 West Market",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8544849,
+    "lon": -93.2438036
+   },
+   "phone": "+19528545105",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829640",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "abitare-design-studio-minneapolis",
+   "name": "Abitare Design Studio",
+   "summary": "Abitare Design Studio is a furniture store in Minneapolis, MN at 827 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16123741090.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abitare-design-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abitare-design-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "827 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9796129,
+    "lon": -93.2910904
+   },
+   "phone": "+16123741090",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9128515924",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "becker-furniture-world-roseville",
+   "name": "Becker Furniture World",
+   "summary": "Becker Furniture World is a furniture store in Roseville, MN. Website: https://www.beckerfurnitureworld.com/stores/roseville-minnesota/51670/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/becker-furniture-world-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/becker-furniture-world-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0133945,
+    "lon": -93.1724069
+   },
+   "website": "https://www.beckerfurnitureworld.com/stores/roseville-minnesota/51670/",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6982974944",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "covet-consign-and-design-minneapolis",
+   "name": "Covet Consign & Design",
+   "summary": "Covet Consign & Design is a furniture store in Minneapolis, MN at 3730 Chicago Avenue South #Studio C, Minneapolis, MN 55407. Website: https://covetconsignanddesign.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/covet-consign-and-design-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/covet-consign-and-design-minneapolis.json",
+   "address": {
+    "streetAddress": "3730 Chicago Avenue South #Studio C",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9347391,
+    "lon": -93.2627788
+   },
+   "website": "https://covetconsignanddesign.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3233745649",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "dales-furniture-refinishing-saint-paul",
+   "name": "Dale's Furniture Refinishing",
+   "summary": "Dale's Furniture Refinishing is a furniture store in Saint Paul, MN at 622 Como Avenue, Saint Paul, MN 55103. Website: https://dalesfurniturerefinishing.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dales-furniture-refinishing-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dales-furniture-refinishing-saint-paul.json",
+   "address": {
+    "streetAddress": "622 Como Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55103",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55103",
+   "geo": {
+    "lat": 44.9702904,
+    "lon": -93.1268631
+   },
+   "website": "https://dalesfurniturerefinishing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6580169206",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "eclectic-887-west-saint-paul",
+   "name": "Eclectic 887",
+   "summary": "Eclectic 887 is a furniture store in West Saint Paul, MN at 897 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16513495011.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eclectic-887-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eclectic-887-west-saint-paul.json",
+   "address": {
+    "streetAddress": "897 Smith Avenue South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9193225,
+    "lon": -93.1020794
+   },
+   "phone": "+16513495011",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/801781735",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "hom-furniture-rogers",
+   "name": "HOM Furniture",
+   "summary": "HOM Furniture is a furniture store in Rogers, MN at 13800 Rogers Drive, Rogers, MN 55374. Phone: +17634286333.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hom-furniture-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hom-furniture-rogers.json",
+   "address": {
+    "streetAddress": "13800 Rogers Drive",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.2049874,
+    "lon": -93.5485039
+   },
+   "phone": "+17634286333",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/556516035",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "lovesac-edina",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Edina, MN. Website: https://www.lovesac.com/showroomlocator/50th-and-france.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9124281,
+    "lon": -93.3301512
+   },
+   "website": "https://www.lovesac.com/showroomlocator/50th-and-france",
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116025",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "macys-furniture-gallery-saint-paul",
+   "name": "Macy's Furniture Gallery",
+   "summary": "Macy's Furniture Gallery is a furniture store in Saint Paul, MN at 1375 Commerce Street West, Saint Paul, MN 55113. Website: https://www.macys.com/stores/mn/roseville/rose-mall_246.html.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/macys-furniture-gallery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/macys-furniture-gallery-saint-paul.json",
+   "address": {
+    "streetAddress": "1375 Commerce Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 45.0094959,
+    "lon": -93.1584451
+   },
+   "website": "https://www.macys.com/stores/mn/roseville/rose-mall_246.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/154824673",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "scandia-furniture-minneapolis",
+   "name": "Scandia Furniture",
+   "summary": "Scandia Furniture is a furniture store in Minneapolis, MN at 1203 Washington Avenue South, Minneapolis, MN 55415. Website: https://www.scandiavalue.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scandia-furniture-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scandia-furniture-minneapolis.json",
+   "address": {
+    "streetAddress": "1203 Washington Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55415",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55415",
+   "geo": {
+    "lat": 44.9745732,
+    "lon": -93.25169
+   },
+   "website": "https://www.scandiavalue.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3429589747",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "furniture-and-things-coon-rapids",
+   "name": "Furniture & Things",
+   "summary": "Furniture & Things is a furniture store in Coon Rapids, MN at 2163 Coon Rapids Boulevard Northwest, Coon Rapids, MN. Phone: +17637554149.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furniture-and-things-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furniture-and-things-coon-rapids.json",
+   "address": {
+    "streetAddress": "2163 Coon Rapids Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1638087,
+    "lon": -93.3227107
+   },
+   "phone": "+17637554149",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/745483529",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "ethan-allen-edina",
+   "name": "Ethan Allen",
+   "summary": "Ethan Allen is a furniture store in Edina, MN at 7101 France Avenue South #Suite 116, Edina, MN 55435.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ethan-allen-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ethan-allen-edina.json",
+   "address": {
+    "streetAddress": "7101 France Avenue South #Suite 116",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8743504,
+    "lon": -93.3271537
+   },
+   "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810902034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "chicago-furniture-bloomington",
+   "name": "Chicago Furniture",
+   "summary": "Chicago Furniture is a furniture store in Bloomington, MN at 258 South Avenue, Bloomington, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-furniture-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-furniture-bloomington.json",
+   "address": {
+    "streetAddress": "258 South Avenue",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8536407,
+    "lon": -93.243488
+   },
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13724119935",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "ashley-homestore-fridley",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Fridley, MN at 5353 East River Rd Service Road, Fridley, MN 55421.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-fridley.json",
+   "address": {
+    "streetAddress": "5353 East River Rd Service Road",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0671988,
+    "lon": -93.2761202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52490801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "dock86-rogers",
+   "name": "DOCK86",
+   "summary": "DOCK86 is a furniture store in Rogers, MN at 13800 Rogers Drive #Suite D, Rogers, MN 55374.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dock86-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dock86-rogers.json",
+   "address": {
+    "streetAddress": "13800 Rogers Drive #Suite D",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.2058916,
+    "lon": -93.5485518
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/765797351",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "furnish-minneapolis",
+   "name": "Furnish",
+   "summary": "Furnish is a furniture store in Minneapolis, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furnish-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furnish-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0033549,
+    "lon": -93.2495449
+   },
+   "opening_hours": "Tu-Fr 09:00-18:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3159277537",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "furnishare-chanhassen",
+   "name": "Furnishare",
+   "summary": "Furnishare is a furniture store in Chanhassen, MN at 7890 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furnishare-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furnishare-chanhassen.json",
+   "address": {
+    "streetAddress": "7890 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8603419,
+    "lon": -93.5400117
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789886",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "furniture-mart-fridley",
+   "name": "Furniture Mart",
+   "summary": "Furniture Mart is a furniture store in Fridley, MN at 5401 East River Rd Service Road, Fridley, MN 55421.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furniture-mart-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furniture-mart-fridley.json",
+   "address": {
+    "streetAddress": "5401 East River Rd Service Road",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0679222,
+    "lon": -93.2737764
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52490787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "general-office-products-company-saint-louis-park",
+   "name": "General Office Products Company",
+   "summary": "General Office Products Company is a furniture store in Saint Louis Park, MN at 4521 Highway 7, Saint Louis Park, MN 55416.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/general-office-products-company-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/general-office-products-company-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4521 Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9454202,
+    "lon": -93.3370846
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47199097",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "golden-age-design-robbinsdale",
+   "name": "Golden Age Design",
+   "summary": "Golden Age Design is a furniture store in Robbinsdale, MN at 4157 West Broadway Avenue, Robbinsdale, MN 55422.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-age-design-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-age-design-robbinsdale.json",
+   "address": {
+    "streetAddress": "4157 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0306856,
+    "lon": -93.3390419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762930147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "hom-furniture-brooklyn-center",
+   "name": "HOM Furniture",
+   "summary": "HOM Furniture is a furniture store in Brooklyn Center, MN at 2501 County Road 10, Brooklyn Center, MN 55430.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hom-furniture-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hom-furniture-brooklyn-center.json",
+   "address": {
+    "streetAddress": "2501 County Road 10",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0583606,
+    "lon": -93.3113795
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/126102163",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "la-z-boy-edina",
+   "name": "La-Z-Boy",
+   "summary": "La-Z-Boy is a furniture store in Edina, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-z-boy-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-z-boy-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8661146,
+    "lon": -93.3279202
+   },
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449400286",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "west-elm-edina",
+   "name": "west elm",
+   "summary": "west elm is a furniture store in Edina, MN at West 27th Street, Edina, MN 55435.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-elm-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-elm-edina.json",
+   "address": {
+    "streetAddress": "West 27th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8698552,
+    "lon": -93.3282323
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11048326846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "schneidermans-furniture-roseville",
+   "name": "Schneiderman's Furniture",
+   "summary": "Schneiderman's Furniture is a furniture store in Roseville, MN at 2480 Fairview Avenue North, Roseville, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schneidermans-furniture-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schneidermans-furniture-roseville.json",
+   "address": {
+    "streetAddress": "2480 Fairview Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0162211,
+    "lon": -93.1736973
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6550533154",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "the-mustache-cat-saint-paul",
+   "name": "The Mustache Cat",
+   "summary": "The Mustache Cat is a furniture store in Saint Paul, MN at 500 Lexington Parkway South, Saint Paul, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-mustache-cat-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-mustache-cat-saint-paul.json",
+   "address": {
+    "streetAddress": "500 Lexington Parkway South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9263054,
+    "lon": -93.1464117
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1632176740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "at-home-decor-blaine",
+   "name": "At Home Decor",
+   "summary": "At Home Decor is a furniture store in Blaine, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/at-home-decor-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/at-home-decor-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1663347,
+    "lon": -93.158906
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/756820991",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "bargain-mart-furniture-crystal",
+   "name": "Bargain Mart Furniture",
+   "summary": "Bargain Mart Furniture is a furniture store in Crystal, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bargain-mart-furniture-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bargain-mart-furniture-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0538735,
+    "lon": -93.3688641
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129455332",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "becker-furniture-maplewood",
+   "name": "Becker Furniture",
+   "summary": "Becker Furniture is a furniture store in Maplewood, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/becker-furniture-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/becker-furniture-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0352841,
+    "lon": -93.0228462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125836316",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "bergers-furniture-refinishing-saint-paul",
+   "name": "Berger's Furniture Refinishing",
+   "summary": "Berger's Furniture Refinishing is a furniture store in Saint Paul, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bergers-furniture-refinishing-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bergers-furniture-refinishing-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9722749,
+    "lon": -93.0661861
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096351",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "bobs-discount-furniture-maple-grove",
+   "name": "Bob's Discount Furniture",
+   "summary": "Bob's Discount Furniture is a furniture store in Maple Grove, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobs-discount-furniture-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.096918,
+    "lon": -93.4427871
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11498537268",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "chase-cole-galleries-coon-rapids",
+   "name": "Chase Cole Galleries",
+   "summary": "Chase Cole Galleries is a furniture store in Coon Rapids, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chase-cole-galleries-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chase-cole-galleries-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1726143,
+    "lon": -93.3447918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/696025366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "dillon-noyes-saint-paul",
+   "name": "Dillon-Noyes",
+   "summary": "Dillon-Noyes is a furniture store in Saint Paul, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dillon-noyes-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dillon-noyes-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9349672,
+    "lon": -93.1158216
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3086952974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "dmp-furniture-maple-grove",
+   "name": "DMP Furniture",
+   "summary": "DMP Furniture is a furniture store in Maple Grove, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dmp-furniture-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dmp-furniture-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0930139,
+    "lon": -93.4435215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/962415837",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "dock-86-little-canada",
+   "name": "Dock 86",
+   "summary": "Dock 86 is a furniture store in Little Canada, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dock-86-little-canada/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dock-86-little-canada.json",
+   "address": {
+    "addressLocality": "Little Canada",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Little Canada",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0378475,
+    "lon": -93.0951992
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449528469",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "ethan-allen-maple-grove",
+   "name": "Ethan Allen",
+   "summary": "Ethan Allen is a furniture store in Maple Grove, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ethan-allen-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ethan-allen-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.091489,
+    "lon": -93.4285268
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/288348544",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "g-and-l-furniture-minneapolis",
+   "name": "G&L Furniture",
+   "summary": "G&L Furniture is a furniture store in Minneapolis, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-and-l-furniture-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-and-l-furniture-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485155,
+    "lon": -93.2583227
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12288626173",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "gabberts-little-canada",
+   "name": "Gabberts",
+   "summary": "Gabberts is a furniture store in Little Canada, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gabberts-little-canada/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gabberts-little-canada.json",
+   "address": {
+    "addressLocality": "Little Canada",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Little Canada",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0387706,
+    "lon": -93.0955747
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449528570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "gec-cabinet-depot-minneapolis",
+   "name": "GEC Cabinet Depot",
+   "summary": "GEC Cabinet Depot is a furniture store in Minneapolis, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gec-cabinet-depot-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gec-cabinet-depot-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9949959,
+    "lon": -93.2811316
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13021868111",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "hom-furniture-little-canada",
+   "name": "Hom Furniture",
+   "summary": "Hom Furniture is a furniture store in Little Canada, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hom-furniture-little-canada/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hom-furniture-little-canada.json",
+   "address": {
+    "addressLocality": "Little Canada",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Little Canada",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0383328,
+    "lon": -93.0951831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449528569",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "hom-furniture-plymouth",
+   "name": "Hom Furniture",
+   "summary": "Hom Furniture is a furniture store in Plymouth, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hom-furniture-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hom-furniture-plymouth.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.031067,
+    "lon": -93.454458
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2080622988",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "home-choice-crystal",
+   "name": "Home Choice",
+   "summary": "Home Choice is a furniture store in Crystal, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/home-choice-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/home-choice-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0533066,
+    "lon": -93.3629969
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131839064",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "la-z-boy-maple-grove",
+   "name": "La-Z-Boy",
+   "summary": "La-Z-Boy is a furniture store in Maple Grove, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-z-boy-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-z-boy-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0923392,
+    "lon": -93.4275807
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/761529233",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "rh-outlet-roseville",
+   "name": "RH Outlet",
+   "summary": "RH Outlet is a furniture store in Roseville, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rh-outlet-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rh-outlet-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0159368,
+    "lon": -93.1827519
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2402011461",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "scandinavian-designs-roseville",
+   "name": "Scandinavian Designs",
+   "summary": "Scandinavian Designs is a furniture store in Roseville, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scandinavian-designs-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scandinavian-designs-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0273781,
+    "lon": -93.1679601
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13050768289",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "schneidermans-furniture-bloomington",
+   "name": "Schneiderman's Furniture",
+   "summary": "Schneiderman's Furniture is a furniture store in Bloomington, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schneidermans-furniture-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schneidermans-furniture-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.860447,
+    "lon": -93.3146052
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12633523052",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "slumberland-little-canada",
+   "name": "Slumberland",
+   "summary": "Slumberland is a furniture store in Little Canada, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-little-canada/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slumberland-little-canada.json",
+   "address": {
+    "addressLocality": "Little Canada",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Little Canada",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0310369,
+    "lon": -93.0959371
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11461725869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
+   "sponsored": false,
+   "slug": "slumberland-maplewood",
+   "name": "Slumberland",
+   "summary": "Slumberland is a furniture store in Maplewood, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slumberland-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0363421,
+    "lon": -93.027441
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125708465",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "slumberland-furniture-maple-grove",
+   "name": "Slumberland Furniture",
+   "summary": "Slumberland Furniture is a furniture store in Maple Grove, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-furniture-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slumberland-furniture-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1365115,
+    "lon": -93.479214
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/756962540",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "slumberland-furniture-clearance-center-saint-paul",
+   "name": "Slumberland Furniture Clearance Center",
+   "summary": "Slumberland Furniture Clearance Center is a furniture store in Saint Paul, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-furniture-clearance-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slumberland-furniture-clearance-center-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9502604,
+    "lon": -93.018782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/746275457",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
+   "sponsored": false,
+   "slug": "the-furniture-mart-maple-grove",
+   "name": "The Furniture Mart",
+   "summary": "The Furniture Mart is a furniture store in Maple Grove, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-furniture-mart-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-furniture-mart-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1245497,
+    "lon": -93.490703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7098674211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "the-original-mattress-factory-maplewood",
+   "name": "The Original Mattress Factory",
+   "summary": "The Original Mattress Factory is a furniture store in Maplewood, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-original-mattress-factory-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-original-mattress-factory-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0125389,
+    "lon": -93.0476182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11472431970",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "turn-style-eden-prairie",
+   "name": "Turn Style",
+   "summary": "Turn Style is a furniture store in Eden Prairie, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/turn-style-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/turn-style-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8649833,
+    "lon": -93.4410745
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10815385713",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "vergine-sales-rockford",
+   "name": "Vergine Sales",
+   "summary": "Vergine Sales is a furniture store in Rockford, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vergine-sales-rockford/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vergine-sales-rockford.json",
+   "address": {
+    "addressLocality": "Rockford",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rockford",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0868974,
+    "lon": -93.7366523
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1234677074",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

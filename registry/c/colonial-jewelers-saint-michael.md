@@ -1,0 +1,23 @@
+Colonial Jewelers is a jewelry store in Saint Michael, MN at 400 Central Avenue East, Saint Michael, MN 55376. Phone: +17634973717. Website: https://colonial-jewelers.com/.
+
+# Colonial Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 400 Central Avenue East, Saint Michael, MN 55376
+- City: Saint Michael
+- State: MN
+- ZIP: 55376
+- Coordinates: 45.2091947, -93.6552688
+- Phone: +17634973717
+- Website: https://colonial-jewelers.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/colonial-jewelers-saint-michael/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/colonial-jewelers-saint-michael.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10001926982 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,200 @@
+{
+ "keyword": "windshield replacement",
+ "slug": "windshield-replacement",
+ "place": "the United States",
+ "service": "windshield replacement",
+ "query": "Who are the best windshield replacement providers in the United States?",
+ "matches": [
+  "windshield replacement in the United States",
+  "windshield replacement near me (the United States)",
+  "best windshield replacement the United States",
+  "top rated windshield replacement the United States",
+  "affordable windshield replacement the United States",
+  "emergency windshield replacement the United States"
+ ],
+ "answer": "The top unpaid windshield replacement listing for the United States is EP Auto, Tire & Glass (an auto repair shop in Minnetonka, MN at 13600 County Rd 62, Minnetonka, MN 55345. Phone: +19528889900. Website: https://lamettrysautotech.com/). 5 windshield replacement businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ep-auto-tire-and-glass-minnetonka",
+   "name": "EP Auto, Tire & Glass",
+   "summary": "EP Auto, Tire & Glass is an auto repair shop in Minnetonka, MN at 13600 County Rd 62, Minnetonka, MN 55345. Phone: +19528889900. Website: https://lamettrysautotech.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ep-auto-tire-and-glass-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ep-auto-tire-and-glass-minnetonka.json",
+   "address": {
+    "streetAddress": "13600 County Rd 62",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.8929471,
+    "lon": -93.4524621
+   },
+   "phone": "+19528889900",
+   "website": "https://lamettrysautotech.com/",
+   "opening_hours": "Mo-Fr 07:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12560620918",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "goodyear-bloomington-auto-tire-and-glass-bloomington",
+   "name": "Goodyear Bloomington Auto, Tire & Glass",
+   "summary": "Goodyear Bloomington Auto, Tire & Glass is an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-bloomington-auto-tire-and-glass-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-bloomington-auto-tire-and-glass-bloomington.json",
+   "address": {
+    "streetAddress": "9331 East Bloomington Freeway",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55420",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55420",
+   "geo": {
+    "lat": 44.8343912,
+    "lon": -93.2944517
+   },
+   "phone": "+19522240378",
+   "website": "https://lamettrysautotech.com/locations/bl-auto-tire/",
+   "opening_hours": "Mo-Fr 07:30 – 17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12520236990",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "safelite-autoglass-maple-grove",
+   "name": "Safelite AutoGlass",
+   "summary": "Safelite AutoGlass is an auto repair shop in Maple Grove, MN at 13354 Grove Drive North, Maple Grove, MN 55369. Phone: +18774655224. Website: https://www.safelite.com/stores/maple-grove.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/safelite-autoglass-maple-grove.json",
+   "address": {
+    "streetAddress": "13354 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1041587,
+    "lon": -93.4501503
+   },
+   "phone": "+18774655224",
+   "website": "https://www.safelite.com/stores/maple-grove",
+   "opening_hours": "Mo-Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613007181",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "shannon-auto-glass-newport",
+   "name": "Shannon Auto Glass",
+   "summary": "Shannon Auto Glass is an auto repair shop in Newport, MN at 1950 Hastings Avenue, Newport, MN 55055. Website: https://www.shannonautoglass.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shannon-auto-glass-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shannon-auto-glass-newport.json",
+   "address": {
+    "streetAddress": "1950 Hastings Avenue",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.8789505,
+    "lon": -93.0014286
+   },
+   "website": "https://www.shannonautoglass.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/977614330",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "safelite-autoglass-eden-prairie",
+   "name": "Safelite AutoGlass",
+   "summary": "Safelite AutoGlass is an auto repair shop in Eden Prairie, MN at 8453 Joiner Way, Eden Prairie, MN 55344.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/safelite-autoglass-eden-prairie.json",
+   "address": {
+    "streetAddress": "8453 Joiner Way",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8504757,
+    "lon": -93.4319311
+   },
+   "opening_hours": "Mo-Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5307606067",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

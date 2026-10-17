@@ -1,0 +1,127 @@
+{
+ "keyword": "dentist roseville mn",
+ "slug": "dentist-roseville-mn",
+ "place": "Roseville, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Roseville, MN?",
+ "matches": [
+  "dentist in Roseville, MN",
+  "dentist near me (Roseville, MN)",
+  "best dentist Roseville, MN",
+  "top rated dentist Roseville, MN",
+  "affordable dentist Roseville, MN",
+  "emergency dentist Roseville, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Roseville, MN is Como Park Dentistry (a dentist in Roseville, MN at 1132 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514890641. Website: https://www.comoparkdentistry.com/). 3 dentist businesses are listed for Roseville, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "como-park-dentistry-roseville",
+   "name": "Como Park Dentistry",
+   "summary": "Como Park Dentistry is a dentist in Roseville, MN at 1132 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514890641. Website: https://www.comoparkdentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/como-park-dentistry-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/como-park-dentistry-roseville.json",
+   "address": {
+    "streetAddress": "1132 Larpenteur Avenue West",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9917031,
+    "lon": -93.1478327
+   },
+   "phone": "+16514890641",
+   "website": "https://www.comoparkdentistry.com/",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 07:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147743967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "twin-cities-oral-and-maxillofacial-surgery-roseville",
+   "name": "Twin Cities Oral & Maxillofacial Surgery",
+   "summary": "Twin Cities Oral & Maxillofacial Surgery is a dentist in Roseville, MN at 1790 Lexington Avenue North, Roseville, MN 55113. Phone: +16514889884. Website: https://www.tcoralsurgery.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-cities-oral-and-maxillofacial-surgery-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-oral-and-maxillofacial-surgery-roseville.json",
+   "address": {
+    "streetAddress": "1790 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9952426,
+    "lon": -93.1460688
+   },
+   "phone": "+16514889884",
+   "website": "https://www.tcoralsurgery.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147743959",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "aspen-dental-roseville",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Roseville, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0123363,
+    "lon": -93.1761077
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12955181739",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

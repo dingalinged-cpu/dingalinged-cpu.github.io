@@ -1,0 +1,374 @@
+{
+ "keyword": "thrift store saint paul mn",
+ "slug": "thrift-store-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "thrift store",
+ "query": "Who are the best thrift store providers in Saint Paul, MN?",
+ "matches": [
+  "thrift store in Saint Paul, MN",
+  "thrift store near me (Saint Paul, MN)",
+  "best thrift store Saint Paul, MN",
+  "top rated thrift store Saint Paul, MN",
+  "affordable thrift store Saint Paul, MN",
+  "emergency thrift store Saint Paul, MN"
+ ],
+ "answer": "The top unpaid thrift store listing for Saint Paul, MN is Goodwill (a thrift store in Saint Paul, MN at 553 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16513795909. Website: https://www.goodwilleasterseals.org/shop/ways-to-shop). 11 thrift store businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "goodwill-saint-paul",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Saint Paul, MN at 553 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16513795909. Website: https://www.goodwilleasterseals.org/shop/ways-to-shop.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-saint-paul.json",
+   "address": {
+    "streetAddress": "553 Fairview Avenue North",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9582941,
+    "lon": -93.1782321
+   },
+   "phone": "+16513795909",
+   "website": "https://www.goodwilleasterseals.org/shop/ways-to-shop",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-18:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/56541498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "dps-treasures-saint-paul",
+   "name": "DPS Treasures",
+   "summary": "DPS Treasures is a thrift store in Saint Paul, MN at 516 North Prior Avenue, Saint Paul, MN 55104. Phone: +16513386628.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dps-treasures-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dps-treasures-saint-paul.json",
+   "address": {
+    "streetAddress": "516 North Prior Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9567108,
+    "lon": -93.1821628
+   },
+   "phone": "+16513386628",
+   "opening_hours": "Mo-Fr 13:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196597415",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "forever-young-vintage-thrift-and-gift-saint-paul",
+   "name": "Forever Young Vintage, Thrift & Gift",
+   "summary": "Forever Young Vintage, Thrift & Gift is a thrift store in Saint Paul, MN at 30 7th Street East #220, Saint Paul, MN 55101. Phone: +16514409079.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forever-young-vintage-thrift-and-gift-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forever-young-vintage-thrift-and-gift-saint-paul.json",
+   "address": {
+    "streetAddress": "30 7th Street East #220",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9479028,
+    "lon": -93.0964439
+   },
+   "phone": "+16514409079",
+   "opening_hours": "Saturday 12–5 PM  Sunday Closed  Monday Closed  Tuesday 12–5 PM  Wednesday 12–5 PM  Thursday Closed  Friday 12–5 PM",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13760701467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "animal-ark-thrift-and-pet-store-saint-paul",
+   "name": "Animal Ark Thrift & Pet Store",
+   "summary": "Animal Ark Thrift & Pet Store is a thrift store in Saint Paul, MN at 809 7th Street East, Saint Paul, MN 55106. Website: https://www.animalarkshelter.org/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-ark-thrift-and-pet-store-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-ark-thrift-and-pet-store-saint-paul.json",
+   "address": {
+    "streetAddress": "809 7th Street East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55106",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55106",
+   "geo": {
+    "lat": 44.9618297,
+    "lon": -93.0664141
+   },
+   "website": "https://www.animalarkshelter.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1911420445",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "consignment-store-saint-paul",
+   "name": "Consignment Store",
+   "summary": "Consignment Store is a thrift store in Saint Paul, MN at 1412 Arcade Street, Saint Paul, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/consignment-store-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/consignment-store-saint-paul.json",
+   "address": {
+    "streetAddress": "1412 Arcade Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9840202,
+    "lon": -93.0657939
+   },
+   "opening_hours": "Mo-Tu,Th 11:00-16:00; We,Fr off; Sa-Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096313",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "goodwill-saint-paul-w152586848",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Saint Paul, MN at 1239 University Avenue West, Saint Paul, MN 55104.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-saint-paul-w152586848/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-saint-paul-w152586848.json",
+   "address": {
+    "streetAddress": "1239 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.956055,
+    "lon": -93.1521845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/152586848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "nine-lives-saint-paul",
+   "name": "Nine Lives",
+   "summary": "Nine Lives is a thrift store in Saint Paul, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nine-lives-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nine-lives-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9242592,
+    "lon": -93.132129
+   },
+   "opening_hours": "Th-Sa 11:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3095001929",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "bearded-mermaid-bazaar-saint-paul",
+   "name": "Bearded Mermaid Bazaar",
+   "summary": "Bearded Mermaid Bazaar is a thrift store in Saint Paul, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bearded-mermaid-bazaar-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bearded-mermaid-bazaar-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9278629,
+    "lon": -93.126839
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3095001931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "landfill-books-and-music-saint-paul",
+   "name": "Landfill Books & Music",
+   "summary": "Landfill Books & Music is a thrift store in Saint Paul, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/landfill-books-and-music-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/landfill-books-and-music-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9554093,
+    "lon": -93.1519803
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3246940331",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "the-salvation-army-saint-paul",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Saint Paul, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9717899,
+    "lon": -93.0739492
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605053982",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "the-salvation-army-family-store-and-donation-center-saint-paul",
+   "name": "The Salvation Army Family Store & Donation Center",
+   "summary": "The Salvation Army Family Store & Donation Center is a thrift store in Saint Paul, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-family-store-and-donation-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-family-store-and-donation-center-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9507119,
+    "lon": -93.0196725
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/746275458",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

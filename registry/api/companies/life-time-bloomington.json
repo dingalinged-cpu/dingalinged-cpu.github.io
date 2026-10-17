@@ -1,0 +1,58 @@
+{
+ "slug": "life-time-bloomington",
+ "name": "Life Time",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym bloomington mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1001 West 98th Street",
+  "addressLocality": "Bloomington",
+  "addressRegion": "MN",
+  "postalCode": "55431",
+  "addressCountry": "US"
+ },
+ "city": "Bloomington",
+ "state": "MN",
+ "zip": "55431",
+ "geo": {
+  "lat": 44.82355,
+  "lon": -93.2928803
+ },
+ "phone": "+19528307900",
+ "website": "https://www.lifetime.life/life-time-locations/mn-bloomington-south.html",
+ "brand": "Life Time",
+ "wikidata": "Q6545004",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/relation/5427970",
+ "osm": {
+  "type": "relation",
+  "id": 5427970,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Bloomington",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/life-time-bloomington/",
+ "summary": "Life Time is a gym in Bloomington, MN at 1001 West 98th Street, Bloomington, MN 55431. Phone: +19528307900. Website: https://www.lifetime.life/life-time-locations/mn-bloomington-south.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

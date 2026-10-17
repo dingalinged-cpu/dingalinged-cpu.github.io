@@ -1,0 +1,58 @@
+{
+ "keyword": "pet store arden hills mn",
+ "slug": "pet-store-arden-hills-mn",
+ "place": "Arden Hills, MN",
+ "service": "pet store",
+ "query": "Who are the best pet store providers in Arden Hills, MN?",
+ "matches": [
+  "pet store in Arden Hills, MN",
+  "pet store near me (Arden Hills, MN)",
+  "best pet store Arden Hills, MN",
+  "top rated pet store Arden Hills, MN",
+  "affordable pet store Arden Hills, MN",
+  "emergency pet store Arden Hills, MN"
+ ],
+ "answer": "The top unpaid pet store listing for Arden Hills, MN is Pet Evolution (a pet store in Arden Hills, MN). 1 pet store businesses are listed for Arden Hills, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "pet-evolution-arden-hills",
+   "name": "Pet Evolution",
+   "summary": "Pet Evolution is a pet store in Arden Hills, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-evolution-arden-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-evolution-arden-hills.json",
+   "address": {
+    "addressLocality": "Arden Hills",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Arden Hills",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0570564,
+    "lon": -93.1488594
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12336464120",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

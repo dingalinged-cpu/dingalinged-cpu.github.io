@@ -1,0 +1,97 @@
+{
+ "keyword": "lawyer white bear lake mn",
+ "slug": "lawyer-white-bear-lake-mn",
+ "place": "White Bear Lake, MN",
+ "service": "lawyer",
+ "query": "Who are the best lawyer providers in White Bear Lake, MN?",
+ "matches": [
+  "lawyer in White Bear Lake, MN",
+  "lawyer near me (White Bear Lake, MN)",
+  "best lawyer White Bear Lake, MN",
+  "top rated lawyer White Bear Lake, MN",
+  "affordable lawyer White Bear Lake, MN",
+  "emergency lawyer White Bear Lake, MN"
+ ],
+ "answer": "The top unpaid lawyer listing for White Bear Lake, MN is Galena Law Firm, P.A. (a lawyer in Saint Paul, MN at 4886 North Highway 61, Saint Paul, MN 55110. Phone: +16514296555. Website: https://galenalaw.com/). 2 lawyer businesses are listed for White Bear Lake, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "galena-law-firm-p-a-saint-paul",
+   "name": "Galena Law Firm, P.A.",
+   "summary": "Galena Law Firm, P.A. is a lawyer in Saint Paul, MN at 4886 North Highway 61, Saint Paul, MN 55110. Phone: +16514296555. Website: https://galenalaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galena-law-firm-p-a-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galena-law-firm-p-a-saint-paul.json",
+   "address": {
+    "streetAddress": "4886 North Highway 61",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.0890728,
+    "lon": -93.0070935
+   },
+   "phone": "+16514296555",
+   "website": "https://galenalaw.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6292782920",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "bucklet-and-jensen-white-bear-lake",
+   "name": "Bucklet & Jensen",
+   "summary": "Bucklet & Jensen is a lawyer in White Bear Lake, MN at 1257 Gun Club Road, White Bear Lake, MN 55110. Website: https://www.buckleyjensen.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bucklet-and-jensen-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bucklet-and-jensen-white-bear-lake.json",
+   "address": {
+    "streetAddress": "1257 Gun Club Road",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.080699,
+    "lon": -93.0497346
+   },
+   "website": "https://www.buckleyjensen.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1087016793",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

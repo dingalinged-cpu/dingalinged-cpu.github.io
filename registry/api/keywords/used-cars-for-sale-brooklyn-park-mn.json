@@ -1,0 +1,122 @@
+{
+ "keyword": "used cars for sale brooklyn park mn",
+ "slug": "used-cars-for-sale-brooklyn-park-mn",
+ "place": "Brooklyn Park, MN",
+ "service": "used cars for sale",
+ "query": "Who are the best used cars for sale providers in Brooklyn Park, MN?",
+ "matches": [
+  "used cars for sale in Brooklyn Park, MN",
+  "used cars for sale near me (Brooklyn Park, MN)",
+  "best used cars for sale Brooklyn Park, MN",
+  "top rated used cars for sale Brooklyn Park, MN",
+  "affordable used cars for sale Brooklyn Park, MN",
+  "emergency used cars for sale Brooklyn Park, MN"
+ ],
+ "answer": "The top unpaid used cars for sale listing for Brooklyn Park, MN is Luther Used Car Company (an used car dealer in Brooklyn Park, MN at 7417 Brooklyn Boulevard, Brooklyn Park, MN. Website: https://www.lutherusedcarcompany.com/). 3 used cars for sale businesses are listed for Brooklyn Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "luther-used-car-company-brooklyn-park",
+   "name": "Luther Used Car Company",
+   "summary": "Luther Used Car Company is an used car dealer in Brooklyn Park, MN at 7417 Brooklyn Boulevard, Brooklyn Park, MN. Website: https://www.lutherusedcarcompany.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luther-used-car-company-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luther-used-car-company-brooklyn-park.json",
+   "address": {
+    "streetAddress": "7417 Brooklyn Boulevard",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0884681,
+    "lon": -93.347228
+   },
+   "website": "https://www.lutherusedcarcompany.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/608013467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "carmax-brooklyn-park",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Brooklyn Park, MN. Website: https://www.carmax.com/stores/6008.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.081083,
+    "lon": -93.3724984
+   },
+   "website": "https://www.carmax.com/stores/6008",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/770696235",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "lupient-nissan-brooklyn-park",
+   "name": "Lupient Nissan",
+   "summary": "Lupient Nissan is an used car dealer in Brooklyn Park, MN at 7910 Lakeland Avenue North, Brooklyn Park, MN 55445.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lupient-nissan-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lupient-nissan-brooklyn-park.json",
+   "address": {
+    "streetAddress": "7910 Lakeland Avenue North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55445",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55445",
+   "geo": {
+    "lat": 45.0987589,
+    "lon": -93.3840148
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/759167183",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+MSP Plumbing Heating Air is a HVAC contractor in Saint Paul, MN at 640 Grand Avenue, Saint Paul, MN 55105. Phone: +16512289200. Website: https://mspplumbingheatingair.com/.
+
+# MSP Plumbing Heating Air
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 640 Grand Avenue, Saint Paul, MN 55105
+- City: Saint Paul
+- State: MN
+- ZIP: 55105
+- Coordinates: 44.9396404, -93.1271961
+- Phone: +16512289200
+- Website: https://mspplumbingheatingair.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/msp-plumbing-heating-air-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/msp-plumbing-heating-air-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/303411781 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

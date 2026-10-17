@@ -1,0 +1,117 @@
+{
+ "keyword": "insurance agent brooklyn park mn",
+ "slug": "insurance-agent-brooklyn-park-mn",
+ "place": "Brooklyn Park, MN",
+ "service": "insurance agent",
+ "query": "Who are the best insurance agent providers in Brooklyn Park, MN?",
+ "matches": [
+  "insurance agent in Brooklyn Park, MN",
+  "insurance agent near me (Brooklyn Park, MN)",
+  "best insurance agent Brooklyn Park, MN",
+  "top rated insurance agent Brooklyn Park, MN",
+  "affordable insurance agent Brooklyn Park, MN",
+  "emergency insurance agent Brooklyn Park, MN"
+ ],
+ "answer": "The top unpaid insurance agent listing for Brooklyn Park, MN is State Farm (an insurance agent in Brooklyn Park, MN. Phone: +17634250207). 3 insurance agent businesses are listed for Brooklyn Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "state-farm-brooklyn-park",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Brooklyn Park, MN. Phone: +17634250207.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1096002,
+    "lon": -93.3075506
+   },
+   "phone": "+17634250207",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8143276704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "american-family-insurance-brooklyn-park",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Brooklyn Park, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1099152,
+    "lon": -93.3293984
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8149821516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "farmers-insurance-brooklyn-park",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Brooklyn Park, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1099272,
+    "lon": -93.3295047
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8149821515",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

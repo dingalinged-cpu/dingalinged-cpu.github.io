@@ -1,0 +1,60 @@
+{
+ "slug": "johnson-mediation-chanhassen",
+ "name": "Johnson Mediation",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer chanhassen mn",
+  "attorney chanhassen mn"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7965 Stone Creek Drive #10",
+  "addressLocality": "Chanhassen",
+  "addressRegion": "MN",
+  "postalCode": "55317",
+  "addressCountry": "US"
+ },
+ "city": "Chanhassen",
+ "state": "MN",
+ "zip": "55317",
+ "geo": {
+  "lat": 44.8622363,
+  "lon": -93.5731154
+ },
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6734428575",
+ "osm": {
+  "type": "node",
+  "id": 6734428575,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Chanhassen",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/johnson-mediation-chanhassen/",
+ "summary": "Johnson Mediation is a lawyer in Chanhassen, MN at 7965 Stone Creek Drive #10, Chanhassen, MN 55317.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

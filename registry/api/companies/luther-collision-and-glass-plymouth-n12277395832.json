@@ -1,0 +1,58 @@
+{
+ "slug": "luther-collision-and-glass-plymouth-n12277395832",
+ "name": "Luther Collision & Glass",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair plymouth mn",
+  "mechanic plymouth mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Plymouth",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Plymouth",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0549622,
+  "lon": -93.4040756
+ },
+ "phone": "+17633316066",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12277395832",
+ "osm": {
+  "type": "node",
+  "id": 12277395832,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Plymouth",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/luther-collision-and-glass-plymouth-n12277395832/",
+ "summary": "Luther Collision & Glass is an auto repair shop in Plymouth, MN. Phone: +17633316066.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

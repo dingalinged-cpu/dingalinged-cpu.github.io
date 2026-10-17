@@ -1,0 +1,64 @@
+{
+ "slug": "nail-images-edina",
+ "name": "Nail Images",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon minneapolis mn",
+  "nail salon edina mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4509 France Avenue South",
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "postalCode": "55410",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "zip": "55410",
+ "geo": {
+  "lat": 44.9211014,
+  "lon": -93.328612
+ },
+ "phone": "+16129295101",
+ "website": "https://nailsimageminneapolis.com/",
+ "email": "ldp1969@yahoo.com",
+ "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 12:00-18:00",
+ "social": [
+  "https://www.instagram.com/nail_images_edina/",
+  "https://www.yelp.com/biz/nail-images-minneapolis"
+ ],
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1308726160",
+ "osm": {
+  "type": "way",
+  "id": 1308726160,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/nail-images-edina/",
+ "summary": "Nail Images is a nail salon in Edina, MN at 4509 France Avenue South, Edina, MN 55410. Phone: +16129295101. Website: https://nailsimageminneapolis.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,64 @@
+{
+ "keyword": "pet store maplewood mn",
+ "slug": "pet-store-maplewood-mn",
+ "place": "Maplewood, MN",
+ "service": "pet store",
+ "query": "Who are the best pet store providers in Maplewood, MN?",
+ "matches": [
+  "pet store in Maplewood, MN",
+  "pet store near me (Maplewood, MN)",
+  "best pet store Maplewood, MN",
+  "top rated pet store Maplewood, MN",
+  "affordable pet store Maplewood, MN",
+  "emergency pet store Maplewood, MN"
+ ],
+ "answer": "The top unpaid pet store listing for Maplewood, MN is PetSmart (a pet store in Maplewood, MN at 2370 White Bear Avenue North, Maplewood, MN 55109. Phone: +16517779533. Website: https://www.petsmart.com/stores/us/mn/maplewood-store0461.html). 1 pet store businesses are listed for Maplewood, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "petsmart-maplewood",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Maplewood, MN at 2370 White Bear Avenue North, Maplewood, MN 55109. Phone: +16517779533. Website: https://www.petsmart.com/stores/us/mn/maplewood-store0461.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-maplewood.json",
+   "address": {
+    "streetAddress": "2370 White Bear Avenue North",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0126406,
+    "lon": -93.0195966
+   },
+   "phone": "+16517779533",
+   "website": "https://www.petsmart.com/stores/us/mn/maplewood-store0461.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507997936",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

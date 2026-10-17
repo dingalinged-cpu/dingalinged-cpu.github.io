@@ -1,0 +1,23 @@
+Inver Grove Heights Animal Hospital is a veterinarian in Inver Grove Heights, MN at 7135 Cahill Avenue, Inver Grove Heights, MN 55076.
+
+# Inver Grove Heights Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: 7135 Cahill Avenue, Inver Grove Heights, MN 55076
+- City: Inver Grove Heights
+- State: MN
+- ZIP: 55076
+- Coordinates: 44.8460409, -93.0429101
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/inver-grove-heights-animal-hospital-inver-grove-heights/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/inver-grove-heights-animal-hospital-inver-grove-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/526952157 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

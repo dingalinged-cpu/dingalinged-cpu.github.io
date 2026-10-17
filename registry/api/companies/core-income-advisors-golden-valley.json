@@ -1,0 +1,56 @@
+{
+ "slug": "core-income-advisors-golden-valley",
+ "name": "Core Income Advisors",
+ "categories": [
+  "business consultant"
+ ],
+ "keywords": [
+  "business consultant",
+  "business consultant golden valley mn"
+ ],
+ "services": [
+  {
+   "name": "business consultant",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5940 Golden Hills Drive",
+  "addressLocality": "Golden Valley",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Golden Valley",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9735183,
+  "lon": -93.3558216
+ },
+ "phone": "+18005417713",
+ "website": "https://coreincome.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11129016214",
+ "osm": {
+  "type": "node",
+  "id": 11129016214,
+  "tags_used": {
+   "office": "consulting"
+  }
+ },
+ "municipality": "Golden Valley",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/core-income-advisors-golden-valley/",
+ "summary": "Core Income Advisors is a business consultant in Golden Valley, MN at 5940 Golden Hills Drive, Golden Valley, MN 55416. Phone: +18005417713. Website: https://coreincome.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

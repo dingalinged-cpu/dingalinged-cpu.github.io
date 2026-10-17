@@ -1,0 +1,63 @@
+{
+ "keyword": "dance studio robbinsdale mn",
+ "slug": "dance-studio-robbinsdale-mn",
+ "place": "Robbinsdale, MN",
+ "service": "dance studio",
+ "query": "Who are the best dance studio providers in Robbinsdale, MN?",
+ "matches": [
+  "dance studio in Robbinsdale, MN",
+  "dance studio near me (Robbinsdale, MN)",
+  "best dance studio Robbinsdale, MN",
+  "top rated dance studio Robbinsdale, MN",
+  "affordable dance studio Robbinsdale, MN",
+  "emergency dance studio Robbinsdale, MN"
+ ],
+ "answer": "The top unpaid dance studio listing for Robbinsdale, MN is KMC Dance (a dance studio in Robbinsdale, MN at 4035 West Broadway Avenue, Robbinsdale, MN 55422. Phone: +17635332623. Website: https://kmcdance.com/). 1 dance studio businesses are listed for Robbinsdale, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "kmc-dance-robbinsdale",
+   "name": "KMC Dance",
+   "summary": "KMC Dance is a dance studio in Robbinsdale, MN at 4035 West Broadway Avenue, Robbinsdale, MN 55422. Phone: +17635332623. Website: https://kmcdance.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kmc-dance-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kmc-dance-robbinsdale.json",
+   "address": {
+    "streetAddress": "4035 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0281827,
+    "lon": -93.3362623
+   },
+   "phone": "+17635332623",
+   "website": "https://kmcdance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1214437000",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "lees-shoe-and-leather-repair-minneapolis",
+ "name": "Lee's Shoe & Leather Repair",
+ "categories": [
+  "shoe repair"
+ ],
+ "keywords": [
+  "shoe repair",
+  "shoe repair minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "shoe repair",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "815 West Lake Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55408",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55408",
+ "geo": {
+  "lat": 44.9482322,
+  "lon": -93.2901305
+ },
+ "phone": "+16128242040",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3289545861",
+ "osm": {
+  "type": "node",
+  "id": 3289545861,
+  "tags_used": {
+   "craft": "shoemaker"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lees-shoe-and-leather-repair-minneapolis/",
+ "summary": "Lee's Shoe & Leather Repair is a shoe repair in Minneapolis, MN at 815 West Lake Street, Minneapolis, MN 55408. Phone: +16128242040.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

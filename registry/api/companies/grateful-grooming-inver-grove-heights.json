@@ -1,0 +1,51 @@
+{
+ "slug": "grateful-grooming-inver-grove-heights",
+ "name": "Grateful Grooming",
+ "categories": [
+  "dog groomer"
+ ],
+ "keywords": [
+  "dog groomer",
+  "dog groomer inver grove heights mn"
+ ],
+ "services": [
+  {
+   "name": "dog groomer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Inver Grove Heights",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Inver Grove Heights",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8548468,
+  "lon": -93.0435614
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12724577702",
+ "osm": {
+  "type": "node",
+  "id": 12724577702,
+  "tags_used": {
+   "shop": "pet_grooming"
+  }
+ },
+ "municipality": "Inver Grove Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/grateful-grooming-inver-grove-heights/",
+ "summary": "Grateful Grooming is a dog groomer in Inver Grove Heights, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,80 @@
+{
+ "place": "Long Lake, MN",
+ "slug": "long-lake-mn",
+ "count": 2,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "car wash long lake mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-long-lake-mn.json"
+  },
+  {
+   "keyword": "tanning salon long lake mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-long-lake-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "body-glow-sun-and-spray-long-lake",
+   "name": "Body Glow Sun & Spray",
+   "summary": "Body Glow Sun & Spray is a tanning salon in Long Lake, MN at 2073 Wayzata Boulevard #1000, Long Lake, MN 55356.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/body-glow-sun-and-spray-long-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/body-glow-sun-and-spray-long-lake.json",
+   "address": {
+    "streetAddress": "2073 Wayzata Boulevard #1000",
+    "addressLocality": "Long Lake",
+    "addressRegion": "MN",
+    "postalCode": "55356",
+    "addressCountry": "US"
+   },
+   "city": "Long Lake",
+   "state": "MN",
+   "zip": "55356",
+   "geo": {
+    "lat": 44.9879335,
+    "lon": -93.5774269
+   },
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6724052654",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-long-lake",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Long Lake, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-long-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-long-lake.json",
+   "address": {
+    "addressLocality": "Long Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Long Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9884113,
+    "lon": -93.5843607
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4810648225",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

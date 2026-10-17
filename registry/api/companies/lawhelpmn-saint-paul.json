@@ -1,0 +1,61 @@
+{
+ "slug": "lawhelpmn-saint-paul",
+ "name": "LawHelpMN",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer saint paul mn",
+  "attorney saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2324 University Avenue West",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.9628739,
+  "lon": -93.1955815
+ },
+ "website": "https://www.lawhelpmn.org/",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6456665447",
+ "osm": {
+  "type": "node",
+  "id": 6456665447,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lawhelpmn-saint-paul/",
+ "summary": "LawHelpMN is a lawyer in Saint Paul, MN at 2324 University Avenue West, Saint Paul, MN 55114. Website: https://www.lawhelpmn.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

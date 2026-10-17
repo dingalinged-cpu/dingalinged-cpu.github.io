@@ -1,0 +1,54 @@
+{
+ "slug": "care-counseling-minneapolis",
+ "name": "CARE Counseling",
+ "categories": [
+  "therapist"
+ ],
+ "keywords": [
+  "therapist",
+  "therapist minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "204 West Franklin Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55404",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55404",
+ "geo": {
+  "lat": 44.9629898,
+  "lon": -93.2811373
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/119004467",
+ "osm": {
+  "type": "way",
+  "id": 119004467,
+  "tags_used": {
+   "healthcare": "counselling"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/care-counseling-minneapolis/",
+ "summary": "CARE Counseling is a therapy practice in Minneapolis, MN at 204 West Franklin Avenue, Minneapolis, MN 55404.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

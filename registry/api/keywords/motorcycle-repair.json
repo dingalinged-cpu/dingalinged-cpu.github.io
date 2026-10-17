@@ -1,0 +1,131 @@
+{
+ "keyword": "motorcycle repair",
+ "slug": "motorcycle-repair",
+ "place": "the United States",
+ "service": "motorcycle repair",
+ "query": "Who are the best motorcycle repair providers in the United States?",
+ "matches": [
+  "motorcycle repair in the United States",
+  "motorcycle repair near me (the United States)",
+  "best motorcycle repair the United States",
+  "top rated motorcycle repair the United States",
+  "affordable motorcycle repair the United States",
+  "emergency motorcycle repair the United States"
+ ],
+ "answer": "The top unpaid motorcycle repair listing for the United States is Blue Cat Motorcycle Repair (a motorcycle repair shop in Saint Paul, MN at 460 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516451172. Website: https://www.bluecatmotorcycle.com/). 3 motorcycle repair businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "blue-cat-motorcycle-repair-saint-paul",
+   "name": "Blue Cat Motorcycle Repair",
+   "summary": "Blue Cat Motorcycle Repair is a motorcycle repair shop in Saint Paul, MN at 460 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516451172. Website: https://www.bluecatmotorcycle.com/.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-cat-motorcycle-repair-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-cat-motorcycle-repair-saint-paul.json",
+   "address": {
+    "streetAddress": "460 North Prior Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9552585,
+    "lon": -93.181833
+   },
+   "phone": "+16516451172",
+   "website": "https://www.bluecatmotorcycle.com/",
+   "opening_hours": "Tu-Fr 10:00-17:00; Sa 11:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/137068684",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "honda-town-minneapolis",
+   "name": "Honda Town",
+   "summary": "Honda Town is a motorcycle repair shop in Minneapolis, MN at 4215 East Lake Street, Minneapolis, MN 55406. Phone: +16127221110. Website: https://www.hondatown.net/.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/honda-town-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/honda-town-minneapolis.json",
+   "address": {
+    "streetAddress": "4215 East Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9480456,
+    "lon": -93.2117753
+   },
+   "phone": "+16127221110",
+   "website": "https://www.hondatown.net/",
+   "opening_hours": "Tu-Th 10:00-18:00, Fr 10:00-17:00, Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/746027452",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "parts-hub-newport",
+   "name": "Parts Hub",
+   "summary": "Parts Hub is a motorcycle repair shop in Newport, MN at 1668 Hastings Avenue, Newport, MN 55055.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/parts-hub-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/parts-hub-newport.json",
+   "address": {
+    "streetAddress": "1668 Hastings Avenue",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.8751427,
+    "lon": -93.000105
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/976814036",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "stretchlab-arden-hills",
+ "name": "StretchLab",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym arden hills mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3833 Lexington Avenue North #102",
+  "addressLocality": "Arden Hills",
+  "addressRegion": "MN",
+  "postalCode": "55126",
+  "addressCountry": "US"
+ },
+ "city": "Arden Hills",
+ "state": "MN",
+ "zip": "55126",
+ "geo": {
+  "lat": 45.0570131,
+  "lon": -93.1477929
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/14000959108",
+ "osm": {
+  "type": "node",
+  "id": 14000959108,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Arden Hills",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/stretchlab-arden-hills/",
+ "summary": "StretchLab is a gym in Arden Hills, MN at 3833 Lexington Avenue North #102, Arden Hills, MN 55126.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Top Ten Liquors is a liquor store in Minneapolis, MN at 1440 Southeast 5th Street, Minneapolis, MN 55414.
+
+# Top Ten Liquors
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1440 Southeast 5th Street, Minneapolis, MN 55414
+- City: Minneapolis
+- State: MN
+- ZIP: 55414
+- Coordinates: 44.980853, -93.2338468
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquors-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11273609246 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,62 @@
+{
+ "keyword": "event venues excelsior mn",
+ "slug": "event-venues-excelsior-mn",
+ "place": "Excelsior, MN",
+ "service": "event venues",
+ "query": "Who are the best event venues providers in Excelsior, MN?",
+ "matches": [
+  "event venues in Excelsior, MN",
+  "event venues near me (Excelsior, MN)",
+  "best event venues Excelsior, MN",
+  "top rated event venues Excelsior, MN",
+  "affordable event venues Excelsior, MN",
+  "emergency event venues Excelsior, MN"
+ ],
+ "answer": "The top unpaid event venues listing for Excelsior, MN is Bird House Inn (an event venue in Excelsior, MN at 371 Water Street, Excelsior, MN 55331. Website: https://www.birdhouseinn.com/). 1 event venues businesses are listed for Excelsior, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bird-house-inn-excelsior",
+   "name": "Bird House Inn",
+   "summary": "Bird House Inn is an event venue in Excelsior, MN at 371 Water Street, Excelsior, MN 55331. Website: https://www.birdhouseinn.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bird-house-inn-excelsior/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bird-house-inn-excelsior.json",
+   "address": {
+    "streetAddress": "371 Water Street",
+    "addressLocality": "Excelsior",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Excelsior",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.9010937,
+    "lon": -93.568117
+   },
+   "website": "https://www.birdhouseinn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/257684128",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

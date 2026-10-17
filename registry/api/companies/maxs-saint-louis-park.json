@@ -1,0 +1,55 @@
+{
+ "slug": "maxs-saint-louis-park",
+ "name": "Max's",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3826 Grand Way",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.933763,
+  "lon": -93.340523
+ },
+ "website": "https://www.stylebymax.com/",
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4124161390",
+ "osm": {
+  "type": "node",
+  "id": 4124161390,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/maxs-saint-louis-park/",
+ "summary": "Max's is a jewelry store in Saint Louis Park, MN at 3826 Grand Way, Saint Louis Park, MN 55416. Website: https://www.stylebymax.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

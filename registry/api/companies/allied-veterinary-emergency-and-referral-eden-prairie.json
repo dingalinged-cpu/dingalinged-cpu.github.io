@@ -1,0 +1,57 @@
+{
+ "slug": "allied-veterinary-emergency-and-referral-eden-prairie",
+ "name": "Allied Veterinary Emergency & Referral",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet eden prairie mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8300 Flying Cloud Drive",
+  "addressLocality": "Eden Prairie",
+  "addressRegion": "MN",
+  "postalCode": "55344",
+  "addressCountry": "US"
+ },
+ "city": "Eden Prairie",
+ "state": "MN",
+ "zip": "55344",
+ "geo": {
+  "lat": 44.8537197,
+  "lon": -93.4309976
+ },
+ "phone": "+19524520025",
+ "email": "edenprairie@alliedERvet.com",
+ "opening_hours": "24/7",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1450970997",
+ "osm": {
+  "type": "way",
+  "id": 1450970997,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Eden Prairie",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/allied-veterinary-emergency-and-referral-eden-prairie/",
+ "summary": "Allied Veterinary Emergency & Referral is a veterinarian in Eden Prairie, MN at 8300 Flying Cloud Drive, Eden Prairie, MN 55344. Phone: +19524520025.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

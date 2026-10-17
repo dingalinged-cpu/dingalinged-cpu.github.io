@@ -1,0 +1,90 @@
+{
+ "keyword": "liquor store vadnais heights mn",
+ "slug": "liquor-store-vadnais-heights-mn",
+ "place": "Vadnais Heights, MN",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in Vadnais Heights, MN?",
+ "matches": [
+  "liquor store in Vadnais Heights, MN",
+  "liquor store near me (Vadnais Heights, MN)",
+  "best liquor store Vadnais Heights, MN",
+  "top rated liquor store Vadnais Heights, MN",
+  "affordable liquor store Vadnais Heights, MN",
+  "emergency liquor store Vadnais Heights, MN"
+ ],
+ "answer": "The top unpaid liquor store listing for Vadnais Heights, MN is MGM Wine & Spirits (a liquor store in Vadnais Heights, MN at 1050 Highway 96, Vadnais Heights, MN 55127). 2 liquor store businesses are listed for Vadnais Heights, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mgm-wine-and-spirits-vadnais-heights",
+   "name": "MGM Wine & Spirits",
+   "summary": "MGM Wine & Spirits is a liquor store in Vadnais Heights, MN at 1050 Highway 96, Vadnais Heights, MN 55127.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-vadnais-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-wine-and-spirits-vadnais-heights.json",
+   "address": {
+    "streetAddress": "1050 Highway 96",
+    "addressLocality": "Vadnais Heights",
+    "addressRegion": "MN",
+    "postalCode": "55127",
+    "addressCountry": "US"
+   },
+   "city": "Vadnais Heights",
+   "state": "MN",
+   "zip": "55127",
+   "geo": {
+    "lat": 45.0778555,
+    "lon": -93.0566668
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1137118407",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "top-ten-liquors-vadnais-heights",
+   "name": "Top Ten Liquors",
+   "summary": "Top Ten Liquors is a liquor store in Vadnais Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-vadnais-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquors-vadnais-heights.json",
+   "address": {
+    "addressLocality": "Vadnais Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Vadnais Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0507823,
+    "lon": -93.0632545
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/798042180",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

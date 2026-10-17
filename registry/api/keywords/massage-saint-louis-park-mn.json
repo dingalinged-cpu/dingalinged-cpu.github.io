@@ -1,0 +1,97 @@
+{
+ "keyword": "massage saint louis park mn",
+ "slug": "massage-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "massage",
+ "query": "Who are the best massage providers in Saint Louis Park, MN?",
+ "matches": [
+  "massage in Saint Louis Park, MN",
+  "massage near me (Saint Louis Park, MN)",
+  "best massage Saint Louis Park, MN",
+  "top rated massage Saint Louis Park, MN",
+  "affordable massage Saint Louis Park, MN",
+  "emergency massage Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid massage listing for Saint Louis Park, MN is Elements Massage (a massage studio in Saint Louis Park, MN at 5640 36th Street West, Saint Louis Park, MN 55416. Phone: +19523535674. Website: https://elementsmassage.com/st-louis-park/how-much-does-a-massage-cost?y_source=1_MTU1OTg3MjctNzE1LWxvY2F0aW9uLm1lbnVfdXJs). 2 massage businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "elements-massage-saint-louis-park",
+   "name": "Elements Massage",
+   "summary": "Elements Massage is a massage studio in Saint Louis Park, MN at 5640 36th Street West, Saint Louis Park, MN 55416. Phone: +19523535674. Website: https://elementsmassage.com/st-louis-park/how-much-does-a-massage-cost?y_source=1_MTU1OTg3MjctNzE1LWxvY2F0aW9uLm1lbnVfdXJs.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elements-massage-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elements-massage-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5640 36th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9379843,
+    "lon": -93.3508003
+   },
+   "phone": "+19523535674",
+   "website": "https://elementsmassage.com/st-louis-park/how-much-does-a-massage-cost?y_source=1_MTU1OTg3MjctNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9590892964",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park",
+   "name": "Epic Bodyworks Massage & Skin Care Clinic",
+   "summary": "Epic Bodyworks Massage & Skin Care Clinic is a massage studio in Saint Louis Park, MN at 6726 Walker Street, Saint Louis Park, MN 55426. Phone: +19525461364. Website: https://www.epicbodyworks.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6726 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9392563,
+    "lon": -93.3651207
+   },
+   "phone": "+19525461364",
+   "website": "https://www.epicbodyworks.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1051732543",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

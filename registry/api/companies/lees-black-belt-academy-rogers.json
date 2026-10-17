@@ -1,0 +1,54 @@
+{
+ "slug": "lees-black-belt-academy-rogers",
+ "name": "Lee's Black Belt Academy",
+ "categories": [
+  "martial arts"
+ ],
+ "keywords": [
+  "martial arts",
+  "martial arts rogers mn"
+ ],
+ "services": [
+  {
+   "name": "martial arts",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "20965 South Diamond Lake Road #105",
+  "addressLocality": "Rogers",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Rogers",
+ "state": "MN",
+ "geo": {
+  "lat": 45.1991393,
+  "lon": -93.5457898
+ },
+ "website": "https://leesblackbeltacademy.com/",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10876738965",
+ "osm": {
+  "type": "node",
+  "id": 10876738965,
+  "tags_used": {
+   "amenity": "dojo",
+   "sport": "taekwondo"
+  }
+ },
+ "municipality": "Rogers",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lees-black-belt-academy-rogers/",
+ "summary": "Lee's Black Belt Academy is a martial arts school in Rogers, MN at 20965 South Diamond Lake Road #105, Rogers, MN. Website: https://leesblackbeltacademy.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

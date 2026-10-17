@@ -1,0 +1,59 @@
+{
+ "slug": "twisted-hare-salon-and-spa-minneapolis",
+ "name": "Twisted Hare Salon and Spa",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon minneapolis mn",
+  "haircut minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4805 Nicollet Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9157929,
+  "lon": -93.2778082
+ },
+ "website": "https://thetwistedhare.com/",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4040599204",
+ "osm": {
+  "type": "node",
+  "id": 4040599204,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/twisted-hare-salon-and-spa-minneapolis/",
+ "summary": "Twisted Hare Salon and Spa is a hair salon in Minneapolis, MN at 4805 Nicollet Avenue South, Minneapolis, MN. Website: https://thetwistedhare.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "youth-building-at-lions-park-shakopee",
+ "name": "Youth Building at Lions Park",
+ "categories": [
+  "event venues"
+ ],
+ "keywords": [
+  "event venues",
+  "event venues shakopee mn"
+ ],
+ "services": [
+  {
+   "name": "event venues",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1099 Adams Street South",
+  "addressLocality": "Shakopee",
+  "addressRegion": "MN",
+  "postalCode": "55379",
+  "addressCountry": "US"
+ },
+ "city": "Shakopee",
+ "state": "MN",
+ "zip": "55379",
+ "geo": {
+  "lat": 44.7860854,
+  "lon": -93.5399284
+ },
+ "website": "https://www.shakopeemn.gov/recreation/recreation-facilities/youth-building",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/890990861",
+ "osm": {
+  "type": "way",
+  "id": 890990861,
+  "tags_used": {
+   "amenity": "events_venue"
+  }
+ },
+ "municipality": "Shakopee",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/youth-building-at-lions-park-shakopee/",
+ "summary": "Youth Building at Lions Park is an event venue in Shakopee, MN at 1099 Adams Street South, Shakopee, MN 55379. Website: https://www.shakopeemn.gov/recreation/recreation-facilities/youth-building.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

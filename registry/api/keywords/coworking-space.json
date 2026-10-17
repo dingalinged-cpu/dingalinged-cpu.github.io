@@ -1,0 +1,486 @@
+{
+ "keyword": "coworking space",
+ "slug": "coworking-space",
+ "place": "the United States",
+ "service": "coworking space",
+ "query": "Who are the best coworking space providers in the United States?",
+ "matches": [
+  "coworking space in the United States",
+  "coworking space near me (the United States)",
+  "best coworking space the United States",
+  "top rated coworking space the United States",
+  "affordable coworking space the United States",
+  "emergency coworking space the United States"
+ ],
+ "answer": "The top unpaid coworking space listing for the United States is Local Collective, LLC (a coworking space in Saint Paul, MN at 523 Jackson Street, Saint Paul, MN 55101. Phone: +14697315458. Website: https://localcollectivehq.com/). 14 coworking space businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "local-collective-llc-saint-paul",
+   "name": "Local Collective, LLC",
+   "summary": "Local Collective, LLC is a coworking space in Saint Paul, MN at 523 Jackson Street, Saint Paul, MN 55101. Phone: +14697315458. Website: https://localcollectivehq.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/local-collective-llc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/local-collective-llc-saint-paul.json",
+   "address": {
+    "streetAddress": "523 Jackson Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9520788,
+    "lon": -93.0936893
+   },
+   "phone": "+14697315458",
+   "website": "https://localcollectivehq.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7183793036",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "work-it-coworking-saint-paul",
+   "name": "Work It Coworking",
+   "summary": "Work It Coworking is a coworking space in Saint Paul, MN at 635 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16127702520. Website: https://co-workit.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/work-it-coworking-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/work-it-coworking-saint-paul.json",
+   "address": {
+    "streetAddress": "635 Fairview Avenue North",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9603639,
+    "lon": -93.1776275
+   },
+   "phone": "+16127702520",
+   "website": "https://co-workit.com/",
+   "opening_hours": "Mo-Fr 07:30-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196444432",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "impact-hub-minneapolis",
+   "name": "Impact Hub",
+   "summary": "Impact Hub is a coworking space in Minneapolis, MN at 825 Southeast Washington Avenue, Minneapolis, MN 55414. Phone: +16513182800. Website: https://minneapolis.impacthub.net/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/impact-hub-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/impact-hub-minneapolis.json",
+   "address": {
+    "streetAddress": "825 Southeast Washington Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.973756,
+    "lon": -93.2259469
+   },
+   "phone": "+16513182800",
+   "website": "https://minneapolis.impacthub.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6410412074",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "lakes-and-plains-llc-saint-paul",
+   "name": "Lakes & Plains, LLC",
+   "summary": "Lakes & Plains, LLC is a coworking space in Saint Paul, MN at 842 Raymond Avenue, Saint Paul, MN 55114. Phone: +16516476250. Website: https://www.lakesplains.weebly.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakes-and-plains-llc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakes-and-plains-llc-saint-paul.json",
+   "address": {
+    "streetAddress": "842 Raymond Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9668199,
+    "lon": -93.1975708
+   },
+   "phone": "+16516476250",
+   "website": "https://www.lakesplains.weebly.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6262897409",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "modernwell-minneapolis",
+   "name": "ModernWell",
+   "summary": "ModernWell is a coworking space in Minneapolis, MN at 2909 South Wayzata Boulevard, Minneapolis, MN 55405. Phone: +17639997920. Website: https://www.modernwell.co/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/modernwell-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/modernwell-minneapolis.json",
+   "address": {
+    "streetAddress": "2909 South Wayzata Boulevard",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9697593,
+    "lon": -93.3177204
+   },
+   "phone": "+17639997920",
+   "website": "https://www.modernwell.co/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92807812",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "hub44-minneapolis",
+   "name": "HUB44",
+   "summary": "HUB44 is a coworking space in Minneapolis, MN at 4406 Beard Avenue South, Minneapolis, MN 55410. Website: https://www.hub44lindenhills.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hub44-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hub44-minneapolis.json",
+   "address": {
+    "streetAddress": "4406 Beard Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9229179,
+    "lon": -93.3241767
+   },
+   "website": "https://www.hub44lindenhills.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12120870754",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "industrious-minneapolis",
+   "name": "Industrious",
+   "summary": "Industrious is a coworking space in Minneapolis, MN at 323 Washington Avenue North #200, Minneapolis, MN 55401. Website: https://www.industriousoffice.com/locations/323-washington-ave-n-suite-200.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/industrious-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/industrious-minneapolis.json",
+   "address": {
+    "streetAddress": "323 Washington Avenue North #200",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9840544,
+    "lon": -93.27484
+   },
+   "website": "https://www.industriousoffice.com/locations/323-washington-ave-n-suite-200",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13713067311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "new-rules-minneapolis",
+   "name": "New Rules",
+   "summary": "New Rules is a coworking space in Minneapolis, MN at 2015 North Lowry Avenue, Minneapolis, MN 55411. Website: https://www.newrulesmn.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-rules-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-rules-minneapolis.json",
+   "address": {
+    "streetAddress": "2015 North Lowry Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55411",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55411",
+   "geo": {
+    "lat": 45.0130597,
+    "lon": -93.3052822
+   },
+   "website": "https://www.newrulesmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/912609082",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "the-coven-saint-paul",
+   "name": "The Coven",
+   "summary": "The Coven is a coworking space in Saint Paul, MN at 165 Western Avenue North ##8, Saint Paul, MN 55102. Website: https://www.thecoven.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-coven-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-coven-saint-paul.json",
+   "address": {
+    "streetAddress": "165 Western Avenue North ##8",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9463042,
+    "lon": -93.1165065
+   },
+   "website": "https://www.thecoven.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818270655",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "the-wilderness-minneapolis",
+   "name": "The Wilderness",
+   "summary": "The Wilderness is a coworking space in Minneapolis, MN at 1010 West Lake Street, Minneapolis, MN 55408. Website: https://www.thewildernessmn.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wilderness-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wilderness-minneapolis.json",
+   "address": {
+    "streetAddress": "1010 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9484996,
+    "lon": -93.2926288
+   },
+   "website": "https://www.thewildernessmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3406207605",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "coco-coworking-minneapolis",
+   "name": "Coco Coworking",
+   "summary": "Coco Coworking is a coworking space in Minneapolis, MN at 1400 Northeast Van Buren Street #200, Minneapolis, MN. Website: https://workatcoco.com/northeast-minneapolis/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coco-coworking-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coco-coworking-minneapolis.json",
+   "address": {
+    "streetAddress": "1400 Northeast Van Buren Street #200",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0024489,
+    "lon": -93.2489026
+   },
+   "website": "https://workatcoco.com/northeast-minneapolis/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3649298913",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "the-work-lounge-rogers",
+   "name": "The Work Lounge",
+   "summary": "The Work Lounge is a coworking space in Rogers, MN at 14165 James Road #106, Rogers, MN. Website: https://www.theworklounge-mn.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-work-lounge-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-work-lounge-rogers.json",
+   "address": {
+    "streetAddress": "14165 James Road #106",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2116504,
+    "lon": -93.5515989
+   },
+   "website": "https://www.theworklounge-mn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10724327873",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "kontor-cowork-eden-prairie",
+   "name": "Kontor Cowork",
+   "summary": "Kontor Cowork is a coworking space in Eden Prairie, MN.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kontor-cowork-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kontor-cowork-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8649753,
+    "lon": -93.4613855
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12021268029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "scout-workshop-minneapolis",
+   "name": "Scout Workshop",
+   "summary": "Scout Workshop is a coworking space in Minneapolis, MN.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scout-workshop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scout-workshop-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.952434,
+    "lon": -93.2883272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11374270585",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

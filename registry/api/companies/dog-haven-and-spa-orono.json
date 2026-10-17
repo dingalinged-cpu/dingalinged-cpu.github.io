@@ -1,0 +1,51 @@
+{
+ "slug": "dog-haven-and-spa-orono",
+ "name": "Dog Haven and Spa",
+ "categories": [
+  "dog groomer"
+ ],
+ "keywords": [
+  "dog groomer",
+  "dog groomer orono mn"
+ ],
+ "services": [
+  {
+   "name": "dog groomer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Orono",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Orono",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9348403,
+  "lon": -93.613575
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1309514496",
+ "osm": {
+  "type": "way",
+  "id": 1309514496,
+  "tags_used": {
+   "shop": "pet_grooming"
+  }
+ },
+ "municipality": "Orono",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dog-haven-and-spa-orono/",
+ "summary": "Dog Haven and Spa is a dog groomer in Orono, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

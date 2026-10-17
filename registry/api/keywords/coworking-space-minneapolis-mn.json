@@ -1,0 +1,289 @@
+{
+ "keyword": "coworking space minneapolis mn",
+ "slug": "coworking-space-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "coworking space",
+ "query": "Who are the best coworking space providers in Minneapolis, MN?",
+ "matches": [
+  "coworking space in Minneapolis, MN",
+  "coworking space near me (Minneapolis, MN)",
+  "best coworking space Minneapolis, MN",
+  "top rated coworking space Minneapolis, MN",
+  "affordable coworking space Minneapolis, MN",
+  "emergency coworking space Minneapolis, MN"
+ ],
+ "answer": "The top unpaid coworking space listing for Minneapolis, MN is Impact Hub (a coworking space in Minneapolis, MN at 825 Southeast Washington Avenue, Minneapolis, MN 55414. Phone: +16513182800. Website: https://minneapolis.impacthub.net/). 8 coworking space businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "impact-hub-minneapolis",
+   "name": "Impact Hub",
+   "summary": "Impact Hub is a coworking space in Minneapolis, MN at 825 Southeast Washington Avenue, Minneapolis, MN 55414. Phone: +16513182800. Website: https://minneapolis.impacthub.net/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/impact-hub-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/impact-hub-minneapolis.json",
+   "address": {
+    "streetAddress": "825 Southeast Washington Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.973756,
+    "lon": -93.2259469
+   },
+   "phone": "+16513182800",
+   "website": "https://minneapolis.impacthub.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6410412074",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "modernwell-minneapolis",
+   "name": "ModernWell",
+   "summary": "ModernWell is a coworking space in Minneapolis, MN at 2909 South Wayzata Boulevard, Minneapolis, MN 55405. Phone: +17639997920. Website: https://www.modernwell.co/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/modernwell-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/modernwell-minneapolis.json",
+   "address": {
+    "streetAddress": "2909 South Wayzata Boulevard",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9697593,
+    "lon": -93.3177204
+   },
+   "phone": "+17639997920",
+   "website": "https://www.modernwell.co/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92807812",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "hub44-minneapolis",
+   "name": "HUB44",
+   "summary": "HUB44 is a coworking space in Minneapolis, MN at 4406 Beard Avenue South, Minneapolis, MN 55410. Website: https://www.hub44lindenhills.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hub44-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hub44-minneapolis.json",
+   "address": {
+    "streetAddress": "4406 Beard Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9229179,
+    "lon": -93.3241767
+   },
+   "website": "https://www.hub44lindenhills.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12120870754",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "industrious-minneapolis",
+   "name": "Industrious",
+   "summary": "Industrious is a coworking space in Minneapolis, MN at 323 Washington Avenue North #200, Minneapolis, MN 55401. Website: https://www.industriousoffice.com/locations/323-washington-ave-n-suite-200.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/industrious-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/industrious-minneapolis.json",
+   "address": {
+    "streetAddress": "323 Washington Avenue North #200",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9840544,
+    "lon": -93.27484
+   },
+   "website": "https://www.industriousoffice.com/locations/323-washington-ave-n-suite-200",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13713067311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "new-rules-minneapolis",
+   "name": "New Rules",
+   "summary": "New Rules is a coworking space in Minneapolis, MN at 2015 North Lowry Avenue, Minneapolis, MN 55411. Website: https://www.newrulesmn.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-rules-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-rules-minneapolis.json",
+   "address": {
+    "streetAddress": "2015 North Lowry Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55411",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55411",
+   "geo": {
+    "lat": 45.0130597,
+    "lon": -93.3052822
+   },
+   "website": "https://www.newrulesmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/912609082",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "the-wilderness-minneapolis",
+   "name": "The Wilderness",
+   "summary": "The Wilderness is a coworking space in Minneapolis, MN at 1010 West Lake Street, Minneapolis, MN 55408. Website: https://www.thewildernessmn.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wilderness-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wilderness-minneapolis.json",
+   "address": {
+    "streetAddress": "1010 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9484996,
+    "lon": -93.2926288
+   },
+   "website": "https://www.thewildernessmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3406207605",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "coco-coworking-minneapolis",
+   "name": "Coco Coworking",
+   "summary": "Coco Coworking is a coworking space in Minneapolis, MN at 1400 Northeast Van Buren Street #200, Minneapolis, MN. Website: https://workatcoco.com/northeast-minneapolis/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coco-coworking-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coco-coworking-minneapolis.json",
+   "address": {
+    "streetAddress": "1400 Northeast Van Buren Street #200",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0024489,
+    "lon": -93.2489026
+   },
+   "website": "https://workatcoco.com/northeast-minneapolis/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3649298913",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "scout-workshop-minneapolis",
+   "name": "Scout Workshop",
+   "summary": "Scout Workshop is a coworking space in Minneapolis, MN.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scout-workshop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scout-workshop-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.952434,
+    "lon": -93.2883272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11374270585",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

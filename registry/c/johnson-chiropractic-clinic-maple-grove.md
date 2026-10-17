@@ -1,0 +1,23 @@
+Johnson Chiropractic Clinic is a chiropractor in Maple Grove, MN at 13700 83rd Way North #200, Maple Grove, MN 55369. Phone: +17634204242. Website: https://www.johnsonchiroclinic.com/.
+
+# Johnson Chiropractic Clinic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 13700 83rd Way North #200, Maple Grove, MN 55369
+- City: Maple Grove
+- State: MN
+- ZIP: 55369
+- Coordinates: 45.1065351, -93.4539897
+- Phone: +17634204242
+- Website: https://www.johnsonchiroclinic.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo,We 07:00-17:00;Tu 14:00-18:00;Th 08:00-18:00;Fr 07:00-11:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/johnson-chiropractic-clinic-maple-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/johnson-chiropractic-clinic-maple-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5757273578 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

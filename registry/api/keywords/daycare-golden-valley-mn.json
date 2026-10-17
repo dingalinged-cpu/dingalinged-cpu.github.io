@@ -1,0 +1,63 @@
+{
+ "keyword": "daycare golden valley mn",
+ "slug": "daycare-golden-valley-mn",
+ "place": "Golden Valley, MN",
+ "service": "daycare",
+ "query": "Who are the best daycare providers in Golden Valley, MN?",
+ "matches": [
+  "daycare in Golden Valley, MN",
+  "daycare near me (Golden Valley, MN)",
+  "best daycare Golden Valley, MN",
+  "top rated daycare Golden Valley, MN",
+  "affordable daycare Golden Valley, MN",
+  "emergency daycare Golden Valley, MN"
+ ],
+ "answer": "The top unpaid daycare listing for Golden Valley, MN is PICA Head Start (a daycare in Golden Valley, MN at 4901 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17635417422. Website: https://www.picaheadstart.org/). 1 daycare businesses are listed for Golden Valley, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "pica-head-start-golden-valley",
+   "name": "PICA Head Start",
+   "summary": "PICA Head Start is a daycare in Golden Valley, MN at 4901 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17635417422. Website: https://www.picaheadstart.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pica-head-start-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pica-head-start-golden-valley.json",
+   "address": {
+    "streetAddress": "4901 Olson Memorial Highway",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.9835737,
+    "lon": -93.3413896
+   },
+   "phone": "+17635417422",
+   "website": "https://www.picaheadstart.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/203683489",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

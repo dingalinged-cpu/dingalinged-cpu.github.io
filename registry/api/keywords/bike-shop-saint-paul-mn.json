@@ -1,0 +1,343 @@
+{
+ "keyword": "bike shop saint paul mn",
+ "slug": "bike-shop-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "bike shop",
+ "query": "Who are the best bike shop providers in Saint Paul, MN?",
+ "matches": [
+  "bike shop in Saint Paul, MN",
+  "bike shop near me (Saint Paul, MN)",
+  "best bike shop Saint Paul, MN",
+  "top rated bike shop Saint Paul, MN",
+  "affordable bike shop Saint Paul, MN",
+  "emergency bike shop Saint Paul, MN"
+ ],
+ "answer": "The top unpaid bike shop listing for Saint Paul, MN is CapD Bike Shop (a bike shop in Saint Paul, MN at 710 Smith Avenue South, Saint Paul, MN 55107. Phone: +16512228380. Website: https://capdbikeshop.com/). 9 bike shop businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "capd-bike-shop-saint-paul",
+   "name": "CapD Bike Shop",
+   "summary": "CapD Bike Shop is a bike shop in Saint Paul, MN at 710 Smith Avenue South, Saint Paul, MN 55107. Phone: +16512228380. Website: https://capdbikeshop.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/capd-bike-shop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/capd-bike-shop-saint-paul.json",
+   "address": {
+    "streetAddress": "710 Smith Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55107",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55107",
+   "geo": {
+    "lat": 44.9245376,
+    "lon": -93.1016505
+   },
+   "phone": "+16512228380",
+   "website": "https://capdbikeshop.com/",
+   "opening_hours": "Mo-Sa 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3157350156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "eriks-bike-shop-saint-paul",
+   "name": "Erik's Bike Shop",
+   "summary": "Erik's Bike Shop is a bike shop in Saint Paul, MN at 2191 Ford Parkway, Saint Paul, MN 55116. Phone: +16516994679. Website: https://www.eriksbikeshop.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eriks-bike-shop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eriks-bike-shop-saint-paul.json",
+   "address": {
+    "streetAddress": "2191 Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9182061,
+    "lon": -93.1931994
+   },
+   "phone": "+16516994679",
+   "website": "https://www.eriksbikeshop.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/54183648",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "express-bike-shop-saint-paul",
+   "name": "Express Bike Shop",
+   "summary": "Express Bike Shop is a bike shop in Saint Paul, MN at 1158 Selby Avenue, Saint Paul, MN 55104. Phone: +16516449660. Website: https://www.exbike.com/home/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-bike-shop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-bike-shop-saint-paul.json",
+   "address": {
+    "streetAddress": "1158 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.946501,
+    "lon": -93.149013
+   },
+   "phone": "+16516449660",
+   "website": "https://www.exbike.com/home/",
+   "opening_hours": "We-Fr 13:00-18:00; Sa 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3122948650",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "freewheel-bike-saint-paul",
+   "name": "Freewheel Bike",
+   "summary": "Freewheel Bike is a bike shop in Saint Paul, MN at 799 Grand Avenue, Saint Paul, MN 55105. Phone: +16515059091. Website: https://www.freewheelbike.com/about/saint-paul-pg1194.htm.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freewheel-bike-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freewheel-bike-saint-paul.json",
+   "address": {
+    "streetAddress": "799 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9401221,
+    "lon": -93.1336821
+   },
+   "phone": "+16515059091",
+   "website": "https://www.freewheelbike.com/about/saint-paul-pg1194.htm",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1000471055",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "grand-performance-saint-paul",
+   "name": "Grand Performance",
+   "summary": "Grand Performance is a bike shop in Saint Paul, MN at 1938 Grand Avenue, Saint Paul, MN 55105. Phone: +16516992640. Website: https://www.gpbicycles.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-performance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-performance-saint-paul.json",
+   "address": {
+    "streetAddress": "1938 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398771,
+    "lon": -93.1821382
+   },
+   "phone": "+16516992640",
+   "website": "https://www.gpbicycles.com/",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/172673837",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "lowertown-bike-shop-lower-town-bike-shop-coffee-station-saint-paul",
+   "name": "Lowertown Bike Shop;Lower Town Bike Shop Coffee Station",
+   "summary": "Lowertown Bike Shop;Lower Town Bike Shop Coffee Station is a bike shop in Saint Paul, MN at 214 East 4th Street #120, Saint Paul, MN 55101. Phone: +16512220775. Website: https://www.lowertownbikeshop.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lowertown-bike-shop-lower-town-bike-shop-coffee-station-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lowertown-bike-shop-lower-town-bike-shop-coffee-station-saint-paul.json",
+   "address": {
+    "streetAddress": "214 East 4th Street #120",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9475879,
+    "lon": -93.0868107
+   },
+   "phone": "+16512220775",
+   "website": "https://www.lowertownbikeshop.com/",
+   "opening_hours": "Mo,Su off;Tu-Fr 13:00-19:00;Sa 10:00-18:00;Mo 08:00-13:00;Tu-Fr 08:00-21:00;Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619345883",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "mr-michael-recycles-bicycles-saint-paul",
+   "name": "Mr. Michael Recycles Bicycles",
+   "summary": "Mr. Michael Recycles Bicycles is a bike shop in Saint Paul, MN at 520 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516411037. Website: https://mmrbstore.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mr-michael-recycles-bicycles-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mr-michael-recycles-bicycles-saint-paul.json",
+   "address": {
+    "streetAddress": "520 North Prior Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9568396,
+    "lon": -93.1821682
+   },
+   "phone": "+16516411037",
+   "website": "https://mmrbstore.com/",
+   "opening_hours": "Tu,Th 17:00-20:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196597416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "now-bikes-and-fitness-saint-paul",
+   "name": "Now Bikes & Fitness",
+   "summary": "Now Bikes & Fitness is a bike shop in Saint Paul, MN at 75 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516442354. Website: https://www.nowbikes-fitness.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/now-bikes-and-fitness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/now-bikes-and-fitness-saint-paul.json",
+   "address": {
+    "streetAddress": "75 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9436964,
+    "lon": -93.1673923
+   },
+   "phone": "+16516442354",
+   "website": "https://www.nowbikes-fitness.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1419797444",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "the-cargo-bike-shop-saint-paul",
+   "name": "The Cargo Bike Shop",
+   "summary": "The Cargo Bike Shop is a bike shop in Saint Paul, MN at 1592 Selby Avenue, Saint Paul, MN 55104. Phone: +16082475847. Website: https://www.thecargobikeshop.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-cargo-bike-shop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-cargo-bike-shop-saint-paul.json",
+   "address": {
+    "streetAddress": "1592 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9463993,
+    "lon": -93.1677174
+   },
+   "phone": "+16082475847",
+   "website": "https://www.thecargobikeshop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/170151056",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

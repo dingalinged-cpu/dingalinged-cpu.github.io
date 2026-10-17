@@ -1,0 +1,58 @@
+{
+ "slug": "gentlemen-cuts-barbershop-saint-paul",
+ "name": "Gentlemen Cuts Barbershop",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon saint paul mn",
+  "haircut saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "913B Payne Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9689378,
+  "lon": -93.0738359
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/605344810",
+ "osm": {
+  "type": "way",
+  "id": 605344810,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/gentlemen-cuts-barbershop-saint-paul/",
+ "summary": "Gentlemen Cuts Barbershop is a hair salon in Saint Paul, MN at 913B Payne Avenue, Saint Paul, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

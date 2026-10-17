@@ -1,0 +1,52 @@
+{
+ "slug": "posh-spa-minneapolis",
+ "name": "Posh Spa",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9248296,
+  "lon": -93.2910113
+ },
+ "phone": "+16123152267",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6359447309",
+ "osm": {
+  "type": "node",
+  "id": 6359447309,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/posh-spa-minneapolis/",
+ "summary": "Posh Spa is a massage studio in Minneapolis, MN. Phone: +16123152267.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

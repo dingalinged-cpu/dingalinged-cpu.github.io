@@ -1,0 +1,53 @@
+{
+ "slug": "chicago-furniture-bloomington",
+ "name": "Chicago Furniture",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store bloomington mn"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "258 South Avenue",
+  "addressLocality": "Bloomington",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Bloomington",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8536407,
+  "lon": -93.243488
+ },
+ "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13724119935",
+ "osm": {
+  "type": "node",
+  "id": 13724119935,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Bloomington",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chicago-furniture-bloomington/",
+ "summary": "Chicago Furniture is a furniture store in Bloomington, MN at 258 South Avenue, Bloomington, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "the-hair-shoppe-west-saint-paul",
+ "name": "The Hair Shoppe",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon west saint paul mn",
+  "haircut west saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "West Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "West Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.918166,
+  "lon": -93.1019295
+ },
+ "phone": "+16514579308",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7499470396",
+ "osm": {
+  "type": "node",
+  "id": 7499470396,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "West Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-hair-shoppe-west-saint-paul/",
+ "summary": "The Hair Shoppe is a hair salon in West Saint Paul, MN. Phone: +16514579308.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

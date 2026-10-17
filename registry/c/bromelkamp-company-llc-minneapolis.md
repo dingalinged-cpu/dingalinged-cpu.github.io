@@ -1,0 +1,23 @@
+Bromelkamp Company LLC is an IT support company in Minneapolis, MN at 106 East 24th Street, Minneapolis, MN 55404. Phone: +16127676701. Website: https://www.bromelkamp.com/.
+
+# Bromelkamp Company LLC
+
+- Category: it support
+- Services: it support
+- Address: 106 East 24th Street, Minneapolis, MN 55404
+- City: Minneapolis
+- State: MN
+- ZIP: 55404
+- Coordinates: 44.9593975, -93.2762985
+- Phone: +16127676701
+- Website: https://www.bromelkamp.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bromelkamp-company-llc-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bromelkamp-company-llc-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4630862010 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

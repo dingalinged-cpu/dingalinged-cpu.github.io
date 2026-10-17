@@ -1,0 +1,61 @@
+{
+ "slug": "matts-automotive-service-center-columbia-heights",
+ "name": "Matt's Automotive Service Center",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair columbia heights mn",
+  "mechanic columbia heights mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4501 Central Avenue Northeast",
+  "addressLocality": "Columbia Heights",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Columbia Heights",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0503499,
+  "lon": -93.2469509
+ },
+ "phone": "+17635715616",
+ "website": "https://mattsautoservicecenter.com/columbia-heights/",
+ "opening_hours": "Mo-Th 08:00-17:30; Fr 08:00-12:00",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13115445176",
+ "osm": {
+  "type": "node",
+  "id": 13115445176,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Columbia Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/matts-automotive-service-center-columbia-heights/",
+ "summary": "Matt's Automotive Service Center is an auto repair shop in Columbia Heights, MN at 4501 Central Avenue Northeast, Columbia Heights, MN. Phone: +17635715616. Website: https://mattsautoservicecenter.com/columbia-heights/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

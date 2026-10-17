@@ -1,0 +1,57 @@
+{
+ "slug": "everhart-law-new-brighton",
+ "name": "Everhart Law",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer new brighton mn",
+  "attorney new brighton mn"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "New Brighton",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "New Brighton",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0586797,
+  "lon": -93.1933154
+ },
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7360557229",
+ "osm": {
+  "type": "node",
+  "id": 7360557229,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "New Brighton",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/everhart-law-new-brighton/",
+ "summary": "Everhart Law is a lawyer in New Brighton, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

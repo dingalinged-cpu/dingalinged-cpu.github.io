@@ -1,0 +1,95 @@
+{
+ "keyword": "dentist brooklyn center mn",
+ "slug": "dentist-brooklyn-center-mn",
+ "place": "Brooklyn Center, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Brooklyn Center, MN?",
+ "matches": [
+  "dentist in Brooklyn Center, MN",
+  "dentist near me (Brooklyn Center, MN)",
+  "best dentist Brooklyn Center, MN",
+  "top rated dentist Brooklyn Center, MN",
+  "affordable dentist Brooklyn Center, MN",
+  "emergency dentist Brooklyn Center, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Brooklyn Center, MN is Brooklyn Blvd. Dental (a dentist in Brooklyn Center, MN at 5831 Brooklyn Boulevard, Brooklyn Center, MN 55429. Phone: +17635338669. Website: https://brooklynblvddental.com/). 2 dentist businesses are listed for Brooklyn Center, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "brooklyn-blvd-dental-brooklyn-center",
+   "name": "Brooklyn Blvd. Dental",
+   "summary": "Brooklyn Blvd. Dental is a dentist in Brooklyn Center, MN at 5831 Brooklyn Boulevard, Brooklyn Center, MN 55429. Phone: +17635338669. Website: https://brooklynblvddental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brooklyn-blvd-dental-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brooklyn-blvd-dental-brooklyn-center.json",
+   "address": {
+    "streetAddress": "5831 Brooklyn Boulevard",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55429",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55429",
+   "geo": {
+    "lat": 45.0614191,
+    "lon": -93.3256555
+   },
+   "phone": "+17635338669",
+   "website": "https://brooklynblvddental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1039199196",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "park-dental-brookpark-brooklyn-center",
+   "name": "Park Dental Brookpark",
+   "summary": "Park Dental Brookpark is a dentist in Brooklyn Center, MN at 6437 Brooklyn Boulevard, Brooklyn Center, MN. Phone: +17635317177. Website: https://www.parkdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-dental-brookpark-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-dental-brookpark-brooklyn-center.json",
+   "address": {
+    "streetAddress": "6437 Brooklyn Boulevard",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0718108,
+    "lon": -93.3300046
+   },
+   "phone": "+17635317177",
+   "website": "https://www.parkdental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10134443644",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

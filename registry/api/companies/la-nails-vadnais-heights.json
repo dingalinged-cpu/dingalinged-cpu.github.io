@@ -1,0 +1,55 @@
+{
+ "slug": "la-nails-vadnais-heights",
+ "name": "LA Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon vadnais heights mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1034 Highway 96",
+  "addressLocality": "Vadnais Heights",
+  "addressRegion": "MN",
+  "postalCode": "55127",
+  "addressCountry": "US"
+ },
+ "city": "Vadnais Heights",
+ "state": "MN",
+ "zip": "55127",
+ "geo": {
+  "lat": 45.0780794,
+  "lon": -93.0572033
+ },
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1137118403",
+ "osm": {
+  "type": "way",
+  "id": 1137118403,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Vadnais Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/la-nails-vadnais-heights/",
+ "summary": "LA Nails is a nail salon in Vadnais Heights, MN at 1034 Highway 96, Vadnais Heights, MN 55127.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,131 @@
+{
+ "keyword": "thrift store maple grove mn",
+ "slug": "thrift-store-maple-grove-mn",
+ "place": "Maple Grove, MN",
+ "service": "thrift store",
+ "query": "Who are the best thrift store providers in Maple Grove, MN?",
+ "matches": [
+  "thrift store in Maple Grove, MN",
+  "thrift store near me (Maple Grove, MN)",
+  "best thrift store Maple Grove, MN",
+  "top rated thrift store Maple Grove, MN",
+  "affordable thrift store Maple Grove, MN",
+  "emergency thrift store Maple Grove, MN"
+ ],
+ "answer": "The top unpaid thrift store listing for Maple Grove, MN is Goodwill (a thrift store in Maple Grove, MN at 13605 80th Circle North, Maple Grove, MN 55369. Phone: +17634163681. Website: https://www.goodwilleasterseals.org/). 3 thrift store businesses are listed for Maple Grove, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "goodwill-maple-grove-w612725532",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Maple Grove, MN at 13605 80th Circle North, Maple Grove, MN 55369. Phone: +17634163681. Website: https://www.goodwilleasterseals.org/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-maple-grove-w612725532/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-maple-grove-w612725532.json",
+   "address": {
+    "streetAddress": "13605 80th Circle North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1008292,
+    "lon": -93.4541498
+   },
+   "phone": "+17634163681",
+   "website": "https://www.goodwilleasterseals.org/",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/612725532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "turnstyle-maple-grove",
+   "name": "TurnStyle",
+   "summary": "TurnStyle is a thrift store in Maple Grove, MN at 13744 83rd Way North, Maple Grove, MN 55369. Phone: +17634202864. Website: https://www.turnstyleconsign.com/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/turnstyle-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/turnstyle-maple-grove.json",
+   "address": {
+    "streetAddress": "13744 83rd Way North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1063068,
+    "lon": -93.4550703
+   },
+   "phone": "+17634202864",
+   "website": "https://www.turnstyleconsign.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/607496674",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "goodwill-maple-grove",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Maple Grove, MN at 9530 Dunkirk Lane North, Maple Grove, MN 55311.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-maple-grove.json",
+   "address": {
+    "streetAddress": "9530 Dunkirk Lane North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.127543,
+    "lon": -93.4912609
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7098674059",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+PropertyKey is an IT support company in Saint Paul, MN at 662 662 Transfer Road, Saint Paul, MN 55114. Phone: +16516599232. Website: https://www.propertykey.com/.
+
+# PropertyKey
+
+- Category: it support
+- Services: it support
+- Address: 662 662 Transfer Road, Saint Paul, MN 55114
+- City: Saint Paul
+- State: MN
+- ZIP: 55114
+- Coordinates: 44.9609624, -93.1856784
+- Phone: +16516599232
+- Website: https://www.propertykey.com/
+- Email: info@propertykey.cpm
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa off; Su off; PH off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/propertykey-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/propertykey-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11863401141 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

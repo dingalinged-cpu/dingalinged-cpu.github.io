@@ -1,0 +1,87 @@
+{
+ "keyword": "printing services minnetonka mn",
+ "slug": "printing-services-minnetonka-mn",
+ "place": "Minnetonka, MN",
+ "service": "printing services",
+ "query": "Who are the best printing services providers in Minnetonka, MN?",
+ "matches": [
+  "printing services in Minnetonka, MN",
+  "printing services near me (Minnetonka, MN)",
+  "best printing services Minnetonka, MN",
+  "top rated printing services Minnetonka, MN",
+  "affordable printing services Minnetonka, MN",
+  "emergency printing services Minnetonka, MN"
+ ],
+ "answer": "The top unpaid printing services listing for Minnetonka, MN is FedEx Office (a printing service in Minnetonka, MN). 2 printing services businesses are listed for Minnetonka, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "fedex-office-minnetonka",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Minnetonka, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8951753,
+    "lon": -93.4197535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/662733596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "the-ups-store-minnetonka",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Minnetonka, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9180175,
+    "lon": -93.5016981
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487973",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

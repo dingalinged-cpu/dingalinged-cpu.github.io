@@ -1,0 +1,547 @@
+{
+ "keyword": "gift shop saint paul mn",
+ "slug": "gift-shop-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "gift shop",
+ "query": "Who are the best gift shop providers in Saint Paul, MN?",
+ "matches": [
+  "gift shop in Saint Paul, MN",
+  "gift shop near me (Saint Paul, MN)",
+  "best gift shop Saint Paul, MN",
+  "top rated gift shop Saint Paul, MN",
+  "affordable gift shop Saint Paul, MN",
+  "emergency gift shop Saint Paul, MN"
+ ],
+ "answer": "The top unpaid gift shop listing for Saint Paul, MN is boreal (a gift shop in Saint Paul, MN at 2276 Como Avenue, Saint Paul, MN 55108. Phone: +16515609900. Website: https://boreal.life/). 16 gift shop businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "boreal-saint-paul",
+   "name": "boreal",
+   "summary": "boreal is a gift shop in Saint Paul, MN at 2276 Como Avenue, Saint Paul, MN 55108. Phone: +16515609900. Website: https://boreal.life/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boreal-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boreal-saint-paul.json",
+   "address": {
+    "streetAddress": "2276 Como Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9816184,
+    "lon": -93.1952415
+   },
+   "phone": "+16515609900",
+   "website": "https://boreal.life/",
+   "opening_hours": "Mo-Sa 10:00-17:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/157489498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "gypsy-moon-saint-paul",
+   "name": "Gypsy Moon",
+   "summary": "Gypsy Moon is a gift shop in Saint Paul, MN at 1887 Randolph Avenue, Saint Paul, MN 55105. Phone: +16516999531. Website: https://gypsymoonstpaul.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gypsy-moon-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gypsy-moon-saint-paul.json",
+   "address": {
+    "streetAddress": "1887 Randolph Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9272366,
+    "lon": -93.1800852
+   },
+   "phone": "+16516999531",
+   "website": "https://gypsymoonstpaul.com/",
+   "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/143180119",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "goodthings-saint-paul",
+   "name": "GoodThings",
+   "summary": "GoodThings is a gift shop in Saint Paul, MN at 1082 Grand Avenue, Saint Paul, MN 55105. Phone: +16512220321. Website: https://shopgoodthings.com/bibelot-goodthings-grand-avenue/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodthings-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodthings-saint-paul.json",
+   "address": {
+    "streetAddress": "1082 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.939893,
+    "lon": -93.1459642
+   },
+   "phone": "+16512220321",
+   "website": "https://shopgoodthings.com/bibelot-goodthings-grand-avenue/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3990995076",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "i-like-you-too-saint-paul",
+   "name": "I like you too",
+   "summary": "I like you too is a gift shop in Saint Paul, MN at 416 Snelling Avenue South, Saint Paul, MN 55105. Phone: +16513409710. Website: https://i-like-you-minneapolis.myshopify.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-like-you-too-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-like-you-too-saint-paul.json",
+   "address": {
+    "streetAddress": "416 Snelling Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9290109,
+    "lon": -93.1668006
+   },
+   "phone": "+16513409710",
+   "website": "https://i-like-you-minneapolis.myshopify.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13037788172",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "legacy-art-and-gifts-saint-paul",
+   "name": "Legacy Art & Gifts",
+   "summary": "Legacy Art & Gifts is a gift shop in Saint Paul, MN at 1209 Grand Avenue, Saint Paul, MN 55105. Phone: +16512219094. Website: https://www.legacyartandgifts.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/legacy-art-and-gifts-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/legacy-art-and-gifts-saint-paul.json",
+   "address": {
+    "streetAddress": "1209 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9402621,
+    "lon": -93.1511497
+   },
+   "phone": "+16512219094",
+   "website": "https://www.legacyartandgifts.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920602089",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "thistle-saint-paul",
+   "name": "Thistle",
+   "summary": "Thistle is a gift shop in Saint Paul, MN at 2228 Carter Avenue #Apartment 4, Saint Paul, MN 55108. Phone: +17634648470. Website: https://www.thistlemiltonsquare.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thistle-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thistle-saint-paul.json",
+   "address": {
+    "streetAddress": "2228 Carter Avenue #Apartment 4",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.981176,
+    "lon": -93.194922
+   },
+   "phone": "+17634648470",
+   "website": "https://www.thistlemiltonsquare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267238512",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "larissa-loden-saint-paul",
+   "name": "Larissa Loden",
+   "summary": "Larissa Loden is a gift shop in Saint Paul, MN at 2032 Marshall Avenue, Saint Paul, MN 55104. Phone: +16128869134.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/larissa-loden-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/larissa-loden-saint-paul.json",
+   "address": {
+    "streetAddress": "2032 Marshall Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9482206,
+    "lon": -93.1861977
+   },
+   "phone": "+16128869134",
+   "opening_hours": "Mo-Sa 11:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11360612740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "patina-saint-paul",
+   "name": "Patina",
+   "summary": "Patina is a gift shop in Saint Paul, MN at 1581 Selby Avenue, Saint Paul, MN 55104. Website: https://patinastores.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patina-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patina-saint-paul.json",
+   "address": {
+    "streetAddress": "1581 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9467118,
+    "lon": -93.1672497
+   },
+   "website": "https://patinastores.com/",
+   "opening_hours": "Mo-Sa 09:30-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/600583817",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "lama-bazaar-saint-paul",
+   "name": "Lama Bazaar",
+   "summary": "Lama Bazaar is a gift shop in Saint Paul, MN at 1144 Grand Avenue, Saint Paul, MN 55105. Phone: +16128043690.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lama-bazaar-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lama-bazaar-saint-paul.json",
+   "address": {
+    "streetAddress": "1144 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9397678,
+    "lon": -93.1484272
+   },
+   "phone": "+16128043690",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/79236588",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "blue-hummingbird-woman-indigenous-gift-shop-saint-paul",
+   "name": "Blue Hummingbird Woman Indigenous Gift Shop",
+   "summary": "Blue Hummingbird Woman Indigenous Gift Shop is a gift shop in Saint Paul, MN at 30 7th Street East, Saint Paul, MN 55101.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-hummingbird-woman-indigenous-gift-shop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-hummingbird-woman-indigenous-gift-shop-saint-paul.json",
+   "address": {
+    "streetAddress": "30 7th Street East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9478245,
+    "lon": -93.0948771
+   },
+   "opening_hours": "Saturday\tClosed Sunday\tClosed Monday\t10:30 AM–2 PM Tuesday\t10:30 AM–2 PM Wednesday\t10:30 AM–2 PM Thursday\t10:30 AM–1 PM Friday\tClosed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13760239137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "stormcloud-trading-saint-paul",
+   "name": "Stormcloud Trading",
+   "summary": "Stormcloud Trading is a gift shop in Saint Paul, MN at 725 Snelling Avenue, Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stormcloud-trading-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stormcloud-trading-saint-paul.json",
+   "address": {
+    "streetAddress": "725 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9631359,
+    "lon": -93.1672991
+   },
+   "opening_hours": "Mo-Fr 10:00-17:45; Sa 10:00-16:45",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9190490291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "dgpilot-saint-paul",
+   "name": "DGPilot",
+   "summary": "DGPilot is a gift shop in Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dgpilot-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dgpilot-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9476512,
+    "lon": -93.0859655
+   },
+   "opening_hours": "We-Sa 11:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3649475711",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "patina-saint-paul-n660909467",
+   "name": "Patina",
+   "summary": "Patina is a gift shop in Saint Paul, MN at 2057 Ford Parkway, Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patina-saint-paul-n660909467/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patina-saint-paul-n660909467.json",
+   "address": {
+    "streetAddress": "2057 Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9180794,
+    "lon": -93.1871872
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/660909467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "fantasy-gifts-saint-paul",
+   "name": "Fantasy Gifts",
+   "summary": "Fantasy Gifts is a gift shop in Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantasy-gifts-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantasy-gifts-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9532839,
+    "lon": -93.0849346
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2846187004",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "glacier-gifts-saint-paul",
+   "name": "Glacier Gifts",
+   "summary": "Glacier Gifts is a gift shop in Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glacier-gifts-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glacier-gifts-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9828925,
+    "lon": -93.153479
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/996593853",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "your-turn-saint-paul",
+   "name": "Your Turn",
+   "summary": "Your Turn is a gift shop in Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/your-turn-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/your-turn-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9532003,
+    "lon": -93.0850928
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2846187012",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

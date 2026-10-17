@@ -1,0 +1,64 @@
+{
+ "keyword": "storage units oakdale mn",
+ "slug": "storage-units-oakdale-mn",
+ "place": "Oakdale, MN",
+ "service": "storage units",
+ "query": "Who are the best storage units providers in Oakdale, MN?",
+ "matches": [
+  "storage units in Oakdale, MN",
+  "storage units near me (Oakdale, MN)",
+  "best storage units Oakdale, MN",
+  "top rated storage units Oakdale, MN",
+  "affordable storage units Oakdale, MN",
+  "emergency storage units Oakdale, MN"
+ ],
+ "answer": "The top unpaid storage units listing for Oakdale, MN is Stephen's Self-Storage (a self-storage facility in Oakdale, MN at 5698 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517773122. Website: https://stephensself-storage.com/). 1 storage units businesses are listed for Oakdale, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "stephens-self-storage-oakdale",
+   "name": "Stephen's Self-Storage",
+   "summary": "Stephen's Self-Storage is a self-storage facility in Oakdale, MN at 5698 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517773122. Website: https://stephensself-storage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stephens-self-storage-oakdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stephens-self-storage-oakdale.json",
+   "address": {
+    "streetAddress": "5698 Hadley Avenue North",
+    "addressLocality": "Oakdale",
+    "addressRegion": "MN",
+    "postalCode": "55128",
+    "addressCountry": "US"
+   },
+   "city": "Oakdale",
+   "state": "MN",
+   "zip": "55128",
+   "geo": {
+    "lat": 45.0309538,
+    "lon": -92.9833369
+   },
+   "phone": "+16517773122",
+   "website": "https://stephensself-storage.com/",
+   "opening_hours": "Mo-We 09:30-13:00; Th-Fr 09:30-14:00; Sa 08:30-14:00; Su 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6636466353",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

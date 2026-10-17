@@ -1,0 +1,162 @@
+{
+ "keyword": "gym white bear lake mn",
+ "slug": "gym-white-bear-lake-mn",
+ "place": "White Bear Lake, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in White Bear Lake, MN?",
+ "matches": [
+  "gym in White Bear Lake, MN",
+  "gym near me (White Bear Lake, MN)",
+  "best gym White Bear Lake, MN",
+  "top rated gym White Bear Lake, MN",
+  "affordable gym White Bear Lake, MN",
+  "emergency gym White Bear Lake, MN"
+ ],
+ "answer": "The top unpaid gym listing for White Bear Lake, MN is Life Time (a gym in White Bear Lake, MN at 4800 White Bear Parkway, White Bear Lake, MN 55110. Phone: +16514261308. Website: https://www.lifetime.life/life-time-locations/mn-white-bear-lake.html). 4 gym businesses are listed for White Bear Lake, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "life-time-white-bear-lake",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in White Bear Lake, MN at 4800 White Bear Parkway, White Bear Lake, MN 55110. Phone: +16514261308. Website: https://www.lifetime.life/life-time-locations/mn-white-bear-lake.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-white-bear-lake.json",
+   "address": {
+    "streetAddress": "4800 White Bear Parkway",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.0836521,
+    "lon": -93.0471483
+   },
+   "phone": "+16514261308",
+   "website": "https://www.lifetime.life/life-time-locations/mn-white-bear-lake.html",
+   "opening_hours": "Sa-Su 06:00-23:00; Mo-Fr 05:00-23:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317407471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "anytime-fitness-white-bear-lake",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in White Bear Lake, MN at 4600 Centerville Road, White Bear Lake, MN 55127. Phone: +16513300367. Website: https://www.anytimefitness.com/gyms/3305/white-bear-lake-mn-55127/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-white-bear-lake.json",
+   "address": {
+    "streetAddress": "4600 Centerville Road",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55127",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55127",
+   "geo": {
+    "lat": 45.0808096,
+    "lon": -93.0547419
+   },
+   "phone": "+16513300367",
+   "website": "https://www.anytimefitness.com/gyms/3305/white-bear-lake-mn-55127/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11461725870",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "planet-fitness-white-bear-lake",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in White Bear Lake, MN at 1930 Buerkle Road, White Bear Lake, MN 55110. Phone: +16514448218. Website: https://www.planetfitness.com/gyms/white-bear-lake-mn.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-white-bear-lake.json",
+   "address": {
+    "streetAddress": "1930 Buerkle Road",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.0382924,
+    "lon": -93.0207958
+   },
+   "phone": "+16514448218",
+   "website": "https://www.planetfitness.com/gyms/white-bear-lake-mn",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/479636100",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "anytime-fitness-white-bear-lake-n12597078935",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in White Bear Lake, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-white-bear-lake-n12597078935/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-white-bear-lake-n12597078935.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0513474,
+    "lon": -92.987184
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597078935",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

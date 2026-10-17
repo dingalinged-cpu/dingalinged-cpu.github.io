@@ -1,0 +1,53 @@
+{
+ "slug": "altr-edina",
+ "name": "ALTR",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym edina mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9124263,
+  "lon": -93.3302109
+ },
+ "website": "https://www.altrfit.com/",
+ "opening_hours": "Mo-Th 05:00-19:00; Fr 05:00-18:00; Sa 07:00-12:00; Su 07:00-11:00",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12138867385",
+ "osm": {
+  "type": "node",
+  "id": 12138867385,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/altr-edina/",
+ "summary": "ALTR is a gym in Edina, MN. Website: https://www.altrfit.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

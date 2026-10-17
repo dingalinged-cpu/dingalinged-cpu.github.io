@@ -1,0 +1,23 @@
+Greenway Liquor is a liquor store in Minneapolis, MN at 105 West Grant Street, Minneapolis, MN 55403.
+
+# Greenway Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: 105 West Grant Street, Minneapolis, MN 55403
+- City: Minneapolis
+- State: MN
+- ZIP: 55403
+- Coordinates: 44.9694888, -93.2798724
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/greenway-liquor-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/greenway-liquor-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1284960758 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

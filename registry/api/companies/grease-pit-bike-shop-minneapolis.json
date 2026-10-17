@@ -1,0 +1,56 @@
+{
+ "slug": "grease-pit-bike-shop-minneapolis",
+ "name": "Grease Pit Bike Shop",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2750 Bloomington Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55407",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55407",
+ "geo": {
+  "lat": 44.9521346,
+  "lon": -93.2530234
+ },
+ "website": "https://www.instagram.com/greasepitbikeshop/?hl=en",
+ "opening_hours": "We-Th 18:00-21:00; Sa-Su 15:00-18:00",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2013202817",
+ "osm": {
+  "type": "node",
+  "id": 2013202817,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/grease-pit-bike-shop-minneapolis/",
+ "summary": "Grease Pit Bike Shop is a bike shop in Minneapolis, MN at 2750 Bloomington Avenue South, Minneapolis, MN 55407. Website: https://www.instagram.com/greasepitbikeshop/?hl=en.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

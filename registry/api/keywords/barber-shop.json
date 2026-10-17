@@ -1,0 +1,1391 @@
+{
+ "keyword": "barber shop",
+ "slug": "barber-shop",
+ "place": "the United States",
+ "service": "barber shop",
+ "query": "Who are the best barber shop providers in the United States?",
+ "matches": [
+  "barber shop in the United States",
+  "barber shop near me (the United States)",
+  "best barber shop the United States",
+  "top rated barber shop the United States",
+  "affordable barber shop the United States",
+  "emergency barber shop the United States"
+ ],
+ "answer": "The top unpaid barber shop listing for the United States is 1 Brett Petersen @225 barbers (a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/). 43 barber shop businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "1-brett-petersen-225-barbers-minneapolis",
+   "name": "1 Brett Petersen @225 barbers",
+   "summary": "1 Brett Petersen @225 barbers is a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1-brett-petersen-225-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1-brett-petersen-225-barbers-minneapolis.json",
+   "address": {
+    "streetAddress": "225 South 6th Street #280",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55402",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55402",
+   "geo": {
+    "lat": 44.9758748,
+    "lon": -93.2681639
+   },
+   "phone": "+16122819084",
+   "website": "https://brett-petersen.square.site/",
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13374666409",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "blendz-barbershop-saint-paul",
+   "name": "Blendz Barbershop",
+   "summary": "Blendz Barbershop is a barber shop in Saint Paul, MN at 741 University Avenue #2, Saint Paul, MN 55104. Phone: +16513302469. Website: https://www.facebook.com/p/Blendz-Barbershop-Mn-100063960067000/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blendz-barbershop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blendz-barbershop-saint-paul.json",
+   "address": {
+    "streetAddress": "741 University Avenue #2",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9560143,
+    "lon": -93.1316954
+   },
+   "phone": "+16513302469",
+   "website": "https://www.facebook.com/p/Blendz-Barbershop-Mn-100063960067000/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 9:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13151759524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "dicks-sports-barbers-edina",
+   "name": "Dick's Sports Barbers",
+   "summary": "Dick's Sports Barbers is a barber shop in Edina, MN at 4404 France Avenue South, Edina, MN 55410. Phone: +19529266924. Website: https://www.dicksbarbers.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dicks-sports-barbers-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dicks-sports-barbers-edina.json",
+   "address": {
+    "streetAddress": "4404 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9221989,
+    "lon": -93.3292522
+   },
+   "phone": "+19529266924",
+   "website": "https://www.dicksbarbers.com/",
+   "opening_hours": "Mo 07:00-19:00; Tu-Th 08:00-19:00; Fr 07:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3936832222",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "freshly-cut-barbers-minneapolis",
+   "name": "Freshly Cut Barbers",
+   "summary": "Freshly Cut Barbers is a barber shop in Minneapolis, MN at 4555 34th Avenue South, Minneapolis, MN 55406. Phone: +16127244677. Website: https://freshlycutbarbers.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freshly-cut-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freshly-cut-barbers-minneapolis.json",
+   "address": {
+    "streetAddress": "4555 34th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9199651,
+    "lon": -93.2227947
+   },
+   "phone": "+16127244677",
+   "website": "https://freshlycutbarbers.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12239156859",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "gifted-barbershop-bloomington",
+   "name": "Gifted Barbershop",
+   "summary": "Gifted Barbershop is a barber shop in Bloomington, MN at 7700 West Old Shakopee Road #210, Bloomington, MN 55438. Phone: +19525824817. Website: https://www.giftedbarbershop.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gifted-barbershop-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gifted-barbershop-bloomington.json",
+   "address": {
+    "streetAddress": "7700 West Old Shakopee Road #210",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55438",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55438",
+   "geo": {
+    "lat": 44.8093896,
+    "lon": -93.3852419
+   },
+   "phone": "+19525824817",
+   "website": "https://www.giftedbarbershop.com/",
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13716868489",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "lvs-barber-shop-minneapolis",
+   "name": "LV's Barber Shop",
+   "summary": "LV's Barber Shop is a barber shop in Minneapolis, MN at 2518 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127216551. Website: https://lvsbarbershop.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lvs-barber-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lvs-barber-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "2518 Northeast Central Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0138637,
+    "lon": -93.2475774
+   },
+   "phone": "+16127216551",
+   "website": "https://lvsbarbershop.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11261722555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "saints-coast-barber-shop-saint-paul",
+   "name": "Saints Coast Barber Shop",
+   "summary": "Saints Coast Barber Shop is a barber shop in Saint Paul, MN at 666 7th Street West, Saint Paul, MN 55102. Phone: +16512212413. Website: https://saintscoast.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saints-coast-barber-shop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saints-coast-barber-shop-saint-paul.json",
+   "address": {
+    "streetAddress": "666 7th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9337869,
+    "lon": -93.1173078
+   },
+   "phone": "+16512212413",
+   "website": "https://saintscoast.com/",
+   "opening_hours": "Tu-Fr 09:00-18:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13697081467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "salam-barber-minneapolis",
+   "name": "Salam Barber",
+   "summary": "Salam Barber is a barber shop in Minneapolis, MN at 2215 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127813956. Website: https://salaambarber.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salam-barber-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salam-barber-minneapolis.json",
+   "address": {
+    "streetAddress": "2215 Northeast Central Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0104222,
+    "lon": -93.2471424
+   },
+   "phone": "+16127813956",
+   "website": "https://salaambarber.com/",
+   "opening_hours": "Mo-Su 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12806837083",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "the-fade-goat-minneapolis",
+   "name": "The Fade Goat",
+   "summary": "The Fade Goat is a barber shop in Minneapolis, MN at 2329 Hennepin Avenue Bikeway #1, Minneapolis, MN 55405. Phone: +16127187704. Website: https://www.thefadegoat.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-fade-goat-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-fade-goat-minneapolis.json",
+   "address": {
+    "streetAddress": "2329 Hennepin Avenue Bikeway #1",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9592573,
+    "lon": -93.2937062
+   },
+   "phone": "+16127187704",
+   "website": "https://www.thefadegoat.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13564808278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "faded-saint-paul",
+   "name": "Faded",
+   "summary": "Faded is a barber shop in Saint Paul, MN at 2227 University Avenue West #106, Saint Paul, MN. Phone: +16513136298. Website: https://fadedtwincities.com/stpaul.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/faded-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/faded-saint-paul.json",
+   "address": {
+    "streetAddress": "2227 University Avenue West #106",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.961855,
+    "lon": -93.191792
+   },
+   "phone": "+16513136298",
+   "website": "https://fadedtwincities.com/stpaul",
+   "opening_hours": "Mo,Su off; Tu-Fr 10:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12813038123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "moler-barber-school-columbia-heights",
+   "name": "Moler Barber School",
+   "summary": "Moler Barber School is a barber shop in Columbia Heights, MN at 4801 Central Avenue Northeast #100, Columbia Heights, MN. Phone: +17635687210. Website: https://www.molerbarberschoolmn.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/moler-barber-school-columbia-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/moler-barber-school-columbia-heights.json",
+   "address": {
+    "streetAddress": "4801 Central Avenue Northeast #100",
+    "addressLocality": "Columbia Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Columbia Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 45.05567,
+    "lon": -93.2469045
+   },
+   "phone": "+17635687210",
+   "website": "https://www.molerbarberschoolmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13116425807",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "3e38thstbarbers-minneapolis",
+   "name": "3e38thStBarbers",
+   "summary": "3e38thStBarbers is a barber shop in Minneapolis, MN at 3 East 38th Street, Minneapolis, MN 55409. Phone: +16126954037.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/3e38thstbarbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/3e38thstbarbers-minneapolis.json",
+   "address": {
+    "streetAddress": "3 East 38th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.9340113,
+    "lon": -93.2776525
+   },
+   "phone": "+16126954037",
+   "opening_hours": "Mo,Sa 00:00-03:00; Th 00:00-15:00; Fr 12:00-15:00; Su 12:00-24:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13356794848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "arces-barber-studio-minneapolis",
+   "name": "Arce's Barber Studio",
+   "summary": "Arce's Barber Studio is a barber shop in Minneapolis, MN at 1406 West Lake Street, Minneapolis, MN 55408. Website: https://arcesbarberstudio.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arces-barber-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arces-barber-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "1406 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9484996,
+    "lon": -93.2975059
+   },
+   "website": "https://arcesbarberstudio.com/",
+   "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/770584900",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "artofbarbering-minneapolis",
+   "name": "artofbarbering",
+   "summary": "artofbarbering is a barber shop in Minneapolis, MN at 150 2nd Avenue South, Minneapolis, MN 55401. Phone: +16123383588.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/artofbarbering-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/artofbarbering-minneapolis.json",
+   "address": {
+    "streetAddress": "150 2nd Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9820119,
+    "lon": -93.26494
+   },
+   "phone": "+16123383588",
+   "opening_hours": "Mo-Sa 7:30-21:00, Su 9:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13379110274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "barbers-and-stylists-bloomington",
+   "name": "Barbers & Stylists",
+   "summary": "Barbers & Stylists is a barber shop in Bloomington, MN at 10580 France Avenue South, Bloomington, MN 55431. Phone: +19528844351.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barbers-and-stylists-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barbers-and-stylists-bloomington.json",
+   "address": {
+    "streetAddress": "10580 France Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8118066,
+    "lon": -93.3324182
+   },
+   "phone": "+19528844351",
+   "opening_hours": "Mo-Sa 08:00-18:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13783820541",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "buzz-barbers-minneapolis",
+   "name": "Buzz Barbers",
+   "summary": "Buzz Barbers is a barber shop in Minneapolis, MN at 3507 West 44th Street, Minneapolis, MN 55410. Website: https://buzzbarbers.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buzz-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buzz-barbers-minneapolis.json",
+   "address": {
+    "streetAddress": "3507 West 44th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9230817,
+    "lon": -93.324427
+   },
+   "website": "https://buzzbarbers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12120870750",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "divine-cuts-saint-paul",
+   "name": "Divine Cuts",
+   "summary": "Divine Cuts is a barber shop in Saint Paul, MN at 1451 University Avenue, Saint Paul, MN 55104. Phone: +16514937762.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/divine-cuts-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/divine-cuts-saint-paul.json",
+   "address": {
+    "streetAddress": "1451 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.955924,
+    "lon": -93.1614459
+   },
+   "phone": "+16514937762",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12874417843",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "the-dapper-wolf-saint-paul",
+   "name": "The Dapper Wolf",
+   "summary": "The Dapper Wolf is a barber shop in Saint Paul, MN at 2032 Marshall Avenue #Suite B, Saint Paul, MN 55104. Phone: +16129619772.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dapper-wolf-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dapper-wolf-saint-paul.json",
+   "address": {
+    "streetAddress": "2032 Marshall Avenue #Suite B",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9482217,
+    "lon": -93.1859297
+   },
+   "phone": "+16129619772",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13556327977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "top-chop-barber-minneapolis",
+   "name": "Top Chop Barber",
+   "summary": "Top Chop Barber is a barber shop in Minneapolis, MN at 711 West Lake Street #601, Minneapolis, MN 55408. Website: https://topchopbarber.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-chop-barber-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-chop-barber-minneapolis.json",
+   "address": {
+    "streetAddress": "711 West Lake Street #601",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.948223,
+    "lon": -93.2889159
+   },
+   "website": "https://topchopbarber.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12517078582",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "barber-shop-burnsville",
+   "name": "Barber Shop",
+   "summary": "Barber Shop is a barber shop in Burnsville, MN at 2520, Burnsville, MN. Phone: +16124343587.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barber-shop-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barber-shop-burnsville.json",
+   "address": {
+    "streetAddress": "2520",
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "geo": {
+    "lat": 44.791527,
+    "lon": -93.2405604
+   },
+   "phone": "+16124343587",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12801289389",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "eddies-barber-shop-minneapolis",
+   "name": "Eddie's Barber Shop",
+   "summary": "Eddie's Barber Shop is a barber shop in Minneapolis, MN at 4301 4th Avenue South, Minneapolis, MN. Phone: +16124580104.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eddies-barber-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eddies-barber-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "4301 4th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9250023,
+    "lon": -93.2698906
+   },
+   "phone": "+16124580104",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/794281362",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "goodfellas-barber-studio-minneapolis",
+   "name": "Goodfellas Barber Studio",
+   "summary": "Goodfellas Barber Studio is a barber shop in Minneapolis, MN at 906 West Lake Street, Minneapolis, MN. Website: https://goodfellasbarberstudio.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodfellas-barber-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodfellas-barber-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "906 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9484982,
+    "lon": -93.2910526
+   },
+   "website": "https://goodfellasbarberstudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13255006959",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "james-irving-salon-minneapolis",
+   "name": "James Irving Salon",
+   "summary": "James Irving Salon is a barber shop in Minneapolis, MN at 1608 West Lake Street, Minneapolis, MN. Phone: +16128224323.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-irving-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-irving-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "1608 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485168,
+    "lon": -93.3024847
+   },
+   "phone": "+16128224323",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/837149810",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "the-squire-saint-paul",
+   "name": "The Squire",
+   "summary": "The Squire is a barber shop in Saint Paul, MN at 1575 Grand Avenue, Saint Paul, MN 55105.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-squire-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-squire-saint-paul.json",
+   "address": {
+    "streetAddress": "1575 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9402199,
+    "lon": -93.1666386
+   },
+   "opening_hours": "Tu-Fr 09:00-17:30; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/937197695",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "sport-clips-saint-paul",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a barber shop in Saint Paul, MN. Website: https://www.sportclips.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9169978,
+    "lon": -93.1894903
+   },
+   "website": "https://www.sportclips.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3236951937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "interlachen-barber-shop-edina",
+   "name": "Interlachen Barber Shop",
+   "summary": "Interlachen Barber Shop is a barber shop in Edina, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/interlachen-barber-shop-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/interlachen-barber-shop-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9109732,
+    "lon": -93.3545367
+   },
+   "opening_hours": "\"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335550692",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "marvins-barber-shop-and-beauty-store-minneapolis",
+   "name": "Marvin's Barber Shop & Beauty Store",
+   "summary": "Marvin's Barber Shop & Beauty Store is a barber shop in Minneapolis, MN at 2415 Northeast Central Avenue, Minneapolis, MN 55418.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marvins-barber-shop-and-beauty-store-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marvins-barber-shop-and-beauty-store-minneapolis.json",
+   "address": {
+    "streetAddress": "2415 Northeast Central Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0127852,
+    "lon": -93.2471291
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4011393292",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "cornerman-cuts-minneapolis",
+   "name": "Cornerman Cuts",
+   "summary": "Cornerman Cuts is a barber shop in Minneapolis, MN at 3801 East 38th Street, Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cornerman-cuts-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cornerman-cuts-minneapolis.json",
+   "address": {
+    "streetAddress": "3801 East 38th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9340592,
+    "lon": -93.2700186
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7461679405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "225-barbers-minneapolis",
+   "name": "225 Barbers",
+   "summary": "225 Barbers is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/225-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/225-barbers-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758865,
+    "lon": -93.2681503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13189788425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "akways-sports-barbershop-minneapolis",
+   "name": "Akways Sports Barbershop",
+   "summary": "Akways Sports Barbershop is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/akways-sports-barbershop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/akways-sports-barbershop-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9477684,
+    "lon": -93.2879059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12517078587",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "bs-barbershop-saint-paul",
+   "name": "B's Barbershop",
+   "summary": "B's Barbershop is a barber shop in Saint Paul, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bs-barbershop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bs-barbershop-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482635,
+    "lon": -93.093882
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13721627444",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "b-roes-bloomington",
+   "name": "B. Roes",
+   "summary": "B. Roes is a barber shop in Bloomington, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/b-roes-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/b-roes-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8349934,
+    "lon": -93.3967043
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12190982442",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "barber-shop-roseville",
+   "name": "Barber Shop",
+   "summary": "Barber Shop is a barber shop in Roseville, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barber-shop-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barber-shop-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0055581,
+    "lon": -93.1649893
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12629278559",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "details-saint-paul",
+   "name": "Details",
+   "summary": "Details is a barber shop in Saint Paul, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/details-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/details-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9241719,
+    "lon": -93.132251
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3095002027",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "feature-cut-barber-minneapolis",
+   "name": "Feature Cut Barber",
+   "summary": "Feature Cut Barber is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/feature-cut-barber-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/feature-cut-barber-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9751122,
+    "lon": -93.2721996
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410756376",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "fm-barber-and-braiding-minneapolis",
+   "name": "FM Barber and Braiding",
+   "summary": "FM Barber and Braiding is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fm-barber-and-braiding-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fm-barber-and-braiding-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9626288,
+    "lon": -93.2370384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12869967160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "gent-minneapolis",
+   "name": "Gent",
+   "summary": "Gent is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gent-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gent-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758775,
+    "lon": -93.2739199
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5955554302",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "gent-saint-paul",
+   "name": "Gent",
+   "summary": "Gent is a barber shop in Saint Paul, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gent-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gent-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9403938,
+    "lon": -93.1366818
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13890137549",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "great-scissors-barber-shop-new-brighton",
+   "name": "Great Scissors Barber Shop",
+   "summary": "Great Scissors Barber Shop is a barber shop in New Brighton, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-scissors-barber-shop-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-scissors-barber-shop-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0432402,
+    "lon": -93.2178431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12947650013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "minnesota-school-of-barbering-minneapolis",
+   "name": "Minnesota School of Barbering",
+   "summary": "Minnesota School of Barbering is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-school-of-barbering-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-school-of-barbering-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9481861,
+    "lon": -93.2196694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12209231047",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "pauly-rays-sports-barbershop-shoreview",
+   "name": "Pauly Ray's Sports Barbershop",
+   "summary": "Pauly Ray's Sports Barbershop is a barber shop in Shoreview, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pauly-rays-sports-barbershop-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pauly-rays-sports-barbershop-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0807358,
+    "lon": -93.1451103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12338849143",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "preserve-barbers-eden-prairie",
+   "name": "Preserve Barbers",
+   "summary": "Preserve Barbers is a barber shop in Eden Prairie, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/preserve-barbers-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/preserve-barbers-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8361215,
+    "lon": -93.4007913
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12191200559",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "the-barber-shop-west-saint-paul",
+   "name": "The Barber Shop",
+   "summary": "The Barber Shop is a barber shop in West Saint Paul, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-barber-shop-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-barber-shop-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8982961,
+    "lon": -93.0801897
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729435293",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

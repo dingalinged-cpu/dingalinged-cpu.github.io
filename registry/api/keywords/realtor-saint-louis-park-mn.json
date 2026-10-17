@@ -1,0 +1,165 @@
+{
+ "keyword": "realtor saint louis park mn",
+ "slug": "realtor-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "realtor",
+ "query": "Who are the best realtor providers in Saint Louis Park, MN?",
+ "matches": [
+  "realtor in Saint Louis Park, MN",
+  "realtor near me (Saint Louis Park, MN)",
+  "best realtor Saint Louis Park, MN",
+  "top rated realtor Saint Louis Park, MN",
+  "affordable realtor Saint Louis Park, MN",
+  "emergency realtor Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid realtor listing for Saint Louis Park, MN is Edina Realty (a real estate agency in Saint Louis Park, MN at 4100 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19522853100. Website: https://www.edinarealty.com/office/minneapolis-city-lakes). 4 realtor businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "edina-realty-saint-louis-park",
+   "name": "Edina Realty",
+   "summary": "Edina Realty is a real estate agency in Saint Louis Park, MN at 4100 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19522853100. Website: https://www.edinarealty.com/office/minneapolis-city-lakes.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-realty-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-realty-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4100 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9487503,
+    "lon": -93.3318183
+   },
+   "phone": "+19522853100",
+   "website": "https://www.edinarealty.com/office/minneapolis-city-lakes",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/132662549",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "new-concepts-management-group-saint-louis-park",
+   "name": "New Concepts Management Group",
+   "summary": "New Concepts Management Group is a real estate agency in Saint Louis Park, MN at 5707 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529222500. Website: https://newconceptsgroup.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-concepts-management-group-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-concepts-management-group-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5707 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9292126,
+    "lon": -93.35227
+   },
+   "phone": "+19529222500",
+   "website": "https://newconceptsgroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/914286356",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "rnr-realty-international-saint-louis-park",
+   "name": "RNR Realty International",
+   "summary": "RNR Realty International is a real estate agency in Saint Louis Park, MN at 6524 Walker Street, Saint Louis Park, MN 55426. Phone: +19529228582. Website: https://rnrrealty.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rnr-realty-international-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rnr-realty-international-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6524 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9391517,
+    "lon": -93.3627431
+   },
+   "phone": "+19529228582",
+   "website": "https://rnrrealty.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604575741",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "saturday-properties-saint-louis-park",
+   "name": "Saturday Properties",
+   "summary": "Saturday Properties is a real estate agency in Saint Louis Park, MN at 3546 Dakota Avenue South #D, Saint Louis Park, MN 55416. Phone: +16123603113. Website: https://saturdayproperties.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saturday-properties-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saturday-properties-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3546 Dakota Avenue South #D",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9387269,
+    "lon": -93.3610213
+   },
+   "phone": "+16123603113",
+   "website": "https://saturdayproperties.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604575736",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

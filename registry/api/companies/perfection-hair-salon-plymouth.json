@@ -1,0 +1,60 @@
+{
+ "slug": "perfection-hair-salon-plymouth",
+ "name": "Perfection Hair Salon",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon plymouth mn",
+  "haircut plymouth mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4345 Nathan Lane North #B",
+  "addressLocality": "Plymouth",
+  "addressRegion": "MN",
+  "postalCode": "55442",
+  "addressCountry": "US"
+ },
+ "city": "Plymouth",
+ "state": "MN",
+ "zip": "55442",
+ "geo": {
+  "lat": 45.0338092,
+  "lon": -93.4091157
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9382489668",
+ "osm": {
+  "type": "node",
+  "id": 9382489668,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Plymouth",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/perfection-hair-salon-plymouth/",
+ "summary": "Perfection Hair Salon is a hair salon in Plymouth, MN at 4345 Nathan Lane North #B, Plymouth, MN 55442.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

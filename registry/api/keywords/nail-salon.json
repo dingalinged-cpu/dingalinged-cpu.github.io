@@ -1,0 +1,4006 @@
+{
+ "keyword": "nail salon",
+ "slug": "nail-salon",
+ "place": "the United States",
+ "service": "nail salon",
+ "query": "Who are the best nail salon providers in the United States?",
+ "matches": [
+  "nail salon in the United States",
+  "nail salon near me (the United States)",
+  "best nail salon the United States",
+  "top rated nail salon the United States",
+  "affordable nail salon the United States",
+  "emergency nail salon the United States"
+ ],
+ "answer": "The top unpaid nail salon listing for the United States is Elite Nails (a nail salon in Roseville, MN at 1700 Lexington Avenue North, Roseville, MN 55113. Phone: +16514939225. Website: https://elitenailsroseville.com/). 126 nail salon businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "elite-nails-roseville",
+   "name": "Elite Nails",
+   "summary": "Elite Nails is a nail salon in Roseville, MN at 1700 Lexington Avenue North, Roseville, MN 55113. Phone: +16514939225. Website: https://elitenailsroseville.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-nails-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-nails-roseville.json",
+   "address": {
+    "streetAddress": "1700 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9928016,
+    "lon": -93.1457003
+   },
+   "phone": "+16514939225",
+   "website": "https://elitenailsroseville.com/",
+   "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:30-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147169432",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "express-nails-and-spa-minneapolis",
+   "name": "Express Nails & Spa",
+   "summary": "Express Nails & Spa is a nail salon in Minneapolis, MN at 2617 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16123547295. Website: https://www.expressnailsmpls.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-nails-and-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-nails-and-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "2617 Southeast University Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9728505,
+    "lon": -93.2192335
+   },
+   "phone": "+16123547295",
+   "website": "https://www.expressnailsmpls.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 00:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6334601251",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "grandeur-nail-saint-paul",
+   "name": "Grandeur Nail",
+   "summary": "Grandeur Nail is a nail salon in Saint Paul, MN at 760 Grand Avenue, Saint Paul, MN 55105. Phone: +16517561129. Website: https://grandeurnail.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grandeur-nail-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grandeur-nail-saint-paul.json",
+   "address": {
+    "streetAddress": "760 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398204,
+    "lon": -93.1322542
+   },
+   "phone": "+16517561129",
+   "website": "https://grandeurnail.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00,09:00-18:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8924089493",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "icon-nails-lino-lakes",
+   "name": "Icon Nails",
+   "summary": "Icon Nails is a nail salon in Lino Lakes, MN at 7114 Otter Lake Road #110, Lino Lakes, MN 55038. Phone: +16513939999. Website: https://iconnailsmn.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/icon-nails-lino-lakes/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/icon-nails-lino-lakes.json",
+   "address": {
+    "streetAddress": "7114 Otter Lake Road #110",
+    "addressLocality": "Lino Lakes",
+    "addressRegion": "MN",
+    "postalCode": "55038",
+    "addressCountry": "US"
+   },
+   "city": "Lino Lakes",
+   "state": "MN",
+   "zip": "55038",
+   "geo": {
+    "lat": 45.1646062,
+    "lon": -93.0239645
+   },
+   "phone": "+16513939999",
+   "website": "https://iconnailsmn.com/",
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7911265643",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "jewel-nails-minnetonka",
+   "name": "Jewel Nails",
+   "summary": "Jewel Nails is a nail salon in Minnetonka, MN at 17516 Minnetonka Boulevard, Minnetonka, MN 55345. Phone: +19524493979. Website: https://thejewelnails.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jewel-nails-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jewel-nails-minnetonka.json",
+   "address": {
+    "streetAddress": "17516 Minnetonka Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9423176,
+    "lon": -93.5013708
+   },
+   "phone": "+19524493979",
+   "website": "https://thejewelnails.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11166456608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "k-nails-maple-grove",
+   "name": "K-Nails",
+   "summary": "K-Nails is a nail salon in Maple Grove, MN at 13681 Grove Drive North, Maple Grove, MN 55311. Phone: +17634163852. Website: https://www.knailsmaplegrove.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/k-nails-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/k-nails-maple-grove.json",
+   "address": {
+    "streetAddress": "13681 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.102762,
+    "lon": -93.4548435
+   },
+   "phone": "+17634163852",
+   "website": "https://www.knailsmaplegrove.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5782225990",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "luxer-nails-lounge-maple-grove",
+   "name": "Luxer Nails Lounge",
+   "summary": "Luxer Nails Lounge is a nail salon in Maple Grove, MN at 11724 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17637105993. Website: https://www.luxernl.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luxer-nails-lounge-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luxer-nails-lounge-maple-grove.json",
+   "address": {
+    "streetAddress": "11724 Elm Creek Boulevard",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0955702,
+    "lon": -93.4291533
+   },
+   "phone": "+17637105993",
+   "website": "https://www.luxernl.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752836961",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "nail-bar-and-spa-saint-louis-park",
+   "name": "Nail Bar & Spa",
+   "summary": "Nail Bar & Spa is a nail salon in Saint Louis Park, MN at 5023 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19522061999. Website: https://nailbarspasaintlouispark.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-bar-and-spa-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-bar-and-spa-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5023 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9308969,
+    "lon": -93.3459491
+   },
+   "phone": "+19522061999",
+   "website": "https://nailbarspasaintlouispark.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 11:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2246717599",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "nail-images-edina",
+   "name": "Nail Images",
+   "summary": "Nail Images is a nail salon in Edina, MN at 4509 France Avenue South, Edina, MN 55410. Phone: +16129295101. Website: https://nailsimageminneapolis.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-images-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-images-edina.json",
+   "address": {
+    "streetAddress": "4509 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9211014,
+    "lon": -93.328612
+   },
+   "phone": "+16129295101",
+   "website": "https://nailsimageminneapolis.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1308726160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "peony-nail-spa-maple-grove",
+   "name": "Peony Nail Spa",
+   "summary": "Peony Nail Spa is a nail salon in Maple Grove, MN at 8095 Wedgewood Lane #20, Maple Grove, MN 55369. Phone: +17633155400. Website: https://www.peonynailspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peony-nail-spa-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peony-nail-spa-maple-grove.json",
+   "address": {
+    "streetAddress": "8095 Wedgewood Lane #20",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1015366,
+    "lon": -93.4504717
+   },
+   "phone": "+17633155400",
+   "website": "https://www.peonynailspa.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613971258",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "sonnys-nails-maple-grove",
+   "name": "Sonny's Nails",
+   "summary": "Sonny's Nails is a nail salon in Maple Grove, MN at 13660 Grove Drive North, Maple Grove, MN 55311. Phone: +17634207463. Website: https://www.sonnynailsmaplegrove.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sonnys-nails-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sonnys-nails-maple-grove.json",
+   "address": {
+    "streetAddress": "13660 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1046733,
+    "lon": -93.453196
+   },
+   "phone": "+17634207463",
+   "website": "https://www.sonnynailsmaplegrove.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:30-18:00;Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/610036223",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "southtown-nails-bloomington",
+   "name": "Southtown Nails",
+   "summary": "Southtown Nails is a nail salon in Bloomington, MN at 7991 Southtown Center, Bloomington, MN 55431. Phone: +19528846245. Website: https://southtownnailspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southtown-nails-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southtown-nails-bloomington.json",
+   "address": {
+    "streetAddress": "7991 Southtown Center",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8594425,
+    "lon": -93.3072527
+   },
+   "phone": "+19528846245",
+   "website": "https://southtownnailspa.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 9:30-19:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6412456042",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "vans-nail-and-spa-maple-grove",
+   "name": "Van's Nail & Spa",
+   "summary": "Van's Nail & Spa is a nail salon in Maple Grove, MN at 8066 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17632198555. Website: https://www.vansnailandspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vans-nail-and-spa-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vans-nail-and-spa-maple-grove.json",
+   "address": {
+    "streetAddress": "8066 Wedgewood Lane",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1006468,
+    "lon": -93.4478192
+   },
+   "phone": "+17632198555",
+   "website": "https://www.vansnailandspa.com/",
+   "opening_hours": "Mo-Sa 10:00-19:00;Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613971285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "nailed-it-and-spa-little-canada",
+   "name": "Nailed It & Spa",
+   "summary": "Nailed It & Spa is a nail salon in Little Canada, MN at 2900 Rice Street #300, Little Canada, MN. Phone: +16514821990. Website: https://www.naileditinlittlecanadamn.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nailed-it-and-spa-little-canada/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nailed-it-and-spa-little-canada.json",
+   "address": {
+    "streetAddress": "2900 Rice Street #300",
+    "addressLocality": "Little Canada",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Little Canada",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0285578,
+    "lon": -93.1033769
+   },
+   "phone": "+16514821990",
+   "website": "https://www.naileditinlittlecanadamn.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12148759952",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "young-spa-falcon-heights",
+   "name": "Young Spa",
+   "summary": "Young Spa is a nail salon in Falcon Heights, MN at 1541 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16519170595. Website: https://sites.google.com/site/youngspa1/location-hours.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/young-spa-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/young-spa-falcon-heights.json",
+   "address": {
+    "streetAddress": "1541 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920782,
+    "lon": -93.1649966
+   },
+   "phone": "+16519170595",
+   "website": "https://sites.google.com/site/youngspa1/location-hours",
+   "opening_hours": "Tu-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "cupid-nails-saint-louis-park",
+   "name": "Cupid Nails",
+   "summary": "Cupid Nails is a nail salon in Saint Louis Park, MN at 5607 Wayzata Boulevard, Saint Louis Park, MN 55416. Phone: +19525465792. Website: https://cupidnails.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cupid-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cupid-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5607 Wayzata Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9692157,
+    "lon": -93.3514881
+   },
+   "phone": "+19525465792",
+   "website": "https://cupidnails.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4121384390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "dk-diamond-nails-saint-louis-park",
+   "name": "DK Diamond Nails",
+   "summary": "DK Diamond Nails is a nail salon in Saint Louis Park, MN at 7109 Cedar Lake Road, Saint Louis Park, MN 55426. Phone: +17634320095. Website: https://www.facebook.com/DKDiamondNails/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dk-diamond-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dk-diamond-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7109 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9593488,
+    "lon": -93.3702493
+   },
+   "phone": "+17634320095",
+   "website": "https://www.facebook.com/DKDiamondNails/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4573747576",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "jennys-nails-edina",
+   "name": "Jenny's Nails",
+   "summary": "Jenny's Nails is a nail salon in Edina, MN. Phone: +19529201700. Website: https://jennysnailsmn.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jennys-nails-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jennys-nails-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9120306,
+    "lon": -93.3303723
+   },
+   "phone": "+19529201700",
+   "website": "https://jennysnailsmn.com/",
+   "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116018",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "la-nails-saint-paul",
+   "name": "LA Nails",
+   "summary": "LA Nails is a nail salon in Saint Paul, MN at 1102 Grand Avenue, Saint Paul, MN 55105. Phone: +16512931368. Website: https://www.lanailshighlandpark.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-nails-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-nails-saint-paul.json",
+   "address": {
+    "streetAddress": "1102 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398765,
+    "lon": -93.1468856
+   },
+   "phone": "+16512931368",
+   "website": "https://www.lanailshighlandpark.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1313773983",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "merriam-park-nails-saint-paul",
+   "name": "Merriam Park Nails",
+   "summary": "Merriam Park Nails is a tailor in Saint Paul, MN at 1558 Selby Avenue, Saint Paul, MN 55104. Phone: +16516468409. Website: https://merriam-park-nails.edan.io/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merriam-park-nails-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merriam-park-nails-saint-paul.json",
+   "address": {
+    "streetAddress": "1558 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9464364,
+    "lon": -93.1660587
+   },
+   "phone": "+16516468409",
+   "website": "https://merriam-park-nails.edan.io/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8502104649",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "metro-dentalcare-chanhassen-chanhassen",
+   "name": "Metro Dentalcare Chanhassen",
+   "summary": "Metro Dentalcare Chanhassen is a nail salon in Chanhassen, MN at 7806 Market Boulevard, Chanhassen, MN 55317. Phone: +19529491083. Website: https://www.mdchanhassen.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-chanhassen-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-dentalcare-chanhassen-chanhassen.json",
+   "address": {
+    "streetAddress": "7806 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8618997,
+    "lon": -93.5384217
+   },
+   "phone": "+19529491083",
+   "website": "https://www.mdchanhassen.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789948",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "nail-ninja-saint-louis-park",
+   "name": "Nail Ninja",
+   "summary": "Nail Ninja is a nail salon in Saint Louis Park, MN at 4815 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +16123224607. Website: https://www.nailninjampls.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-ninja-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-ninja-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4815 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9482929,
+    "lon": -93.340927
+   },
+   "phone": "+16123224607",
+   "website": "https://www.nailninjampls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/601130213",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "nails-and-co-saint-anthony",
+   "name": "Nails & Co",
+   "summary": "Nails & Co is a nail salon in Saint Anthony, MN at 2906 Pentagon Drive, Saint Anthony, MN 55418. Phone: +16127881883. Website: https://nailscompanyminneapolis.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-and-co-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-and-co-saint-anthony.json",
+   "address": {
+    "streetAddress": "2906 Pentagon Drive",
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0157085,
+    "lon": -93.2199158
+   },
+   "phone": "+16127881883",
+   "website": "https://nailscompanyminneapolis.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13138450083",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "natural-nails-spa-saint-paul",
+   "name": "Natural Nails Spa",
+   "summary": "Natural Nails Spa is a nail salon in Saint Paul, MN at 1043 Grand Avenue, Saint Paul, MN 55105. Phone: +16512277444. Website: https://naturalnailsspastpaul.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natural-nails-spa-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natural-nails-spa-saint-paul.json",
+   "address": {
+    "streetAddress": "1043 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9403693,
+    "lon": -93.1443169
+   },
+   "phone": "+16512277444",
+   "website": "https://naturalnailsspastpaul.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920602098",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "rex-nails-saint-paul",
+   "name": "Rex Nails",
+   "summary": "Rex Nails is a nail salon in Saint Paul, MN at 298 Larpenteur Avenue East, Saint Paul, MN 55117. Phone: +16513488936. Website: https://rexnails.net/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rex-nails-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rex-nails-saint-paul.json",
+   "address": {
+    "streetAddress": "298 Larpenteur Avenue East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55117",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55117",
+   "geo": {
+    "lat": 44.991181,
+    "lon": -93.087955
+   },
+   "phone": "+16513488936",
+   "website": "https://rexnails.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4553452090",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "skyline-nail-supply-minneapolis",
+   "name": "Skyline Nail Supply",
+   "summary": "Skyline Nail Supply is a nail salon in Minneapolis, MN at 12 West 25th Street, Minneapolis, MN 55404. Phone: +16128710667. Website: https://www.skylinebeautysupply.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/skyline-nail-supply-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/skyline-nail-supply-minneapolis.json",
+   "address": {
+    "streetAddress": "12 West 25th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9574597,
+    "lon": -93.2785761
+   },
+   "phone": "+16128710667",
+   "website": "https://www.skylinebeautysupply.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617523579",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "sola-salons-roseville",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Roseville, MN at 2401 Fairview Avenue North, Roseville, MN. Phone: +16513646352. Website: https://www.solasalonstudios.com/locations/roseville.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-roseville.json",
+   "address": {
+    "streetAddress": "2401 Fairview Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0129813,
+    "lon": -93.179652
+   },
+   "phone": "+16513646352",
+   "website": "https://www.solasalonstudios.com/locations/roseville",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12994941464",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "7-nails-and-spa-saint-paul",
+   "name": "7 Nails and Spa",
+   "summary": "7 Nails and Spa is a nail salon in Saint Paul, MN at 225 Snelling Avenue, Saint Paul, MN 55104. Website: https://7nailsandspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/7-nails-and-spa-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/7-nails-and-spa-saint-paul.json",
+   "address": {
+    "streetAddress": "225 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9479286,
+    "lon": -93.1672529
+   },
+   "website": "https://7nailsandspa.com/",
+   "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:30-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3588270424",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "ben-nails-and-spa-coon-rapids",
+   "name": "Ben Nails & Spa",
+   "summary": "Ben Nails & Spa is a nail salon in Coon Rapids, MN at 2026 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637550903.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ben-nails-and-spa-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ben-nails-and-spa-coon-rapids.json",
+   "address": {
+    "streetAddress": "2026 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1805673,
+    "lon": -93.3181996
+   },
+   "phone": "+17637550903",
+   "opening_hours": "Sa 11:00-18:00; Su 11:00-17:00; Mo-Fr 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9191803478",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "expert-nails-roseville",
+   "name": "Expert Nails",
+   "summary": "Expert Nails is a nail salon in Roseville, MN at 1131 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514882934.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/expert-nails-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/expert-nails-roseville.json",
+   "address": {
+    "streetAddress": "1131 Larpenteur Avenue West",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9925993,
+    "lon": -93.1477435
+   },
+   "phone": "+16514882934",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1914627260",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "france-nails-and-spa-minneapolis",
+   "name": "France Nails & Spa",
+   "summary": "France Nails & Spa is a nail salon in Minneapolis, MN at 5053 France Avenue South, Minneapolis, MN 55410. Website: https://www.francenailsandspa.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/france-nails-and-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/france-nails-and-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "5053 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9109806,
+    "lon": -93.3288992
+   },
+   "website": "https://www.francenailsandspa.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088895",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "gd-nails-and-spa-minneapolis",
+   "name": "GD Nails & Spa",
+   "summary": "GD Nails & Spa is a nail salon in Minneapolis, MN at 3210 Lake Street West, Minneapolis, MN 55416. Phone: +16122851844.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gd-nails-and-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gd-nails-and-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "3210 Lake Street West",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9491645,
+    "lon": -93.3199532
+   },
+   "phone": "+16122851844",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6815703762",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "honey-nails-saint-louis-park",
+   "name": "Honey Nails",
+   "summary": "Honey Nails is a nail salon in Saint Louis Park, MN at 3916 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529200989.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/honey-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/honey-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3916 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9404463,
+    "lon": -93.3295917
+   },
+   "phone": "+19529200989",
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-19:00; Su 11:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6701050780",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "ocean-spa-and-nails-saint-louis-park",
+   "name": "Ocean Spa & Nails",
+   "summary": "Ocean Spa & Nails is a nail salon in Saint Louis Park, MN at 3844 Grand Way, Saint Louis Park, MN 55416. Phone: +19529208698.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ocean-spa-and-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ocean-spa-and-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3844 Grand Way",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9335973,
+    "lon": -93.3404205
+   },
+   "phone": "+19529208698",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4124161393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "pamper-nails-and-spa-minneapolis",
+   "name": "Pamper Nails and Spa",
+   "summary": "Pamper Nails and Spa is a nail salon in Minneapolis, MN at 822 West 50th Street, Minneapolis, MN 55419. Phone: +16125455789.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pamper-nails-and-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pamper-nails-and-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "822 West 50th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9124451,
+    "lon": -93.2904721
+   },
+   "phone": "+16125455789",
+   "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-18:00; Su 11:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287867601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "us-nails-chanhassen",
+   "name": "US Nails",
+   "summary": "US Nails is a nail salon in Chanhassen, MN at 2449 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524016620.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/us-nails-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/us-nails-chanhassen.json",
+   "address": {
+    "streetAddress": "2449 Minnesota State Highway 7",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8901545,
+    "lon": -93.5822583
+   },
+   "phone": "+19524016620",
+   "opening_hours": "Mo-Fr 09:30-19:30, Sa 09:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215316859",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "daisy-nails-minneapolis",
+   "name": "Daisy Nails",
+   "summary": "Daisy Nails is a nail salon in Minneapolis, MN at 2544 Hennepin Avenue South, Minneapolis, MN. Phone: +16129779047.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/daisy-nails-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/daisy-nails-minneapolis.json",
+   "address": {
+    "streetAddress": "2544 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9561808,
+    "lon": -93.2970607
+   },
+   "phone": "+16129779047",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:30-19:00; Su 11:00-18:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6829122531",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "hong-cong-nails-supply-brooklyn-park",
+   "name": "Hong Cong Nails Supply",
+   "summary": "Hong Cong Nails Supply is a nail salon in Brooklyn Park, MN. Phone: +17633166856. Website: https://hcnailsupply.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hong-cong-nails-supply-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hong-cong-nails-supply-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1116509,
+    "lon": -93.3030353
+   },
+   "phone": "+17633166856",
+   "website": "https://hcnailsupply.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8171550126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "ca-nails-chaska",
+   "name": "CA Nails",
+   "summary": "CA Nails is a nail salon in Chaska, MN at 140 Pioneer Trail, Chaska, MN 55318. Website: https://canailschaska.us/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ca-nails-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ca-nails-chaska.json",
+   "address": {
+    "streetAddress": "140 Pioneer Trail",
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "postalCode": "55318",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "zip": "55318",
+   "geo": {
+    "lat": 44.8299242,
+    "lon": -93.6003582
+   },
+   "website": "https://canailschaska.us/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12880183059",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "divine-nails-maplewood",
+   "name": "Divine Nails",
+   "summary": "Divine Nails is a nail salon in Maplewood, MN. Phone: +16517700424.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/divine-nails-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/divine-nails-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0295075,
+    "lon": -93.0171125
+   },
+   "phone": "+16517700424",
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-18:30; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12046781947",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "les-nails-maple-grove",
+   "name": "Le's Nails",
+   "summary": "Le's Nails is a nail salon in Maple Grove, MN at 15531 Grove Circle North, Maple Grove, MN 55369. Website: https://www.lesnails.org/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/les-nails-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/les-nails-maple-grove.json",
+   "address": {
+    "streetAddress": "15531 Grove Circle North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1346661,
+    "lon": -93.4772967
+   },
+   "website": "https://www.lesnails.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9291221995",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "lexi-nails-saint-anthony",
+   "name": "Lexi Nails",
+   "summary": "Lexi Nails is a nail salon in Saint Anthony, MN at 2701 39th Avenue Northeast #E114, Saint Anthony, MN 55421. Phone: +16127889422.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lexi-nails-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lexi-nails-saint-anthony.json",
+   "address": {
+    "streetAddress": "2701 39th Avenue Northeast #E114",
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0387558,
+    "lon": -93.2203246
+   },
+   "phone": "+16127889422",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13139770974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "spa-sweet-minneapolis",
+   "name": "Spa Sweet",
+   "summary": "Spa Sweet is a nail salon in Minneapolis, MN at 4747 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16127993588.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spa-sweet-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spa-sweet-minneapolis.json",
+   "address": {
+    "streetAddress": "4747 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9163939,
+    "lon": -93.2624443
+   },
+   "phone": "+16127993588",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7651142709",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "t-t-angels-nails-saint-paul",
+   "name": "T T Angels Nails",
+   "summary": "T T Angels Nails is a nail salon in Saint Paul, MN at 2471 7th Street West, Saint Paul, MN 55116. Phone: +16516991044.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/t-t-angels-nails-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/t-t-angels-nails-saint-paul.json",
+   "address": {
+    "streetAddress": "2471 7th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9025927,
+    "lon": -93.1704892
+   },
+   "phone": "+16516991044",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8463924063",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "turbo-nails-spa-chaska",
+   "name": "Turbo Nails Spa",
+   "summary": "Turbo Nails Spa is a nail salon in Chaska, MN at 816 Yellow Brick Road, Chaska, MN 55318. Phone: +19523680988.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/turbo-nails-spa-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/turbo-nails-spa-chaska.json",
+   "address": {
+    "streetAddress": "816 Yellow Brick Road",
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "postalCode": "55318",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "zip": "55318",
+   "geo": {
+    "lat": 44.7919546,
+    "lon": -93.5993778
+   },
+   "phone": "+19523680988",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12752805383",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "twin-city-nails-saint-louis-park",
+   "name": "Twin City Nails",
+   "summary": "Twin City Nails is a nail salon in Saint Louis Park, MN at 1650 Park Place Boulevard #104, Saint Louis Park, MN 55416. Phone: +19525440220.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-city-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-city-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1650 Park Place Boulevard #104",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9664013,
+    "lon": -93.3499362
+   },
+   "phone": "+19525440220",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9610331067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "v-stars-nails-minneapolis",
+   "name": "V-Stars Nails",
+   "summary": "V-Stars Nails is a nail salon in Minneapolis, MN at 3100 West 50th Street #Suite 102, Minneapolis, MN 55410. Website: https://vstarsnails.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/v-stars-nails-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/v-stars-nails-minneapolis.json",
+   "address": {
+    "streetAddress": "3100 West 50th Street #Suite 102",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9125565,
+    "lon": -93.3192475
+   },
+   "website": "https://vstarsnails.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13020020615",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "zeus-nail-bar-rogers",
+   "name": "Zeus Nail Bar",
+   "summary": "Zeus Nail Bar is a nail salon in Rogers, MN at 21311 John Milless Drive, Rogers, MN 55374. Phone: +17634325188.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zeus-nail-bar-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zeus-nail-bar-rogers.json",
+   "address": {
+    "streetAddress": "21311 John Milless Drive",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1912418,
+    "lon": -93.5497423
+   },
+   "phone": "+17634325188",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10776271206",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "polished-nail-boutique-minneapolis",
+   "name": "Polished Nail Boutique",
+   "summary": "Polished Nail Boutique is a nail salon in Minneapolis, MN at 4306 Bryant Avenue South, Minneapolis, MN. Phone: +16124191164.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/polished-nail-boutique-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/polished-nail-boutique-minneapolis.json",
+   "address": {
+    "streetAddress": "4306 Bryant Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9247028,
+    "lon": -93.2910201
+   },
+   "phone": "+16124191164",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6359447310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "fashion-nails-bloomington",
+   "name": "Fashion Nails",
+   "summary": "Fashion Nails is a nail salon in Bloomington, MN at 10590.5 France Avenue South, Bloomington, MN 55431.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fashion-nails-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fashion-nails-bloomington.json",
+   "address": {
+    "streetAddress": "10590.5 France Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8113289,
+    "lon": -93.3324554
+   },
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13783820547",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "lena-nails-spa-minneapolis",
+   "name": "Lena Nails Spa",
+   "summary": "Lena Nails Spa is a nail salon in Minneapolis, MN at 4612 Nicollet Avenue South, Minneapolis, MN 55419.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lena-nails-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lena-nails-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "4612 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9192505,
+    "lon": -93.2784917
+   },
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12955198544",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "red-nails-and-spa-richfield",
+   "name": "Red Nails & Spa",
+   "summary": "Red Nails & Spa is a nail salon in Richfield, MN at 716 West 66th Street, Richfield, MN 55423.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/red-nails-and-spa-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/red-nails-and-spa-richfield.json",
+   "address": {
+    "streetAddress": "716 West 66th Street",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8842291,
+    "lon": -93.2874201
+   },
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 09:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11688622864",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "always-nails-minneapolis",
+   "name": "Always Nails",
+   "summary": "Always Nails is a nail salon in Minneapolis, MN at 2228 Hennepin Avenue South, Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/always-nails-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/always-nails-minneapolis.json",
+   "address": {
+    "streetAddress": "2228 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9602602,
+    "lon": -93.2940316
+   },
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00; PH off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835960252",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "prose-nails-roseville",
+   "name": "Prose Nails",
+   "summary": "Prose Nails is a nail salon in Roseville, MN at 2375 Fairview Avenue North, Roseville, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prose-nails-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prose-nails-roseville.json",
+   "address": {
+    "streetAddress": "2375 Fairview Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0120733,
+    "lon": -93.1781116
+   },
+   "opening_hours": "Mo-We 10:00-19:00; Th-Sa 10:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11179132582",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "ninja-nail-minneapolis",
+   "name": "Ninja Nail",
+   "summary": "Ninja Nail is a nail salon in Minneapolis, MN. Website: https://www.nailninjampls.com/minneapolis.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ninja-nail-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ninja-nail-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0193608,
+    "lon": -93.2376023
+   },
+   "website": "https://www.nailninjampls.com/minneapolis",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11072098836",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "a-nails-eden-prairie",
+   "name": "A+ Nails",
+   "summary": "A+ Nails is a nail salon in Eden Prairie, MN at 10165 Hennepin Town Road #105, Eden Prairie, MN 55347.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-nails-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-nails-eden-prairie.json",
+   "address": {
+    "streetAddress": "10165 Hennepin Town Road #105",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55347",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55347",
+   "geo": {
+    "lat": 44.8210597,
+    "lon": -93.4012272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11680086345",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "aloha-nails-west-saint-paul",
+   "name": "Aloha Nails",
+   "summary": "Aloha Nails is a nail salon in West Saint Paul, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aloha-nails-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aloha-nails-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8949542,
+    "lon": -93.0785859
+   },
+   "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729479025",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "atomic-polish-minneapolis",
+   "name": "Atomic Polish",
+   "summary": "Atomic Polish is a nail salon in Minneapolis, MN at 2220 Central Avenue NE, Minneapolis, MN 55418.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atomic-polish-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atomic-polish-minneapolis.json",
+   "address": {
+    "streetAddress": "2220 Central Avenue NE",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0106512,
+    "lon": -93.247741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13628471785",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "castle-lashes-and-nails-saint-louis-park",
+   "name": "Castle Lashes & Nails",
+   "summary": "Castle Lashes & Nails is a nail salon in Saint Louis Park, MN at 8934 Minnesota State Highway 7, Saint Louis Park, MN 55426.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castle-lashes-and-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castle-lashes-and-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8934 Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9371346,
+    "lon": -93.392633
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4330096800",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "cozy-nails-eden-prairie",
+   "name": "Cozy Nails",
+   "summary": "Cozy Nails is a nail salon in Eden Prairie, MN at 12900 Technology Drive #170, Eden Prairie, MN 55344.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cozy-nails-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cozy-nails-eden-prairie.json",
+   "address": {
+    "streetAddress": "12900 Technology Drive #170",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8599343,
+    "lon": -93.4416138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12020737359",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "daisy-nails-bloomington",
+   "name": "Daisy Nails",
+   "summary": "Daisy Nails is a nail salon in Bloomington, MN at 9637 Anderson Lakes Parkway, Bloomington, MN 55344.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/daisy-nails-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/daisy-nails-bloomington.json",
+   "address": {
+    "streetAddress": "9637 Anderson Lakes Parkway",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8361085,
+    "lon": -93.4004259
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1188081627",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "ep-nails-eden-prairie",
+   "name": "EP Nails",
+   "summary": "EP Nails is a nail salon in Eden Prairie, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ep-nails-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ep-nails-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8446212,
+    "lon": -93.4412385
+   },
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10597376683",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "exotic-nails-bloomington",
+   "name": "Exotic Nails",
+   "summary": "Exotic Nails is a nail salon in Bloomington, MN at 9352 Ensign Avenue South, Bloomington, MN 55438.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/exotic-nails-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/exotic-nails-bloomington.json",
+   "address": {
+    "streetAddress": "9352 Ensign Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55438",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55438",
+   "geo": {
+    "lat": 44.8349619,
+    "lon": -93.3966678
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12190982441",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "glamour-nails-saint-louis-park",
+   "name": "Glamour Nails",
+   "summary": "Glamour Nails is a nail salon in Saint Louis Park, MN at 1685 West End Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glamour-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glamour-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1685 West End Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9659039,
+    "lon": -93.3475592
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2419588470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "great-nails-new-hope",
+   "name": "Great Nails",
+   "summary": "Great Nails is a nail salon in New Hope, MN at 4214 Winnetka Avenue North, New Hope, MN 55428.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-nails-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-nails-new-hope.json",
+   "address": {
+    "streetAddress": "4214 Winnetka Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "postalCode": "55428",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "zip": "55428",
+   "geo": {
+    "lat": 45.0337211,
+    "lon": -93.3797914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131834921",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "hairaphernalia-salon-saint-louis-park",
+   "name": "Hairaphernalia Salon",
+   "summary": "Hairaphernalia Salon is a nail salon in Saint Louis Park, MN at 8300 Minnetonka Boulevard, Saint Louis Park, MN 55426.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hairaphernalia-salon-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hairaphernalia-salon-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8300 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9497674,
+    "lon": -93.3855259
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/417892236",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "kcn-nails-minneapolis",
+   "name": "KCN Nails",
+   "summary": "KCN Nails is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kcn-nails-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kcn-nails-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0147984,
+    "lon": -93.2475694
+   },
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6330148228",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "la-nails-vadnais-heights",
+   "name": "LA Nails",
+   "summary": "LA Nails is a nail salon in Vadnais Heights, MN at 1034 Highway 96, Vadnais Heights, MN 55127.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-nails-vadnais-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-nails-vadnais-heights.json",
+   "address": {
+    "streetAddress": "1034 Highway 96",
+    "addressLocality": "Vadnais Heights",
+    "addressRegion": "MN",
+    "postalCode": "55127",
+    "addressCountry": "US"
+   },
+   "city": "Vadnais Heights",
+   "state": "MN",
+   "zip": "55127",
+   "geo": {
+    "lat": 45.0780794,
+    "lon": -93.0572033
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1137118403",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "lifetime-nail-and-spa-plymouth",
+   "name": "Lifetime Nail & Spa",
+   "summary": "Lifetime Nail & Spa is a nail salon in Plymouth, MN at 4345 Nathan Lane North, Plymouth, MN 55442.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lifetime-nail-and-spa-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lifetime-nail-and-spa-plymouth.json",
+   "address": {
+    "streetAddress": "4345 Nathan Lane North",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55442",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55442",
+   "geo": {
+    "lat": 45.0337966,
+    "lon": -93.4093896
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9382489666",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "lyndale-nails-richfield",
+   "name": "Lyndale Nails",
+   "summary": "Lyndale Nails is a nail salon in Richfield, MN at 6553 Lyndale Avenue South, Richfield, MN 55423.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyndale-nails-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyndale-nails-richfield.json",
+   "address": {
+    "streetAddress": "6553 Lyndale Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8836056,
+    "lon": -93.2859996
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11688651091",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "mainstreet-nails-hopkins",
+   "name": "Mainstreet Nails",
+   "summary": "Mainstreet Nails is a nail salon in Hopkins, MN at 801 Mainstreet, Hopkins, MN 55343.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mainstreet-nails-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mainstreet-nails-hopkins.json",
+   "address": {
+    "streetAddress": "801 Mainstreet",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9244955,
+    "lon": -93.4102652
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3992746154",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "nails-of-eden-eden-prairie",
+   "name": "Nails of Eden",
+   "summary": "Nails of Eden is a nail salon in Eden Prairie, MN at 7942 Mitchell Road #100, Eden Prairie, MN 55344.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-of-eden-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-of-eden-eden-prairie.json",
+   "address": {
+    "streetAddress": "7942 Mitchell Road #100",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8597229,
+    "lon": -93.4605861
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11686430899",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "prose-nails-rogers",
+   "name": "Prose Nails",
+   "summary": "Prose Nails is a nail salon in Rogers, MN at 13135 Main Street #Suite 200, Rogers, MN 55374.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prose-nails-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prose-nails-rogers.json",
+   "address": {
+    "streetAddress": "13135 Main Street #Suite 200",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1930788,
+    "lon": -93.5534387
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7862304777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "serenity-nails-and-spa-saint-paul",
+   "name": "Serenity Nails & Spa",
+   "summary": "Serenity Nails & Spa is a nail salon in Saint Paul, MN at 653 Snelling Avenue South, Saint Paul, MN 55116.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/serenity-nails-and-spa-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/serenity-nails-and-spa-saint-paul.json",
+   "address": {
+    "streetAddress": "653 Snelling Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9217445,
+    "lon": -93.1672884
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1411811119",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "sola-salons-edina",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Edina, MN at 3519 West 70th Street, Edina, MN 55435.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-edina.json",
+   "address": {
+    "streetAddress": "3519 West 70th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8754729,
+    "lon": -93.3256818
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810693556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "star-nails-eagan",
+   "name": "Star Nails",
+   "summary": "Star Nails is a nail salon in Eagan, MN at 1016 Diffley Road, Eagan, MN 55123.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/star-nails-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/star-nails-eagan.json",
+   "address": {
+    "streetAddress": "1016 Diffley Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8037982,
+    "lon": -93.1394095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9464286593",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "tu-nails-saint-paul",
+   "name": "Tu Nails",
+   "summary": "Tu Nails is a nail salon in Saint Paul, MN at 80 Snelling Avenue, Saint Paul, MN 55104.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tu-nails-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tu-nails-saint-paul.json",
+   "address": {
+    "streetAddress": "80 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9436356,
+    "lon": -93.1660712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7685403553",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "usa-nails-eagan",
+   "name": "USA Nails",
+   "summary": "USA Nails is a nail salon in Eagan, MN at 1270 Town Centre Drive, Eagan, MN 55121.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/usa-nails-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/usa-nails-eagan.json",
+   "address": {
+    "streetAddress": "1270 Town Centre Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8318637,
+    "lon": -93.158131
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12251426309",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "ban-sabai-minneapolis",
+   "name": "Ban Sabai",
+   "summary": "Ban Sabai is a nail salon in Minneapolis, MN at 1704 West Lake Street, Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ban-sabai-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ban-sabai-minneapolis.json",
+   "address": {
+    "streetAddress": "1704 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485988,
+    "lon": -93.3037067
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/772026908",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "daisy-nails-new-hope",
+   "name": "Daisy Nails",
+   "summary": "Daisy Nails is a nail salon in New Hope, MN at 3548 Winnetka Avenue North, New Hope, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/daisy-nails-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/daisy-nails-new-hope.json",
+   "address": {
+    "streetAddress": "3548 Winnetka Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0211013,
+    "lon": -93.3786627
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4183839909",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "enchanted-nails-spa-mendota-heights",
+   "name": "Enchanted Nails Spa",
+   "summary": "Enchanted Nails Spa is a nail salon in Mendota Heights, MN at 772, Mendota Heights, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/enchanted-nails-spa-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/enchanted-nails-spa-mendota-heights.json",
+   "address": {
+    "streetAddress": "772",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8819116,
+    "lon": -93.12478
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "happy-nails-hilltop",
+   "name": "Happy Nails",
+   "summary": "Happy Nails is a nail salon in Hilltop, MN at 765 45th Avenue Northeast, Hilltop, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-nails-hilltop/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-nails-hilltop.json",
+   "address": {
+    "streetAddress": "765 45th Avenue Northeast",
+    "addressLocality": "Hilltop",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hilltop",
+   "state": "MN",
+   "geo": {
+    "lat": 45.050546,
+    "lon": -93.2501598
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11078105928",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "haven-beauty-collective-minnetonka",
+   "name": "Haven Beauty Collective",
+   "summary": "Haven Beauty Collective is a nail salon in Minnetonka, MN at 14729 Excelsior Boulevard, Minnetonka, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haven-beauty-collective-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haven-beauty-collective-minnetonka.json",
+   "address": {
+    "streetAddress": "14729 Excelsior Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9033975,
+    "lon": -93.4668725
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12710480524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "sola-salons-saint-louis-park",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Saint Louis Park, MN at 1675 Park Place Boulevard, Saint Louis Park, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1675 Park Place Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9663175,
+    "lon": -93.3490632
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13761447949",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "solana-nail-spa-eden-prairie",
+   "name": "Solana Nail Spa",
+   "summary": "Solana Nail Spa is a nail salon in Eden Prairie, MN at 8258 Commonwealth Drive, Eden Prairie, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/solana-nail-spa-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/solana-nail-spa-eden-prairie.json",
+   "address": {
+    "streetAddress": "8258 Commonwealth Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547708,
+    "lon": -93.4342127
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4145440397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "super-nail-spa-roseville",
+   "name": "Super Nail Spa",
+   "summary": "Super Nail Spa is a nail salon in Roseville, MN at 1609 West County Road C, Roseville, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/super-nail-spa-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/super-nail-spa-roseville.json",
+   "address": {
+    "streetAddress": "1609 West County Road C",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0224887,
+    "lon": -93.1702155
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566813794",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "t-nails-inver-grove-heights",
+   "name": "T-Nails",
+   "summary": "T-Nails is a nail salon in Inver Grove Heights, MN at 9024, Inver Grove Heights, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/t-nails-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/t-nails-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "9024",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8188833,
+    "lon": -93.0385809
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863365",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "tip-top-nails-eagan",
+   "name": "Tip Top Nails",
+   "summary": "Tip Top Nails is a nail salon in Eagan, MN at 1468B, Eagan, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tip-top-nails-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tip-top-nails-eagan.json",
+   "address": {
+    "streetAddress": "1468B",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8329333,
+    "lon": -93.1715686
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134351510",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "venice-nail-spa-eden-prairie",
+   "name": "Venice Nail Spa",
+   "summary": "Venice Nail Spa is a nail salon in Eden Prairie, MN at 6211 Dell Road, Eden Prairie, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/venice-nail-spa-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/venice-nail-spa-eden-prairie.json",
+   "address": {
+    "streetAddress": "6211 Dell Road",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8909657,
+    "lon": -93.5148318
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5627517141",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "at-nails-rogers",
+   "name": "AT Nails",
+   "summary": "AT Nails is a nail salon in Rogers, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/at-nails-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/at-nails-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1978788,
+    "lon": -93.5574896
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423684",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
+   "sponsored": false,
+   "slug": "central-nails-eagan",
+   "name": "Central Nails",
+   "summary": "Central Nails is a nail salon in Eagan, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-nails-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-nails-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8358624,
+    "lon": -93.1694985
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724662589",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "cheon-luxe-nails-minneapolis",
+   "name": "Cheon Luxe Nails",
+   "summary": "Cheon Luxe Nails is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cheon-luxe-nails-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cheon-luxe-nails-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9517637,
+    "lon": -93.2980403
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13892865162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "daisy-nails-minneapolis-n12175225572",
+   "name": "Daisy Nails",
+   "summary": "Daisy Nails is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/daisy-nails-minneapolis-n12175225572/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/daisy-nails-minneapolis-n12175225572.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482274,
+    "lon": -93.2276729
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12175225572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
+   "sponsored": false,
+   "slug": "de-paris-nails-crystal",
+   "name": "De Paris Nails",
+   "summary": "De Paris Nails is a nail salon in Crystal, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/de-paris-nails-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/de-paris-nails-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0538347,
+    "lon": -93.362984
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131839060",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "de-paris-nails-west-saint-paul",
+   "name": "De Paris Nails",
+   "summary": "De Paris Nails is a nail salon in West Saint Paul, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/de-paris-nails-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/de-paris-nails-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9092616,
+    "lon": -93.0824695
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12726907081",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "do-me-nails-minneapolis",
+   "name": "Do Me Nails",
+   "summary": "Do Me Nails is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/do-me-nails-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/do-me-nails-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482388,
+    "lon": -93.2497712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12329644179",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "e-nails-minneapolis",
+   "name": "E Nails",
+   "summary": "E Nails is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/e-nails-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/e-nails-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9782145,
+    "lon": -93.273911
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13265552511",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
+   "sponsored": false,
+   "slug": "elite-nails-spa-white-bear-lake",
+   "name": "Elite Nails + Spa",
+   "summary": "Elite Nails + Spa is a nail salon in White Bear Lake, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-nails-spa-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-nails-spa-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.051257,
+    "lon": -92.9840293
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597127801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
+   "sponsored": false,
+   "slug": "envy-nails-edina",
+   "name": "Envy Nails",
+   "summary": "Envy Nails is a nail salon in Edina, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/envy-nails-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/envy-nails-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8661684,
+    "lon": -93.3266813
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11446922280",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
+   "sponsored": false,
+   "slug": "friendly-nails-eagan",
+   "name": "Friendly Nails",
+   "summary": "Friendly Nails is a nail salon in Eagan, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/friendly-nails-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/friendly-nails-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8461577,
+    "lon": -93.1213465
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13686931646",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "kt-nails-minnetonka",
+   "name": "KT Nails",
+   "summary": "KT Nails is a nail salon in Minnetonka, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kt-nails-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kt-nails-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9146848,
+    "lon": -93.5054365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/937197678",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
+   "sponsored": false,
+   "slug": "lady-fingers-saint-paul",
+   "name": "Lady Fingers",
+   "summary": "Lady Fingers is a nail salon in Saint Paul, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lady-fingers-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lady-fingers-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9399093,
+    "lon": -93.1781735
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13076803275",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 103,
+   "sponsored": false,
+   "slug": "love-nails-new-hope",
+   "name": "Love Nails",
+   "summary": "Love Nails is a nail salon in New Hope, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/love-nails-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/love-nails-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0340301,
+    "lon": -93.3815471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7089810780",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "lupitas-nail-salon-minneapolis",
+   "name": "Lupita's Nail Salon",
+   "summary": "Lupita's Nail Salon is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lupitas-nail-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lupitas-nail-salon-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482284,
+    "lon": -93.2555998
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626237151",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "lux-nail-spa-eagan",
+   "name": "Lux Nail Spa",
+   "summary": "Lux Nail Spa is a nail salon in Eagan, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lux-nail-spa-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lux-nail-spa-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8202061,
+    "lon": -93.2055707
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234733596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "luxury-nails-new-brighton",
+   "name": "Luxury Nails",
+   "summary": "Luxury Nails is a nail salon in New Brighton, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luxury-nails-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luxury-nails-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0659516,
+    "lon": -93.2178405
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11832969931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "mitchell-nail-and-spa-eden-prairie",
+   "name": "Mitchell Nail & Spa",
+   "summary": "Mitchell Nail & Spa is a nail salon in Eden Prairie, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mitchell-nail-and-spa-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mitchell-nail-and-spa-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8688764,
+    "lon": -93.4565068
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12021268037",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "mystic-nails-minneapolis",
+   "name": "Mystic Nails",
+   "summary": "Mystic Nails is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mystic-nails-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mystic-nails-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0062621,
+    "lon": -93.2275319
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "nail-and-beauty-skin-care-minneapolis",
+   "name": "Nail & Beauty Skin Care",
+   "summary": "Nail & Beauty Skin Care is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-and-beauty-skin-care-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-and-beauty-skin-care-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9481128,
+    "lon": -93.2759094
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217073409",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
+   "sponsored": false,
+   "slug": "nails-and-spa-maple-grove",
+   "name": "Nails & Spa",
+   "summary": "Nails & Spa is a nail salon in Maple Grove, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-and-spa-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-and-spa-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0961714,
+    "lon": -93.4413973
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8902410066",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "nails-1st-eagan",
+   "name": "Nails 1st",
+   "summary": "Nails 1st is a nail salon in Eagan, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-1st-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-1st-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8269088,
+    "lon": -93.162557
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1719957715",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "paint-nail-bar-wayzata",
+   "name": "Paint Nail Bar",
+   "summary": "Paint Nail Bar is a nail salon in Wayzata, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paint-nail-bar-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paint-nail-bar-wayzata.json",
+   "address": {
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9722682,
+    "lon": -93.5015151
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8541854044",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "pamper-nails-eagan",
+   "name": "PamPer Nails",
+   "summary": "PamPer Nails is a nail salon in Eagan, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pamper-nails-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pamper-nails-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8339759,
+    "lon": -93.1794933
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724662577",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
+   "sponsored": false,
+   "slug": "paulas-salon-minneapolis",
+   "name": "Paula's Salon",
+   "summary": "Paula's Salon is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paulas-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paulas-salon-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482388,
+    "lon": -93.28409
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12286131612",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
+   "sponsored": false,
+   "slug": "pro-nails-crystal",
+   "name": "Pro Nails",
+   "summary": "Pro Nails is a nail salon in Crystal, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-nails-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-nails-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0527616,
+    "lon": -93.3685885
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129455338",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
+   "sponsored": false,
+   "slug": "ps-nails-rogers",
+   "name": "Ps Nails",
+   "summary": "Ps Nails is a nail salon in Rogers, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ps-nails-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ps-nails-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2004164,
+    "lon": -93.5558305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423674",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 117,
+   "sponsored": false,
+   "slug": "red-nails-brooklyn-park",
+   "name": "Red Nails",
+   "summary": "Red Nails is a nail salon in Brooklyn Park, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/red-nails-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/red-nails-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.110945,
+    "lon": -93.3049896
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8142897930",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 118,
+   "sponsored": false,
+   "slug": "royal-nails-minnetonka",
+   "name": "Royal Nails",
+   "summary": "Royal Nails is a nail salon in Minnetonka, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royal-nails-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royal-nails-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9175828,
+    "lon": -93.5012036
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487978",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
+   "sponsored": false,
+   "slug": "saturn-minneapolis",
+   "name": "Saturn",
+   "summary": "Saturn is a nail salon in Minneapolis, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saturn-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saturn-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9496825,
+    "lon": -93.2904925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11117857204",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "style-nails-champlin",
+   "name": "Style Nails",
+   "summary": "Style Nails is a nail salon in Champlin, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/style-nails-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/style-nails-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1617374,
+    "lon": -93.3904107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8151238231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
+   "sponsored": false,
+   "slug": "super-nails-white-bear-lake",
+   "name": "Super Nails",
+   "summary": "Super Nails is a nail salon in White Bear Lake, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/super-nails-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/super-nails-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.049721,
+    "lon": -92.987473
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597127804",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 122,
+   "sponsored": false,
+   "slug": "tnt-nails-blaine",
+   "name": "TNT Nails",
+   "summary": "TNT Nails is a nail salon in Blaine, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tnt-nails-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tnt-nails-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1313522,
+    "lon": -93.2591003
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453435775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "tu-nails-blaine",
+   "name": "TU Nails",
+   "summary": "TU Nails is a nail salon in Blaine, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tu-nails-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tu-nails-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.167485,
+    "lon": -93.2332658
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12527842878",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
+   "sponsored": false,
+   "slug": "turbo-nails-and-spa-eagan",
+   "name": "Turbo Nails and Spa",
+   "summary": "Turbo Nails and Spa is a nail salon in Eagan, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/turbo-nails-and-spa-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/turbo-nails-and-spa-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8355,
+    "lon": -93.1513466
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13610640656",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 125,
+   "sponsored": false,
+   "slug": "v-nails-new-hope",
+   "name": "V Nails",
+   "summary": "V Nails is a nail salon in New Hope, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/v-nails-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/v-nails-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0226451,
+    "lon": -93.3993539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335894131",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 126,
+   "sponsored": false,
+   "slug": "vp-nails-eagan",
+   "name": "VP Nails",
+   "summary": "VP Nails is a nail salon in Eagan, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vp-nails-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vp-nails-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8149942,
+    "lon": -93.2101622
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12730027388",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

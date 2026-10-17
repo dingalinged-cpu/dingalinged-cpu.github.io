@@ -1,0 +1,57 @@
+{
+ "slug": "slumberland-clearance-center-saint-louis-park",
+ "name": "Slumberland Clearance Center",
+ "categories": [
+  "mattress store"
+ ],
+ "keywords": [
+  "mattress store",
+  "mattress store saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "mattress store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4140 Excelsior Boulevard",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9375752,
+  "lon": -93.3334064
+ },
+ "phone": "+19529259035",
+ "website": "https://www.slumberland.com/stores/-0b-st-louis-park-mn",
+ "opening_hours": "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00; PH closed",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/692875252",
+ "osm": {
+  "type": "way",
+  "id": 692875252,
+  "tags_used": {
+   "shop": "bed"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-clearance-center-saint-louis-park/",
+ "summary": "Slumberland Clearance Center is a mattress store in Saint Louis Park, MN at 4140 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529259035. Website: https://www.slumberland.com/stores/-0b-st-louis-park-mn.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

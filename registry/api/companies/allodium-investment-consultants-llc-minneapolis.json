@@ -1,0 +1,58 @@
+{
+ "slug": "allodium-investment-consultants-llc-minneapolis",
+ "name": "Allodium Investment Consultants, LLC",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "500 South Washington Avenue ##4400",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55415",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55415",
+ "geo": {
+  "lat": 44.9787885,
+  "lon": -93.2604611
+ },
+ "phone": "+16122303700",
+ "website": "https://allodium.com/",
+ "email": "info@allodium.com",
+ "opening_hours": "Mo-Fr 08:00-17:00",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9682325842",
+ "osm": {
+  "type": "node",
+  "id": 9682325842,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/allodium-investment-consultants-llc-minneapolis/",
+ "summary": "Allodium Investment Consultants, LLC is a financial advisor in Minneapolis, MN at 500 South Washington Avenue ##4400, Minneapolis, MN 55415. Phone: +16122303700. Website: https://allodium.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

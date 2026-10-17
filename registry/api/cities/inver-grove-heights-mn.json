@@ -1,0 +1,971 @@
+{
+ "place": "Inver Grove Heights, MN",
+ "slug": "inver-grove-heights-mn",
+ "count": 30,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "bakery inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "bike shop inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "car wash inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "chiropractor inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "dance studio inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "daycare inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "dentist inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "dog groomer inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "gym inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "hair salon inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "haircut inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "insurance agency inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "insurance agent inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "insurance agents inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "liquor store inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "mechanic inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "nail salon inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "pet store inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "staffing agency inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "tire shop inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "used cars for sale inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-inver-grove-heights-mn.json"
+  },
+  {
+   "keyword": "vet inver grove heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-inver-grove-heights-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "morries-mazda-inver-grove-heights",
+   "name": "Morries Mazda",
+   "summary": "Morries Mazda is an used car dealer in Inver Grove Heights, MN at 10 Mendota Road East, Inver Grove Heights, MN 55077. Phone: +16516914672. Website: https://www.morriesinvergrovemazda.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morries-mazda-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morries-mazda-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "10 Mendota Road East",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55077",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55077",
+   "geo": {
+    "lat": 44.8829772,
+    "lon": -93.0846816
+   },
+   "phone": "+16516914672",
+   "website": "https://www.morriesinvergrovemazda.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00, Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527085044",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "snap-fitness-inver-grove-heights",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Inver Grove Heights, MN at 6502 Cahill Avenue, Inver Grove Heights, MN 55076. Website: https://www.snapfitness.com/us/gyms/inver-grove-heights-mn.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "6502 Cahill Avenue",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8549208,
+    "lon": -93.044428
+   },
+   "website": "https://www.snapfitness.com/us/gyms/inver-grove-heights-mn",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12164248408",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "masterson-staffing-inver-grove-heights",
+   "name": "Masterson Staffing",
+   "summary": "Masterson Staffing is a staffing agency in Inver Grove Heights, MN at 1354 Mendota Road East, Inver Grove Heights, MN 55077. Website: https://www.mastersonstaffing.com/staffing-solutions/staffing-agency-inver-grove-heights/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/masterson-staffing-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/masterson-staffing-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "1354 Mendota Road East",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55077",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55077",
+   "geo": {
+    "lat": 44.8820873,
+    "lon": -93.0782746
+   },
+   "website": "https://www.mastersonstaffing.com/staffing-solutions/staffing-agency-inver-grove-heights/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/18591746",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "paws-abilities-dog-training-inver-grove-heights",
+   "name": "Paws Abilities Dog Training",
+   "summary": "Paws Abilities Dog Training is a pet store in Inver Grove Heights, MN at 6475 Cahill Avenue, Inver Grove Heights, MN 55076. Website: https://pawsabilitiesmn.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paws-abilities-dog-training-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paws-abilities-dog-training-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "6475 Cahill Avenue",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8557606,
+    "lon": -93.0455387
+   },
+   "website": "https://pawsabilitiesmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5155386653",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anytime-fitness-inver-grove-heights",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Inver Grove Heights, MN at 9070, Inver Grove Heights, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "9070",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8189576,
+    "lon": -93.0420876
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863353",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bike-king-inver-grove-heights",
+   "name": "Bike King",
+   "summary": "Bike King is a bike shop in Inver Grove Heights, MN at 6489 Cahill Avenue, Inver Grove Heights, MN 55076.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bike-king-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bike-king-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "6489 Cahill Avenue",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8555742,
+    "lon": -93.0455394
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4483217810",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "byrons-auto-repair-inver-grove-heights",
+   "name": "Byron's Auto Repair",
+   "summary": "Byron's Auto Repair is an auto repair shop in Inver Grove Heights, MN at 6250 Concord Boulevard, Inver Grove Heights, MN 55076.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/byrons-auto-repair-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/byrons-auto-repair-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "6250 Concord Boulevard",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8591122,
+    "lon": -93.0204898
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531053777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "family-dentistry-inver-grove-heights",
+   "name": "Family Dentistry",
+   "summary": "Family Dentistry is a dentist in Inver Grove Heights, MN at 6665 Cahill Avenue, Inver Grove Heights, MN 55076.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-dentistry-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-dentistry-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "6665 Cahill Avenue",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8526367,
+    "lon": -93.0455231
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/490729787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "inver-grove-heights-animal-hospital-inver-grove-heights",
+   "name": "Inver Grove Heights Animal Hospital",
+   "summary": "Inver Grove Heights Animal Hospital is a veterinarian in Inver Grove Heights, MN at 7135 Cahill Avenue, Inver Grove Heights, MN 55076.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/inver-grove-heights-animal-hospital-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/inver-grove-heights-animal-hospital-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "7135 Cahill Avenue",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8460409,
+    "lon": -93.0429101
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/526952157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lamettrys-collision-and-glass-inver-grove-heights",
+   "name": "LaMettry's Collision & Glass",
+   "summary": "LaMettry's Collision & Glass is an auto repair shop in Inver Grove Heights, MN at 4700 Robert Trail South, Inver Grove Heights, MN 55077.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lamettrys-collision-and-glass-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lamettrys-collision-and-glass-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "4700 Robert Trail South",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55077",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55077",
+   "geo": {
+    "lat": 44.8810458,
+    "lon": -93.0792827
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527085061",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "msi-insurance-inver-grove-heights",
+   "name": "MSI Insurance",
+   "summary": "MSI Insurance is an insurance agent in Inver Grove Heights, MN at 6685 Cahill Avenue, Inver Grove Heights, MN 55076.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/msi-insurance-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/msi-insurance-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "6685 Cahill Avenue",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8524084,
+    "lon": -93.0456133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/490729737",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "park-dental-inver-grove-heights",
+   "name": "Park Dental",
+   "summary": "Park Dental is a dentist in Inver Grove Heights, MN at 5350 Robert Trail South, Inver Grove Heights, MN 55077.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-dental-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-dental-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "5350 Robert Trail South",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55077",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55077",
+   "geo": {
+    "lat": 44.8714213,
+    "lon": -93.0795759
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/489112914",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "southview-animal-hospital-inver-grove-heights",
+   "name": "Southview Animal Hospital",
+   "summary": "Southview Animal Hospital is a veterinarian in Inver Grove Heights, MN at 32 Mendota Road East, Inver Grove Heights, MN 55077.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southview-animal-hospital-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southview-animal-hospital-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "32 Mendota Road East",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55077",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55077",
+   "geo": {
+    "lat": 44.883299,
+    "lon": -93.0833514
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527085041",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "spotless-carwash-inver-grove-heights",
+   "name": "Spotless Carwash",
+   "summary": "Spotless Carwash is a car wash in Inver Grove Heights, MN at 3095 - 3099 65th Street East, Inver Grove Heights, MN 55076.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spotless-carwash-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spotless-carwash-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "3095 - 3099 65th Street East",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8557791,
+    "lon": -93.04351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/488300508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "a-and-m-liquor-inver-grove-heights",
+   "name": "A & M Liquor",
+   "summary": "A & M Liquor is a liquor store in Inver Grove Heights, MN at 5709, Inver Grove Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-and-m-liquor-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-and-m-liquor-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "5709",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8647105,
+    "lon": -93.0404515
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217009579",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "angry-donkey-inver-grove-heights",
+   "name": "Angry Donkey",
+   "summary": "Angry Donkey is a bakery in Inver Grove Heights, MN at 9092, Inver Grove Heights, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/angry-donkey-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/angry-donkey-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "9092",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.818743,
+    "lon": -93.041313
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863347",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arbor-pointe-liquor-inver-grove-heights",
+   "name": "Arbor Pointe Liquor",
+   "summary": "Arbor Pointe Liquor is a liquor store in Inver Grove Heights, MN at 9084, Inver Grove Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arbor-pointe-liquor-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arbor-pointe-liquor-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "9084",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8185536,
+    "lon": -93.0416115
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863351",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kindercare-inver-grove-heights",
+   "name": "Kindercare",
+   "summary": "Kindercare is a daycare in Inver Grove Heights, MN at 7841 Amana Trail, Inver Grove Heights, MN.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "7841 Amana Trail",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8360858,
+    "lon": -93.0908378
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13425555209",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "limitless-chiropractic-inver-grove-heights",
+   "name": "Limitless Chiropractic",
+   "summary": "Limitless Chiropractic is a chiropractor in Inver Grove Heights, MN at 9086, Inver Grove Heights, MN.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/limitless-chiropractic-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/limitless-chiropractic-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "9086",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8186366,
+    "lon": -93.0414845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863350",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "metro-dentalcare-inver-grove-heights",
+   "name": "Metro Dentalcare",
+   "summary": "Metro Dentalcare is a dentist in Inver Grove Heights, MN at 9042, Inver Grove Heights, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-dentalcare-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "9042",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.818667,
+    "lon": -93.0384206
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863362",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "t-nails-inver-grove-heights",
+   "name": "T-Nails",
+   "summary": "T-Nails is a nail salon in Inver Grove Heights, MN at 9024, Inver Grove Heights, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/t-nails-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/t-nails-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "9024",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8188833,
+    "lon": -93.0385809
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863365",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cameron-liqour-store-inver-grove-heights",
+   "name": "Cameron Liqour Store",
+   "summary": "Cameron Liqour Store is a liquor store in Inver Grove Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cameron-liqour-store-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cameron-liqour-store-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547042,
+    "lon": -93.0201975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5155416707",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-inver-grove-heights",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Inver Grove Heights, MN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8165371,
+    "lon": -93.044437
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/314809319",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "grateful-grooming-inver-grove-heights",
+   "name": "Grateful Grooming",
+   "summary": "Grateful Grooming is a dog groomer in Inver Grove Heights, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grateful-grooming-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grateful-grooming-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8548468,
+    "lon": -93.0435614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724577702",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "marilu-g-studio-inver-grove-heights",
+   "name": "Marilu G Studio",
+   "summary": "Marilu G Studio is a hair salon in Inver Grove Heights, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marilu-g-studio-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marilu-g-studio-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.817384,
+    "lon": -93.0456327
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pauls-auto-repair-inver-grove-heights",
+   "name": "Paul's Auto Repair",
+   "summary": "Paul's Auto Repair is an auto repair shop in Inver Grove Heights, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pauls-auto-repair-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pauls-auto-repair-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8550342,
+    "lon": -93.043818
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4483213437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rhythm-and-shoes-inver-grove-heights",
+   "name": "Rhythm and Shoes",
+   "summary": "Rhythm and Shoes is a dance studio in Inver Grove Heights, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rhythm-and-shoes-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rhythm-and-shoes-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8175386,
+    "lon": -93.0459187
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "silver-star-inver-grove-heights",
+   "name": "Silver Star",
+   "summary": "Silver Star is a car wash in Inver Grove Heights, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silver-star-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silver-star-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8170364,
+    "lon": -93.0441495
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1466307641",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-inver-grove-heights",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Inver Grove Heights, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8659907,
+    "lon": -93.0565103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478487978",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-times-hair-salon-inver-grove-heights",
+   "name": "The Times Hair Salon",
+   "summary": "The Times Hair Salon is a hair salon in Inver Grove Heights, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-times-hair-salon-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-times-hair-salon-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.853281,
+    "lon": -93.0454157
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5155386657",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

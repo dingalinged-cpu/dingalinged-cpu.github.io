@@ -1,0 +1,150 @@
+{
+ "keyword": "auto repair maplewood mn",
+ "slug": "auto-repair-maplewood-mn",
+ "place": "Maplewood, MN",
+ "service": "auto repair",
+ "query": "Who are the best auto repair providers in Maplewood, MN?",
+ "matches": [
+  "auto repair in Maplewood, MN",
+  "auto repair near me (Maplewood, MN)",
+  "best auto repair Maplewood, MN",
+  "top rated auto repair Maplewood, MN",
+  "affordable auto repair Maplewood, MN",
+  "emergency auto repair Maplewood, MN"
+ ],
+ "answer": "The top unpaid auto repair listing for Maplewood, MN is North Star Auto Body (an auto repair shop in Maplewood, MN at 2672 Maplewood Drive North, Maplewood, MN 55109. Phone: +18336512886). 4 auto repair businesses are listed for Maplewood, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "north-star-auto-body-maplewood",
+   "name": "North Star Auto Body",
+   "summary": "North Star Auto Body is an auto repair shop in Maplewood, MN at 2672 Maplewood Drive North, Maplewood, MN 55109. Phone: +18336512886.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-star-auto-body-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-star-auto-body-maplewood.json",
+   "address": {
+    "streetAddress": "2672 Maplewood Drive North",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0218343,
+    "lon": -93.0489958
+   },
+   "phone": "+18336512886",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/695844811",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "firestone-maplewood",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Maplewood, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0337167,
+    "lon": -93.0164922
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/137493506",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "lamettreys-maplewood",
+   "name": "LaMettrey's",
+   "summary": "LaMettrey's is an auto repair shop in Maplewood, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lamettreys-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lamettreys-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0303551,
+    "lon": -93.0467832
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/579999365",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "larsons-auto-maplewood",
+   "name": "Larson's Auto",
+   "summary": "Larson's Auto is an auto repair shop in Maplewood, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/larsons-auto-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/larsons-auto-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0353721,
+    "lon": -93.0164544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/137493491",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

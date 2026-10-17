@@ -1,0 +1,80 @@
+{
+ "place": "Greenfield, MN",
+ "slug": "greenfield-mn",
+ "count": 2,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair greenfield mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-greenfield-mn.json"
+  },
+  {
+   "keyword": "mechanic greenfield mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-greenfield-mn.json"
+  },
+  {
+   "keyword": "storage units greenfield mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-greenfield-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "autoworks-collision-greenfield",
+   "name": "Autoworks Collision",
+   "summary": "Autoworks Collision is an auto repair shop in Greenfield, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/autoworks-collision-greenfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/autoworks-collision-greenfield.json",
+   "address": {
+    "addressLocality": "Greenfield",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Greenfield",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0801465,
+    "lon": -93.7214721
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1198171133",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "greenfield-mini-storage-greenfield",
+   "name": "Greenfield Mini Storage",
+   "summary": "Greenfield Mini Storage is a self-storage facility in Greenfield, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greenfield-mini-storage-greenfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greenfield-mini-storage-greenfield.json",
+   "address": {
+    "addressLocality": "Greenfield",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Greenfield",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0821208,
+    "lon": -93.7264844
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1258339529",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

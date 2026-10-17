@@ -1,0 +1,51 @@
+{
+ "slug": "grandmas-bakery-white-bear-lake",
+ "name": "Grandma's Bakery",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery white bear lake mn"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "White Bear Lake",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "White Bear Lake",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0400104,
+  "lon": -93.0331747
+ },
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/126309576",
+ "osm": {
+  "type": "way",
+  "id": 126309576,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "White Bear Lake",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/grandmas-bakery-white-bear-lake/",
+ "summary": "Grandma's Bakery is a bakery in White Bear Lake, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

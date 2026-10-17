@@ -1,0 +1,125 @@
+{
+ "keyword": "chiropractor white bear lake mn",
+ "slug": "chiropractor-white-bear-lake-mn",
+ "place": "White Bear Lake, MN",
+ "service": "chiropractor",
+ "query": "Who are the best chiropractor providers in White Bear Lake, MN?",
+ "matches": [
+  "chiropractor in White Bear Lake, MN",
+  "chiropractor near me (White Bear Lake, MN)",
+  "best chiropractor White Bear Lake, MN",
+  "top rated chiropractor White Bear Lake, MN",
+  "affordable chiropractor White Bear Lake, MN",
+  "emergency chiropractor White Bear Lake, MN"
+ ],
+ "answer": "The top unpaid chiropractor listing for White Bear Lake, MN is Soul Chiropractic & Acupuncture (a chiropractor in White Bear Lake, MN at 4764 Banning Avenue, White Bear Lake, MN 55110. Phone: +16516157685. Website: https://soulchiro.one/). 3 chiropractor businesses are listed for White Bear Lake, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "soul-chiropractic-and-acupuncture-white-bear-lake",
+   "name": "Soul Chiropractic & Acupuncture",
+   "summary": "Soul Chiropractic & Acupuncture is a chiropractor in White Bear Lake, MN at 4764 Banning Avenue, White Bear Lake, MN 55110. Phone: +16516157685. Website: https://soulchiro.one/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/soul-chiropractic-and-acupuncture-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/soul-chiropractic-and-acupuncture-white-bear-lake.json",
+   "address": {
+    "streetAddress": "4764 Banning Avenue",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.0852304,
+    "lon": -93.0074633
+   },
+   "phone": "+16516157685",
+   "website": "https://soulchiro.one/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13155251035",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "family-first-chiropractic-white-bear-lake",
+   "name": "Family First Chiropractic",
+   "summary": "Family First Chiropractic is a chiropractor in White Bear Lake, MN at 1247 Gun Club Road, White Bear Lake, MN 55110. Website: https://www.myfamilyfirstchiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-first-chiropractic-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-first-chiropractic-white-bear-lake.json",
+   "address": {
+    "streetAddress": "1247 Gun Club Road",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.0806996,
+    "lon": -93.0501843
+   },
+   "website": "https://www.myfamilyfirstchiro.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1087016790",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "white-bear-chiropractic-white-bear-lake",
+   "name": "White Bear Chiropractic",
+   "summary": "White Bear Chiropractic is a chiropractor in White Bear Lake, MN.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/white-bear-chiropractic-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/white-bear-chiropractic-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0505615,
+    "lon": -93.0157682
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597140453",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

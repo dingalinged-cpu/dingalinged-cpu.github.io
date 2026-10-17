@@ -1,0 +1,55 @@
+{
+ "slug": "evergreen-dental-eden-prairie",
+ "name": "Evergreen Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist eden prairie mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7890 Mitchell Road",
+  "addressLocality": "Eden Prairie",
+  "addressRegion": "MN",
+  "postalCode": "55344",
+  "addressCountry": "US"
+ },
+ "city": "Eden Prairie",
+ "state": "MN",
+ "zip": "55344",
+ "geo": {
+  "lat": 44.860762,
+  "lon": -93.4607601
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11686430903",
+ "osm": {
+  "type": "node",
+  "id": 11686430903,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Eden Prairie",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/evergreen-dental-eden-prairie/",
+ "summary": "Evergreen Dental is a dentist in Eden Prairie, MN at 7890 Mitchell Road, Eden Prairie, MN 55344.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,97 @@
+{
+ "keyword": "eye doctor shakopee mn",
+ "slug": "eye-doctor-shakopee-mn",
+ "place": "Shakopee, MN",
+ "service": "eye doctor",
+ "query": "Who are the best eye doctor providers in Shakopee, MN?",
+ "matches": [
+  "eye doctor in Shakopee, MN",
+  "eye doctor near me (Shakopee, MN)",
+  "best eye doctor Shakopee, MN",
+  "top rated eye doctor Shakopee, MN",
+  "affordable eye doctor Shakopee, MN",
+  "emergency eye doctor Shakopee, MN"
+ ],
+ "answer": "The top unpaid eye doctor listing for Shakopee, MN is Goldsmith Eye Care (an eye care practice in Shakopee, MN at 1127 Shakopee Town Square, Shakopee, MN 55379. Phone: +19524451132. Website: https://www.goldsmitheye.com/). 2 eye doctor businesses are listed for Shakopee, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "goldsmith-eye-care-shakopee",
+   "name": "Goldsmith Eye Care",
+   "summary": "Goldsmith Eye Care is an eye care practice in Shakopee, MN at 1127 Shakopee Town Square, Shakopee, MN 55379. Phone: +19524451132. Website: https://www.goldsmitheye.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goldsmith-eye-care-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goldsmith-eye-care-shakopee.json",
+   "address": {
+    "streetAddress": "1127 Shakopee Town Square",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.784891,
+    "lon": -93.5539821
+   },
+   "phone": "+19524451132",
+   "website": "https://www.goldsmitheye.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8948775278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "shakopee-eyecare-and-vision-clinic-shakopee",
+   "name": "Shakopee Eyecare and Vision Clinic",
+   "summary": "Shakopee Eyecare and Vision Clinic is an eye care practice in Shakopee, MN at 312 1st Avenue East, Shakopee, MN 55379. Phone: +19524454474. Website: https://chaskaeyecare.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shakopee-eyecare-and-vision-clinic-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shakopee-eyecare-and-vision-clinic-shakopee.json",
+   "address": {
+    "streetAddress": "312 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7987715,
+    "lon": -93.5233224
+   },
+   "phone": "+19524454474",
+   "website": "https://chaskaeyecare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/289380689",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

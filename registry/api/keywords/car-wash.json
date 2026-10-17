@@ -1,0 +1,3335 @@
+{
+ "keyword": "car wash",
+ "slug": "car-wash",
+ "place": "the United States",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in the United States?",
+ "matches": [
+  "car wash in the United States",
+  "car wash near me (the United States)",
+  "best car wash the United States",
+  "top rated car wash the United States",
+  "affordable car wash the United States",
+  "emergency car wash the United States"
+ ],
+ "answer": "The top unpaid car wash listing for the United States is Central Car Wash (a car wash in Minneapolis, MN at 1814 Central Avenue Northeast, Minneapolis, MN 55418. Phone: +16127816924. Website: https://centralcarwash.net/). 109 car wash businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "central-car-wash-minneapolis",
+   "name": "Central Car Wash",
+   "summary": "Central Car Wash is a car wash in Minneapolis, MN at 1814 Central Avenue Northeast, Minneapolis, MN 55418. Phone: +16127816924. Website: https://centralcarwash.net/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-car-wash-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-car-wash-minneapolis.json",
+   "address": {
+    "streetAddress": "1814 Central Avenue Northeast",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0064833,
+    "lon": -93.2479335
+   },
+   "phone": "+16127816924",
+   "website": "https://centralcarwash.net/",
+   "opening_hours": "Mo-Sa 08:00-18:00, Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/947913693",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "crew-carwash-eden-prairie",
+   "name": "Crew Carwash",
+   "summary": "Crew Carwash is a car wash in Eden Prairie, MN at 16345 Terrey Pine Drive, Eden Prairie, MN 55344. Phone: +16126828177. Website: https://locations.crewcarwash.com/mn/eden-prairie/eden-prairie/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crew-carwash-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crew-carwash-eden-prairie.json",
+   "address": {
+    "streetAddress": "16345 Terrey Pine Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8615105,
+    "lon": -93.4849416
+   },
+   "phone": "+16126828177",
+   "website": "https://locations.crewcarwash.com/mn/eden-prairie/eden-prairie/",
+   "opening_hours": "07:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1468611498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "mister-car-wash-saint-louis-park",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Saint Louis Park, MN at 8650 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529319412. Website: https://mistercarwash.com/location/st-louis-park/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8650 Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.935754,
+    "lon": -93.3891603
+   },
+   "phone": "+19529319412",
+   "website": "https://mistercarwash.com/location/st-louis-park/",
+   "opening_hours": "Mo-Sa 07:30-18:00; Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/48383509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "paradise-car-wash-maple-grove",
+   "name": "Paradise Car Wash",
+   "summary": "Paradise Car Wash is a car wash in Maple Grove, MN at 13521 80th Circle North, Maple Grove, MN 55369. Phone: +17638983713. Website: https://www.paradisecarwash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paradise-car-wash-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paradise-car-wash-maple-grove.json",
+   "address": {
+    "streetAddress": "13521 80th Circle North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0993863,
+    "lon": -93.4524136
+   },
+   "phone": "+17638983713",
+   "website": "https://www.paradisecarwash.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00;Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/612796556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "silverstar-car-wash-coon-rapids",
+   "name": "Silverstar Car Wash",
+   "summary": "Silverstar Car Wash is a car wash in Coon Rapids, MN at 2085 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17048700250. Website: https://www.silverstarcarwashes.com/locations/coon-rapids/mn/coon-creek/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silverstar-car-wash-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silverstar-car-wash-coon-rapids.json",
+   "address": {
+    "streetAddress": "2085 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1824571,
+    "lon": -93.3191609
+   },
+   "phone": "+17048700250",
+   "website": "https://www.silverstarcarwashes.com/locations/coon-rapids/mn/coon-creek/",
+   "opening_hours": "Mo-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1431561294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "midway-express-car-wash-saint-paul",
+   "name": "Midway Express Car Wash",
+   "summary": "Midway Express Car Wash is a car wash in Saint Paul, MN at 1610 Energy Park Drive, Saint Paul, MN. Phone: +16516460429. Website: https://metroexpresscarwash.wordpress.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-express-car-wash-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-express-car-wash-saint-paul.json",
+   "address": {
+    "streetAddress": "1610 Energy Park Drive",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9708076,
+    "lon": -93.1681867
+   },
+   "phone": "+16516460429",
+   "website": "https://metroexpresscarwash.wordpress.com/",
+   "opening_hours": "08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/141583925",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "mister-car-wash-anoka",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Anoka, MN at 700 East River Road, Anoka, MN. Phone: +17634271860. Website: https://mistercarwash.com/location/anoka/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-anoka.json",
+   "address": {
+    "streetAddress": "700 East River Road",
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1874071,
+    "lon": -93.3784026
+   },
+   "phone": "+17634271860",
+   "website": "https://mistercarwash.com/location/anoka/",
+   "opening_hours": "Mo-Sa 07:30-19:00; Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/744721949",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "mister-car-wash-plymouth",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Plymouth, MN at 11318 Hwy 55, Plymouth, MN. Phone: +17635411419. Website: https://mistercarwash.com/store/plymouth.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-plymouth.json",
+   "address": {
+    "streetAddress": "11318 Hwy 55",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9893399,
+    "lon": -93.4228719
+   },
+   "phone": "+17635411419",
+   "website": "https://mistercarwash.com/store/plymouth",
+   "opening_hours": "Mo-Sa 07:00-19:00; Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13667629433",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "mister-car-wash-saint-paul",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Saint Paul, MN at East 7th Street, Saint Paul, MN. Phone: +16512227045. Website: https://mistercarwash.com/location/downtowner/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-saint-paul.json",
+   "address": {
+    "streetAddress": "East 7th Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9545633,
+    "lon": -93.0803508
+   },
+   "phone": "+16512227045",
+   "website": "https://mistercarwash.com/location/downtowner/",
+   "opening_hours": "Mo-Sa 07:30-18:00; Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8335878565",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "mermaid-car-wash-golden-valley",
+   "name": "Mermaid Car Wash",
+   "summary": "Mermaid Car Wash is a car wash in Golden Valley, MN at 901 Louisiana Avenue South, Golden Valley, MN 55426. Phone: +17635449700. Website: https://www.waterwerkscarwash.com/golden-valley-full-service.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mermaid-car-wash-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mermaid-car-wash-golden-valley.json",
+   "address": {
+    "streetAddress": "901 Louisiana Avenue South",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9723733,
+    "lon": -93.3700068
+   },
+   "phone": "+17635449700",
+   "website": "https://www.waterwerkscarwash.com/golden-valley-full-service",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/409893490",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "waterwerks-car-wash-richfield",
+   "name": "Waterwerks Car Wash",
+   "summary": "Waterwerks Car Wash is a car wash in Richfield, MN at 2816 West 66th Street, Richfield, MN 55423. Phone: +16128694246. Website: https://www.eddiezautowash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waterwerks-car-wash-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waterwerks-car-wash-richfield.json",
+   "address": {
+    "streetAddress": "2816 West 66th Street",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8840512,
+    "lon": -93.3159469
+   },
+   "phone": "+16128694246",
+   "website": "https://www.eddiezautowash.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/311802103",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "tommys-express-car-wash-bloomington",
+   "name": "Tommy's Express Car Wash",
+   "summary": "Tommy's Express Car Wash is a car wash in Bloomington, MN at 200 West Old Shakopee Road, Bloomington, MN 55420. Website: https://tommys-express.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tommys-express-car-wash-bloomington.json",
+   "address": {
+    "streetAddress": "200 West Old Shakopee Road",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55420",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55420",
+   "geo": {
+    "lat": 44.8268354,
+    "lon": -93.2821107
+   },
+   "website": "https://tommys-express.com/",
+   "opening_hours": "Mo-Su 07:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1263556139",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "tsunami-car-wash-roseville",
+   "name": "Tsunami Car Wash",
+   "summary": "Tsunami Car Wash is a car wash in Roseville, MN at 1701 West County Road C, Roseville, MN. Website: https://www.tsunamiexpress.com/roseville-minnesota-car-wash/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tsunami-car-wash-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tsunami-car-wash-roseville.json",
+   "address": {
+    "streetAddress": "1701 West County Road C",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.021597,
+    "lon": -93.1712919
+   },
+   "website": "https://www.tsunamiexpress.com/roseville-minnesota-car-wash/",
+   "opening_hours": "07:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1217911551",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "mister-car-wash-west-saint-paul",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in West Saint Paul, MN at 110 Thompson Avenue East, West Saint Paul, MN 55118. Website: https://mistercarwash.com/location/west-st-paul/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-west-saint-paul.json",
+   "address": {
+    "streetAddress": "110 Thompson Avenue East",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.901039,
+    "lon": -93.0800521
+   },
+   "website": "https://mistercarwash.com/location/west-st-paul/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527080211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "wash-me-minneapolis",
+   "name": "Wash Me",
+   "summary": "Wash Me is a car wash in Minneapolis, MN at 4159 Hiawatha Avenue, Minneapolis, MN 55406. Website: https://www.washme.net/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wash-me-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wash-me-minneapolis.json",
+   "address": {
+    "streetAddress": "4159 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9272892,
+    "lon": -93.2232348
+   },
+   "website": "https://www.washme.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/98183824",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "wash-me-minneapolis-w333201603",
+   "name": "Wash Me",
+   "summary": "Wash Me is a car wash in Minneapolis, MN at 3957 Nicollet Avenue, Minneapolis, MN 55409. Website: https://www.washme.net/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wash-me-minneapolis-w333201603/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wash-me-minneapolis-w333201603.json",
+   "address": {
+    "streetAddress": "3957 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.9307539,
+    "lon": -93.2776284
+   },
+   "website": "https://www.washme.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/333201603",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "mister-car-wash-roseville",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Roseville, MN at 1555 County Road B West, Roseville, MN. Phone: +16516310220.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-roseville.json",
+   "address": {
+    "streetAddress": "1555 County Road B West",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0066099,
+    "lon": -93.165286
+   },
+   "phone": "+16516310220",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/118402675",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "bp-chanhassen",
+   "name": "BP",
+   "summary": "BP is a car wash in Chanhassen, MN at 7755 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-chanhassen.json",
+   "address": {
+    "streetAddress": "7755 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8640916,
+    "lon": -93.5890887
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52255159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "jiffy-car-wash-and-detail-center-saint-louis-park",
+   "name": "Jiffy Car Wash & Detail Center",
+   "summary": "Jiffy Car Wash & Detail Center is a car wash in Saint Louis Park, MN at 3740 Kipling Avenue South, Saint Louis Park, MN 55416.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-car-wash-and-detail-center-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-car-wash-and-detail-center-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3740 Kipling Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9355177,
+    "lon": -93.3361441
+   },
+   "opening_hours": "Mo-Sa 08:30-18:00; Su 10:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875234",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "pop-car-wash-brooklyn-center",
+   "name": "Pop! Car Wash",
+   "summary": "Pop! Car Wash is a car wash in Brooklyn Center, MN at 1080 Shingle Creek Crossing, Brooklyn Center, MN 55430.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pop-car-wash-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pop-car-wash-brooklyn-center.json",
+   "address": {
+    "streetAddress": "1080 Shingle Creek Crossing",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0585712,
+    "lon": -93.3145285
+   },
+   "opening_hours": "Mo-Fr 07:30-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1031050894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "kwik-trip-brooklyn-park",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=880.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1308173,
+    "lon": -93.3557627
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=880",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543974478",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "kwik-trip-chanhassen",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=402.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8640904,
+    "lon": -93.5776399
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=402",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52255162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "kwik-trip-chanhassen-w258506166",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=492.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen-w258506166/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-chanhassen-w258506166.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8423664,
+    "lon": -93.539362
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=492",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/258506166",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "kwik-trip-hugo",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Hugo, MN. Website: https://www.kwiktrip.com/locator/store?id=454.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-hugo/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-hugo.json",
+   "address": {
+    "addressLocality": "Hugo",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hugo",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1642451,
+    "lon": -93.0175012
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=454",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/485232802",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "kwik-trip-saint-michael",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Saint Michael, MN. Website: https://www.kwiktrip.com/locator/store?id=681.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-saint-michael/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-saint-michael.json",
+   "address": {
+    "addressLocality": "Saint Michael",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Michael",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2178961,
+    "lon": -93.5983921
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=681",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/551708162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "kwik-trip-car-wash-saint-bonifacius",
+   "name": "Kwik Trip - Car Wash",
+   "summary": "Kwik Trip - Car Wash is a car wash in Saint Bonifacius, MN. Website: https://www.kwiktrip.com/locator/store?id=477.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-car-wash-saint-bonifacius.json",
+   "address": {
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "geo": {
+    "lat": 44.901359,
+    "lon": -93.7487504
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=477",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/590636418",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "kwik-trip-car-wash-blaine",
+   "name": "Kwik Trip Car Wash",
+   "summary": "Kwik Trip Car Wash is a car wash in Blaine, MN. Website: https://www.kwiktrip.com/locator/store?id=896.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-car-wash-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1253837,
+    "lon": -93.2359788
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=896",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1120647523",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "kwik-trip-car-wash-brooklyn-park",
+   "name": "Kwik Trip Car Wash",
+   "summary": "Kwik Trip Car Wash is a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=448.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-car-wash-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.125926,
+    "lon": -93.3367894
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=448",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/759919864",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "big-splash-car-wash-west-saint-paul",
+   "name": "Big Splash Car Wash",
+   "summary": "Big Splash Car Wash is a car wash in West Saint Paul, MN at 1407 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-splash-car-wash-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-splash-car-wash-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1407 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9036975,
+    "lon": -93.0812216
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527080180",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "boler-car-wash-detail-center-saint-paul",
+   "name": "Boler Car Wash Detail Center",
+   "summary": "Boler Car Wash Detail Center is a car wash in Saint Paul, MN at 1635 White Bear Avenue North, Saint Paul, MN 55109.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boler-car-wash-detail-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boler-car-wash-detail-center-saint-paul.json",
+   "address": {
+    "streetAddress": "1635 White Bear Avenue North",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 44.9904677,
+    "lon": -93.0258305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/580185541",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "bp-minneapolis-w97992142",
+   "name": "BP",
+   "summary": "BP is a car wash in Minneapolis, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-minneapolis-w97992142/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-minneapolis-w97992142.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9201535,
+    "lon": -93.2775702
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97992142",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "bp-car-wash-saint-paul",
+   "name": "BP Car Wash",
+   "summary": "BP Car Wash is a car wash in Saint Paul, MN at 5990 Hodgson Road, Saint Paul, MN 55126.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-car-wash-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-car-wash-saint-paul.json",
+   "address": {
+    "streetAddress": "5990 Hodgson Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55126",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55126",
+   "geo": {
+    "lat": 45.1237745,
+    "lon": -93.1265384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1318525268",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "browns-car-wash-chanhassen",
+   "name": "Brown's Car Wash",
+   "summary": "Brown's Car Wash is a car wash in Chanhassen, MN at 7903 Great Plains Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/browns-car-wash-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/browns-car-wash-chanhassen.json",
+   "address": {
+    "streetAddress": "7903 Great Plains Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8603205,
+    "lon": -93.53062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/589088945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "canterbury-car-wash-shakopee",
+   "name": "Canterbury Car Wash‎",
+   "summary": "Canterbury Car Wash‎ is a car wash in Shakopee, MN at 612 1st Avenue East, Shakopee, MN 55379.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canterbury-car-wash-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canterbury-car-wash-shakopee.json",
+   "address": {
+    "streetAddress": "612 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7992062,
+    "lon": -93.5190784
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42789259",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "fleet-farm-wash-brooklyn-park",
+   "name": "Fleet Farm Wash",
+   "summary": "Fleet Farm Wash is a car wash in Brooklyn Park, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fleet-farm-wash-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fleet-farm-wash-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1077942,
+    "lon": -93.3865764
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/743019075",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "holiday-car-wash-eagan",
+   "name": "Holiday Car Wash",
+   "summary": "Holiday Car Wash is a car wash in Eagan, MN at 4595 Nicols Road, Eagan, MN 55122.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holiday-car-wash-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holiday-car-wash-eagan.json",
+   "address": {
+    "streetAddress": "4595 Nicols Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.7913288,
+    "lon": -93.2187109
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/320468164",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "hy-vee-car-wash-brooklyn-park",
+   "name": "Hy-Vee Car Wash",
+   "summary": "Hy-Vee Car Wash is a car wash in Brooklyn Park, MN at 9409 Zane Avenue North, Brooklyn Park, MN 55443.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hy-vee-car-wash-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hy-vee-car-wash-brooklyn-park.json",
+   "address": {
+    "streetAddress": "9409 Zane Avenue North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55443",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55443",
+   "geo": {
+    "lat": 45.1258301,
+    "lon": -93.3572504
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/759073064",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "mister-car-wash-shoreview",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Shoreview, MN at 4595 Hodgson Road, Shoreview, MN 55126.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-shoreview.json",
+   "address": {
+    "streetAddress": "4595 Hodgson Road",
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "postalCode": "55126",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "zip": "55126",
+   "geo": {
+    "lat": 45.0802429,
+    "lon": -93.1185332
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/385187222",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "spotless-carwash-inver-grove-heights",
+   "name": "Spotless Carwash",
+   "summary": "Spotless Carwash is a car wash in Inver Grove Heights, MN at 3095 - 3099 65th Street East, Inver Grove Heights, MN 55076.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spotless-carwash-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spotless-carwash-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "3095 - 3099 65th Street East",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8557791,
+    "lon": -93.04351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/488300508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "steves-auto-world-maple-grove",
+   "name": "Steve's Auto World",
+   "summary": "Steve's Auto World is a car wash in Maple Grove, MN at 9871 Maple Grove Parkway, Maple Grove, MN 55369.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/steves-auto-world-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/steves-auto-world-maple-grove.json",
+   "address": {
+    "streetAddress": "9871 Maple Grove Parkway",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1328572,
+    "lon": -93.4769002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/756962544",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "tidal-wave-auto-spa-hugo",
+   "name": "Tidal Wave Auto Spa",
+   "summary": "Tidal Wave Auto Spa is a car wash in Hugo, MN at 7105 Otter Lake Road, Hugo, MN 55038.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-hugo/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tidal-wave-auto-spa-hugo.json",
+   "address": {
+    "streetAddress": "7105 Otter Lake Road",
+    "addressLocality": "Hugo",
+    "addressRegion": "MN",
+    "postalCode": "55038",
+    "addressCountry": "US"
+   },
+   "city": "Hugo",
+   "state": "MN",
+   "zip": "55038",
+   "geo": {
+    "lat": 45.1647327,
+    "lon": -93.0270873
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11695216065",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "tommys-express-new-hope",
+   "name": "Tommy's Express",
+   "summary": "Tommy's Express is a car wash in New Hope, MN at 7201 Bass Lake Road, New Hope, MN 55428.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tommys-express-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tommys-express-new-hope.json",
+   "address": {
+    "streetAddress": "7201 Bass Lake Road",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "postalCode": "55428",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "zip": "55428",
+   "geo": {
+    "lat": 45.0543526,
+    "lon": -93.3719013
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/758423629",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "tommys-express-car-wash-blaine",
+   "name": "Tommy's Express® Car Wash",
+   "summary": "Tommy's Express® Car Wash is a car wash in Blaine, MN at 4252 122nd Lane Northeast, Blaine, MN 55449.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tommys-express-car-wash-blaine.json",
+   "address": {
+    "streetAddress": "4252 122nd Lane Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1913143,
+    "lon": -93.1619794
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12873881598",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "tonys-wash-n-fill-shoreview",
+   "name": "Tony's Wash N Fill",
+   "summary": "Tony's Wash N Fill is a car wash in Shoreview, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tonys-wash-n-fill-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tonys-wash-n-fill-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0579374,
+    "lon": -93.1458702
+   },
+   "opening_hours": "07:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/165915408",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "youngstedts-maple-grove-car-wash-and-detail-center-maple-grove",
+   "name": "Youngstedts Maple Grove Car Wash & Detail Center",
+   "summary": "Youngstedts Maple Grove Car Wash & Detail Center is a car wash in Maple Grove, MN at 16320 96th Avenue North, Maple Grove, MN 55311.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/youngstedts-maple-grove-car-wash-and-detail-center-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/youngstedts-maple-grove-car-wash-and-detail-center-maple-grove.json",
+   "address": {
+    "streetAddress": "16320 96th Avenue North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1282728,
+    "lon": -93.4875256
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/759891429",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "mister-car-wash-minnetonka",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Minnetonka, MN at 17600 Minnesota State Highway 7, Minnetonka, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-minnetonka.json",
+   "address": {
+    "streetAddress": "17600 Minnesota State Highway 7",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9140662,
+    "lon": -93.50392
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/55199931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "the-car-wash-co-saint-paul",
+   "name": "The Car Wash Co.",
+   "summary": "The Car Wash Co. is a car wash in Saint Paul, MN at 351 Robert Street South, Saint Paul, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-car-wash-co-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-car-wash-co-saint-paul.json",
+   "address": {
+    "streetAddress": "351 Robert Street South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9354398,
+    "lon": -93.0813424
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241059079",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "bp-eden-prairie",
+   "name": "BP",
+   "summary": "BP is a car wash in Eden Prairie, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8639867,
+    "lon": -93.4587124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/43411623",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "bp-maple-grove",
+   "name": "BP",
+   "summary": "BP is a car wash in Maple Grove, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0877565,
+    "lon": -93.4326795
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/874420127",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "bp-minneapolis",
+   "name": "BP",
+   "summary": "BP is a car wash in Minneapolis, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.016534,
+    "lon": -93.2637818
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92986499",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "bp-saint-paul",
+   "name": "BP",
+   "summary": "BP is a car wash in Saint Paul, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.918247,
+    "lon": -93.1853974
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/552410303",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "bp-white-bear-lake",
+   "name": "BP",
+   "summary": "BP is a car wash in White Bear Lake, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0876395,
+    "lon": -93.0079351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125833192",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "corner-express-car-wash-centerville",
+   "name": "Corner Express Car Wash",
+   "summary": "Corner Express Car Wash is a car wash in Centerville, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corner-express-car-wash-centerville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corner-express-car-wash-centerville.json",
+   "address": {
+    "addressLocality": "Centerville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Centerville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1631256,
+    "lon": -93.0415049
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1001891128",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "crystal-carwash-center-crystal",
+   "name": "Crystal Carwash Center",
+   "summary": "Crystal Carwash Center is a car wash in Crystal, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crystal-carwash-center-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crystal-carwash-center-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0461185,
+    "lon": -93.3543862
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/763218842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "holiday-saint-paul",
+   "name": "Holiday",
+   "summary": "Holiday is a car wash in Saint Paul, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holiday-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holiday-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9491147,
+    "lon": -93.1574931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1411664196",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "holiday-car-wash-bloomington",
+   "name": "Holiday Car Wash",
+   "summary": "Holiday Car Wash is a car wash in Bloomington, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holiday-car-wash-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holiday-car-wash-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.806928,
+    "lon": -93.3519503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1372464678",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "holiday-car-wash-eagan-w527752172",
+   "name": "Holiday Car Wash",
+   "summary": "Holiday Car Wash is a car wash in Eagan, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holiday-car-wash-eagan-w527752172/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holiday-car-wash-eagan-w527752172.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8038267,
+    "lon": -93.1875598
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527752172",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "holiday-gas-station-saint-bonifacius",
+   "name": "Holiday Gas Station",
+   "summary": "Holiday Gas Station is a car wash in Saint Bonifacius, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holiday-gas-station-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holiday-gas-station-saint-bonifacius.json",
+   "address": {
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9024107,
+    "lon": -93.7460426
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3451997933",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "hot-shot-car-wash-eden-prairie",
+   "name": "Hot Shot Car Wash",
+   "summary": "Hot Shot Car Wash is a car wash in Eden Prairie, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hot-shot-car-wash-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hot-shot-car-wash-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8641774,
+    "lon": -93.4675203
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/43411724",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "lake-and-park-car-wash-minneapolis",
+   "name": "Lake & Park Car Wash",
+   "summary": "Lake & Park Car Wash is a car wash in Minneapolis, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-and-park-car-wash-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-and-park-car-wash-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482091,
+    "lon": -93.2657129
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12184588696",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "mister-car-wash-arden-hills",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Arden Hills, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-arden-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-arden-hills.json",
+   "address": {
+    "addressLocality": "Arden Hills",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Arden Hills",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0547229,
+    "lon": -93.1483722
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1536953966",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "mister-car-wash-champlin",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Champlin, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1766932,
+    "lon": -93.3909406
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1483900354",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "mister-express-car-wash-eden-prairie",
+   "name": "Mister Express Car Wash",
+   "summary": "Mister Express Car Wash is a car wash in Eden Prairie, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-express-car-wash-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-express-car-wash-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8540809,
+    "lon": -93.4305866
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47230074",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "misters-car-wash-blaine",
+   "name": "Misters Car wash",
+   "summary": "Misters Car wash is a car wash in Blaine, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/misters-car-wash-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/misters-car-wash-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1931751,
+    "lon": -93.2356089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1497553815",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "mobil-burnsville",
+   "name": "Mobil",
+   "summary": "Mobil is a car wash in Burnsville, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobil-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobil-burnsville.json",
+   "address": {
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7856674,
+    "lon": -93.2490454
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1035151773",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "paradise-eagan",
+   "name": "Paradise",
+   "summary": "Paradise is a car wash in Eagan, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paradise-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paradise-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8291019,
+    "lon": -93.1659412
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92926310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "regal-car-wash-crystal",
+   "name": "Regal Car Wash",
+   "summary": "Regal Car Wash is a car wash in Crystal, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/regal-car-wash-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/regal-car-wash-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0496839,
+    "lon": -93.3609895
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/171280381",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "rice-street-car-wash-maplewood",
+   "name": "Rice Street Car Wash",
+   "summary": "Rice Street Car Wash is a car wash in Maplewood, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rice-street-car-wash-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rice-street-car-wash-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9940331,
+    "lon": -93.1045757
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605754160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "scrubbys-saint-paul",
+   "name": "Scrubbys",
+   "summary": "Scrubbys is a car wash in Saint Paul, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scrubbys-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scrubbys-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9108113,
+    "lon": -93.1512336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/94849173",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "silver-star-inver-grove-heights",
+   "name": "Silver Star",
+   "summary": "Silver Star is a car wash in Inver Grove Heights, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silver-star-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silver-star-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8170364,
+    "lon": -93.0441495
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1466307641",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "soapy-joes-car-wash-saint-paul",
+   "name": "Soapy Joe's Car Wash",
+   "summary": "Soapy Joe's Car Wash is a car wash in Saint Paul, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/soapy-joes-car-wash-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/soapy-joes-car-wash-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9209374,
+    "lon": -93.1360745
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/96779231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "solar-car-wash-roseville",
+   "name": "Solar Car Wash",
+   "summary": "Solar Car Wash is a car wash in Roseville, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/solar-car-wash-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/solar-car-wash-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9922532,
+    "lon": -93.1549725
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/158810779",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "speedy-wash-albertville",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Albertville, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-albertville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-albertville.json",
+   "address": {
+    "addressLocality": "Albertville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Albertville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2390946,
+    "lon": -93.6638713
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478618007",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "speedy-wash-andover",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Andover, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-andover/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-andover.json",
+   "address": {
+    "addressLocality": "Andover",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Andover",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2199123,
+    "lon": -93.3050194
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478685657",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "speedy-wash-blaine",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Blaine, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1470349,
+    "lon": -93.2363538
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478659848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "speedy-wash-blaine-w1162650248",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Blaine, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-blaine-w1162650248/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-blaine-w1162650248.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1669589,
+    "lon": -93.2657315
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162650248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "speedy-wash-brooklyn-center",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Brooklyn Center, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-brooklyn-center.json",
+   "address": {
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0815048,
+    "lon": -93.3376914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478538955",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "speedy-wash-brooklyn-center-n12478589865",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Brooklyn Center, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-brooklyn-center-n12478589865/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-brooklyn-center-n12478589865.json",
+   "address": {
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0737693,
+    "lon": -93.2878532
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478589865",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "speedy-wash-burnsville",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Burnsville, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-burnsville.json",
+   "address": {
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7846513,
+    "lon": -93.2572449
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478452060",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "speedy-wash-chanhassen",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Chanhassen, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8568405,
+    "lon": -93.5962826
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478425850",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "speedy-wash-chaska",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Chaska, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-chaska.json",
+   "address": {
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "geo": {
+    "lat": 44.820221,
+    "lon": -93.6019285
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478688395",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "speedy-wash-chaska-n12478706590",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Chaska, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-chaska-n12478706590/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-chaska-n12478706590.json",
+   "address": {
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8013073,
+    "lon": -93.578859
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478706590",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "speedy-wash-coon-rapids",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Coon Rapids, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1551555,
+    "lon": -93.3051247
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478609969",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "speedy-wash-crystal",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Crystal, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0224499,
+    "lon": -93.3797307
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/765732051",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "speedy-wash-eagan",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Eagan, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8325265,
+    "lon": -93.1681259
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7139973267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "speedy-wash-eden-prairie",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Eden Prairie, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8893708,
+    "lon": -93.4202918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478461038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "speedy-wash-edina",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Edina, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9049397,
+    "lon": -93.3285479
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478485142",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "speedy-wash-inver-grove-heights",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Inver Grove Heights, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8659907,
+    "lon": -93.0565103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478487978",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "speedy-wash-long-lake",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Long Lake, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-long-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-long-lake.json",
+   "address": {
+    "addressLocality": "Long Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Long Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9884113,
+    "lon": -93.5843607
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4810648225",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "speedy-wash-mendota-heights",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Mendota Heights, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-mendota-heights.json",
+   "address": {
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8655126,
+    "lon": -93.1521161
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478485185",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
+   "sponsored": false,
+   "slug": "speedy-wash-mendota-heights-w531847439",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Mendota Heights, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-mendota-heights-w531847439/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-mendota-heights-w531847439.json",
+   "address": {
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8828344,
+    "lon": -93.146142
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531847439",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "speedy-wash-minnetonka",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Minnetonka, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9340286,
+    "lon": -93.4215176
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/254347508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "speedy-wash-minnetonka-w413449072",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Minnetonka, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-minnetonka-w413449072/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-minnetonka-w413449072.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9146739,
+    "lon": -93.5024503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/413449072",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
+   "sponsored": false,
+   "slug": "speedy-wash-newport",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Newport, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-newport.json",
+   "address": {
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8740951,
+    "lon": -92.9998516
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/976795663",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "speedy-wash-plymouth",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Plymouth, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-plymouth.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0342366,
+    "lon": -93.5087545
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478506137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "speedy-wash-plymouth-w765545492",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Plymouth, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-plymouth-w765545492/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-plymouth-w765545492.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0649316,
+    "lon": -93.4809388
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/765545492",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "speedy-wash-roseville",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Roseville, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0354,
+    "lon": -93.2009975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478568030",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
+   "sponsored": false,
+   "slug": "speedy-wash-roseville-n12478574231",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Roseville, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-roseville-n12478574231/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-roseville-n12478574231.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0056815,
+    "lon": -93.1267751
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478574231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
+   "sponsored": false,
+   "slug": "speedy-wash-roseville-n12478593991",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Roseville, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-roseville-n12478593991/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-roseville-n12478593991.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0103901,
+    "lon": -93.1067579
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478593991",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
+   "sponsored": false,
+   "slug": "speedy-wash-saint-michael",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Saint Michael, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-saint-michael/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-saint-michael.json",
+   "address": {
+    "addressLocality": "Saint Michael",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Michael",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2108043,
+    "lon": -93.6571905
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/554173165",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "speedy-wash-shakopee",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Shakopee, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7853719,
+    "lon": -93.4693562
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6704330412",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
+   "sponsored": false,
+   "slug": "speedy-wash-shakopee-n12478740708",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Shakopee, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-shakopee-n12478740708/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-shakopee-n12478740708.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7807758,
+    "lon": -93.505719
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478740708",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 103,
+   "sponsored": false,
+   "slug": "speedy-wash-shoreview",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Shoreview, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1231878,
+    "lon": -93.1853577
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478643339",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "speedy-wash-white-bear-lake",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in White Bear Lake, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0358345,
+    "lon": -92.9853716
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478558877",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "stevies-gas-and-splash-new-brighton",
+   "name": "Stevies Gas and Splash",
+   "summary": "Stevies Gas and Splash is a car wash in New Brighton, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stevies-gas-and-splash-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stevies-gas-and-splash-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0551958,
+    "lon": -93.1976381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/787328202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "stop-n-shop-carwash-minneapolis",
+   "name": "Stop N Shop Carwash",
+   "summary": "Stop N Shop Carwash is a car wash in Minneapolis, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stop-n-shop-carwash-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stop-n-shop-carwash-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9468076,
+    "lon": -93.2774822
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/513401266",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "tommys-express-car-wash-inc-short-visits-mounds-view",
+   "name": "Tommy's Express Car Wash (Inc. Short-Visits)",
+   "summary": "Tommy's Express Car Wash (Inc. Short-Visits) is a car wash in Mounds View, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-inc-short-visits-mounds-view/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tommys-express-car-wash-inc-short-visits-mounds-view.json",
+   "address": {
+    "addressLocality": "Mounds View",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mounds View",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1053402,
+    "lon": -93.2083062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/925111825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "touch-em-all-car-wash-rogers",
+   "name": "Touch 'Em All Car Wash",
+   "summary": "Touch 'Em All Car Wash is a car wash in Rogers, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/touch-em-all-car-wash-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/touch-em-all-car-wash-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2027766,
+    "lon": -93.5550399
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/102924178",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "town-centre-car-wash-eagan",
+   "name": "Town Centre Car Wash",
+   "summary": "Town Centre Car Wash is a car wash in Eagan, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/town-centre-car-wash-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/town-centre-car-wash-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8296245,
+    "lon": -93.1604035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/765822580",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

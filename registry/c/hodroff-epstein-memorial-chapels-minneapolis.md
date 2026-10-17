@@ -1,0 +1,23 @@
+Hodroff-Epstein Memorial Chapels is a funeral home in Minneapolis, MN at 126 East Franklin Avenue, Minneapolis, MN 55404. Phone: +16128711234. Website: https://www.hodroffepsteinmemorialchapels.com/.
+
+# Hodroff-Epstein Memorial Chapels
+
+- Category: funeral home
+- Services: funeral home
+- Address: 126 East Franklin Avenue, Minneapolis, MN 55404
+- City: Minneapolis
+- State: MN
+- ZIP: 55404
+- Coordinates: 44.9629717, -93.2749728
+- Phone: +16128711234
+- Website: https://www.hodroffepsteinmemorialchapels.com/
+- Email: info@hodroffepstein.com
+- Opening hours (OSM syntax): 24/7
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hodroff-epstein-memorial-chapels-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hodroff-epstein-memorial-chapels-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/119006335 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

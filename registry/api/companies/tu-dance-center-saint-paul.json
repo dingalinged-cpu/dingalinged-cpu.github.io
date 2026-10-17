@@ -1,0 +1,57 @@
+{
+ "slug": "tu-dance-center-saint-paul",
+ "name": "TU Dance Center",
+ "categories": [
+  "dance studio"
+ ],
+ "keywords": [
+  "dance studio",
+  "dance studio saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "dance studio",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2121 University Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.9607207,
+  "lon": -93.1883569
+ },
+ "phone": "+16126051925",
+ "website": "https://www.tudance.org/",
+ "opening_hours": "Mo-Fr 09:30-21:00; Sa 09:00-18:00",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7176417225",
+ "osm": {
+  "type": "node",
+  "id": 7176417225,
+  "tags_used": {
+   "leisure": "dance"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tu-dance-center-saint-paul/",
+ "summary": "TU Dance Center is a dance studio in Saint Paul, MN at 2121 University Avenue, Saint Paul, MN 55114. Phone: +16126051925. Website: https://www.tudance.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

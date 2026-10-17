@@ -1,0 +1,62 @@
+{
+ "slug": "romer-and-company-pc-minneapolis",
+ "name": "Romer & Company, PC",
+ "categories": [
+  "accountant"
+ ],
+ "keywords": [
+  "accountant",
+  "accounting services",
+  "accountant minneapolis mn",
+  "accounting services minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "accountant",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "accounting services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4322 Nicollet Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55409",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55409",
+ "geo": {
+  "lat": 44.9242916,
+  "lon": -93.2783306
+ },
+ "phone": "+16128720012",
+ "website": "https://www.romercpas.com/",
+ "schema_type": "AccountingService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4630862009",
+ "osm": {
+  "type": "node",
+  "id": 4630862009,
+  "tags_used": {
+   "office": "accountant"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/romer-and-company-pc-minneapolis/",
+ "summary": "Romer & Company, PC is an accountant in Minneapolis, MN at 4322 Nicollet Avenue, Minneapolis, MN 55409. Phone: +16128720012. Website: https://www.romercpas.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "boreal-saint-paul",
+ "name": "boreal",
+ "categories": [
+  "gift shop"
+ ],
+ "keywords": [
+  "gift shop",
+  "gift shop saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "gift shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2276 Como Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55108",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55108",
+ "geo": {
+  "lat": 44.9816184,
+  "lon": -93.1952415
+ },
+ "phone": "+16515609900",
+ "website": "https://boreal.life/",
+ "opening_hours": "Mo-Sa 10:00-17:00; Su 10:00-16:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/157489498",
+ "osm": {
+  "type": "way",
+  "id": 157489498,
+  "tags_used": {
+   "shop": "gift"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/boreal-saint-paul/",
+ "summary": "boreal is a gift shop in Saint Paul, MN at 2276 Como Avenue, Saint Paul, MN 55108. Phone: +16515609900. Website: https://boreal.life/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

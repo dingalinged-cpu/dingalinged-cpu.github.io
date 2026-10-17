@@ -1,0 +1,63 @@
+{
+ "keyword": "insurance agent ham lake mn",
+ "slug": "insurance-agent-ham-lake-mn",
+ "place": "Ham Lake, MN",
+ "service": "insurance agent",
+ "query": "Who are the best insurance agent providers in Ham Lake, MN?",
+ "matches": [
+  "insurance agent in Ham Lake, MN",
+  "insurance agent near me (Ham Lake, MN)",
+  "best insurance agent Ham Lake, MN",
+  "top rated insurance agent Ham Lake, MN",
+  "affordable insurance agent Ham Lake, MN",
+  "emergency insurance agent Ham Lake, MN"
+ ],
+ "answer": "The top unpaid insurance agent listing for Ham Lake, MN is Insurance Brokers of Minnesota Inc. (an insurance agent in Ham Lake, MN at 13632 Vanburen Street Northeast #A, Ham Lake, MN 55304. Phone: +17637677290. Website: https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a). 1 insurance agent businesses are listed for Ham Lake, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "insurance-brokers-of-minnesota-inc-ham-lake",
+   "name": "Insurance Brokers of Minnesota Inc.",
+   "summary": "Insurance Brokers of Minnesota Inc. is an insurance agent in Ham Lake, MN at 13632 Vanburen Street Northeast #A, Ham Lake, MN 55304. Phone: +17637677290. Website: https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-brokers-of-minnesota-inc-ham-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-brokers-of-minnesota-inc-ham-lake.json",
+   "address": {
+    "streetAddress": "13632 Vanburen Street Northeast #A",
+    "addressLocality": "Ham Lake",
+    "addressRegion": "MN",
+    "postalCode": "55304",
+    "addressCountry": "US"
+   },
+   "city": "Ham Lake",
+   "state": "MN",
+   "zip": "55304",
+   "geo": {
+    "lat": 45.2178896,
+    "lon": -93.24961
+   },
+   "phone": "+17637677290",
+   "website": "https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4578686989",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

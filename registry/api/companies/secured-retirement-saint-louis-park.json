@@ -1,0 +1,56 @@
+{
+ "slug": "secured-retirement-saint-louis-park",
+ "name": "Secured Retirement",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6121 Excelsior Boulevard",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9275092,
+  "lon": -93.3575602
+ },
+ "phone": "+19524603260",
+ "website": "https://securedretirements.com/",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/914286344",
+ "osm": {
+  "type": "way",
+  "id": 914286344,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/secured-retirement-saint-louis-park/",
+ "summary": "Secured Retirement is a financial advisor in Saint Louis Park, MN at 6121 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19524603260. Website: https://securedretirements.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

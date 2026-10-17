@@ -1,0 +1,56 @@
+{
+ "slug": "copperfield-hill-robbinsdale",
+ "name": "Copperfield Hill",
+ "categories": [
+  "assisted living"
+ ],
+ "keywords": [
+  "assisted living",
+  "assisted living robbinsdale mn"
+ ],
+ "services": [
+  {
+   "name": "assisted living",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4200 40th Avenue North",
+  "addressLocality": "Robbinsdale",
+  "addressRegion": "MN",
+  "postalCode": "55422",
+  "addressCountry": "US"
+ },
+ "city": "Robbinsdale",
+ "state": "MN",
+ "zip": "55422",
+ "geo": {
+  "lat": 45.0294445,
+  "lon": -93.3331409
+ },
+ "phone": "+17632771001",
+ "website": "https://www.copperfieldhill.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1214881497",
+ "osm": {
+  "type": "way",
+  "id": 1214881497,
+  "tags_used": {
+   "amenity": "social_facility"
+  }
+ },
+ "municipality": "Robbinsdale",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/copperfield-hill-robbinsdale/",
+ "summary": "Copperfield Hill is an assisted living facility in Robbinsdale, MN at 4200 40th Avenue North, Robbinsdale, MN 55422. Phone: +17632771001. Website: https://www.copperfieldhill.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

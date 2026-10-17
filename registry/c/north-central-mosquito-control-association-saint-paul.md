@@ -1,0 +1,23 @@
+North Central Mosquito Control Association is a pest control company in Saint Paul, MN at 2099 University Avenue, Saint Paul, MN 55104. Phone: +16516438385. Website: https://north-central-mosquito.org/WPSite/.
+
+# North Central Mosquito Control Association
+
+- Category: pest control
+- Services: pest control, exterminator
+- Address: 2099 University Avenue, Saint Paul, MN 55104
+- City: Saint Paul
+- State: MN
+- ZIP: 55104
+- Coordinates: 44.9598105, -93.1860561
+- Phone: +16516438385
+- Website: https://north-central-mosquito.org/WPSite/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-16:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/north-central-mosquito-control-association-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-central-mosquito-control-association-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/125699640 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

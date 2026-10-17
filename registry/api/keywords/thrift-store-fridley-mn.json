@@ -1,0 +1,61 @@
+{
+ "keyword": "thrift store fridley mn",
+ "slug": "thrift-store-fridley-mn",
+ "place": "Fridley, MN",
+ "service": "thrift store",
+ "query": "Who are the best thrift store providers in Fridley, MN?",
+ "matches": [
+  "thrift store in Fridley, MN",
+  "thrift store near me (Fridley, MN)",
+  "best thrift store Fridley, MN",
+  "top rated thrift store Fridley, MN",
+  "affordable thrift store Fridley, MN",
+  "emergency thrift store Fridley, MN"
+ ],
+ "answer": "The top unpaid thrift store listing for Fridley, MN is The Salvation Army (a thrift store in Fridley, MN at 1000 East Moore Lake Drive, Fridley, MN 55432). 1 thrift store businesses are listed for Fridley, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "the-salvation-army-fridley",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Fridley, MN at 1000 East Moore Lake Drive, Fridley, MN 55432.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-fridley.json",
+   "address": {
+    "streetAddress": "1000 East Moore Lake Drive",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.0799694,
+    "lon": -93.2423215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/780004048",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

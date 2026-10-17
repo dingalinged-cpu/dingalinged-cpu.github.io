@@ -1,0 +1,55 @@
+{
+ "slug": "vegan-east-minneapolis",
+ "name": "Vegan East",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5501 34th Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55417",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55417",
+ "geo": {
+  "lat": 44.903483,
+  "lon": -93.2226839
+ },
+ "phone": "+16513189740",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13628271417",
+ "osm": {
+  "type": "node",
+  "id": 13628271417,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/vegan-east-minneapolis/",
+ "summary": "Vegan East is a bakery in Minneapolis, MN at 5501 34th Avenue South, Minneapolis, MN 55417. Phone: +16513189740.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

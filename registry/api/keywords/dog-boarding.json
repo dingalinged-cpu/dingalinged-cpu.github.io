@@ -1,0 +1,780 @@
+{
+ "keyword": "dog boarding",
+ "slug": "dog-boarding",
+ "place": "the United States",
+ "service": "dog boarding",
+ "query": "Who are the best dog boarding providers in the United States?",
+ "matches": [
+  "dog boarding in the United States",
+  "dog boarding near me (the United States)",
+  "best dog boarding the United States",
+  "top rated dog boarding the United States",
+  "affordable dog boarding the United States",
+  "emergency dog boarding the United States"
+ ],
+ "answer": "The top unpaid dog boarding listing for the United States is Dogtopia (a dog boarding facility in Golden Valley, MN at 9010 Olson Memorial Highway, Golden Valley, MN 55427. Phone: +19528001300. Website: https://www.dogtopia.com/minneapolis-goldenvalley/). 23 dog boarding businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "dogtopia-golden-valley",
+   "name": "Dogtopia",
+   "summary": "Dogtopia is a dog boarding facility in Golden Valley, MN at 9010 Olson Memorial Highway, Golden Valley, MN 55427. Phone: +19528001300. Website: https://www.dogtopia.com/minneapolis-goldenvalley/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dogtopia-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-golden-valley.json",
+   "address": {
+    "streetAddress": "9010 Olson Memorial Highway",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55427",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55427",
+   "geo": {
+    "lat": 44.9844244,
+    "lon": -93.3952235
+   },
+   "phone": "+19528001300",
+   "website": "https://www.dogtopia.com/minneapolis-goldenvalley/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13205506610",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "dogtopia-roseville",
+   "name": "Dogtopia",
+   "summary": "Dogtopia is a dog boarding facility in Roseville, MN at 2216 County Road D West #Suite R, Roseville, MN 55112. Phone: +16512730880. Website: https://www.dogtopia.com/minneapolis-roseville/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dogtopia-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-roseville.json",
+   "address": {
+    "streetAddress": "2216 County Road D West #Suite R",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55112",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55112",
+   "geo": {
+    "lat": 45.0352861,
+    "lon": -93.1934203
+   },
+   "phone": "+16512730880",
+   "website": "https://www.dogtopia.com/minneapolis-roseville/",
+   "opening_hours": "Mo-Fr 07:00-12:00,14:00-19:00; Sa,Su 10:00-12:00,14:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12889601931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "oh-my-dog-saint-paul",
+   "name": "Oh My Dog",
+   "summary": "Oh My Dog is a dog boarding facility in Saint Paul, MN at 880 Vandalia Street, Saint Paul, MN 55114. Phone: +16516429663. Website: https://ohmydogmn.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oh-my-dog-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oh-my-dog-saint-paul.json",
+   "address": {
+    "streetAddress": "880 Vandalia Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9674978,
+    "lon": -93.1879736
+   },
+   "phone": "+16516429663",
+   "website": "https://ohmydogmn.com/",
+   "opening_hours": "Mo-Fr 07:00-09:30,12:00-13:00,15:30-18:30; Sa-Su 08:00-10:00,16:30-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6119601561",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "st-paws-dog-daycare-and-boarding-saint-paul",
+   "name": "St. Paws Dog Daycare & Boarding",
+   "summary": "St. Paws Dog Daycare & Boarding is a dog boarding facility in Saint Paul, MN at 1920 University Avenue, Saint Paul, MN 55104. Phone: +16516447297. Website: https://stpaws.dog/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-paws-dog-daycare-and-boarding-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-paws-dog-daycare-and-boarding-saint-paul.json",
+   "address": {
+    "streetAddress": "1920 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9569188,
+    "lon": -93.1809403
+   },
+   "phone": "+16516447297",
+   "website": "https://stpaws.dog/",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6558996769",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "dog-days-saint-paul",
+   "name": "Dog Days",
+   "summary": "Dog Days is a dog boarding facility in Saint Paul, MN at 350 University Avenue E, Saint Paul, MN. Phone: +16512912667. Website: https://www.dogdaysinc.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dog-days-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dog-days-saint-paul.json",
+   "address": {
+    "streetAddress": "350 University Avenue E",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9573603,
+    "lon": -93.0891239
+   },
+   "phone": "+16512912667",
+   "website": "https://www.dogdaysinc.com/",
+   "opening_hours": "Mo-Fr 07:00-18:30; Sa 08:00-10:30,16:30-19:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/102719671",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "dogtopia-bloomington",
+   "name": "Dogtopia",
+   "summary": "Dogtopia is a dog boarding facility in Bloomington, MN at 5208 West 84th Street, Bloomington, MN. Phone: +16128140616. Website: https://www.dogtopia.com/bloomington/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dogtopia-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-bloomington.json",
+   "address": {
+    "streetAddress": "5208 West 84th Street",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.852084,
+    "lon": -93.3466508
+   },
+   "phone": "+16128140616",
+   "website": "https://www.dogtopia.com/bloomington/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13205506615",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "dogtopia-saint-paul",
+   "name": "Dogtopia",
+   "summary": "Dogtopia is a dog boarding facility in Saint Paul, MN at 2418 University Avenue West, Saint Paul, MN 55114. Phone: +16514324040. Website: https://www.dogtopia.com/minnesota-st-paul-university-ave/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dogtopia-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-saint-paul.json",
+   "address": {
+    "streetAddress": "2418 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9641784,
+    "lon": -93.1987754
+   },
+   "phone": "+16514324040",
+   "website": "https://www.dogtopia.com/minnesota-st-paul-university-ave/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13205137986",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "downtown-dogs-minneapolis",
+   "name": "Downtown Dogs",
+   "summary": "Downtown Dogs is a dog boarding facility in Minneapolis, MN at 821 2nd Avenue North, Minneapolis, MN 55405. Phone: +16123743647. Website: https://www.dtdogs.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/downtown-dogs-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/downtown-dogs-minneapolis.json",
+   "address": {
+    "streetAddress": "821 2nd Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9786711,
+    "lon": -93.2909711
+   },
+   "phone": "+16123743647",
+   "website": "https://www.dtdogs.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9119066530",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "success-dog-training-corcoran",
+   "name": "Success Dog Training",
+   "summary": "Success Dog Training is a dog boarding facility in Corcoran, MN at 19508 Country Circle East, Corcoran, MN 55374. Phone: +17634930709. Website: https://successdog.net/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/success-dog-training-corcoran/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/success-dog-training-corcoran.json",
+   "address": {
+    "streetAddress": "19508 Country Circle East",
+    "addressLocality": "Corcoran",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Corcoran",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1495451,
+    "lon": -93.533285
+   },
+   "phone": "+17634930709",
+   "website": "https://successdog.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5113008083",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "all-seasons-canine-country-club-corcoran",
+   "name": "All Seasons Canine Country Club",
+   "summary": "All Seasons Canine Country Club is a dog boarding facility in Corcoran, MN at 10800 Trail Haven Road, Corcoran, MN 55374. Phone: +17634201002.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-seasons-canine-country-club-corcoran/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-seasons-canine-country-club-corcoran.json",
+   "address": {
+    "streetAddress": "10800 Trail Haven Road",
+    "addressLocality": "Corcoran",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Corcoran",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1508449,
+    "lon": -93.5820315
+   },
+   "phone": "+17634201002",
+   "opening_hours": "Su 10:00-18:00; Mo-Fr 07:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12987925872",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "dog-days-daycare-and-boarding-saint-paul",
+   "name": "Dog Days Daycare & Boarding",
+   "summary": "Dog Days Daycare & Boarding is a dog boarding facility in Saint Paul, MN. Phone: +16516993905. Website: https://www.dogdaysinc.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dog-days-daycare-and-boarding-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dog-days-daycare-and-boarding-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9399479,
+    "lon": -93.1748742
+   },
+   "phone": "+16516993905",
+   "website": "https://www.dogdaysinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8825834065",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "canine-coach-saint-paul",
+   "name": "Canine Coach",
+   "summary": "Canine Coach is a dog boarding facility in Saint Paul, MN at 1044 Front Avenue, Saint Paul, MN 55103. Website: https://www.thek9coach.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canine-coach-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canine-coach-saint-paul.json",
+   "address": {
+    "streetAddress": "1044 Front Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55103",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55103",
+   "geo": {
+    "lat": 44.9699839,
+    "lon": -93.1443955
+   },
+   "website": "https://www.thek9coach.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/700718800",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "dogs-at-play-newport",
+   "name": "Dogs at Play!",
+   "summary": "Dogs at Play! is a dog boarding facility in Newport, MN at 1716 Hastings Avenue, Newport, MN 55055. Website: https://www.dogsatplay.biz/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dogs-at-play-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dogs-at-play-newport.json",
+   "address": {
+    "streetAddress": "1716 Hastings Avenue",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.8759821,
+    "lon": -93.0004596
+   },
+   "website": "https://www.dogsatplay.biz/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/607537328",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "adogo-minnetonka-minnetonka",
+   "name": "Adogo Minnetonka",
+   "summary": "Adogo Minnetonka is a dog boarding facility in Minnetonka, MN at 6133 Baker Road, Minnetonka, MN 55345.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adogo-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adogo-minnetonka-minnetonka.json",
+   "address": {
+    "streetAddress": "6133 Baker Road",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.8921608,
+    "lon": -93.4464732
+   },
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/742756433",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "canine-coach-minneapolis",
+   "name": "Canine Coach",
+   "summary": "Canine Coach is a dog boarding facility in Minneapolis, MN at 5405 42nd Avenue South, Minneapolis, MN 55417.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canine-coach-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canine-coach-minneapolis.json",
+   "address": {
+    "streetAddress": "5405 42nd Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.9051368,
+    "lon": -93.2123591
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1301858945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "city-paws-minneapolis",
+   "name": "City Paws",
+   "summary": "City Paws is a dog boarding facility in Minneapolis, MN at 300 South 2nd Street #4, Minneapolis, MN 55401.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-paws-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-paws-minneapolis.json",
+   "address": {
+    "streetAddress": "300 South 2nd Street #4",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9809099,
+    "lon": -93.2626071
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12333223453",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "city-paws-pet-club-minneapolis",
+   "name": "City Paws Pet Club",
+   "summary": "City Paws Pet Club is a dog boarding facility in Minneapolis, MN at 5300 Lyndale Avenue South, Minneapolis, MN 55419.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-paws-pet-club-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-paws-pet-club-minneapolis.json",
+   "address": {
+    "streetAddress": "5300 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9066852,
+    "lon": -93.2887268
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/80751549",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis",
+   "name": "City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming",
+   "summary": "City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming is a dog boarding facility in Minneapolis, MN at 3054 Excelsior Boulevard, Minneapolis, MN 55416.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis.json",
+   "address": {
+    "streetAddress": "3054 Excelsior Boulevard",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9471746,
+    "lon": -93.3217621
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/43324968",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "plymouth-heights-pet-suites-new-hope",
+   "name": "Plymouth Heights Pet Suites",
+   "summary": "Plymouth Heights Pet Suites is a dog boarding facility in New Hope, MN at 9200 49th Avenue North, New Hope, MN 55428.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/plymouth-heights-pet-suites-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/plymouth-heights-pet-suites-new-hope.json",
+   "address": {
+    "streetAddress": "9200 49th Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "postalCode": "55428",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "zip": "55428",
+   "geo": {
+    "lat": 45.0445618,
+    "lon": -93.3974822
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7220875285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "wagging-tails-pet-resort-eagan",
+   "name": "Wagging Tails Pet Resort",
+   "summary": "Wagging Tails Pet Resort is a dog boarding facility in Eagan, MN at 3275 Sun Drive, Eagan, MN 55121.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wagging-tails-pet-resort-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wagging-tails-pet-resort-eagan.json",
+   "address": {
+    "streetAddress": "3275 Sun Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8390622,
+    "lon": -93.1938756
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/234450670",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "adogo-maple-grove",
+   "name": "ADOGO",
+   "summary": "ADOGO is a dog boarding facility in Maple Grove, MN.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adogo-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adogo-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0894714,
+    "lon": -93.4342927
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/874420678",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "adogo-pet-hotel-richfield",
+   "name": "Adogo Pet Hotel",
+   "summary": "Adogo Pet Hotel is a dog boarding facility in Richfield, MN.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adogo-pet-hotel-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adogo-pet-hotel-richfield.json",
+   "address": {
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8896536,
+    "lon": -93.2481998
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13986622229",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "petsuites-eagan",
+   "name": "PetSuites",
+   "summary": "PetSuites is a dog boarding facility in Eagan, MN.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsuites-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsuites-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8483698,
+    "lon": -93.1462207
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/451285090",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

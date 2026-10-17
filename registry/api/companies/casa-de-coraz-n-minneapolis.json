@@ -1,0 +1,52 @@
+{
+ "slug": "casa-de-coraz-n-minneapolis",
+ "name": "Casa de Corazón",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9105658,
+  "lon": -93.3287639
+ },
+ "website": "https://casaearlylearning.com/location/edina-mn-5oth-france/",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12138867421",
+ "osm": {
+  "type": "node",
+  "id": 12138867421,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-minneapolis/",
+ "summary": "Casa de Corazón is a daycare in Minneapolis, MN. Website: https://casaearlylearning.com/location/edina-mn-5oth-france/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

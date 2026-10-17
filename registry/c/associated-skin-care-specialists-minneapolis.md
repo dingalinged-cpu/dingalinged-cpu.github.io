@@ -1,0 +1,23 @@
+Associated Skin Care Specialists is a dermatologist in Minneapolis, MN at 4729 Sheridan Avenue South, Minneapolis, MN 55410. Phone: +16122256970. Website: https://www.associatedskincare.com/.
+
+# Associated Skin Care Specialists
+
+- Category: dermatologist
+- Services: dermatologist
+- Address: 4729 Sheridan Avenue South, Minneapolis, MN 55410
+- City: Minneapolis
+- State: MN
+- ZIP: 55410
+- Coordinates: 44.9248491, -93.3143546
+- Phone: +16122256970
+- Website: https://www.associatedskincare.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We,Fr 08:00-14:30; Th 07:30-14:30
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/associated-skin-care-specialists-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/associated-skin-care-specialists-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3532499005 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

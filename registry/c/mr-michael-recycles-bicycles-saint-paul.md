@@ -1,0 +1,23 @@
+Mr. Michael Recycles Bicycles is a bike shop in Saint Paul, MN at 520 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516411037. Website: https://mmrbstore.com/.
+
+# Mr. Michael Recycles Bicycles
+
+- Category: bike shop
+- Services: bike shop
+- Address: 520 North Prior Avenue, Saint Paul, MN 55104
+- City: Saint Paul
+- State: MN
+- ZIP: 55104
+- Coordinates: 44.9568396, -93.1821682
+- Phone: +16516411037
+- Website: https://mmrbstore.com/
+- Email: info@mmrbstore.com
+- Opening hours (OSM syntax): Tu,Th 17:00-20:00; Su 12:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mr-michael-recycles-bicycles-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mr-michael-recycles-bicycles-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7196597416 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

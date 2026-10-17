@@ -1,0 +1,2306 @@
+{
+ "keyword": "pet store",
+ "slug": "pet-store",
+ "place": "the United States",
+ "service": "pet store",
+ "query": "Who are the best pet store providers in the United States?",
+ "matches": [
+  "pet store in the United States",
+  "pet store near me (the United States)",
+  "best pet store the United States",
+  "top rated pet store the United States",
+  "affordable pet store the United States",
+  "emergency pet store the United States"
+ ],
+ "answer": "The top unpaid pet store listing for the United States is Bentley's Pet Stuff (a pet store in Excelsior, MN at 400 Water Street, Excelsior, MN 55331. Phone: +19528554329. Website: https://petstuff.com/). 70 pet store businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bentleys-pet-stuff-excelsior",
+   "name": "Bentley's Pet Stuff",
+   "summary": "Bentley's Pet Stuff is a pet store in Excelsior, MN at 400 Water Street, Excelsior, MN 55331. Phone: +19528554329. Website: https://petstuff.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-excelsior/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bentleys-pet-stuff-excelsior.json",
+   "address": {
+    "streetAddress": "400 Water Street",
+    "addressLocality": "Excelsior",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Excelsior",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.9011187,
+    "lon": -93.5692031
+   },
+   "phone": "+19528554329",
+   "website": "https://petstuff.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00, Sa 10:00-18:00, Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215383163",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "chuck-and-dons-maple-grove",
+   "name": "Chuck & Don's",
+   "summary": "Chuck & Don's is a pet store in Maple Grove, MN at 8115 Wedgewood Lane #1, Maple Grove, MN 55369. Phone: +17634164877. Website: https://chuckanddons.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-maple-grove.json",
+   "address": {
+    "streetAddress": "8115 Wedgewood Lane #1",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1022032,
+    "lon": -93.4504742
+   },
+   "phone": "+17634164877",
+   "website": "https://chuckanddons.com/",
+   "opening_hours": "Mo-Fr 09:00-21:00;Sa 09:00-18:00;Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613007123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "chuck-and-dons-minneapolis",
+   "name": "Chuck & Don's",
+   "summary": "Chuck & Don's is a pet store in Minneapolis, MN at 3246 Lake Street West, Minneapolis, MN 55416. Phone: +16129268161. Website: https://chuckanddons.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-minneapolis.json",
+   "address": {
+    "streetAddress": "3246 Lake Street West",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9489682,
+    "lon": -93.3216013
+   },
+   "phone": "+16129268161",
+   "website": "https://chuckanddons.com/",
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 09:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2367939453",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "chuck-and-dons-saint-paul",
+   "name": "Chuck & Don's",
+   "summary": "Chuck & Don's is a pet store in Saint Paul, MN at 282 East 6th Street, Saint Paul, MN 55101. Phone: +16122300279. Website: https://chuckanddons.com/stores/view/index/id/034/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-saint-paul.json",
+   "address": {
+    "streetAddress": "282 East 6th Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9503455,
+    "lon": -93.0866767
+   },
+   "phone": "+16122300279",
+   "website": "https://chuckanddons.com/stores/view/index/id/034/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5472138487",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "fidos-pantry-chanhassen",
+   "name": "Fido's Pantry",
+   "summary": "Fido's Pantry is a pet store in Chanhassen, MN at 2473 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524749383. Website: https://www.fidospantry.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidos-pantry-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidos-pantry-chanhassen.json",
+   "address": {
+    "streetAddress": "2473 Minnesota State Highway 7",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8902105,
+    "lon": -93.5824349
+   },
+   "phone": "+19524749383",
+   "website": "https://www.fidospantry.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215303866",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "petco-coon-rapids",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Coon Rapids, MN at 3380 124th Avenue Northwest, Coon Rapids, MN 55433. Phone: +17635769100. Website: https://stores.petco.com/mn/coonrapids/pet-supplies-coonrapids-mn-884.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-coon-rapids.json",
+   "address": {
+    "streetAddress": "3380 124th Avenue Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.194668,
+    "lon": -93.3525435
+   },
+   "phone": "+17635769100",
+   "website": "https://stores.petco.com/mn/coonrapids/pet-supplies-coonrapids-mn-884.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9650304175",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "petco-eagan",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Eagan, MN at 1505 Central Park Commons Drive #100, Eagan, MN 55121. Phone: +16512864898. Website: https://stores.petco.com/mn/eagan/pet-supplies-eagan-mn-2619.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-eagan.json",
+   "address": {
+    "streetAddress": "1505 Central Park Commons Drive #100",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8367933,
+    "lon": -93.17209
+   },
+   "phone": "+16512864898",
+   "website": "https://stores.petco.com/mn/eagan/pet-supplies-eagan-mn-2619.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11242363611",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "petco-eden-prairie",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Eden Prairie, MN at 8020 Glen Lane, Eden Prairie, MN 55344. Phone: +19528298808. Website: https://stores.petco.com/mn/edenprairie/pet-supplies-edenprairie-mn-606.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-eden-prairie.json",
+   "address": {
+    "streetAddress": "8020 Glen Lane",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.858541,
+    "lon": -93.4283852
+   },
+   "phone": "+19528298808",
+   "website": "https://stores.petco.com/mn/edenprairie/pet-supplies-edenprairie-mn-606.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10597376656",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "petco-maple-grove",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Maple Grove, MN at 8010 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634205230. Website: https://stores.petco.com/mn/maplegrove/pet-supplies-maplegrove-mn-625.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-maple-grove.json",
+   "address": {
+    "streetAddress": "8010 Wedgewood Lane",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0991739,
+    "lon": -93.4469152
+   },
+   "phone": "+17634205230",
+   "website": "https://stores.petco.com/mn/maplegrove/pet-supplies-maplegrove-mn-625.html",
+   "opening_hours": "Mo-Sa 09:00-21:00;Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613971278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "petco-richfield",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Richfield, MN at 710 West 66th Street, Richfield, MN 55423. Phone: +16128611335. Website: https://stores.petco.com/mn/richfield/pet-supplies-richfield-mn-608.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-richfield.json",
+   "address": {
+    "streetAddress": "710 West 66th Street",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8843318,
+    "lon": -93.2871539
+   },
+   "phone": "+16128611335",
+   "website": "https://stores.petco.com/mn/richfield/pet-supplies-richfield-mn-608.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11688622863",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "petco-saint-paul",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Saint Paul, MN at 2277 Ford Parkway, Saint Paul, MN 55116. Phone: +16516961906. Website: https://stores.petco.com/mn/st-paul/pet-supplies-st-paul-mn-626.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-saint-paul.json",
+   "address": {
+    "streetAddress": "2277 Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9188907,
+    "lon": -93.1966113
+   },
+   "phone": "+16516961906",
+   "website": "https://stores.petco.com/mn/st-paul/pet-supplies-st-paul-mn-626.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/54183647",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "petco-west-saint-paul",
+   "name": "Petco",
+   "summary": "Petco is a pet store in West Saint Paul, MN at 1970 Robert Street South, West Saint Paul, MN 55118. Phone: +16514506204. Website: https://stores.petco.com/mn/westst-paul/pet-supplies-westst-paul-mn-1652.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1970 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8867855,
+    "lon": -93.0794849
+   },
+   "phone": "+16514506204",
+   "website": "https://stores.petco.com/mn/westst-paul/pet-supplies-westst-paul-mn-1652.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527084211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "petsmart-blaine",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Blaine, MN at 10451 Baltimore Street Northeast, Blaine, MN 55449. Phone: +17636143055. Website: https://www.petsmart.com/store-locator/store/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-blaine.json",
+   "address": {
+    "streetAddress": "10451 Baltimore Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1599973,
+    "lon": -93.2313976
+   },
+   "phone": "+17636143055",
+   "website": "https://www.petsmart.com/store-locator/store/",
+   "opening_hours": "08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/458357655",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "petsmart-eagan",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Eagan, MN at 1297 Promenade Place #2A, Eagan, MN 55121. Phone: +16514521140. Website: https://www.petsmart.com/stores/us/mn/eagan-store0469.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-eagan.json",
+   "address": {
+    "streetAddress": "1297 Promenade Place #2A",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8362793,
+    "lon": -93.1576115
+   },
+   "phone": "+16514521140",
+   "website": "https://www.petsmart.com/stores/us/mn/eagan-store0469.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/460005305",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "petsmart-eden-prairie",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Eden Prairie, MN at 11200 Prairie Lakes Drive, Eden Prairie, MN 55344. Phone: +19529414660. Website: https://www.petsmart.com/stores/us/mn/eden-prairie-store0458.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-eden-prairie.json",
+   "address": {
+    "streetAddress": "11200 Prairie Lakes Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8550058,
+    "lon": -93.4191493
+   },
+   "phone": "+19529414660",
+   "website": "https://www.petsmart.com/stores/us/mn/eden-prairie-store0458.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/44994118",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "petsmart-maple-grove",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Maple Grove, MN at 11200 Fountains Drive, Maple Grove, MN 55369. Phone: +17634243639. Website: https://www.petsmart.com/stores/us/mn/maple-grove-store1585.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-maple-grove.json",
+   "address": {
+    "streetAddress": "11200 Fountains Drive",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0928567,
+    "lon": -93.4229513
+   },
+   "phone": "+17634243639",
+   "website": "https://www.petsmart.com/stores/us/mn/maple-grove-store1585.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7113028654",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "petsmart-maplewood",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Maplewood, MN at 2370 White Bear Avenue North, Maplewood, MN 55109. Phone: +16517779533. Website: https://www.petsmart.com/stores/us/mn/maplewood-store0461.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-maplewood.json",
+   "address": {
+    "streetAddress": "2370 White Bear Avenue North",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0126406,
+    "lon": -93.0195966
+   },
+   "phone": "+16517779533",
+   "website": "https://www.petsmart.com/stores/us/mn/maplewood-store0461.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507997936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "petsmart-minneapolis",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Minneapolis, MN at 1640 New Brighton Boulevard, Minneapolis, MN 55413. Phone: +16127887045. Website: https://www.petsmart.com/stores/us/mn/minneapolis-store0460.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-minneapolis.json",
+   "address": {
+    "streetAddress": "1640 New Brighton Boulevard",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0048737,
+    "lon": -93.2304452
+   },
+   "phone": "+16127887045",
+   "website": "https://www.petsmart.com/stores/us/mn/minneapolis-store0460.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/575329296",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "petsmart-richfield",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Richfield, MN at 1100 West 78th Street, Richfield, MN 55423. Phone: +16127983665. Website: https://www.petsmart.com/stores/us/mn/richfield-store0459.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-richfield.json",
+   "address": {
+    "streetAddress": "1100 West 78th Street",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8632867,
+    "lon": -93.2936576
+   },
+   "phone": "+16127983665",
+   "website": "https://www.petsmart.com/stores/us/mn/richfield-store0459.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/89080706",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "petsmart-roseville",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Roseville, MN at 2480 Fairview Avenue North, Roseville, MN 55113. Phone: +16516393912. Website: https://www.petsmart.com/stores/us/mn/roseville-store1971.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-roseville.json",
+   "address": {
+    "streetAddress": "2480 Fairview Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 45.0163686,
+    "lon": -93.175903
+   },
+   "phone": "+16516393912",
+   "website": "https://www.petsmart.com/stores/us/mn/roseville-store1971.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6550533157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "petsmart-saint-louis-park",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Saint Louis Park, MN at 5640 Cedar Lake Road, Saint Louis Park, MN 55416. Phone: +19527979798. Website: https://www.petsmart.com/stores/us/mn/minneapolis-store0463.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5640 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.963929,
+    "lon": -93.3507194
+   },
+   "phone": "+19527979798",
+   "website": "https://www.petsmart.com/stores/us/mn/minneapolis-store0463.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/754441320",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "purrniture-cat-furniture-saint-paul",
+   "name": "Purrniture Cat Furniture",
+   "summary": "Purrniture Cat Furniture is a pet store in Saint Paul, MN at 2242 University Avenue West, Saint Paul, MN 55114. Phone: +16516421946. Website: https://www.purrniture.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/purrniture-cat-furniture-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/purrniture-cat-furniture-saint-paul.json",
+   "address": {
+    "streetAddress": "2242 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9617528,
+    "lon": -93.1928615
+   },
+   "phone": "+16516421946",
+   "website": "https://www.purrniture.com/",
+   "opening_hours": "Tu-Fr 09:00-17:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152738747",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "twin-cities-reptiles-saint-paul",
+   "name": "Twin Cities Reptiles",
+   "summary": "Twin Cities Reptiles is a pet store in Saint Paul, MN at 2363 University Avenue West, Saint Paul, MN 55114. Phone: +16516474479. Website: https://www.twincitiesreptiles.net/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-cities-reptiles-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-reptiles-saint-paul.json",
+   "address": {
+    "streetAddress": "2363 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9637876,
+    "lon": -93.1965779
+   },
+   "phone": "+16516474479",
+   "website": "https://www.twincitiesreptiles.net/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6456665438",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "wild-birds-unlimited-minnetonka",
+   "name": "Wild Birds Unlimited",
+   "summary": "Wild Birds Unlimited is a pet store in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305. Phone: +19525259365. Website: https://minnetonka.wbu.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wild-birds-unlimited-minnetonka.json",
+   "address": {
+    "streetAddress": "11210 Wayzata Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9733861,
+    "lon": -93.4220736
+   },
+   "phone": "+19525259365",
+   "website": "https://minnetonka.wbu.com/",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596814701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "blossom-pet-salon-little-canada",
+   "name": "Blossom Pet Salon",
+   "summary": "Blossom Pet Salon is a pet store in Little Canada, MN at 2900 Rice Street #260, Little Canada, MN. Phone: +16512160542. Website: https://www.blossompetsalonmn.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blossom-pet-salon-little-canada/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blossom-pet-salon-little-canada.json",
+   "address": {
+    "streetAddress": "2900 Rice Street #260",
+    "addressLocality": "Little Canada",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Little Canada",
+   "state": "MN",
+   "geo": {
+    "lat": 45.028556,
+    "lon": -93.1038086
+   },
+   "phone": "+16512160542",
+   "website": "https://www.blossompetsalonmn.com/",
+   "opening_hours": "Tu-Sa 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7554622685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "chuck-and-dons-roseville",
+   "name": "Chuck & Don's",
+   "summary": "Chuck & Don's is a pet store in Roseville, MN at 1661 West County Road C, Roseville, MN. Phone: +16512870986. Website: https://chuckanddons.com/a/pages/locations/625/chuck-dons-roseville.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-roseville.json",
+   "address": {
+    "streetAddress": "1661 West County Road C",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.024271,
+    "lon": -93.1700244
+   },
+   "phone": "+16512870986",
+   "website": "https://chuckanddons.com/a/pages/locations/625/chuck-dons-roseville",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566813845",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "pampered-pooch-playground-saint-louis-park",
+   "name": "Pampered Pooch Playground",
+   "summary": "Pampered Pooch Playground is a pet store in Saint Louis Park, MN at 7020 Walker Street, Saint Louis Park, MN 55426. Phone: +19529228183. Website: https://www.pamperedpoochplayground.com/?y_source=1_MjU3NDY4OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pampered-pooch-playground-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pampered-pooch-playground-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7020 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9392296,
+    "lon": -93.3668371
+   },
+   "phone": "+19529228183",
+   "website": "https://www.pamperedpoochplayground.com/?y_source=1_MjU3NDY4OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/435068841",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "premier-aquarium-service-saint-louis-park",
+   "name": "Premier Aquarium Service",
+   "summary": "Premier Aquarium Service is a pet store in Saint Louis Park, MN at 5801 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16122431335. Website: https://www.premieraquarium.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-aquarium-service-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-aquarium-service-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5801 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9288148,
+    "lon": -93.3534168
+   },
+   "phone": "+16122431335",
+   "website": "https://www.premieraquarium.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/914286357",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "underdog-rescue-mn-saint-louis-park",
+   "name": "Underdog Rescue MN",
+   "summary": "Underdog Rescue MN is a pet store in Saint Louis Park, MN at 3345 Dakota Avenue South, Saint Louis Park, MN 55416. Phone: +19529290777. Website: https://www.underdogrescuemn.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/underdog-rescue-mn-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/underdog-rescue-mn-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3345 Dakota Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9430701,
+    "lon": -93.3600704
+   },
+   "phone": "+19529290777",
+   "website": "https://www.underdogrescuemn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/612817351",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "urban-tails-pet-supply-minneapolis",
+   "name": "Urban Tails Pet Supply",
+   "summary": "Urban Tails Pet Supply is a pet store in Minneapolis, MN at 2106 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128790709. Website: https://www.urbantailspetsupply.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/urban-tails-pet-supply-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/urban-tails-pet-supply-minneapolis.json",
+   "address": {
+    "streetAddress": "2106 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9616278,
+    "lon": -93.2882526
+   },
+   "phone": "+16128790709",
+   "website": "https://www.urbantailspetsupply.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287908887",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "woodys-pet-food-deli-saint-paul",
+   "name": "Woody's Pet Food Deli",
+   "summary": "Woody's Pet Food Deli is a pet store in Saint Paul, MN at 647 Snelling Avenue South, Saint Paul, MN 55116. Phone: +16514937269. Website: https://www.woodyspetdeli.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodys-pet-food-deli-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodys-pet-food-deli-saint-paul.json",
+   "address": {
+    "streetAddress": "647 Snelling Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9218979,
+    "lon": -93.1672877
+   },
+   "phone": "+16514937269",
+   "website": "https://www.woodyspetdeli.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1411811139",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "chuck-and-dons-minneapolis-n12138867423",
+   "name": "Chuck & Don's",
+   "summary": "Chuck & Don's is a pet store in Minneapolis, MN at 5045 France Avenue South, Minneapolis, MN 55410. Website: https://chuckanddons.com/a/pages/locations/590/50th-france.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-minneapolis-n12138867423/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-minneapolis-n12138867423.json",
+   "address": {
+    "streetAddress": "5045 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9112224,
+    "lon": -93.3289002
+   },
+   "website": "https://chuckanddons.com/a/pages/locations/590/50th-france",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "pet-supplies-plus-bloomington",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Bloomington, MN at 3701 West Old Shakopee Road #300, Bloomington, MN 55431. Phone: +19528859725.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-bloomington.json",
+   "address": {
+    "streetAddress": "3701 West Old Shakopee Road #300",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8104156,
+    "lon": -93.3275794
+   },
+   "phone": "+19528859725",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13809526456",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "rivershore-aquariums-minneapolis",
+   "name": "Rivershore Aquariums",
+   "summary": "Rivershore Aquariums is a pet store in Minneapolis, MN at 6015 Lyndale Avenue South, Minneapolis, MN 55419. Phone: +16123153946.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rivershore-aquariums-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rivershore-aquariums-minneapolis.json",
+   "address": {
+    "streetAddress": "6015 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.8939012,
+    "lon": -93.2878776
+   },
+   "phone": "+16123153946",
+   "opening_hours": "We-Mo 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/386364350",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "stone-mountain-pet-lodge-blaine",
+   "name": "Stone Mountain Pet Lodge",
+   "summary": "Stone Mountain Pet Lodge is a pet store in Blaine, MN at 9935 Radisson Road Northeast, Blaine, MN 55449. Website: https://stonemountainpetlodge.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stone-mountain-pet-lodge-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stone-mountain-pet-lodge-blaine.json",
+   "address": {
+    "streetAddress": "9935 Radisson Road Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1506575,
+    "lon": -93.1910373
+   },
+   "website": "https://stonemountainpetlodge.com/",
+   "opening_hours": "Mo-Fr 06:00-18:00; Sa 08:00-16:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13588244901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "woodys-pet-food-deli-minneapolis",
+   "name": "Woodys Pet Food Deli",
+   "summary": "Woodys Pet Food Deli is a pet store in Minneapolis, MN at 3008 West 50th Street, Minneapolis, MN 55410. Website: https://www.woodyspetdeli.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodys-pet-food-deli-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodys-pet-food-deli-minneapolis.json",
+   "address": {
+    "streetAddress": "3008 West 50th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9125387,
+    "lon": -93.3181254
+   },
+   "website": "https://www.woodyspetdeli.com/",
+   "opening_hours": "Tu-Fr 12:00-18:00; Sa 11:00-18:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12223879868",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "cat-amewsement-saint-paul",
+   "name": "Cat Amewsement",
+   "summary": "Cat Amewsement is a pet store in Saint Paul, MN at 102 North Sibley Street, Saint Paul, MN. Website: https://www.catamewsement.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cat-amewsement-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cat-amewsement-saint-paul.json",
+   "address": {
+    "streetAddress": "102 North Sibley Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9481618,
+    "lon": -93.0874581
+   },
+   "website": "https://www.catamewsement.com/",
+   "opening_hours": "We-Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12542381766",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "chuck-and-dons-mahtomedi",
+   "name": "Chuck & Don's",
+   "summary": "Chuck & Don's is a pet store in Mahtomedi, MN at 910 Wildwood Road, Mahtomedi, MN. Website: https://stores.chuckanddons.com/mn-mahtomedi-104/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-mahtomedi/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-mahtomedi.json",
+   "address": {
+    "streetAddress": "910 Wildwood Road",
+    "addressLocality": "Mahtomedi",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mahtomedi",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0497089,
+    "lon": -92.9836004
+   },
+   "website": "https://stores.chuckanddons.com/mn-mahtomedi-104/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/593488385",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "chanhassen-groomers-chanhassen",
+   "name": "Chanhassen Groomers",
+   "summary": "Chanhassen Groomers is a pet store in Chanhassen, MN at 450 West 79th Street, Chanhassen, MN 55317. Phone: +19529345688.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-groomers-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanhassen-groomers-chanhassen.json",
+   "address": {
+    "streetAddress": "450 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8601701,
+    "lon": -93.532007
+   },
+   "phone": "+19529345688",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3823589659",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "copilot-dog-outfitters-minneapolis",
+   "name": "Copilot Dog Outfitters",
+   "summary": "Copilot Dog Outfitters is a pet store in Minneapolis, MN. Website: https://copilotdogoutfitters.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/copilot-dog-outfitters-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/copilot-dog-outfitters-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9248481,
+    "lon": -93.3147964
+   },
+   "website": "https://copilotdogoutfitters.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-17:00; Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12167148816",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "paws-abilities-dog-training-inver-grove-heights",
+   "name": "Paws Abilities Dog Training",
+   "summary": "Paws Abilities Dog Training is a pet store in Inver Grove Heights, MN at 6475 Cahill Avenue, Inver Grove Heights, MN 55076. Website: https://pawsabilitiesmn.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paws-abilities-dog-training-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paws-abilities-dog-training-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "6475 Cahill Avenue",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8557606,
+    "lon": -93.0455387
+   },
+   "website": "https://pawsabilitiesmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5155386653",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "for-the-love-of-dogs-mendota-heights",
+   "name": "For The Love Of Dogs",
+   "summary": "For The Love Of Dogs is a pet store in Mendota Heights, MN at 2415 Pilot Knob Road, Mendota Heights, MN. Website: https://www.fortheloveofdogstrainingschool.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/for-the-love-of-dogs-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/for-the-love-of-dogs-mendota-heights.json",
+   "address": {
+    "streetAddress": "2415 Pilot Knob Road",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8659409,
+    "lon": -93.1679799
+   },
+   "website": "https://www.fortheloveofdogstrainingschool.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13043822825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "fetched-up-ramsey",
+   "name": "Fetched-Up",
+   "summary": "Fetched-Up is a pet store in Ramsey, MN at 6111 T.H 10 Service Road #300, Ramsey, MN 55303.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fetched-up-ramsey/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fetched-up-ramsey.json",
+   "address": {
+    "streetAddress": "6111 T.H 10 Service Road #300",
+    "addressLocality": "Ramsey",
+    "addressRegion": "MN",
+    "postalCode": "55303",
+    "addressCountry": "US"
+   },
+   "city": "Ramsey",
+   "state": "MN",
+   "zip": "55303",
+   "geo": {
+    "lat": 45.218725,
+    "lon": -93.4222763
+   },
+   "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13314615816",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "pet-stuff-minnetonka",
+   "name": "Pet Stuff",
+   "summary": "Pet Stuff is a pet store in Minnetonka, MN at 14731 Excelsior Boulevard, Minnetonka, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-stuff-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-stuff-minnetonka.json",
+   "address": {
+    "streetAddress": "14731 Excelsior Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.903333,
+    "lon": -93.4670428
+   },
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12710480523",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "pet-evolution-blaine",
+   "name": "Pet Evolution",
+   "summary": "Pet Evolution is a pet store in Blaine, MN. Website: https://www.petevolution.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-evolution-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-evolution-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1668719,
+    "lon": -93.2324407
+   },
+   "website": "https://www.petevolution.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12527842888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "chanhassen-vetrinary-clinic-chanhassen",
+   "name": "Chanhassen Vetrinary Clinic",
+   "summary": "Chanhassen Vetrinary Clinic is a pet store in Chanhassen, MN at 440 West 79th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-vetrinary-clinic-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanhassen-vetrinary-clinic-chanhassen.json",
+   "address": {
+    "streetAddress": "440 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8601711,
+    "lon": -93.5318341
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3823589660",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "chuck-and-dons-eden-prairie",
+   "name": "Chuck & Don's",
+   "summary": "Chuck & Don's is a pet store in Eden Prairie, MN at 8022 Den Road, Eden Prairie, MN 55344.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-eden-prairie.json",
+   "address": {
+    "streetAddress": "8022 Den Road",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8582732,
+    "lon": -93.4237097
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12022859337",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "chuck-and-dons-pet-food-and-supplies-chanhassen",
+   "name": "Chuck & Don's Pet Food & Supplies",
+   "summary": "Chuck & Don's Pet Food & Supplies is a pet store in Chanhassen, MN at 7818 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-pet-food-and-supplies-chanhassen.json",
+   "address": {
+    "streetAddress": "7818 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8618997,
+    "lon": -93.5386953
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789947",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "north-minneapolis-pet-resource-center-minneapolis",
+   "name": "North Minneapolis Pet Resource Center",
+   "summary": "North Minneapolis Pet Resource Center is a pet store in Minneapolis, MN at 2825 North 2nd Street, Minneapolis, MN 55411.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-minneapolis-pet-resource-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-minneapolis-pet-resource-center-minneapolis.json",
+   "address": {
+    "streetAddress": "2825 North 2nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55411",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55411",
+   "geo": {
+    "lat": 45.0093215,
+    "lon": -93.2806588
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13682059276",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "petropawlis-saint-louis-park",
+   "name": "Petropawlis",
+   "summary": "Petropawlis is a pet store in Saint Louis Park, MN at 6500 Lake Street West, Saint Louis Park, MN 55426.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petropawlis-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petropawlis-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6500 Lake Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9413759,
+    "lon": -93.3612603
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604654639",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "regal-pet-grooming-minneapolis",
+   "name": "Regal Pet Grooming",
+   "summary": "Regal Pet Grooming is a pet store in Minneapolis, MN at 2700 East 38th Street, Minneapolis, MN 55406.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/regal-pet-grooming-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/regal-pet-grooming-minneapolis.json",
+   "address": {
+    "streetAddress": "2700 East 38th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9342633,
+    "lon": -93.2331628
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/141021845",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "chuck-and-dons-eagan",
+   "name": "Chuck and Don's",
+   "summary": "Chuck and Don's is a pet store in Eagan, MN at 1254, Eagan, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-eagan.json",
+   "address": {
+    "streetAddress": "1254",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8318095,
+    "lon": -93.1572262
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12251426314",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "cocobear-pet-care-saint-paul",
+   "name": "Cocobear Pet Care",
+   "summary": "Cocobear Pet Care is a pet store in Saint Paul, MN at 197, Saint Paul, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cocobear-pet-care-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cocobear-pet-care-saint-paul.json",
+   "address": {
+    "streetAddress": "197",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.950894,
+    "lon": -93.090248
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2846172919",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "betta-world-saint-paul",
+   "name": "Betta World",
+   "summary": "Betta World is a pet store in Saint Paul, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/betta-world-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/betta-world-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9728395,
+    "lon": -93.0661661
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096348",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "bubbles-2-biscuits-rogers",
+   "name": "Bubbles 2 Biscuits",
+   "summary": "Bubbles 2 Biscuits is a pet store in Rogers, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bubbles-2-biscuits-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bubbles-2-biscuits-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.197911,
+    "lon": -93.5575567
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "chuck-and-dons-pet-food-and-supplies-minneapolis",
+   "name": "Chuck & Don's Pet Food & Supplies",
+   "summary": "Chuck & Don's Pet Food & Supplies is a pet store in Minneapolis, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-pet-food-and-supplies-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9877014,
+    "lon": -93.2543655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627415958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "chuck-and-dons-pet-food-and-supplies-minnetonka",
+   "name": "Chuck & Don's pet food and supplies",
+   "summary": "Chuck & Don's pet food and supplies is a pet store in Minnetonka, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-pet-food-and-supplies-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9179958,
+    "lon": -93.5021156
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487975",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "chuck-and-dons-pet-food-outlet-saint-paul",
+   "name": "Chuck & Don's Pet Food Outlet",
+   "summary": "Chuck & Don's Pet Food Outlet is a pet store in Saint Paul, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-outlet-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-pet-food-outlet-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9168962,
+    "lon": -93.1894863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/660909442",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "chuck-and-dons-wayzata",
+   "name": "Chuck and Don's",
+   "summary": "Chuck and Don's is a pet store in Wayzata, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-wayzata.json",
+   "address": {
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9722644,
+    "lon": -93.5009837
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8541854043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "pet-evolution-arden-hills",
+   "name": "Pet Evolution",
+   "summary": "Pet Evolution is a pet store in Arden Hills, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-evolution-arden-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-evolution-arden-hills.json",
+   "address": {
+    "addressLocality": "Arden Hills",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Arden Hills",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0570564,
+    "lon": -93.1488594
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12336464120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "pet-spa-chaska",
+   "name": "Pet Spa",
+   "summary": "Pet Spa is a pet store in Chaska, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-spa-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-spa-chaska.json",
+   "address": {
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8010695,
+    "lon": -93.5795203
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1134670082",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "pet-supplies-plus-crystal",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Crystal, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0541828,
+    "lon": -93.3688582
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129455334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "pet-supplies-plus-fridley",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Fridley, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-fridley.json",
+   "address": {
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0702391,
+    "lon": -93.2655651
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9699363757",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "pet-supplies-plus-minneapolis",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Minneapolis, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9172546,
+    "lon": -93.2152819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4807729869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "pet-supplies-plus-roseville",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Roseville, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 44.992605,
+    "lon": -93.1489174
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8165857415",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "petco-blaine",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Blaine, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1813649,
+    "lon": -93.2364944
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12629709519",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "petco-roseville",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Roseville, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0184253,
+    "lon": -93.1785502
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12739066706",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "petsmart-plymouth",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Plymouth, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-plymouth.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0296283,
+    "lon": -93.4469178
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11212750737",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "total-dog-company-new-hope",
+   "name": "Total Dog Company",
+   "summary": "Total Dog Company is a pet store in New Hope, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-dog-company-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-dog-company-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.023089,
+    "lon": -93.3998159
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335894136",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "wild-bird-minnetonka",
+   "name": "Wild Bird",
+   "summary": "Wild Bird is a pet store in Minnetonka, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wild-bird-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wild-bird-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9178301,
+    "lon": -93.501221
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487972",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

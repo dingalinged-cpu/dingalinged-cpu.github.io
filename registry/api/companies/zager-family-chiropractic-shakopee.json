@@ -1,0 +1,57 @@
+{
+ "slug": "zager-family-chiropractic-shakopee",
+ "name": "Zager Family Chiropractic",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor shakopee mn"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1164 Vierling Drive East",
+  "addressLocality": "Shakopee",
+  "addressRegion": "MN",
+  "postalCode": "55379",
+  "addressCountry": "US"
+ },
+ "city": "Shakopee",
+ "state": "MN",
+ "zip": "55379",
+ "geo": {
+  "lat": 44.7808521,
+  "lon": -93.5099204
+ },
+ "phone": "+19522978840",
+ "website": "https://www.zagerfamilychiro.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8936076524",
+ "osm": {
+  "type": "node",
+  "id": 8936076524,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Shakopee",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/zager-family-chiropractic-shakopee/",
+ "summary": "Zager Family Chiropractic is a chiropractor in Shakopee, MN at 1164 Vierling Drive East, Shakopee, MN 55379. Phone: +19522978840. Website: https://www.zagerfamilychiro.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

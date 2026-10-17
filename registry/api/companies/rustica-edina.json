@@ -1,0 +1,51 @@
+{
+ "slug": "rustica-edina",
+ "name": "Rustica",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery edina mn"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8818801,
+  "lon": -93.3247757
+ },
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10940612555",
+ "osm": {
+  "type": "node",
+  "id": 10940612555,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/rustica-edina/",
+ "summary": "Rustica is a bakery in Edina, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

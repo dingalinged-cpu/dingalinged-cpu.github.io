@@ -1,0 +1,125 @@
+{
+ "place": "Circle Pines, MN",
+ "slug": "circle-pines-mn",
+ "count": 3,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dance studio circle pines mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-circle-pines-mn.json"
+  },
+  {
+   "keyword": "general contractor circle pines mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/general-contractor-circle-pines-mn.json"
+  },
+  {
+   "keyword": "insurance agency circle pines mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-circle-pines-mn.json"
+  },
+  {
+   "keyword": "insurance agent circle pines mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-circle-pines-mn.json"
+  },
+  {
+   "keyword": "insurance agents circle pines mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-circle-pines-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "greg-ganyo-insurance-agency-circle-pines",
+   "name": "Greg Ganyo Insurance Agency",
+   "summary": "Greg Ganyo Insurance Agency is an insurance agent in Circle Pines, MN at 3521 88th Avenue Northeast, Circle Pines, MN 55014. Phone: +16519644020. Website: https://ganyoagency.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greg-ganyo-insurance-agency-circle-pines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greg-ganyo-insurance-agency-circle-pines.json",
+   "address": {
+    "streetAddress": "3521 88th Avenue Northeast",
+    "addressLocality": "Circle Pines",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Circle Pines",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.129531,
+    "lon": -93.1814921
+   },
+   "phone": "+16519644020",
+   "website": "https://ganyoagency.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162910177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "custom-remodelers-circle-pines",
+   "name": "Custom Remodelers",
+   "summary": "Custom Remodelers is a general contractor in Circle Pines, MN at 474 Apollo Drive, Circle Pines, MN 55014. Phone: +18002403038.",
+   "categories": [
+    "general contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/custom-remodelers-circle-pines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/custom-remodelers-circle-pines.json",
+   "address": {
+    "streetAddress": "474 Apollo Drive",
+    "addressLocality": "Circle Pines",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Circle Pines",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.1789346,
+    "lon": -93.1188962
+   },
+   "phone": "+18002403038",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13968018313",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dance-factory-circle-pines",
+   "name": "Dance Factory",
+   "summary": "Dance Factory is a dance studio in Circle Pines, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-factory-circle-pines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-factory-circle-pines.json",
+   "address": {
+    "addressLocality": "Circle Pines",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Circle Pines",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1409299,
+    "lon": -93.1619317
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1341145076",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

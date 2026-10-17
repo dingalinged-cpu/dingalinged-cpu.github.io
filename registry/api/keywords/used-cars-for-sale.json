@@ -1,0 +1,1122 @@
+{
+ "keyword": "used cars for sale",
+ "slug": "used-cars-for-sale",
+ "place": "the United States",
+ "service": "used cars for sale",
+ "query": "Who are the best used cars for sale providers in the United States?",
+ "matches": [
+  "used cars for sale in the United States",
+  "used cars for sale near me (the United States)",
+  "best used cars for sale the United States",
+  "top rated used cars for sale the United States",
+  "affordable used cars for sale the United States",
+  "emergency used cars for sale the United States"
+ ],
+ "answer": "The top unpaid used cars for sale listing for the United States is Ado's Motors (an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/). 34 used cars for sale businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ados-motors-saint-paul",
+   "name": "Ado's Motors",
+   "summary": "Ado's Motors is an used car dealer in Saint Paul, MN at 834 7th Street West, Saint Paul, MN 55102. Phone: +16124453093. Website: https://adosmotorsmn.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ados-motors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ados-motors-saint-paul.json",
+   "address": {
+    "streetAddress": "834 7th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9308362,
+    "lon": -93.1215044
+   },
+   "phone": "+16124453093",
+   "website": "https://adosmotorsmn.com/",
+   "opening_hours": "Mo,We-Fr 11:00-19:00; Tu 09:00-17:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/211419793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "metro-motorcars-inc-hopkins",
+   "name": "Metro Motorcars Inc.",
+   "summary": "Metro Motorcars Inc. is an used car dealer in Hopkins, MN at 8660 Excelsior Boulevard, Hopkins, MN 55343. Phone: +19529352275. Website: https://www.metromotorcarsmn.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-motorcars-inc-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-motorcars-inc-hopkins.json",
+   "address": {
+    "streetAddress": "8660 Excelsior Boulevard",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9255562,
+    "lon": -93.3892521
+   },
+   "phone": "+19529352275",
+   "website": "https://www.metromotorcarsmn.com/",
+   "opening_hours": "Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8534254786",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "mgm-auto-sales-shakopee",
+   "name": "MGM Auto Sales",
+   "summary": "MGM Auto Sales is an used car dealer in Shakopee, MN at 804 1st Avenue East, Shakopee, MN 55379. Phone: +19522331631. Website: https://www.wheels-and-dealsmn.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-auto-sales-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-auto-sales-shakopee.json",
+   "address": {
+    "streetAddress": "804 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7995535,
+    "lon": -93.516198
+   },
+   "phone": "+19522331631",
+   "website": "https://www.wheels-and-dealsmn.com/",
+   "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/309759981",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "morries-mazda-inver-grove-heights",
+   "name": "Morries Mazda",
+   "summary": "Morries Mazda is an used car dealer in Inver Grove Heights, MN at 10 Mendota Road East, Inver Grove Heights, MN 55077. Phone: +16516914672. Website: https://www.morriesinvergrovemazda.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morries-mazda-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morries-mazda-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "10 Mendota Road East",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55077",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55077",
+   "geo": {
+    "lat": 44.8829772,
+    "lon": -93.0846816
+   },
+   "phone": "+16516914672",
+   "website": "https://www.morriesinvergrovemazda.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00, Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527085044",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "import-auto-sales-golden-valley",
+   "name": "Import Auto Sales",
+   "summary": "Import Auto Sales is an used car dealer in Golden Valley, MN at 730 Florida Avenue South, Golden Valley, MN 55426. Phone: +19525911797. Website: https://www.carsmn.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/import-auto-sales-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/import-auto-sales-golden-valley.json",
+   "address": {
+    "streetAddress": "730 Florida Avenue South",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9738474,
+    "lon": -93.3636094
+   },
+   "phone": "+19525911797",
+   "website": "https://www.carsmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11129475062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "luther-westside-saint-louis-park",
+   "name": "Luther Westside",
+   "summary": "Luther Westside is an used car dealer in Saint Louis Park, MN at 2440 State Highway 100, Saint Louis Park, MN 55416. Phone: +18335950632. Website: https://www.westsidevw.com/parts/department.htm.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luther-westside-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luther-westside-saint-louis-park.json",
+   "address": {
+    "streetAddress": "2440 State Highway 100",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9589764,
+    "lon": -93.3471652
+   },
+   "phone": "+18335950632",
+   "website": "https://www.westsidevw.com/parts/department.htm",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/45362648",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "midway-ford-roseville",
+   "name": "Midway Ford",
+   "summary": "Midway Ford is an used car dealer in Roseville, MN. Phone: +16516368200. Website: https://www.rosevillemidwayford.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-ford-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-ford-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0245464,
+    "lon": -93.1680941
+   },
+   "phone": "+16516368200",
+   "website": "https://www.rosevillemidwayford.com/",
+   "opening_hours": "Mo-Th 08:30-19:00; Fr 08:30-18:00; Sa 08:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8497171164",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "poquet-auto-sales-inc-golden-valley",
+   "name": "Poquet Auto Sales, Inc.",
+   "summary": "Poquet Auto Sales, Inc. is an used car dealer in Golden Valley, MN at 800 Lilac Drive North, Golden Valley, MN 55422. Phone: +17635222000. Website: https://www.poquetauto.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/poquet-auto-sales-inc-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/poquet-auto-sales-inc-golden-valley.json",
+   "address": {
+    "streetAddress": "800 Lilac Drive North",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.9863175,
+    "lon": -93.3479056
+   },
+   "phone": "+17635222000",
+   "website": "https://www.poquetauto.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/434772760",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "superior-ford-plymouth",
+   "name": "Superior Ford",
+   "summary": "Superior Ford is an used car dealer in Plymouth, MN at 9700 56th Avenue North, Plymouth, MN 55442. Phone: +17634536953. Website: https://www.superiorford.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/superior-ford-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/superior-ford-plymouth.json",
+   "address": {
+    "streetAddress": "9700 56th Avenue North",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55442",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55442",
+   "geo": {
+    "lat": 45.0567834,
+    "lon": -93.4035675
+   },
+   "phone": "+17634536953",
+   "website": "https://www.superiorford.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/767358815",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "beths-auto-sales-minneapolis",
+   "name": "Beth's Auto Sales",
+   "summary": "Beth's Auto Sales is an used car dealer in Minneapolis, MN at 2723 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16122364263.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beths-auto-sales-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beths-auto-sales-minneapolis.json",
+   "address": {
+    "streetAddress": "2723 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9530112,
+    "lon": -93.2875618
+   },
+   "phone": "+16122364263",
+   "opening_hours": "Mo-Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1025720958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "auto-center-bargain-lot-wayzata",
+   "name": "Auto Center Bargain Lot",
+   "summary": "Auto Center Bargain Lot is an used car dealer in Wayzata, MN at 1805 Wayzata Boulevard, Wayzata, MN 55391. Website: https://www.autocenterbargainlot.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auto-center-bargain-lot-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auto-center-bargain-lot-wayzata.json",
+   "address": {
+    "streetAddress": "1805 Wayzata Boulevard",
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "postalCode": "55391",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "zip": "55391",
+   "geo": {
+    "lat": 44.9715966,
+    "lon": -93.4888367
+   },
+   "website": "https://www.autocenterbargainlot.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/88160592",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "east-side-auto-saint-paul-park",
+   "name": "East Side Auto",
+   "summary": "East Side Auto is an used car dealer in Saint Paul Park, MN at 805 Main Street, Saint Paul Park, MN 55071. Website: https://www.eastside-auto.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/east-side-auto-saint-paul-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/east-side-auto-saint-paul-park.json",
+   "address": {
+    "streetAddress": "805 Main Street",
+    "addressLocality": "Saint Paul Park",
+    "addressRegion": "MN",
+    "postalCode": "55071",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul Park",
+   "state": "MN",
+   "zip": "55071",
+   "geo": {
+    "lat": 44.8439067,
+    "lon": -93.0028215
+   },
+   "website": "https://www.eastside-auto.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603184413",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "twin-city-auto-exchange-minneapolis",
+   "name": "Twin City Auto Exchange",
+   "summary": "Twin City Auto Exchange is an used car dealer in Minneapolis, MN at 2501 West Broadway, Minneapolis, MN 55411. Phone: +16122903244.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-city-auto-exchange-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-city-auto-exchange-minneapolis.json",
+   "address": {
+    "streetAddress": "2501 West Broadway",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55411",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55411",
+   "geo": {
+    "lat": 45.006277,
+    "lon": -93.3124243
+   },
+   "phone": "+16122903244",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1021828610",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "luther-used-car-company-brooklyn-park",
+   "name": "Luther Used Car Company",
+   "summary": "Luther Used Car Company is an used car dealer in Brooklyn Park, MN at 7417 Brooklyn Boulevard, Brooklyn Park, MN. Website: https://www.lutherusedcarcompany.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luther-used-car-company-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luther-used-car-company-brooklyn-park.json",
+   "address": {
+    "streetAddress": "7417 Brooklyn Boulevard",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0884681,
+    "lon": -93.347228
+   },
+   "website": "https://www.lutherusedcarcompany.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/608013467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "bedrock-motors-rogers",
+   "name": "Bedrock Motors",
+   "summary": "Bedrock Motors is an used car dealer in Rogers, MN at 13830 Northdale Boulevard, Rogers, MN 55374.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bedrock-motors-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bedrock-motors-rogers.json",
+   "address": {
+    "streetAddress": "13830 Northdale Boulevard",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.205545,
+    "lon": -93.5546342
+   },
+   "opening_hours": "Mo-Th 08:30-20:00; Fr-Sa 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/546236329",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "carmax-brooklyn-park",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Brooklyn Park, MN. Website: https://www.carmax.com/stores/6008.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.081083,
+    "lon": -93.3724984
+   },
+   "website": "https://www.carmax.com/stores/6008",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/770696235",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "carmax-maplewood",
+   "name": "Carmax",
+   "summary": "Carmax is an used car dealer in Maplewood, MN. Website: https://www.carmax.com/stores/7633.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0294357,
+    "lon": -93.0447774
+   },
+   "website": "https://www.carmax.com/stores/7633",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1236682202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "drive-appeal-new-hope",
+   "name": "Drive Appeal",
+   "summary": "Drive Appeal is an used car dealer in New Hope, MN. Website: https://www.driveappeal.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/drive-appeal-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/drive-appeal-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0322386,
+    "lon": -93.3782279
+   },
+   "website": "https://www.driveappeal.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223542173",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "carver-auto-sales-saint-paul",
+   "name": "Carver Auto Sales",
+   "summary": "Carver Auto Sales is an used car dealer in Saint Paul, MN at 1328 Point Douglas Road South, Saint Paul, MN 55119.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carver-auto-sales-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carver-auto-sales-saint-paul.json",
+   "address": {
+    "streetAddress": "1328 Point Douglas Road South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55119",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55119",
+   "geo": {
+    "lat": 44.9011257,
+    "lon": -93.0092068
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/966334468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "freeway-motors-rogers",
+   "name": "Freeway Motors",
+   "summary": "Freeway Motors is an used car dealer in Rogers, MN at 14080 Main Street, Rogers, MN 55374.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeway-motors-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeway-motors-rogers.json",
+   "address": {
+    "streetAddress": "14080 Main Street",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.2084249,
+    "lon": -93.5514919
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/556516039",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "lupient-nissan-brooklyn-park",
+   "name": "Lupient Nissan",
+   "summary": "Lupient Nissan is an used car dealer in Brooklyn Park, MN at 7910 Lakeland Avenue North, Brooklyn Park, MN 55445.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lupient-nissan-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lupient-nissan-brooklyn-park.json",
+   "address": {
+    "streetAddress": "7910 Lakeland Avenue North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55445",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55445",
+   "geo": {
+    "lat": 45.0987589,
+    "lon": -93.3840148
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/759167183",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "north-suburban-auto-sales-hugo",
+   "name": "North Suburban Auto Sales",
+   "summary": "North Suburban Auto Sales is an used car dealer in Hugo, MN at 14529 Forest Boulevard North, Hugo, MN 55038.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-suburban-auto-sales-hugo/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-suburban-auto-sales-hugo.json",
+   "address": {
+    "streetAddress": "14529 Forest Boulevard North",
+    "addressLocality": "Hugo",
+    "addressRegion": "MN",
+    "postalCode": "55038",
+    "addressCountry": "US"
+   },
+   "city": "Hugo",
+   "state": "MN",
+   "zip": "55038",
+   "geo": {
+    "lat": 45.1602895,
+    "lon": -92.9927608
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/488553727",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "northern-lights-auto-sales-south-saint-paul",
+   "name": "Northern Lights Auto Sales",
+   "summary": "Northern Lights Auto Sales is an used car dealer in South Saint Paul, MN at 144 Concord Exchange South, South Saint Paul, MN 55075.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northern-lights-auto-sales-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northern-lights-auto-sales-south-saint-paul.json",
+   "address": {
+    "streetAddress": "144 Concord Exchange South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8890127,
+    "lon": -93.0341665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447124071",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "quality-auto-sales-robbinsdale",
+   "name": "Quality Auto Sales",
+   "summary": "Quality Auto Sales is an used car dealer in Robbinsdale, MN at 5912 42nd Avenue North, Robbinsdale, MN 55422.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quality-auto-sales-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quality-auto-sales-robbinsdale.json",
+   "address": {
+    "streetAddress": "5912 42nd Avenue North",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0325319,
+    "lon": -93.3559281
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1220573471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "ulrichs-used-cars-minneapolis",
+   "name": "Ulrich's Used Cars",
+   "summary": "Ulrich's Used Cars is an used car dealer in Minneapolis, MN at 2642 Central Avenue Northeast, Minneapolis, MN 55418.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulrichs-used-cars-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulrichs-used-cars-minneapolis.json",
+   "address": {
+    "streetAddress": "2642 Central Avenue Northeast",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0164328,
+    "lon": -93.2481751
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/457361852",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "ultimate-golf-carts-rogers",
+   "name": "Ultimate Golf Carts",
+   "summary": "Ultimate Golf Carts is an used car dealer in Rogers, MN at 14295 James Road #Suite 100, Rogers, MN 55374.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimate-golf-carts-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimate-golf-carts-rogers.json",
+   "address": {
+    "streetAddress": "14295 James Road #Suite 100",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.2136665,
+    "lon": -93.5517483
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152126416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "walser-subaru-south-saint-paul",
+   "name": "Walser Subaru",
+   "summary": "Walser Subaru is an used car dealer in South Saint Paul, MN at 740 Concord Street South, South Saint Paul, MN 55075.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walser-subaru-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walser-subaru-south-saint-paul.json",
+   "address": {
+    "streetAddress": "740 Concord Street South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8775904,
+    "lon": -93.0328945
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92921838",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "warner-motors-llc-hopkins",
+   "name": "Warner Motors LLC",
+   "summary": "Warner Motors LLC is an used car dealer in Hopkins, MN at 400 11th Avenue South, Hopkins, MN 55343.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/warner-motors-llc-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/warner-motors-llc-hopkins.json",
+   "address": {
+    "streetAddress": "400 11th Avenue South",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.918527,
+    "lon": -93.4148618
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12099776257",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "alex-used-cars-minneapolis",
+   "name": "Alex Used Cars",
+   "summary": "Alex Used Cars is an used car dealer in Minneapolis, MN at 1619 Chicago Avenue South, Minneapolis, MN.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alex-used-cars-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alex-used-cars-minneapolis.json",
+   "address": {
+    "streetAddress": "1619 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9665538,
+    "lon": -93.262197
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/122795274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "glorias-downtown-auto-sales-saint-paul",
+   "name": "Gloria's Downtown Auto Sales",
+   "summary": "Gloria's Downtown Auto Sales is an used car dealer in Saint Paul, MN at 359 Robert Street South, Saint Paul, MN.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glorias-downtown-auto-sales-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glorias-downtown-auto-sales-saint-paul.json",
+   "address": {
+    "streetAddress": "359 Robert Street South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9350336,
+    "lon": -93.0812609
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241059080",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "ellingson-motorcars-rogers",
+   "name": "Ellingson Motorcars",
+   "summary": "Ellingson Motorcars is an used car dealer in Rogers, MN.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ellingson-motorcars-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ellingson-motorcars-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1928136,
+    "lon": -93.5458524
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/770737726",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "christy-motors-crystal",
+   "name": "Christy Motors",
+   "summary": "Christy Motors is an used car dealer in Crystal, MN.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christy-motors-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christy-motors-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0496518,
+    "lon": -93.3590732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/171280458",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "ravmotors-of-crystal-crystal",
+   "name": "RAVMOTORS of Crystal",
+   "summary": "RAVMOTORS of Crystal is an used car dealer in Crystal, MN.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ravmotors-of-crystal-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ravmotors-of-crystal-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.048582,
+    "lon": -93.3593844
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/171280460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "tower-auto-mart-crystal",
+   "name": "Tower Auto Mart",
+   "summary": "Tower Auto Mart is an used car dealer in Crystal, MN.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tower-auto-mart-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tower-auto-mart-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0491826,
+    "lon": -93.3597807
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/171280475",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "discount-tire-lino-lakes",
+ "name": "Discount Tire",
+ "categories": [
+  "tire shop"
+ ],
+ "keywords": [
+  "tire shop",
+  "tire shop lino lakes mn"
+ ],
+ "services": [
+  {
+   "name": "tire shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Lino Lakes",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Lino Lakes",
+ "state": "MN",
+ "geo": {
+  "lat": 45.1846602,
+  "lon": -93.109323
+ },
+ "brand": "Discount Tire",
+ "wikidata": "Q5281735",
+ "schema_type": "TireShop",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1052556748",
+ "osm": {
+  "type": "way",
+  "id": 1052556748,
+  "tags_used": {
+   "shop": "tyres"
+  }
+ },
+ "municipality": "Lino Lakes",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-lino-lakes/",
+ "summary": "Discount Tire is a tire shop in Lino Lakes, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

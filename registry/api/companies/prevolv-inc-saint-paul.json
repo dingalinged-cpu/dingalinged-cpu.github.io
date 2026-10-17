@@ -1,0 +1,56 @@
+{
+ "slug": "prevolv-inc-saint-paul",
+ "name": "Prevolv, Inc.",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2635 University Avenue West ##120",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.9683388,
+  "lon": -93.2057113
+ },
+ "phone": "+16516452055",
+ "website": "https://www.prevolv.com/",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6277568961",
+ "osm": {
+  "type": "node",
+  "id": 6277568961,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/prevolv-inc-saint-paul/",
+ "summary": "Prevolv, Inc. is a furniture store in Saint Paul, MN at 2635 University Avenue West ##120, Saint Paul, MN 55114. Phone: +16516452055. Website: https://www.prevolv.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

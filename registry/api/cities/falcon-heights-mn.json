@@ -1,0 +1,558 @@
+{
+ "place": "Falcon Heights, MN",
+ "slug": "falcon-heights-mn",
+ "count": 16,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "bakery falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "dentist falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "gift shop falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "gym falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "insurance agency falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "insurance agent falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "insurance agents falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "liquor store falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "mechanic falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "music lessons falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "nail salon falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "property management companies falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "property management company falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "tailor falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "tax preparation falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "tax preparer falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-falcon-heights-mn.json"
+  },
+  {
+   "keyword": "yoga classes falcon heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-falcon-heights-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "honest-1-auto-care-falcon-heights",
+   "name": "Honest-1 Auto Care",
+   "summary": "Honest-1 Auto Care is an auto repair shop in Falcon Heights, MN at 1565 Hamline Avenue North, Falcon Heights, MN 55108. Phone: +16513625986. Website: https://honest1hamlinehoyt.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/honest-1-auto-care-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/honest-1-auto-care-falcon-heights.json",
+   "address": {
+    "streetAddress": "1565 Hamline Avenue North",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9884857,
+    "lon": -93.1570153
+   },
+   "phone": "+16513625986",
+   "website": "https://honest1hamlinehoyt.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/159114538",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "young-spa-falcon-heights",
+   "name": "Young Spa",
+   "summary": "Young Spa is a nail salon in Falcon Heights, MN at 1541 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16519170595. Website: https://sites.google.com/site/youngspa1/location-hours.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/young-spa-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/young-spa-falcon-heights.json",
+   "address": {
+    "streetAddress": "1541 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920782,
+    "lon": -93.1649966
+   },
+   "phone": "+16519170595",
+   "website": "https://sites.google.com/site/youngspa1/location-hours",
+   "opening_hours": "Tu-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "eighty-eight-notes-school-of-music-falcon-heights",
+   "name": "Eighty Eight Notes School of Music",
+   "summary": "Eighty Eight Notes School of Music is a music school in Falcon Heights, MN at 1557 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16518950891. Website: https://www.88notesmusic.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eighty-eight-notes-school-of-music-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eighty-eight-notes-school-of-music-falcon-heights.json",
+   "address": {
+    "streetAddress": "1557 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920795,
+    "lon": -93.1655699
+   },
+   "phone": "+16518950891",
+   "website": "https://www.88notesmusic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "falcon-heights-dental-falcon-heights",
+   "name": "Falcon Heights Dental",
+   "summary": "Falcon Heights Dental is a dentist in Falcon Heights, MN at 1549 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16516460412. Website: https://www.falconheightsdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/falcon-heights-dental-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/falcon-heights-dental-falcon-heights.json",
+   "address": {
+    "streetAddress": "1549 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920789,
+    "lon": -93.1653057
+   },
+   "phone": "+16516460412",
+   "website": "https://www.falconheightsdental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "golden-tailor-falcon-heights",
+   "name": "Golden Tailor",
+   "summary": "Golden Tailor is a tailor in Falcon Heights, MN at 1555 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16516460938. Website: https://www.thegoldentailor.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-tailor-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-tailor-falcon-heights.json",
+   "address": {
+    "streetAddress": "1555 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920794,
+    "lon": -93.1654961
+   },
+   "phone": "+16516460938",
+   "website": "https://www.thegoldentailor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714125",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jackson-hewitt-falcon-heights",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Falcon Heights, MN at 1551 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16122861576.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-falcon-heights.json",
+   "address": {
+    "streetAddress": "1551 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920791,
+    "lon": -93.1653634
+   },
+   "phone": "+16122861576",
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "merwin-liquors-falcon-heights",
+   "name": "Merwin Liquors",
+   "summary": "Merwin Liquors is a liquor store in Falcon Heights, MN. Phone: +16513137297. Website: https://www.merwinliquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merwin-liquors-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merwin-liquors-falcon-heights.json",
+   "address": {
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920619,
+    "lon": -93.1658576
+   },
+   "phone": "+16513137297",
+   "website": "https://www.merwinliquors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/585203512",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "curves-falcon-heights",
+   "name": "Curves",
+   "summary": "Curves is a gym in Falcon Heights, MN at 1553 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16516463885.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/curves-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/curves-falcon-heights.json",
+   "address": {
+    "streetAddress": "1553 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920792,
+    "lon": -93.1654351
+   },
+   "phone": "+16516463885",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714124",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "snap-fitness-falcon-heights",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Falcon Heights, MN at 1557 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16516467627.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-falcon-heights.json",
+   "address": {
+    "streetAddress": "1557 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920639,
+    "lon": -93.1656926
+   },
+   "phone": "+16516467627",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714127",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hamline-family-dental-falcon-heights",
+   "name": "Hamline Family Dental",
+   "summary": "Hamline Family Dental is a dentist in Falcon Heights, MN. Phone: +16516995600.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hamline-family-dental-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hamline-family-dental-falcon-heights.json",
+   "address": {
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9921326,
+    "lon": -93.15696
+   },
+   "phone": "+16516995600",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8165857405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "larpenteur-manor-apartments-management-office-falcon-heights",
+   "name": "Larpenteur Manor Apartments Management Office",
+   "summary": "Larpenteur Manor Apartments Management Office is a property management company in Falcon Heights, MN at 1740 Larpenteur Avenue West, Falcon Heights, MN 55113.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/larpenteur-manor-apartments-management-office-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/larpenteur-manor-apartments-management-office-falcon-heights.json",
+   "address": {
+    "streetAddress": "1740 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9912986,
+    "lon": -93.172771
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13799110507",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "love-from-minnesota-falcon-heights",
+   "name": "Love From Minnesota",
+   "summary": "Love From Minnesota is a gift shop in Falcon Heights, MN at 1663 Dan Patch Avenue, Falcon Heights, MN 55113.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/love-from-minnesota-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/love-from-minnesota-falcon-heights.json",
+   "address": {
+    "streetAddress": "1663 Dan Patch Avenue",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.981515,
+    "lon": -93.1697369
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/177770108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "minnesota-xplorer-falcon-heights",
+   "name": "Minnesota Xplorer",
+   "summary": "Minnesota Xplorer is a gift shop in Falcon Heights, MN at 1352 Cooper Street, Falcon Heights, MN 55113.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-xplorer-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-xplorer-falcon-heights.json",
+   "address": {
+    "streetAddress": "1352 Cooper Street",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9816492,
+    "lon": -93.1688164
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/177770105",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "american-family-insurance-falcon-heights",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Falcon Heights, MN at 1545 Larpenteur Avenue West, Falcon Heights, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-falcon-heights.json",
+   "address": {
+    "streetAddress": "1545 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920785,
+    "lon": -93.165128
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714121",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sweet-marthas-cookies-falcon-heights",
+   "name": "Sweet Martha's Cookies",
+   "summary": "Sweet Martha's Cookies is a bakery in Falcon Heights, MN at 1795 Dan Patch Avenue, Falcon Heights, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sweet-marthas-cookies-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sweet-marthas-cookies-falcon-heights.json",
+   "address": {
+    "streetAddress": "1795 Dan Patch Avenue",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9811115,
+    "lon": -93.1746191
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/177770137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fit-lab-falcon-heights",
+   "name": "FIT Lab",
+   "summary": "FIT Lab is a yoga studio in Falcon Heights, MN.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fit-lab-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fit-lab-falcon-heights.json",
+   "address": {
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9889955,
+    "lon": -93.1568741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7393192843",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

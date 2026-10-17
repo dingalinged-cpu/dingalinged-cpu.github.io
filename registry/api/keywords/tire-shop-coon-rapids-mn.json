@@ -1,0 +1,59 @@
+{
+ "keyword": "tire shop coon rapids mn",
+ "slug": "tire-shop-coon-rapids-mn",
+ "place": "Coon Rapids, MN",
+ "service": "tire shop",
+ "query": "Who are the best tire shop providers in Coon Rapids, MN?",
+ "matches": [
+  "tire shop in Coon Rapids, MN",
+  "tire shop near me (Coon Rapids, MN)",
+  "best tire shop Coon Rapids, MN",
+  "top rated tire shop Coon Rapids, MN",
+  "affordable tire shop Coon Rapids, MN",
+  "emergency tire shop Coon Rapids, MN"
+ ],
+ "answer": "The top unpaid tire shop listing for Coon Rapids, MN is Discount Tire (a tire shop in Coon Rapids, MN). 1 tire shop businesses are listed for Coon Rapids, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "discount-tire-coon-rapids",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Coon Rapids, MN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2056673,
+    "lon": -93.3587449
+   },
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/51161625",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

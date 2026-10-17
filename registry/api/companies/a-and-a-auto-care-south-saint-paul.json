@@ -1,0 +1,63 @@
+{
+ "slug": "a-and-a-auto-care-south-saint-paul",
+ "name": "A&A Auto Care",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair south saint paul mn",
+  "mechanic south saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1201 5th Avenue South",
+  "addressLocality": "South Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55075",
+  "addressCountry": "US"
+ },
+ "city": "South Saint Paul",
+ "state": "MN",
+ "zip": "55075",
+ "geo": {
+  "lat": 44.8705741,
+  "lon": -93.039582
+ },
+ "phone": "+16513749536",
+ "website": "https://aandaautocare.com/",
+ "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1312854122",
+ "osm": {
+  "type": "way",
+  "id": 1312854122,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "South Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/a-and-a-auto-care-south-saint-paul/",
+ "summary": "A&A Auto Care is an auto repair shop in South Saint Paul, MN at 1201 5th Avenue South, South Saint Paul, MN 55075. Phone: +16513749536. Website: https://aandaautocare.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

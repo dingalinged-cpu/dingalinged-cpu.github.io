@@ -1,0 +1,65 @@
+{
+ "slug": "sanctuary-salonspa-excelsior",
+ "name": "Sanctuary Salonspa",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon tonka bay mn",
+  "hair salon excelsior mn",
+  "haircut tonka bay mn",
+  "haircut excelsior mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5647 Manitou Road",
+  "addressLocality": "Excelsior",
+  "addressRegion": "MN",
+  "postalCode": "55331",
+  "addressCountry": "US"
+ },
+ "city": "Excelsior",
+ "state": "MN",
+ "zip": "55331",
+ "geo": {
+  "lat": 44.9014328,
+  "lon": -93.5886611
+ },
+ "phone": "+19524744412",
+ "website": "https://www.sanctuaryspa.com/locations/tonka-bay/",
+ "opening_hours": "Su-Mo off; Tu,Th 09:00-21:00; We 11:00-21:00; Fr 09:00-19:00; Sa 08:00-18:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11775549014",
+ "osm": {
+  "type": "node",
+  "id": 11775549014,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Tonka Bay",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sanctuary-salonspa-excelsior/",
+ "summary": "Sanctuary Salonspa is a hair salon in Excelsior, MN at 5647 Manitou Road, Excelsior, MN 55331. Phone: +19524744412. Website: https://www.sanctuaryspa.com/locations/tonka-bay/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

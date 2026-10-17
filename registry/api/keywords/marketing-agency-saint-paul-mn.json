@@ -1,0 +1,230 @@
+{
+ "keyword": "marketing agency saint paul mn",
+ "slug": "marketing-agency-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "marketing agency",
+ "query": "Who are the best marketing agency providers in Saint Paul, MN?",
+ "matches": [
+  "marketing agency in Saint Paul, MN",
+  "marketing agency near me (Saint Paul, MN)",
+  "best marketing agency Saint Paul, MN",
+  "top rated marketing agency Saint Paul, MN",
+  "affordable marketing agency Saint Paul, MN",
+  "emergency marketing agency Saint Paul, MN"
+ ],
+ "answer": "The top unpaid marketing agency listing for Saint Paul, MN is BROWNTOWN_ (a marketing agency in Saint Paul, MN at 501 West Lynnhurst Avenue, Saint Paul, MN 55104. Phone: +16124123771. Website: https://www.browntowndesign.com/). 6 marketing agency businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "browntown-saint-paul",
+   "name": "BROWNTOWN_",
+   "summary": "BROWNTOWN_ is a marketing agency in Saint Paul, MN at 501 West Lynnhurst Avenue, Saint Paul, MN 55104. Phone: +16124123771. Website: https://www.browntowndesign.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/browntown-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/browntown-saint-paul.json",
+   "address": {
+    "streetAddress": "501 West Lynnhurst Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9564083,
+    "lon": -93.1807627
+   },
+   "phone": "+16124123771",
+   "website": "https://www.browntowndesign.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196597425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "upswing-creative-saint-paul",
+   "name": "Upswing Creative",
+   "summary": "Upswing Creative is a marketing agency in Saint Paul, MN at 755 North Prior Avenue ##106, Saint Paul, MN 55104. Phone: +16512524651. Website: https://www.upswingcreative.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/upswing-creative-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/upswing-creative-saint-paul.json",
+   "address": {
+    "streetAddress": "755 North Prior Avenue ##106",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.964162,
+    "lon": -93.1833456
+   },
+   "phone": "+16512524651",
+   "website": "https://www.upswingcreative.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196019065",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "augeo-greer-saint-paul",
+   "name": "Augeo+Greer",
+   "summary": "Augeo+Greer is a marketing agency in Saint Paul, MN at 2561 Territorial Road, Saint Paul, MN 55114. Phone: +16123386171. Website: https://www.augeogreer.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/augeo-greer-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/augeo-greer-saint-paul.json",
+   "address": {
+    "streetAddress": "2561 Territorial Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9688746,
+    "lon": -93.2038327
+   },
+   "phone": "+16123386171",
+   "website": "https://www.augeogreer.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6277568967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "scales-advertising-saint-paul",
+   "name": "Scales Advertising",
+   "summary": "Scales Advertising is a marketing agency in Saint Paul, MN at 2303 Wycliff Street, Saint Paul, MN 55114. Phone: +16516410226. Website: https://www.scalesadvertising.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scales-advertising-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scales-advertising-saint-paul.json",
+   "address": {
+    "streetAddress": "2303 Wycliff Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9687512,
+    "lon": -93.193592
+   },
+   "phone": "+16516410226",
+   "website": "https://www.scalesadvertising.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6265036092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "red-e-print-inc-saint-paul",
+   "name": "Red E Print, Inc.",
+   "summary": "Red E Print, Inc. is a marketing agency in Saint Paul, MN at 101 5th Street East #211, Saint Paul, MN 55101. Phone: +16512242307.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/red-e-print-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/red-e-print-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "101 5th Street East #211",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9478072,
+    "lon": -93.0920175
+   },
+   "phone": "+16512242307",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13760993883",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "cedar-printing-saint-paul",
+   "name": "Cedar Printing",
+   "summary": "Cedar Printing is a marketing agency in Saint Paul, MN. Website: https://www.cedarprinting.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedar-printing-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedar-printing-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9480495,
+    "lon": -93.0927105
+   },
+   "website": "https://www.cedarprinting.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13717023336",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

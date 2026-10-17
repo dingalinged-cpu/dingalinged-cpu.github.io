@@ -1,0 +1,62 @@
+{
+ "slug": "prepare-prosper-saint-paul",
+ "name": "Prepare + Prosper",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation saint paul mn",
+  "tax preparer saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2610 University Avenue West ##450",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.9666918,
+  "lon": -93.2055187
+ },
+ "phone": "+16512870187",
+ "website": "https://www.prepareandprosper.org/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6277537549",
+ "osm": {
+  "type": "node",
+  "id": 6277537549,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/prepare-prosper-saint-paul/",
+ "summary": "Prepare + Prosper is a tax preparation service in Saint Paul, MN at 2610 University Avenue West ##450, Saint Paul, MN 55114. Phone: +16512870187. Website: https://www.prepareandprosper.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

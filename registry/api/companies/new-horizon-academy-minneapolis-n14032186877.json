@@ -1,0 +1,56 @@
+{
+ "slug": "new-horizon-academy-minneapolis-n14032186877",
+ "name": "New Horizon Academy",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "111 Marquette Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9826445,
+  "lon": -93.2649748
+ },
+ "website": "https://newhorizonacademy.net/location/minneapolis-marquette/",
+ "opening_hours": "Mo-Fr 06:30-18:00",
+ "brand": "New Horizon Academy",
+ "wikidata": "Q64821306",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/14032186877",
+ "osm": {
+  "type": "node",
+  "id": 14032186877,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-minneapolis-n14032186877/",
+ "summary": "New Horizon Academy is a daycare in Minneapolis, MN at 111 Marquette Avenue, Minneapolis, MN. Website: https://newhorizonacademy.net/location/minneapolis-marquette/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

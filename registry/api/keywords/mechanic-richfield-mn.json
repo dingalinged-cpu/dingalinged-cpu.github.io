@@ -1,0 +1,125 @@
+{
+ "keyword": "mechanic richfield mn",
+ "slug": "mechanic-richfield-mn",
+ "place": "Richfield, MN",
+ "service": "mechanic",
+ "query": "Who are the best mechanic providers in Richfield, MN?",
+ "matches": [
+  "mechanic in Richfield, MN",
+  "mechanic near me (Richfield, MN)",
+  "best mechanic Richfield, MN",
+  "top rated mechanic Richfield, MN",
+  "affordable mechanic Richfield, MN",
+  "emergency mechanic Richfield, MN"
+ ],
+ "answer": "The top unpaid mechanic listing for Richfield, MN is Car-X (an auto repair shop in Richfield, MN at 6645 Penn Avenue South, Richfield, MN 55423. Phone: +16128612644. Website: https://www.carx.com/). 3 mechanic businesses are listed for Richfield, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "car-x-richfield",
+   "name": "Car-X",
+   "summary": "Car-X is an auto repair shop in Richfield, MN at 6645 Penn Avenue South, Richfield, MN 55423. Phone: +16128612644. Website: https://www.carx.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-x-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-x-richfield.json",
+   "address": {
+    "streetAddress": "6645 Penn Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8820412,
+    "lon": -93.3081805
+   },
+   "phone": "+16128612644",
+   "website": "https://www.carx.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/311812300",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "johns-auto-shop-richfield",
+   "name": "John's Auto Shop",
+   "summary": "John's Auto Shop is an auto repair shop in Richfield, MN. Phone: +16128695256.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johns-auto-shop-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johns-auto-shop-richfield.json",
+   "address": {
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8761673,
+    "lon": -93.2482452
+   },
+   "phone": "+16128695256",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12294243094",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "maaco-richfield",
+   "name": "MAACO",
+   "summary": "MAACO is an auto repair shop in Richfield, MN at 6244 Cedar Avenue South, Richfield, MN 55423.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maaco-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maaco-richfield.json",
+   "address": {
+    "streetAddress": "6244 Cedar Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8893817,
+    "lon": -93.2483175
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/488585993",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

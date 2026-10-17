@@ -1,0 +1,151 @@
+{
+ "keyword": "car wash brooklyn park mn",
+ "slug": "car-wash-brooklyn-park-mn",
+ "place": "Brooklyn Park, MN",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in Brooklyn Park, MN?",
+ "matches": [
+  "car wash in Brooklyn Park, MN",
+  "car wash near me (Brooklyn Park, MN)",
+  "best car wash Brooklyn Park, MN",
+  "top rated car wash Brooklyn Park, MN",
+  "affordable car wash Brooklyn Park, MN",
+  "emergency car wash Brooklyn Park, MN"
+ ],
+ "answer": "The top unpaid car wash listing for Brooklyn Park, MN is Kwik Trip (a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=880). 4 car wash businesses are listed for Brooklyn Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "kwik-trip-brooklyn-park",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=880.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1308173,
+    "lon": -93.3557627
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=880",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/543974478",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "kwik-trip-car-wash-brooklyn-park",
+   "name": "Kwik Trip Car Wash",
+   "summary": "Kwik Trip Car Wash is a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=448.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-car-wash-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.125926,
+    "lon": -93.3367894
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=448",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/759919864",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "fleet-farm-wash-brooklyn-park",
+   "name": "Fleet Farm Wash",
+   "summary": "Fleet Farm Wash is a car wash in Brooklyn Park, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fleet-farm-wash-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fleet-farm-wash-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1077942,
+    "lon": -93.3865764
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/743019075",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "hy-vee-car-wash-brooklyn-park",
+   "name": "Hy-Vee Car Wash",
+   "summary": "Hy-Vee Car Wash is a car wash in Brooklyn Park, MN at 9409 Zane Avenue North, Brooklyn Park, MN 55443.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hy-vee-car-wash-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hy-vee-car-wash-brooklyn-park.json",
+   "address": {
+    "streetAddress": "9409 Zane Avenue North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55443",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55443",
+   "geo": {
+    "lat": 45.1258301,
+    "lon": -93.3572504
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/759073064",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

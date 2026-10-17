@@ -1,0 +1,90 @@
+{
+ "keyword": "gym columbia heights mn",
+ "slug": "gym-columbia-heights-mn",
+ "place": "Columbia Heights, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in Columbia Heights, MN?",
+ "matches": [
+  "gym in Columbia Heights, MN",
+  "gym near me (Columbia Heights, MN)",
+  "best gym Columbia Heights, MN",
+  "top rated gym Columbia Heights, MN",
+  "affordable gym Columbia Heights, MN",
+  "emergency gym Columbia Heights, MN"
+ ],
+ "answer": "The top unpaid gym listing for Columbia Heights, MN is Hylander Center (a gym in Columbia Heights, MN at 1400 49th Avenue Northeast, Columbia Heights, MN 55421). 2 gym businesses are listed for Columbia Heights, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "hylander-center-columbia-heights",
+   "name": "Hylander Center",
+   "summary": "Hylander Center is a gym in Columbia Heights, MN at 1400 49th Avenue Northeast, Columbia Heights, MN 55421.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hylander-center-columbia-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hylander-center-columbia-heights.json",
+   "address": {
+    "streetAddress": "1400 49th Avenue Northeast",
+    "addressLocality": "Columbia Heights",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Columbia Heights",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0564519,
+    "lon": -93.2400703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8105529341",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "planet-fitness-columbia-heights",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Columbia Heights, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-columbia-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-columbia-heights.json",
+   "address": {
+    "addressLocality": "Columbia Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Columbia Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0603254,
+    "lon": -93.2460157
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1215484592",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "keyword": "liquor store south saint paul mn",
+ "slug": "liquor-store-south-saint-paul-mn",
+ "place": "South Saint Paul, MN",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in South Saint Paul, MN?",
+ "matches": [
+  "liquor store in South Saint Paul, MN",
+  "liquor store near me (South Saint Paul, MN)",
+  "best liquor store South Saint Paul, MN",
+  "top rated liquor store South Saint Paul, MN",
+  "affordable liquor store South Saint Paul, MN",
+  "emergency liquor store South Saint Paul, MN"
+ ],
+ "answer": "The top unpaid liquor store listing for South Saint Paul, MN is Hat Trick Liquors (a liquor store in South Saint Paul, MN at 1150 Southview Boulevard, South Saint Paul, MN 55075. Phone: +16515521996). 2 liquor store businesses are listed for South Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "hat-trick-liquors-south-saint-paul",
+   "name": "Hat Trick Liquors",
+   "summary": "Hat Trick Liquors is a liquor store in South Saint Paul, MN at 1150 Southview Boulevard, South Saint Paul, MN 55075. Phone: +16515521996.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hat-trick-liquors-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hat-trick-liquors-south-saint-paul.json",
+   "address": {
+    "streetAddress": "1150 Southview Boulevard",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8893099,
+    "lon": -93.048312
+   },
+   "phone": "+16515521996",
+   "opening_hours": "Mo-Sa 09:00-21:55",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447124503",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "big-discount-liquor-south-saint-paul",
+   "name": "Big Discount Liquor",
+   "summary": "Big Discount Liquor is a liquor store in South Saint Paul, MN at 333 Concord Street North, South Saint Paul, MN 55075.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-discount-liquor-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-discount-liquor-south-saint-paul.json",
+   "address": {
+    "streetAddress": "333 Concord Street North",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8959285,
+    "lon": -93.0376103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447027414",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "keyword": "gym lino lakes mn",
+ "slug": "gym-lino-lakes-mn",
+ "place": "Lino Lakes, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in Lino Lakes, MN?",
+ "matches": [
+  "gym in Lino Lakes, MN",
+  "gym near me (Lino Lakes, MN)",
+  "best gym Lino Lakes, MN",
+  "top rated gym Lino Lakes, MN",
+  "affordable gym Lino Lakes, MN",
+  "emergency gym Lino Lakes, MN"
+ ],
+ "answer": "The top unpaid gym listing for Lino Lakes, MN is Hotworx (a gym in Lino Lakes, MN at 7107 Otter Lake Road #100, Lino Lakes, MN 55038. Phone: +16512946868. Website: https://www.hotworx.net/studio/linolakes). 3 gym businesses are listed for Lino Lakes, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "hotworx-lino-lakes",
+   "name": "Hotworx",
+   "summary": "Hotworx is a gym in Lino Lakes, MN at 7107 Otter Lake Road #100, Lino Lakes, MN 55038. Phone: +16512946868. Website: https://www.hotworx.net/studio/linolakes.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hotworx-lino-lakes/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hotworx-lino-lakes.json",
+   "address": {
+    "streetAddress": "7107 Otter Lake Road #100",
+    "addressLocality": "Lino Lakes",
+    "addressRegion": "MN",
+    "postalCode": "55038",
+    "addressCountry": "US"
+   },
+   "city": "Lino Lakes",
+   "state": "MN",
+   "zip": "55038",
+   "geo": {
+    "lat": 45.1648186,
+    "lon": -93.0263689
+   },
+   "phone": "+16512946868",
+   "website": "https://www.hotworx.net/studio/linolakes",
+   "opening_hours": "Mo-Th 11:00-20:00; Fr 09:00-18:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12249324229",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "f45-training-lino-lakes",
+   "name": "F45 Training",
+   "summary": "F45 Training is a gym in Lino Lakes, MN at 7114 Otter Lake Road #130, Lino Lakes, MN 55038. Website: https://f45training.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/f45-training-lino-lakes/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/f45-training-lino-lakes.json",
+   "address": {
+    "streetAddress": "7114 Otter Lake Road #130",
+    "addressLocality": "Lino Lakes",
+    "addressRegion": "MN",
+    "postalCode": "55038",
+    "addressCountry": "US"
+   },
+   "city": "Lino Lakes",
+   "state": "MN",
+   "zip": "55038",
+   "geo": {
+    "lat": 45.1646023,
+    "lon": -93.0242066
+   },
+   "website": "https://f45training.com/",
+   "opening_hours": "Mo-Su 06:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12249324222",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "the-rookery-lino-lakes",
+   "name": "The Rookery",
+   "summary": "The Rookery is a gym in Lino Lakes, MN. Website: https://linolakes.us/158/The-Rookery-Activity-Center.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-rookery-lino-lakes/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-rookery-lino-lakes.json",
+   "address": {
+    "addressLocality": "Lino Lakes",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Lino Lakes",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.178382,
+    "lon": -93.1082528
+   },
+   "website": "https://linolakes.us/158/The-Rookery-Activity-Center",
+   "opening_hours": "Mo-Fr 05:00-22:00; Sa,Su 06:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 11.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6416096001",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

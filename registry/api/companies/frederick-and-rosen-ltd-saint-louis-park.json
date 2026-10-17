@@ -1,0 +1,62 @@
+{
+ "slug": "frederick-and-rosen-ltd-saint-louis-park",
+ "name": "Frederick & Rosen Ltd",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation saint louis park mn",
+  "tax preparer saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5922 Excelsior Boulevard",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9288121,
+  "lon": -93.3555941
+ },
+ "phone": "+19529298557",
+ "website": "https://www.fr-cpa.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1042503165",
+ "osm": {
+  "type": "way",
+  "id": 1042503165,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/frederick-and-rosen-ltd-saint-louis-park/",
+ "summary": "Frederick & Rosen Ltd is a tax preparation service in Saint Louis Park, MN at 5922 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529298557. Website: https://www.fr-cpa.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

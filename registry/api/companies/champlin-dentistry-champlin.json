@@ -1,0 +1,52 @@
+{
+ "slug": "champlin-dentistry-champlin",
+ "name": "Champlin Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist champlin mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Champlin",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Champlin",
+ "state": "MN",
+ "geo": {
+  "lat": 45.1588856,
+  "lon": -93.3908206
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7137228124",
+ "osm": {
+  "type": "node",
+  "id": 7137228124,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Champlin",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/champlin-dentistry-champlin/",
+ "summary": "Champlin Dentistry is a dentist in Champlin, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

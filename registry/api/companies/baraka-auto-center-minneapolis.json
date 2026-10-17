@@ -1,0 +1,61 @@
+{
+ "slug": "baraka-auto-center-minneapolis",
+ "name": "Baraka Auto Center",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair minneapolis mn",
+  "mechanic minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "100 Northeast 5th Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55413",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55413",
+ "geo": {
+  "lat": 44.9900955,
+  "lon": -93.2547532
+ },
+ "phone": "+16123790838",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/89531612",
+ "osm": {
+  "type": "way",
+  "id": 89531612,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/baraka-auto-center-minneapolis/",
+ "summary": "Baraka Auto Center is an auto repair shop in Minneapolis, MN at 100 Northeast 5th Street, Minneapolis, MN 55413. Phone: +16123790838.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

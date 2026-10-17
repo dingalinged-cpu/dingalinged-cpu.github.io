@@ -1,0 +1,95 @@
+{
+ "keyword": "exterminator",
+ "slug": "exterminator",
+ "place": "the United States",
+ "service": "exterminator",
+ "query": "Who are the best exterminator providers in the United States?",
+ "matches": [
+  "exterminator in the United States",
+  "exterminator near me (the United States)",
+  "best exterminator the United States",
+  "top rated exterminator the United States",
+  "affordable exterminator the United States",
+  "emergency exterminator the United States"
+ ],
+ "answer": "The top unpaid exterminator listing for the United States is North Central Mosquito Control Association (a pest control company in Saint Paul, MN at 2099 University Avenue, Saint Paul, MN 55104. Phone: +16516438385. Website: https://north-central-mosquito.org/WPSite/). 2 exterminator businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "north-central-mosquito-control-association-saint-paul",
+   "name": "North Central Mosquito Control Association",
+   "summary": "North Central Mosquito Control Association is a pest control company in Saint Paul, MN at 2099 University Avenue, Saint Paul, MN 55104. Phone: +16516438385. Website: https://north-central-mosquito.org/WPSite/.",
+   "categories": [
+    "pest control"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-central-mosquito-control-association-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-central-mosquito-control-association-saint-paul.json",
+   "address": {
+    "streetAddress": "2099 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9598105,
+    "lon": -93.1860561
+   },
+   "phone": "+16516438385",
+   "website": "https://north-central-mosquito.org/WPSite/",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125699640",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "abra-kadabra-environmental-services-minneapolis",
+   "name": "Abra Kadabra Environmental Services",
+   "summary": "Abra Kadabra Environmental Services is a pest control company in Minneapolis, MN. Phone: +17635370330. Website: https://abrakadabraenvironmental.com/.",
+   "categories": [
+    "pest control"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abra-kadabra-environmental-services-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abra-kadabra-environmental-services-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9988585,
+    "lon": -93.240692
+   },
+   "phone": "+17635370330",
+   "website": "https://abrakadabraenvironmental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12887240290",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

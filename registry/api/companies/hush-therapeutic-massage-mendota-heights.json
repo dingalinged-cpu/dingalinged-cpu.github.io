@@ -1,0 +1,52 @@
+{
+ "slug": "hush-therapeutic-massage-mendota-heights",
+ "name": "hush Therapeutic Massage",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage mendota heights mn"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "776",
+  "addressLocality": "Mendota Heights",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Mendota Heights",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8818589,
+  "lon": -93.1248385
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12292318418",
+ "osm": {
+  "type": "node",
+  "id": 12292318418,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Mendota Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hush-therapeutic-massage-mendota-heights/",
+ "summary": "hush Therapeutic Massage is a massage studio in Mendota Heights, MN at 776, Mendota Heights, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

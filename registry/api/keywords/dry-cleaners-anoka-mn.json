@@ -1,0 +1,87 @@
+{
+ "keyword": "dry cleaners anoka mn",
+ "slug": "dry-cleaners-anoka-mn",
+ "place": "Anoka, MN",
+ "service": "dry cleaners",
+ "query": "Who are the best dry cleaners providers in Anoka, MN?",
+ "matches": [
+  "dry cleaners in Anoka, MN",
+  "dry cleaners near me (Anoka, MN)",
+  "best dry cleaners Anoka, MN",
+  "top rated dry cleaners Anoka, MN",
+  "affordable dry cleaners Anoka, MN",
+  "emergency dry cleaners Anoka, MN"
+ ],
+ "answer": "The top unpaid dry cleaners listing for Anoka, MN is MTM Cleaners & Tailors (a dry cleaner in Anoka, MN). 2 dry cleaners businesses are listed for Anoka, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mtm-cleaners-and-tailors-anoka",
+   "name": "MTM Cleaners & Tailors",
+   "summary": "MTM Cleaners & Tailors is a dry cleaner in Anoka, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mtm-cleaners-and-tailors-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mtm-cleaners-and-tailors-anoka.json",
+   "address": {
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1973422,
+    "lon": -93.3911058
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5595314599",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "sew-and-press-anoka",
+   "name": "Sew & Press",
+   "summary": "Sew & Press is a dry cleaner in Anoka, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-and-press-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-and-press-anoka.json",
+   "address": {
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1981072,
+    "lon": -93.387962
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5599281267",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

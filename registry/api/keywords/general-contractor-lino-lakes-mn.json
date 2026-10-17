@@ -1,0 +1,62 @@
+{
+ "keyword": "general contractor lino lakes mn",
+ "slug": "general-contractor-lino-lakes-mn",
+ "place": "Lino Lakes, MN",
+ "service": "general contractor",
+ "query": "Who are the best general contractor providers in Lino Lakes, MN?",
+ "matches": [
+  "general contractor in Lino Lakes, MN",
+  "general contractor near me (Lino Lakes, MN)",
+  "best general contractor Lino Lakes, MN",
+  "top rated general contractor Lino Lakes, MN",
+  "affordable general contractor Lino Lakes, MN",
+  "emergency general contractor Lino Lakes, MN"
+ ],
+ "answer": "The top unpaid general contractor listing for Lino Lakes, MN is Custom Remodelers (a general contractor in Circle Pines, MN at 474 Apollo Drive, Circle Pines, MN 55014. Phone: +18002403038). 1 general contractor businesses are listed for Lino Lakes, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "custom-remodelers-circle-pines",
+   "name": "Custom Remodelers",
+   "summary": "Custom Remodelers is a general contractor in Circle Pines, MN at 474 Apollo Drive, Circle Pines, MN 55014. Phone: +18002403038.",
+   "categories": [
+    "general contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/custom-remodelers-circle-pines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/custom-remodelers-circle-pines.json",
+   "address": {
+    "streetAddress": "474 Apollo Drive",
+    "addressLocality": "Circle Pines",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Circle Pines",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.1789346,
+    "lon": -93.1188962
+   },
+   "phone": "+18002403038",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13968018313",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

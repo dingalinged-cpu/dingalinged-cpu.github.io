@@ -1,0 +1,613 @@
+{
+ "place": "Fridley, MN",
+ "slug": "fridley-mn",
+ "count": 18,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-fridley-mn.json"
+  },
+  {
+   "keyword": "auto repair fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-fridley-mn.json"
+  },
+  {
+   "keyword": "business consultant fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-fridley-mn.json"
+  },
+  {
+   "keyword": "dermatologist fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-fridley-mn.json"
+  },
+  {
+   "keyword": "event venues fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-fridley-mn.json"
+  },
+  {
+   "keyword": "florist fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-fridley-mn.json"
+  },
+  {
+   "keyword": "furniture store fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-fridley-mn.json"
+  },
+  {
+   "keyword": "gym fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-fridley-mn.json"
+  },
+  {
+   "keyword": "liquor store fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-fridley-mn.json"
+  },
+  {
+   "keyword": "mattress store fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-fridley-mn.json"
+  },
+  {
+   "keyword": "mechanic fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-fridley-mn.json"
+  },
+  {
+   "keyword": "painters fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/painters-fridley-mn.json"
+  },
+  {
+   "keyword": "pet store fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-fridley-mn.json"
+  },
+  {
+   "keyword": "plastic surgeon fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plastic-surgeon-fridley-mn.json"
+  },
+  {
+   "keyword": "storage units fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-fridley-mn.json"
+  },
+  {
+   "keyword": "thrift store fridley mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-fridley-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "life-time-fridley",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Fridley, MN at 1200 East Moore Lake Drive, Fridley, MN 55432. Phone: +17636561500. Website: https://www.lifetime.life/life-time-locations/mn-fridley.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-fridley.json",
+   "address": {
+    "streetAddress": "1200 East Moore Lake Drive",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.080131,
+    "lon": -93.2389908
+   },
+   "phone": "+17636561500",
+   "website": "https://www.lifetime.life/life-time-locations/mn-fridley.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/65869772",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "schaaf-floral-fridley",
+   "name": "Schaaf Floral",
+   "summary": "Schaaf Floral is a florist in Fridley, MN at 8070 University Avenue Northeast, Fridley, MN 55432. Phone: +17635714600. Website: https://www.schaaffloral.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schaaf-floral-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schaaf-floral-fridley.json",
+   "address": {
+    "streetAddress": "8070 University Avenue Northeast",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.1145375,
+    "lon": -93.2652781
+   },
+   "phone": "+17635714600",
+   "website": "https://www.schaaffloral.com/",
+   "opening_hours": "Mo-Fr 08:30-16:30; Sa 08:30-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11649844269",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "auto-body-shop-of-minneapolis-fridley",
+   "name": "Auto Body Shop of Minneapolis",
+   "summary": "Auto Body Shop of Minneapolis is an auto repair shop in Fridley, MN at 7741 Main Street Northeast, Fridley, MN 55432. Phone: +17635719151. Website: https://www.autobodyshopofminneapolis.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auto-body-shop-of-minneapolis-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auto-body-shop-of-minneapolis-fridley.json",
+   "address": {
+    "streetAddress": "7741 Main Street Northeast",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.1086962,
+    "lon": -93.2686896
+   },
+   "phone": "+17635719151",
+   "website": "https://www.autobodyshopofminneapolis.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3707375630",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-fridley",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Fridley, MN at 5350 Industrial Boulevard Northeast, Fridley, MN 55421. Phone: +17635152895. Website: https://www.publicstorage.com/self-storage-mn-fridley/2499.html?pspid=pslocalsearch.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-fridley.json",
+   "address": {
+    "streetAddress": "5350 Industrial Boulevard Northeast",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0658043,
+    "lon": -93.2730107
+   },
+   "phone": "+17635152895",
+   "website": "https://www.publicstorage.com/self-storage-mn-fridley/2499.html?pspid=pslocalsearch",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/170675031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "afzal-clinics-fridley",
+   "name": "Afzal Clinics",
+   "summary": "Afzal Clinics is a plastic surgeon in Fridley, MN at 7362 University Avenue Northeast #Suite 201, Fridley, MN 55432. Website: https://afzalclinics.com/.",
+   "categories": [
+    "plastic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/afzal-clinics-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/afzal-clinics-fridley.json",
+   "address": {
+    "streetAddress": "7362 University Avenue Northeast #Suite 201",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.1022216,
+    "lon": -93.2648774
+   },
+   "website": "https://afzalclinics.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626243801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valvoline-fridley",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Fridley, MN. Website: https://store.vioc.com/mn/fridley/oil-change-010005.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-fridley.json",
+   "address": {
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0719123,
+    "lon": -93.262728
+   },
+   "website": "https://store.vioc.com/mn/fridley/oil-change-010005.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/219971783",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ashley-homestore-fridley",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Fridley, MN at 5353 East River Rd Service Road, Fridley, MN 55421.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-fridley.json",
+   "address": {
+    "streetAddress": "5353 East River Rd Service Road",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0671988,
+    "lon": -93.2761202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52490801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "atlas-technical-consultants-fridley",
+   "name": "Atlas Technical Consultants",
+   "summary": "Atlas Technical Consultants is a business consultant in Fridley, MN at 5301 East River Rd Service Road #101, Fridley, MN 55421.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlas-technical-consultants-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlas-technical-consultants-fridley.json",
+   "address": {
+    "streetAddress": "5301 East River Rd Service Road #101",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0662944,
+    "lon": -93.2775387
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13140376156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "banquets-of-minnesota-fridley",
+   "name": "Banquets of Minnesota",
+   "summary": "Banquets of Minnesota is an event venue in Fridley, MN at 6310 Highway 65 Northeast, Fridley, MN 55432.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banquets-of-minnesota-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banquets-of-minnesota-fridley.json",
+   "address": {
+    "streetAddress": "6310 Highway 65 Northeast",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.0828631,
+    "lon": -93.2442133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/24314910",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "furniture-mart-fridley",
+   "name": "Furniture Mart",
+   "summary": "Furniture Mart is a furniture store in Fridley, MN at 5401 East River Rd Service Road, Fridley, MN 55421.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furniture-mart-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furniture-mart-fridley.json",
+   "address": {
+    "streetAddress": "5401 East River Rd Service Road",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0679222,
+    "lon": -93.2737764
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52490787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-salvation-army-fridley",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Fridley, MN at 1000 East Moore Lake Drive, Fridley, MN 55432.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-fridley.json",
+   "address": {
+    "streetAddress": "1000 East Moore Lake Drive",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.0799694,
+    "lon": -93.2423215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/780004048",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "universal-painting-and-drywall-inc-fridley",
+   "name": "Universal Painting & Drywall, Inc.",
+   "summary": "Universal Painting & Drywall, Inc. is a painting contractor in Fridley, MN at 5301 East River Rd Service Road #103, Fridley, MN 55421.",
+   "categories": [
+    "painters"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/universal-painting-and-drywall-inc-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/universal-painting-and-drywall-inc-fridley.json",
+   "address": {
+    "streetAddress": "5301 East River Rd Service Road #103",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0664317,
+    "lon": -93.2776602
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13140376157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "willow-bend-senior-living-fridley",
+   "name": "Willow Bend Senior Living",
+   "summary": "Willow Bend Senior Living is an assisted living facility in Fridley, MN at 6455 University Avenue Northeast, Fridley, MN 55432.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/willow-bend-senior-living-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/willow-bend-senior-living-fridley.json",
+   "address": {
+    "streetAddress": "6455 University Avenue Northeast",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.0847782,
+    "lon": -93.2625558
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1209145428",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "golden-living-center-fridley",
+   "name": "Golden Living Center",
+   "summary": "Golden Living Center is an assisted living facility in Fridley, MN at 5700 East River Road, Fridley, MN.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-living-center-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-living-center-fridley.json",
+   "address": {
+    "streetAddress": "5700 East River Road",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0719893,
+    "lon": -93.2771691
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/219848723",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bona-bros-automotoive-fridley",
+   "name": "Bona Bros. Automotoive",
+   "summary": "Bona Bros. Automotoive is an auto repair shop in Fridley, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bona-bros-automotoive-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bona-bros-automotoive-fridley.json",
+   "address": {
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0650815,
+    "lon": -93.26244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/281431688",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fridley-liquors-fridley",
+   "name": "Fridley Liquors",
+   "summary": "Fridley Liquors is a liquor store in Fridley, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fridley-liquors-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fridley-liquors-fridley.json",
+   "address": {
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0702196,
+    "lon": -93.2650986
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5340977373",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pet-supplies-plus-fridley",
+   "name": "Pet Supplies Plus",
+   "summary": "Pet Supplies Plus is a pet store in Fridley, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-fridley.json",
+   "address": {
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0702391,
+    "lon": -93.2655651
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9699363757",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-original-mattress-factory-fridley",
+   "name": "The Original Mattress Factory",
+   "summary": "The Original Mattress Factory is a mattress store in Fridley, MN.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-original-mattress-factory-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-original-mattress-factory-fridley.json",
+   "address": {
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0702454,
+    "lon": -93.2658297
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9699363758",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

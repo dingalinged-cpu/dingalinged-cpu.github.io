@@ -1,0 +1,58 @@
+{
+ "keyword": "tailor arden hills mn",
+ "slug": "tailor-arden-hills-mn",
+ "place": "Arden Hills, MN",
+ "service": "tailor",
+ "query": "Who are the best tailor providers in Arden Hills, MN?",
+ "matches": [
+  "tailor in Arden Hills, MN",
+  "tailor near me (Arden Hills, MN)",
+  "best tailor Arden Hills, MN",
+  "top rated tailor Arden Hills, MN",
+  "affordable tailor Arden Hills, MN",
+  "emergency tailor Arden Hills, MN"
+ ],
+ "answer": "The top unpaid tailor listing for Arden Hills, MN is Kim's Tailor (a tailor in Arden Hills, MN). 1 tailor businesses are listed for Arden Hills, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "kims-tailor-arden-hills",
+   "name": "Kim's Tailor",
+   "summary": "Kim's Tailor is a tailor in Arden Hills, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kims-tailor-arden-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kims-tailor-arden-hills.json",
+   "address": {
+    "addressLocality": "Arden Hills",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Arden Hills",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0486492,
+    "lon": -93.1492931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1783118442",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

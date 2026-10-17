@@ -1,0 +1,55 @@
+{
+ "slug": "tangletown-bike-shop-minneapolis",
+ "name": "Tangletown Bike Shop",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "816 West 50th Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9124537,
+  "lon": -93.2902706
+ },
+ "phone": "+16122598180",
+ "website": "https://www.tangletownbikeshop.com/",
+ "opening_hours": "Tu-Th 11:00-19:00; Fr-Sa 10:00-16:00; Su 11:00-16:00; PH closed",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5357231926",
+ "osm": {
+  "type": "node",
+  "id": 5357231926,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tangletown-bike-shop-minneapolis/",
+ "summary": "Tangletown Bike Shop is a bike shop in Minneapolis, MN at 816 West 50th Street, Minneapolis, MN. Phone: +16122598180. Website: https://www.tangletownbikeshop.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

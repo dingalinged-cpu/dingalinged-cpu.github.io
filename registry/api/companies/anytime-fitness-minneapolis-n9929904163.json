@@ -1,0 +1,59 @@
+{
+ "slug": "anytime-fitness-minneapolis-n9929904163",
+ "name": "Anytime Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2910 Lyndale Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55408",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55408",
+ "geo": {
+  "lat": 44.9497204,
+  "lon": -93.2883781
+ },
+ "phone": "+16123457753",
+ "website": "https://www.anytimefitness.com/gyms/4246/Minneapolis-MN-55408/",
+ "opening_hours": "24/7",
+ "brand": "Anytime Fitness",
+ "wikidata": "Q4778364",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9929904163",
+ "osm": {
+  "type": "node",
+  "id": 9929904163,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-minneapolis-n9929904163/",
+ "summary": "Anytime Fitness is a gym in Minneapolis, MN at 2910 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16123457753. Website: https://www.anytimefitness.com/gyms/4246/Minneapolis-MN-55408/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

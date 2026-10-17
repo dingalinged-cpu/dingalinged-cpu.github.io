@@ -1,0 +1,64 @@
+{
+ "keyword": "marketing agency edina mn",
+ "slug": "marketing-agency-edina-mn",
+ "place": "Edina, MN",
+ "service": "marketing agency",
+ "query": "Who are the best marketing agency providers in Edina, MN?",
+ "matches": [
+  "marketing agency in Edina, MN",
+  "marketing agency near me (Edina, MN)",
+  "best marketing agency Edina, MN",
+  "top rated marketing agency Edina, MN",
+  "affordable marketing agency Edina, MN",
+  "emergency marketing agency Edina, MN"
+ ],
+ "answer": "The top unpaid marketing agency listing for Edina, MN is IAN Inc. (a marketing agency in Edina, MN at 3948 West 50th Street #Suite 212, Edina, MN 55424. Phone: +19529156065. Website: https://ianinc.net/). 1 marketing agency businesses are listed for Edina, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ian-inc-edina",
+   "name": "IAN Inc.",
+   "summary": "IAN Inc. is a marketing agency in Edina, MN at 3948 West 50th Street #Suite 212, Edina, MN 55424. Phone: +19529156065. Website: https://ianinc.net/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ian-inc-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ian-inc-edina.json",
+   "address": {
+    "streetAddress": "3948 West 50th Street #Suite 212",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9130214,
+    "lon": -93.331439
+   },
+   "phone": "+19529156065",
+   "website": "https://ianinc.net/",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116015",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

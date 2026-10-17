@@ -1,0 +1,23 @@
+Hay Dobbs Architects is an architect in Saint Paul, MN at 2324 University Avenue West ##200, Saint Paul, MN 55114. Phone: +16123384590. Website: https://www.haydobbs.com/.
+
+# Hay Dobbs Architects
+
+- Category: architect
+- Services: architect
+- Address: 2324 University Avenue West ##200, Saint Paul, MN 55114
+- City: Saint Paul
+- State: MN
+- ZIP: 55114
+- Coordinates: 44.962545, -93.1960597
+- Phone: +16123384590
+- Website: https://www.haydobbs.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hay-dobbs-architects-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hay-dobbs-architects-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7150081729 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

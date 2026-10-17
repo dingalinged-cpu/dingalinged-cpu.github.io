@@ -1,0 +1,53 @@
+{
+ "slug": "new-horizon-academy-shorewood",
+ "name": "New Horizon Academy",
+ "categories": [
+  "preschool"
+ ],
+ "keywords": [
+  "preschool",
+  "preschool shorewood mn"
+ ],
+ "services": [
+  {
+   "name": "preschool",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Shorewood",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Shorewood",
+ "state": "MN",
+ "geo": {
+  "lat": 44.908646,
+  "lon": -93.5288175
+ },
+ "brand": "New Horizon Academy",
+ "wikidata": "Q64821306",
+ "schema_type": "Preschool",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11735236155",
+ "osm": {
+  "type": "node",
+  "id": 11735236155,
+  "tags_used": {
+   "amenity": "kindergarten"
+  }
+ },
+ "municipality": "Shorewood",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-shorewood/",
+ "summary": "New Horizon Academy is a preschool in Shorewood, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

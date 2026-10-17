@@ -1,0 +1,23 @@
+South St. Paul Family Chiropractic is a chiropractor in South Saint Paul, MN.
+
+# South St. Paul Family Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: South Saint Paul, MN
+- City: South Saint Paul
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9012141, -93.0510845
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/south-st-paul-family-chiropractic-south-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/south-st-paul-family-chiropractic-south-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5747579959 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

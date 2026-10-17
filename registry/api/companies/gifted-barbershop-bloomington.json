@@ -1,0 +1,64 @@
+{
+ "slug": "gifted-barbershop-bloomington",
+ "name": "Gifted Barbershop",
+ "categories": [
+  "barber shop"
+ ],
+ "keywords": [
+  "barber shop",
+  "haircut",
+  "barber shop bloomington mn",
+  "haircut bloomington mn"
+ ],
+ "services": [
+  {
+   "name": "barber shop",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7700 West Old Shakopee Road #210",
+  "addressLocality": "Bloomington",
+  "addressRegion": "MN",
+  "postalCode": "55438",
+  "addressCountry": "US"
+ },
+ "city": "Bloomington",
+ "state": "MN",
+ "zip": "55438",
+ "geo": {
+  "lat": 44.8093896,
+  "lon": -93.3852419
+ },
+ "phone": "+19525824817",
+ "website": "https://www.giftedbarbershop.com/",
+ "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-16:00",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13716868489",
+ "osm": {
+  "type": "node",
+  "id": 13716868489,
+  "tags_used": {
+   "shop": "hairdresser",
+   "hairdresser": "barber"
+  }
+ },
+ "municipality": "Bloomington",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/gifted-barbershop-bloomington/",
+ "summary": "Gifted Barbershop is a barber shop in Bloomington, MN at 7700 West Old Shakopee Road #210, Bloomington, MN 55438. Phone: +19525824817. Website: https://www.giftedbarbershop.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

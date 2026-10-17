@@ -1,0 +1,62 @@
+{
+ "slug": "anodyne-acupuncture-bloomington",
+ "name": "Anodyne Acupuncture",
+ "categories": [
+  "acupuncture"
+ ],
+ "keywords": [
+  "acupuncture",
+  "acupuncture bloomington mn"
+ ],
+ "services": [
+  {
+   "name": "acupuncture",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "220 West 98th Street #1A",
+  "addressLocality": "Bloomington",
+  "addressRegion": "MN",
+  "postalCode": "55420",
+  "addressCountry": "US"
+ },
+ "city": "Bloomington",
+ "state": "MN",
+ "zip": "55420",
+ "geo": {
+  "lat": 44.8266948,
+  "lon": -93.2832231
+ },
+ "phone": "+17633463371",
+ "website": "https://www.anodyneacupuncture.com/",
+ "email": "sarah@anodyneacupuncture.com",
+ "opening_hours": "Mo 14:00-19:00; We 15:00-19:00; Th 09:00-15:00; Fr 10:00-16:00",
+ "social": [
+  "https://www.facebook.com/AnodyneAcupuncture"
+ ],
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13756148073",
+ "osm": {
+  "type": "node",
+  "id": 13756148073,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "acupuncture"
+  }
+ },
+ "municipality": "Bloomington",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anodyne-acupuncture-bloomington/",
+ "summary": "Anodyne Acupuncture is an acupuncture clinic in Bloomington, MN at 220 West 98th Street #1A, Bloomington, MN 55420. Phone: +17633463371. Website: https://www.anodyneacupuncture.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

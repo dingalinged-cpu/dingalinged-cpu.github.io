@@ -1,0 +1,218 @@
+{
+ "keyword": "gym west saint paul mn",
+ "slug": "gym-west-saint-paul-mn",
+ "place": "West Saint Paul, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in West Saint Paul, MN?",
+ "matches": [
+  "gym in West Saint Paul, MN",
+  "gym near me (West Saint Paul, MN)",
+  "best gym West Saint Paul, MN",
+  "top rated gym West Saint Paul, MN",
+  "affordable gym West Saint Paul, MN",
+  "emergency gym West Saint Paul, MN"
+ ],
+ "answer": "The top unpaid gym listing for West Saint Paul, MN is Snap Fitness (a gym in West Saint Paul, MN at 1016 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16512388853). 6 gym businesses are listed for West Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "snap-fitness-west-saint-paul",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in West Saint Paul, MN at 1016 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16512388853.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1016 Smith Avenue South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9156942,
+    "lon": -93.1014149
+   },
+   "phone": "+16512388853",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7515952340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "anytime-fitness-west-saint-paul",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in West Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9092596,
+    "lon": -93.0817669
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12726907089",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "midway-judo-club-west-saint-paul",
+   "name": "Midway Judo Club",
+   "summary": "Midway Judo Club is a gym in West Saint Paul, MN at 1068 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-judo-club-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-judo-club-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1068 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9140043,
+    "lon": -93.0802893
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/526366446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "planet-fitness-west-saint-paul",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in West Saint Paul, MN at 1675 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1675 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8955868,
+    "lon": -93.0815989
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527082830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "raddatz-dance-studio-west-saint-paul",
+   "name": "Raddatz Dance Studio",
+   "summary": "Raddatz Dance Studio is a gym in West Saint Paul, MN at 120 Butler Avenue East, West Saint Paul, MN 55118.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/raddatz-dance-studio-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/raddatz-dance-studio-west-saint-paul.json",
+   "address": {
+    "streetAddress": "120 Butler Avenue East",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9120791,
+    "lon": -93.0798961
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527077127",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "la-fitness-west-saint-paul",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in West Saint Paul, MN at 1611, West Saint Paul, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1611",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8976766,
+    "lon": -93.0814923
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729438694",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

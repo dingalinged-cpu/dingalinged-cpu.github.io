@@ -1,0 +1,63 @@
+{
+ "keyword": "gym medina mn",
+ "slug": "gym-medina-mn",
+ "place": "Medina, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in Medina, MN?",
+ "matches": [
+  "gym in Medina, MN",
+  "gym near me (Medina, MN)",
+  "best gym Medina, MN",
+  "top rated gym Medina, MN",
+  "affordable gym Medina, MN",
+  "emergency gym Medina, MN"
+ ],
+ "answer": "The top unpaid gym listing for Medina, MN is Anytime Fitness (a gym in Medina, MN at 5145 County Road 101 #1010, Medina, MN 55340. Phone: +17634788881. Website: https://www.anytimefitness.com/gyms/795/medina-mn-55340/). 1 gym businesses are listed for Medina, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "anytime-fitness-medina",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Medina, MN at 5145 County Road 101 #1010, Medina, MN 55340. Phone: +17634788881. Website: https://www.anytimefitness.com/gyms/795/medina-mn-55340/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-medina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-medina.json",
+   "address": {
+    "streetAddress": "5145 County Road 101 #1010",
+    "addressLocality": "Medina",
+    "addressRegion": "MN",
+    "postalCode": "55340",
+    "addressCountry": "US"
+   },
+   "city": "Medina",
+   "state": "MN",
+   "zip": "55340",
+   "geo": {
+    "lat": 45.0459791,
+    "lon": -93.5267746
+   },
+   "phone": "+17634788881",
+   "website": "https://www.anytimefitness.com/gyms/795/medina-mn-55340/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2081565824",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

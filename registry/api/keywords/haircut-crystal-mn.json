@@ -1,0 +1,177 @@
+{
+ "keyword": "haircut crystal mn",
+ "slug": "haircut-crystal-mn",
+ "place": "Crystal, MN",
+ "service": "haircut",
+ "query": "Who are the best haircut providers in Crystal, MN?",
+ "matches": [
+  "haircut in Crystal, MN",
+  "haircut near me (Crystal, MN)",
+  "best haircut Crystal, MN",
+  "top rated haircut Crystal, MN",
+  "affordable haircut Crystal, MN",
+  "emergency haircut Crystal, MN"
+ ],
+ "answer": "The top unpaid haircut listing for Crystal, MN is Mark of Excellence Salon (a hair salon in Crystal, MN at 4617 36th Avenue North, Crystal, MN 55422). 5 haircut businesses are listed for Crystal, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mark-of-excellence-salon-crystal",
+   "name": "Mark of Excellence Salon",
+   "summary": "Mark of Excellence Salon is a hair salon in Crystal, MN at 4617 36th Avenue North, Crystal, MN 55422.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mark-of-excellence-salon-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mark-of-excellence-salon-crystal.json",
+   "address": {
+    "streetAddress": "4617 36th Avenue North",
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0203227,
+    "lon": -93.3383968
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223321521",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "fantastic-sams-crystal",
+   "name": "Fantastic Sams",
+   "summary": "Fantastic Sams is a hair salon in Crystal, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0540899,
+    "lon": -93.3660005
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129455346",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "great-clips-crystal",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Crystal, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0542858,
+    "lon": -93.3647395
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131839054",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "nuyu-premium-hair-crystal",
+   "name": "NuYu Premium Hair",
+   "summary": "NuYu Premium Hair is a hair salon in Crystal, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nuyu-premium-hair-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nuyu-premium-hair-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0529662,
+    "lon": -93.3665083
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131839077",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "pixy-salon-crystal",
+   "name": "Pixy Salon",
+   "summary": "Pixy Salon is a hair salon in Crystal, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pixy-salon-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pixy-salon-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.042089,
+    "lon": -93.352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131880035",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

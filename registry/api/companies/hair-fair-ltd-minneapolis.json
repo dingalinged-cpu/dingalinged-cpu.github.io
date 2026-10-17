@@ -1,0 +1,60 @@
+{
+ "slug": "hair-fair-ltd-minneapolis",
+ "name": "Hair Fair Ltd.",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon minneapolis mn",
+  "haircut minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3858 North Thomas Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55412",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55412",
+ "geo": {
+  "lat": 45.0257088,
+  "lon": -93.3132396
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11347302031",
+ "osm": {
+  "type": "node",
+  "id": 11347302031,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hair-fair-ltd-minneapolis/",
+ "summary": "Hair Fair Ltd. is a hair salon in Minneapolis, MN at 3858 North Thomas Avenue, Minneapolis, MN 55412.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

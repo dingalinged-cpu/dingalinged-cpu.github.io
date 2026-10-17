@@ -1,0 +1,67 @@
+{
+ "slug": "nine-keys-apothecary-minneapolis",
+ "name": "Nine Keys Apothecary",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon minneapolis mn",
+  "haircut minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4547 Bloomington Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55407",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55407",
+ "geo": {
+  "lat": 44.9200303,
+  "lon": -93.2521632
+ },
+ "phone": "+16124058413",
+ "website": "https://www.ninekeysapothecary.com/",
+ "email": "ninekeysmpls@gmail.com",
+ "opening_hours": "\"by appointment\"",
+ "social": [
+  "https://www.instagram.com/ninekeysmpls/"
+ ],
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11156180457",
+ "osm": {
+  "type": "node",
+  "id": 11156180457,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/nine-keys-apothecary-minneapolis/",
+ "summary": "Nine Keys Apothecary is a hair salon in Minneapolis, MN at 4547 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +16124058413. Website: https://www.ninekeysapothecary.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

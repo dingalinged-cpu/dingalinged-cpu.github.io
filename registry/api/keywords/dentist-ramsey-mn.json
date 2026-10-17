@@ -1,0 +1,62 @@
+{
+ "keyword": "dentist ramsey mn",
+ "slug": "dentist-ramsey-mn",
+ "place": "Ramsey, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Ramsey, MN?",
+ "matches": [
+  "dentist in Ramsey, MN",
+  "dentist near me (Ramsey, MN)",
+  "best dentist Ramsey, MN",
+  "top rated dentist Ramsey, MN",
+  "affordable dentist Ramsey, MN",
+  "emergency dentist Ramsey, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Ramsey, MN is Ramsey Dental Center (a dentist in Ramsey, MN at 15243 Nowthen Boulevard Northwest, Ramsey, MN 55303). 1 dentist businesses are listed for Ramsey, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ramsey-dental-center-ramsey",
+   "name": "Ramsey Dental Center",
+   "summary": "Ramsey Dental Center is a dentist in Ramsey, MN at 15243 Nowthen Boulevard Northwest, Ramsey, MN 55303.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ramsey-dental-center-ramsey/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ramsey-dental-center-ramsey.json",
+   "address": {
+    "streetAddress": "15243 Nowthen Boulevard Northwest",
+    "addressLocality": "Ramsey",
+    "addressRegion": "MN",
+    "postalCode": "55303",
+    "addressCountry": "US"
+   },
+   "city": "Ramsey",
+   "state": "MN",
+   "zip": "55303",
+   "geo": {
+    "lat": 45.2478174,
+    "lon": -93.4151323
+   },
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1202670640",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

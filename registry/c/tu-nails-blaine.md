@@ -1,0 +1,23 @@
+TU Nails is a nail salon in Blaine, MN.
+
+# TU Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: Blaine, MN
+- City: Blaine
+- State: MN
+- ZIP: n/a
+- Coordinates: 45.167485, -93.2332658
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/tu-nails-blaine/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tu-nails-blaine.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12527842878 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,54 @@
+{
+ "slug": "great-harvest-bread-co-saint-paul",
+ "name": "Great Harvest Bread Co",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "534 Selby Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9464701,
+  "lon": -93.1226782
+ },
+ "phone": "+16512211057",
+ "opening_hours": "Sa 07:00-17:00,07:30-16:00; Su 08:00-15:00",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3134022834",
+ "osm": {
+  "type": "node",
+  "id": 3134022834,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-co-saint-paul/",
+ "summary": "Great Harvest Bread Co is a bakery in Saint Paul, MN at 534 Selby Avenue, Saint Paul, MN. Phone: +16512211057.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

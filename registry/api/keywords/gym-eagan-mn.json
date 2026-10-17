@@ -1,0 +1,325 @@
+{
+ "keyword": "gym eagan mn",
+ "slug": "gym-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in Eagan, MN?",
+ "matches": [
+  "gym in Eagan, MN",
+  "gym near me (Eagan, MN)",
+  "best gym Eagan, MN",
+  "top rated gym Eagan, MN",
+  "affordable gym Eagan, MN",
+  "emergency gym Eagan, MN"
+ ],
+ "answer": "The top unpaid gym listing for Eagan, MN is Hotworx (a gym in Eagan, MN at 1278 Town Centre Drive #165, Eagan, MN 55123. Phone: +16514611193. Website: https://www.hotworx.net/). 9 gym businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "hotworx-eagan",
+   "name": "Hotworx",
+   "summary": "Hotworx is a gym in Eagan, MN at 1278 Town Centre Drive #165, Eagan, MN 55123. Phone: +16514611193. Website: https://www.hotworx.net/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hotworx-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hotworx-eagan.json",
+   "address": {
+    "streetAddress": "1278 Town Centre Drive #165",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8302322,
+    "lon": -93.1620938
+   },
+   "phone": "+16514611193",
+   "website": "https://www.hotworx.net/",
+   "opening_hours": "Mo-Th 11:00-20:00, Fr 09:00-18:00, Sa 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12104466941",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "life-time-eagan",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Eagan, MN at 1565 Thomas Center Drive, Eagan, MN 55122. Phone: +16516883000. Website: https://www.lifetime.life/life-time-locations/mn-eagan.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-eagan.json",
+   "address": {
+    "streetAddress": "1565 Thomas Center Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.792547,
+    "lon": -93.1796923
+   },
+   "phone": "+16516883000",
+   "website": "https://www.lifetime.life/life-time-locations/mn-eagan.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317401664",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "planet-fitness-eagan",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Eagan, MN at 1278 Town Centre Drive #135, Eagan, MN 55123. Phone: +16513306135. Website: https://www.planetfitness.com/gyms/eagan-mn.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-eagan.json",
+   "address": {
+    "streetAddress": "1278 Town Centre Drive #135",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8303044,
+    "lon": -93.1610358
+   },
+   "phone": "+16513306135",
+   "website": "https://www.planetfitness.com/gyms/eagan-mn",
+   "opening_hours": "Mo 05:00-24:00, Tu-Th 00:00-24:00, Fr 00:00-21:00, Sa-Su 06:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/460005321",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "snap-fitness-saint-paul",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Saint Paul, MN at 1960 Cliff Lake Road #115, Saint Paul, MN 55122. Phone: +16512893070. Website: https://www.snapfitness.com/us/gyms/eagan-cliff-lake-rd-mn.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-saint-paul.json",
+   "address": {
+    "streetAddress": "1960 Cliff Lake Road #115",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.7937998,
+    "lon": -93.2049485
+   },
+   "phone": "+16512893070",
+   "website": "https://www.snapfitness.com/us/gyms/eagan-cliff-lake-rd-mn",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12192614807",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "stretchlab-eagan",
+   "name": "StretchLab",
+   "summary": "StretchLab is a gym in Eagan, MN at 1298 Promenade Place #300, Eagan, MN 55121. Phone: +19529992157. Website: https://www.stretchlab.com/location/eagan.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stretchlab-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stretchlab-eagan.json",
+   "address": {
+    "streetAddress": "1298 Promenade Place #300",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8347108,
+    "lon": -93.1587075
+   },
+   "phone": "+19529992157",
+   "website": "https://www.stretchlab.com/location/eagan",
+   "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-17:00; Sa-Su 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138761123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "anytime-fitness-eagan",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Eagan, MN at 1981 Silver Bell Road #1800, Eagan, MN 55122. Phone: +16516864667. Website: https://www.anytimefitness.com/gyms/1265/eagan-mn-55122/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-eagan.json",
+   "address": {
+    "streetAddress": "1981 Silver Bell Road #1800",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.8205832,
+    "lon": -93.2052271
+   },
+   "phone": "+16516864667",
+   "website": "https://www.anytimefitness.com/gyms/1265/eagan-mn-55122/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9234733592",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "crossfit-eagan",
+   "name": "CrossFit",
+   "summary": "CrossFit is a gym in Eagan, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossfit-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossfit-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8462486,
+    "lon": -93.1213237
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13686931647",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "orangetheory-fitness-eagan",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Eagan, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8366876,
+    "lon": -93.1703458
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724654224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "union-fitness-eagan",
+   "name": "union Fitness",
+   "summary": "union Fitness is a gym in Eagan, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/union-fitness-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/union-fitness-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8513806,
+    "lon": -93.147907
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217077065",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

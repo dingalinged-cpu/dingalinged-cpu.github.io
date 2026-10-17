@@ -1,0 +1,51 @@
+{
+ "slug": "pet-evolution-arden-hills",
+ "name": "Pet Evolution",
+ "categories": [
+  "pet store"
+ ],
+ "keywords": [
+  "pet store",
+  "pet store arden hills mn"
+ ],
+ "services": [
+  {
+   "name": "pet store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Arden Hills",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Arden Hills",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0570564,
+  "lon": -93.1488594
+ },
+ "schema_type": "PetStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12336464120",
+ "osm": {
+  "type": "node",
+  "id": 12336464120,
+  "tags_used": {
+   "shop": "pet"
+  }
+ },
+ "municipality": "Arden Hills",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pet-evolution-arden-hills/",
+ "summary": "Pet Evolution is a pet store in Arden Hills, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

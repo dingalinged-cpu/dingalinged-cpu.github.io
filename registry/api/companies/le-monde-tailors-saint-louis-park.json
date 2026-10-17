@@ -1,0 +1,56 @@
+{
+ "slug": "le-monde-tailors-saint-louis-park",
+ "name": "Le Monde Tailors",
+ "categories": [
+  "tailor"
+ ],
+ "keywords": [
+  "tailor",
+  "tailor saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "tailor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8360 Minnesota State Highway 7",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55426",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55426",
+ "geo": {
+  "lat": 44.9376742,
+  "lon": -93.3866113
+ },
+ "phone": "+19529388422",
+ "website": "https://www.lemondetailors.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4331102035",
+ "osm": {
+  "type": "node",
+  "id": 4331102035,
+  "tags_used": {
+   "shop": "tailor"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/le-monde-tailors-saint-louis-park/",
+ "summary": "Le Monde Tailors is a tailor in Saint Louis Park, MN at 8360 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529388422. Website: https://www.lemondetailors.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

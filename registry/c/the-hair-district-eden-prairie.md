@@ -1,0 +1,23 @@
+The Hair District is a hair salon in Eden Prairie, MN at 12573 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +19529035353. Website: https://www.thehairdistrict.com/.
+
+# The Hair District
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 12573 Castlemoor Drive, Eden Prairie, MN 55344
+- City: Eden Prairie
+- State: MN
+- ZIP: 55344
+- Coordinates: 44.8511142, -93.4350236
+- Phone: +19529035353
+- Website: https://www.thehairdistrict.com/
+- Email: n/a
+- Opening hours (OSM syntax): "By appointment"
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-hair-district-eden-prairie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-hair-district-eden-prairie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4145355098 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

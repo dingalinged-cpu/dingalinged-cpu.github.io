@@ -1,0 +1,455 @@
+{
+ "keyword": "insurance agents minneapolis mn",
+ "slug": "insurance-agents-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "insurance agents",
+ "query": "Who are the best insurance agents providers in Minneapolis, MN?",
+ "matches": [
+  "insurance agents in Minneapolis, MN",
+  "insurance agents near me (Minneapolis, MN)",
+  "best insurance agents Minneapolis, MN",
+  "top rated insurance agents Minneapolis, MN",
+  "affordable insurance agents Minneapolis, MN",
+  "emergency insurance agents Minneapolis, MN"
+ ],
+ "answer": "The top unpaid insurance agents listing for Minneapolis, MN is Farmers Insurance - Tri Tang (an insurance agent in Minneapolis, MN at 2522 Nicollet Avenue South #202, Minneapolis, MN 55404. Phone: +16128748264. Website: https://agents.farmers.com/mn/minneapolis/tri-tang). 13 insurance agents businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "farmers-insurance-tri-tang-minneapolis",
+   "name": "Farmers Insurance - Tri Tang",
+   "summary": "Farmers Insurance - Tri Tang is an insurance agent in Minneapolis, MN at 2522 Nicollet Avenue South #202, Minneapolis, MN 55404. Phone: +16128748264. Website: https://agents.farmers.com/mn/minneapolis/tri-tang.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-tri-tang-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-tri-tang-minneapolis.json",
+   "address": {
+    "streetAddress": "2522 Nicollet Avenue South #202",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9564238,
+    "lon": -93.2783873
+   },
+   "phone": "+16128748264",
+   "website": "https://agents.farmers.com/mn/minneapolis/tri-tang",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617524790",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "sons-of-norway-minneapolis",
+   "name": "Sons of Norway",
+   "summary": "Sons of Norway is an insurance agent in Minneapolis, MN at 1455 West Lake Street, Minneapolis, MN 55408. Phone: +16128273611. Website: https://sonsofnorway.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sons-of-norway-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sons-of-norway-minneapolis.json",
+   "address": {
+    "streetAddress": "1455 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482127,
+    "lon": -93.2999942
+   },
+   "phone": "+16128273611",
+   "website": "https://sonsofnorway.com/",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10104612820",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "state-farm-insurance-kim-nybo-minneapolis",
+   "name": "State Farm Insurance - Kim Nybo",
+   "summary": "State Farm Insurance - Kim Nybo is an insurance agent in Minneapolis, MN at 2724 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16127677775. Website: https://www.statefarm.com/agent/us/mn/minneapolis/kim-nybo-418147603ak.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-insurance-kim-nybo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-insurance-kim-nybo-minneapolis.json",
+   "address": {
+    "streetAddress": "2724 Southeast University Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9716657,
+    "lon": -93.2175208
+   },
+   "phone": "+16127677775",
+   "website": "https://www.statefarm.com/agent/us/mn/minneapolis/kim-nybo-418147603ak",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4279240361",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "state-farm-minneapolis",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Minneapolis, MN. Phone: +17637102115. Website: https://lakestreetinsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482413,
+    "lon": -93.2916981
+   },
+   "phone": "+17637102115",
+   "website": "https://lakestreetinsurance.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10243480660",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "aegle-health-partners-minneapolis",
+   "name": "Aegle Health Partners",
+   "summary": "Aegle Health Partners is an insurance agent in Minneapolis, MN at 4999 France Avenue South #255, Minneapolis, MN 55410. Website: https://aeglehealthpartners.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aegle-health-partners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aegle-health-partners-minneapolis.json",
+   "address": {
+    "streetAddress": "4999 France Avenue South #255",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9127396,
+    "lon": -93.3286799
+   },
+   "website": "https://aeglehealthpartners.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12142678243",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "juniper-insurance-agency-minneapolis",
+   "name": "Juniper Insurance Agency",
+   "summary": "Juniper Insurance Agency is an insurance agent in Minneapolis, MN at 4999 France Avenue South #245, Minneapolis, MN 55410. Website: https://www.juniperjustincase.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/juniper-insurance-agency-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/juniper-insurance-agency-minneapolis.json",
+   "address": {
+    "streetAddress": "4999 France Avenue South #245",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9127745,
+    "lon": -93.3287224
+   },
+   "website": "https://www.juniperjustincase.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116021",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "la-progresiva-minneapolis",
+   "name": "La Progresiva",
+   "summary": "La Progresiva is an insurance agent in Minneapolis, MN at 515 West Lake Street #E, Minneapolis, MN 55408. Phone: +16128270010.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-progresiva-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-progresiva-minneapolis.json",
+   "address": {
+    "streetAddress": "515 West Lake Street #E",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482392,
+    "lon": -93.2862753
+   },
+   "phone": "+16128270010",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334114491",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "state-farm-minneapolis-n12143327842",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Minneapolis, MN at 5007 France Avenue South #Suite 2, Minneapolis, MN 55410. Website: https://agents.farmers.com/mn/minneapolis/darren-burch/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis-n12143327842/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-minneapolis-n12143327842.json",
+   "address": {
+    "streetAddress": "5007 France Avenue South #Suite 2",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9122315,
+    "lon": -93.3287937
+   },
+   "website": "https://agents.farmers.com/mn/minneapolis/darren-burch/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12143327842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "state-farm-moon-lai-minneapolis",
+   "name": "State Farm: Moon Lai",
+   "summary": "State Farm: Moon Lai is an insurance agent in Minneapolis, MN at 2718 Nicollet Avenue South #204, Minneapolis, MN 55408. Phone: +16128700800.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-moon-lai-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-moon-lai-minneapolis.json",
+   "address": {
+    "streetAddress": "2718 Nicollet Avenue South #204",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9530686,
+    "lon": -93.2780904
+   },
+   "phone": "+16128700800",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4621509974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "wold-financial-llc-minneapolis",
+   "name": "WOLD Financial, LLC",
+   "summary": "WOLD Financial, LLC is an insurance agent in Minneapolis, MN at 1118 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +19529360222.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wold-financial-llc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wold-financial-llc-minneapolis.json",
+   "address": {
+    "streetAddress": "1118 Cedar Lake Road South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.96956,
+    "lon": -93.3180652
+   },
+   "phone": "+19529360222",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92807790",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "state-farm-minneapolis-w937919614",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Minneapolis, MN at 3259 Northeast Johnson Street, Minneapolis, MN 55418.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis-w937919614/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-minneapolis-w937919614.json",
+   "address": {
+    "streetAddress": "3259 Northeast Johnson Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.027547,
+    "lon": -93.2368642
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/937919614",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "allstate-minneapolis",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Minneapolis, MN at 5208 Bloomington Avenue South, Minneapolis, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-minneapolis.json",
+   "address": {
+    "streetAddress": "5208 Bloomington Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9085384,
+    "lon": -93.2527382
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6742331663",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "the-landreu-grouo-minneapolis",
+   "name": "The Landreu Grouo",
+   "summary": "The Landreu Grouo is an insurance agent in Minneapolis, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-landreu-grouo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-landreu-grouo-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9626402,
+    "lon": -93.2336431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11003361157",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

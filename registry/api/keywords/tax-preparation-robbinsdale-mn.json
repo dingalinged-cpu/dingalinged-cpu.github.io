@@ -1,0 +1,59 @@
+{
+ "keyword": "tax preparation robbinsdale mn",
+ "slug": "tax-preparation-robbinsdale-mn",
+ "place": "Robbinsdale, MN",
+ "service": "tax preparation",
+ "query": "Who are the best tax preparation providers in Robbinsdale, MN?",
+ "matches": [
+  "tax preparation in Robbinsdale, MN",
+  "tax preparation near me (Robbinsdale, MN)",
+  "best tax preparation Robbinsdale, MN",
+  "top rated tax preparation Robbinsdale, MN",
+  "affordable tax preparation Robbinsdale, MN",
+  "emergency tax preparation Robbinsdale, MN"
+ ],
+ "answer": "The top unpaid tax preparation listing for Robbinsdale, MN is Mr. Tax (a tax preparation service in Robbinsdale, MN. Website: https://mrtaxmn.com/). 1 tax preparation businesses are listed for Robbinsdale, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mr-tax-robbinsdale",
+   "name": "Mr. Tax",
+   "summary": "Mr. Tax is a tax preparation service in Robbinsdale, MN. Website: https://mrtaxmn.com/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mr-tax-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mr-tax-robbinsdale.json",
+   "address": {
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0277277,
+    "lon": -93.3357338
+   },
+   "website": "https://mrtaxmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1214437003",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

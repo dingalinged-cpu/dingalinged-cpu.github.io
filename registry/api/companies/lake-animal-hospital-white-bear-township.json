@@ -1,0 +1,54 @@
+{
+ "slug": "lake-animal-hospital-white-bear-township",
+ "name": "Lake Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet white bear township mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5900 Highway 61",
+  "addressLocality": "White Bear Township",
+  "addressRegion": "MN",
+  "postalCode": "55110",
+  "addressCountry": "US"
+ },
+ "city": "White Bear Township",
+ "state": "MN",
+ "zip": "55110",
+ "geo": {
+  "lat": 45.1199055,
+  "lon": -93.002382
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1121948445",
+ "osm": {
+  "type": "way",
+  "id": 1121948445,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "White Bear Township",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lake-animal-hospital-white-bear-township/",
+ "summary": "Lake Animal Hospital is a veterinarian in White Bear Township, MN at 5900 Highway 61, White Bear Township, MN 55110.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

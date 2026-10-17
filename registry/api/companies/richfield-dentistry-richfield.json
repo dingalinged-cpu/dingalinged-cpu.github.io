@@ -1,0 +1,55 @@
+{
+ "slug": "richfield-dentistry-richfield",
+ "name": "Richfield Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist richfield mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6411 Richfield Parkway",
+  "addressLocality": "Richfield",
+  "addressRegion": "MN",
+  "postalCode": "55423",
+  "addressCountry": "US"
+ },
+ "city": "Richfield",
+ "state": "MN",
+ "zip": "55423",
+ "geo": {
+  "lat": 44.8865575,
+  "lon": -93.2487057
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7168431321",
+ "osm": {
+  "type": "node",
+  "id": 7168431321,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Richfield",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/richfield-dentistry-richfield/",
+ "summary": "Richfield Dentistry is a dentist in Richfield, MN at 6411 Richfield Parkway, Richfield, MN 55423.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

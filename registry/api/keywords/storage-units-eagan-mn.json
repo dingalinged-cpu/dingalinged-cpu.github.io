@@ -1,0 +1,175 @@
+{
+ "keyword": "storage units eagan mn",
+ "slug": "storage-units-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "storage units",
+ "query": "Who are the best storage units providers in Eagan, MN?",
+ "matches": [
+  "storage units in Eagan, MN",
+  "storage units near me (Eagan, MN)",
+  "best storage units Eagan, MN",
+  "top rated storage units Eagan, MN",
+  "affordable storage units Eagan, MN",
+  "emergency storage units Eagan, MN"
+ ],
+ "answer": "The top unpaid storage units listing for Eagan, MN is Acorn Mini Storage (a self-storage facility in Eagan, MN. Phone: +16519050601). 5 storage units businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "acorn-mini-storage-eagan",
+   "name": "Acorn Mini Storage",
+   "summary": "Acorn Mini Storage is a self-storage facility in Eagan, MN. Phone: +16519050601.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acorn-mini-storage-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acorn-mini-storage-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8502584,
+    "lon": -93.1484964
+   },
+   "phone": "+16519050601",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/451292775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "metro-self-storage-eagan",
+   "name": "Metro Self Storage",
+   "summary": "Metro Self Storage is a self-storage facility in Eagan, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-self-storage-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-self-storage-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8446135,
+    "lon": -93.1222081
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330241378",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "public-storage-eagan",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Eagan, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8248091,
+    "lon": -93.2028116
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1281346241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "public-storage-eagan-w1330241375",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Eagan, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-eagan-w1330241375/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-eagan-w1330241375.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8461106,
+    "lon": -93.1204782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330241375",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "town-center-self-storage-eagan",
+   "name": "Town Center Self Storage",
+   "summary": "Town Center Self Storage is a self-storage facility in Eagan, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/town-center-self-storage-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/town-center-self-storage-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8282915,
+    "lon": -93.1603884
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/18938275",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

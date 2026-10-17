@@ -1,0 +1,53 @@
+{
+ "slug": "speedy-wash-long-lake",
+ "name": "Speedy Wash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash long lake mn"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Long Lake",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Long Lake",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9884113,
+  "lon": -93.5843607
+ },
+ "brand": "Speedway",
+ "wikidata": "Q7575683",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4810648225",
+ "osm": {
+  "type": "node",
+  "id": 4810648225,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Long Lake",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-long-lake/",
+ "summary": "Speedy Wash is a car wash in Long Lake, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Chicago Lake Liquors is a liquor store in Minneapolis, MN at 825 East Lake Street, Minneapolis, MN 55407.
+
+# Chicago Lake Liquors
+
+- Category: liquor store
+- Services: liquor store
+- Address: 825 East Lake Street, Minneapolis, MN 55407
+- City: Minneapolis
+- State: MN
+- ZIP: 55407
+- Coordinates: 44.9481164, -93.2616921
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/chicago-lake-liquors-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chicago-lake-liquors-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/93142274 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

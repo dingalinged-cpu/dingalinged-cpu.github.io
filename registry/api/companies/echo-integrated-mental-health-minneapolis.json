@@ -1,0 +1,57 @@
+{
+ "slug": "echo-integrated-mental-health-minneapolis",
+ "name": "Echo Integrated Mental Health",
+ "categories": [
+  "therapist"
+ ],
+ "keywords": [
+  "therapist",
+  "therapist minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1523 West Lake Street #A",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55408",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55408",
+ "geo": {
+  "lat": 44.9482486,
+  "lon": -93.3018841
+ },
+ "website": "https://www.echohealthcare.org/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6450215756",
+ "osm": {
+  "type": "node",
+  "id": 6450215756,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor",
+   "healthcare:speciality": "psychiatry"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/echo-integrated-mental-health-minneapolis/",
+ "summary": "Echo Integrated Mental Health is a therapy practice in Minneapolis, MN at 1523 West Lake Street #A, Minneapolis, MN 55408. Website: https://www.echohealthcare.org/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

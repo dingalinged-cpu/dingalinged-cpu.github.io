@@ -1,0 +1,23 @@
+State Farm is an insurance agent in Minneapolis, MN. Phone: +17637102115. Website: https://lakestreetinsurance.com/.
+
+# State Farm
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: Minneapolis, MN
+- City: Minneapolis
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9482413, -93.2916981
+- Phone: +17637102115
+- Website: https://lakestreetinsurance.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-13:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10243480660 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,58 @@
+{
+ "slug": "sen-hao-seng-jewelry-saint-paul",
+ "name": "Sen Hao Seng Jewelry",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "633 West Minnehaha Avenue #Ste. A",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55104",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55104",
+ "geo": {
+  "lat": 44.9633807,
+  "lon": -93.126669
+ },
+ "phone": "+16514887473",
+ "social": [
+  "https://www.facebook.com/SHSJewelry/"
+ ],
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8931357563",
+ "osm": {
+  "type": "node",
+  "id": 8931357563,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/sen-hao-seng-jewelry-saint-paul/",
+ "summary": "Sen Hao Seng Jewelry is a jewelry store in Saint Paul, MN at 633 West Minnehaha Avenue #Ste. A, Saint Paul, MN 55104. Phone: +16514887473.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,166 @@
+{
+ "keyword": "business consultant golden valley mn",
+ "slug": "business-consultant-golden-valley-mn",
+ "place": "Golden Valley, MN",
+ "service": "business consultant",
+ "query": "Who are the best business consultant providers in Golden Valley, MN?",
+ "matches": [
+  "business consultant in Golden Valley, MN",
+  "business consultant near me (Golden Valley, MN)",
+  "best business consultant Golden Valley, MN",
+  "top rated business consultant Golden Valley, MN",
+  "affordable business consultant Golden Valley, MN",
+  "emergency business consultant Golden Valley, MN"
+ ],
+ "answer": "The top unpaid business consultant listing for Golden Valley, MN is Solution Design Group (a business consultant in Golden Valley, MN at 7500 Olson Memorial Hwy #250, Golden Valley, MN 55427. Phone: +19522782500. Website: https://www.solutiondesign.com/). 4 business consultant businesses are listed for Golden Valley, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "solution-design-group-golden-valley",
+   "name": "Solution Design Group",
+   "summary": "Solution Design Group is a business consultant in Golden Valley, MN at 7500 Olson Memorial Hwy #250, Golden Valley, MN 55427. Phone: +19522782500. Website: https://www.solutiondesign.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/solution-design-group-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/solution-design-group-golden-valley.json",
+   "address": {
+    "streetAddress": "7500 Olson Memorial Hwy #250",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55427",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55427",
+   "geo": {
+    "lat": 44.9837671,
+    "lon": -93.3766451
+   },
+   "phone": "+19522782500",
+   "website": "https://www.solutiondesign.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12705578844",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "civil-site-group-pc-golden-valley",
+   "name": "Civil Site Group, PC",
+   "summary": "Civil Site Group, PC is a business consultant in Golden Valley, MN at 5000 Glenwood Avenue, Golden Valley, MN 55422. Phone: +16126150060. Website: https://www.civilsitegroup.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/civil-site-group-pc-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/civil-site-group-pc-golden-valley.json",
+   "address": {
+    "streetAddress": "5000 Glenwood Avenue",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.9782701,
+    "lon": -93.342167
+   },
+   "phone": "+16126150060",
+   "website": "https://www.civilsitegroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/388506294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "core-income-advisors-golden-valley",
+   "name": "Core Income Advisors",
+   "summary": "Core Income Advisors is a business consultant in Golden Valley, MN at 5940 Golden Hills Drive, Golden Valley, MN 55416. Phone: +18005417713. Website: https://coreincome.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/core-income-advisors-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/core-income-advisors-golden-valley.json",
+   "address": {
+    "streetAddress": "5940 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9735183,
+    "lon": -93.3558216
+   },
+   "phone": "+18005417713",
+   "website": "https://coreincome.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11129016214",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "mra-the-management-association-golden-valley",
+   "name": "MRA - The Management Association",
+   "summary": "MRA - The Management Association is a business consultant in Golden Valley, MN at 5980 Golden Hills Drive, Golden Valley, MN 55416. Phone: +17632539100. Website: https://www.mranet.org/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mra-the-management-association-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mra-the-management-association-golden-valley.json",
+   "address": {
+    "streetAddress": "5980 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9735347,
+    "lon": -93.3564308
+   },
+   "phone": "+17632539100",
+   "website": "https://www.mranet.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11129016212",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

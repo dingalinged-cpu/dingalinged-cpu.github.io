@@ -1,0 +1,125 @@
+{
+ "keyword": "dermatologist saint paul mn",
+ "slug": "dermatologist-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "dermatologist",
+ "query": "Who are the best dermatologist providers in Saint Paul, MN?",
+ "matches": [
+  "dermatologist in Saint Paul, MN",
+  "dermatologist near me (Saint Paul, MN)",
+  "best dermatologist Saint Paul, MN",
+  "top rated dermatologist Saint Paul, MN",
+  "affordable dermatologist Saint Paul, MN",
+  "emergency dermatologist Saint Paul, MN"
+ ],
+ "answer": "The top unpaid dermatologist listing for Saint Paul, MN is HealthPartners Specialty Center 401 Building (a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/). 3 dermatologist businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "healthpartners-specialty-center-401-building-saint-paul",
+   "name": "HealthPartners Specialty Center 401 Building",
+   "summary": "HealthPartners Specialty Center 401 Building is a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthpartners-specialty-center-401-building-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthpartners-specialty-center-401-building-saint-paul.json",
+   "address": {
+    "streetAddress": "401 Phalen Boulevard",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55130",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55130",
+   "geo": {
+    "lat": 44.964889,
+    "lon": -93.0844197
+   },
+   "phone": "+16512547400",
+   "website": "https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/91197963",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "st-paul-dermatology-ltd-saint-paul",
+   "name": "St. Paul Dermatology Ltd",
+   "summary": "St. Paul Dermatology Ltd is a dermatologist in Saint Paul, MN at 400 Selby Avenue #Suite S, Saint Paul, MN 55102. Website: https://www.saintpauldermatology.com/.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-paul-dermatology-ltd-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-paul-dermatology-ltd-saint-paul.json",
+   "address": {
+    "streetAddress": "400 Selby Avenue #Suite S",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9461617,
+    "lon": -93.1177421
+   },
+   "website": "https://www.saintpauldermatology.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818308791",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "dermatology-consultants-p-a-saint-paul",
+   "name": "Dermatology Consultants, P. A.",
+   "summary": "Dermatology Consultants, P. A. is a dermatologist in Saint Paul, MN.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dermatology-consultants-p-a-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dermatology-consultants-p-a-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9495139,
+    "lon": -93.1666954
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/799881193",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

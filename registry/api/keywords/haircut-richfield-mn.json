@@ -1,0 +1,125 @@
+{
+ "keyword": "haircut richfield mn",
+ "slug": "haircut-richfield-mn",
+ "place": "Richfield, MN",
+ "service": "haircut",
+ "query": "Who are the best haircut providers in Richfield, MN?",
+ "matches": [
+  "haircut in Richfield, MN",
+  "haircut near me (Richfield, MN)",
+  "best haircut Richfield, MN",
+  "top rated haircut Richfield, MN",
+  "affordable haircut Richfield, MN",
+  "emergency haircut Richfield, MN"
+ ],
+ "answer": "The top unpaid haircut listing for Richfield, MN is Great Clips (a hair salon in Richfield, MN at 1714 East 66th Street, Richfield, MN 55423). 3 haircut businesses are listed for Richfield, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "great-clips-richfield",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Richfield, MN at 1714 East 66th Street, Richfield, MN 55423.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-richfield.json",
+   "address": {
+    "streetAddress": "1714 East 66th Street",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8838712,
+    "lon": -93.2495443
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7168433514",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "great-clips-richfield-n11688651089",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Richfield, MN at 6549 Lyndale Avenue South, Richfield, MN 55423.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-richfield-n11688651089/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-richfield-n11688651089.json",
+   "address": {
+    "streetAddress": "6549 Lyndale Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8837168,
+    "lon": -93.2858175
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11688651089",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "salon-lofts-richfield",
+   "name": "Salon Lofts",
+   "summary": "Salon Lofts is a hair salon in Richfield, MN at 6521 Lyndale Avenue South, Richfield, MN 55423.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-lofts-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-lofts-richfield.json",
+   "address": {
+    "streetAddress": "6521 Lyndale Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8841584,
+    "lon": -93.2846724
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11688555171",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

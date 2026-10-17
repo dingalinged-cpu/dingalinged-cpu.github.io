@@ -1,0 +1,56 @@
+{
+ "slug": "the-dental-specialists-orthodontics-chaska",
+ "name": "The Dental Specialists Orthodontics",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist chaska mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1150 Hazeltine Boulevard",
+  "addressLocality": "Chaska",
+  "addressRegion": "MN",
+  "postalCode": "55318",
+  "addressCountry": "US"
+ },
+ "city": "Chaska",
+ "state": "MN",
+ "zip": "55318",
+ "geo": {
+  "lat": 44.8329683,
+  "lon": -93.6015125
+ },
+ "website": "https://www.thedentalspecialists.com/",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1021270932",
+ "osm": {
+  "type": "way",
+  "id": 1021270932,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Chaska",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-dental-specialists-orthodontics-chaska/",
+ "summary": "The Dental Specialists Orthodontics is a dentist in Chaska, MN at 1150 Hazeltine Boulevard, Chaska, MN 55318. Website: https://www.thedentalspecialists.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

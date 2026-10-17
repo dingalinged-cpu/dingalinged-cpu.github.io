@@ -1,0 +1,33 @@
+The top unpaid dance studio listing for the United States is St. Paul Ballet (a dance studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516901588. Website: https://spballet.org/). 23 dance studio businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best dance studio providers in the United States?
+
+Also answers: dance studio in the United States; dance studio near me (the United States); best dance studio the United States; top rated dance studio the United States; affordable dance studio the United States; emergency dance studio the United States
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. St. Paul Ballet | trust 20.0 | St. Paul Ballet is a dance studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516901588. Website: https://spballet.org/. | https://dingalinged-cpu.github.io/registry/c/st-paul-ballet-saint-paul/
+2. TU Dance Center | trust 20.0 | TU Dance Center is a dance studio in Saint Paul, MN at 2121 University Avenue, Saint Paul, MN 55114. Phone: +16126051925. Website: https://www.tudance.org/. | https://dingalinged-cpu.github.io/registry/c/tu-dance-center-saint-paul/
+3. Four Seasons Dance Studio | trust 16.0 | Four Seasons Dance Studio is a dance studio in Minneapolis, MN at 1637 Hennepin Avenue, Minneapolis, MN 55403. Phone: +16123420902. Website: https://fourseasonsdance.com/. | https://dingalinged-cpu.github.io/registry/c/four-seasons-dance-studio-minneapolis/
+4. KMC Dance | trust 16.0 | KMC Dance is a dance studio in Robbinsdale, MN at 4035 West Broadway Avenue, Robbinsdale, MN 55422. Phone: +17635332623. Website: https://kmcdance.com/. | https://dingalinged-cpu.github.io/registry/c/kmc-dance-robbinsdale/
+5. Metropolitan Ballroom & Clubroom | trust 16.0 | Metropolitan Ballroom & Clubroom is a dance studio in Golden Valley, MN at 5418 Wayzata Boulevard, Golden Valley, MN 55416. Phone: +16122384444. Website: https://damicocatering.com/venues/metropolitan/. | https://dingalinged-cpu.github.io/registry/c/metropolitan-ballroom-and-clubroom-golden-valley/
+6. Metropolitan Dance Alliance | trust 16.0 | Metropolitan Dance Alliance is a dance studio in Shakopee, MN at 1159 Shakopee Town Square, Shakopee, MN 55379. Phone: +19524452330. Website: https://metropolitandancealliance.com/. | https://dingalinged-cpu.github.io/registry/c/metropolitan-dance-alliance-shakopee/
+7. Straightline Dance Fitness | trust 16.0 | Straightline Dance Fitness is a dance studio in Minneapolis, MN at 34 13th Avenue Northeast ##104C, Minneapolis, MN 55413. Phone: +16123854218. Website: https://www.straightlinedancefitness.com/. | https://dingalinged-cpu.github.io/registry/c/straightline-dance-fitness-minneapolis/
+8. KMC Dance Studio | trust 15.0 | KMC Dance Studio is a dance studio in Shorewood, MN at 23470 Minnesota State Highway 7, Shorewood, MN. Phone: +19522402319. Website: https://www.engagephysicaltherapymn.com/. | https://dingalinged-cpu.github.io/registry/c/kmc-dance-studio-shorewood/
+9. Arthur Murray | trust 14.0 | Arthur Murray is a dance studio in Minneapolis, MN at 5041 France Avenue South, Minneapolis, MN 55410. Website: https://arthurmurrayminneapolis.com/. | https://dingalinged-cpu.github.io/registry/c/arthur-murray-minneapolis/
+10. Arthur Murray Dance Center | trust 10.0 | Arthur Murray Dance Center is a dance studio in Saint Paul, MN at 534 Selby Avenue, Saint Paul, MN 55102. Phone: +16512273200. | https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-saint-paul/
+11. Medina Entertainment Center | trust 6.0 | Medina Entertainment Center is a dance studio in Medina, MN. Website: https://www.medinaentertainment.com/. | https://dingalinged-cpu.github.io/registry/c/medina-entertainment-center-medina/
+12. Costa Rica Ball Room | trust 4.0 | Costa Rica Ball Room is a dance studio in Hopkins, MN at 816 Mainstreet, Hopkins, MN 55343. | https://dingalinged-cpu.github.io/registry/c/costa-rica-ball-room-hopkins/
+13. DanceXchange | trust 4.0 | DanceXchange is a dance studio in Edina, MN at 6885 Washington Avenue South, Edina, MN 55439. | https://dingalinged-cpu.github.io/registry/c/dancexchange-edina/
+14. Jeté Dance Centre | trust 4.0 | Jeté Dance Centre is a dance studio in Rogers, MN at 14165 James Road #118, Rogers, MN 55374. | https://dingalinged-cpu.github.io/registry/c/jet-dance-centre-rogers/
+15. QC Dance | trust 4.0 | QC Dance is a dance studio in Blaine, MN at 9967 Ulysses Street Northeast, Blaine, MN 55434. | https://dingalinged-cpu.github.io/registry/c/qc-dance-blaine/
+16. Momentum Dance Project | trust 3.0 | Momentum Dance Project is a dance studio in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/momentum-dance-project-eagan/
+17. rhythm and shoes | trust 3.0 | rhythm and shoes is a dance studio in South Saint Paul, MN at 1515, South Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/rhythm-and-shoes-south-saint-paul/
+18. Ballare Teatro | trust 0.0 | Ballare Teatro is a dance studio in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/ballare-teatro-minneapolis/
+19. Dance Factory | trust 0.0 | Dance Factory is a dance studio in Circle Pines, MN. | https://dingalinged-cpu.github.io/registry/c/dance-factory-circle-pines/
+20. Metro Dance Center | trust 0.0 | Metro Dance Center is a dance studio in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/metro-dance-center-shoreview/
+21. Rhythm and Shoes | trust 0.0 | Rhythm and Shoes is a dance studio in Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/rhythm-and-shoes-inver-grove-heights/
+22. Spectrum Dance | trust 0.0 | Spectrum Dance is a dance studio in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/spectrum-dance-saint-paul/
+23. Tapestry Folk Dance Center | trust 0.0 | Tapestry Folk Dance Center is a dance studio in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/tapestry-folk-dance-center-minneapolis/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

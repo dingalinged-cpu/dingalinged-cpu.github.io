@@ -1,0 +1,165 @@
+{
+ "keyword": "dog groomer saint louis park mn",
+ "slug": "dog-groomer-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "dog groomer",
+ "query": "Who are the best dog groomer providers in Saint Louis Park, MN?",
+ "matches": [
+  "dog groomer in Saint Louis Park, MN",
+  "dog groomer near me (Saint Louis Park, MN)",
+  "best dog groomer Saint Louis Park, MN",
+  "top rated dog groomer Saint Louis Park, MN",
+  "affordable dog groomer Saint Louis Park, MN",
+  "emergency dog groomer Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid dog groomer listing for Saint Louis Park, MN is Bubbly Paws (a dog groomer in Saint Louis Park, MN at 3730 Grand Way, Saint Louis Park, MN 55416. Phone: +19526575300. Website: https://www.bubblypaws.com/). 4 dog groomer businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bubbly-paws-saint-louis-park",
+   "name": "Bubbly Paws",
+   "summary": "Bubbly Paws is a dog groomer in Saint Louis Park, MN at 3730 Grand Way, Saint Louis Park, MN 55416. Phone: +19526575300. Website: https://www.bubblypaws.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bubbly-paws-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bubbly-paws-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3730 Grand Way",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9342294,
+    "lon": -93.3408273
+   },
+   "phone": "+19526575300",
+   "website": "https://www.bubblypaws.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6611143052",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "lulu-and-luigi-saint-louis-park",
+   "name": "Lulu & Luigi",
+   "summary": "Lulu & Luigi is a dog groomer in Saint Louis Park, MN at 3699 Joppa Avenue South, Saint Louis Park, MN 55416. Phone: +19529291200. Website: https://luluandluigi.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lulu-and-luigi-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lulu-and-luigi-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3699 Joppa Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9361524,
+    "lon": -93.3338909
+   },
+   "phone": "+19529291200",
+   "website": "https://luluandluigi.com/",
+   "opening_hours": "Mo-Sa 09:00-18:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "shampooch-saint-louis-park",
+   "name": "Shampooch",
+   "summary": "Shampooch is a dog groomer in Saint Louis Park, MN at 8140 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +16124522742. Website: https://shampooch-salon.edan.io/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shampooch-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shampooch-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8140 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9497516,
+    "lon": -93.3833508
+   },
+   "phone": "+16124522742",
+   "website": "https://shampooch-salon.edan.io/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/667337618",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-canine-coach-st-louis-park-saint-louis-park",
+   "name": "The Canine Coach - St Louis Park",
+   "summary": "The Canine Coach - St Louis Park is a dog groomer in Saint Louis Park, MN at 6500 Lake Street West, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-canine-coach-st-louis-park-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-canine-coach-st-louis-park-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6500 Lake Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9412942,
+    "lon": -93.3613747
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604654638",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

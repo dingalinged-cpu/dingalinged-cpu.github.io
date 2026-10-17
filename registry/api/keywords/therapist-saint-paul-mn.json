@@ -1,0 +1,463 @@
+{
+ "keyword": "therapist saint paul mn",
+ "slug": "therapist-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "therapist",
+ "query": "Who are the best therapist providers in Saint Paul, MN?",
+ "matches": [
+  "therapist in Saint Paul, MN",
+  "therapist near me (Saint Paul, MN)",
+  "best therapist Saint Paul, MN",
+  "top rated therapist Saint Paul, MN",
+  "affordable therapist Saint Paul, MN",
+  "emergency therapist Saint Paul, MN"
+ ],
+ "answer": "The top unpaid therapist listing for Saint Paul, MN is Mental Health Resources (a therapy practice in Saint Paul, MN at 762 Transfer Road ##21, Saint Paul, MN 55114. Phone: +16516592900. Website: https://www.mhresources.org/). 13 therapist businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mental-health-resources-saint-paul",
+   "name": "Mental Health Resources",
+   "summary": "Mental Health Resources is a therapy practice in Saint Paul, MN at 762 Transfer Road ##21, Saint Paul, MN 55114. Phone: +16516592900. Website: https://www.mhresources.org/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mental-health-resources-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mental-health-resources-saint-paul.json",
+   "address": {
+    "streetAddress": "762 Transfer Road ##21",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9645641,
+    "lon": -93.185286
+   },
+   "phone": "+16516592900",
+   "website": "https://www.mhresources.org/",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7192381895",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "minnesota-center-for-psychology-saint-paul",
+   "name": "Minnesota Center for Psychology",
+   "summary": "Minnesota Center for Psychology is a therapy practice in Saint Paul, MN at 2324 University Avenue West ##120, Saint Paul, MN 55114. Phone: +16516444100. Website: https://www.minnesotacenterforpsychology.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-center-for-psychology-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-center-for-psychology-saint-paul.json",
+   "address": {
+    "streetAddress": "2324 University Avenue West ##120",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9625028,
+    "lon": -93.1959005
+   },
+   "phone": "+16516444100",
+   "website": "https://www.minnesotacenterforpsychology.com/",
+   "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7150081728",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "natalis-counseling-and-psychology-solutions-saint-paul",
+   "name": "Natalis Counseling & Psychology Solutions",
+   "summary": "Natalis Counseling & Psychology Solutions is a therapy practice in Saint Paul, MN at 1600 University Avenue ##12, Saint Paul, MN 55104. Phone: +16513795157. Website: https://www.natalispsychology.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natalis-counseling-and-psychology-solutions-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natalis-counseling-and-psychology-solutions-saint-paul.json",
+   "address": {
+    "streetAddress": "1600 University Avenue ##12",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9554848,
+    "lon": -93.1684839
+   },
+   "phone": "+16513795157",
+   "website": "https://www.natalispsychology.com/",
+   "opening_hours": "Mo-We 07:30-19:00; Th 07:30-18:00; Fr 07:30-19:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7207235102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "planned-parenthood-saint-paul",
+   "name": "Planned Parenthood",
+   "summary": "Planned Parenthood is a therapy practice in Saint Paul, MN at 671 Vandalia Street, Saint Paul, MN 55114. Phone: +16516982406. Website: https://www.plannedparenthood.org/health-center/minnesota/saint-paul/55114/st-paul-health-center-vandalia-4055-90720.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planned-parenthood-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-saint-paul.json",
+   "address": {
+    "streetAddress": "671 Vandalia Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.96176,
+    "lon": -93.189616
+   },
+   "phone": "+16516982406",
+   "website": "https://www.plannedparenthood.org/health-center/minnesota/saint-paul/55114/st-paul-health-center-vandalia-4055-90720",
+   "opening_hours": "Mo-Sa 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/61149689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "the-institute-for-rational-well-being-saint-paul",
+   "name": "The Institute for Rational Well-Being",
+   "summary": "The Institute for Rational Well-Being is a therapy practice in Saint Paul, MN at 1919 University Avenue ##425, Saint Paul, MN 55104. Phone: +16512438200. Website: https://www.irwb.org/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-institute-for-rational-well-being-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-institute-for-rational-well-being-saint-paul.json",
+   "address": {
+    "streetAddress": "1919 University Avenue ##425",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9573248,
+    "lon": -93.1801818
+   },
+   "phone": "+16512438200",
+   "website": "https://www.irwb.org/",
+   "opening_hours": "Mo 07:00-18:00; Tu 07:00-16:00; We-Th 07:00-18:00; Fr 07:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7199209062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "william-schultz-counselling-saint-paul",
+   "name": "William Schultz Counselling",
+   "summary": "William Schultz Counselling is a therapy practice in Saint Paul, MN at 6 5th Street West, Saint Paul, MN 55102. Phone: +16128751890. Website: https://www.williamschultzcounseling.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/william-schultz-counselling-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/william-schultz-counselling-saint-paul.json",
+   "address": {
+    "streetAddress": "6 5th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9454456,
+    "lon": -93.0946949
+   },
+   "phone": "+16128751890",
+   "website": "https://www.williamschultzcounseling.com/",
+   "opening_hours": "Mo-Sa 11:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13657508987",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "nutritional-weight-and-wellness-saint-paul",
+   "name": "Nutritional Weight & Wellness",
+   "summary": "Nutritional Weight & Wellness is a therapy practice in Saint Paul, MN at 45 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516993438. Website: https://www.weightandwellness.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nutritional-weight-and-wellness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nutritional-weight-and-wellness-saint-paul.json",
+   "address": {
+    "streetAddress": "45 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9426103,
+    "lon": -93.1673347
+   },
+   "phone": "+16516993438",
+   "website": "https://www.weightandwellness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/510471074",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "air-healthcare-saint-paul",
+   "name": "AiR Healthcare",
+   "summary": "AiR Healthcare is a therapy practice in Saint Paul, MN at 400 Selby Avenue #Suite D, Saint Paul, MN 55102. Website: https://www.humankindforall.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/air-healthcare-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/air-healthcare-saint-paul.json",
+   "address": {
+    "streetAddress": "400 Selby Avenue #Suite D",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9461588,
+    "lon": -93.1175868
+   },
+   "website": "https://www.humankindforall.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818285046",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "arctos-360-the-purpose-institute-saint-paul",
+   "name": "Arctos 360 The Purpose Institute",
+   "summary": "Arctos 360 The Purpose Institute is a therapy practice in Saint Paul, MN at 400 Selby Avenue, Saint Paul, MN 55102. Website: https://www.arctos360.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arctos-360-the-purpose-institute-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arctos-360-the-purpose-institute-saint-paul.json",
+   "address": {
+    "streetAddress": "400 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.946307,
+    "lon": -93.117205
+   },
+   "website": "https://www.arctos360.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818305546",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "healthy-minds-saint-paul",
+   "name": "Healthy Minds",
+   "summary": "Healthy Minds is a therapy practice in Saint Paul, MN at 400 Selby Avenue #Suite Q, Saint Paul, MN 55102. Website: https://www.healthyminds.io/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthy-minds-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthy-minds-saint-paul.json",
+   "address": {
+    "streetAddress": "400 Selby Avenue #Suite Q",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9463046,
+    "lon": -93.117297
+   },
+   "website": "https://www.healthyminds.io/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818285047",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "linnihan-licensed-psychologist-saint-paul",
+   "name": "Linnihan Licensed Psychologist",
+   "summary": "Linnihan Licensed Psychologist is a therapy practice in Saint Paul, MN at 540 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516455372.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linnihan-licensed-psychologist-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linnihan-licensed-psychologist-saint-paul.json",
+   "address": {
+    "streetAddress": "540 Fairview Avenue North",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9572193,
+    "lon": -93.1766689
+   },
+   "phone": "+16516455372",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7202339973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "v-care-home-health-inc-saint-paul",
+   "name": "V-Care Home Health, Inc",
+   "summary": "V-Care Home Health, Inc is a therapy practice in Saint Paul, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/v-care-home-health-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/v-care-home-health-inc-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9728323,
+    "lon": -93.0737772
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605070032",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "ww-studio-saint-paul",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in Saint Paul, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9176055,
+    "lon": -93.18574
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/660909476",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

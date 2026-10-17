@@ -1,0 +1,2314 @@
+{
+ "keyword": "jewelry store",
+ "slug": "jewelry-store",
+ "place": "the United States",
+ "service": "jewelry store",
+ "query": "Who are the best jewelry store providers in the United States?",
+ "matches": [
+  "jewelry store in the United States",
+  "jewelry store near me (the United States)",
+  "best jewelry store the United States",
+  "top rated jewelry store the United States",
+  "affordable jewelry store the United States",
+  "emergency jewelry store the United States"
+ ],
+ "answer": "The top unpaid jewelry store listing for the United States is Arthur's Jewelers (a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/). 72 jewelry store businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "arthurs-jewelers-roseville",
+   "name": "Arthur's Jewelers",
+   "summary": "Arthur's Jewelers is a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arthurs-jewelers-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arthurs-jewelers-roseville.json",
+   "address": {
+    "streetAddress": "1717 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.993219,
+    "lon": -93.1469194
+   },
+   "phone": "+16514880365",
+   "website": "https://www.arthursjewelers.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7141984924",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "colonial-jewelers-saint-michael",
+   "name": "Colonial Jewelers",
+   "summary": "Colonial Jewelers is a jewelry store in Saint Michael, MN at 400 Central Avenue East, Saint Michael, MN 55376. Phone: +17634973717. Website: https://colonial-jewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/colonial-jewelers-saint-michael/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/colonial-jewelers-saint-michael.json",
+   "address": {
+    "streetAddress": "400 Central Avenue East",
+    "addressLocality": "Saint Michael",
+    "addressRegion": "MN",
+    "postalCode": "55376",
+    "addressCountry": "US"
+   },
+   "city": "Saint Michael",
+   "state": "MN",
+   "zip": "55376",
+   "geo": {
+    "lat": 45.2091947,
+    "lon": -93.6552688
+   },
+   "phone": "+17634973717",
+   "website": "https://colonial-jewelers.com/",
+   "opening_hours": "Mo-Fr 09:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10001926982",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "diamonds-and-gold-international-saint-louis-park",
+   "name": "Diamonds and Gold International",
+   "summary": "Diamonds and Gold International is a jewelry store in Saint Louis Park, MN at 5305 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529226453. Website: https://www.dgintl.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diamonds-and-gold-international-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diamonds-and-gold-international-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5305 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9305465,
+    "lon": -93.3470905
+   },
+   "phone": "+19529226453",
+   "website": "https://www.dgintl.com/",
+   "opening_hours": "Mo,Th 10:00-19:00; Tu-We,Fr 10:00-19:00; Sa 10:00-15:45; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2246717605",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "golden-treasures-saint-paul",
+   "name": "Golden Treasures",
+   "summary": "Golden Treasures is a jewelry store in Saint Paul, MN at 805 Grand Avenue, Saint Paul, MN 55105. Phone: +16512272711. Website: https://www.goldn-treasures.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-treasures-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-treasures-saint-paul.json",
+   "address": {
+    "streetAddress": "805 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9400802,
+    "lon": -93.1341527
+   },
+   "phone": "+16512272711",
+   "website": "https://www.goldn-treasures.com/",
+   "opening_hours": "\"Make an appointment Wednesday through Saturday\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920889288",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "goldwear-jewelers-maple-grove",
+   "name": "Goldwear Jewelers",
+   "summary": "Goldwear Jewelers is a jewelry store in Maple Grove, MN at 13689 Grove Drive North, Maple Grove, MN 55311. Phone: +17634208060. Website: https://goldwearjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goldwear-jewelers-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goldwear-jewelers-maple-grove.json",
+   "address": {
+    "streetAddress": "13689 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1027024,
+    "lon": -93.4548073
+   },
+   "phone": "+17634208060",
+   "website": "https://goldwearjewelers.com/",
+   "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-19:00;Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5782225991",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "knox-jewelers-minneapolis",
+   "name": "Knox Jewelers",
+   "summary": "Knox Jewelers is a jewelry store in Minneapolis, MN at 2921 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238752. Website: https://www.knoxjewelers.biz/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/knox-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/knox-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "2921 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9495898,
+    "lon": -93.2878574
+   },
+   "phone": "+16128238752",
+   "website": "https://www.knoxjewelers.biz/",
+   "opening_hours": "\"By Appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5289969416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "lucky-jewelry-minneapolis",
+   "name": "Lucky Jewelry",
+   "summary": "Lucky Jewelry is a jewelry store in Minneapolis, MN at 2447 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128708790. Website: https://luckybrand.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lucky-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lucky-jewelry-minneapolis.json",
+   "address": {
+    "streetAddress": "2447 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9575327,
+    "lon": -93.2776728
+   },
+   "phone": "+16128708790",
+   "website": "https://luckybrand.com/",
+   "opening_hours": "11:30-16:00; Tu off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617523580",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "real-gem-jewelers-shakopee",
+   "name": "Real Gem Jewelers",
+   "summary": "Real Gem Jewelers is a jewelry store in Shakopee, MN at 108 1st Avenue East, Shakopee, MN 55379. Phone: +19524962000. Website: https://www.realgemjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/real-gem-jewelers-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/real-gem-jewelers-shakopee.json",
+   "address": {
+    "streetAddress": "108 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.798486,
+    "lon": -93.5263974
+   },
+   "phone": "+19524962000",
+   "website": "https://www.realgemjewelers.com/",
+   "opening_hours": "Mo-Fr 10:00-17:30; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389116",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "rock-paper-silver-minneapolis",
+   "name": "Rock Paper Silver",
+   "summary": "Rock Paper Silver is a jewelry store in Minneapolis, MN at 4816 Nicollet Avenue South, Minneapolis, MN 55419. Phone: +16123312482. Website: https://www.deirdreandcompany.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rock-paper-silver-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rock-paper-silver-minneapolis.json",
+   "address": {
+    "streetAddress": "4816 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.915458,
+    "lon": -93.2783201
+   },
+   "phone": "+16123312482",
+   "website": "https://www.deirdreandcompany.com/",
+   "opening_hours": "We 10:00-16:00; Th 11:00-16:00; Sa[3] 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13628521333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "twin-cities-gold-and-silver-exchange-saint-louis-park",
+   "name": "Twin Cities Gold & Silver Exchange",
+   "summary": "Twin Cities Gold & Silver Exchange is a jewelry store in Saint Louis Park, MN at 4813 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529265175. Website: https://www.tcgoldsilvermn.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-cities-gold-and-silver-exchange-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-gold-and-silver-exchange-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4813 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9325172,
+    "lon": -93.3418397
+   },
+   "phone": "+19529265175",
+   "website": "https://www.tcgoldsilvermn.com/",
+   "opening_hours": "Mo-Fr 10:00-17:30; Sa 10:00-14:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566621919",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "waldeland-jewelers-eagan",
+   "name": "Waldeland Jewelers",
+   "summary": "Waldeland Jewelers is a jewelry store in Eagan, MN at 1340 Duckwood Drive #11, Eagan, MN 55123. Phone: +16514521877. Website: https://waldelandjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waldeland-jewelers-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waldeland-jewelers-eagan.json",
+   "address": {
+    "streetAddress": "1340 Duckwood Drive #11",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8268912,
+    "lon": -93.1631767
+   },
+   "phone": "+16514521877",
+   "website": "https://waldelandjewelers.com/",
+   "opening_hours": "Mo,Su off; Tu-Fr 12:00-17:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1719957771",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "innsbruck-jewelers-saint-anthony",
+   "name": "Innsbruck Jewelers",
+   "summary": "Innsbruck Jewelers is a jewelry store in Saint Anthony, MN at 2700 39th Avenue Northeast #A106, Saint Anthony, MN. Phone: +16516360106. Website: https://www.innsbruckjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/innsbruck-jewelers-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/innsbruck-jewelers-saint-anthony.json",
+   "address": {
+    "streetAddress": "2700 39th Avenue Northeast #A106",
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0390911,
+    "lon": -93.2209011
+   },
+   "phone": "+16516360106",
+   "website": "https://www.innsbruckjewelers.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12876251162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "belle-via-jewelry-saint-paul",
+   "name": "Belle Via Jewelry",
+   "summary": "Belle Via Jewelry is a jewelry store in Saint Paul, MN at 1208 Grand Avenue, Saint Paul, MN 55105. Phone: +16123085906. Website: https://www.belleviajewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belle-via-jewelry-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belle-via-jewelry-saint-paul.json",
+   "address": {
+    "streetAddress": "1208 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398302,
+    "lon": -93.1511426
+   },
+   "phone": "+16123085906",
+   "website": "https://www.belleviajewelry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8929737439",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "bravo-jewellers-saint-louis-park",
+   "name": "Bravo Jewellers",
+   "summary": "Bravo Jewellers is a jewelry store in Saint Louis Park, MN at 7125 Cedar Lake Road, Saint Louis Park, MN 55426. Phone: +16129137350. Website: https://bravojewelersmn.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bravo-jewellers-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bravo-jewellers-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7125 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9591976,
+    "lon": -93.3706218
+   },
+   "phone": "+16129137350",
+   "website": "https://bravojewelersmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4573747571",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "elequent-jewelry-inc-saint-louis-park",
+   "name": "Elequent Jewelry Inc",
+   "summary": "Elequent Jewelry Inc is a jewelry store in Saint Louis Park, MN at 7915 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +19529203113. Website: https://www.elequentjewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elequent-jewelry-inc-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elequent-jewelry-inc-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7915 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9491863,
+    "lon": -93.3803997
+   },
+   "phone": "+19529203113",
+   "website": "https://www.elequentjewelry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000596279",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "filigree-jewelers-minneapolis",
+   "name": "Filigree Jewelers",
+   "summary": "Filigree Jewelers is a jewelry store in Minneapolis, MN at 210 North 2nd Street, Minneapolis, MN 55401. Phone: +16124862290. Website: https://filigreejewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/filigree-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/filigree-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "210 North 2nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9848657,
+    "lon": -93.2702944
+   },
+   "phone": "+16124862290",
+   "website": "https://filigreejewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13133932914",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "gerber-jewelers-saint-paul",
+   "name": "Gerber Jewelers",
+   "summary": "Gerber Jewelers is a jewelry store in Saint Paul, MN at 945 Grand Avenue, Saint Paul, MN 55105. Phone: +16512228585. Website: https://jagerberjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gerber-jewelers-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gerber-jewelers-saint-paul.json",
+   "address": {
+    "streetAddress": "945 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9402597,
+    "lon": -93.1400445
+   },
+   "phone": "+16512228585",
+   "website": "https://jagerberjewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/332905552",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "r-f-moeller-jeweler-saint-paul",
+   "name": "R.F. Moeller Jeweler",
+   "summary": "R.F. Moeller Jeweler is a jewelry store in Saint Paul, MN at 2065 Ford Parkway, Saint Paul, MN 55116. Phone: +16516986321. Website: https://rfmoeller.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-f-moeller-jeweler-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-f-moeller-jeweler-saint-paul.json",
+   "address": {
+    "streetAddress": "2065 Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9180978,
+    "lon": -93.1875798
+   },
+   "phone": "+16516986321",
+   "website": "https://rfmoeller.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/660909461",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "st-louis-park-gold-and-silver-saint-louis-park",
+   "name": "St. Louis Park Gold & Silver",
+   "summary": "St. Louis Park Gold & Silver is a jewelry store in Saint Louis Park, MN at 4825 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19522175488. Website: https://www.slpgoldandsilver.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-louis-park-gold-and-silver-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-louis-park-gold-and-silver-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4825 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.948359,
+    "lon": -93.3411942
+   },
+   "phone": "+19522175488",
+   "website": "https://www.slpgoldandsilver.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9494262929",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "the-jewlers-saint-anthony",
+   "name": "The Jewlers",
+   "summary": "The Jewlers is a jewelry store in Saint Anthony, MN at 2902 Pentagon Drive, Saint Anthony, MN 55418. Phone: +16127886000. Website: https://unique-jewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-jewlers-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-jewlers-saint-anthony.json",
+   "address": {
+    "streetAddress": "2902 Pentagon Drive",
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0158739,
+    "lon": -93.2199149
+   },
+   "phone": "+16127886000",
+   "website": "https://unique-jewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13138450081",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "wedding-day-diamonds-bloomington",
+   "name": "Wedding Day Diamonds",
+   "summary": "Wedding Day Diamonds is a jewelry store in Bloomington, MN at 7901 Penn Avenue S, Bloomington, MN 55431. Phone: +19522530235. Website: https://www.weddingdaydiamonds.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wedding-day-diamonds-bloomington.json",
+   "address": {
+    "streetAddress": "7901 Penn Avenue S",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8603978,
+    "lon": -93.308249
+   },
+   "phone": "+19522530235",
+   "website": "https://www.weddingdaydiamonds.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/306604847",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "diamonds-direct-minneapolis",
+   "name": "Diamonds Direct",
+   "summary": "Diamonds Direct is a jewelry store in Minneapolis, MN at 5037 France Avenue South, Minneapolis, MN 55410. Website: https://www.diamondsdirectmn.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diamonds-direct-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diamonds-direct-minneapolis.json",
+   "address": {
+    "streetAddress": "5037 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9114315,
+    "lon": -93.3288607
+   },
+   "website": "https://www.diamondsdirectmn.com/",
+   "opening_hours": "Tu-Fr 10:00-17:30; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/829660555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "phuoc-loc-tho-jewelry-minneapolis",
+   "name": "Phuoc-Loc-Tho Jewelry",
+   "summary": "Phuoc-Loc-Tho Jewelry is a jewelry store in Minneapolis, MN at 2510 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128796061.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phuoc-loc-tho-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phuoc-loc-tho-jewelry-minneapolis.json",
+   "address": {
+    "streetAddress": "2510 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9569137,
+    "lon": -93.2780643
+   },
+   "phone": "+16128796061",
+   "opening_hours": "\"By Appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617523583",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "thurston-jewelers-minneapolis",
+   "name": "Thurston Jewelers",
+   "summary": "Thurston Jewelers is a jewelry store in Minneapolis, MN at 705 West Lake Street, Minneapolis, MN 55408. Website: https://www.thurstonjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thurston-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thurston-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "705 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482512,
+    "lon": -93.2885337
+   },
+   "website": "https://www.thurstonjewelers.com/",
+   "opening_hours": "Tu-Fr 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5292649240",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "helzberg-diamonds-bloomington",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Bloomington, MN at 154 West Market, Bloomington, MN. Phone: +19528510057.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-bloomington.json",
+   "address": {
+    "streetAddress": "154 West Market",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8544815,
+    "lon": -93.2434156
+   },
+   "phone": "+19528510057",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739830165",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "impulse-bloomington",
+   "name": "Impulse",
+   "summary": "Impulse is a jewelry store in Bloomington, MN at 314 East Broadway, Bloomington, MN. Phone: +19528541195.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/impulse-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/impulse-bloomington.json",
+   "address": {
+    "streetAddress": "314 East Broadway",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8549911,
+    "lon": -93.2402807
+   },
+   "phone": "+19528541195",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829679",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "kay-jewelers-bloomington",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Bloomington, MN at 174 North Garden, Bloomington, MN. Phone: +19528760700.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-bloomington.json",
+   "address": {
+    "streetAddress": "174 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8554163,
+    "lon": -93.2421112
+   },
+   "phone": "+19528760700",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739830190",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "lotus-beads-bloomington",
+   "name": "Lotus Beads",
+   "summary": "Lotus Beads is a jewelry store in Bloomington, MN at 368 North Garden, Bloomington, MN. Phone: +19528549951.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lotus-beads-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lotus-beads-bloomington.json",
+   "address": {
+    "streetAddress": "368 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8554231,
+    "lon": -93.2412781
+   },
+   "phone": "+19528549951",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829605",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "pandora-bloomington",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Bloomington, MN at 127 North Garden, Bloomington, MN. Phone: +19522521495.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-bloomington.json",
+   "address": {
+    "streetAddress": "127 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8556239,
+    "lon": -93.241897
+   },
+   "phone": "+19522521495",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739830207",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "swarovski-bloomington",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in Bloomington, MN at 288 North Garden, Bloomington, MN. Phone: +19528532130.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-bloomington.json",
+   "address": {
+    "streetAddress": "288 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8553995,
+    "lon": -93.24313
+   },
+   "phone": "+19528532130",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829715",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "t-lee-custom-design-jewelry-minneapolis",
+   "name": "t lee custom design jewelry",
+   "summary": "t lee custom design jewelry is a jewelry store in Minneapolis, MN at 509 1/2 Northeast 1st Avenue, Minneapolis, MN. Website: https://www.tleegold.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/t-lee-custom-design-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/t-lee-custom-design-jewelry-minneapolis.json",
+   "address": {
+    "streetAddress": "509 1/2 Northeast 1st Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.990577,
+    "lon": -93.2534315
+   },
+   "website": "https://www.tleegold.com/",
+   "opening_hours": "Tu-Sa 10:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6773414118",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "brilliant-earth-edina",
+   "name": "Brilliant Earth",
+   "summary": "Brilliant Earth is a jewelry store in Edina, MN. Website: https://www.brilliantearth.com/stores/edina-minneapolis-mn/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brilliant-earth-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brilliant-earth-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9128031,
+    "lon": -93.3301486
+   },
+   "website": "https://www.brilliantearth.com/stores/edina-minneapolis-mn/",
+   "opening_hours": "Mo-Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867419",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "charlemagne-fine-jewelry-saint-paul",
+   "name": "Charlemagne Fine Jewelry",
+   "summary": "Charlemagne Fine Jewelry is a jewelry store in Saint Paul, MN at 1262 Grand Avenue, Saint Paul, MN 55105. Website: https://charlemagnefinejewelry.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charlemagne-fine-jewelry-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charlemagne-fine-jewelry-saint-paul.json",
+   "address": {
+    "streetAddress": "1262 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9397816,
+    "lon": -93.1534184
+   },
+   "website": "https://charlemagnefinejewelry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/332917701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "kay-jewelers-roseville",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Roseville, MN. Phone: +16516360877.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0126253,
+    "lon": -93.1724136
+   },
+   "phone": "+16516360877",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1551073847",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "kims-jewelry-minneapolis",
+   "name": "Kim's Jewelry",
+   "summary": "Kim's Jewelry is a jewelry store in Minneapolis, MN at 2641 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128710631.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kims-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kims-jewelry-minneapolis.json",
+   "address": {
+    "streetAddress": "2641 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.954182,
+    "lon": -93.2776973
+   },
+   "phone": "+16128710631",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619841623",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "maxs-saint-louis-park",
+   "name": "Max's",
+   "summary": "Max's is a jewelry store in Saint Louis Park, MN at 3826 Grand Way, Saint Louis Park, MN 55416. Website: https://www.stylebymax.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maxs-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maxs-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3826 Grand Way",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.933763,
+    "lon": -93.340523
+   },
+   "website": "https://www.stylebymax.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4124161390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "r-f-moeller-jeweler-edina",
+   "name": "R.F. Moeller Jeweler",
+   "summary": "R.F. Moeller Jeweler is a jewelry store in Edina, MN. Website: https://rfmoeller.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-f-moeller-jeweler-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-f-moeller-jeweler-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9118612,
+    "lon": -93.329187
+   },
+   "website": "https://rfmoeller.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "sen-hao-seng-jewelry-saint-paul",
+   "name": "Sen Hao Seng Jewelry",
+   "summary": "Sen Hao Seng Jewelry is a jewelry store in Saint Paul, MN at 633 West Minnehaha Avenue #Ste. A, Saint Paul, MN 55104. Phone: +16514887473.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sen-hao-seng-jewelry-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sen-hao-seng-jewelry-saint-paul.json",
+   "address": {
+    "streetAddress": "633 West Minnehaha Avenue #Ste. A",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9633807,
+    "lon": -93.126669
+   },
+   "phone": "+16514887473",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8931357563",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "van-guilders-goldsmith-minneapolis",
+   "name": "Van Guilder's Goldsmith",
+   "summary": "Van Guilder's Goldsmith is a jewelry store in Minneapolis, MN at 4999 France Avenue South #160, Minneapolis, MN 55410. Website: https://www.vanguilders.biz/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/van-guilders-goldsmith-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/van-guilders-goldsmith-minneapolis.json",
+   "address": {
+    "streetAddress": "4999 France Avenue South #160",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9132705,
+    "lon": -93.3288992
+   },
+   "website": "https://www.vanguilders.biz/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116051",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "linden-hills-jewelers-minneapolis",
+   "name": "Linden Hills Jewelers",
+   "summary": "Linden Hills Jewelers is a jewelry store in Minneapolis, MN at 4305 Upton Avenue South, Minneapolis, MN 55410.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linden-hills-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linden-hills-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "4305 Upton Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9243029,
+    "lon": -93.3145303
+   },
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3532499012",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "new-gild-jewelers-minneapolis",
+   "name": "New Gild Jewelers",
+   "summary": "New Gild Jewelers is a jewelry store in Minneapolis, MN at 4300 Upton Avenue South, Minneapolis, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-gild-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-gild-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "4300 Upton Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9245252,
+    "lon": -93.3148403
+   },
+   "opening_hours": "Tu-Fr 11:00-17:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12046904925",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "gittelson-jewlers-minneapolis",
+   "name": "Gittelson Jewlers",
+   "summary": "Gittelson Jewlers is a jewelry store in Minneapolis, MN. Website: https://gittelsonjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gittelson-jewlers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gittelson-jewlers-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9768467,
+    "lon": -93.270105
+   },
+   "website": "https://gittelsonjewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12862838542",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "pandora-roseville",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Roseville, MN. Phone: +16512870431.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0127747,
+    "lon": -93.1725049
+   },
+   "phone": "+16512870431",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6982974924",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "sanchez-jewelry-minneapolis",
+   "name": "Sanchez Jewelry",
+   "summary": "Sanchez Jewelry is a jewelry store in Minneapolis, MN. Phone: +16123517047.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sanchez-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sanchez-jewelry-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9489686,
+    "lon": -93.2604768
+   },
+   "phone": "+16123517047",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11964471534",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "silber-fine-jewlery-minneapolis",
+   "name": "Silber Fine Jewlery",
+   "summary": "Silber Fine Jewlery is a jewelry store in Minneapolis, MN. Website: https://silber.diamonds/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silber-fine-jewlery-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silber-fine-jewlery-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.977292,
+    "lon": -93.2714469
+   },
+   "website": "https://silber.diamonds/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12862806767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "thomas-joseph-and-sons-minneapolis",
+   "name": "Thomas Joseph & Sons",
+   "summary": "Thomas Joseph & Sons is a jewelry store in Minneapolis, MN. Website: https://thomasjosephandsons.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thomas-joseph-and-sons-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thomas-joseph-and-sons-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9742718,
+    "lon": -93.2673664
+   },
+   "website": "https://thomasjosephandsons.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12768888509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "bergstrom-jewelers-saint-louis-park",
+   "name": "Bergstrom Jewelers",
+   "summary": "Bergstrom Jewelers is a jewelry store in Saint Louis Park, MN at 1695 West End Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bergstrom-jewelers-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bergstrom-jewelers-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1695 West End Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9656707,
+    "lon": -93.3475468
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2419588467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "leodaniels-luxury-jewelers-saint-louis-park",
+   "name": "LeoDaniels Luxury Jewelers",
+   "summary": "LeoDaniels Luxury Jewelers is a jewelry store in Saint Louis Park, MN at 4110 Minnetonka Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leodaniels-luxury-jewelers-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leodaniels-luxury-jewelers-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4110 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9486905,
+    "lon": -93.3321366
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/132662567",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "spencers-roseville",
+   "name": "Spencer's",
+   "summary": "Spencer's is a jewelry store in Roseville, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0130712,
+    "lon": -93.172726
+   },
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6982974943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "wedding-day-diamonds-eden-prairie",
+   "name": "Wedding Day Diamonds",
+   "summary": "Wedding Day Diamonds is a jewelry store in Eden Prairie, MN at 8320 Flying Cloud Drive, Eden Prairie, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wedding-day-diamonds-eden-prairie.json",
+   "address": {
+    "streetAddress": "8320 Flying Cloud Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8535372,
+    "lon": -93.4312724
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47233359",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "wedding-day-diamonds-roseville",
+   "name": "Wedding Day Diamonds",
+   "summary": "Wedding Day Diamonds is a jewelry store in Roseville, MN at 1747 American Street, Roseville, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wedding-day-diamonds-roseville.json",
+   "address": {
+    "streetAddress": "1747 American Street",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0153744,
+    "lon": -93.1735314
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11346494857",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "becklund-jewelers-eden-prairie",
+   "name": "Becklund Jewelers",
+   "summary": "Becklund Jewelers is a jewelry store in Eden Prairie, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/becklund-jewelers-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/becklund-jewelers-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8530258,
+    "lon": -93.4291649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4751256644",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "buchkosky-jewelers-roseville",
+   "name": "Buchkosky Jewelers",
+   "summary": "Buchkosky Jewelers is a jewelry store in Roseville, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buchkosky-jewelers-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buchkosky-jewelers-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0130087,
+    "lon": -93.1713202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810033191",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "dan-gould-jeweler-anoka",
+   "name": "Dan Gould Jeweler",
+   "summary": "Dan Gould Jeweler is a jewelry store in Anoka, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dan-gould-jeweler-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dan-gould-jeweler-anoka.json",
+   "address": {
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1978029,
+    "lon": -93.389515
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5599281247",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "eastside-gold-grillz-and-jewlery-saint-paul",
+   "name": "Eastside Gold Grillz & Jewlery",
+   "summary": "Eastside Gold Grillz & Jewlery is a jewelry store in Saint Paul, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eastside-gold-grillz-and-jewlery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eastside-gold-grillz-and-jewlery-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9729023,
+    "lon": -93.0661604
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096347",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "evergreene-jewelers-minnetonka",
+   "name": "EverGreene Jewelers",
+   "summary": "EverGreene Jewelers is a jewelry store in Minnetonka, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evergreene-jewelers-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evergreene-jewelers-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9403514,
+    "lon": -93.5028278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/78943424",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "goodman-jewelers-maplewood",
+   "name": "Goodman Jewelers",
+   "summary": "Goodman Jewelers is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodman-jewelers-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodman-jewelers-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0307378,
+    "lon": -93.0217963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408063",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "helzberg-diamonds-eagan",
+   "name": "Helzberg Diamonds",
+   "summary": "Helzberg Diamonds is a jewelry store in Eagan, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-diamonds-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8156357,
+    "lon": -93.2143379
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6747204377",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "helzberg-jewelers-maplewood",
+   "name": "Helzberg Jewelers",
+   "summary": "Helzberg Jewelers is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-jewelers-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-jewelers-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0309273,
+    "lon": -93.0216703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "hoff-diamonds-maplewood",
+   "name": "Hoff Diamonds",
+   "summary": "Hoff Diamonds is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hoff-diamonds-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hoff-diamonds-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0311339,
+    "lon": -93.0216783
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408061",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "jared-edina",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Edina, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8840113,
+    "lon": -93.3196323
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11024096061",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "jared-maple-grove",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Maple Grove, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0936945,
+    "lon": -93.4322023
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52054310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "jared-maplewood",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0346031,
+    "lon": -93.0181346
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/126138322",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "javis-gift-shop-inc-minneapolis",
+   "name": "Javi's Gift Shop Inc.",
+   "summary": "Javi's Gift Shop Inc. is a jewelry store in Minneapolis, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/javis-gift-shop-inc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/javis-gift-shop-inc-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9481981,
+    "lon": -93.2712033
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217048193",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "jewelry-exchange-eagan",
+   "name": "Jewelry Exchange",
+   "summary": "Jewelry Exchange is a jewelry store in Eagan, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jewelry-exchange-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jewelry-exchange-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8463167,
+    "lon": -93.1213095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13686931648",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "johantgen-jewelers-crystal",
+   "name": "Johantgen Jewelers",
+   "summary": "Johantgen Jewelers is a jewelry store in Crystal, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johantgen-jewelers-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johantgen-jewelers-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0537898,
+    "lon": -93.3666076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131839067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "kay-jewelers-eagan",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Eagan, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8154531,
+    "lon": -93.214713
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6747290025",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "kay-jewelers-maplewood",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0315358,
+    "lon": -93.0221638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408040",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "ny-jewelry-minneapolis",
+   "name": "NY Jewelry",
+   "summary": "NY Jewelry is a jewelry store in Minneapolis, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ny-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ny-jewelry-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9763935,
+    "lon": -93.2721145
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5955554287",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "rogers-and-hollands-roseville",
+   "name": "Rogers & Hollands",
+   "summary": "Rogers & Hollands is a jewelry store in Roseville, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rogers-and-hollands-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0127842,
+    "lon": -93.1724123
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810033197",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "swarovski-eagan",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in Eagan, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8153977,
+    "lon": -93.2148477
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6747290023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "swarovski-fort-snelling-unorganized-territory",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8837392,
+    "lon": -93.211106
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387478932",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

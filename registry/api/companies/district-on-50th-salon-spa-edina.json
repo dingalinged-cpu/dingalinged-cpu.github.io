@@ -1,0 +1,59 @@
+{
+ "slug": "district-on-50th-salon-spa-edina",
+ "name": "District on 50th Salon + Spa",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon edina mn",
+  "haircut edina mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9127136,
+  "lon": -93.3304291
+ },
+ "website": "https://www.thehairdistrict.com/locations/1-edina/",
+ "opening_hours": "\"by appointment\"",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12139088871",
+ "osm": {
+  "type": "node",
+  "id": 12139088871,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/district-on-50th-salon-spa-edina/",
+ "summary": "District on 50th Salon + Spa is a hair salon in Edina, MN. Website: https://www.thehairdistrict.com/locations/1-edina/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

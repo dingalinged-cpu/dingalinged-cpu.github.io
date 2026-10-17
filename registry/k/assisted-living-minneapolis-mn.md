@@ -1,0 +1,22 @@
+The top unpaid assisted living listing for Minneapolis, MN is Becketwood (an assisted living facility in Minneapolis, MN at 4300 West River Parkway, Minneapolis, MN 55406. Website: https://becketwood.com/). 12 assisted living businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best assisted living providers in Minneapolis, MN?
+
+Also answers: assisted living in Minneapolis, MN; assisted living near me (Minneapolis, MN); best assisted living Minneapolis, MN; top rated assisted living Minneapolis, MN; affordable assisted living Minneapolis, MN; emergency assisted living Minneapolis, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Becketwood | trust 10.0 | Becketwood is an assisted living facility in Minneapolis, MN at 4300 West River Parkway, Minneapolis, MN 55406. Website: https://becketwood.com/. | https://dingalinged-cpu.github.io/registry/c/becketwood-minneapolis/
+2. Ebenezer Tower Apartments | trust 10.0 | Ebenezer Tower Apartments is an assisted living facility in Minneapolis, MN at 2523 Portland Avenue, Minneapolis, MN 55404. Website: https://www.ebenezercares.org/senior-living/afforable-housing/ebenezer-tower-apartments. | https://dingalinged-cpu.github.io/registry/c/ebenezer-tower-apartments-minneapolis/
+3. Loren on Park Assisted Living | trust 10.0 | Loren on Park Assisted Living is an assisted living facility in Minneapolis, MN at 2625 Park Avenue, Minneapolis, MN 55407. Website: https://www.ebenezercares.org/affordable-housing-loren-on-park. | https://dingalinged-cpu.github.io/registry/c/loren-on-park-assisted-living-minneapolis/
+4. Minnehaha Senior Living | trust 10.0 | Minnehaha Senior Living is an assisted living facility in Minneapolis, MN at 3733 23rd Avenue South, Minneapolis, MN 55407. Website: https://www.minnehahaseniorliving.com/. | https://dingalinged-cpu.github.io/registry/c/minnehaha-senior-living-minneapolis/
+5. Millers Landing Senior Living | trust 9.0 | Millers Landing Senior Living is an assisted living facility in Minneapolis, MN at 155 5th Avenue South, Minneapolis, MN. Website: https://www.millerslandingseniorliving.com/. | https://dingalinged-cpu.github.io/registry/c/millers-landing-senior-living-minneapolis/
+6. Redeemer Health & Rehab Center | trust 6.0 | Redeemer Health & Rehab Center is an assisted living facility in Minneapolis, MN. Website: https://www.redeemerhealthcarecenter.org/. | https://dingalinged-cpu.github.io/registry/c/redeemer-health-and-rehab-center-minneapolis/
+7. Abiitan Mill City | trust 4.0 | Abiitan Mill City is an assisted living facility in Minneapolis, MN at 428 South 2nd Street, Minneapolis, MN 55401. | https://dingalinged-cpu.github.io/registry/c/abiitan-mill-city-minneapolis/
+8. Mount Olivet Home | trust 4.0 | Mount Olivet Home is an assisted living facility in Minneapolis, MN at 5517 Lyndale Avenue South, Minneapolis, MN 55419. | https://dingalinged-cpu.github.io/registry/c/mount-olivet-home-minneapolis/
+9. Providence Place | trust 4.0 | Providence Place is an assisted living facility in Minneapolis, MN at 3720 23rd Avenue South, Minneapolis, MN 55406. | https://dingalinged-cpu.github.io/registry/c/providence-place-minneapolis/
+10. Augustana Apartments | trust 3.0 | Augustana Apartments is an assisted living facility in Minneapolis, MN at 1510 11th Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/augustana-apartments-minneapolis/
+11. Runnstone Senior Living | trust 3.0 | Runnstone Senior Living is an assisted living facility in Minneapolis, MN at 1509 10th Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/runnstone-senior-living-minneapolis/
+12. Bi Di Gain Dash Anwebi Elder Housing | trust 0.0 | Bi Di Gain Dash Anwebi Elder Housing is an assisted living facility in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/bi-di-gain-dash-anwebi-elder-housing-minneapolis/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

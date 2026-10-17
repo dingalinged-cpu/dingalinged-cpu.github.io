@@ -1,0 +1,58 @@
+{
+ "slug": "natalis-counseling-and-psychology-solutions-saint-paul",
+ "name": "Natalis Counseling & Psychology Solutions",
+ "categories": [
+  "therapist"
+ ],
+ "keywords": [
+  "therapist",
+  "therapist saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1600 University Avenue ##12",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55104",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55104",
+ "geo": {
+  "lat": 44.9554848,
+  "lon": -93.1684839
+ },
+ "phone": "+16513795157",
+ "website": "https://www.natalispsychology.com/",
+ "opening_hours": "Mo-We 07:30-19:00; Th 07:30-18:00; Fr 07:30-19:00; Sa 08:00-14:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7207235102",
+ "osm": {
+  "type": "node",
+  "id": 7207235102,
+  "tags_used": {
+   "healthcare": "psychotherapist",
+   "healthcare:speciality": "psychology"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/natalis-counseling-and-psychology-solutions-saint-paul/",
+ "summary": "Natalis Counseling & Psychology Solutions is a therapy practice in Saint Paul, MN at 1600 University Avenue ##12, Saint Paul, MN 55104. Phone: +16513795157. Website: https://www.natalispsychology.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

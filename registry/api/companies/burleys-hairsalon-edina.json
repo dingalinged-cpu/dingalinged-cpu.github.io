@@ -1,0 +1,57 @@
+{
+ "slug": "burleys-hairsalon-edina",
+ "name": "Burley's Hairsalon",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon edina mn",
+  "haircut edina mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8911171,
+  "lon": -93.3370798
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/488964811",
+ "osm": {
+  "type": "way",
+  "id": 488964811,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/burleys-hairsalon-edina/",
+ "summary": "Burley's Hairsalon is a hair salon in Edina, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "consignment-store-saint-paul",
+ "name": "Consignment Store",
+ "categories": [
+  "thrift store"
+ ],
+ "keywords": [
+  "thrift store",
+  "thrift store saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "thrift store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1412 Arcade Street",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9840202,
+  "lon": -93.0657939
+ },
+ "opening_hours": "Mo-Tu,Th 11:00-16:00; We,Fr off; Sa-Su 11:00-17:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/605096313",
+ "osm": {
+  "type": "way",
+  "id": 605096313,
+  "tags_used": {
+   "shop": "second_hand"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/consignment-store-saint-paul/",
+ "summary": "Consignment Store is a thrift store in Saint Paul, MN at 1412 Arcade Street, Saint Paul, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

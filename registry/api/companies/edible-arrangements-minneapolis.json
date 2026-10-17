@@ -1,0 +1,57 @@
+{
+ "slug": "edible-arrangements-minneapolis",
+ "name": "Edible Arrangements",
+ "categories": [
+  "gift shop"
+ ],
+ "keywords": [
+  "gift shop",
+  "gift shop minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "gift shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "108 South 8th Street #103",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9753354,
+  "lon": -93.2712714
+ },
+ "phone": "+16124361152",
+ "website": "https://www.ediblearrangements.com/stores/108-8th-street-south-suite-103-minneapolis-mn-55402",
+ "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-15:00",
+ "brand": "Edible Arrangements",
+ "wikidata": "Q5337996",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12569712436",
+ "osm": {
+  "type": "node",
+  "id": 12569712436,
+  "tags_used": {
+   "shop": "gift"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-minneapolis/",
+ "summary": "Edible Arrangements is a gift shop in Minneapolis, MN at 108 South 8th Street #103, Minneapolis, MN. Phone: +16124361152. Website: https://www.ediblearrangements.com/stores/108-8th-street-south-suite-103-minneapolis-mn-55402.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

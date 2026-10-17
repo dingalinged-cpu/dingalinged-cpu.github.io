@@ -1,0 +1,93 @@
+{
+ "keyword": "tailor eagan mn",
+ "slug": "tailor-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "tailor",
+ "query": "Who are the best tailor providers in Eagan, MN?",
+ "matches": [
+  "tailor in Eagan, MN",
+  "tailor near me (Eagan, MN)",
+  "best tailor Eagan, MN",
+  "top rated tailor Eagan, MN",
+  "affordable tailor Eagan, MN",
+  "emergency tailor Eagan, MN"
+ ],
+ "answer": "The top unpaid tailor listing for Eagan, MN is 3 in 1 (a tailor in Eagan, MN at 1436 Yankee Doodle Road, Eagan, MN 55121. Phone: +16516880790. Website: https://www.threein1.com/). 2 tailor businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "3-in-1-eagan",
+   "name": "3 in 1",
+   "summary": "3 in 1 is a tailor in Eagan, MN at 1436 Yankee Doodle Road, Eagan, MN 55121. Phone: +16516880790. Website: https://www.threein1.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/3-in-1-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/3-in-1-eagan.json",
+   "address": {
+    "streetAddress": "1436 Yankee Doodle Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8328871,
+    "lon": -93.170074
+   },
+   "phone": "+16516880790",
+   "website": "https://www.threein1.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00, Sa 11:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12107180052",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "vics-tailor-eagan",
+   "name": "Vic's Tailor",
+   "summary": "Vic's Tailor is a tailor in Eagan, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vics-tailor-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vics-tailor-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7932979,
+    "lon": -93.2052985
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13143516549",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

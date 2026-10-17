@@ -1,0 +1,1104 @@
+{
+ "keyword": "yoga classes",
+ "slug": "yoga-classes",
+ "place": "the United States",
+ "service": "yoga classes",
+ "query": "Who are the best yoga classes providers in the United States?",
+ "matches": [
+  "yoga classes in the United States",
+  "yoga classes near me (the United States)",
+  "best yoga classes the United States",
+  "top rated yoga classes the United States",
+  "affordable yoga classes the United States",
+  "emergency yoga classes the United States"
+ ],
+ "answer": "The top unpaid yoga classes listing for the United States is BKS Lyengar Yoga Center (a yoga studio in Minneapolis, MN at 2736 Lyndale Avenue South ##B, Minneapolis, MN 55405. Phone: +16128728708. Website: https://www.iyengaryogampls.com/). 33 yoga classes businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bks-lyengar-yoga-center-minneapolis",
+   "name": "BKS Lyengar Yoga Center",
+   "summary": "BKS Lyengar Yoga Center is a yoga studio in Minneapolis, MN at 2736 Lyndale Avenue South ##B, Minneapolis, MN 55405. Phone: +16128728708. Website: https://www.iyengaryogampls.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bks-lyengar-yoga-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bks-lyengar-yoga-center-minneapolis.json",
+   "address": {
+    "streetAddress": "2736 Lyndale Avenue South ##B",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9526957,
+    "lon": -93.2883305
+   },
+   "phone": "+16128728708",
+   "website": "https://www.iyengaryogampls.com/",
+   "opening_hours": "\"Scheduled classes\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5288532780",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "carpe-diem-saint-paul",
+   "name": "Carpe Diem",
+   "summary": "Carpe Diem is a yoga studio in Saint Paul, MN at 2290 Como Avenue, Saint Paul, MN 55108. Phone: +16513486216. Website: https://carpediemyogastudio.com/como-ave.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carpe-diem-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carpe-diem-saint-paul.json",
+   "address": {
+    "streetAddress": "2290 Como Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9818767,
+    "lon": -93.1957196
+   },
+   "phone": "+16513486216",
+   "website": "https://carpediemyogastudio.com/como-ave",
+   "opening_hours": "09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/157489504",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "element-gym-saint-paul",
+   "name": "Element Gym",
+   "summary": "Element Gym is a yoga studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +18884156626. Website: https://www.elementgym.org/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/element-gym-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/element-gym-saint-paul.json",
+   "address": {
+    "streetAddress": "655 Fairview Avenue North",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9609838,
+    "lon": -93.1789561
+   },
+   "phone": "+18884156626",
+   "website": "https://www.elementgym.org/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196444429",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-yoga-rooms-edina",
+   "name": "The Yoga Rooms",
+   "summary": "The Yoga Rooms is a yoga studio in Edina, MN at 4500 France Avenue South, Edina, MN 55424. Phone: +16123513838. Website: https://www.theyogarooms.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-yoga-rooms-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-yoga-rooms-edina.json",
+   "address": {
+    "streetAddress": "4500 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9216563,
+    "lon": -93.3293063
+   },
+   "phone": "+16123513838",
+   "website": "https://www.theyogarooms.com/",
+   "opening_hours": "Mo-Su 05:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12125813311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "minneapolis-bouldering-project-minneapolis",
+   "name": "Minneapolis Bouldering Project",
+   "summary": "Minneapolis Bouldering Project is a yoga studio in Minneapolis, MN at 1433 West River Road North, Minneapolis, MN. Phone: +16123082800. Website: https://minneapolisboulderingproject.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minneapolis-bouldering-project-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-bouldering-project-minneapolis.json",
+   "address": {
+    "streetAddress": "1433 West River Road North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9935108,
+    "lon": -93.2775269
+   },
+   "phone": "+16123082800",
+   "website": "https://minneapolisboulderingproject.com/",
+   "opening_hours": "Mo-Fr 06:00-23:00; Sa,Su 07:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752714903",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "radiant-life-yoga-minneapolis",
+   "name": "Radiant Life Yoga",
+   "summary": "Radiant Life Yoga is a yoga studio in Minneapolis, MN at 2657 Dupont Avenue South, Minneapolis, MN. Phone: +16128458175. Website: https://www.radiantlifeyoga.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/radiant-life-yoga-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/radiant-life-yoga-minneapolis.json",
+   "address": {
+    "streetAddress": "2657 Dupont Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9539282,
+    "lon": -93.2930177
+   },
+   "phone": "+16128458175",
+   "website": "https://www.radiantlifeyoga.com/",
+   "opening_hours": "Mo-Fr 18:00-19:15; Sa 08:00-08:45,17:00-18:15; Su 17:00-18:15",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4967175691",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "blooma-minneapolis",
+   "name": "Blooma",
+   "summary": "Blooma is a yoga studio in Minneapolis, MN at 5315 Lyndale Avenue South, Minneapolis, MN 55419. Phone: +16122238064. Website: https://blooma.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blooma-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blooma-minneapolis.json",
+   "address": {
+    "streetAddress": "5315 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9060663,
+    "lon": -93.2876742
+   },
+   "phone": "+16122238064",
+   "website": "https://blooma.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13627997056",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "corepower-yoga-saint-louis-park",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Saint Louis Park, MN at 4611 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16129229261. Website: https://www.corepoweryoga.com/yoga-studios/minnesota/st-louis-park/st-louis-park.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4611 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9333809,
+    "lon": -93.3384253
+   },
+   "phone": "+16129229261",
+   "website": "https://www.corepoweryoga.com/yoga-studios/minnesota/st-louis-park/st-louis-park",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "fly-freak-studio-saint-paul",
+   "name": "Fly Freak Studio",
+   "summary": "Fly Freak Studio is a yoga studio in Saint Paul, MN at 755 North Prior Avenue #239, Saint Paul, MN 55104. Phone: +16519001636. Website: https://www.flyfreakstudio.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fly-freak-studio-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fly-freak-studio-saint-paul.json",
+   "address": {
+    "streetAddress": "755 North Prior Avenue #239",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9651307,
+    "lon": -93.1828167
+   },
+   "phone": "+16519001636",
+   "website": "https://www.flyfreakstudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11904495604",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "modo-yoga-minneapolis",
+   "name": "Modo Yoga",
+   "summary": "Modo Yoga is a yoga studio in Minneapolis, MN at 3252B Lake Street West, Minneapolis, MN 55416. Phone: +16129203004. Website: https://modoyoga.com/minneapolis/join/class-schedule/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/modo-yoga-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/modo-yoga-minneapolis.json",
+   "address": {
+    "streetAddress": "3252B Lake Street West",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9487928,
+    "lon": -93.3218491
+   },
+   "phone": "+16129203004",
+   "website": "https://modoyoga.com/minneapolis/join/class-schedule/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6701050776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "saint-paul-yoga-center-saint-paul",
+   "name": "Saint Paul Yoga Center",
+   "summary": "Saint Paul Yoga Center is a yoga studio in Saint Paul, MN at 1162 Selby Avenue, Saint Paul, MN 55104. Phone: +16516464656. Website: https://www.stpaulyogacenter.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-paul-yoga-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-paul-yoga-center-saint-paul.json",
+   "address": {
+    "streetAddress": "1162 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9464986,
+    "lon": -93.1494018
+   },
+   "phone": "+16516464656",
+   "website": "https://www.stpaulyogacenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3122948656",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "sunna-minneapolis",
+   "name": "Sunna",
+   "summary": "Sunna is a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, Minneapolis, MN 55414. Phone: +16124171991. Website: https://www.spacesunna.com/.",
+   "categories": [
+    "pilates"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunna-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunna-minneapolis.json",
+   "address": {
+    "streetAddress": "514 Southeast 2nd Street #105",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9831143,
+    "lon": -93.249947
+   },
+   "phone": "+16124171991",
+   "website": "https://www.spacesunna.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13644296199",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "yogafit-edina",
+   "name": "YogaFit",
+   "summary": "YogaFit is a yoga studio in Edina, MN at 4507 France Avenue South, Edina, MN 55410. Phone: +16124441991. Website: https://www.yogafitstudios.com/studios/linden-hills.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yogafit-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yogafit-edina.json",
+   "address": {
+    "streetAddress": "4507 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9211629,
+    "lon": -93.3286114
+   },
+   "phone": "+16124441991",
+   "website": "https://www.yogafitstudios.com/studios/linden-hills",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1308726159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "corepower-yoga-roseville",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Roseville, MN at 2480 Fairview Avenue North #155, Roseville, MN. Phone: +16514194544. Website: https://www.corepoweryoga.com/yoga-studios/mn/twin-cities/rosedale.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-roseville.json",
+   "address": {
+    "streetAddress": "2480 Fairview Avenue North #155",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0164977,
+    "lon": -93.1742164
+   },
+   "phone": "+16514194544",
+   "website": "https://www.corepoweryoga.com/yoga-studios/mn/twin-cities/rosedale",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6550533160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "motion-city-new-brighton",
+   "name": "Motion City",
+   "summary": "Motion City is a martial arts school in New Brighton, MN at 550 County Road D West #2, New Brighton, MN. Phone: +16124660616. Website: https://motioncitybjj.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/motion-city-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/motion-city-new-brighton.json",
+   "address": {
+    "streetAddress": "550 County Road D West #2",
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0362331,
+    "lon": -93.1941964
+   },
+   "phone": "+16124660616",
+   "website": "https://motioncitybjj.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12960401416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "ymca-minneapolis",
+   "name": "YMCA",
+   "summary": "YMCA is a yoga studio in Minneapolis, MN at 651 Nicollet Mall #300, Minneapolis, MN 55402. Website: https://www.ymcanorth.org/locations/dayton_y.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ymca-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ymca-minneapolis.json",
+   "address": {
+    "streetAddress": "651 Nicollet Mall #300",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55402",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55402",
+   "geo": {
+    "lat": 44.9775854,
+    "lon": -93.2713333
+   },
+   "website": "https://www.ymcanorth.org/locations/dayton_y",
+   "opening_hours": "Mo-Th 05:30-20:00; Fr 05:30-19:00; Sa 07:00-15:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5646457667",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "corepower-yoga-saint-paul",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Saint Paul, MN. Phone: +16512251096. Website: https://www.corepoweryoga.com/yoga-studios/minnesota/st-paul/grand-avenuest-paul.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9401865,
+    "lon": -93.1367544
+   },
+   "phone": "+16512251096",
+   "website": "https://www.corepoweryoga.com/yoga-studios/minnesota/st-paul/grand-avenuest-paul",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2678264819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "612-jungle-minneapolis",
+   "name": "612 Jungle",
+   "summary": "612 Jungle is a yoga studio in Minneapolis, MN at 2905 Garfield Avenue, Minneapolis, MN 55408. Website: https://www.612jungle.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/612-jungle-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/612-jungle-minneapolis.json",
+   "address": {
+    "streetAddress": "2905 Garfield Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.949942,
+    "lon": -93.286624
+   },
+   "website": "https://www.612jungle.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13641972730",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "open-minds-fusion-studio-minneapolis",
+   "name": "Open Minds Fusion Studio",
+   "summary": "Open Minds Fusion Studio is a yoga studio in Minneapolis, MN at 515 West Lake Street, Minneapolis, MN 55408. Website: https://www.openmindsfusionstudio.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/open-minds-fusion-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/open-minds-fusion-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "515 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9480533,
+    "lon": -93.2863456
+   },
+   "website": "https://www.openmindsfusionstudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334114486",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "shakra-yoga-and-fitness-shakopee",
+   "name": "ShakRa Yoga & Fitness",
+   "summary": "ShakRa Yoga & Fitness is a yoga studio in Shakopee, MN at 110 1/2 1st Avenue East, Shakopee, MN 55379. Website: https://shakrayoga.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shakra-yoga-and-fitness-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shakra-yoga-and-fitness-shakopee.json",
+   "address": {
+    "streetAddress": "110 1/2 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7984938,
+    "lon": -93.5262664
+   },
+   "website": "https://shakrayoga.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024231937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "tula-yoga-and-wellness-saint-paul",
+   "name": "Tula Yoga & Wellness",
+   "summary": "Tula Yoga & Wellness is a yoga studio in Saint Paul, MN at 99 Snelling Avenue, Saint Paul, MN 55104. Website: https://www.tulayogawellness.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tula-yoga-and-wellness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tula-yoga-and-wellness-saint-paul.json",
+   "address": {
+    "streetAddress": "99 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.944444,
+    "lon": -93.1674829
+   },
+   "website": "https://www.tulayogawellness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/832399835",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "yogafit-minneapolis",
+   "name": "YogaFit",
+   "summary": "YogaFit is a yoga studio in Minneapolis, MN at 520 Northeast 1st Avenue, Minneapolis, MN. Website: https://yogafitstudios.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yogafit-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yogafit-minneapolis.json",
+   "address": {
+    "streetAddress": "520 Northeast 1st Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9902497,
+    "lon": -93.252904
+   },
+   "website": "https://yogafitstudios.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6773414139",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "corepower-yoga-minneapolis",
+   "name": "CorePower Yoga",
+   "summary": "CorePower Yoga is a yoga studio in Minneapolis, MN at 945 Northeast Broadway Street, Minneapolis, MN 55413.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corepower-yoga-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corepower-yoga-minneapolis.json",
+   "address": {
+    "streetAddress": "945 Northeast Broadway Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 44.9992556,
+    "lon": -93.2465584
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9804335898",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "green-lotus-yoga-and-healing-eden-prairie",
+   "name": "Green Lotus Yoga & Healing",
+   "summary": "Green Lotus Yoga & Healing is a yoga studio in Eden Prairie, MN at 7942 Mitchell Road, Eden Prairie, MN 55344.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-lotus-yoga-and-healing-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-lotus-yoga-and-healing-eden-prairie.json",
+   "address": {
+    "streetAddress": "7942 Mitchell Road",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8597251,
+    "lon": -93.4607963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11686430901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "mind-body-solutions-saint-louis-park",
+   "name": "Mind Body Solutions",
+   "summary": "Mind Body Solutions is a yoga studio in Saint Louis Park, MN at 4212 Park Glen Road, Saint Louis Park, MN 55416.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mind-body-solutions-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mind-body-solutions-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4212 Park Glen Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9449827,
+    "lon": -93.3308906
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13538407917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "movement-arts-center-minneapolis",
+   "name": "Movement Arts Center",
+   "summary": "Movement Arts Center is a martial arts school in Minneapolis, MN at 2209 East Franklin Avenue, Minneapolis, MN 55404.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/movement-arts-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/movement-arts-center-minneapolis.json",
+   "address": {
+    "streetAddress": "2209 East Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.962579,
+    "lon": -93.240286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/66823281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "onx-amelia-saint-paul",
+   "name": "Onx + Amelia",
+   "summary": "Onx + Amelia is a yoga studio in Saint Paul, MN.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/onx-amelia-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/onx-amelia-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9463573,
+    "lon": -93.1180202
+   },
+   "opening_hours": "Mo-Th 08:30-13:30,14:30-21:00; Fr 08:30-13:30,14:30-17:00; Sa 07:00-14:00; Su 08:30-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818365705",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "the-yoga-center-retreat-saint-louis-park",
+   "name": "The Yoga Center Retreat",
+   "summary": "The Yoga Center Retreat is a yoga studio in Saint Louis Park, MN at 4212 Park Glen Road, Saint Louis Park, MN 55416.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-yoga-center-retreat-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-yoga-center-retreat-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4212 Park Glen Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9449847,
+    "lon": -93.3307938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13538407916",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "yogafit-minneapolis-n10104612819",
+   "name": "YogaFit",
+   "summary": "YogaFit is a yoga studio in Minneapolis, MN at 1461 West Lake Street, Minneapolis, MN 55408.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yogafit-minneapolis-n10104612819/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yogafit-minneapolis-n10104612819.json",
+   "address": {
+    "streetAddress": "1461 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482135,
+    "lon": -93.300134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10104612819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "yess-yoga-minneapolis",
+   "name": "Yess Yoga",
+   "summary": "Yess Yoga is a yoga studio in Minneapolis, MN at 105 East 26th Street, Minneapolis, MN.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yess-yoga-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yess-yoga-minneapolis.json",
+   "address": {
+    "streetAddress": "105 East 26th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9553555,
+    "lon": -93.2764001
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1189538407",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "big-river-yoga-minneapolis",
+   "name": "Big River Yoga",
+   "summary": "Big River Yoga is a yoga studio in Minneapolis, MN.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-river-yoga-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-river-yoga-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9575402,
+    "lon": -93.2226209
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3608220226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "fit-lab-falcon-heights",
+   "name": "FIT Lab",
+   "summary": "FIT Lab is a yoga studio in Falcon Heights, MN.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fit-lab-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fit-lab-falcon-heights.json",
+   "address": {
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9889955,
+    "lon": -93.1568741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7393192843",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "md-wellness-brooklyn-park",
+   "name": "MD Wellness",
+   "summary": "MD Wellness is a yoga studio in Brooklyn Park, MN.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/md-wellness-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/md-wellness-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1094191,
+    "lon": -93.3075484
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8147867921",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

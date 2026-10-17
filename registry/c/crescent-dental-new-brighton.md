@@ -1,0 +1,23 @@
+Crescent Dental is a dentist in New Brighton, MN at 2611 Innsbruck Drive #Suite A, New Brighton, MN 55112. Phone: +17635714837. Website: https://crescentdentalmn.com/.
+
+# Crescent Dental
+
+- Category: dentist
+- Services: dentist
+- Address: 2611 Innsbruck Drive #Suite A, New Brighton, MN 55112
+- City: New Brighton
+- State: MN
+- ZIP: 55112
+- Coordinates: 45.0674994, -93.2201788
+- Phone: +17635714837
+- Website: https://crescentdentalmn.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 07:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/crescent-dental-new-brighton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crescent-dental-new-brighton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11944869727 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

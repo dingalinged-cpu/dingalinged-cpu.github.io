@@ -1,0 +1,58 @@
+{
+ "keyword": "tax preparer brooklyn park mn",
+ "slug": "tax-preparer-brooklyn-park-mn",
+ "place": "Brooklyn Park, MN",
+ "service": "tax preparer",
+ "query": "Who are the best tax preparer providers in Brooklyn Park, MN?",
+ "matches": [
+  "tax preparer in Brooklyn Park, MN",
+  "tax preparer near me (Brooklyn Park, MN)",
+  "best tax preparer Brooklyn Park, MN",
+  "top rated tax preparer Brooklyn Park, MN",
+  "affordable tax preparer Brooklyn Park, MN",
+  "emergency tax preparer Brooklyn Park, MN"
+ ],
+ "answer": "The top unpaid tax preparer listing for Brooklyn Park, MN is Jackson Hewitt (a tax preparation service in Brooklyn Park, MN). 1 tax preparer businesses are listed for Brooklyn Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "jackson-hewitt-brooklyn-park",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Brooklyn Park, MN.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1093003,
+    "lon": -93.3068452
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8140445003",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

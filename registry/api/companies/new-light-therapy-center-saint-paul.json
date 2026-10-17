@@ -1,0 +1,57 @@
+{
+ "slug": "new-light-therapy-center-saint-paul",
+ "name": "New Light Therapy Center",
+ "categories": [
+  "acupuncture"
+ ],
+ "keywords": [
+  "acupuncture",
+  "acupuncture saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "acupuncture",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2375 University Avenue West",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.9641124,
+  "lon": -93.1968592
+ },
+ "phone": "+16124344928",
+ "website": "https://places.singleplatform.com/new-light-therapy-center/menu",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7147781053",
+ "osm": {
+  "type": "node",
+  "id": 7147781053,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "acupuncture"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/new-light-therapy-center-saint-paul/",
+ "summary": "New Light Therapy Center is an acupuncture clinic in Saint Paul, MN at 2375 University Avenue West, Saint Paul, MN 55114. Phone: +16124344928. Website: https://places.singleplatform.com/new-light-therapy-center/menu.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,694 @@
+{
+ "keyword": "real estate agent minneapolis mn",
+ "slug": "real-estate-agent-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "real estate agent",
+ "query": "Who are the best real estate agent providers in Minneapolis, MN?",
+ "matches": [
+  "real estate agent in Minneapolis, MN",
+  "real estate agent near me (Minneapolis, MN)",
+  "best real estate agent Minneapolis, MN",
+  "top rated real estate agent Minneapolis, MN",
+  "affordable real estate agent Minneapolis, MN",
+  "emergency real estate agent Minneapolis, MN"
+ ],
+ "answer": "The top unpaid real estate agent listing for Minneapolis, MN is Whetstone Land (a real estate agency in Minneapolis, MN at 5123 West 98th Street, Minneapolis, MN 55437. Phone: +17043255263. Website: https://whetstoneland.com/). 21 real estate agent businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "whetstone-land-minneapolis",
+   "name": "Whetstone Land",
+   "summary": "Whetstone Land is a real estate agency in Minneapolis, MN at 5123 West 98th Street, Minneapolis, MN 55437. Phone: +17043255263. Website: https://whetstoneland.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/whetstone-land-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/whetstone-land-minneapolis.json",
+   "address": {
+    "streetAddress": "5123 West 98th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55437",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55437",
+   "geo": {
+    "lat": 44.8243539,
+    "lon": -93.3470781
+   },
+   "phone": "+17043255263",
+   "website": "https://whetstoneland.com/",
+   "opening_hours": "Mo - Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11434342042",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "direct-access-realty-llc-minneapolis",
+   "name": "Direct Access Realty LLC",
+   "summary": "Direct Access Realty LLC is a real estate agency in Minneapolis, MN at 2727 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16126888888. Website: https://directaccessrealty.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/direct-access-realty-llc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/direct-access-realty-llc-minneapolis.json",
+   "address": {
+    "streetAddress": "2727 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9527575,
+    "lon": -93.2774343
+   },
+   "phone": "+16126888888",
+   "website": "https://directaccessrealty.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4621509978",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "gold-group-realty-minneapolis",
+   "name": "Gold Group Realty",
+   "summary": "Gold Group Realty is a real estate agency in Minneapolis, MN at 1515 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16125673123. Website: https://www.thegold.group/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gold-group-realty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gold-group-realty-minneapolis.json",
+   "address": {
+    "streetAddress": "1515 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9806815,
+    "lon": -93.2999673
+   },
+   "phone": "+16125673123",
+   "website": "https://www.thegold.group/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/988133088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "hartley-properties-minneapolis",
+   "name": "Hartley Properties",
+   "summary": "Hartley Properties is a real estate agency in Minneapolis, MN at 1414 3rd Street South, Minneapolis, MN 55454. Phone: +16126730198. Website: https://www.hartleyproperties.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hartley-properties-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hartley-properties-minneapolis.json",
+   "address": {
+    "streetAddress": "1414 3rd Street South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55454",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55454",
+   "geo": {
+    "lat": 44.9724941,
+    "lon": -93.2490672
+   },
+   "phone": "+16126730198",
+   "website": "https://www.hartleyproperties.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453554565",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "sylvia-i-anderson-realty-minneapolis",
+   "name": "Sylvia I. Anderson Realty",
+   "summary": "Sylvia I. Anderson Realty is a real estate agency in Minneapolis, MN at 4023 East Lake Street, Minneapolis, MN 55406. Phone: +16128863603. Website: https://andersonrealtymn.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sylvia-i-anderson-realty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sylvia-i-anderson-realty-minneapolis.json",
+   "address": {
+    "streetAddress": "4023 East Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9481573,
+    "lon": -93.2142332
+   },
+   "phone": "+16128863603",
+   "website": "https://andersonrealtymn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/403118290",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "re-max-minneapolis",
+   "name": "RE/MAX",
+   "summary": "RE/MAX is a real estate agency in Minneapolis, MN at 1609, Minneapolis, MN. Phone: +16123141520. Website: https://results.net/offices/minneapolis-loring-park/99.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-minneapolis.json",
+   "address": {
+    "streetAddress": "1609",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9722242,
+    "lon": -93.2859211
+   },
+   "phone": "+16123141520",
+   "website": "https://results.net/offices/minneapolis-loring-park/99",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1352475557",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "al-theisen-renovations-minneapolis",
+   "name": "Al Theisen Renovations",
+   "summary": "Al Theisen Renovations is a real estate agency in Minneapolis, MN at 5005 Penn Avenue South, Minneapolis, MN 55419. Website: https://www.altheisenrenovations.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/al-theisen-renovations-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/al-theisen-renovations-minneapolis.json",
+   "address": {
+    "streetAddress": "5005 Penn Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.912143,
+    "lon": -93.3085243
+   },
+   "website": "https://www.altheisenrenovations.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3534446600",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "eagle-nesters-realty-minneapolis",
+   "name": "Eagle Nesters Realty",
+   "summary": "Eagle Nesters Realty is a real estate agency in Minneapolis, MN at 1533 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16128661916.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eagle-nesters-realty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eagle-nesters-realty-minneapolis.json",
+   "address": {
+    "streetAddress": "1533 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9806746,
+    "lon": -93.3006966
+   },
+   "phone": "+16128661916",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/988133094",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "edina-realty-minneapolis",
+   "name": "Edina Realty",
+   "summary": "Edina Realty is a real estate agency in Minneapolis, MN at 4999 France Avenue South #250, Minneapolis, MN 55410. Website: https://www.edinarealty.com/office/edina-50th-and-france.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-realty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-realty-minneapolis.json",
+   "address": {
+    "streetAddress": "4999 France Avenue South #250",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9127543,
+    "lon": -93.3288484
+   },
+   "website": "https://www.edinarealty.com/office/edina-50th-and-france",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088884",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "uptown-realty-and-management-minneapolis",
+   "name": "Uptown Realty & Management",
+   "summary": "Uptown Realty & Management is a real estate agency in Minneapolis, MN at 2431 Lyndale Avenue South, Minneapolis, MN 55405. Website: https://www.uptownre.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uptown-realty-and-management-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uptown-realty-and-management-minneapolis.json",
+   "address": {
+    "streetAddress": "2431 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9582119,
+    "lon": -93.287571
+   },
+   "website": "https://www.uptownre.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287946358",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "rubicon-mortgage-advisors-minneapolis",
+   "name": "Rubicon Mortgage Advisors",
+   "summary": "Rubicon Mortgage Advisors is a real estate agency in Minneapolis, MN at 1300 Lagoon Avenue, Minneapolis, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rubicon-mortgage-advisors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rubicon-mortgage-advisors-minneapolis.json",
+   "address": {
+    "streetAddress": "1300 Lagoon Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9493798,
+    "lon": -93.2962855
+   },
+   "opening_hours": "Mo-Fr 9:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/771701509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "dca-title-minneapolis",
+   "name": "DCA Title",
+   "summary": "DCA Title is a real estate agency in Minneapolis, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dca-title-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dca-title-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9493824,
+    "lon": -93.2964332
+   },
+   "opening_hours": "Mo-Fr 8:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/771701351",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "lakes-area-reality-minneapolis",
+   "name": "Lakes Area Reality",
+   "summary": "Lakes Area Reality is a real estate agency in Minneapolis, MN at 1428 West 28th Street, Minneapolis, MN 55408.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakes-area-reality-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakes-area-reality-minneapolis.json",
+   "address": {
+    "streetAddress": "1428 West 28th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9521844,
+    "lon": -93.298817
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6816242125",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "living-life-realty-minneapolis",
+   "name": "Living Life Realty",
+   "summary": "Living Life Realty is a real estate agency in Minneapolis, MN at 4302 Upton Avenue South #5, Minneapolis, MN 55410.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/living-life-realty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/living-life-realty-minneapolis.json",
+   "address": {
+    "streetAddress": "4302 Upton Avenue South #5",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9244243,
+    "lon": -93.3149395
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12983526462",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "molina-realtors-minneapolis",
+   "name": "Molina Realtors",
+   "summary": "Molina Realtors is a real estate agency in Minneapolis, MN at 507 East Lake Street, Minneapolis, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/molina-realtors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/molina-realtors-minneapolis.json",
+   "address": {
+    "streetAddress": "507 East Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482273,
+    "lon": -93.2686346
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626237164",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "ps-real-estate-minneapolis",
+   "name": "PS Real Estate",
+   "summary": "PS Real Estate is a real estate agency in Minneapolis, MN at 2254 Northeast Johnson Street, Minneapolis, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ps-real-estate-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ps-real-estate-minneapolis.json",
+   "address": {
+    "streetAddress": "2254 Northeast Johnson Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0202779,
+    "lon": -93.2372877
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13206816403",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "engel-and-v-lkers-minneapolis",
+   "name": "Engel & Völkers",
+   "summary": "Engel & Völkers is a real estate agency in Minneapolis, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/engel-and-v-lkers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/engel-and-v-lkers-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9724073,
+    "lon": -93.2855984
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12513647698",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "greco-minneapolis",
+   "name": "Greco",
+   "summary": "Greco is a real estate agency in Minneapolis, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greco-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greco-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9872229,
+    "lon": -93.2766641
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626360278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "keller-williams-realty-minneapolis",
+   "name": "Keller Williams Realty",
+   "summary": "Keller Williams Realty is a real estate agency in Minneapolis, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/keller-williams-realty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/keller-williams-realty-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9493815,
+    "lon": -93.2963523
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/771701483",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "michael-sharp-realty-minneapolis",
+   "name": "Michael Sharp Realty",
+   "summary": "Michael Sharp Realty is a real estate agency in Minneapolis, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/michael-sharp-realty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/michael-sharp-realty-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9845671,
+    "lon": -93.2552431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1077152731",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "sandy-green-realty-minneapolis",
+   "name": "Sandy Green Realty",
+   "summary": "Sandy Green Realty is a real estate agency in Minneapolis, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sandy-green-realty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sandy-green-realty-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0099367,
+    "lon": -93.2815343
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13739129190",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

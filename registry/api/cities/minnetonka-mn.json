@@ -1,0 +1,2255 @@
+{
+ "place": "Minnetonka, MN",
+ "slug": "minnetonka-mn",
+ "count": 71,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "acupuncture minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/acupuncture-minnetonka-mn.json"
+  },
+  {
+   "keyword": "architect minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/architect-minnetonka-mn.json"
+  },
+  {
+   "keyword": "assisted living minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-minnetonka-mn.json"
+  },
+  {
+   "keyword": "attorney minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-minnetonka-mn.json"
+  },
+  {
+   "keyword": "auto repair minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-minnetonka-mn.json"
+  },
+  {
+   "keyword": "bakery minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-minnetonka-mn.json"
+  },
+  {
+   "keyword": "bike shop minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-minnetonka-mn.json"
+  },
+  {
+   "keyword": "car wash minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-minnetonka-mn.json"
+  },
+  {
+   "keyword": "chiropractor minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-minnetonka-mn.json"
+  },
+  {
+   "keyword": "computer repair minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/computer-repair-minnetonka-mn.json"
+  },
+  {
+   "keyword": "dentist minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-minnetonka-mn.json"
+  },
+  {
+   "keyword": "dog boarding minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-minnetonka-mn.json"
+  },
+  {
+   "keyword": "dry cleaners minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-minnetonka-mn.json"
+  },
+  {
+   "keyword": "gift shop minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-minnetonka-mn.json"
+  },
+  {
+   "keyword": "gym minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-minnetonka-mn.json"
+  },
+  {
+   "keyword": "hair salon minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-minnetonka-mn.json"
+  },
+  {
+   "keyword": "haircut minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-minnetonka-mn.json"
+  },
+  {
+   "keyword": "heating and air minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-minnetonka-mn.json"
+  },
+  {
+   "keyword": "hvac repair minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-minnetonka-mn.json"
+  },
+  {
+   "keyword": "insurance agency minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-minnetonka-mn.json"
+  },
+  {
+   "keyword": "insurance agent minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-minnetonka-mn.json"
+  },
+  {
+   "keyword": "insurance agents minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-minnetonka-mn.json"
+  },
+  {
+   "keyword": "it support minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-minnetonka-mn.json"
+  },
+  {
+   "keyword": "jewelry store minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-minnetonka-mn.json"
+  },
+  {
+   "keyword": "lawyer minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-minnetonka-mn.json"
+  },
+  {
+   "keyword": "liquor store minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-minnetonka-mn.json"
+  },
+  {
+   "keyword": "massage minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-minnetonka-mn.json"
+  },
+  {
+   "keyword": "mechanic minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-minnetonka-mn.json"
+  },
+  {
+   "keyword": "music lessons minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-minnetonka-mn.json"
+  },
+  {
+   "keyword": "nail salon minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-minnetonka-mn.json"
+  },
+  {
+   "keyword": "oil change minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-minnetonka-mn.json"
+  },
+  {
+   "keyword": "pet store minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-minnetonka-mn.json"
+  },
+  {
+   "keyword": "phone repair minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-minnetonka-mn.json"
+  },
+  {
+   "keyword": "pilates minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pilates-minnetonka-mn.json"
+  },
+  {
+   "keyword": "preschool minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-minnetonka-mn.json"
+  },
+  {
+   "keyword": "printing services minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-minnetonka-mn.json"
+  },
+  {
+   "keyword": "real estate agent minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-minnetonka-mn.json"
+  },
+  {
+   "keyword": "realtor minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-minnetonka-mn.json"
+  },
+  {
+   "keyword": "roofer minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-minnetonka-mn.json"
+  },
+  {
+   "keyword": "roofing contractor minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-minnetonka-mn.json"
+  },
+  {
+   "keyword": "tailor minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-minnetonka-mn.json"
+  },
+  {
+   "keyword": "tanning salon minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-minnetonka-mn.json"
+  },
+  {
+   "keyword": "therapist minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-minnetonka-mn.json"
+  },
+  {
+   "keyword": "thrift store minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-minnetonka-mn.json"
+  },
+  {
+   "keyword": "tire shop minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-minnetonka-mn.json"
+  },
+  {
+   "keyword": "vet minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-minnetonka-mn.json"
+  },
+  {
+   "keyword": "windshield replacement minnetonka mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/windshield-replacement-minnetonka-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "anytime-fitness-minnetonka-n2140777249",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Minnetonka, MN at 11104 Cedar Lake Road, Minnetonka, MN 55305. Phone: +19525451000. Website: https://www.anytimefitness.com/gyms/57/minnetonka-mn-55305/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-minnetonka-n2140777249/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-minnetonka-n2140777249.json",
+   "address": {
+    "streetAddress": "11104 Cedar Lake Road",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.953182,
+    "lon": -93.419344
+   },
+   "phone": "+19525451000",
+   "website": "https://www.anytimefitness.com/gyms/57/minnetonka-mn-55305/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2140777249",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "arne-wellness-center-minnetonka",
+   "name": "Arne Wellness Center",
+   "summary": "Arne Wellness Center is a chiropractor in Minnetonka, MN at 13911 Ridgedale Drive #100A, Minnetonka, MN 55305. Phone: +19526973100. Website: https://www.arnewellness.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arne-wellness-center-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arne-wellness-center-minnetonka.json",
+   "address": {
+    "streetAddress": "13911 Ridgedale Drive #100A",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9701725,
+    "lon": -93.4557943
+   },
+   "phone": "+19526973100",
+   "website": "https://www.arnewellness.com/",
+   "opening_hours": "Tu-Th 11:00-19:00; Fr-Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6392906444",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ep-auto-tire-and-glass-minnetonka",
+   "name": "EP Auto, Tire & Glass",
+   "summary": "EP Auto, Tire & Glass is an auto repair shop in Minnetonka, MN at 13600 County Rd 62, Minnetonka, MN 55345. Phone: +19528889900. Website: https://lamettrysautotech.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ep-auto-tire-and-glass-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ep-auto-tire-and-glass-minnetonka.json",
+   "address": {
+    "streetAddress": "13600 County Rd 62",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.8929471,
+    "lon": -93.4524621
+   },
+   "phone": "+19528889900",
+   "website": "https://lamettrysautotech.com/",
+   "opening_hours": "Mo-Fr 07:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12560620918",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "eroof-minnetonka",
+   "name": "eRoof",
+   "summary": "eRoof is a roofer in Minnetonka, MN at 5909 Baker Road #570, Minnetonka, MN 55345. Phone: +16123544490. Website: https://eroofquote.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eroof-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eroof-minnetonka.json",
+   "address": {
+    "streetAddress": "5909 Baker Road #570",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.8973206,
+    "lon": -93.4462338
+   },
+   "phone": "+16123544490",
+   "website": "https://eroofquote.com/",
+   "opening_hours": "Mo-Fr 08:00-16:30; Sa,Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13018383910",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gianna-homes-minnetonka-minnetonka",
+   "name": "Gianna Homes - Minnetonka",
+   "summary": "Gianna Homes - Minnetonka is an assisted living facility in Minnetonka, MN at 4605 Fairhills Road East, Minnetonka, MN 55345. Phone: +19529880953. Website: https://giannahomes.org/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gianna-homes-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gianna-homes-minnetonka-minnetonka.json",
+   "address": {
+    "streetAddress": "4605 Fairhills Road East",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9195493,
+    "lon": -93.4801217
+   },
+   "phone": "+19529880953",
+   "website": "https://giannahomes.org/",
+   "opening_hours": "Mo-Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13903317994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-minnetonka",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Minnetonka, MN at 4761 County Road 101, Minnetonka, MN 55345. Phone: +19529330019. Website: https://salons.greatclips.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-minnetonka.json",
+   "address": {
+    "streetAddress": "4761 County Road 101",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9177663,
+    "lon": -93.5012173
+   },
+   "phone": "+19529330019",
+   "website": "https://salons.greatclips.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-17:00; Su 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/846233317",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jewel-nails-minnetonka",
+   "name": "Jewel Nails",
+   "summary": "Jewel Nails is a nail salon in Minnetonka, MN at 17516 Minnetonka Boulevard, Minnetonka, MN 55345. Phone: +19524493979. Website: https://thejewelnails.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jewel-nails-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jewel-nails-minnetonka.json",
+   "address": {
+    "streetAddress": "17516 Minnetonka Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9423176,
+    "lon": -93.5013708
+   },
+   "phone": "+19524493979",
+   "website": "https://thejewelnails.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11166456608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "meditech-minnetonka",
+   "name": "MEDITECH",
+   "summary": "MEDITECH is an IT support company in Minnetonka, MN at 5130 County Road 101, Minnetonka, MN 55345. Phone: +17818213000. Website: https://ehr.meditech.com/.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meditech-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meditech-minnetonka.json",
+   "address": {
+    "streetAddress": "5130 County Road 101",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9101683,
+    "lon": -93.5041078
+   },
+   "phone": "+17818213000",
+   "website": "https://ehr.meditech.com/",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/88146185",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "nrd-landscape-design-build-minnetonka",
+   "name": "NRD Landscape Design Build",
+   "summary": "NRD Landscape Design Build is an architect in Minnetonka, MN at 5100 Thimsen Avenue #230, Minnetonka, MN 55345. Phone: +19522122665. Website: https://nrdlandscape.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nrd-landscape-design-build-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nrd-landscape-design-build-minnetonka.json",
+   "address": {
+    "streetAddress": "5100 Thimsen Avenue #230",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9115537,
+    "lon": -93.5052296
+   },
+   "phone": "+19522122665",
+   "website": "https://nrdlandscape.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9620075315",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "theresia-a-crisler-attorney-at-law-minnetonka",
+   "name": "Theresia A. Crisler Attorney At Law",
+   "summary": "Theresia A. Crisler Attorney At Law is a lawyer in Minnetonka, MN at 10925 Wayzata Boulevard #304, Minnetonka, MN 55305. Phone: +19526575208. Website: https://tacrislerfamilyandprobatelaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/theresia-a-crisler-attorney-at-law-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/theresia-a-crisler-attorney-at-law-minnetonka.json",
+   "address": {
+    "streetAddress": "10925 Wayzata Boulevard #304",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9704863,
+    "lon": -93.4173476
+   },
+   "phone": "+19526575208",
+   "website": "https://tacrislerfamilyandprobatelaw.com/",
+   "opening_hours": "Mo-Fr 09:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11393565662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "veracity-technologies-minneapolis-it-services-minnetonka",
+   "name": "Veracity Technologies‎ - Minneapolis IT Services",
+   "summary": "Veracity Technologies‎ - Minneapolis IT Services is an IT support company in Minnetonka, MN at 5929 Baker Road #Suite 420, Minnetonka, MN 55345. Phone: +19525928076. Website: https://www.veracitytech.com/.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/veracity-technologies-minneapolis-it-services-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/veracity-technologies-minneapolis-it-services-minnetonka.json",
+   "address": {
+    "streetAddress": "5929 Baker Road #Suite 420",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.8961133,
+    "lon": -93.4464676
+   },
+   "phone": "+19525928076",
+   "website": "https://www.veracitytech.com/",
+   "opening_hours": "Mo-Fr 07:00 - 18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12488354253",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wild-birds-unlimited-minnetonka",
+   "name": "Wild Birds Unlimited",
+   "summary": "Wild Birds Unlimited is a pet store in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305. Phone: +19525259365. Website: https://minnetonka.wbu.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wild-birds-unlimited-minnetonka.json",
+   "address": {
+    "streetAddress": "11210 Wayzata Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9733861,
+    "lon": -93.4220736
+   },
+   "phone": "+19525259365",
+   "website": "https://minnetonka.wbu.com/",
+   "opening_hours": "Mo-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596814701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "yggdrasil-naturopathic-medicine-minnetonka",
+   "name": "Yggdrasil Naturopathic Medicine",
+   "summary": "Yggdrasil Naturopathic Medicine is a chiropractor in Minnetonka, MN at 14525 Highway 7 #Suite 375, Minnetonka, MN 55345. Phone: +19522954036. Website: https://www.yggdrasilnaturopathic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yggdrasil-naturopathic-medicine-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yggdrasil-naturopathic-medicine-minnetonka.json",
+   "address": {
+    "streetAddress": "14525 Highway 7 #Suite 375",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9214878,
+    "lon": -93.4656643
+   },
+   "phone": "+19522954036",
+   "website": "https://www.yggdrasilnaturopathic.com/",
+   "opening_hours": "Mo-Fr 10:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10057831737",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dan-frank-top-twin-cities-realtor-re-max-advantage-plus-minnetonka",
+   "name": "Dan Frank – Top Twin Cities Realtor | RE/MAX Advantage Plus",
+   "summary": "Dan Frank – Top Twin Cities Realtor | RE/MAX Advantage Plus is a real estate agency in Minnetonka, MN at 14451 Minnesota State Highway 7, Minnetonka, MN 55345. Phone: +16123149052. Website: https://www.searchmnhouses.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dan-frank-top-twin-cities-realtor-re-max-advantage-plus-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dan-frank-top-twin-cities-realtor-re-max-advantage-plus-minnetonka.json",
+   "address": {
+    "streetAddress": "14451 Minnesota State Highway 7",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9218906,
+    "lon": -93.464224
+   },
+   "phone": "+16123149052",
+   "website": "https://www.searchmnhouses.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12611673442",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "glen-lake-animal-hospital-minnetonka",
+   "name": "Glen Lake Animal Hospital",
+   "summary": "Glen Lake Animal Hospital is a veterinarian in Minnetonka, MN at 14805 Excelsior Boulevard, Minnetonka, MN 55345. Phone: +19529351232. Website: https://glenlakeanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glen-lake-animal-hospital-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glen-lake-animal-hospital-minnetonka.json",
+   "address": {
+    "streetAddress": "14805 Excelsior Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9029928,
+    "lon": -93.4675668
+   },
+   "phone": "+19529351232",
+   "website": "https://glenlakeanimalhospital.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13714742437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vogt-heating-air-conditioning-and-plumbing-minnetonka",
+   "name": "VOGT Heating, Air Conditioning & Plumbing",
+   "summary": "VOGT Heating, Air Conditioning & Plumbing is a HVAC contractor in Minnetonka, MN at 15612 Highway 7 Suite 333, Minnetonka, MN 55345. Phone: +19524666571. Website: https://www.vogtheating.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vogt-heating-air-conditioning-and-plumbing-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vogt-heating-air-conditioning-and-plumbing-minnetonka.json",
+   "address": {
+    "streetAddress": "15612 Highway 7 Suite 333",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9210951,
+    "lon": -93.4784719
+   },
+   "phone": "+19524666571",
+   "website": "https://www.vogtheating.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4046711113",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sakada-studios-minnetonka",
+   "name": "Sakada Studios",
+   "summary": "Sakada Studios is a hair salon in Minnetonka, MN at 14525 Minnesota State Highway 7 #120, Minnetonka, MN 55345. Phone: +19529389400.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sakada-studios-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sakada-studios-minnetonka.json",
+   "address": {
+    "streetAddress": "14525 Minnesota State Highway 7 #120",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9216678,
+    "lon": -93.4654921
+   },
+   "phone": "+19529389400",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12379274297",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "city-looks-minnetonka",
+   "name": "City Looks",
+   "summary": "City Looks is a hair salon in Minnetonka, MN at 13135 Ridgedale Drive, Minnetonka, MN 55305. Website: https://citylooksminnetonka.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-looks-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-looks-minnetonka.json",
+   "address": {
+    "streetAddress": "13135 Ridgedale Drive",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9683854,
+    "lon": -93.4467337
+   },
+   "website": "https://citylooksminnetonka.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482425093",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hypnoessence-minnetonka",
+   "name": "Hypnoessence",
+   "summary": "Hypnoessence is a therapy practice in Minnetonka, MN at 5025 Crown Street, Minnetonka, MN 55345. Website: https://hypnoessence.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hypnoessence-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hypnoessence-minnetonka.json",
+   "address": {
+    "streetAddress": "5025 Crown Street",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9121947,
+    "lon": -93.4549087
+   },
+   "website": "https://hypnoessence.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/238162909",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orangetheory-fitness-minnetonka",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Minnetonka, MN at 4703 County Road 101, Minnetonka, MN 55345. Phone: +19524449693.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-minnetonka.json",
+   "address": {
+    "streetAddress": "4703 County Road 101",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9182497,
+    "lon": -93.5024828
+   },
+   "phone": "+19524449693",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487971",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "minnehaven-barbers-minnetonka",
+   "name": "Minnehaven Barbers",
+   "summary": "Minnehaven Barbers is a hair salon in Minnetonka, MN at 3400, Minnetonka, MN. Phone: +16124730283.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnehaven-barbers-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnehaven-barbers-minnetonka.json",
+   "address": {
+    "streetAddress": "3400",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9415504,
+    "lon": -93.5033844
+   },
+   "phone": "+16124730283",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aaa-minnetonka",
+   "name": "AAA",
+   "summary": "AAA is an insurance agent in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaa-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaa-minnetonka.json",
+   "address": {
+    "streetAddress": "11210 Wayzata Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9735052,
+    "lon": -93.4218967
+   },
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596827101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "adogo-minnetonka-minnetonka",
+   "name": "Adogo Minnetonka",
+   "summary": "Adogo Minnetonka is a dog boarding facility in Minnetonka, MN at 6133 Baker Road, Minnetonka, MN 55345.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adogo-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adogo-minnetonka-minnetonka.json",
+   "address": {
+    "streetAddress": "6133 Baker Road",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.8921608,
+    "lon": -93.4464732
+   },
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/742756433",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pet-stuff-minnetonka",
+   "name": "Pet Stuff",
+   "summary": "Pet Stuff is a pet store in Minnetonka, MN at 14731 Excelsior Boulevard, Minnetonka, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-stuff-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-stuff-minnetonka.json",
+   "address": {
+    "streetAddress": "14731 Excelsior Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.903333,
+    "lon": -93.4670428
+   },
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12710480523",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-minnetonka-n13596839201",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-minnetonka-n13596839201/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-minnetonka-n13596839201.json",
+   "address": {
+    "streetAddress": "11210 Wayzata Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.973553,
+    "lon": -93.4218351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596839201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "park-dental-ridgepark-minnetonka",
+   "name": "Park Dental Ridgepark",
+   "summary": "Park Dental Ridgepark is a dentist in Minnetonka, MN at 13059 Ridgedale Drive, Minnetonka, MN 55305.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-dental-ridgepark-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-dental-ridgepark-minnetonka.json",
+   "address": {
+    "streetAddress": "13059 Ridgedale Drive",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9672805,
+    "lon": -93.4446379
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2503125447",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "strong-liquors-minnetonka",
+   "name": "Strong Liquors",
+   "summary": "Strong Liquors is a liquor store in Minnetonka, MN at 11048 Cedar Lake Road, Minnetonka, MN 55305.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strong-liquors-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strong-liquors-minnetonka.json",
+   "address": {
+    "streetAddress": "11048 Cedar Lake Road",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9531837,
+    "lon": -93.4177002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11331448609",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "youngstedts-wayzata-tire-and-auto-service-wayzata",
+   "name": "Youngstedts Wayzata Tire & Auto Service",
+   "summary": "Youngstedts Wayzata Tire & Auto Service is an auto repair shop in Wayzata, MN at 15320 Wayzata Boulevard, Wayzata, MN 55391.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/youngstedts-wayzata-tire-and-auto-service-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/youngstedts-wayzata-tire-and-auto-service-wayzata.json",
+   "address": {
+    "streetAddress": "15320 Wayzata Boulevard",
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "postalCode": "55391",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "zip": "55391",
+   "geo": {
+    "lat": 44.9717566,
+    "lon": -93.4741121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330462231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "haven-beauty-collective-minnetonka",
+   "name": "Haven Beauty Collective",
+   "summary": "Haven Beauty Collective is a nail salon in Minnetonka, MN at 14729 Excelsior Boulevard, Minnetonka, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haven-beauty-collective-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haven-beauty-collective-minnetonka.json",
+   "address": {
+    "streetAddress": "14729 Excelsior Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9033975,
+    "lon": -93.4668725
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12710480524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mister-car-wash-minnetonka",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Minnetonka, MN at 17600 Minnesota State Highway 7, Minnetonka, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-minnetonka.json",
+   "address": {
+    "streetAddress": "17600 Minnesota State Highway 7",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9140662,
+    "lon": -93.50392
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/55199931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "5-tan-minnetonka",
+   "name": "$5 Tan",
+   "summary": "$5 Tan is a tanning salon in Minnetonka, MN.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-tan-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-tan-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9179907,
+    "lon": -93.5022694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "able-light-thrift-shop-minnetonka",
+   "name": "Able Light Thrift Shop",
+   "summary": "Able Light Thrift Shop is a thrift store in Minnetonka, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/able-light-thrift-shop-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/able-light-thrift-shop-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9179797,
+    "lon": -93.5013019
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5776179612",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anytime-fitness-minnetonka",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Minnetonka, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9413873,
+    "lon": -93.5030363
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bach-to-rock-minnetonka",
+   "name": "Bach to Rock",
+   "summary": "Bach to Rock is a music school in Minnetonka, MN.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bach-to-rock-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bach-to-rock-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9172847,
+    "lon": -93.5012545
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487982",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "banfield-pet-hospital-minnetonka",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Minnetonka, MN.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9339796,
+    "lon": -93.4250377
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6417826210",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "banfield-pet-hospital-minnetonka-n11098487980",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Minnetonka, MN.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-minnetonka-n11098487980/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-minnetonka-n11098487980.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9174303,
+    "lon": -93.5012412
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bokoo-bikes-minnetonka",
+   "name": "Bokoo Bikes",
+   "summary": "Bokoo Bikes is a bike shop in Minnetonka, MN.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bokoo-bikes-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bokoo-bikes-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9411784,
+    "lon": -93.5027925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857327",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "breadsmith-minnetonka",
+   "name": "Breadsmith",
+   "summary": "Breadsmith is a bakery in Minnetonka, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/breadsmith-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/breadsmith-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9662041,
+    "lon": -93.4430929
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11970552855",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chuck-and-dons-pet-food-and-supplies-minnetonka",
+   "name": "Chuck & Don's pet food and supplies",
+   "summary": "Chuck & Don's pet food and supplies is a pet store in Minnetonka, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-pet-food-and-supplies-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9179958,
+    "lon": -93.5021156
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487975",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "club-pilates-minnetonka",
+   "name": "Club Pilates",
+   "summary": "Club Pilates is a pilates studio in Minnetonka, MN.",
+   "categories": [
+    "pilates"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/club-pilates-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/club-pilates-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.914635,
+    "lon": -93.5054959
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11103585690",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cost-cutters-minnetonka",
+   "name": "Cost Cutters",
+   "summary": "Cost Cutters is a hair salon in Minnetonka, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cost-cutters-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cost-cutters-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9691406,
+    "lon": -93.4477181
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482425094",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-minnetonka",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Minnetonka, MN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9149535,
+    "lon": -93.5054294
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/55199907",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "everbrook-academy-minnetonka",
+   "name": "Everbrook Academy",
+   "summary": "Everbrook Academy is a preschool in Minnetonka, MN.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/everbrook-academy-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/everbrook-academy-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9040067,
+    "lon": -93.4671407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1499968930",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "evergreene-jewelers-minnetonka",
+   "name": "EverGreene Jewelers",
+   "summary": "EverGreene Jewelers is a jewelry store in Minnetonka, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evergreene-jewelers-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evergreene-jewelers-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9403514,
+    "lon": -93.5028278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/78943424",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-minnetonka",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Minnetonka, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8951753,
+    "lon": -93.4197535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/662733596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "general-store-of-minnetonka-minnetonka",
+   "name": "General Store of Minnetonka",
+   "summary": "General Store of Minnetonka is a gift shop in Minnetonka, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/general-store-of-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/general-store-of-minnetonka-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9220098,
+    "lon": -93.463686
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/751644153",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodyear-minnetonka",
+   "name": "Goodyear",
+   "summary": "Goodyear is an auto repair shop in Minnetonka, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9220155,
+    "lon": -93.4707064
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/60366881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gq-tailors-minnetonka",
+   "name": "GQ Tailors",
+   "summary": "GQ Tailors is a tailor in Minnetonka, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gq-tailors-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gq-tailors-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9414535,
+    "lon": -93.5033895
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857591",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-harvest-minnetonka-minnetonka",
+   "name": "Great Harvest Minnetonka",
+   "summary": "Great Harvest Minnetonka is a bakery in Minnetonka, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-harvest-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-harvest-minnetonka-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9422687,
+    "lon": -93.5005963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9032025500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kt-nails-minnetonka",
+   "name": "KT Nails",
+   "summary": "KT Nails is a nail salon in Minnetonka, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kt-nails-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kt-nails-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9146848,
+    "lon": -93.5054365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/937197678",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "landings-of-minnetonka-minnetonka",
+   "name": "Landings of Minnetonka",
+   "summary": "Landings of Minnetonka is an assisted living facility in Minnetonka, MN.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/landings-of-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/landings-of-minnetonka-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.938189,
+    "lon": -93.4632553
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1315136072",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lilli-salon-minnetonka",
+   "name": "Lilli Salon",
+   "summary": "Lilli Salon is a hair salon in Minnetonka, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lilli-salon-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lilli-salon-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9005553,
+    "lon": -93.4223138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/928666829",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lunds-and-byerlys-wines-and-spirits-minnetonka",
+   "name": "Lunds & Byerlys Wines & Spirits",
+   "summary": "Lunds & Byerlys Wines & Spirits is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lunds-and-byerlys-wines-and-spirits-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lunds-and-byerlys-wines-and-spirits-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9683797,
+    "lon": -93.4463636
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482424393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-envy-minnetonka",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Minnetonka, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9683588,
+    "lon": -93.446605
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482424793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-envy-minnetonka-n11098487967",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Minnetonka, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka-n11098487967/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-minnetonka-n11098487967.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9180997,
+    "lon": -93.503938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mgm-liquors-minnetonka-minnetonka",
+   "name": "MGM Liquors Minnetonka",
+   "summary": "MGM Liquors Minnetonka is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquors-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquors-minnetonka-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9170414,
+    "lon": -93.5011273
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9031893898",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "midas-minnetonka",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Minnetonka, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9718489,
+    "lon": -93.4419275
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6329778695",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ovation-orthodontics-minnetonka",
+   "name": "Ovation Orthodontics",
+   "summary": "Ovation Orthodontics is a dentist in Minnetonka, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ovation-orthodontics-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ovation-orthodontics-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8936957,
+    "lon": -93.4197124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11711817393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pilgrim-cleaners-minnetonka",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Minnetonka, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9179422,
+    "lon": -93.5039387
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487968",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-minnetonka",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Minnetonka, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.915612,
+    "lon": -93.5052683
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/88159743",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "royal-nails-minnetonka",
+   "name": "Royal Nails",
+   "summary": "Royal Nails is a nail salon in Minnetonka, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royal-nails-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royal-nails-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9175828,
+    "lon": -93.5012036
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487978",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "salons-by-jc-minnetonka",
+   "name": "Salons by JC",
+   "summary": "Salons by JC is a hair salon in Minnetonka, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salons-by-jc-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salons-by-jc-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9339628,
+    "lon": -93.424732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6417826213",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "schmidt-and-salita-law-team-minnetonka",
+   "name": "Schmidt & Salita Law Team",
+   "summary": "Schmidt & Salita Law Team is a lawyer in Minnetonka, MN.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schmidt-and-salita-law-team-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schmidt-and-salita-law-team-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9681528,
+    "lon": -93.4211866
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1478703251",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-minnetonka",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Minnetonka, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9340286,
+    "lon": -93.4215176
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/254347508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-minnetonka-w413449072",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Minnetonka, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-minnetonka-w413449072/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-minnetonka-w413449072.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9146739,
+    "lon": -93.5024503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/413449072",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-minnetonka",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Minnetonka, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9180175,
+    "lon": -93.5016981
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-wine-shop-minnetonka",
+   "name": "The Wine Shop",
+   "summary": "The Wine Shop is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wine-shop-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wine-shop-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9413372,
+    "lon": -93.5015936
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9032025498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tonka-bottle-shop-minnetonka",
+   "name": "Tonka Bottle Shop",
+   "summary": "Tonka Bottle Shop is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tonka-bottle-shop-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tonka-bottle-shop-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9424132,
+    "lon": -93.5033937
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9032025499",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ubreakifix-minnetonka",
+   "name": "uBreakiFix",
+   "summary": "uBreakiFix is a phone repair shop in Minnetonka, MN.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ubreakifix-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9181069,
+    "lon": -93.5024753
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487969",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "village-animal-hospital-minnetonka",
+   "name": "Village Animal Hospital",
+   "summary": "Village Animal Hospital is a veterinarian in Minnetonka, MN.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-animal-hospital-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-animal-hospital-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9138186,
+    "lon": -93.5044366
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/55199920",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wild-bird-minnetonka",
+   "name": "Wild Bird",
+   "summary": "Wild Bird is a pet store in Minnetonka, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wild-bird-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wild-bird-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9178301,
+    "lon": -93.501221
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487972",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

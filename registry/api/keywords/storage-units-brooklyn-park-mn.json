@@ -1,0 +1,120 @@
+{
+ "keyword": "storage units brooklyn park mn",
+ "slug": "storage-units-brooklyn-park-mn",
+ "place": "Brooklyn Park, MN",
+ "service": "storage units",
+ "query": "Who are the best storage units providers in Brooklyn Park, MN?",
+ "matches": [
+  "storage units in Brooklyn Park, MN",
+  "storage units near me (Brooklyn Park, MN)",
+  "best storage units Brooklyn Park, MN",
+  "top rated storage units Brooklyn Park, MN",
+  "affordable storage units Brooklyn Park, MN",
+  "emergency storage units Brooklyn Park, MN"
+ ],
+ "answer": "The top unpaid storage units listing for Brooklyn Park, MN is Extra Space Storage (a self-storage facility in Brooklyn Park, MN at 8570 Aspen Lane North, Brooklyn Park, MN 55445). 3 storage units businesses are listed for Brooklyn Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "extra-space-storage-brooklyn-park",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Brooklyn Park, MN at 8570 Aspen Lane North, Brooklyn Park, MN 55445.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-brooklyn-park.json",
+   "address": {
+    "streetAddress": "8570 Aspen Lane North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55445",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55445",
+   "geo": {
+    "lat": 45.1101814,
+    "lon": -93.3932218
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762299264",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "uhaul-climate-controlled-self-storage-brooklyn-park",
+   "name": "UHaul Climate Controlled Self Storage",
+   "summary": "UHaul Climate Controlled Self Storage is a self-storage facility in Brooklyn Park, MN at 7007 Lakeland Avenue North, Brooklyn Park, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uhaul-climate-controlled-self-storage-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uhaul-climate-controlled-self-storage-brooklyn-park.json",
+   "address": {
+    "streetAddress": "7007 Lakeland Avenue North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0824689,
+    "lon": -93.3754431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/405338819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "acorn-mini-storage-brooklyn-park",
+   "name": "Acorn Mini Storage",
+   "summary": "Acorn Mini Storage is a self-storage facility in Brooklyn Park, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acorn-mini-storage-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acorn-mini-storage-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.108354,
+    "lon": -93.3191063
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/865970317",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

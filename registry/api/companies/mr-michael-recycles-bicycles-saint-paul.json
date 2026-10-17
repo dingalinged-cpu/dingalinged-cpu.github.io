@@ -1,0 +1,58 @@
+{
+ "slug": "mr-michael-recycles-bicycles-saint-paul",
+ "name": "Mr. Michael Recycles Bicycles",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "520 North Prior Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55104",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55104",
+ "geo": {
+  "lat": 44.9568396,
+  "lon": -93.1821682
+ },
+ "phone": "+16516411037",
+ "website": "https://mmrbstore.com/",
+ "email": "info@mmrbstore.com",
+ "opening_hours": "Tu,Th 17:00-20:00; Su 12:00-16:00",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7196597416",
+ "osm": {
+  "type": "node",
+  "id": 7196597416,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/mr-michael-recycles-bicycles-saint-paul/",
+ "summary": "Mr. Michael Recycles Bicycles is a bike shop in Saint Paul, MN at 520 North Prior Avenue, Saint Paul, MN 55104. Phone: +16516411037. Website: https://mmrbstore.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,374 @@
+{
+ "keyword": "funeral home minneapolis mn",
+ "slug": "funeral-home-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "funeral home",
+ "query": "Who are the best funeral home providers in Minneapolis, MN?",
+ "matches": [
+  "funeral home in Minneapolis, MN",
+  "funeral home near me (Minneapolis, MN)",
+  "best funeral home Minneapolis, MN",
+  "top rated funeral home Minneapolis, MN",
+  "affordable funeral home Minneapolis, MN",
+  "emergency funeral home Minneapolis, MN"
+ ],
+ "answer": "The top unpaid funeral home listing for Minneapolis, MN is Hodroff-Epstein Memorial Chapels (a funeral home in Minneapolis, MN at 126 East Franklin Avenue, Minneapolis, MN 55404. Phone: +16128711234. Website: https://www.hodroffepsteinmemorialchapels.com/). 11 funeral home businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "hodroff-epstein-memorial-chapels-minneapolis",
+   "name": "Hodroff-Epstein Memorial Chapels",
+   "summary": "Hodroff-Epstein Memorial Chapels is a funeral home in Minneapolis, MN at 126 East Franklin Avenue, Minneapolis, MN 55404. Phone: +16128711234. Website: https://www.hodroffepsteinmemorialchapels.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hodroff-epstein-memorial-chapels-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hodroff-epstein-memorial-chapels-minneapolis.json",
+   "address": {
+    "streetAddress": "126 East Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9629717,
+    "lon": -93.2749728
+   },
+   "phone": "+16128711234",
+   "website": "https://www.hodroffepsteinmemorialchapels.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/119006335",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "bradshaw-funeral-and-cremation-services-minneapolis",
+   "name": "Bradshaw Funeral & Cremation Services",
+   "summary": "Bradshaw Funeral & Cremation Services is a funeral home in Minneapolis, MN at 3131 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127243621. Website: https://www.bradshawfuneral.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bradshaw-funeral-and-cremation-services-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bradshaw-funeral-and-cremation-services-minneapolis.json",
+   "address": {
+    "streetAddress": "3131 Minnehaha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9459044,
+    "lon": -93.2320287
+   },
+   "phone": "+16127243621",
+   "website": "https://www.bradshawfuneral.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/319467187",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "gill-brothers-funeral-directors-minneapolis",
+   "name": "Gill Brothers Funeral Directors",
+   "summary": "Gill Brothers Funeral Directors is a funeral home in Minneapolis, MN at 5801 Lyndale Avenue South, Minneapolis, MN 55419. Website: https://www.gillbrothers.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gill-brothers-funeral-directors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gill-brothers-funeral-directors-minneapolis.json",
+   "address": {
+    "streetAddress": "5801 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.8974641,
+    "lon": -93.2878357
+   },
+   "website": "https://www.gillbrothers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/385471477",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "glenwood-funeral-home-minneapolis",
+   "name": "Glenwood Funeral Home",
+   "summary": "Glenwood Funeral Home is a funeral home in Minneapolis, MN at 1312 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16514425112.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glenwood-funeral-home-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glenwood-funeral-home-minneapolis.json",
+   "address": {
+    "streetAddress": "1312 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9813032,
+    "lon": -93.2980194
+   },
+   "phone": "+16514425112",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/240869840",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "kozlak-radulovich-funeral-chapel-minneapolis",
+   "name": "Kozlak-Radulovich Funeral Chapel",
+   "summary": "Kozlak-Radulovich Funeral Chapel is a funeral home in Minneapolis, MN at 1918 Northeast University Avenue, Minneapolis, MN 55418.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kozlak-radulovich-funeral-chapel-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kozlak-radulovich-funeral-chapel-minneapolis.json",
+   "address": {
+    "streetAddress": "1918 Northeast University Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0080537,
+    "lon": -93.2634925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/116781731",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-nokomis-park-funeral-chapel-minneapolis",
+   "name": "Washburn-McReavy - Nokomis Park Funeral Chapel",
+   "summary": "Washburn-McReavy - Nokomis Park Funeral Chapel is a funeral home in Minneapolis, MN at 1838 East Minnehaha Parkway, Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-nokomis-park-funeral-chapel-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-nokomis-park-funeral-chapel-minneapolis.json",
+   "address": {
+    "streetAddress": "1838 East Minnehaha Parkway",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9166079,
+    "lon": -93.2463444
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/84506738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-welander-quest-davies-funeral-and-cremation-minneapolis",
+   "name": "Washburn-McReavy Welander Quest-Davies Funeral and Cremation",
+   "summary": "Washburn-McReavy Welander Quest-Davies Funeral and Cremation is a funeral home in Minneapolis, MN at 2301 Hennepin Avenue South, Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-welander-quest-davies-funeral-and-cremation-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-welander-quest-davies-funeral-and-cremation-minneapolis.json",
+   "address": {
+    "streetAddress": "2301 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9600506,
+    "lon": -93.2928851
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835960248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "washburn-mccreavy-minneapolis",
+   "name": "Washburn McCreavy",
+   "summary": "Washburn McCreavy is a funeral home in Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mccreavy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mccreavy-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0170472,
+    "lon": -93.2468974
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3934354486",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "estes-funeral-chapel-and-cremation-services-minneapolis",
+   "name": "Estes Funeral Chapel and Cremation Services",
+   "summary": "Estes Funeral Chapel and Cremation Services is a funeral home in Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/estes-funeral-chapel-and-cremation-services-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/estes-funeral-chapel-and-cremation-services-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9912083,
+    "lon": -93.3086046
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/839962647",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-crystal-lake-minneapolis",
+   "name": "Washburn-McReavy Crystal Lake",
+   "summary": "Washburn-McReavy Crystal Lake is a funeral home in Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-crystal-lake-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-crystal-lake-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0250234,
+    "lon": -93.307723
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/630740587",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-crystal-lake-funeral-chapel-and-cemetary-minneapolis",
+   "name": "Washburn-McReavy Crystal Lake Funeral Chapel and Cemetary",
+   "summary": "Washburn-McReavy Crystal Lake Funeral Chapel and Cemetary is a funeral home in Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-crystal-lake-funeral-chapel-and-cemetary-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-crystal-lake-funeral-chapel-and-cemetary-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0247503,
+    "lon": -93.307861
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/630740586",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

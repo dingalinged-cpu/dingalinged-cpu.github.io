@@ -1,0 +1,62 @@
+{
+ "keyword": "gym ham lake mn",
+ "slug": "gym-ham-lake-mn",
+ "place": "Ham Lake, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in Ham Lake, MN?",
+ "matches": [
+  "gym in Ham Lake, MN",
+  "gym near me (Ham Lake, MN)",
+  "best gym Ham Lake, MN",
+  "top rated gym Ham Lake, MN",
+  "affordable gym Ham Lake, MN",
+  "emergency gym Ham Lake, MN"
+ ],
+ "answer": "The top unpaid gym listing for Ham Lake, MN is Pursuit Fitness (a gym in Ham Lake, MN at 1321 Andover Boulevard Northeast #106, Ham Lake, MN 55304. Phone: +16125974675). 1 gym businesses are listed for Ham Lake, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "pursuit-fitness-ham-lake",
+   "name": "Pursuit Fitness",
+   "summary": "Pursuit Fitness is a gym in Ham Lake, MN at 1321 Andover Boulevard Northeast #106, Ham Lake, MN 55304. Phone: +16125974675.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pursuit-fitness-ham-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pursuit-fitness-ham-lake.json",
+   "address": {
+    "streetAddress": "1321 Andover Boulevard Northeast #106",
+    "addressLocality": "Ham Lake",
+    "addressRegion": "MN",
+    "postalCode": "55304",
+    "addressCountry": "US"
+   },
+   "city": "Ham Lake",
+   "state": "MN",
+   "zip": "55304",
+   "geo": {
+    "lat": 45.2377392,
+    "lon": -93.2365784
+   },
+   "phone": "+16125974675",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11238440441",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

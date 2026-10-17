@@ -1,0 +1,58 @@
+{
+ "keyword": "martial arts shoreview mn",
+ "slug": "martial-arts-shoreview-mn",
+ "place": "Shoreview, MN",
+ "service": "martial arts",
+ "query": "Who are the best martial arts providers in Shoreview, MN?",
+ "matches": [
+  "martial arts in Shoreview, MN",
+  "martial arts near me (Shoreview, MN)",
+  "best martial arts Shoreview, MN",
+  "top rated martial arts Shoreview, MN",
+  "affordable martial arts Shoreview, MN",
+  "emergency martial arts Shoreview, MN"
+ ],
+ "answer": "The top unpaid martial arts listing for Shoreview, MN is Lee's Championship Tae Kwon Do Academy (a martial arts school in Shoreview, MN). 1 martial arts businesses are listed for Shoreview, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "lees-championship-tae-kwon-do-academy-shoreview",
+   "name": "Lee's Championship Tae Kwon Do Academy",
+   "summary": "Lee's Championship Tae Kwon Do Academy is a martial arts school in Shoreview, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lees-championship-tae-kwon-do-academy-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lees-championship-tae-kwon-do-academy-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0810003,
+    "lon": -93.1462317
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3886994608",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

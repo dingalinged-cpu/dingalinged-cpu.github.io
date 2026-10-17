@@ -1,0 +1,62 @@
+{
+ "keyword": "acupuncture edina mn",
+ "slug": "acupuncture-edina-mn",
+ "place": "Edina, MN",
+ "service": "acupuncture",
+ "query": "Who are the best acupuncture providers in Edina, MN?",
+ "matches": [
+  "acupuncture in Edina, MN",
+  "acupuncture near me (Edina, MN)",
+  "best acupuncture Edina, MN",
+  "top rated acupuncture Edina, MN",
+  "affordable acupuncture Edina, MN",
+  "emergency acupuncture Edina, MN"
+ ],
+ "answer": "The top unpaid acupuncture listing for Edina, MN is Azalea Acupuncture+Aesthetics (an acupuncture clinic in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Website: https://www.azaleampls.com/). 1 acupuncture businesses are listed for Edina, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "azalea-acupuncture-aesthetics-edina",
+   "name": "Azalea Acupuncture+Aesthetics",
+   "summary": "Azalea Acupuncture+Aesthetics is an acupuncture clinic in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Website: https://www.azaleampls.com/.",
+   "categories": [
+    "acupuncture"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/azalea-acupuncture-aesthetics-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/azalea-acupuncture-aesthetics-edina.json",
+   "address": {
+    "streetAddress": "4388 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9227455,
+    "lon": -93.3294209
+   },
+   "website": "https://www.azaleampls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134674647",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

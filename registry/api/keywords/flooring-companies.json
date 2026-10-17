@@ -1,0 +1,379 @@
+{
+ "keyword": "flooring companies",
+ "slug": "flooring-companies",
+ "place": "the United States",
+ "service": "flooring companies",
+ "query": "Who are the best flooring companies providers in the United States?",
+ "matches": [
+  "flooring companies in the United States",
+  "flooring companies near me (the United States)",
+  "best flooring companies the United States",
+  "top rated flooring companies the United States",
+  "affordable flooring companies the United States",
+  "emergency flooring companies the United States"
+ ],
+ "answer": "The top unpaid flooring companies listing for the United States is Flooring Expo by Carpet King (a flooring company in Saint Louis Park, MN at 8221 State Highway 7 Service Road, Saint Louis Park, MN 55426. Phone: +19529252344. Website: https://www.flooringexpo.com/locations/st-louis-park/). 11 flooring companies businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "flooring-expo-by-carpet-king-saint-louis-park",
+   "name": "Flooring Expo by Carpet King",
+   "summary": "Flooring Expo by Carpet King is a flooring company in Saint Louis Park, MN at 8221 State Highway 7 Service Road, Saint Louis Park, MN 55426. Phone: +19529252344. Website: https://www.flooringexpo.com/locations/st-louis-park/.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flooring-expo-by-carpet-king-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flooring-expo-by-carpet-king-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8221 State Highway 7 Service Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9353429,
+    "lon": -93.3837219
+   },
+   "phone": "+19529252344",
+   "website": "https://www.flooringexpo.com/locations/st-louis-park/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604315568",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "j-o-thompson-flooring-saint-paul",
+   "name": "J.O. Thompson Flooring",
+   "summary": "J.O. Thompson Flooring is a flooring company in Saint Paul, MN at 1558 Como Avenue, Saint Paul, MN 55108. Phone: +16516466134. Website: https://jothompsonflooring.com/.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-o-thompson-flooring-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-o-thompson-flooring-saint-paul.json",
+   "address": {
+    "streetAddress": "1558 Como Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9771564,
+    "lon": -93.1660752
+   },
+   "phone": "+16516466134",
+   "website": "https://jothompsonflooring.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1765669157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "manomin-resawn-timbers-hugo",
+   "name": "Manomin Resawn Timbers",
+   "summary": "Manomin Resawn Timbers is a flooring company in Hugo, MN at 15152 Freeland Avenue North, Hugo, MN 55038. Phone: +16514641771. Website: https://mrtimbers.com/.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/manomin-resawn-timbers-hugo/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/manomin-resawn-timbers-hugo.json",
+   "address": {
+    "streetAddress": "15152 Freeland Avenue North",
+    "addressLocality": "Hugo",
+    "addressRegion": "MN",
+    "postalCode": "55038",
+    "addressCountry": "US"
+   },
+   "city": "Hugo",
+   "state": "MN",
+   "zip": "55038",
+   "geo": {
+    "lat": 45.1706405,
+    "lon": -92.9870146
+   },
+   "phone": "+16514641771",
+   "website": "https://mrtimbers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9491638298",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "value-plus-flooring-eagan",
+   "name": "Value Plus Flooring",
+   "summary": "Value Plus Flooring is a flooring company in Eagan, MN at 3109 Neil Armstrong Boulevard, Eagan, MN 55121. Phone: +16514549344. Website: https://valueplusflooring.com/.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/value-plus-flooring-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/value-plus-flooring-eagan.json",
+   "address": {
+    "streetAddress": "3109 Neil Armstrong Boulevard",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8441512,
+    "lon": -93.1431075
+   },
+   "phone": "+16514549344",
+   "website": "https://valueplusflooring.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/351058823",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "gregg-floor-covering-saint-bonifacius",
+   "name": "Gregg Floor Covering",
+   "summary": "Gregg Floor Covering is a flooring company in Saint Bonifacius, MN at 4117 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461170.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gregg-floor-covering-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gregg-floor-covering-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4117 Main Street",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9040335,
+    "lon": -93.7475814
+   },
+   "phone": "+19524461170",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1155153732",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "unique-wood-floors-hopkins",
+   "name": "Unique Wood Floors",
+   "summary": "Unique Wood Floors is a flooring company in Hopkins, MN at 1202 5th Street South, Hopkins, MN 55343. Phone: +19527679697.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/unique-wood-floors-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/unique-wood-floors-hopkins.json",
+   "address": {
+    "streetAddress": "1202 5th Street South",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9168657,
+    "lon": -93.4159931
+   },
+   "phone": "+19527679697",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8057944019",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "floor-and-decor-maple-grove",
+   "name": "Floor & Decor",
+   "summary": "Floor & Decor is a flooring company in Maple Grove, MN at 12575 Elm Creek Boulevard, Maple Grove, MN 55369.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floor-and-decor-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floor-and-decor-maple-grove.json",
+   "address": {
+    "streetAddress": "12575 Elm Creek Boulevard",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0921637,
+    "lon": -93.4399384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52054297",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "db-floor-sanding-crystal",
+   "name": "DB Floor Sanding",
+   "summary": "DB Floor Sanding is a flooring company in Crystal, MN.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/db-floor-sanding-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/db-floor-sanding-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0203588,
+    "lon": -93.3382585
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223321520",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "flooring-avenue-rogers",
+   "name": "Flooring Avenue",
+   "summary": "Flooring Avenue is a flooring company in Rogers, MN.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flooring-avenue-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flooring-avenue-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1949954,
+    "lon": -93.5482815
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/559272291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "ground-floor-supply-saint-paul",
+   "name": "Ground Floor Supply",
+   "summary": "Ground Floor Supply is a flooring company in Saint Paul, MN.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ground-floor-supply-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ground-floor-supply-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9468932,
+    "lon": -93.1770278
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13394008375",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "seestedts-carpet-and-linoleum-saint-paul",
+   "name": "Seestedt's Carpet and Linoleum",
+   "summary": "Seestedt's Carpet and Linoleum is a flooring company in Saint Paul, MN.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seestedts-carpet-and-linoleum-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seestedts-carpet-and-linoleum-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9503122,
+    "lon": -93.0206228
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/998799500",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Value Village is a thrift store in Bloomington, MN at 10546 France Avenue South, Bloomington, MN 55431. Website: https://arcsvaluevillage.org/.
+
+# Value Village
+
+- Category: thrift store
+- Services: thrift store
+- Address: 10546 France Avenue South, Bloomington, MN 55431
+- City: Bloomington
+- State: MN
+- ZIP: 55431
+- Coordinates: 44.8119306, -93.3324294
+- Phone: n/a
+- Website: https://arcsvaluevillage.org/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 10:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/value-village-bloomington/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/value-village-bloomington.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12610744301 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

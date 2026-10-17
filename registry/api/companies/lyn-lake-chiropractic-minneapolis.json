@@ -1,0 +1,58 @@
+{
+ "slug": "lyn-lake-chiropractic-minneapolis",
+ "name": "Lyn Lake Chiropractic",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2937 Lyndale Avenue South #201",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55408",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55408",
+ "geo": {
+  "lat": 44.9491138,
+  "lon": -93.2876545
+ },
+ "phone": "+16128798000",
+ "website": "https://lynlakechiropractic.com/",
+ "opening_hours": "Mo 08:30-18:00; Tu-Th14:00-18:00; Fr 08:00-13:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9894547871",
+ "osm": {
+  "type": "node",
+  "id": 9894547871,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lyn-lake-chiropractic-minneapolis/",
+ "summary": "Lyn Lake Chiropractic is a chiropractor in Minneapolis, MN at 2937 Lyndale Avenue South #201, Minneapolis, MN 55408. Phone: +16128798000. Website: https://lynlakechiropractic.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

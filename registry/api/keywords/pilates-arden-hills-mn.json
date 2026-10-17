@@ -1,0 +1,58 @@
+{
+ "keyword": "pilates arden hills mn",
+ "slug": "pilates-arden-hills-mn",
+ "place": "Arden Hills, MN",
+ "service": "pilates",
+ "query": "Who are the best pilates providers in Arden Hills, MN?",
+ "matches": [
+  "pilates in Arden Hills, MN",
+  "pilates near me (Arden Hills, MN)",
+  "best pilates Arden Hills, MN",
+  "top rated pilates Arden Hills, MN",
+  "affordable pilates Arden Hills, MN",
+  "emergency pilates Arden Hills, MN"
+ ],
+ "answer": "The top unpaid pilates listing for Arden Hills, MN is Club Pilates (a pilates studio in Arden Hills, MN). 1 pilates businesses are listed for Arden Hills, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "club-pilates-arden-hills",
+   "name": "Club Pilates",
+   "summary": "Club Pilates is a pilates studio in Arden Hills, MN.",
+   "categories": [
+    "pilates"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/club-pilates-arden-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/club-pilates-arden-hills.json",
+   "address": {
+    "addressLocality": "Arden Hills",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Arden Hills",
+   "state": "MN",
+   "geo": {
+    "lat": 45.056594,
+    "lon": -93.1488494
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12336464123",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "public-storage-vadnais-heights",
+ "name": "Public Storage",
+ "categories": [
+  "storage units"
+ ],
+ "keywords": [
+  "storage units",
+  "storage units vadnais heights mn"
+ ],
+ "services": [
+  {
+   "name": "storage units",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1090 Birch Lake Boulevard South",
+  "addressLocality": "Vadnais Heights",
+  "addressRegion": "MN",
+  "postalCode": "55127",
+  "addressCountry": "US"
+ },
+ "city": "Vadnais Heights",
+ "state": "MN",
+ "zip": "55127",
+ "geo": {
+  "lat": 45.0716219,
+  "lon": -93.0550491
+ },
+ "brand": "Public Storage",
+ "wikidata": "Q1156045",
+ "schema_type": "SelfStorage",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1137945715",
+ "osm": {
+  "type": "way",
+  "id": 1137945715,
+  "tags_used": {
+   "shop": "storage_rental"
+  }
+ },
+ "municipality": "Vadnais Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-vadnais-heights/",
+ "summary": "Public Storage is a self-storage facility in Vadnais Heights, MN at 1090 Birch Lake Boulevard South, Vadnais Heights, MN 55127.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

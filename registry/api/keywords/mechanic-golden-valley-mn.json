@@ -1,0 +1,459 @@
+{
+ "keyword": "mechanic golden valley mn",
+ "slug": "mechanic-golden-valley-mn",
+ "place": "Golden Valley, MN",
+ "service": "mechanic",
+ "query": "Who are the best mechanic providers in Golden Valley, MN?",
+ "matches": [
+  "mechanic in Golden Valley, MN",
+  "mechanic near me (Golden Valley, MN)",
+  "best mechanic Golden Valley, MN",
+  "top rated mechanic Golden Valley, MN",
+  "affordable mechanic Golden Valley, MN",
+  "emergency mechanic Golden Valley, MN"
+ ],
+ "answer": "The top unpaid mechanic listing for Golden Valley, MN is Boulevard Automotive and Towing (an auto repair shop in Golden Valley, MN at 904 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +17635446867. Website: https://www.boulevardautoandtow.com/). 13 mechanic businesses are listed for Golden Valley, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "boulevard-automotive-and-towing-golden-valley",
+   "name": "Boulevard Automotive and Towing",
+   "summary": "Boulevard Automotive and Towing is an auto repair shop in Golden Valley, MN at 904 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +17635446867. Website: https://www.boulevardautoandtow.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boulevard-automotive-and-towing-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boulevard-automotive-and-towing-golden-valley.json",
+   "address": {
+    "streetAddress": "904 Pennsylvania Avenue South",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9725911,
+    "lon": -93.377122
+   },
+   "phone": "+17635446867",
+   "website": "https://www.boulevardautoandtow.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4131163733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "boulevard-collision-golden-valley",
+   "name": "Boulevard Collision",
+   "summary": "Boulevard Collision is an auto repair shop in Golden Valley, MN at 6901 Laurel Avenue, Golden Valley, MN 55426. Phone: +17635950006. Website: https://www.boulevardcollision.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boulevard-collision-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boulevard-collision-golden-valley.json",
+   "address": {
+    "streetAddress": "6901 Laurel Avenue",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9740794,
+    "lon": -93.368498
+   },
+   "phone": "+17635950006",
+   "website": "https://www.boulevardcollision.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/410084636",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "car-x-tire-and-auto-golden-valley",
+   "name": "Car-X Tire & Auto",
+   "summary": "Car-X Tire & Auto is an auto repair shop in Golden Valley, MN at 6944 Wayzata Boulevard, Golden Valley, MN 55426. Phone: +17632606855. Website: https://www.carx.com/minneapolis/6944-wayzata-blvd/?y_source=1_Njg3NjM2MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-x-tire-and-auto-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-x-tire-and-auto-golden-valley.json",
+   "address": {
+    "streetAddress": "6944 Wayzata Boulevard",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9721631,
+    "lon": -93.3692731
+   },
+   "phone": "+17632606855",
+   "website": "https://www.carx.com/minneapolis/6944-wayzata-blvd/?y_source=1_Njg3NjM2MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/409893491",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "collision-center-inc-golden-valley",
+   "name": "Collision Center, Inc.",
+   "summary": "Collision Center, Inc. is an auto repair shop in Golden Valley, MN at 900 Florida Avenue South, Golden Valley, MN 55426. Phone: +17635419727. Website: https://collisioncenter1.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/collision-center-inc-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/collision-center-inc-golden-valley.json",
+   "address": {
+    "streetAddress": "900 Florida Avenue South",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9726453,
+    "lon": -93.3635931
+   },
+   "phone": "+17635419727",
+   "website": "https://collisioncenter1.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/409892388",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "golden-valley-automotive-golden-valley",
+   "name": "Golden Valley Automotive",
+   "summary": "Golden Valley Automotive is an auto repair shop in Golden Valley, MN at 1 General Mills Boulevard, Golden Valley, MN 55426. Phone: +17633160799. Website: https://goldenvalleyautomotive.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-valley-automotive-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-valley-automotive-golden-valley.json",
+   "address": {
+    "streetAddress": "1 General Mills Boulevard",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9789952,
+    "lon": -93.3947795
+   },
+   "phone": "+17633160799",
+   "website": "https://goldenvalleyautomotive.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1377334399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "hubers-imported-car-service-golden-valley",
+   "name": "Hubers Imported Car Service",
+   "summary": "Hubers Imported Car Service is an auto repair shop in Golden Valley, MN at 900 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +17635462586. Website: https://www.hubersimportedcarservice.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hubers-imported-car-service-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hubers-imported-car-service-golden-valley.json",
+   "address": {
+    "streetAddress": "900 Pennsylvania Avenue South",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9727886,
+    "lon": -93.3770783
+   },
+   "phone": "+17635462586",
+   "website": "https://www.hubersimportedcarservice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4131163732",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "jiffy-lube-golden-valley",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Golden Valley, MN at 6925 Market Street, Golden Valley, MN 55426. Phone: +17635932833. Website: https://www.jiffylube.com/locations/mn/golden-valley/2005.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-golden-valley.json",
+   "address": {
+    "streetAddress": "6925 Market Street",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.972792,
+    "lon": -93.368452
+   },
+   "phone": "+17635932833",
+   "website": "https://www.jiffylube.com/locations/mn/golden-valley/2005",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/513328715",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "transmission-shop-and-auto-repair-golden-valley",
+   "name": "Transmission Shop & Auto Repair",
+   "summary": "Transmission Shop & Auto Repair is an auto repair shop in Golden Valley, MN at 6946 Wayzata Boulevard, Golden Valley, MN 55426. Phone: +17635428409. Website: https://www.transmissionshopinc.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/transmission-shop-and-auto-repair-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/transmission-shop-and-auto-repair-golden-valley.json",
+   "address": {
+    "streetAddress": "6946 Wayzata Boulevard",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9719784,
+    "lon": -93.3692846
+   },
+   "phone": "+17635428409",
+   "website": "https://www.transmissionshopinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1200088066",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "dick-and-ricks-auto-interiors-golden-valley",
+   "name": "Dick and Rick's Auto Interiors",
+   "summary": "Dick and Rick's Auto Interiors is an auto repair shop in Golden Valley, MN at 6088 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17632016480.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dick-and-ricks-auto-interiors-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dick-and-ricks-auto-interiors-golden-valley.json",
+   "address": {
+    "streetAddress": "6088 Olson Memorial Highway",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.9856372,
+    "lon": -93.3570718
+   },
+   "phone": "+17632016480",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4525048998",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "feist-automotive-golden-valley",
+   "name": "Feist Automotive",
+   "summary": "Feist Automotive is an auto repair shop in Golden Valley, MN at 1875 Lilac Drive North, Golden Valley, MN 55422.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/feist-automotive-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/feist-automotive-golden-valley.json",
+   "address": {
+    "streetAddress": "1875 Lilac Drive North",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.9988349,
+    "lon": -93.3511251
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/356876108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "morries-auto-group-reconditioning-golden-valley",
+   "name": "Morrie's Auto Group Reconditioning",
+   "summary": "Morrie's Auto Group Reconditioning is an auto repair shop in Golden Valley, MN at 700 Colorado Avenue South, Golden Valley, MN 55416.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morries-auto-group-reconditioning-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morries-auto-group-reconditioning-golden-valley.json",
+   "address": {
+    "streetAddress": "700 Colorado Avenue South",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9734669,
+    "lon": -93.359802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/44970394",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "valvoline-golden-valley",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Golden Valley, MN at 8950 Highway 55, Golden Valley, MN 55427.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-golden-valley.json",
+   "address": {
+    "streetAddress": "8950 Highway 55",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55427",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55427",
+   "geo": {
+    "lat": 44.9844494,
+    "lon": -93.3942293
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13205500496",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "gregg-and-jims-services-golden-valley",
+   "name": "Gregg & Jim's Services",
+   "summary": "Gregg & Jim's Services is an auto repair shop in Golden Valley, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gregg-and-jims-services-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gregg-and-jims-services-golden-valley.json",
+   "address": {
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9992159,
+    "lon": -93.3597163
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/480536182",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

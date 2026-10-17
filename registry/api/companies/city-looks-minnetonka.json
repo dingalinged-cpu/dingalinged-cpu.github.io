@@ -1,0 +1,61 @@
+{
+ "slug": "city-looks-minnetonka",
+ "name": "City Looks",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon minnetonka mn",
+  "haircut minnetonka mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "13135 Ridgedale Drive",
+  "addressLocality": "Minnetonka",
+  "addressRegion": "MN",
+  "postalCode": "55305",
+  "addressCountry": "US"
+ },
+ "city": "Minnetonka",
+ "state": "MN",
+ "zip": "55305",
+ "geo": {
+  "lat": 44.9683854,
+  "lon": -93.4467337
+ },
+ "website": "https://citylooksminnetonka.com/",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3482425093",
+ "osm": {
+  "type": "node",
+  "id": 3482425093,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Minnetonka",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/city-looks-minnetonka/",
+ "summary": "City Looks is a hair salon in Minnetonka, MN at 13135 Ridgedale Drive, Minnetonka, MN 55305. Website: https://citylooksminnetonka.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

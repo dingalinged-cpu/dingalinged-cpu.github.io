@@ -1,0 +1,61 @@
+{
+ "keyword": "massage plymouth mn",
+ "slug": "massage-plymouth-mn",
+ "place": "Plymouth, MN",
+ "service": "massage",
+ "query": "Who are the best massage providers in Plymouth, MN?",
+ "matches": [
+  "massage in Plymouth, MN",
+  "massage near me (Plymouth, MN)",
+  "best massage Plymouth, MN",
+  "top rated massage Plymouth, MN",
+  "affordable massage Plymouth, MN",
+  "emergency massage Plymouth, MN"
+ ],
+ "answer": "The top unpaid massage listing for Plymouth, MN is Massage Retreat & Spa (a massage studio in Plymouth, MN at 4445 Nathan Lane North #Suite B, Plymouth, MN 55442). 1 massage businesses are listed for Plymouth, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "massage-retreat-and-spa-plymouth",
+   "name": "Massage Retreat & Spa",
+   "summary": "Massage Retreat & Spa is a massage studio in Plymouth, MN at 4445 Nathan Lane North #Suite B, Plymouth, MN 55442.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-retreat-and-spa-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-retreat-and-spa-plymouth.json",
+   "address": {
+    "streetAddress": "4445 Nathan Lane North #Suite B",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55442",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55442",
+   "geo": {
+    "lat": 45.03508,
+    "lon": -93.4092337
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7167433148",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

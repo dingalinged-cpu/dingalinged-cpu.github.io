@@ -1,0 +1,23 @@
+Light Rx Face and Body is a plastic surgeon in Maple Grove, MN at 11720 Elm Creek Boulevard #Building A, Suite 140, Maple Grove, MN 55369. Phone: +19524446518. Website: https://www.lightrx.com/maple-grove/.
+
+# Light Rx Face and Body
+
+- Category: plastic surgeon
+- Services: plastic surgeon
+- Address: 11720 Elm Creek Boulevard #Building A, Suite 140, Maple Grove, MN 55369
+- City: Maple Grove
+- State: MN
+- ZIP: 55369
+- Coordinates: 45.0956781, -93.4291492
+- Phone: +19524446518
+- Website: https://www.lightrx.com/maple-grove/
+- Email: maplegrove@lightrx.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/light-rx-face-and-body-maple-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/light-rx-face-and-body-maple-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5752836962 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

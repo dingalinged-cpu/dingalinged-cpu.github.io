@@ -1,0 +1,56 @@
+{
+ "slug": "scott-county-mini-storage-shakopee",
+ "name": "Scott County Mini Storage",
+ "categories": [
+  "storage units"
+ ],
+ "keywords": [
+  "storage units",
+  "storage units shakopee mn"
+ ],
+ "services": [
+  {
+   "name": "storage units",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "240 Shumway Street South #Suite 600",
+  "addressLocality": "Shakopee",
+  "addressRegion": "MN",
+  "postalCode": "55379",
+  "addressCountry": "US"
+ },
+ "city": "Shakopee",
+ "state": "MN",
+ "zip": "55379",
+ "geo": {
+  "lat": 44.7964045,
+  "lon": -93.5340239
+ },
+ "phone": "+19524456858",
+ "website": "https://www.shakopeestorage.com/",
+ "schema_type": "SelfStorage",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4812524624",
+ "osm": {
+  "type": "node",
+  "id": 4812524624,
+  "tags_used": {
+   "shop": "storage_rental"
+  }
+ },
+ "municipality": "Shakopee",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/scott-county-mini-storage-shakopee/",
+ "summary": "Scott County Mini Storage is a self-storage facility in Shakopee, MN at 240 Shumway Street South #Suite 600, Shakopee, MN 55379. Phone: +19524456858. Website: https://www.shakopeestorage.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

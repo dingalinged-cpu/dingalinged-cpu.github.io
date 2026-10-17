@@ -1,0 +1,23 @@
+GVM Food Marketing is a marketing agency in Golden Valley, MN at 5101 Olson Memorial Highway #5000, Golden Valley, MN 55422. Phone: +18009323031. Website: https://www.gvmfoodmarketing.com/.
+
+# GVM Food Marketing
+
+- Category: marketing agency
+- Services: marketing agency
+- Address: 5101 Olson Memorial Highway #5000, Golden Valley, MN 55422
+- City: Golden Valley
+- State: MN
+- ZIP: 55422
+- Coordinates: 44.983671, -93.3435808
+- Phone: +18009323031
+- Website: https://www.gvmfoodmarketing.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/gvm-food-marketing-golden-valley/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gvm-food-marketing-golden-valley.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11124443907 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

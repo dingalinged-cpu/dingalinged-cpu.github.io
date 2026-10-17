@@ -1,0 +1,54 @@
+{
+ "slug": "eden-prairie-montessori-eden-prairie",
+ "name": "Eden Prairie Montessori",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare eden prairie mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8098 Glen Lane",
+  "addressLocality": "Eden Prairie",
+  "addressRegion": "MN",
+  "postalCode": "55344",
+  "addressCountry": "US"
+ },
+ "city": "Eden Prairie",
+ "state": "MN",
+ "zip": "55344",
+ "geo": {
+  "lat": 44.8571985,
+  "lon": -93.4288426
+ },
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/52094588",
+ "osm": {
+  "type": "way",
+  "id": 52094588,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Eden Prairie",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/eden-prairie-montessori-eden-prairie/",
+ "summary": "Eden Prairie Montessori is a daycare in Eden Prairie, MN at 8098 Glen Lane, Eden Prairie, MN 55344.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

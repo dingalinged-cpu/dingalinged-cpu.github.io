@@ -1,0 +1,61 @@
+{
+ "keyword": "thrift store rogers mn",
+ "slug": "thrift-store-rogers-mn",
+ "place": "Rogers, MN",
+ "service": "thrift store",
+ "query": "Who are the best thrift store providers in Rogers, MN?",
+ "matches": [
+  "thrift store in Rogers, MN",
+  "thrift store near me (Rogers, MN)",
+  "best thrift store Rogers, MN",
+  "top rated thrift store Rogers, MN",
+  "affordable thrift store Rogers, MN",
+  "emergency thrift store Rogers, MN"
+ ],
+ "answer": "The top unpaid thrift store listing for Rogers, MN is The Salvation Army (a thrift store in Rogers, MN at 20870 Rogers Drive, Rogers, MN 55374). 1 thrift store businesses are listed for Rogers, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "the-salvation-army-rogers",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Rogers, MN at 20870 Rogers Drive, Rogers, MN 55374.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-rogers.json",
+   "address": {
+    "streetAddress": "20870 Rogers Drive",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1927401,
+    "lon": -93.5445476
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/770737709",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

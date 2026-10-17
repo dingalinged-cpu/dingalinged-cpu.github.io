@@ -1,0 +1,133 @@
+{
+ "keyword": "occupational therapist",
+ "slug": "occupational-therapist",
+ "place": "the United States",
+ "service": "occupational therapist",
+ "query": "Who are the best occupational therapist providers in the United States?",
+ "matches": [
+  "occupational therapist in the United States",
+  "occupational therapist near me (the United States)",
+  "best occupational therapist the United States",
+  "top rated occupational therapist the United States",
+  "affordable occupational therapist the United States",
+  "emergency occupational therapist the United States"
+ ],
+ "answer": "The top unpaid occupational therapist listing for the United States is Fairview Achievement Center (an occupational therapist in Saint Paul, MN at 2200 University Avenue West ##140, Saint Paul, MN 55114. Phone: +16126722815. Website: https://www.fairview.org/locations/university-crossing-at-vandalia/fairview-achievement-center). 3 occupational therapist businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "fairview-achievement-center-saint-paul",
+   "name": "Fairview Achievement Center",
+   "summary": "Fairview Achievement Center is an occupational therapist in Saint Paul, MN at 2200 University Avenue West ##140, Saint Paul, MN 55114. Phone: +16126722815. Website: https://www.fairview.org/locations/university-crossing-at-vandalia/fairview-achievement-center.",
+   "categories": [
+    "occupational therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fairview-achievement-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fairview-achievement-center-saint-paul.json",
+   "address": {
+    "streetAddress": "2200 University Avenue West ##140",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9608444,
+    "lon": -93.1910015
+   },
+   "phone": "+16126722815",
+   "website": "https://www.fairview.org/locations/university-crossing-at-vandalia/fairview-achievement-center",
+   "opening_hours": "Mo-Th 10:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152738759",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "minnesota-occupational-health-saint-paul",
+   "name": "Minnesota Occupational Health",
+   "summary": "Minnesota Occupational Health is an occupational therapist in Saint Paul, MN at 1661 Saint Anthony Avenue ##2, Saint Paul, MN 55104. Phone: +16519685300. Website: https://www.mohonline.com/.",
+   "categories": [
+    "occupational therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-occupational-health-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-occupational-health-saint-paul.json",
+   "address": {
+    "streetAddress": "1661 Saint Anthony Avenue ##2",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9525863,
+    "lon": -93.1704284
+   },
+   "phone": "+16519685300",
+   "website": "https://www.mohonline.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7207235107",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "berg-therapy-blaine",
+   "name": "Berg Therapy",
+   "summary": "Berg Therapy is an occupational therapist in Blaine, MN at 11800 Aberdeen Street Northeast #120, Blaine, MN 55434. Phone: +16124248526. Website: https://www.bergtherapymn.com/index.html.",
+   "categories": [
+    "occupational therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berg-therapy-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berg-therapy-blaine.json",
+   "address": {
+    "streetAddress": "11800 Aberdeen Street Northeast #120",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1839204,
+    "lon": -93.2338892
+   },
+   "phone": "+16124248526",
+   "website": "https://www.bergtherapymn.com/index.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13149614085",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

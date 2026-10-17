@@ -1,0 +1,23 @@
+Washburn-McReavy Welander Quest-Davies Funeral and Cremation is a funeral home in Minneapolis, MN at 2301 Hennepin Avenue South, Minneapolis, MN.
+
+# Washburn-McReavy Welander Quest-Davies Funeral and Cremation
+
+- Category: funeral home
+- Services: funeral home
+- Address: 2301 Hennepin Avenue South, Minneapolis, MN
+- City: Minneapolis
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9600506, -93.2928851
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-welander-quest-davies-funeral-and-cremation-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-welander-quest-davies-funeral-and-cremation-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6835960248 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

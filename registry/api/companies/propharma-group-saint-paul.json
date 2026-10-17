@@ -1,0 +1,56 @@
+{
+ "slug": "propharma-group-saint-paul",
+ "name": "ProPharma Group",
+ "categories": [
+  "business consultant"
+ ],
+ "keywords": [
+  "business consultant",
+  "business consultant saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "business consultant",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2635 University Avenue West #Suite 195",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.9681518,
+  "lon": -93.2047216
+ },
+ "phone": "+16519176100",
+ "website": "https://propharmagroup.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6277568959",
+ "osm": {
+  "type": "node",
+  "id": 6277568959,
+  "tags_used": {
+   "office": "consulting"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/propharma-group-saint-paul/",
+ "summary": "ProPharma Group is a business consultant in Saint Paul, MN at 2635 University Avenue West #Suite 195, Saint Paul, MN 55114. Phone: +16519176100. Website: https://propharmagroup.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

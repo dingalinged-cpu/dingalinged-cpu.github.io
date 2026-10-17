@@ -1,0 +1,191 @@
+{
+ "keyword": "dog boarding minneapolis mn",
+ "slug": "dog-boarding-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "dog boarding",
+ "query": "Who are the best dog boarding providers in Minneapolis, MN?",
+ "matches": [
+  "dog boarding in Minneapolis, MN",
+  "dog boarding near me (Minneapolis, MN)",
+  "best dog boarding Minneapolis, MN",
+  "top rated dog boarding Minneapolis, MN",
+  "affordable dog boarding Minneapolis, MN",
+  "emergency dog boarding Minneapolis, MN"
+ ],
+ "answer": "The top unpaid dog boarding listing for Minneapolis, MN is Downtown Dogs (a dog boarding facility in Minneapolis, MN at 821 2nd Avenue North, Minneapolis, MN 55405. Phone: +16123743647. Website: https://www.dtdogs.com/). 5 dog boarding businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "downtown-dogs-minneapolis",
+   "name": "Downtown Dogs",
+   "summary": "Downtown Dogs is a dog boarding facility in Minneapolis, MN at 821 2nd Avenue North, Minneapolis, MN 55405. Phone: +16123743647. Website: https://www.dtdogs.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/downtown-dogs-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/downtown-dogs-minneapolis.json",
+   "address": {
+    "streetAddress": "821 2nd Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9786711,
+    "lon": -93.2909711
+   },
+   "phone": "+16123743647",
+   "website": "https://www.dtdogs.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9119066530",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "canine-coach-minneapolis",
+   "name": "Canine Coach",
+   "summary": "Canine Coach is a dog boarding facility in Minneapolis, MN at 5405 42nd Avenue South, Minneapolis, MN 55417.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canine-coach-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canine-coach-minneapolis.json",
+   "address": {
+    "streetAddress": "5405 42nd Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.9051368,
+    "lon": -93.2123591
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1301858945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "city-paws-minneapolis",
+   "name": "City Paws",
+   "summary": "City Paws is a dog boarding facility in Minneapolis, MN at 300 South 2nd Street #4, Minneapolis, MN 55401.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-paws-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-paws-minneapolis.json",
+   "address": {
+    "streetAddress": "300 South 2nd Street #4",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9809099,
+    "lon": -93.2626071
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12333223453",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "city-paws-pet-club-minneapolis",
+   "name": "City Paws Pet Club",
+   "summary": "City Paws Pet Club is a dog boarding facility in Minneapolis, MN at 5300 Lyndale Avenue South, Minneapolis, MN 55419.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-paws-pet-club-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-paws-pet-club-minneapolis.json",
+   "address": {
+    "streetAddress": "5300 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9066852,
+    "lon": -93.2887268
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/80751549",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis",
+   "name": "City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming",
+   "summary": "City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming is a dog boarding facility in Minneapolis, MN at 3054 Excelsior Boulevard, Minneapolis, MN 55416.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis.json",
+   "address": {
+    "streetAddress": "3054 Excelsior Boulevard",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9471746,
+    "lon": -93.3217621
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/43324968",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

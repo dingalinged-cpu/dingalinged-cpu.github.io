@@ -1,0 +1,59 @@
+{
+ "keyword": "concrete contractor new brighton mn",
+ "slug": "concrete-contractor-new-brighton-mn",
+ "place": "New Brighton, MN",
+ "service": "concrete contractor",
+ "query": "Who are the best concrete contractor providers in New Brighton, MN?",
+ "matches": [
+  "concrete contractor in New Brighton, MN",
+  "concrete contractor near me (New Brighton, MN)",
+  "best concrete contractor New Brighton, MN",
+  "top rated concrete contractor New Brighton, MN",
+  "affordable concrete contractor New Brighton, MN",
+  "emergency concrete contractor New Brighton, MN"
+ ],
+ "answer": "The top unpaid concrete contractor listing for New Brighton, MN is Cascade Stone (a concrete contractor in New Brighton, MN. Website: https://www.cascadestone.com/). 1 concrete contractor businesses are listed for New Brighton, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "cascade-stone-new-brighton",
+   "name": "Cascade Stone",
+   "summary": "Cascade Stone is a concrete contractor in New Brighton, MN. Website: https://www.cascadestone.com/.",
+   "categories": [
+    "concrete contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cascade-stone-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cascade-stone-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0500308,
+    "lon": -93.198902
+   },
+   "website": "https://www.cascadestone.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12911695240",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

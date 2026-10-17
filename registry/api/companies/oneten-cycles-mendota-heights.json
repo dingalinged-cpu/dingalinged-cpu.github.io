@@ -1,0 +1,56 @@
+{
+ "slug": "oneten-cycles-mendota-heights",
+ "name": "OneTen Cycles",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop mendota heights mn"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1040 West Dakota Drive",
+  "addressLocality": "Mendota Heights",
+  "addressRegion": "MN",
+  "postalCode": "55120",
+  "addressCountry": "US"
+ },
+ "city": "Mendota Heights",
+ "state": "MN",
+ "zip": "55120",
+ "geo": {
+  "lat": 44.8830832,
+  "lon": -93.143237
+ },
+ "website": "https://www.onetencycles.com/",
+ "opening_hours": "Mo-Th 11:00-19:00, Fr 10:00-18:00, Sa 10:00-17:00, Su 12:00-16:00",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/220959792",
+ "osm": {
+  "type": "way",
+  "id": 220959792,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Mendota Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/oneten-cycles-mendota-heights/",
+ "summary": "OneTen Cycles is a bike shop in Mendota Heights, MN at 1040 West Dakota Drive, Mendota Heights, MN 55120. Website: https://www.onetencycles.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

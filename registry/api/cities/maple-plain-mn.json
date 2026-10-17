@@ -1,0 +1,47 @@
+{
+ "place": "Maple Plain, MN",
+ "slug": "maple-plain-mn",
+ "count": 1,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living maple plain mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-maple-plain-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "haven-homes-maple-plain",
+   "name": "Haven Homes",
+   "summary": "Haven Homes is an assisted living facility in Maple Plain, MN at 4848 Gateway Boulevard, Maple Plain, MN. Website: https://www.havenhomesseniorliving.org/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haven-homes-maple-plain/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haven-homes-maple-plain.json",
+   "address": {
+    "streetAddress": "4848 Gateway Boulevard",
+    "addressLocality": "Maple Plain",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Plain",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0060244,
+    "lon": -93.6472268
+   },
+   "website": "https://www.havenhomesseniorliving.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1485542758",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

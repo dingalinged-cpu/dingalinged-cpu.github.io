@@ -1,0 +1,55 @@
+{
+ "slug": "hypnoessence-minnetonka",
+ "name": "Hypnoessence",
+ "categories": [
+  "therapist"
+ ],
+ "keywords": [
+  "therapist",
+  "therapist minnetonka mn"
+ ],
+ "services": [
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5025 Crown Street",
+  "addressLocality": "Minnetonka",
+  "addressRegion": "MN",
+  "postalCode": "55345",
+  "addressCountry": "US"
+ },
+ "city": "Minnetonka",
+ "state": "MN",
+ "zip": "55345",
+ "geo": {
+  "lat": 44.9121947,
+  "lon": -93.4549087
+ },
+ "website": "https://hypnoessence.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/238162909",
+ "osm": {
+  "type": "way",
+  "id": 238162909,
+  "tags_used": {
+   "healthcare": "psychotherapist"
+  }
+ },
+ "municipality": "Minnetonka",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hypnoessence-minnetonka/",
+ "summary": "Hypnoessence is a therapy practice in Minnetonka, MN at 5025 Crown Street, Minnetonka, MN 55345. Website: https://hypnoessence.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

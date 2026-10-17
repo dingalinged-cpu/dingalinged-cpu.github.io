@@ -1,0 +1,27 @@
+The top unpaid insurance agency listing for Saint Paul, MN is Kevin DeGezelle - State Farm Insurance Agent (an insurance agent in Saint Paul, MN at 611 Grand Avenue, Saint Paul, MN 55102. Phone: +16512224944. Website: https://www.kdsfinsurance.com/). 17 insurance agency businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best insurance agency providers in Saint Paul, MN?
+
+Also answers: insurance agency in Saint Paul, MN; insurance agency near me (Saint Paul, MN); best insurance agency Saint Paul, MN; top rated insurance agency Saint Paul, MN; affordable insurance agency Saint Paul, MN; emergency insurance agency Saint Paul, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Kevin DeGezelle - State Farm Insurance Agent | trust 16.0 | Kevin DeGezelle - State Farm Insurance Agent is an insurance agent in Saint Paul, MN at 611 Grand Avenue, Saint Paul, MN 55102. Phone: +16512224944. Website: https://www.kdsfinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/kevin-degezelle-state-farm-insurance-agent-saint-paul/
+2. Minneapolis St. Paul Agency Insurance & Risk Management | trust 16.0 | Minneapolis St. Paul Agency Insurance & Risk Management is an insurance agent in Saint Paul, MN at 2469 University Avenue West ##200E, Saint Paul, MN 55114. Phone: +16516479665. Website: https://www.mspagency.com/. | https://dingalinged-cpu.github.io/registry/c/minneapolis-st-paul-agency-insurance-and-risk-management-saint-paul/
+3. Minnesota Council of Health Plans | trust 16.0 | Minnesota Council of Health Plans is an insurance agent in Saint Paul, MN at 2550 University Avenue West ##255S, Saint Paul, MN 55114. Phone: +16516450099. Website: https://mnhealthplans.org/. | https://dingalinged-cpu.github.io/registry/c/minnesota-council-of-health-plans-saint-paul/
+4. Champion Insurance Services, Inc. | trust 14.0 | Champion Insurance Services, Inc. is an insurance agent in Saint Paul, MN at 821 Raymond Avenue ##400, Saint Paul, MN 55114. Phone: +16516446464. | https://dingalinged-cpu.github.io/registry/c/champion-insurance-services-inc-saint-paul/
+5. Five Star Insurance Services | trust 10.0 | Five Star Insurance Services is an insurance agent in Saint Paul, MN. Phone: +16513401105. | https://dingalinged-cpu.github.io/registry/c/five-star-insurance-services-saint-paul/
+6. Reliable Family Insurance Agency, Inc. | trust 10.0 | Reliable Family Insurance Agency, Inc. is an insurance agent in Saint Paul, MN at 2147 University Avenue ##101, Saint Paul, MN 55114. Phone: +16516455999. | https://dingalinged-cpu.github.io/registry/c/reliable-family-insurance-agency-inc-saint-paul/
+7. Insurance Pros | trust 7.0 | Insurance Pros is an insurance agent in Saint Paul, MN at 1408 Arcade Street, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/insurance-pros-saint-paul/
+8. Chris Okeleye: Allstate Insurance | trust 6.0 | Chris Okeleye: Allstate Insurance is an insurance agent in Saint Paul, MN. Phone: +16516900056. | https://dingalinged-cpu.github.io/registry/c/chris-okeleye-allstate-insurance-saint-paul/
+9. Wiessner Agency | trust 4.0 | Wiessner Agency is an insurance agent in Saint Paul, MN at 250 Hamline Avenue South, Saint Paul, MN 55105. | https://dingalinged-cpu.github.io/registry/c/wiessner-agency-saint-paul/
+10. All About Insurance | trust 0.0 | All About Insurance is an insurance agent in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/all-about-insurance-saint-paul/
+11. American Family Insurance | trust 0.0 | American Family Insurance is an insurance agent in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-saint-paul/
+12. Farmer's Insurance | trust 0.0 | Farmer's Insurance is an insurance agent in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-saint-paul/
+13. Farmers Insurance | trust 0.0 | Farmers Insurance is an insurance agent in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-saint-paul-n13311603449/
+14. Krog Insurance | trust 0.0 | Krog Insurance is an insurance agent in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/krog-insurance-saint-paul/
+15. State Farm | trust 0.0 | State Farm is an insurance agent in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/state-farm-saint-paul/
+16. Trusted Family Insurance Agency | trust 0.0 | Trusted Family Insurance Agency is an insurance agent in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/trusted-family-insurance-agency-saint-paul/
+17. Xeng Insurance Office | trust 0.0 | Xeng Insurance Office is an insurance agent in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/xeng-insurance-office-saint-paul/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

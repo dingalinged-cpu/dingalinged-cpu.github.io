@@ -1,0 +1,915 @@
+{
+ "keyword": "martial arts",
+ "slug": "martial-arts",
+ "place": "the United States",
+ "service": "martial arts",
+ "query": "Who are the best martial arts providers in the United States?",
+ "matches": [
+  "martial arts in the United States",
+  "martial arts near me (the United States)",
+  "best martial arts the United States",
+  "top rated martial arts the United States",
+  "affordable martial arts the United States",
+  "emergency martial arts the United States"
+ ],
+ "answer": "The top unpaid martial arts listing for the United States is Z-Ultimate Self Defense Studios (a martial arts school in Richfield, MN at 2920 West 66th Street, Richfield, MN 55423. Phone: +16125648849. Website: https://zultimate.com/locations/edina/). 28 martial arts businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "z-ultimate-self-defense-studios-richfield",
+   "name": "Z-Ultimate Self Defense Studios",
+   "summary": "Z-Ultimate Self Defense Studios is a martial arts school in Richfield, MN at 2920 West 66th Street, Richfield, MN 55423. Phone: +16125648849. Website: https://zultimate.com/locations/edina/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/z-ultimate-self-defense-studios-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/z-ultimate-self-defense-studios-richfield.json",
+   "address": {
+    "streetAddress": "2920 West 66th Street",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8850562,
+    "lon": -93.3170445
+   },
+   "phone": "+16125648849",
+   "website": "https://zultimate.com/locations/edina/",
+   "opening_hours": "Mo-Fr 12:00-21:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5397502765",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "hwa-rang-do-martial-art-academy-minneapolis",
+   "name": "Hwa Rang Do Martial Art Academy",
+   "summary": "Hwa Rang Do Martial Art Academy is a martial arts school in Minneapolis, MN at 5417 Nicollet Avenue, Minneapolis, MN 55419. Phone: +16128245425. Website: https://www.hwarangdominneapolis.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hwa-rang-do-martial-art-academy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hwa-rang-do-martial-art-academy-minneapolis.json",
+   "address": {
+    "streetAddress": "5417 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9044721,
+    "lon": -93.2777459
+   },
+   "phone": "+16128245425",
+   "website": "https://www.hwarangdominneapolis.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241676890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "m-theory-martial-arts-saint-louis-park",
+   "name": "M-Theory Martial Arts",
+   "summary": "M-Theory Martial Arts is a martial arts school in Saint Louis Park, MN at 5700 36th Street West, Saint Louis Park, MN 55416. Phone: +19529208984. Website: https://mtheorymartialarts.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-theory-martial-arts-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-theory-martial-arts-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5700 36th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9379488,
+    "lon": -93.351911
+   },
+   "phone": "+19529208984",
+   "website": "https://mtheorymartialarts.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9591245742",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "shorin-ryu-minnesota-karate-saint-anthony",
+   "name": "Shorin Ryu Minnesota Karate",
+   "summary": "Shorin Ryu Minnesota Karate is a martial arts school in Saint Anthony, MN at 2914 Pentagon Drive, Saint Anthony, MN 55418. Phone: +16122035187. Website: https://www.shorinryu-mn.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shorin-ryu-minnesota-karate-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shorin-ryu-minnesota-karate-saint-anthony.json",
+   "address": {
+    "streetAddress": "2914 Pentagon Drive",
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0153712,
+    "lon": -93.2199256
+   },
+   "phone": "+16122035187",
+   "website": "https://www.shorinryu-mn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "twin-cities-tai-chi-chuan-studio-saint-paul",
+   "name": "Twin Cities T'ai Chi Ch'uan Studio",
+   "summary": "Twin Cities T'ai Chi Ch'uan Studio is a martial arts school in Saint Paul, MN at 2242 University Avenue West ##207, Saint Paul, MN 55114. Phone: +16517670267. Website: https://www.tctaichi.org/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-cities-tai-chi-chuan-studio-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-tai-chi-chuan-studio-saint-paul.json",
+   "address": {
+    "streetAddress": "2242 University Avenue West ##207",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9616735,
+    "lon": -93.1929435
+   },
+   "phone": "+16517670267",
+   "website": "https://www.tctaichi.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152738746",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "underground-jiu-jitsu-shakopee",
+   "name": "Underground Jiu-Jitsu",
+   "summary": "Underground Jiu-Jitsu is a martial arts school in Shakopee, MN at 215 1st Avenue East, Shakopee, MN 55379. Phone: +19523888737. Website: https://undergroundjj.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/underground-jiu-jitsu-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/underground-jiu-jitsu-shakopee.json",
+   "address": {
+    "streetAddress": "215 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7989313,
+    "lon": -93.5251137
+   },
+   "phone": "+19523888737",
+   "website": "https://undergroundjj.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389081",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "warriers-cove-saint-louis-park",
+   "name": "Warrier's Cove",
+   "summary": "Warrier's Cove is a martial arts school in Saint Louis Park, MN at 7107 Cedar Lake Road, Saint Louis Park, MN 55426. Phone: +16128088680. Website: https://warriorscove.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/warriers-cove-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/warriers-cove-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7107 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9593797,
+    "lon": -93.3701359
+   },
+   "phone": "+16128088680",
+   "website": "https://warriorscove.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/702348822",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "world-martial-arts-center-minneapolis",
+   "name": "World Martial Arts Center",
+   "summary": "World Martial Arts Center is a martial arts school in Minneapolis, MN at 2913 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238233. Website: https://www.wmacenter.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/world-martial-arts-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/world-martial-arts-center-minneapolis.json",
+   "address": {
+    "streetAddress": "2913 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9497916,
+    "lon": -93.2878664
+   },
+   "phone": "+16128238233",
+   "website": "https://www.wmacenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5289969415",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "minnesota-kali-group-minneapolis",
+   "name": "Minnesota Kali Group",
+   "summary": "Minnesota Kali Group is a martial arts school in Minneapolis, MN at 4532 Chicago Avenue, Minneapolis, MN. Phone: +16128216800. Website: https://www.mnkali.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-kali-group-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-kali-group-minneapolis.json",
+   "address": {
+    "streetAddress": "4532 Chicago Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9204997,
+    "lon": -93.2628818
+   },
+   "phone": "+16128216800",
+   "website": "https://www.mnkali.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3623461193",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "motion-city-new-brighton",
+   "name": "Motion City",
+   "summary": "Motion City is a martial arts school in New Brighton, MN at 550 County Road D West #2, New Brighton, MN. Phone: +16124660616. Website: https://motioncitybjj.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/motion-city-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/motion-city-new-brighton.json",
+   "address": {
+    "streetAddress": "550 County Road D West #2",
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0362331,
+    "lon": -93.1941964
+   },
+   "phone": "+16124660616",
+   "website": "https://motioncitybjj.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12960401416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "the-rising-sun-saint-paul",
+   "name": "The Rising Sun",
+   "summary": "The Rising Sun is a martial arts school in Saint Paul, MN at 2058 Marshall Avenue, Saint Paul, MN. Phone: +16516476987. Website: https://risingsunmartialartssupply.net/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-rising-sun-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-rising-sun-saint-paul.json",
+   "address": {
+    "streetAddress": "2058 Marshall Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482153,
+    "lon": -93.1871991
+   },
+   "phone": "+16516476987",
+   "website": "https://risingsunmartialartssupply.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5069870548",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "warriors-cove-little-canada",
+   "name": "Warrior's Cove",
+   "summary": "Warrior's Cove is a martial arts school in Little Canada, MN at 2900 Rice Street, Little Canada, MN. Phone: +16122087984. Website: https://warriorscove.com/st-paul-martial-arts/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/warriors-cove-little-canada/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/warriors-cove-little-canada.json",
+   "address": {
+    "streetAddress": "2900 Rice Street",
+    "addressLocality": "Little Canada",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Little Canada",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0285498,
+    "lon": -93.1030533
+   },
+   "phone": "+16122087984",
+   "website": "https://warriorscove.com/st-paul-martial-arts/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12162295201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "farrells-extreme-bodyshaping-eden-prairie",
+   "name": "Farrell's Extreme Bodyshaping",
+   "summary": "Farrell's Extreme Bodyshaping is a martial arts school in Eden Prairie, MN at 9627 Anderson Lakes Parkway, Eden Prairie, MN 55344. Website: https://fxbedenprairie.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farrells-extreme-bodyshaping-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farrells-extreme-bodyshaping-eden-prairie.json",
+   "address": {
+    "streetAddress": "9627 Anderson Lakes Parkway",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8359378,
+    "lon": -93.4004308
+   },
+   "website": "https://fxbedenprairie.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12191200556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "lees-black-belt-academy-rogers",
+   "name": "Lee's Black Belt Academy",
+   "summary": "Lee's Black Belt Academy is a martial arts school in Rogers, MN at 20965 South Diamond Lake Road #105, Rogers, MN. Website: https://leesblackbeltacademy.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lees-black-belt-academy-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lees-black-belt-academy-rogers.json",
+   "address": {
+    "streetAddress": "20965 South Diamond Lake Road #105",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1991393,
+    "lon": -93.5457898
+   },
+   "website": "https://leesblackbeltacademy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10876738965",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "dojo-karate-eden-prairie",
+   "name": "Dojo Karate",
+   "summary": "Dojo Karate is a martial arts school in Eden Prairie, MN at 7916 Mitchell Road, Eden Prairie, MN 55344.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dojo-karate-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dojo-karate-eden-prairie.json",
+   "address": {
+    "streetAddress": "7916 Mitchell Road",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8602997,
+    "lon": -93.4608829
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11686247505",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "grappler-station-saint-paul",
+   "name": "Grappler Station",
+   "summary": "Grappler Station is a martial arts school in Saint Paul, MN at 2015 Ford Parkway, Saint Paul, MN 55116.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grappler-station-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grappler-station-saint-paul.json",
+   "address": {
+    "streetAddress": "2015 Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9182653,
+    "lon": -93.18551
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/93360695",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "movement-arts-center-minneapolis",
+   "name": "Movement Arts Center",
+   "summary": "Movement Arts Center is a martial arts school in Minneapolis, MN at 2209 East Franklin Avenue, Minneapolis, MN 55404.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/movement-arts-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/movement-arts-center-minneapolis.json",
+   "address": {
+    "streetAddress": "2209 East Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.962579,
+    "lon": -93.240286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/66823281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "national-karate-eden-prairie",
+   "name": "National Karate",
+   "summary": "National Karate is a martial arts school in Eden Prairie, MN at 8423 Joiner Way, Eden Prairie, MN 55344.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-karate-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-karate-eden-prairie.json",
+   "address": {
+    "streetAddress": "8423 Joiner Way",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8509375,
+    "lon": -93.4305394
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12021287797",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "national-karate-minneapolis",
+   "name": "National Karate",
+   "summary": "National Karate is a martial arts school in Minneapolis, MN at 4608 Nicollet Avenue, Minneapolis, MN 55419.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-karate-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-karate-minneapolis.json",
+   "address": {
+    "streetAddress": "4608 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9193995,
+    "lon": -93.2784625
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11227203403",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "9-round-fitness-eden-prairie",
+   "name": "9 Round Fitness",
+   "summary": "9 Round Fitness is a martial arts school in Eden Prairie, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/9-round-fitness-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/9-round-fitness-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8583815,
+    "lon": -93.426705
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10597376662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "dojo-karate-rogers",
+   "name": "Dojo Karate",
+   "summary": "Dojo Karate is a martial arts school in Rogers, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dojo-karate-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dojo-karate-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2028663,
+    "lon": -93.5519644
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423666",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "focus-karate-edina",
+   "name": "Focus Karate",
+   "summary": "Focus Karate is a martial arts school in Edina, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/focus-karate-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/focus-karate-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8753577,
+    "lon": -93.362567
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3840269116",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "fusion-martial-arts-eagan",
+   "name": "Fusion Martial Arts",
+   "summary": "Fusion Martial Arts is a martial arts school in Eagan, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fusion-martial-arts-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fusion-martial-arts-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.834103,
+    "lon": -93.1426404
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448630629",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "karate-champlin",
+   "name": "Karate",
+   "summary": "Karate is a martial arts school in Champlin, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/karate-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/karate-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1617383,
+    "lon": -93.3905046
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8151238233",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "lees-championship-tae-kwon-do-academy-shoreview",
+   "name": "Lee's Championship Tae Kwon Do Academy",
+   "summary": "Lee's Championship Tae Kwon Do Academy is a martial arts school in Shoreview, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lees-championship-tae-kwon-do-academy-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lees-championship-tae-kwon-do-academy-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0810003,
+    "lon": -93.1462317
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3886994608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "midwest-karate-saint-paul",
+   "name": "Midwest Karate",
+   "summary": "Midwest Karate is a martial arts school in Saint Paul, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-karate-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-karate-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9596792,
+    "lon": -93.0700253
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/483590306",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "national-karate-crystal",
+   "name": "National Karate",
+   "summary": "National Karate is a martial arts school in Crystal, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-karate-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-karate-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0527716,
+    "lon": -93.3684035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129455340",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "national-karate-ramsey",
+   "name": "National Karate",
+   "summary": "National Karate is a martial arts school in Ramsey, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-karate-ramsey/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-karate-ramsey.json",
+   "address": {
+    "addressLocality": "Ramsey",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Ramsey",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2258601,
+    "lon": -93.3981573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8322199036",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

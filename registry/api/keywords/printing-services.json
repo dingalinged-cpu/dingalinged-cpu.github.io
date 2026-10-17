@@ -1,0 +1,1823 @@
+{
+ "keyword": "printing services",
+ "slug": "printing-services",
+ "place": "the United States",
+ "service": "printing services",
+ "query": "Who are the best printing services providers in the United States?",
+ "matches": [
+  "printing services in the United States",
+  "printing services near me (the United States)",
+  "best printing services the United States",
+  "top rated printing services the United States",
+  "affordable printing services the United States",
+  "emergency printing services the United States"
+ ],
+ "answer": "The top unpaid printing services listing for the United States is Afternoon Printing (a printing service in Minneapolis, MN at 733 East 48th Street, Minneapolis, MN 55417. Phone: +16122597346. Website: https://www.afternoonprinting.com/). 57 printing services businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "afternoon-printing-minneapolis",
+   "name": "Afternoon Printing",
+   "summary": "Afternoon Printing is a printing service in Minneapolis, MN at 733 East 48th Street, Minneapolis, MN 55417. Phone: +16122597346. Website: https://www.afternoonprinting.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/afternoon-printing-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/afternoon-printing-minneapolis.json",
+   "address": {
+    "streetAddress": "733 East 48th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.9160331,
+    "lon": -93.2631189
+   },
+   "phone": "+16122597346",
+   "website": "https://www.afternoonprinting.com/",
+   "opening_hours": "Mo-Th 10:00-17:00; Fr 12:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13628244092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "fastsigns-minneapolis",
+   "name": "Fastsigns",
+   "summary": "Fastsigns is a printing service in Minneapolis, MN at 110 South 8th Street #101, Minneapolis, MN 55402. Phone: +16124007956. Website: https://www.fastsigns.com/minneapolis-mn.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fastsigns-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fastsigns-minneapolis.json",
+   "address": {
+    "streetAddress": "110 South 8th Street #101",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55402",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55402",
+   "geo": {
+    "lat": 44.9752702,
+    "lon": -93.2711118
+   },
+   "phone": "+16124007956",
+   "website": "https://www.fastsigns.com/minneapolis-mn",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12569712437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "fedex-office-maple-grove",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Maple Grove, MN at 8057 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634946616. Website: https://local.fedex.com/mn/maple-grove/office-0770/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-maple-grove.json",
+   "address": {
+    "streetAddress": "8057 Wedgewood Lane",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1005148,
+    "lon": -93.4503686
+   },
+   "phone": "+17634946616",
+   "website": "https://local.fedex.com/mn/maple-grove/office-0770/",
+   "opening_hours": "Mo-Fr 07:00-22:00;Sa 08:00-20:00;Su 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613971252",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-ups-store-eagan",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Eagan, MN at 1960 Cliff Lake Road #129, Eagan, MN 55122. Phone: +16519941944. Website: https://locations.theupsstore.com/mn/eagan/1960-cliff-lake-rd.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-eagan.json",
+   "address": {
+    "streetAddress": "1960 Cliff Lake Road #129",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.792899,
+    "lon": -93.2052019
+   },
+   "phone": "+16519941944",
+   "website": "https://locations.theupsstore.com/mn/eagan/1960-cliff-lake-rd",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-16:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4824705621",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "the-ups-store-maple-grove",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Maple Grove, MN at 13570 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949440. Website: https://maplegrove-mn-1861.theupsstorelocal.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-maple-grove.json",
+   "address": {
+    "streetAddress": "13570 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1047077,
+    "lon": -93.4525404
+   },
+   "phone": "+17634949440",
+   "website": "https://maplegrove-mn-1861.theupsstorelocal.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00;Sa 09:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/610036219",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "the-ups-store-saint-louis-park",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Saint Louis Park, MN at 5115 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529278137. Website: https://locations.theupsstore.com/mn/saint-louis-park/5115-excelsior-blvd.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5115 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9307143,
+    "lon": -93.346544
+   },
+   "phone": "+19529278137",
+   "website": "https://locations.theupsstore.com/mn/saint-louis-park/5115-excelsior-blvd",
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-16:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2246717603",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "visual-expressions-graphic-design-and-printing-inc-minneapolis",
+   "name": "Visual Expressions Graphic Design & Printing, Inc.",
+   "summary": "Visual Expressions Graphic Design & Printing, Inc. is a printing service in Minneapolis, MN at 4009 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127291649. Website: https://printve.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/visual-expressions-graphic-design-and-printing-inc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/visual-expressions-graphic-design-and-printing-inc-minneapolis.json",
+   "address": {
+    "streetAddress": "4009 Minnehaha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9302167,
+    "lon": -93.2207302
+   },
+   "phone": "+16127291649",
+   "website": "https://printve.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9757513564",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "the-ups-store-roseville-n11179132583",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Roseville, MN at 2355 Perimeter Drive, Roseville, MN. Phone: +16516350636. Website: https://locations.theupsstore.com/mn/roseville/2355-fairview-ave.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-roseville-n11179132583/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-roseville-n11179132583.json",
+   "address": {
+    "streetAddress": "2355 Perimeter Drive",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0119461,
+    "lon": -93.1776476
+   },
+   "phone": "+16516350636",
+   "website": "https://locations.theupsstore.com/mn/roseville/2355-fairview-ave",
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11179132583",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "bolger-saint-paul",
+   "name": "Bolger",
+   "summary": "Bolger is a printing service in Saint Paul, MN at 3301 Como Avenue, Saint Paul, MN 55108. Phone: +16516456311. Website: https://bolgerinc.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bolger-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bolger-saint-paul.json",
+   "address": {
+    "streetAddress": "3301 Como Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9884054,
+    "lon": -93.2067277
+   },
+   "phone": "+16516456311",
+   "website": "https://bolgerinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267272975",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "fedex-office-saint-louis-park",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Saint Louis Park, MN at 5330 Cedar Lake Road #200, Saint Louis Park, MN 55416. Phone: +19524179469. Website: https://local.fedex.com/en-us/mn/st-louis-park/office-1861?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5330 Cedar Lake Road #200",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.962941,
+    "lon": -93.3479677
+   },
+   "phone": "+19524179469",
+   "website": "https://local.fedex.com/en-us/mn/st-louis-park/office-1861?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9610330950",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "jerrys-printing-edina",
+   "name": "Jerry's Printing",
+   "summary": "Jerry's Printing is a printing service in Edina, MN. Phone: +19529201949. Website: https://www.jerrysprinting.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jerrys-printing-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jerrys-printing-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9109091,
+    "lon": -93.3548068
+   },
+   "phone": "+19529201949",
+   "website": "https://www.jerrysprinting.com/",
+   "opening_hours": "Mo-Fr 08:30-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335570223",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "linhoff-photo-the-print-refinery-saint-louis-park",
+   "name": "Linhoff Photo + The Print Refinery",
+   "summary": "Linhoff Photo + The Print Refinery is a printing service in Saint Louis Park, MN at 4811 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529277333. Website: https://www.linhoff.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linhoff-photo-the-print-refinery-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linhoff-photo-the-print-refinery-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4811 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.932543,
+    "lon": -93.3417551
+   },
+   "phone": "+19529277333",
+   "website": "https://www.linhoff.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566621911",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "the-ups-store-minneapolis-n13020020613",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Minneapolis, MN at 3109 West 50th Street, Minneapolis, MN 55410. Phone: +16129250555. Website: https://locations.theupsstore.com/mn/minneapolis/3109-w-50th-st.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-minneapolis-n13020020613/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-minneapolis-n13020020613.json",
+   "address": {
+    "streetAddress": "3109 West 50th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9123723,
+    "lon": -93.3193767
+   },
+   "phone": "+16129250555",
+   "website": "https://locations.theupsstore.com/mn/minneapolis/3109-w-50th-st",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13020020613",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "thomas-printworks-minneapolis",
+   "name": "Thomas Printworks",
+   "summary": "Thomas Printworks is a printing service in Minneapolis, MN at 801 2nd Avenue North, Minneapolis, MN 55405. Phone: +16123741120. Website: https://thomasprintworks.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thomas-printworks-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thomas-printworks-minneapolis.json",
+   "address": {
+    "streetAddress": "801 2nd Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.978578,
+    "lon": -93.2898684
+   },
+   "phone": "+16123741120",
+   "website": "https://thomasprintworks.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/101142653",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "zip-printing-and-copy-shop-saint-louis-park",
+   "name": "Zip Printing & Copy Shop",
+   "summary": "Zip Printing & Copy Shop is a printing service in Saint Louis Park, MN at 4950 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529202113. Website: https://www.zipcopyshop.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zip-printing-and-copy-shop-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zip-printing-and-copy-shop-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4950 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9324364,
+    "lon": -93.3441776
+   },
+   "phone": "+19529202113",
+   "website": "https://www.zipcopyshop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875198",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "modern-press-new-brighton",
+   "name": "Modern Press",
+   "summary": "Modern Press is a printing service in New Brighton, MN at 808 1st Street Southwest, New Brighton, MN. Phone: +16516334000. Website: https://superprinter.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/modern-press-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/modern-press-new-brighton.json",
+   "address": {
+    "streetAddress": "808 1st Street Southwest",
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0488289,
+    "lon": -93.1984214
+   },
+   "phone": "+16516334000",
+   "website": "https://superprinter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12911698256",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "the-ups-store-edina",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Edina, MN at 5021 Vernon Avenue, Edina, MN 55436. Website: https://locations.theupsstore.com/mn/edina/5021-vernon-ave.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-edina.json",
+   "address": {
+    "streetAddress": "5021 Vernon Avenue",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9116417,
+    "lon": -93.3543939
+   },
+   "website": "https://locations.theupsstore.com/mn/edina/5021-vernon-ave",
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1908446285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "the-ups-store-minneapolis-n6502874516",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Minneapolis, MN at 2801 Hennepin Avenue South, Minneapolis, MN. Website: https://locations.theupsstore.com/mn/minneapolis/2801-hennepin-ave-s.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-minneapolis-n6502874516/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-minneapolis-n6502874516.json",
+   "address": {
+    "streetAddress": "2801 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9517186,
+    "lon": -93.2980527
+   },
+   "website": "https://locations.theupsstore.com/mn/minneapolis/2801-hennepin-ave-s",
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-16:00; Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6502874516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "fedex-office-maplewood",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Maplewood, MN at 2303 White Bear Avenue, Maplewood, MN 55109. Website: https://local.fedex.com/mn/maplewood/office-0617/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-maplewood.json",
+   "address": {
+    "streetAddress": "2303 White Bear Avenue",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0108245,
+    "lon": -93.0236602
+   },
+   "website": "https://local.fedex.com/mn/maplewood/office-0617/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4962959648",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "the-bitter-buffalo-minneapolis",
+   "name": "The Bitter Buffalo",
+   "summary": "The Bitter Buffalo is a printing service in Minneapolis, MN at 4557 34th Avenue South, Minneapolis, MN 55406. Website: https://www.thebitterbuffalo.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-bitter-buffalo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-bitter-buffalo-minneapolis.json",
+   "address": {
+    "streetAddress": "4557 34th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.919918,
+    "lon": -93.2227948
+   },
+   "website": "https://www.thebitterbuffalo.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12239156862",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "fedex-office-minneapolis",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Minneapolis, MN at 1430 West Lake Street, Minneapolis, MN 55408.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-minneapolis.json",
+   "address": {
+    "streetAddress": "1430 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9485104,
+    "lon": -93.2991211
+   },
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su 12:00-18:00; PH off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1459256403",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "fedex-office-richfield",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Richfield, MN at 718 West 66th Street, Richfield, MN 55423.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-richfield.json",
+   "address": {
+    "streetAddress": "718 West 66th Street",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8841981,
+    "lon": -93.2874941
+   },
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11688622865",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "the-ups-store-minneapolis-n9565699937",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Minneapolis, MN at 1730 New Brighton Boulevard #Suite 104, Minneapolis, MN 55413.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-minneapolis-n9565699937/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-minneapolis-n9565699937.json",
+   "address": {
+    "streetAddress": "1730 New Brighton Boulevard #Suite 104",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0056183,
+    "lon": -93.2280324
+   },
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-16:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9565699937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "the-ups-store-roseville",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Roseville, MN at 1769 Lexington Avenue North, Roseville, MN 55113.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-roseville.json",
+   "address": {
+    "streetAddress": "1769 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9947538,
+    "lon": -93.1469126
+   },
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-17:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1331864606",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "fedex-office-roseville",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Roseville, MN at 2189 Snelling Avenue North #B, Roseville, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-roseville.json",
+   "address": {
+    "streetAddress": "2189 Snelling Avenue North #B",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0072634,
+    "lon": -93.1675499
+   },
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11914372608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "the-ups-store-saint-paul",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Saint Paul, MN at 2038 Ford Parkway, Saint Paul, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-saint-paul.json",
+   "address": {
+    "streetAddress": "2038 Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9176067,
+    "lon": -93.1864883
+   },
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/660909472",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "alphagraphics-minneapolis",
+   "name": "AlphaGraphics",
+   "summary": "AlphaGraphics is a printing service in Minneapolis, MN. Website: https://www.alphagraphics.com/us-minnesota-minneapolis-us401.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alphagraphics-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alphagraphics-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758911,
+    "lon": -93.2744662
+   },
+   "website": "https://www.alphagraphics.com/us-minnesota-minneapolis-us401",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13265552501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "bryant-graphics-saint-louis-park",
+   "name": "Bryant Graphics",
+   "summary": "Bryant Graphics is a printing service in Saint Louis Park, MN at 6500 Walker Street, Saint Louis Park, MN 55426.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bryant-graphics-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bryant-graphics-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6500 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9391382,
+    "lon": -93.3620338
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604575737",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "fedex-office-chanhassen",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Chanhassen, MN at 880 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-chanhassen.json",
+   "address": {
+    "streetAddress": "880 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8628962,
+    "lon": -93.5437065
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42850152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "fedex-office-eden-prairie",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Eden Prairie, MN at 11993 Singletree Lane, Eden Prairie, MN 55344.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-eden-prairie.json",
+   "address": {
+    "streetAddress": "11993 Singletree Lane",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8561167,
+    "lon": -93.4283194
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/922987677",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "fedex-office-saint-paul",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Saint Paul, MN at 58 Snelling Avenue South, Saint Paul, MN 55105.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-saint-paul.json",
+   "address": {
+    "streetAddress": "58 Snelling Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9397534,
+    "lon": -93.1665721
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/126308531",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "fundog-bandanas-saint-louis-park",
+   "name": "FunDog Bandanas",
+   "summary": "FunDog Bandanas is a printing service in Saint Louis Park, MN at 6408 Cambridge Street, Saint Louis Park, MN 55426.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fundog-bandanas-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fundog-bandanas-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6408 Cambridge Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9336693,
+    "lon": -93.3613313
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9596063881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "the-ups-store-chaska",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Chaska, MN at 168 Pioneer Trail, Chaska, MN 55318.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-chaska.json",
+   "address": {
+    "streetAddress": "168 Pioneer Trail",
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "postalCode": "55318",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "zip": "55318",
+   "geo": {
+    "lat": 44.8301431,
+    "lon": -93.6008437
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13013695840",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "the-ups-store-edina-n11449400290",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Edina, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-edina-n11449400290/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-edina-n11449400290.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8675052,
+    "lon": -93.3266174
+   },
+   "opening_hours": "Mo-Fr 08:30-18:30; Su 09:30-15:00; Sa 08:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449400290",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "the-ups-store-maplewood",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Maplewood, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0178924,
+    "lon": -93.0210389
+   },
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:30-16:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12388823964",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "the-ups-store-west-saint-paul",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in West Saint Paul, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8951909,
+    "lon": -93.0788106
+   },
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729479027",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "lee-collins-ltd-new-brighton",
+   "name": "Lee Collins Ltd",
+   "summary": "Lee Collins Ltd is a printing service in New Brighton, MN at 564 Old Highway 8, New Brighton, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lee-collins-ltd-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lee-collins-ltd-new-brighton.json",
+   "address": {
+    "streetAddress": "564 Old Highway 8",
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.058589,
+    "lon": -93.1985204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12899894704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "fedex-blaine",
+   "name": "FedEx",
+   "summary": "FedEx is a printing service in Blaine, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1274173,
+    "lon": -93.2568365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453447777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "fedex-office-blaine",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Blaine, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1600556,
+    "lon": -93.1605904
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6926007125",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "fedex-office-eagan",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Eagan, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8307091,
+    "lon": -93.1635996
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2398910733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "fedex-office-minneapolis-n9219442092",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Minneapolis, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-minneapolis-n9219442092/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-minneapolis-n9219442092.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758503,
+    "lon": -93.2719739
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9219442092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "fedex-office-minnetonka",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Minnetonka, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8951753,
+    "lon": -93.4197535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/662733596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "fedex-office-vadnais-heights",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Vadnais Heights, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-vadnais-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-vadnais-heights.json",
+   "address": {
+    "addressLocality": "Vadnais Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Vadnais Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0493109,
+    "lon": -93.0646573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9251078837",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "fedex-office-west-saint-paul",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in West Saint Paul, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8973041,
+    "lon": -93.0812238
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729438691",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "insty-prints-saint-paul",
+   "name": "Insty-Prints",
+   "summary": "Insty-Prints is a printing service in Saint Paul, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insty-prints-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insty-prints-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9040066,
+    "lon": -93.16651
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/773366964",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "instyprints-saint-paul",
+   "name": "InstyPrints",
+   "summary": "InstyPrints is a printing service in Saint Paul, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/instyprints-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/instyprints-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.920178,
+    "lon": -93.1374827
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/96779241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "minuteman-press-new-brighton",
+   "name": "Minuteman Press",
+   "summary": "Minuteman Press is a printing service in New Brighton, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minuteman-press-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minuteman-press-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0584072,
+    "lon": -93.1937649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7360557230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "printer-sales-service-new-brighton",
+   "name": "Printer Sales Service",
+   "summary": "Printer Sales Service is a printing service in New Brighton, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/printer-sales-service-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/printer-sales-service-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.050712,
+    "lon": -93.1903025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7360628322",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "riot-saint-louis-park",
+   "name": "Riot",
+   "summary": "Riot is a printing service in Saint Louis Park, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riot-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riot-saint-louis-park.json",
+   "address": {
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9427388,
+    "lon": -93.340585
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13588650763",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "the-ups-store-bloomington",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Bloomington, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8609617,
+    "lon": -93.3080077
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6412456037",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "the-ups-store-eagan-n12724585213",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Eagan, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-eagan-n12724585213/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-eagan-n12724585213.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8312178,
+    "lon": -93.158781
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724585213",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "the-ups-store-minneapolis",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Minneapolis, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9780924,
+    "lon": -93.2734649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5955582351",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "the-ups-store-minnetonka",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Minnetonka, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9180175,
+    "lon": -93.5016981
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "the-ups-store-rogers",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Rogers, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1977972,
+    "lon": -93.5573022
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423686",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "the-ups-store-saint-paul-n3246904112",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Saint Paul, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-saint-paul-n3246904112/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-saint-paul-n3246904112.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9553287,
+    "lon": -93.1579673
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3246904112",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "the-ups-store-wayzata",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Wayzata, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-wayzata.json",
+   "address": {
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9717918,
+    "lon": -93.499908
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8541900855",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "thomas-printworks-eden-prairie",
+   "name": "Thomas Printworks",
+   "summary": "Thomas Printworks is a printing service in Eden Prairie, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thomas-printworks-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thomas-printworks-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8583058,
+    "lon": -93.4267226
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10597376661",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

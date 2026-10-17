@@ -1,0 +1,120 @@
+{
+ "keyword": "car wash brooklyn center mn",
+ "slug": "car-wash-brooklyn-center-mn",
+ "place": "Brooklyn Center, MN",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in Brooklyn Center, MN?",
+ "matches": [
+  "car wash in Brooklyn Center, MN",
+  "car wash near me (Brooklyn Center, MN)",
+  "best car wash Brooklyn Center, MN",
+  "top rated car wash Brooklyn Center, MN",
+  "affordable car wash Brooklyn Center, MN",
+  "emergency car wash Brooklyn Center, MN"
+ ],
+ "answer": "The top unpaid car wash listing for Brooklyn Center, MN is Pop! Car Wash (a car wash in Brooklyn Center, MN at 1080 Shingle Creek Crossing, Brooklyn Center, MN 55430). 3 car wash businesses are listed for Brooklyn Center, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "pop-car-wash-brooklyn-center",
+   "name": "Pop! Car Wash",
+   "summary": "Pop! Car Wash is a car wash in Brooklyn Center, MN at 1080 Shingle Creek Crossing, Brooklyn Center, MN 55430.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pop-car-wash-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pop-car-wash-brooklyn-center.json",
+   "address": {
+    "streetAddress": "1080 Shingle Creek Crossing",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0585712,
+    "lon": -93.3145285
+   },
+   "opening_hours": "Mo-Fr 07:30-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1031050894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "speedy-wash-brooklyn-center",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Brooklyn Center, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-brooklyn-center.json",
+   "address": {
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0815048,
+    "lon": -93.3376914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478538955",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "speedy-wash-brooklyn-center-n12478589865",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Brooklyn Center, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-brooklyn-center-n12478589865/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-brooklyn-center-n12478589865.json",
+   "address": {
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0737693,
+    "lon": -93.2878532
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478589865",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

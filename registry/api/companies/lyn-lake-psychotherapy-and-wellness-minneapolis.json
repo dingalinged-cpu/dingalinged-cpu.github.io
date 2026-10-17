@@ -1,0 +1,53 @@
+{
+ "slug": "lyn-lake-psychotherapy-and-wellness-minneapolis",
+ "name": "Lyn-Lake Psychotherapy and Wellness",
+ "categories": [
+  "therapist"
+ ],
+ "keywords": [
+  "therapist",
+  "therapist minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "therapist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3033 Excelsior Boulevard",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9476391,
+  "lon": -93.3184208
+ },
+ "website": "https://therapy-mn.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13706216736",
+ "osm": {
+  "type": "node",
+  "id": 13706216736,
+  "tags_used": {
+   "healthcare": "psychotherapist"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lyn-lake-psychotherapy-and-wellness-minneapolis/",
+ "summary": "Lyn-Lake Psychotherapy and Wellness is a therapy practice in Minneapolis, MN at 3033 Excelsior Boulevard, Minneapolis, MN. Website: https://therapy-mn.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

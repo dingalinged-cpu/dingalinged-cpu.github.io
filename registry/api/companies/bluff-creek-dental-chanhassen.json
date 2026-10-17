@@ -1,0 +1,55 @@
+{
+ "slug": "bluff-creek-dental-chanhassen",
+ "name": "Bluff Creek Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist chanhassen mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "600 Market Street",
+  "addressLocality": "Chanhassen",
+  "addressRegion": "MN",
+  "postalCode": "55317",
+  "addressCountry": "US"
+ },
+ "city": "Chanhassen",
+ "state": "MN",
+ "zip": "55317",
+ "geo": {
+  "lat": 44.8608295,
+  "lon": -93.536681
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6391789951",
+ "osm": {
+  "type": "node",
+  "id": 6391789951,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Chanhassen",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bluff-creek-dental-chanhassen/",
+ "summary": "Bluff Creek Dental is a dentist in Chanhassen, MN at 600 Market Street, Chanhassen, MN 55317.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

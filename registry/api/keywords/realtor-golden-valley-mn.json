@@ -1,0 +1,97 @@
+{
+ "keyword": "realtor golden valley mn",
+ "slug": "realtor-golden-valley-mn",
+ "place": "Golden Valley, MN",
+ "service": "realtor",
+ "query": "Who are the best realtor providers in Golden Valley, MN?",
+ "matches": [
+  "realtor in Golden Valley, MN",
+  "realtor near me (Golden Valley, MN)",
+  "best realtor Golden Valley, MN",
+  "top rated realtor Golden Valley, MN",
+  "affordable realtor Golden Valley, MN",
+  "emergency realtor Golden Valley, MN"
+ ],
+ "answer": "The top unpaid realtor listing for Golden Valley, MN is Bigos Management, Inc. (a real estate agency in Golden Valley, MN at 8325 Wayzata Boulevard #200, Golden Valley, MN 55426. Phone: +17633677400. Website: https://www.tbigos.com/). 2 realtor businesses are listed for Golden Valley, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bigos-management-inc-golden-valley",
+   "name": "Bigos Management, Inc.",
+   "summary": "Bigos Management, Inc. is a real estate agency in Golden Valley, MN at 8325 Wayzata Boulevard #200, Golden Valley, MN 55426. Phone: +17633677400. Website: https://www.tbigos.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bigos-management-inc-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bigos-management-inc-golden-valley.json",
+   "address": {
+    "streetAddress": "8325 Wayzata Boulevard #200",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9726271,
+    "lon": -93.385542
+   },
+   "phone": "+17633677400",
+   "website": "https://www.tbigos.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6330132696",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "david-a-maggitt-state-farm-golden-valley",
+   "name": "David A Maggitt - State Farm",
+   "summary": "David A Maggitt - State Farm is a real estate agency in Golden Valley, MN at 4969 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17635451927. Website: https://www.statefarm.com/agent/US/MN/Golden-Valley/David-A-Maggitt-WB84S1YS000?cmpid=gbfr_blm_0001.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/david-a-maggitt-state-farm-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/david-a-maggitt-state-farm-golden-valley.json",
+   "address": {
+    "streetAddress": "4969 Olson Memorial Highway",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.9832806,
+    "lon": -93.3424151
+   },
+   "phone": "+17635451927",
+   "website": "https://www.statefarm.com/agent/US/MN/Golden-Valley/David-A-Maggitt-WB84S1YS000?cmpid=gbfr_blm_0001",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11124443897",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

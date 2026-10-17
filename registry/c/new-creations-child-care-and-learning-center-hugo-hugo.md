@@ -1,0 +1,23 @@
+New Creations Child Care & Learning Center | Hugo is a daycare in Hugo, MN at 5448 140th Street North, Hugo, MN 55038. Phone: +16514293555. Website: https://www.newcreationschildcare.com/hugo.
+
+# New Creations Child Care & Learning Center | Hugo
+
+- Category: daycare
+- Services: daycare
+- Address: 5448 140th Street North, Hugo, MN 55038
+- City: Hugo
+- State: MN
+- ZIP: 55038
+- Coordinates: 45.1531025, -92.9965633
+- Phone: +16514293555
+- Website: https://www.newcreationschildcare.com/hugo
+- Email: Marketing@newcreationschildcare.com
+- Opening hours (OSM syntax): Mo-Fr 07:00-17:15
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-hugo-hugo/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-hugo-hugo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11030625305 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,58 @@
+{
+ "keyword": "auto repair andover mn",
+ "slug": "auto-repair-andover-mn",
+ "place": "Andover, MN",
+ "service": "auto repair",
+ "query": "Who are the best auto repair providers in Andover, MN?",
+ "matches": [
+  "auto repair in Andover, MN",
+  "auto repair near me (Andover, MN)",
+  "best auto repair Andover, MN",
+  "top rated auto repair Andover, MN",
+  "affordable auto repair Andover, MN",
+  "emergency auto repair Andover, MN"
+ ],
+ "answer": "The top unpaid auto repair listing for Andover, MN is Slims Motor Clinic (an auto repair shop in Andover, MN). 1 auto repair businesses are listed for Andover, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "slims-motor-clinic-andover",
+   "name": "Slims Motor Clinic",
+   "summary": "Slims Motor Clinic is an auto repair shop in Andover, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slims-motor-clinic-andover/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slims-motor-clinic-andover.json",
+   "address": {
+    "addressLocality": "Andover",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Andover",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2280429,
+    "lon": -93.3773637
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1148564936",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

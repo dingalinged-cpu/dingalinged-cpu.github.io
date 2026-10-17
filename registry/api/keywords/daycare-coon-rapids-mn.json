@@ -1,0 +1,93 @@
+{
+ "keyword": "daycare coon rapids mn",
+ "slug": "daycare-coon-rapids-mn",
+ "place": "Coon Rapids, MN",
+ "service": "daycare",
+ "query": "Who are the best daycare providers in Coon Rapids, MN?",
+ "matches": [
+  "daycare in Coon Rapids, MN",
+  "daycare near me (Coon Rapids, MN)",
+  "best daycare Coon Rapids, MN",
+  "top rated daycare Coon Rapids, MN",
+  "affordable daycare Coon Rapids, MN",
+  "emergency daycare Coon Rapids, MN"
+ ],
+ "answer": "The top unpaid daycare listing for Coon Rapids, MN is New Creations Child Care & Learning Center | Coon Rapids (a daycare in Coon Rapids, MN at 1805 Gateway Drive Northwest, Coon Rapids, MN 55448. Phone: +17636001335. Website: https://www.newcreationschildcare.com/riverdale). 2 daycare businesses are listed for Coon Rapids, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "new-creations-child-care-and-learning-center-coon-rapids-coon-rapids",
+   "name": "New Creations Child Care & Learning Center | Coon Rapids",
+   "summary": "New Creations Child Care & Learning Center | Coon Rapids is a daycare in Coon Rapids, MN at 1805 Gateway Drive Northwest, Coon Rapids, MN 55448. Phone: +17636001335. Website: https://www.newcreationschildcare.com/riverdale.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-coon-rapids-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-coon-rapids-coon-rapids.json",
+   "address": {
+    "streetAddress": "1805 Gateway Drive Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55448",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55448",
+   "geo": {
+    "lat": 45.1860638,
+    "lon": -93.3124991
+   },
+   "phone": "+17636001335",
+   "website": "https://www.newcreationschildcare.com/riverdale",
+   "opening_hours": "Mo-Fr 06:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11030619805",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "kindercare-coon-rapids",
+   "name": "KinderCare",
+   "summary": "KinderCare is a daycare in Coon Rapids, MN.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1905627,
+    "lon": -93.3106507
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/669740264",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

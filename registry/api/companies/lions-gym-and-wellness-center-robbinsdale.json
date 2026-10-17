@@ -1,0 +1,54 @@
+{
+ "slug": "lions-gym-and-wellness-center-robbinsdale",
+ "name": "Lions Gym & Wellness Center",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym robbinsdale mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4123 West Broadway Avenue",
+  "addressLocality": "Robbinsdale",
+  "addressRegion": "MN",
+  "postalCode": "55422",
+  "addressCountry": "US"
+ },
+ "city": "Robbinsdale",
+ "state": "MN",
+ "zip": "55422",
+ "geo": {
+  "lat": 45.0299735,
+  "lon": -93.3384299
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/762930153",
+ "osm": {
+  "type": "way",
+  "id": 762930153,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Robbinsdale",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lions-gym-and-wellness-center-robbinsdale/",
+ "summary": "Lions Gym & Wellness Center is a gym in Robbinsdale, MN at 4123 West Broadway Avenue, Robbinsdale, MN 55422.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

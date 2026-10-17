@@ -1,0 +1,17 @@
+The top unpaid pediatrician listing for the United States is People's Center Clinics & Services (a family medicine practice in Minneapolis, MN at 425 20th Avenue South, Minneapolis, MN 55454. Phone: +16123324973. Website: https://www.peoples-center.org/). 7 pediatrician businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best pediatrician providers in the United States?
+
+Also answers: pediatrician in the United States; pediatrician near me (the United States); best pediatrician the United States; top rated pediatrician the United States; affordable pediatrician the United States; emergency pediatrician the United States
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. People's Center Clinics & Services | trust 20.0 | People's Center Clinics & Services is a family medicine practice in Minneapolis, MN at 425 20th Avenue South, Minneapolis, MN 55454. Phone: +16123324973. Website: https://www.peoples-center.org/. | https://dingalinged-cpu.github.io/registry/c/peoples-center-clinics-and-services-minneapolis/
+2. Fairview Children's Clinic | trust 16.0 | Fairview Children's Clinic is a pediatrician in Minneapolis, MN at 2535 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16126722350. Website: https://www.fairview.org/Locations/Fairview-Clinics-University-Childrens. | https://dingalinged-cpu.github.io/registry/c/fairview-childrens-clinic-minneapolis/
+3. Central + Priority Pediatrics | trust 10.0 | Central + Priority Pediatrics is a pediatrician in Roseville, MN at 2436 Cleveland Avenue North, Roseville, MN 55113. Website: https://www.centralpeds.com/. | https://dingalinged-cpu.github.io/registry/c/central-priority-pediatrics-roseville/
+4. Children's Minnesota - St. Paul Clinic | trust 10.0 | Children's Minnesota - St. Paul Clinic is a pediatrician in Saint Paul, MN at 347 North Smith Avenue, Saint Paul, MN 55102. Website: https://www.childrensmn.org/stpaulclinic/. | https://dingalinged-cpu.github.io/registry/c/childrens-minnesota-st-paul-clinic-saint-paul/
+5. Partners in Pediatrics, Ltd | trust 10.0 | Partners in Pediatrics, Ltd is a pediatrician in Brooklyn Park, MN at 8500 Edinbrook Parkway, Brooklyn Park, MN 55443. Phone: +17634251211. | https://dingalinged-cpu.github.io/registry/c/partners-in-pediatrics-ltd-brooklyn-park/
+6. Southdale Pediatrics Associates | trust 10.0 | Southdale Pediatrics Associates is a pediatrician in Edina, MN at 3955 Parklawn Avenue #200, Edina, MN 55435. Website: https://www.southdalepeds.com/locations/edina/. | https://dingalinged-cpu.github.io/registry/c/southdale-pediatrics-associates-edina/
+7. Partners in Pediatrics | trust 8.0 | Partners in Pediatrics is a pediatrician in Saint Louis Park, MN at 3910 Excelsior Boulevard, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/partners-in-pediatrics-saint-louis-park/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

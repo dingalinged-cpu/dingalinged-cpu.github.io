@@ -1,0 +1,128 @@
+{
+ "keyword": "gift shop excelsior mn",
+ "slug": "gift-shop-excelsior-mn",
+ "place": "Excelsior, MN",
+ "service": "gift shop",
+ "query": "Who are the best gift shop providers in Excelsior, MN?",
+ "matches": [
+  "gift shop in Excelsior, MN",
+  "gift shop near me (Excelsior, MN)",
+  "best gift shop Excelsior, MN",
+  "top rated gift shop Excelsior, MN",
+  "affordable gift shop Excelsior, MN",
+  "emergency gift shop Excelsior, MN"
+ ],
+ "answer": "The top unpaid gift shop listing for Excelsior, MN is Jewelweed (a gift shop in Excelsior, MN at 223 Water Street, Excelsior, MN 55331. Phone: +19524767631. Website: https://jewelweed.com/). 3 gift shop businesses are listed for Excelsior, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "jewelweed-excelsior",
+   "name": "Jewelweed",
+   "summary": "Jewelweed is a gift shop in Excelsior, MN at 223 Water Street, Excelsior, MN 55331. Phone: +19524767631. Website: https://jewelweed.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jewelweed-excelsior/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jewelweed-excelsior.json",
+   "address": {
+    "streetAddress": "223 Water Street",
+    "addressLocality": "Excelsior",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Excelsior",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.9029971,
+    "lon": -93.5664841
+   },
+   "phone": "+19524767631",
+   "website": "https://jewelweed.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6384347262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "leipolds-gifts-and-antiques-excelsior",
+   "name": "Leipold's Gifts & Antiques",
+   "summary": "Leipold's Gifts & Antiques is a gift shop in Excelsior, MN at 239 Water Street, Excelsior, MN 55331. Phone: +19524745880.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leipolds-gifts-and-antiques-excelsior/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leipolds-gifts-and-antiques-excelsior.json",
+   "address": {
+    "streetAddress": "239 Water Street",
+    "addressLocality": "Excelsior",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Excelsior",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.9027715,
+    "lon": -93.5667082
+   },
+   "phone": "+19524745880",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6384347266",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "fleurish-llp-excelsior",
+   "name": "Fleurish LLP",
+   "summary": "Fleurish LLP is a gift shop in Excelsior, MN at 261 Water Street, Excelsior, MN 55331.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fleurish-llp-excelsior/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fleurish-llp-excelsior.json",
+   "address": {
+    "streetAddress": "261 Water Street",
+    "addressLocality": "Excelsior",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Excelsior",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.9025391,
+    "lon": -93.5669301
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6384347268",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

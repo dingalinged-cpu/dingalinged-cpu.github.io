@@ -1,0 +1,61 @@
+{
+ "keyword": "staffing agency maple grove mn",
+ "slug": "staffing-agency-maple-grove-mn",
+ "place": "Maple Grove, MN",
+ "service": "staffing agency",
+ "query": "Who are the best staffing agency providers in Maple Grove, MN?",
+ "matches": [
+  "staffing agency in Maple Grove, MN",
+  "staffing agency near me (Maple Grove, MN)",
+  "best staffing agency Maple Grove, MN",
+  "top rated staffing agency Maple Grove, MN",
+  "affordable staffing agency Maple Grove, MN",
+  "emergency staffing agency Maple Grove, MN"
+ ],
+ "answer": "The top unpaid staffing agency listing for Maple Grove, MN is Peak Staffing (a staffing agency in Maple Grove, MN. Phone: +17634206825. Website: https://www.peakstaffinginc.com/). 1 staffing agency businesses are listed for Maple Grove, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "peak-staffing-maple-grove",
+   "name": "Peak Staffing",
+   "summary": "Peak Staffing is a staffing agency in Maple Grove, MN. Phone: +17634206825. Website: https://www.peakstaffinginc.com/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peak-staffing-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peak-staffing-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1045468,
+    "lon": -93.453851
+   },
+   "phone": "+17634206825",
+   "website": "https://www.peakstaffinginc.com/",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5777444265",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

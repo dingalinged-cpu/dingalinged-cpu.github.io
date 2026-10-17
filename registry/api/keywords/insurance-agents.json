@@ -1,0 +1,2935 @@
+{
+ "keyword": "insurance agents",
+ "slug": "insurance-agents",
+ "place": "the United States",
+ "service": "insurance agents",
+ "query": "Who are the best insurance agents providers in the United States?",
+ "matches": [
+  "insurance agents in the United States",
+  "insurance agents near me (the United States)",
+  "best insurance agents the United States",
+  "top rated insurance agents the United States",
+  "affordable insurance agents the United States",
+  "emergency insurance agents the United States"
+ ],
+ "answer": "The top unpaid insurance agents listing for the United States is AAA Insurance (an insurance agent in Coon Rapids, MN at 2150 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17634274110. Website: https://mn-ia.aaa.com/Branches/Branch.aspx?branchid=CGQ). 90 insurance agents businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "aaa-insurance-coon-rapids",
+   "name": "AAA Insurance",
+   "summary": "AAA Insurance is an insurance agent in Coon Rapids, MN at 2150 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17634274110. Website: https://mn-ia.aaa.com/Branches/Branch.aspx?branchid=CGQ.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaa-insurance-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaa-insurance-coon-rapids.json",
+   "address": {
+    "streetAddress": "2150 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1821151,
+    "lon": -93.320833
+   },
+   "phone": "+17634274110",
+   "website": "https://mn-ia.aaa.com/Branches/Branch.aspx?branchid=CGQ",
+   "opening_hours": "Mo-Fr 08:30-17:30; Sa-Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9319816189",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "allstate-oakdale",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Oakdale, MN at 5701 Hadley Avenue North, Oakdale, MN 55128. Phone: +16512889020. Website: https://agents.allstate.com/kris-kiefer-vik-oakdale-mn.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-oakdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-oakdale.json",
+   "address": {
+    "streetAddress": "5701 Hadley Avenue North",
+    "addressLocality": "Oakdale",
+    "addressRegion": "MN",
+    "postalCode": "55128",
+    "addressCountry": "US"
+   },
+   "city": "Oakdale",
+   "state": "MN",
+   "zip": "55128",
+   "geo": {
+    "lat": 45.0317804,
+    "lon": -92.983749
+   },
+   "phone": "+16512889020",
+   "website": "https://agents.allstate.com/kris-kiefer-vik-oakdale-mn.html",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6636466380",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "farmers-insurance-coon-rapids",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Coon Rapids, MN at 11490 Hanson Boulevard Northwest #Ste C, Coon Rapids, MN 55433. Phone: +17633237637. Website: https://agents.farmers.com/mn/coon-rapids/kevin-krejsa.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-coon-rapids.json",
+   "address": {
+    "streetAddress": "11490 Hanson Boulevard Northwest #Ste C",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1790354,
+    "lon": -93.3181043
+   },
+   "phone": "+17633237637",
+   "website": "https://agents.farmers.com/mn/coon-rapids/kevin-krejsa",
+   "opening_hours": "Mo-Fr 8:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9247350038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "farmers-insurance-eagan",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Eagan, MN at 1434 Yankee Doodle Road, Eagan, MN 55121. Phone: +16513719191. Website: https://agents.farmers.com/mn/eagan/andrew-schmitz/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-eagan.json",
+   "address": {
+    "streetAddress": "1434 Yankee Doodle Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8328877,
+    "lon": -93.1700139
+   },
+   "phone": "+16513719191",
+   "website": "https://agents.farmers.com/mn/eagan/andrew-schmitz/",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12107180051",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "farmers-insurance-roseville",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Roseville, MN at 1761 Lexington Avenue North, Roseville, MN 55113. Phone: +16516490159. Website: https://www.agents.farmers.com/mn/saint-paul/angie-malone.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-roseville.json",
+   "address": {
+    "streetAddress": "1761 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9945192,
+    "lon": -93.1469305
+   },
+   "phone": "+16516490159",
+   "website": "https://www.agents.farmers.com/mn/saint-paul/angie-malone",
+   "opening_hours": "Mo-Fr 08:30-17:30; Sa-Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7141890150",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "farmers-insurance-shakopee",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Shakopee, MN at 132 Holmes Street South, Shakopee, MN 55379. Phone: +19529422082. Website: https://agents.farmers.com/mn/shakopee/tim-whitcomb.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-shakopee.json",
+   "address": {
+    "streetAddress": "132 Holmes Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7978366,
+    "lon": -93.5267573
+   },
+   "phone": "+19529422082",
+   "website": "https://agents.farmers.com/mn/shakopee/tim-whitcomb",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024200111",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "farmers-insurance-david-mugg-saint-michael",
+   "name": "Farmers Insurance - David Mugg",
+   "summary": "Farmers Insurance - David Mugg is an insurance agent in Saint Michael, MN at 400 Central Avenue East #55, Saint Michael, MN 55376. Phone: +17632983563. Website: https://agents.farmers.com/mn/saint-michael/david-mugg/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-david-mugg-saint-michael/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-david-mugg-saint-michael.json",
+   "address": {
+    "streetAddress": "400 Central Avenue East #55",
+    "addressLocality": "Saint Michael",
+    "addressRegion": "MN",
+    "postalCode": "55376",
+    "addressCountry": "US"
+   },
+   "city": "Saint Michael",
+   "state": "MN",
+   "zip": "55376",
+   "geo": {
+    "lat": 45.2108686,
+    "lon": -93.6551588
+   },
+   "phone": "+17632983563",
+   "website": "https://agents.farmers.com/mn/saint-michael/david-mugg/",
+   "opening_hours": "Mo-Fr 08:30-17:30; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13677514763",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "farmers-insurance-tri-tang-minneapolis",
+   "name": "Farmers Insurance - Tri Tang",
+   "summary": "Farmers Insurance - Tri Tang is an insurance agent in Minneapolis, MN at 2522 Nicollet Avenue South #202, Minneapolis, MN 55404. Phone: +16128748264. Website: https://agents.farmers.com/mn/minneapolis/tri-tang.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-tri-tang-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-tri-tang-minneapolis.json",
+   "address": {
+    "streetAddress": "2522 Nicollet Avenue South #202",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9564238,
+    "lon": -93.2783873
+   },
+   "phone": "+16128748264",
+   "website": "https://agents.farmers.com/mn/minneapolis/tri-tang",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617524790",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "greg-ganyo-insurance-agency-circle-pines",
+   "name": "Greg Ganyo Insurance Agency",
+   "summary": "Greg Ganyo Insurance Agency is an insurance agent in Circle Pines, MN at 3521 88th Avenue Northeast, Circle Pines, MN 55014. Phone: +16519644020. Website: https://ganyoagency.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greg-ganyo-insurance-agency-circle-pines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greg-ganyo-insurance-agency-circle-pines.json",
+   "address": {
+    "streetAddress": "3521 88th Avenue Northeast",
+    "addressLocality": "Circle Pines",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Circle Pines",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.129531,
+    "lon": -93.1814921
+   },
+   "phone": "+16519644020",
+   "website": "https://ganyoagency.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162910177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "north-suburban-agencies-coon-rapids",
+   "name": "North Suburban Agencies",
+   "summary": "North Suburban Agencies is an insurance agent in Coon Rapids, MN at 11421 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637552300. Website: https://nsagencies.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-suburban-agencies-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-suburban-agencies-coon-rapids.json",
+   "address": {
+    "streetAddress": "11421 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1780016,
+    "lon": -93.3162204
+   },
+   "phone": "+17637552300",
+   "website": "https://nsagencies.com/",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249369717",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "sons-of-norway-minneapolis",
+   "name": "Sons of Norway",
+   "summary": "Sons of Norway is an insurance agent in Minneapolis, MN at 1455 West Lake Street, Minneapolis, MN 55408. Phone: +16128273611. Website: https://sonsofnorway.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sons-of-norway-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sons-of-norway-minneapolis.json",
+   "address": {
+    "streetAddress": "1455 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482127,
+    "lon": -93.2999942
+   },
+   "phone": "+16128273611",
+   "website": "https://sonsofnorway.com/",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10104612820",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "stallion-insurance-group-eden-prairie",
+   "name": "Stallion Insurance Group",
+   "summary": "Stallion Insurance Group is an insurance agent in Eden Prairie, MN at 12160 Technology Drive #213, Eden Prairie, MN 55344. Phone: +16517351284. Website: https://www.stallioninsgroup.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stallion-insurance-group-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stallion-insurance-group-eden-prairie.json",
+   "address": {
+    "streetAddress": "12160 Technology Drive #213",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8628758,
+    "lon": -93.4328912
+   },
+   "phone": "+16517351284",
+   "website": "https://www.stallioninsgroup.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10829488791",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "state-farm-coon-rapids",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Coon Rapids, MN at 11413 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637557350. Website: https://www.rjbergstrom.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-coon-rapids.json",
+   "address": {
+    "streetAddress": "11413 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1780522,
+    "lon": -93.3162269
+   },
+   "phone": "+17637557350",
+   "website": "https://www.rjbergstrom.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa,Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249369715",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "state-farm-roseville",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Roseville, MN at 1789 Lexington Avenue North, Roseville, MN 55113. Phone: +16514898866. Website: https://www.tyhaschig.com/quote.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-roseville.json",
+   "address": {
+    "streetAddress": "1789 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9952073,
+    "lon": -93.1468243
+   },
+   "phone": "+16514898866",
+   "website": "https://www.tyhaschig.com/quote",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7141984921",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "state-farm-saint-louis-park-w692875210",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Saint Louis Park, MN at 4801 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16128438444. Website: https://www.sfminneapolis.com/?cmpid=rhcs_blm_0001.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-saint-louis-park-w692875210/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-saint-louis-park-w692875210.json",
+   "address": {
+    "streetAddress": "4801 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9325617,
+    "lon": -93.3413014
+   },
+   "phone": "+16128438444",
+   "website": "https://www.sfminneapolis.com/?cmpid=rhcs_blm_0001",
+   "opening_hours": "Mo-We 08:30-17:00; Th-Fr 08:30-16:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875210",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "state-farm-insurance-kim-nybo-minneapolis",
+   "name": "State Farm Insurance - Kim Nybo",
+   "summary": "State Farm Insurance - Kim Nybo is an insurance agent in Minneapolis, MN at 2724 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16127677775. Website: https://www.statefarm.com/agent/us/mn/minneapolis/kim-nybo-418147603ak.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-insurance-kim-nybo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-insurance-kim-nybo-minneapolis.json",
+   "address": {
+    "streetAddress": "2724 Southeast University Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9716657,
+    "lon": -93.2175208
+   },
+   "phone": "+16127677775",
+   "website": "https://www.statefarm.com/agent/us/mn/minneapolis/kim-nybo-418147603ak",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4279240361",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "william-white-allstate-insurance-burnsville",
+   "name": "William White: Allstate Insurance",
+   "summary": "William White: Allstate Insurance is an insurance agent in Burnsville, MN at 11979 Co Rd 11, Ste 240, Burnsville, MN 55337. Phone: +19528737060. Website: https://agents.allstate.com/william-white-burnsville-mn.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/william-white-allstate-insurance-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/william-white-allstate-insurance-burnsville.json",
+   "address": {
+    "streetAddress": "11979 Co Rd 11, Ste 240",
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "postalCode": "55337",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "zip": "55337",
+   "geo": {
+    "lat": 44.7872598,
+    "lon": -93.2468124
+   },
+   "phone": "+19528737060",
+   "website": "https://agents.allstate.com/william-white-burnsville-mn.html",
+   "opening_hours": "Mon - Fri: 9:00am - 6:00pm; Sat - Sun: Closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12508880840",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "geico-roseville",
+   "name": "GEICO",
+   "summary": "GEICO is an insurance agent in Roseville, MN at 2174 Snelling Avenue North, Roseville, MN. Phone: +16518462525. Website: https://www.geico.com/insurance-agents/minnesota/minneapolis-st-paul/steven-blome/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/geico-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/geico-roseville.json",
+   "address": {
+    "streetAddress": "2174 Snelling Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0067656,
+    "lon": -93.1655387
+   },
+   "phone": "+16518462525",
+   "website": "https://www.geico.com/insurance-agents/minnesota/minneapolis-st-paul/steven-blome/",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/118402681",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "aaa-insurance-saint-louis-park",
+   "name": "AAA Insurance",
+   "summary": "AAA Insurance is an insurance agent in Saint Louis Park, MN at 5400 Auto Club Way, Saint Louis Park, MN 55416. Phone: +19529272600. Website: https://www.aaa.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaa-insurance-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaa-insurance-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5400 Auto Club Way",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9338711,
+    "lon": -93.3484337
+   },
+   "phone": "+19529272600",
+   "website": "https://www.aaa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47199425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "allianz-life-insurance-golden-valley",
+   "name": "Allianz Life Insurance",
+   "summary": "Allianz Life Insurance is an insurance agent in Golden Valley, MN at 5701 Golden Hills Drive, Golden Valley, MN 55416. Phone: +18009505872. Website: https://www.allianzlife.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allianz-life-insurance-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allianz-life-insurance-golden-valley.json",
+   "address": {
+    "streetAddress": "5701 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9715813,
+    "lon": -93.3527225
+   },
+   "phone": "+18009505872",
+   "website": "https://www.allianzlife.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/44970410",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "allstate-saint-louis-park",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Saint Louis Park, MN at 4907 Excelsior Boulevard #101, Saint Louis Park, MN 55416. Phone: +19529299090. Website: https://agents.allstate.com/bradley-reiland-saint-louis-park-mn.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4907 Excelsior Boulevard #101",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9322341,
+    "lon": -93.3428343
+   },
+   "phone": "+19529299090",
+   "website": "https://agents.allstate.com/bradley-reiland-saint-louis-park-mn.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566621912",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "dressel-agency-inc-saint-bonifacius",
+   "name": "Dressel Agency Inc.",
+   "summary": "Dressel Agency Inc. is an insurance agent in Saint Bonifacius, MN at 4133 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461380. Website: https://www.dresselagency.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dressel-agency-inc-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dressel-agency-inc-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4133 Main Street",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9037858,
+    "lon": -93.7476264
+   },
+   "phone": "+19524461380",
+   "website": "https://www.dresselagency.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/590636430",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "flagship-insurance-services-shakopee",
+   "name": "Flagship Insurance Services",
+   "summary": "Flagship Insurance Services is an insurance agent in Shakopee, MN at 230 1st Avenue East, Shakopee, MN 55379. Phone: +18007867208. Website: https://flagshipinsuranceservices.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flagship-insurance-services-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flagship-insurance-services-shakopee.json",
+   "address": {
+    "streetAddress": "230 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7987437,
+    "lon": -93.524342
+   },
+   "phone": "+18007867208",
+   "website": "https://flagshipinsuranceservices.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "gibraltar-title-agency-maple-grove",
+   "name": "Gibraltar Title Agency",
+   "summary": "Gibraltar Title Agency is an insurance agent in Maple Grove, MN at 13700 83rd Way North #203, Maple Grove, MN 55369. Phone: +19528301904. Website: https://www.gibraltartitle.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gibraltar-title-agency-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gibraltar-title-agency-maple-grove.json",
+   "address": {
+    "streetAddress": "13700 83rd Way North #203",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1064605,
+    "lon": -93.4539823
+   },
+   "phone": "+19528301904",
+   "website": "https://www.gibraltartitle.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5757273577",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "infinity-insurance-agency-saint-michael",
+   "name": "Infinity Insurance Agency",
+   "summary": "Infinity Insurance Agency is an insurance agent in Saint Michael, MN at 601 Central Avenue West, Saint Michael, MN 55376. Phone: +17634970722. Website: https://www.infinityinsmn.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/infinity-insurance-agency-saint-michael/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/infinity-insurance-agency-saint-michael.json",
+   "address": {
+    "streetAddress": "601 Central Avenue West",
+    "addressLocality": "Saint Michael",
+    "addressRegion": "MN",
+    "postalCode": "55376",
+    "addressCountry": "US"
+   },
+   "city": "Saint Michael",
+   "state": "MN",
+   "zip": "55376",
+   "geo": {
+    "lat": 45.207313,
+    "lon": -93.6758322
+   },
+   "phone": "+17634970722",
+   "website": "https://www.infinityinsmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12050054862",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "insurance-brokers-of-minnesota-inc-ham-lake",
+   "name": "Insurance Brokers of Minnesota Inc.",
+   "summary": "Insurance Brokers of Minnesota Inc. is an insurance agent in Ham Lake, MN at 13632 Vanburen Street Northeast #A, Ham Lake, MN 55304. Phone: +17637677290. Website: https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-brokers-of-minnesota-inc-ham-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-brokers-of-minnesota-inc-ham-lake.json",
+   "address": {
+    "streetAddress": "13632 Vanburen Street Northeast #A",
+    "addressLocality": "Ham Lake",
+    "addressRegion": "MN",
+    "postalCode": "55304",
+    "addressCountry": "US"
+   },
+   "city": "Ham Lake",
+   "state": "MN",
+   "zip": "55304",
+   "geo": {
+    "lat": 45.2178896,
+    "lon": -93.24961
+   },
+   "phone": "+17637677290",
+   "website": "https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4578686989",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "kevin-degezelle-state-farm-insurance-agent-saint-paul",
+   "name": "Kevin DeGezelle - State Farm Insurance Agent",
+   "summary": "Kevin DeGezelle - State Farm Insurance Agent is an insurance agent in Saint Paul, MN at 611 Grand Avenue, Saint Paul, MN 55102. Phone: +16512224944. Website: https://www.kdsfinsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kevin-degezelle-state-farm-insurance-agent-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kevin-degezelle-state-farm-insurance-agent-saint-paul.json",
+   "address": {
+    "streetAddress": "611 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9400802,
+    "lon": -93.1257627
+   },
+   "phone": "+16512224944",
+   "website": "https://www.kdsfinsurance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920889293",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "marsh-and-mclennan-agency-golden-valley",
+   "name": "Marsh & McLennan Agency",
+   "summary": "Marsh & McLennan Agency is an insurance agent in Golden Valley, MN at 6160 Golden Hills Drive, Golden Valley, MN 55416. Phone: +17637468000. Website: https://www.marshmma.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marsh-and-mclennan-agency-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marsh-and-mclennan-agency-golden-valley.json",
+   "address": {
+    "streetAddress": "6160 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9735435,
+    "lon": -93.3582112
+   },
+   "phone": "+17637468000",
+   "website": "https://www.marshmma.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11129016208",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "minneapolis-st-paul-agency-insurance-and-risk-management-saint-paul",
+   "name": "Minneapolis St. Paul Agency Insurance & Risk Management",
+   "summary": "Minneapolis St. Paul Agency Insurance & Risk Management is an insurance agent in Saint Paul, MN at 2469 University Avenue West ##200E, Saint Paul, MN 55114. Phone: +16516479665. Website: https://www.mspagency.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minneapolis-st-paul-agency-insurance-and-risk-management-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-st-paul-agency-insurance-and-risk-management-saint-paul.json",
+   "address": {
+    "streetAddress": "2469 University Avenue West ##200E",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9651594,
+    "lon": -93.1999391
+   },
+   "phone": "+16516479665",
+   "website": "https://www.mspagency.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6264952650",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "minnesota-council-of-health-plans-saint-paul",
+   "name": "Minnesota Council of Health Plans",
+   "summary": "Minnesota Council of Health Plans is an insurance agent in Saint Paul, MN at 2550 University Avenue West ##255S, Saint Paul, MN 55114. Phone: +16516450099. Website: https://mnhealthplans.org/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-council-of-health-plans-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-council-of-health-plans-saint-paul.json",
+   "address": {
+    "streetAddress": "2550 University Avenue West ##255S",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9649398,
+    "lon": -93.2042309
+   },
+   "phone": "+16516450099",
+   "website": "https://mnhealthplans.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6275543778",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "oakwood-insurance-agency-coon-rapids",
+   "name": "Oakwood Insurance Agency",
+   "summary": "Oakwood Insurance Agency is an insurance agent in Coon Rapids, MN at 2003 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541825. Website: https://oakwoodinsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oakwood-insurance-agency-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oakwood-insurance-agency-coon-rapids.json",
+   "address": {
+    "streetAddress": "2003 Northdale Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1811535,
+    "lon": -93.3178286
+   },
+   "phone": "+17637541825",
+   "website": "https://oakwoodinsurance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1033662809",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "preferred-one-golden-valley",
+   "name": "Preferred One",
+   "summary": "Preferred One is an insurance agent in Golden Valley, MN at 6105 Golden Hills Drive, Golden Valley, MN 55416. Phone: +17638474477. Website: https://www.preferredone.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/preferred-one-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/preferred-one-golden-valley.json",
+   "address": {
+    "streetAddress": "6105 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9719276,
+    "lon": -93.3576621
+   },
+   "phone": "+17638474477",
+   "website": "https://www.preferredone.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/44970397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "state-farm-minneapolis",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Minneapolis, MN. Phone: +17637102115. Website: https://lakestreetinsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482413,
+    "lon": -93.2916981
+   },
+   "phone": "+17637102115",
+   "website": "https://lakestreetinsurance.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10243480660",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "state-farm-susan-a-haub-saint-louis-park",
+   "name": "State Farm - Susan A Haub",
+   "summary": "State Farm - Susan A Haub is an insurance agent in Saint Louis Park, MN at 6801 Wayzata Boulevard #3, Saint Louis Park, MN 55426. Phone: +19529296729. Website: https://www.statefarm.com/agent/us/mn/st-louis-park/susan-haub-jhlx11ys000?cmpid=iy40_blm_0001.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-susan-a-haub-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-susan-a-haub-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6801 Wayzata Boulevard #3",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9707849,
+    "lon": -93.3659335
+   },
+   "phone": "+19529296729",
+   "website": "https://www.statefarm.com/agent/us/mn/st-louis-park/susan-haub-jhlx11ys000?cmpid=iy40_blm_0001",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9900659207",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "tom-schmitz-saint-louis-park",
+   "name": "Tom Schmitz",
+   "summary": "Tom Schmitz is an insurance agent in Saint Louis Park, MN at 5619 Lake Street West, Saint Louis Park, MN 55416. Phone: +19529297069. Website: https://www.tomschmitz.com/?cmpid=g14w_blm_0001.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tom-schmitz-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tom-schmitz-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5619 Lake Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9476055,
+    "lon": -93.3509773
+   },
+   "phone": "+19529297069",
+   "website": "https://www.tomschmitz.com/?cmpid=g14w_blm_0001",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/953865712",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "workman-insurance-agency-inc-burnsville",
+   "name": "Workman Insurance Agency, Inc.",
+   "summary": "Workman Insurance Agency, Inc. is an insurance agent in Burnsville, MN at 1904 HIghway 13 E, Burnsville, MN 55337. Phone: +19528948409. Website: https://www.workmanagencymn.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/workman-insurance-agency-inc-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/workman-insurance-agency-inc-burnsville.json",
+   "address": {
+    "streetAddress": "1904 HIghway 13 E",
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "postalCode": "55337",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "zip": "55337",
+   "geo": {
+    "lat": 44.788421,
+    "lon": -93.2475085
+   },
+   "phone": "+19528948409",
+   "website": "https://www.workmanagencymn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13738653851",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "american-family-insurance-new-brighton",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in New Brighton, MN at 201 Silver Lake Road Northwest #B, New Brighton, MN. Phone: +16512550015. Website: https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-new-brighton.json",
+   "address": {
+    "streetAddress": "201 Silver Lake Road Northwest #B",
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0515136,
+    "lon": -93.217439
+   },
+   "phone": "+16512550015",
+   "website": "https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12947628740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "champion-insurance-services-inc-saint-paul",
+   "name": "Champion Insurance Services, Inc.",
+   "summary": "Champion Insurance Services, Inc. is an insurance agent in Saint Paul, MN at 821 Raymond Avenue ##400, Saint Paul, MN 55114. Phone: +16516446464.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/champion-insurance-services-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/champion-insurance-services-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "821 Raymond Avenue ##400",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9660014,
+    "lon": -93.1980298
+   },
+   "phone": "+16516446464",
+   "opening_hours": "Mo 09:00-17:00; Tu-We 09:00-18:00; Th-Fr 09:00-17:00; Sa 12:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173830865",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "aegle-health-partners-minneapolis",
+   "name": "Aegle Health Partners",
+   "summary": "Aegle Health Partners is an insurance agent in Minneapolis, MN at 4999 France Avenue South #255, Minneapolis, MN 55410. Website: https://aeglehealthpartners.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aegle-health-partners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aegle-health-partners-minneapolis.json",
+   "address": {
+    "streetAddress": "4999 France Avenue South #255",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9127396,
+    "lon": -93.3286799
+   },
+   "website": "https://aeglehealthpartners.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12142678243",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "allianz-investment-management-golden-valley",
+   "name": "Allianz Investment Management",
+   "summary": "Allianz Investment Management is an insurance agent in Golden Valley, MN at 6051 Golden Hills Drive, Golden Valley, MN 55416. Website: https://www.allianzim.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allianz-investment-management-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allianz-investment-management-golden-valley.json",
+   "address": {
+    "streetAddress": "6051 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9715327,
+    "lon": -93.3546836
+   },
+   "website": "https://www.allianzim.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/44970411",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "five-star-insurance-services-saint-paul",
+   "name": "Five Star Insurance Services",
+   "summary": "Five Star Insurance Services is an insurance agent in Saint Paul, MN. Phone: +16513401105.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-star-insurance-services-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-star-insurance-services-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9776766,
+    "lon": -93.0617324
+   },
+   "phone": "+16513401105",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11845489338",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "juniper-insurance-agency-minneapolis",
+   "name": "Juniper Insurance Agency",
+   "summary": "Juniper Insurance Agency is an insurance agent in Minneapolis, MN at 4999 France Avenue South #245, Minneapolis, MN 55410. Website: https://www.juniperjustincase.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/juniper-insurance-agency-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/juniper-insurance-agency-minneapolis.json",
+   "address": {
+    "streetAddress": "4999 France Avenue South #245",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9127745,
+    "lon": -93.3287224
+   },
+   "website": "https://www.juniperjustincase.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116021",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "la-progresiva-minneapolis",
+   "name": "La Progresiva",
+   "summary": "La Progresiva is an insurance agent in Minneapolis, MN at 515 West Lake Street #E, Minneapolis, MN 55408. Phone: +16128270010.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-progresiva-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-progresiva-minneapolis.json",
+   "address": {
+    "streetAddress": "515 West Lake Street #E",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482392,
+    "lon": -93.2862753
+   },
+   "phone": "+16128270010",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334114491",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "reliable-family-insurance-agency-inc-saint-paul",
+   "name": "Reliable Family Insurance Agency, Inc.",
+   "summary": "Reliable Family Insurance Agency, Inc. is an insurance agent in Saint Paul, MN at 2147 University Avenue ##101, Saint Paul, MN 55114. Phone: +16516455999.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reliable-family-insurance-agency-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reliable-family-insurance-agency-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "2147 University Avenue ##101",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9609166,
+    "lon": -93.1888342
+   },
+   "phone": "+16516455999",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173830864",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "rsi-agency-newport",
+   "name": "RSI Agency",
+   "summary": "RSI Agency is an insurance agent in Newport, MN at 745 High Street #3, Newport, MN 55055. Website: https://www.rsiins.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rsi-agency-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rsi-agency-newport.json",
+   "address": {
+    "streetAddress": "745 High Street #3",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.8754624,
+    "lon": -93.0005953
+   },
+   "website": "https://www.rsiins.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/977366472",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "service-associates-inc-saint-louis-park",
+   "name": "Service Associates, Inc.",
+   "summary": "Service Associates, Inc. is an insurance agent in Saint Louis Park, MN at 3925 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529278481.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/service-associates-inc-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/service-associates-inc-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3925 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9395816,
+    "lon": -93.3297798
+   },
+   "phone": "+19529278481",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "state-farm-minneapolis-n12143327842",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Minneapolis, MN at 5007 France Avenue South #Suite 2, Minneapolis, MN 55410. Website: https://agents.farmers.com/mn/minneapolis/darren-burch/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis-n12143327842/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-minneapolis-n12143327842.json",
+   "address": {
+    "streetAddress": "5007 France Avenue South #Suite 2",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9122315,
+    "lon": -93.3287937
+   },
+   "website": "https://agents.farmers.com/mn/minneapolis/darren-burch/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12143327842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "state-farm-saint-louis-park",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Saint Louis Park, MN at 6310 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529204035.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6310 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9499112,
+    "lon": -93.3596731
+   },
+   "phone": "+19529204035",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9694435903",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "state-farm-moon-lai-minneapolis",
+   "name": "State Farm: Moon Lai",
+   "summary": "State Farm: Moon Lai is an insurance agent in Minneapolis, MN at 2718 Nicollet Avenue South #204, Minneapolis, MN 55408. Phone: +16128700800.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-moon-lai-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-moon-lai-minneapolis.json",
+   "address": {
+    "streetAddress": "2718 Nicollet Avenue South #204",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9530686,
+    "lon": -93.2780904
+   },
+   "phone": "+16128700800",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4621509974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "wold-financial-llc-minneapolis",
+   "name": "WOLD Financial, LLC",
+   "summary": "WOLD Financial, LLC is an insurance agent in Minneapolis, MN at 1118 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +19529360222.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wold-financial-llc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wold-financial-llc-minneapolis.json",
+   "address": {
+    "streetAddress": "1118 Cedar Lake Road South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.96956,
+    "lon": -93.3180652
+   },
+   "phone": "+19529360222",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92807790",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "aaa-minnetonka",
+   "name": "AAA",
+   "summary": "AAA is an insurance agent in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaa-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaa-minnetonka.json",
+   "address": {
+    "streetAddress": "11210 Wayzata Boulevard",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9735052,
+    "lon": -93.4218967
+   },
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596827101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "insurance-pros-saint-paul",
+   "name": "Insurance Pros",
+   "summary": "Insurance Pros is an insurance agent in Saint Paul, MN at 1408 Arcade Street, Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-pros-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-pros-saint-paul.json",
+   "address": {
+    "streetAddress": "1408 Arcade Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9839599,
+    "lon": -93.0657926
+   },
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096312",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "chris-okeleye-allstate-insurance-saint-paul",
+   "name": "Chris Okeleye: Allstate Insurance",
+   "summary": "Chris Okeleye: Allstate Insurance is an insurance agent in Saint Paul, MN. Phone: +16516900056.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chris-okeleye-allstate-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chris-okeleye-allstate-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9399785,
+    "lon": -93.1787136
+   },
+   "phone": "+16516900056",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8914957195",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "state-farm-brooklyn-park",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Brooklyn Park, MN. Phone: +17634250207.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1096002,
+    "lon": -93.3075506
+   },
+   "phone": "+17634250207",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8143276704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "american-family-insurance-chanhassen",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Chanhassen, MN at 7955 Stone Creek Drive #110, Chanhassen, MN 55317.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-chanhassen.json",
+   "address": {
+    "streetAddress": "7955 Stone Creek Drive #110",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8623252,
+    "lon": -93.572258
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428576",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "american-family-insurance-shakopee",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Shakopee, MN at 124 Lewis Street South, Shakopee, MN 55379.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-shakopee.json",
+   "address": {
+    "streetAddress": "124 Lewis Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.798163,
+    "lon": -93.5253668
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8955028936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "anthem-mendota-heights",
+   "name": "Anthem",
+   "summary": "Anthem is an insurance agent in Mendota Heights, MN at 1285 Northland Drive, Mendota Heights, MN 55120.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anthem-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anthem-mendota-heights.json",
+   "address": {
+    "streetAddress": "1285 Northland Drive",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55120",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55120",
+   "geo": {
+    "lat": 44.8647025,
+    "lon": -93.1601637
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/159165651",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "farmer-insurance-mendota-heights",
+   "name": "Farmer Insurance",
+   "summary": "Farmer Insurance is an insurance agent in Mendota Heights, MN at 800 Plaza Drive, Mendota Heights, MN 55120.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmer-insurance-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmer-insurance-mendota-heights.json",
+   "address": {
+    "streetAddress": "800 Plaza Drive",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55120",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55120",
+   "geo": {
+    "lat": 44.8801208,
+    "lon": -93.1261151
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/529046068",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "gallivan-insurance-agency-white-bear-lake",
+   "name": "Gallivan Insurance Agency",
+   "summary": "Gallivan Insurance Agency is an insurance agent in White Bear Lake, MN at 12493 Forest Boulevard North, White Bear Lake, MN 55110.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gallivan-insurance-agency-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gallivan-insurance-agency-white-bear-lake.json",
+   "address": {
+    "streetAddress": "12493 Forest Boulevard North",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.1306413,
+    "lon": -93.0011748
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6516594240",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "msi-insurance-inver-grove-heights",
+   "name": "MSI Insurance",
+   "summary": "MSI Insurance is an insurance agent in Inver Grove Heights, MN at 6685 Cahill Avenue, Inver Grove Heights, MN 55076.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/msi-insurance-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/msi-insurance-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "6685 Cahill Avenue",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "postalCode": "55076",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "zip": "55076",
+   "geo": {
+    "lat": 44.8524084,
+    "lon": -93.0456133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/490729737",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "nationwide-shakopee",
+   "name": "Nationwide",
+   "summary": "Nationwide is an insurance agent in Shakopee, MN at 145 1st Avenue East, Shakopee, MN 55379.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nationwide-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nationwide-shakopee.json",
+   "address": {
+    "streetAddress": "145 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7988266,
+    "lon": -93.5259499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389084",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "network-insurance-agency-inc-saint-louis-park",
+   "name": "Network Insurance Agency Inc",
+   "summary": "Network Insurance Agency Inc is an insurance agent in Saint Louis Park, MN at 3455 Dakota Avenue South, Saint Louis Park, MN 55416.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/network-insurance-agency-inc-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/network-insurance-agency-inc-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3455 Dakota Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9407826,
+    "lon": -93.3602398
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613074427",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "state-farm-chanhassen",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Chanhassen, MN at 7945 Stone Creek Drive #110, Chanhassen, MN 55317.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #110",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8623795,
+    "lon": -93.5715711
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "state-farm-minneapolis-w937919614",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Minneapolis, MN at 3259 Northeast Johnson Street, Minneapolis, MN 55418.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis-w937919614/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-minneapolis-w937919614.json",
+   "address": {
+    "streetAddress": "3259 Northeast Johnson Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.027547,
+    "lon": -93.2368642
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/937919614",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "state-farm-saint-louis-park-n13310310472",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Saint Louis Park, MN at 5821 Cedar Lake Road, Saint Louis Park, MN 55416.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-saint-louis-park-n13310310472/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-saint-louis-park-n13310310472.json",
+   "address": {
+    "streetAddress": "5821 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9649075,
+    "lon": -93.3545816
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13310310472",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "wiessner-agency-saint-paul",
+   "name": "Wiessner Agency",
+   "summary": "Wiessner Agency is an insurance agent in Saint Paul, MN at 250 Hamline Avenue South, Saint Paul, MN 55105.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wiessner-agency-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wiessner-agency-saint-paul.json",
+   "address": {
+    "streetAddress": "250 Hamline Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9338949,
+    "lon": -93.1567078
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6419731888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "allstate-minneapolis",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Minneapolis, MN at 5208 Bloomington Avenue South, Minneapolis, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-minneapolis.json",
+   "address": {
+    "streetAddress": "5208 Bloomington Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9085384,
+    "lon": -93.2527382
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6742331663",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "american-family-insurance-falcon-heights",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Falcon Heights, MN at 1545 Larpenteur Avenue West, Falcon Heights, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-falcon-heights.json",
+   "address": {
+    "streetAddress": "1545 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920785,
+    "lon": -93.165128
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714121",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "farm-bureau-financial-services-eagan",
+   "name": "Farm Bureau Financial Services",
+   "summary": "Farm Bureau Financial Services is an insurance agent in Eagan, MN at 3410 Federal Drive, Eagan, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farm-bureau-financial-services-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farm-bureau-financial-services-eagan.json",
+   "address": {
+    "streetAddress": "3410 Federal Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8328861,
+    "lon": -93.1718391
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134351522",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "state-farm-eagan",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Eagan, MN at 3410 Federal Drive, Eagan, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-eagan.json",
+   "address": {
+    "streetAddress": "3410 Federal Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8328264,
+    "lon": -93.1718835
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134351519",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "all-about-insurance-saint-paul",
+   "name": "All About Insurance",
+   "summary": "All About Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-about-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-about-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9706467,
+    "lon": -93.0661863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096367",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "allstate-greenwood",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Greenwood, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-greenwood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-greenwood.json",
+   "address": {
+    "addressLocality": "Greenwood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Greenwood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9026711,
+    "lon": -93.549852
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/78943412",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "allstate-saint-paul-park",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Saint Paul Park, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-saint-paul-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-saint-paul-park.json",
+   "address": {
+    "addressLocality": "Saint Paul Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8481415,
+    "lon": -92.9957675
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/787317515",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "american-family-insurance-brooklyn-park",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Brooklyn Park, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1099152,
+    "lon": -93.3293984
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8149821516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "american-family-insurance-saint-paul",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9172262,
+    "lon": -93.1418202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/96324504",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "american-family-insurance-white-bear-lake",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in White Bear Lake, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0510466,
+    "lon": -92.9840388
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597127802",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "farmers-insurance-saint-paul",
+   "name": "Farmer's Insurance",
+   "summary": "Farmer's Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9327846,
+    "lon": -93.0810073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10158023780",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "farmers-insurance-brooklyn-park",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Brooklyn Park, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1099272,
+    "lon": -93.3295047
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8149821515",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "farmers-insurance-new-brighton",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in New Brighton, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0588397,
+    "lon": -93.1933261
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7360557228",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "farmers-insurance-rogers",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Rogers, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2117762,
+    "lon": -93.5534124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737870748",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "farmers-insurance-saint-paul-n13311603449",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-saint-paul-n13311603449/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-saint-paul-n13311603449.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9277889,
+    "lon": -93.1666732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13311603449",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "jwt-insurance-shoreview",
+   "name": "JWT Insurance",
+   "summary": "JWT Insurance is an insurance agent in Shoreview, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jwt-insurance-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jwt-insurance-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0800442,
+    "lon": -93.1195071
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13050758806",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "krog-insurance-saint-paul",
+   "name": "Krog Insurance",
+   "summary": "Krog Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/krog-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/krog-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9603978,
+    "lon": -93.1675471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13071137911",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "state-farm-roseville-n12110820515",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Roseville, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-roseville-n12110820515/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-roseville-n12110820515.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0027986,
+    "lon": -93.1671173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12110820515",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "state-farm-saint-paul",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9559024,
+    "lon": -93.1655372
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12329610047",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "state-farm-west-saint-paul",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in West Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8968548,
+    "lon": -93.0812138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729438687",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "state-farm-white-bear-lake",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in White Bear Lake, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0505737,
+    "lon": -92.9959831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597140438",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "the-landreu-grouo-minneapolis",
+   "name": "The Landreu Grouo",
+   "summary": "The Landreu Grouo is an insurance agent in Minneapolis, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-landreu-grouo-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-landreu-grouo-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9626402,
+    "lon": -93.2336431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11003361157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "trusted-family-insurance-agency-saint-paul",
+   "name": "Trusted Family Insurance Agency",
+   "summary": "Trusted Family Insurance Agency is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trusted-family-insurance-agency-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trusted-family-insurance-agency-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9718893,
+    "lon": -93.0657451
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096353",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "xeng-insurance-office-saint-paul",
+   "name": "Xeng Insurance Office",
+   "summary": "Xeng Insurance Office is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/xeng-insurance-office-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/xeng-insurance-office-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9741028,
+    "lon": -93.0733321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605070039",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

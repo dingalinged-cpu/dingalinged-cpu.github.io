@@ -1,0 +1,424 @@
+{
+ "place": "Shorewood, MN",
+ "slug": "shorewood-mn",
+ "count": 12,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-shorewood-mn.json"
+  },
+  {
+   "keyword": "auto repair shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-shorewood-mn.json"
+  },
+  {
+   "keyword": "dance studio shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-shorewood-mn.json"
+  },
+  {
+   "keyword": "dentist shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-shorewood-mn.json"
+  },
+  {
+   "keyword": "hair salon shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-shorewood-mn.json"
+  },
+  {
+   "keyword": "haircut shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-shorewood-mn.json"
+  },
+  {
+   "keyword": "massage shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-shorewood-mn.json"
+  },
+  {
+   "keyword": "mechanic shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-shorewood-mn.json"
+  },
+  {
+   "keyword": "physical therapy shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-shorewood-mn.json"
+  },
+  {
+   "keyword": "preschool shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-shorewood-mn.json"
+  },
+  {
+   "keyword": "storage units shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-shorewood-mn.json"
+  },
+  {
+   "keyword": "tattoo shop shorewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-shorewood-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "great-clips-shorewood",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Shorewood, MN at 23760 Minnesota State Highway 7, Shorewood, MN 55331. Phone: +19524705390. Website: https://salons.greatclips.com/us/mn/shorewood/23760-highway-7.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-shorewood.json",
+   "address": {
+    "streetAddress": "23760 Minnesota State Highway 7",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8934341,
+    "lon": -93.580911
+   },
+   "phone": "+19524705390",
+   "website": "https://salons.greatclips.com/us/mn/shorewood/23760-highway-7",
+   "opening_hours": "Mo-Fr 10:00-18:00, Sa 09:00-17:00, Su 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215362528",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hairazors-salon-shorewood",
+   "name": "Hairazors Salon",
+   "summary": "Hairazors Salon is a hair salon in Shorewood, MN at 23690 Minnesota State Highway 7, Shorewood, MN 55331. Phone: +19524010207. Website: https://hairazorssalon.spacecrafted.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hairazors-salon-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hairazors-salon-shorewood.json",
+   "address": {
+    "streetAddress": "23690 Minnesota State Highway 7",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8934311,
+    "lon": -93.5803681
+   },
+   "phone": "+19524010207",
+   "website": "https://hairazorssalon.spacecrafted.com/",
+   "opening_hours": "Mo-Tu 08:00-21:00, Fr 09:00-16:00, Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215354746",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shorewood-landing-shorewood",
+   "name": "Shorewood Landing",
+   "summary": "Shorewood Landing is an assisted living facility in Shorewood, MN at 6000 Chaska Road, Shorewood, MN 55331. Phone: +19524017444. Website: https://preshomes.org/living-options/find-a-community/shorewood-landing/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shorewood-landing-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shorewood-landing-shorewood.json",
+   "address": {
+    "streetAddress": "6000 Chaska Road",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8942059,
+    "lon": -93.5733182
+   },
+   "phone": "+19524017444",
+   "website": "https://preshomes.org/living-options/find-a-community/shorewood-landing/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1385360153",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "engage-physical-therapy-and-wellness-shorewood",
+   "name": "Engage Physical Therapy and Wellness",
+   "summary": "Engage Physical Therapy and Wellness is a physical therapy clinic in Shorewood, MN at 23490 Minnesota State Highway 7, Shorewood, MN. Phone: +16128889882. Website: https://www.engagephysicaltherapymn.com/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/engage-physical-therapy-and-wellness-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/engage-physical-therapy-and-wellness-shorewood.json",
+   "address": {
+    "streetAddress": "23490 Minnesota State Highway 7",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8927291,
+    "lon": -93.5797725
+   },
+   "phone": "+16128889882",
+   "website": "https://www.engagephysicaltherapymn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11219547733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kmc-dance-studio-shorewood",
+   "name": "KMC Dance Studio",
+   "summary": "KMC Dance Studio is a dance studio in Shorewood, MN at 23470 Minnesota State Highway 7, Shorewood, MN. Phone: +19522402319. Website: https://www.engagephysicaltherapymn.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kmc-dance-studio-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kmc-dance-studio-shorewood.json",
+   "address": {
+    "streetAddress": "23470 Minnesota State Highway 7",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8927294,
+    "lon": -93.5796246
+   },
+   "phone": "+19522402319",
+   "website": "https://www.engagephysicaltherapymn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11219547734",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "historic-tattoo-shorewood",
+   "name": "Historic Tattoo",
+   "summary": "Historic Tattoo is a tattoo shop in Shorewood, MN at 6140 Lake Linden Drive #111, Shorewood, MN 55331. Phone: +19524743324.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/historic-tattoo-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/historic-tattoo-shorewood.json",
+   "address": {
+    "streetAddress": "6140 Lake Linden Drive #111",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8924751,
+    "lon": -93.5835362
+   },
+   "phone": "+19524743324",
+   "opening_hours": "Mo-Sa 12:00-10:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215333022",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "seidou-spa-shorewood",
+   "name": "Seidou Spa",
+   "summary": "Seidou Spa is a massage studio in Shorewood, MN at 24000 Minnesota State Highway 7 #201, Shorewood, MN 55331. Phone: +19523569410.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seidou-spa-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seidou-spa-shorewood.json",
+   "address": {
+    "streetAddress": "24000 Minnesota State Highway 7 #201",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8920519,
+    "lon": -93.583718
+   },
+   "phone": "+19523569410",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215326435",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "health-sense-dental-chanhassen",
+   "name": "Health Sense Dental",
+   "summary": "Health Sense Dental is a dentist in Chanhassen, MN at 6140 Lake Linden Drive #235, Chanhassen, MN 55331.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/health-sense-dental-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/health-sense-dental-chanhassen.json",
+   "address": {
+    "streetAddress": "6140 Lake Linden Drive #235",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8923004,
+    "lon": -93.5835462
+   },
+   "opening_hours": "Mo-Th 07:00-19:00, Fr 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215325078",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valvoline-shorewood",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Shorewood, MN. Website: https://store.vioc.com/mn/shorewood/oil-change-010018.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-shorewood.json",
+   "address": {
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9096282,
+    "lon": -93.5267973
+   },
+   "website": "https://store.vioc.com/mn/shorewood/oil-change-010018.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11735236153",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "new-horizon-academy-shorewood",
+   "name": "New Horizon Academy",
+   "summary": "New Horizon Academy is a preschool in Shorewood, MN.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-horizon-academy-shorewood.json",
+   "address": {
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.908646,
+    "lon": -93.5288175
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11735236155",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-shorewood",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Shorewood, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-shorewood.json",
+   "address": {
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9091446,
+    "lon": -93.5274434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11735236154",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-shorewood-n11735236354",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Shorewood, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-shorewood-n11735236354/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-shorewood-n11735236354.json",
+   "address": {
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.910218,
+    "lon": -93.5240279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11735236354",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

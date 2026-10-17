@@ -1,0 +1,23 @@
+Haskell's is a liquor store in Maple Grove, MN.
+
+# Haskell's
+
+- Category: liquor store
+- Services: liquor store
+- Address: Maple Grove, MN
+- City: Maple Grove
+- State: MN
+- ZIP: n/a
+- Coordinates: 45.1364675, -93.4762314
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/haskells-maple-grove/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/haskells-maple-grove.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/562024735 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

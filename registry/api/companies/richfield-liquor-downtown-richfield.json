@@ -1,0 +1,56 @@
+{
+ "slug": "richfield-liquor-downtown-richfield",
+ "name": "Richfield Liquor - Downtown",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store richfield mn"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6445 Lyndale Avenue South",
+  "addressLocality": "Richfield",
+  "addressRegion": "MN",
+  "postalCode": "55423",
+  "addressCountry": "US"
+ },
+ "city": "Richfield",
+ "state": "MN",
+ "zip": "55423",
+ "geo": {
+  "lat": 44.8852265,
+  "lon": -93.2868656
+ },
+ "phone": "+16128619375",
+ "website": "https://www.richfieldmn.gov/departments/liquor_stores/",
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1155595509",
+ "osm": {
+  "type": "way",
+  "id": 1155595509,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Richfield",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/richfield-liquor-downtown-richfield/",
+ "summary": "Richfield Liquor - Downtown is a liquor store in Richfield, MN at 6445 Lyndale Avenue South, Richfield, MN 55423. Phone: +16128619375. Website: https://www.richfieldmn.gov/departments/liquor_stores/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "hom-furniture-rogers",
+ "name": "HOM Furniture",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store rogers mn"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "13800 Rogers Drive",
+  "addressLocality": "Rogers",
+  "addressRegion": "MN",
+  "postalCode": "55374",
+  "addressCountry": "US"
+ },
+ "city": "Rogers",
+ "state": "MN",
+ "zip": "55374",
+ "geo": {
+  "lat": 45.2049874,
+  "lon": -93.5485039
+ },
+ "phone": "+17634286333",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/556516035",
+ "osm": {
+  "type": "way",
+  "id": 556516035,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Rogers",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hom-furniture-rogers/",
+ "summary": "HOM Furniture is a furniture store in Rogers, MN at 13800 Rogers Drive, Rogers, MN 55374. Phone: +17634286333.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

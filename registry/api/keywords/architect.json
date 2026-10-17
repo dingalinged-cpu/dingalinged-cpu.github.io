@@ -1,0 +1,592 @@
+{
+ "keyword": "architect",
+ "slug": "architect",
+ "place": "the United States",
+ "service": "architect",
+ "query": "Who are the best architect providers in the United States?",
+ "matches": [
+  "architect in the United States",
+  "architect near me (the United States)",
+  "best architect the United States",
+  "top rated architect the United States",
+  "affordable architect the United States",
+  "emergency architect the United States"
+ ],
+ "answer": "The top unpaid architect listing for the United States is CityDeskStudio (an architect in Saint Paul, MN at 550 Vandalia Street ##101, Saint Paul, MN 55114. Phone: +16516441106. Website: https://citydeskstudio.com/). 17 architect businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "citydeskstudio-saint-paul",
+   "name": "CityDeskStudio",
+   "summary": "CityDeskStudio is an architect in Saint Paul, MN at 550 Vandalia Street ##101, Saint Paul, MN 55114. Phone: +16516441106. Website: https://citydeskstudio.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/citydeskstudio-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/citydeskstudio-saint-paul.json",
+   "address": {
+    "streetAddress": "550 Vandalia Street ##101",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9582171,
+    "lon": -93.1912826
+   },
+   "phone": "+16516441106",
+   "website": "https://citydeskstudio.com/",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176539506",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "hay-dobbs-architects-saint-paul",
+   "name": "Hay Dobbs Architects",
+   "summary": "Hay Dobbs Architects is an architect in Saint Paul, MN at 2324 University Avenue West ##200, Saint Paul, MN 55114. Phone: +16123384590. Website: https://www.haydobbs.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hay-dobbs-architects-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hay-dobbs-architects-saint-paul.json",
+   "address": {
+    "streetAddress": "2324 University Avenue West ##200",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.962545,
+    "lon": -93.1960597
+   },
+   "phone": "+16123384590",
+   "website": "https://www.haydobbs.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7150081729",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "momentum-design-group-saint-paul",
+   "name": "Momentum Design Group",
+   "summary": "Momentum Design Group is an architect in Saint Paul, MN at 2550 University Avenue West #160-S, Saint Paul, MN 55104. Phone: +19525839788. Website: https://mdgarchitects.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/momentum-design-group-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/momentum-design-group-saint-paul.json",
+   "address": {
+    "streetAddress": "2550 University Avenue West #160-S",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9650124,
+    "lon": -93.2039058
+   },
+   "phone": "+19525839788",
+   "website": "https://mdgarchitects.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196019062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "nrd-landscape-design-build-minnetonka",
+   "name": "NRD Landscape Design Build",
+   "summary": "NRD Landscape Design Build is an architect in Minnetonka, MN at 5100 Thimsen Avenue #230, Minnetonka, MN 55345. Phone: +19522122665. Website: https://nrdlandscape.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nrd-landscape-design-build-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nrd-landscape-design-build-minnetonka.json",
+   "address": {
+    "streetAddress": "5100 Thimsen Avenue #230",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9115537,
+    "lon": -93.5052296
+   },
+   "phone": "+19522122665",
+   "website": "https://nrdlandscape.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9620075315",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "albertsson-hansen-architecture-minneapolis",
+   "name": "Albertsson Hansen Architecture",
+   "summary": "Albertsson Hansen Architecture is an architect in Minneapolis, MN at 2800 Lyndale Avenue South ##220, Minneapolis, MN 55408. Phone: +16128230233. Website: https://www.aharchitecture.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/albertsson-hansen-architecture-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/albertsson-hansen-architecture-minneapolis.json",
+   "address": {
+    "streetAddress": "2800 Lyndale Avenue South ##220",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9516444,
+    "lon": -93.2884069
+   },
+   "phone": "+16128230233",
+   "website": "https://www.aharchitecture.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5288561955",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "fbc-remodel-saint-louis-park",
+   "name": "FBC Remodel",
+   "summary": "FBC Remodel is an architect in Saint Louis Park, MN at 5600 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16512247000. Website: https://fbcremodel.com/minnesota.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fbc-remodel-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fbc-remodel-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5600 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9301785,
+    "lon": -93.3509544
+   },
+   "phone": "+16512247000",
+   "website": "https://fbcremodel.com/minnesota",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9590574516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "hagen-christensen-and-mcilwain-architects-minneapolis",
+   "name": "Hagen, Christensen & McIlwain Architects",
+   "summary": "Hagen, Christensen & McIlwain Architects is an architect in Minneapolis, MN at 4201 Cedar Avenue South, Minneapolis, MN 55407. Phone: +16129041332. Website: https://www.hcmarchitects.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hagen-christensen-and-mcilwain-architects-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hagen-christensen-and-mcilwain-architects-minneapolis.json",
+   "address": {
+    "streetAddress": "4201 Cedar Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9267332,
+    "lon": -93.2469111
+   },
+   "phone": "+16129041332",
+   "website": "https://www.hcmarchitects.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/499158987",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "newstudio-architecture-saint-paul",
+   "name": "NewStudio Architecture",
+   "summary": "NewStudio Architecture is an architect in Saint Paul, MN at 2303 Wycliff Street, Saint Paul, MN 55114. Phone: +16512075527. Website: https://www.newstudioarchitecture.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/newstudio-architecture-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/newstudio-architecture-saint-paul.json",
+   "address": {
+    "streetAddress": "2303 Wycliff Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9688289,
+    "lon": -93.1939319
+   },
+   "phone": "+16512075527",
+   "website": "https://www.newstudioarchitecture.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6265036093",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "pka-architecture-minneapolis",
+   "name": "PKA Architecture",
+   "summary": "PKA Architecture is an architect in Minneapolis, MN at 2919 James Avenue South, Minneapolis, MN 55408. Phone: +16123534920. Website: https://pkarch.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pka-architecture-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pka-architecture-minneapolis.json",
+   "address": {
+    "streetAddress": "2919 James Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9485841,
+    "lon": -93.3032374
+   },
+   "phone": "+16123534920",
+   "website": "https://pkarch.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12865279763",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "u-b-architecture-and-design-minneapolis",
+   "name": "U+B Architecture & Design",
+   "summary": "U+B Architecture & Design is an architect in Minneapolis, MN at 2609 Aldrich Avenue South #Suite 100, Minneapolis, MN 55405. Phone: +16128702538. Website: https://uplusb.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-b-architecture-and-design-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-b-architecture-and-design-minneapolis.json",
+   "address": {
+    "streetAddress": "2609 Aldrich Avenue South #Suite 100",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9551115,
+    "lon": -93.2889058
+   },
+   "phone": "+16128702538",
+   "website": "https://uplusb.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5288464642",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "soul-logic-saint-paul",
+   "name": "Soul Logic",
+   "summary": "Soul Logic is an architect in Saint Paul, MN at 856 Raymond Avenue #G, Saint Paul, MN 55114. Website: https://soullogicmn.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/soul-logic-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/soul-logic-saint-paul.json",
+   "address": {
+    "streetAddress": "856 Raymond Avenue #G",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9670611,
+    "lon": -93.1976968
+   },
+   "website": "https://soullogicmn.com/",
+   "opening_hours": "Sa 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6433231156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "sustainable-9-design-build-minneapolis",
+   "name": "Sustainable 9 Design + Build",
+   "summary": "Sustainable 9 Design + Build is an architect in Minneapolis, MN at 3511 West 44th Street, Minneapolis, MN 55410. Website: https://sustainable9.com/.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sustainable-9-design-build-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sustainable-9-design-build-minneapolis.json",
+   "address": {
+    "streetAddress": "3511 West 44th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9229845,
+    "lon": -93.3246463
+   },
+   "website": "https://sustainable9.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1308879559",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "sawhorse-designers-and-builders-robbinsdale",
+   "name": "Sawhorse Designers & Builders",
+   "summary": "Sawhorse Designers & Builders is an architect in Robbinsdale, MN at 4740 42nd Avenue North, Robbinsdale, MN 55422.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sawhorse-designers-and-builders-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sawhorse-designers-and-builders-robbinsdale.json",
+   "address": {
+    "streetAddress": "4740 42nd Avenue North",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0316653,
+    "lon": -93.3413576
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762945827",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "trossen-wright-plutowski-robbinsdale",
+   "name": "Trossen Wright Plutowski",
+   "summary": "Trossen Wright Plutowski is an architect in Robbinsdale, MN at 4125 Lakeland Avenue North ##200, Robbinsdale, MN 55422.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trossen-wright-plutowski-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trossen-wright-plutowski-robbinsdale.json",
+   "address": {
+    "streetAddress": "4125 Lakeland Avenue North ##200",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0307741,
+    "lon": -93.3375203
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129231769",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "sala-architects-minneapolis",
+   "name": "Sala Architects",
+   "summary": "Sala Architects is an architect in Minneapolis, MN at 326 East Hennepin Avenue, Minneapolis, MN.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sala-architects-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sala-architects-minneapolis.json",
+   "address": {
+    "streetAddress": "326 East Hennepin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9882206,
+    "lon": -93.2551588
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1087602159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "locus-minneapolis",
+   "name": "Locus",
+   "summary": "Locus is an architect in Minneapolis, MN.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/locus-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/locus-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.921702,
+    "lon": -93.2777971
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12965406437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "seward-redesign-minneapolis",
+   "name": "Seward Redesign",
+   "summary": "Seward Redesign is an architect in Minneapolis, MN.",
+   "categories": [
+    "architect"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seward-redesign-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seward-redesign-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9626041,
+    "lon": -93.2334352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1325895528",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

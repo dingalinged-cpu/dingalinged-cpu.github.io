@@ -1,0 +1,2431 @@
+{
+ "keyword": "storage units",
+ "slug": "storage-units",
+ "place": "the United States",
+ "service": "storage units",
+ "query": "Who are the best storage units providers in the United States?",
+ "matches": [
+  "storage units in the United States",
+  "storage units near me (the United States)",
+  "best storage units the United States",
+  "top rated storage units the United States",
+  "affordable storage units the United States",
+  "emergency storage units the United States"
+ ],
+ "answer": "The top unpaid storage units listing for the United States is All American Self-Storage (a self-storage facility in Saint Paul, MN at 670 Pelham Boulevard, Saint Paul, MN 55114. Phone: +16517724494. Website: https://www.allamericanself-storage.com/). 77 storage units businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "all-american-self-storage-saint-paul",
+   "name": "All American Self-Storage",
+   "summary": "All American Self-Storage is a self-storage facility in Saint Paul, MN at 670 Pelham Boulevard, Saint Paul, MN 55114. Phone: +16517724494. Website: https://www.allamericanself-storage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-american-self-storage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-american-self-storage-saint-paul.json",
+   "address": {
+    "streetAddress": "670 Pelham Boulevard",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9616896,
+    "lon": -93.1998163
+   },
+   "phone": "+16517724494",
+   "website": "https://www.allamericanself-storage.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6273229357",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "cubesmart-saint-paul",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Saint Paul, MN at 631 Transfer Road, Saint Paul, MN 55114. Phone: +16125525858. Website: https://www.cubesmart.com/minnesota-self-storage/saint-paul-self-storage/4006.html.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-saint-paul.json",
+   "address": {
+    "streetAddress": "631 Transfer Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9607499,
+    "lon": -93.1874322
+   },
+   "phone": "+16125525858",
+   "website": "https://www.cubesmart.com/minnesota-self-storage/saint-paul-self-storage/4006.html",
+   "opening_hours": "Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/768686714",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "five-star-storage-saint-michael",
+   "name": "Five Star Storage",
+   "summary": "Five Star Storage is a self-storage facility in Saint Michael, MN at 5358 Quam Avenue Northeast, Saint Michael, MN 55376. Phone: +17633094900. Website: https://www.fivestarstorage.biz/locations/minnesota/saint-michael/five-star-storage-5358-quam-ave/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-star-storage-saint-michael/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-star-storage-saint-michael.json",
+   "address": {
+    "streetAddress": "5358 Quam Avenue Northeast",
+    "addressLocality": "Saint Michael",
+    "addressRegion": "MN",
+    "postalCode": "55376",
+    "addressCountry": "US"
+   },
+   "city": "Saint Michael",
+   "state": "MN",
+   "zip": "55376",
+   "geo": {
+    "lat": 45.2300093,
+    "lon": -93.5546123
+   },
+   "phone": "+17633094900",
+   "website": "https://www.fivestarstorage.biz/locations/minnesota/saint-michael/five-star-storage-5358-quam-ave/",
+   "opening_hours": "Mo-Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13522878334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "freeway-mini-storage-forest-lake",
+   "name": "Freeway Mini Storage",
+   "summary": "Freeway Mini Storage is a self-storage facility in Forest Lake, MN at 14474 West Freeway Drive, Forest Lake, MN 55025. Phone: +16519829999. Website: https://www.freewayministorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freeway-mini-storage-forest-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freeway-mini-storage-forest-lake.json",
+   "address": {
+    "streetAddress": "14474 West Freeway Drive",
+    "addressLocality": "Forest Lake",
+    "addressRegion": "MN",
+    "postalCode": "55025",
+    "addressCountry": "US"
+   },
+   "city": "Forest Lake",
+   "state": "MN",
+   "zip": "55025",
+   "geo": {
+    "lat": 45.232009,
+    "lon": -93.0307269
+   },
+   "phone": "+16519829999",
+   "website": "https://www.freewayministorage.com/",
+   "opening_hours": "Mo-Fr 10:00-16:00; Sa 10:00-15:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9251443931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "lake-region-storage-saint-paul",
+   "name": "Lake Region Storage",
+   "summary": "Lake Region Storage is a self-storage facility in Saint Paul, MN at 606 Vandalia Street, Saint Paul, MN 55114. Phone: +16516474400. Website: https://st-paul.lakeregionstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-region-storage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-region-storage-saint-paul.json",
+   "address": {
+    "streetAddress": "606 Vandalia Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9592888,
+    "lon": -93.1904724
+   },
+   "phone": "+16516474400",
+   "website": "https://st-paul.lakeregionstorage.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176485974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "public-storage-hilltop",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Hilltop, MN at 4560 Central Avenue Northeast, Hilltop, MN 55421. Phone: +17632845544. Website: https://www.publicstorage.com/self-storage-mn-hilltop/5343.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-hilltop/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-hilltop.json",
+   "address": {
+    "streetAddress": "4560 Central Avenue Northeast",
+    "addressLocality": "Hilltop",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Hilltop",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0522775,
+    "lon": -93.2485071
+   },
+   "phone": "+17632845544",
+   "website": "https://www.publicstorage.com/self-storage-mn-hilltop/5343",
+   "opening_hours": "Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/869957890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "public-storage-saint-paul",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Saint Paul, MN at 2516 Wabash Avenue, Saint Paul, MN 55114. Phone: +16519688585. Website: https://www.publicstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-saint-paul.json",
+   "address": {
+    "streetAddress": "2516 Wabash Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9607948,
+    "lon": -93.2052278
+   },
+   "phone": "+16519688585",
+   "website": "https://www.publicstorage.com/",
+   "opening_hours": "Mo-Fr 09:30-18:00; Sa,Su 09:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6273453094",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "stephens-self-storage-oakdale",
+   "name": "Stephen's Self-Storage",
+   "summary": "Stephen's Self-Storage is a self-storage facility in Oakdale, MN at 5698 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517773122. Website: https://stephensself-storage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stephens-self-storage-oakdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stephens-self-storage-oakdale.json",
+   "address": {
+    "streetAddress": "5698 Hadley Avenue North",
+    "addressLocality": "Oakdale",
+    "addressRegion": "MN",
+    "postalCode": "55128",
+    "addressCountry": "US"
+   },
+   "city": "Oakdale",
+   "state": "MN",
+   "zip": "55128",
+   "geo": {
+    "lat": 45.0309538,
+    "lon": -92.9833369
+   },
+   "phone": "+16517773122",
+   "website": "https://stephensself-storage.com/",
+   "opening_hours": "Mo-We 09:30-13:00; Th-Fr 09:30-14:00; Sa 08:30-14:00; Su 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6636466353",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "u-haul-minneapolis-w1273095401",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Minneapolis, MN at 4215 Hiawatha Avenue, Minneapolis, MN 55406. Phone: +16127261728. Website: https://www.uhaul.com/Locations/Self-Storage-near-Minneapolis-MN-55406/726072/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-minneapolis-w1273095401/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-minneapolis-w1273095401.json",
+   "address": {
+    "streetAddress": "4215 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9263697,
+    "lon": -93.2228565
+   },
+   "phone": "+16127261728",
+   "website": "https://www.uhaul.com/Locations/Self-Storage-near-Minneapolis-MN-55406/726072/",
+   "opening_hours": "Mo-Th, Sa 07:00-19:00; Fr 07:00-20:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1273095401",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "chaska-self-storage-chaska",
+   "name": "Chaska Self-Storage",
+   "summary": "Chaska Self-Storage is a self-storage facility in Chaska, MN at 103 Peavey Road, Chaska, MN 55318. Phone: +19525001772. Website: https://chaskaselfstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chaska-self-storage-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chaska-self-storage-chaska.json",
+   "address": {
+    "streetAddress": "103 Peavey Road",
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "postalCode": "55318",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "zip": "55318",
+   "geo": {
+    "lat": 44.8451486,
+    "lon": -93.5963029
+   },
+   "phone": "+19525001772",
+   "website": "https://chaskaselfstorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/51302101",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "extra-space-storage-saint-louis-park",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Saint Louis Park, MN at 5051 Highway 7, Saint Louis Park, MN 55416. Phone: +17639511411. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/1000000684/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5051 Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.943507,
+    "lon": -93.3449524
+   },
+   "phone": "+17639511411",
+   "website": "https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/1000000684/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47199099",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "extra-space-storage-saint-louis-park-w167040267",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Saint Louis Park, MN at 5305 Parkdale Drive, Saint Louis Park, MN 55416. Phone: +19523146730. Website: https://www.extraspace.com/storage/facilities/us/minnesota/st_louis_park/1000000859/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-saint-louis-park-w167040267/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-saint-louis-park-w167040267.json",
+   "address": {
+    "streetAddress": "5305 Parkdale Drive",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9627403,
+    "lon": -93.3470466
+   },
+   "phone": "+19523146730",
+   "website": "https://www.extraspace.com/storage/facilities/us/minnesota/st_louis_park/1000000859/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/167040267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "istorage-minneapolis-w65728472",
+   "name": "iStorage",
+   "summary": "iStorage is a self-storage facility in Minneapolis, MN at 3601 Hiawatha Avenue, Minneapolis, MN 55406. Phone: +16122760918. Website: https://www.istorage.com/storage/minnesota/storage-units-minneapolis/3601-Hiawatha-Ave-369.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/istorage-minneapolis-w65728472/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/istorage-minneapolis-w65728472.json",
+   "address": {
+    "streetAddress": "3601 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9368438,
+    "lon": -93.229884
+   },
+   "phone": "+16122760918",
+   "website": "https://www.istorage.com/storage/minnesota/storage-units-minneapolis/3601-Hiawatha-Ave-369",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/65728472",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "public-storage-edina",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Edina, MN at 4425 West 77th Street, Edina, MN 55435. Phone: +18006888057. Website: https://www.publicstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-edina.json",
+   "address": {
+    "streetAddress": "4425 West 77th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8626948,
+    "lon": -93.3354307
+   },
+   "phone": "+18006888057",
+   "website": "https://www.publicstorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/121049755",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "public-storage-fridley",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Fridley, MN at 5350 Industrial Boulevard Northeast, Fridley, MN 55421. Phone: +17635152895. Website: https://www.publicstorage.com/self-storage-mn-fridley/2499.html?pspid=pslocalsearch.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-fridley.json",
+   "address": {
+    "streetAddress": "5350 Industrial Boulevard Northeast",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55421",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55421",
+   "geo": {
+    "lat": 45.0658043,
+    "lon": -93.2730107
+   },
+   "phone": "+17635152895",
+   "website": "https://www.publicstorage.com/self-storage-mn-fridley/2499.html?pspid=pslocalsearch",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/170675031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "public-storage-minneapolis",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Minneapolis, MN at 425 Washington Avenue North, Minneapolis, MN 55401. Phone: +18006888057. Website: https://publicstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-minneapolis.json",
+   "address": {
+    "streetAddress": "425 Washington Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9858372,
+    "lon": -93.274709
+   },
+   "phone": "+18006888057",
+   "website": "https://publicstorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12754418102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "scott-county-mini-storage-shakopee",
+   "name": "Scott County Mini Storage",
+   "summary": "Scott County Mini Storage is a self-storage facility in Shakopee, MN at 240 Shumway Street South #Suite 600, Shakopee, MN 55379. Phone: +19524456858. Website: https://www.shakopeestorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scott-county-mini-storage-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scott-county-mini-storage-shakopee.json",
+   "address": {
+    "streetAddress": "240 Shumway Street South #Suite 600",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7964045,
+    "lon": -93.5340239
+   },
+   "phone": "+19524456858",
+   "website": "https://www.shakopeestorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812524624",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "public-storage-minneapolis-n12754418701",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Minneapolis, MN. Phone: +16122000395. Website: https://publicstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-minneapolis-n12754418701/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-minneapolis-n12754418701.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9823091,
+    "lon": -93.2759276
+   },
+   "phone": "+16122000395",
+   "website": "https://publicstorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12754418701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "extra-space-storage-new-hope",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in New Hope, MN at 3216 Winnetka Avenue North, New Hope, MN 55427. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-new-hope.json",
+   "address": {
+    "streetAddress": "3216 Winnetka Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "postalCode": "55427",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "zip": "55427",
+   "geo": {
+    "lat": 45.0151762,
+    "lon": -93.3793174
+   },
+   "website": "https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/135487514",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "five-star-storage-saint-paul",
+   "name": "Five Star Storage",
+   "summary": "Five Star Storage is a self-storage facility in Saint Paul, MN at 1400 Selby Avenue, Saint Paul, MN 55104. Website: https://www.fivestarstorage.biz/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-star-storage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-star-storage-saint-paul.json",
+   "address": {
+    "streetAddress": "1400 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9462353,
+    "lon": -93.159
+   },
+   "website": "https://www.fivestarstorage.biz/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/951583378",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "midway-cold-storage-saint-paul",
+   "name": "Midway Cold Storage",
+   "summary": "Midway Cold Storage is a self-storage facility in Saint Paul, MN at 2231 West Territorial Road, Saint Paul, MN 55114. Phone: +16516468888.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-cold-storage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-cold-storage-saint-paul.json",
+   "address": {
+    "streetAddress": "2231 West Territorial Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9642508,
+    "lon": -93.1895519
+   },
+   "phone": "+16516468888",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267097802",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "extra-space-storage-roseville",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Roseville, MN at 2500 Prior Avenue, Roseville, MN. Website: https://www.extraspace.com/storage/facilities/us/minnesota/roseville/1000001520/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-roseville.json",
+   "address": {
+    "streetAddress": "2500 Prior Avenue",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0166008,
+    "lon": -93.1812475
+   },
+   "website": "https://www.extraspace.com/storage/facilities/us/minnesota/roseville/1000001520/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/784517091",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "acorn-mini-storage-eagan",
+   "name": "Acorn Mini Storage",
+   "summary": "Acorn Mini Storage is a self-storage facility in Eagan, MN. Phone: +16519050601.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acorn-mini-storage-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acorn-mini-storage-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8502584,
+    "lon": -93.1484964
+   },
+   "phone": "+16519050601",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/451292775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "bloomington-self-storage-bloomington",
+   "name": "Bloomington Self-Storage",
+   "summary": "Bloomington Self-Storage is a self-storage facility in Bloomington, MN. Phone: +19528817878.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bloomington-self-storage-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bloomington-self-storage-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8577353,
+    "lon": -93.2813679
+   },
+   "phone": "+19528817878",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/773366977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "acorn-mini-storage-minneapolis",
+   "name": "Acorn Mini Storage",
+   "summary": "Acorn Mini Storage is a self-storage facility in Minneapolis, MN at 4652 North Lyndale Avenue, Minneapolis, MN 55412.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acorn-mini-storage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acorn-mini-storage-minneapolis.json",
+   "address": {
+    "streetAddress": "4652 North Lyndale Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55412",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55412",
+   "geo": {
+    "lat": 45.040143,
+    "lon": -93.2862985
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/934110770",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "aj-mini-storage-saint-bonifacius",
+   "name": "AJ-Mini Storage",
+   "summary": "AJ-Mini Storage is a self-storage facility in Saint Bonifacius, MN at 8833 Kennedy Memorial Drive, Saint Bonifacius, MN 55375.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aj-mini-storage-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aj-mini-storage-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "8833 Kennedy Memorial Drive",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9043552,
+    "lon": -93.7484553
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1155153738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "all-american-self-storage-saint-paul-w302130407",
+   "name": "All American Self Storage",
+   "summary": "All American Self Storage is a self-storage facility in Saint Paul, MN at 1500 Marshall Avenue, Saint Paul, MN 55104.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-american-self-storage-saint-paul-w302130407/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-american-self-storage-saint-paul-w302130407.json",
+   "address": {
+    "streetAddress": "1500 Marshall Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9482773,
+    "lon": -93.1643677
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/302130407",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "bester-brothers-transfer-and-storage-south-saint-paul",
+   "name": "Bester Brothers Transfer & Storage",
+   "summary": "Bester Brothers Transfer & Storage is a self-storage facility in South Saint Paul, MN at 260 Hardman Avenue South, South Saint Paul, MN 55075.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bester-brothers-transfer-and-storage-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bester-brothers-transfer-and-storage-south-saint-paul.json",
+   "address": {
+    "streetAddress": "260 Hardman Avenue South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8893083,
+    "lon": -93.0257586
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/493781057",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "extra-space-storage-brooklyn-center",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Brooklyn Center, MN at 5721 Logan Avenue North, Brooklyn Center, MN 55430.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-brooklyn-center.json",
+   "address": {
+    "streetAddress": "5721 Logan Avenue North",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55430",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55430",
+   "geo": {
+    "lat": 45.0598227,
+    "lon": -93.3048351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1434884122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "extra-space-storage-brooklyn-park",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Brooklyn Park, MN at 8570 Aspen Lane North, Brooklyn Park, MN 55445.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-brooklyn-park.json",
+   "address": {
+    "streetAddress": "8570 Aspen Lane North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55445",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55445",
+   "geo": {
+    "lat": 45.1101814,
+    "lon": -93.3932218
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762299264",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "istorage-minneapolis",
+   "name": "iStorage",
+   "summary": "iStorage is a self-storage facility in Minneapolis, MN at 4311 Hiawatha Avenue, Minneapolis, MN 55406.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/istorage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/istorage-minneapolis.json",
+   "address": {
+    "streetAddress": "4311 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9242234,
+    "lon": -93.2213134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/35412661",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "park-place-self-storage-rogers",
+   "name": "Park Place Self Storage",
+   "summary": "Park Place Self Storage is a self-storage facility in Rogers, MN at 23075 Industrial Boulevard, Rogers, MN 55374.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-place-self-storage-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-place-self-storage-rogers.json",
+   "address": {
+    "streetAddress": "23075 Industrial Boulevard",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.2027131,
+    "lon": -93.5723738
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6572745481",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "public-storage-minneapolis-w119610712",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Minneapolis, MN at 3245 Hiawatha Avenue, Minneapolis, MN 55406.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-minneapolis-w119610712/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-minneapolis-w119610712.json",
+   "address": {
+    "streetAddress": "3245 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9438447,
+    "lon": -93.2347282
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/119610712",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "public-storage-minneapolis-w1223301110",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Minneapolis, MN at 1720 North Washington Avenue, Minneapolis, MN 55411.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-minneapolis-w1223301110/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-minneapolis-w1223301110.json",
+   "address": {
+    "streetAddress": "1720 North Washington Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55411",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55411",
+   "geo": {
+    "lat": 44.9969237,
+    "lon": -93.2811272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223301110",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "public-storage-saint-louis-park",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Saint Louis Park, MN at 3200 France Avenue South, Saint Louis Park, MN 55416.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3200 France Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9444628,
+    "lon": -93.329446
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/199923000",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "public-storage-vadnais-heights",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Vadnais Heights, MN at 1090 Birch Lake Boulevard South, Vadnais Heights, MN 55127.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-vadnais-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-vadnais-heights.json",
+   "address": {
+    "streetAddress": "1090 Birch Lake Boulevard South",
+    "addressLocality": "Vadnais Heights",
+    "addressRegion": "MN",
+    "postalCode": "55127",
+    "addressCountry": "US"
+   },
+   "city": "Vadnais Heights",
+   "state": "MN",
+   "zip": "55127",
+   "geo": {
+    "lat": 45.0716219,
+    "lon": -93.0550491
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1137945715",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "stans-storage-albertville",
+   "name": "Stan's Storage",
+   "summary": "Stan's Storage is a self-storage facility in Albertville, MN at 6000 Labeaux Avenue Northeast, Albertville, MN 55301.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stans-storage-albertville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stans-storage-albertville.json",
+   "address": {
+    "streetAddress": "6000 Labeaux Avenue Northeast",
+    "addressLocality": "Albertville",
+    "addressRegion": "MN",
+    "postalCode": "55301",
+    "addressCountry": "US"
+   },
+   "city": "Albertville",
+   "state": "MN",
+   "zip": "55301",
+   "geo": {
+    "lat": 45.2370956,
+    "lon": -93.663524
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/552435482",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "the-lock-up-golden-valley",
+   "name": "The Lock Up",
+   "summary": "The Lock Up is a self-storage facility in Golden Valley, MN at 6250 Olson Memorial Highway, Golden Valley, MN 55422.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-lock-up-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-lock-up-golden-valley.json",
+   "address": {
+    "streetAddress": "6250 Olson Memorial Highway",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.9853606,
+    "lon": -93.3595354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/466560046",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "u-haul-saint-louis-park",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Saint Louis Park, MN at 3750 Louisiana Avenue South, Saint Louis Park, MN 55426.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3750 Louisiana Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9350813,
+    "lon": -93.3690332
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/172528998",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "u-haul-saint-paul",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Saint Paul, MN at 2520 Como Avenue, Saint Paul, MN 55108.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-saint-paul.json",
+   "address": {
+    "streetAddress": "2520 Como Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9866689,
+    "lon": -93.204872
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/98184592",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "us-storage-center-crystal",
+   "name": "US Storage Center",
+   "summary": "US Storage Center is a self-storage facility in Crystal, MN at 5217 Hanson Court North, Crystal, MN 55429.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/us-storage-center-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/us-storage-center-crystal.json",
+   "address": {
+    "streetAddress": "5217 Hanson Court North",
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "postalCode": "55429",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "zip": "55429",
+   "geo": {
+    "lat": 45.0490358,
+    "lon": -93.356572
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/171280470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "white-bear-mini-storage-white-bear-lake",
+   "name": "White Bear Mini Storage",
+   "summary": "White Bear Mini Storage is a self-storage facility in White Bear Lake, MN at 2310 Leibel Street, White Bear Lake, MN 55110.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/white-bear-mini-storage-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/white-bear-mini-storage-white-bear-lake.json",
+   "address": {
+    "streetAddress": "2310 Leibel Street",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.1204895,
+    "lon": -93.001467
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/694095724",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "u-haul-minneapolis",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Minneapolis, MN at 1717 West River Road North, Minneapolis, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-minneapolis.json",
+   "address": {
+    "streetAddress": "1717 West River Road North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9966545,
+    "lon": -93.2777023
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13021868108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "uhaul-climate-controlled-self-storage-brooklyn-park",
+   "name": "UHaul Climate Controlled Self Storage",
+   "summary": "UHaul Climate Controlled Self Storage is a self-storage facility in Brooklyn Park, MN at 7007 Lakeland Avenue North, Brooklyn Park, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uhaul-climate-controlled-self-storage-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uhaul-climate-controlled-self-storage-brooklyn-park.json",
+   "address": {
+    "streetAddress": "7007 Lakeland Avenue North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0824689,
+    "lon": -93.3754431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/405338819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "your-storage-solution-bloomington",
+   "name": "Your Storage Solution",
+   "summary": "Your Storage Solution is a self-storage facility in Bloomington, MN at 1298 West 98th Street, Bloomington, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/your-storage-solution-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/your-storage-solution-bloomington.json",
+   "address": {
+    "streetAddress": "1298 West 98th Street",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.827582,
+    "lon": -93.294202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/234502496",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "acorn-mini-storage-blaine",
+   "name": "Acorn Mini Storage",
+   "summary": "Acorn Mini Storage is a self-storage facility in Blaine, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acorn-mini-storage-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acorn-mini-storage-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1872326,
+    "lon": -93.2355544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/611610260",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "acorn-mini-storage-brooklyn-park",
+   "name": "Acorn Mini Storage",
+   "summary": "Acorn Mini Storage is a self-storage facility in Brooklyn Park, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acorn-mini-storage-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acorn-mini-storage-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.108354,
+    "lon": -93.3191063
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/865970317",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "dart-storage-saint-paul",
+   "name": "Dart Storage",
+   "summary": "Dart Storage is a self-storage facility in Saint Paul, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dart-storage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dart-storage-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9307877,
+    "lon": -93.0699643
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1333651252",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "de-maios-mini-storage-saint-paul",
+   "name": "De Maio's Mini Storage",
+   "summary": "De Maio's Mini Storage is a self-storage facility in Saint Paul, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/de-maios-mini-storage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/de-maios-mini-storage-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9823633,
+    "lon": -93.1062407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/607969803",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "extra-space-storage-crystal",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Crystal, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.056308,
+    "lon": -93.36664
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7212120098",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "extra-space-storage-minneapolis",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Minneapolis, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8928308,
+    "lon": -93.2829416
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1312884891",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "extra-space-storage-saint-paul",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Saint Paul, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9463966,
+    "lon": -93.0866924
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13520030583",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "five-star-storage-maple-grove",
+   "name": "Five Star Storage",
+   "summary": "Five Star Storage is a self-storage facility in Maple Grove, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-star-storage-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-star-storage-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1239653,
+    "lon": -93.4911914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7098674210",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "greenfield-mini-storage-greenfield",
+   "name": "Greenfield Mini Storage",
+   "summary": "Greenfield Mini Storage is a self-storage facility in Greenfield, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greenfield-mini-storage-greenfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greenfield-mini-storage-greenfield.json",
+   "address": {
+    "addressLocality": "Greenfield",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Greenfield",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0821208,
+    "lon": -93.7264844
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1258339529",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "hamline-park-plaza-storage-saint-paul",
+   "name": "Hamline Park Plaza Storage",
+   "summary": "Hamline Park Plaza Storage is a self-storage facility in Saint Paul, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hamline-park-plaza-storage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hamline-park-plaza-storage-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9586035,
+    "lon": -93.1643714
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13071147622",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "metro-self-storage-blaine",
+   "name": "Metro Self Storage",
+   "summary": "Metro Self Storage is a self-storage facility in Blaine, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-self-storage-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-self-storage-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1517281,
+    "lon": -93.2341509
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/351202114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "metro-self-storage-eagan",
+   "name": "Metro Self Storage",
+   "summary": "Metro Self Storage is a self-storage facility in Eagan, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-self-storage-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-self-storage-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8446135,
+    "lon": -93.1222081
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330241378",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "public-storage-blaine",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Blaine, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1779336,
+    "lon": -93.2385354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1293817206",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "public-storage-blaine-w1293817207",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Blaine, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-blaine-w1293817207/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-blaine-w1293817207.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1783625,
+    "lon": -93.2373812
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1293817207",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "public-storage-eagan",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Eagan, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8248091,
+    "lon": -93.2028116
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1281346241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "public-storage-eagan-w1330241375",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Eagan, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-eagan-w1330241375/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-eagan-w1330241375.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8461106,
+    "lon": -93.1204782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1330241375",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "public-storage-golden-valley",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Golden Valley, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-golden-valley.json",
+   "address": {
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0040766,
+    "lon": -93.3785678
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603554179",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "public-storage-golden-valley-w603554182",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Golden Valley, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-golden-valley-w603554182/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-golden-valley-w603554182.json",
+   "address": {
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0040636,
+    "lon": -93.3799672
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603554182",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "public-storage-maple-grove",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Maple Grove, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1284669,
+    "lon": -93.4211885
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/758989521",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "public-storage-maple-grove-w758989522",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Maple Grove, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-maple-grove-w758989522/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-maple-grove-w758989522.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1284152,
+    "lon": -93.4202328
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/758989522",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "public-storage-new-hope",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in New Hope, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0212198,
+    "lon": -93.3737877
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11349274809",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "public-storage-new-hope-w763213354",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in New Hope, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-new-hope-w763213354/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-new-hope-w763213354.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0470068,
+    "lon": -93.3793444
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/763213354",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "public-storage-saint-paul-w1333651253",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Saint Paul, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-saint-paul-w1333651253/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-saint-paul-w1333651253.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9336209,
+    "lon": -93.0748512
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1333651253",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "public-storage-shorewood",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Shorewood, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-shorewood.json",
+   "address": {
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9091446,
+    "lon": -93.5274434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11735236154",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "public-storage-shorewood-n11735236354",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Shorewood, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-shorewood-n11735236354/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-shorewood-n11735236354.json",
+   "address": {
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.910218,
+    "lon": -93.5240279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11735236354",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "store-it-in-rockford-rockford",
+   "name": "Store It In Rockford",
+   "summary": "Store It In Rockford is a self-storage facility in Rockford, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/store-it-in-rockford-rockford/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/store-it-in-rockford-rockford.json",
+   "address": {
+    "addressLocality": "Rockford",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rockford",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0904595,
+    "lon": -93.7419552
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1389971830",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "the-lock-up-bloomington",
+   "name": "The Lock Up",
+   "summary": "The Lock Up is a self-storage facility in Bloomington, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-lock-up-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-lock-up-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8588166,
+    "lon": -93.2826876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/773366968",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "town-center-self-storage-eagan",
+   "name": "Town Center Self Storage",
+   "summary": "Town Center Self Storage is a self-storage facility in Eagan, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/town-center-self-storage-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/town-center-self-storage-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8282915,
+    "lon": -93.1603884
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/18938275",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "u-haul-crystal",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Crystal, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0568415,
+    "lon": -93.3690632
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7638999147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "us-storage-white-bear-lake",
+   "name": "US Storage",
+   "summary": "US Storage is a self-storage facility in White Bear Lake, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/us-storage-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/us-storage-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0385347,
+    "lon": -93.0262135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/126160312",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "us-storage-centers-minneapolis",
+   "name": "US Storage Centers",
+   "summary": "US Storage Centers is a self-storage facility in Minneapolis, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/us-storage-centers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/us-storage-centers-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9826767,
+    "lon": -93.2860498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/89070231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "westrock-storage-rockford",
+   "name": "Westrock Storage",
+   "summary": "Westrock Storage is a self-storage facility in Rockford, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/westrock-storage-rockford/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/westrock-storage-rockford.json",
+   "address": {
+    "addressLocality": "Rockford",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rockford",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0939445,
+    "lon": -93.7445315
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12843028073",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

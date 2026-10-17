@@ -1,0 +1,87 @@
+{
+ "openapi": "3.0.0",
+ "info": {
+  "title": "Company Registry static API",
+  "version": "1"
+ },
+ "servers": [
+  {
+   "url": "https://dingalinged-cpu.github.io/registry/"
+  }
+ ],
+ "paths": {
+  "/api/companies.json": {
+   "get": {
+    "summary": "List all companies",
+    "responses": {
+     "200": {
+      "description": "OK"
+     }
+    }
+   }
+  },
+  "/api/keywords/{keyword}.json": {
+   "get": {
+    "operationId": "searchCompanies",
+    "summary": "Companies for a keyword slug (service or service-city). sponsored:true = paid",
+    "parameters": [
+     {
+      "name": "keyword",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      },
+      "example": "roofing-minneapolis"
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "OK"
+     }
+    }
+   }
+  },
+  "/api/keyword-prices.json": {
+   "get": {
+    "operationId": "keywordPrices",
+    "summary": "Auction minimums per keyword",
+    "responses": {
+     "200": {
+      "description": "OK"
+     }
+    }
+   }
+  },
+  "/api/terms.json": {
+   "get": {
+    "summary": "Keyword to company slugs",
+    "responses": {
+     "200": {
+      "description": "OK"
+     }
+    }
+   }
+  },
+  "/api/companies/{slug}.json": {
+   "get": {
+    "summary": "One company",
+    "parameters": [
+     {
+      "name": "slug",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "OK"
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "keyword": "therapist rogers mn",
+ "slug": "therapist-rogers-mn",
+ "place": "Rogers, MN",
+ "service": "therapist",
+ "query": "Who are the best therapist providers in Rogers, MN?",
+ "matches": [
+  "therapist in Rogers, MN",
+  "therapist near me (Rogers, MN)",
+  "best therapist Rogers, MN",
+  "top rated therapist Rogers, MN",
+  "affordable therapist Rogers, MN",
+  "emergency therapist Rogers, MN"
+ ],
+ "answer": "The top unpaid therapist listing for Rogers, MN is Northwinds Counseling Services (a therapy practice in Rogers, MN at 21395 John Milless Drive #Suite 400, Rogers, MN 55374. Phone: +17634241888). 1 therapist businesses are listed for Rogers, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "northwinds-counseling-services-rogers",
+   "name": "Northwinds Counseling Services",
+   "summary": "Northwinds Counseling Services is a therapy practice in Rogers, MN at 21395 John Milless Drive #Suite 400, Rogers, MN 55374. Phone: +17634241888.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwinds-counseling-services-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwinds-counseling-services-rogers.json",
+   "address": {
+    "streetAddress": "21395 John Milless Drive #Suite 400",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1918926,
+    "lon": -93.5503927
+   },
+   "phone": "+17634241888",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7061386959",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

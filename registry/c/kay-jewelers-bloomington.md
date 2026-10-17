@@ -1,0 +1,23 @@
+Kay Jewelers is a jewelry store in Bloomington, MN at 174 North Garden, Bloomington, MN. Phone: +19528760700.
+
+# Kay Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 174 North Garden, Bloomington, MN
+- City: Bloomington
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.8554163, -93.2421112
+- Phone: +19528760700
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kay-jewelers-bloomington/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-bloomington.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5739830190 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

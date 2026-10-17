@@ -1,0 +1,63 @@
+{
+ "keyword": "marketing agency shakopee mn",
+ "slug": "marketing-agency-shakopee-mn",
+ "place": "Shakopee, MN",
+ "service": "marketing agency",
+ "query": "Who are the best marketing agency providers in Shakopee, MN?",
+ "matches": [
+  "marketing agency in Shakopee, MN",
+  "marketing agency near me (Shakopee, MN)",
+  "best marketing agency Shakopee, MN",
+  "top rated marketing agency Shakopee, MN",
+  "affordable marketing agency Shakopee, MN",
+  "emergency marketing agency Shakopee, MN"
+ ],
+ "answer": "The top unpaid marketing agency listing for Shakopee, MN is Digital Impact Solutions (a marketing agency in Shakopee, MN at 128 Holmes Street South, Shakopee, MN 55379. Website: https://digitalimpactsolutions.net/). 1 marketing agency businesses are listed for Shakopee, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "digital-impact-solutions-shakopee",
+   "name": "Digital Impact Solutions",
+   "summary": "Digital Impact Solutions is a marketing agency in Shakopee, MN at 128 Holmes Street South, Shakopee, MN 55379. Website: https://digitalimpactsolutions.net/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/digital-impact-solutions-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/digital-impact-solutions-shakopee.json",
+   "address": {
+    "streetAddress": "128 Holmes Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.797884,
+    "lon": -93.5267674
+   },
+   "website": "https://digitalimpactsolutions.net/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024200110",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "discount-tire-brooklyn-center",
+ "name": "Discount Tire",
+ "categories": [
+  "tire shop"
+ ],
+ "keywords": [
+  "tire shop",
+  "tire shop brooklyn center mn"
+ ],
+ "services": [
+  {
+   "name": "tire shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1450 Shingle Creek Crossing",
+  "addressLocality": "Brooklyn Center",
+  "addressRegion": "MN",
+  "postalCode": "55430",
+  "addressCountry": "US"
+ },
+ "city": "Brooklyn Center",
+ "state": "MN",
+ "zip": "55430",
+ "geo": {
+  "lat": 45.0579078,
+  "lon": -93.3207576
+ },
+ "phone": "+16518460207",
+ "website": "https://www.discounttire.com/",
+ "brand": "Discount Tire",
+ "wikidata": "Q5281735",
+ "schema_type": "TireShop",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/875263442",
+ "osm": {
+  "type": "way",
+  "id": 875263442,
+  "tags_used": {
+   "shop": "tyres"
+  }
+ },
+ "municipality": "Brooklyn Center",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-brooklyn-center/",
+ "summary": "Discount Tire is a tire shop in Brooklyn Center, MN at 1450 Shingle Creek Crossing, Brooklyn Center, MN 55430. Phone: +16518460207. Website: https://www.discounttire.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

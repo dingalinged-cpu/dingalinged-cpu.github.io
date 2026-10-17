@@ -1,0 +1,1393 @@
+{
+ "keyword": "tailor",
+ "slug": "tailor",
+ "place": "the United States",
+ "service": "tailor",
+ "query": "Who are the best tailor providers in the United States?",
+ "matches": [
+  "tailor in the United States",
+  "tailor near me (the United States)",
+  "best tailor the United States",
+  "top rated tailor the United States",
+  "affordable tailor the United States",
+  "emergency tailor the United States"
+ ],
+ "answer": "The top unpaid tailor listing for the United States is 3 in 1 (a tailor in Eagan, MN at 1436 Yankee Doodle Road, Eagan, MN 55121. Phone: +16516880790. Website: https://www.threein1.com/). 43 tailor businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "3-in-1-eagan",
+   "name": "3 in 1",
+   "summary": "3 in 1 is a tailor in Eagan, MN at 1436 Yankee Doodle Road, Eagan, MN 55121. Phone: +16516880790. Website: https://www.threein1.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/3-in-1-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/3-in-1-eagan.json",
+   "address": {
+    "streetAddress": "1436 Yankee Doodle Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8328871,
+    "lon": -93.170074
+   },
+   "phone": "+16516880790",
+   "website": "https://www.threein1.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00, Sa 11:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12107180052",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "heimies-haberdashery-saint-paul",
+   "name": "Heimie's Haberdashery",
+   "summary": "Heimie's Haberdashery is a tailor in Saint Paul, MN at 400 St Peter, Saint Paul, MN 55102. Phone: +16512242354. Website: https://heimies.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heimies-haberdashery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heimies-haberdashery-saint-paul.json",
+   "address": {
+    "streetAddress": "400 St Peter",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.946117,
+    "lon": -93.0963854
+   },
+   "phone": "+16512242354",
+   "website": "https://heimies.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2167144363",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "johns-tailors-roseville",
+   "name": "John's Tailors",
+   "summary": "John's Tailors is a tailor in Roseville, MN at 1714 Lexington Avenue North, Roseville, MN 55113. Phone: +16514872110. Website: https://www.johnstailors.net/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johns-tailors-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johns-tailors-roseville.json",
+   "address": {
+    "streetAddress": "1714 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9931729,
+    "lon": -93.145698
+   },
+   "phone": "+16514872110",
+   "website": "https://www.johnstailors.net/",
+   "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 09:30-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1914627265",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "le-monde-tailors-saint-louis-park",
+   "name": "Le Monde Tailors",
+   "summary": "Le Monde Tailors is a tailor in Saint Louis Park, MN at 8360 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529388422. Website: https://www.lemondetailors.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/le-monde-tailors-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/le-monde-tailors-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8360 Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9376742,
+    "lon": -93.3866113
+   },
+   "phone": "+19529388422",
+   "website": "https://www.lemondetailors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4331102035",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "merriam-park-nails-saint-paul",
+   "name": "Merriam Park Nails",
+   "summary": "Merriam Park Nails is a tailor in Saint Paul, MN at 1558 Selby Avenue, Saint Paul, MN 55104. Phone: +16516468409. Website: https://merriam-park-nails.edan.io/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merriam-park-nails-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merriam-park-nails-saint-paul.json",
+   "address": {
+    "streetAddress": "1558 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9464364,
+    "lon": -93.1660587
+   },
+   "phone": "+16516468409",
+   "website": "https://merriam-park-nails.edan.io/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8502104649",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "sew-biz-tailoring-minneapolis",
+   "name": "Sew Biz Tailoring",
+   "summary": "Sew Biz Tailoring is a tailor in Minneapolis, MN at 706 2nd Avenue South, Minneapolis, MN 55402. Phone: +16123326364. Website: https://sewbiztailoring.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-biz-tailoring-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-biz-tailoring-minneapolis.json",
+   "address": {
+    "streetAddress": "706 2nd Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55402",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55402",
+   "geo": {
+    "lat": 44.9755888,
+    "lon": -93.269903
+   },
+   "phone": "+16123326364",
+   "website": "https://sewbiztailoring.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4679771192",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "tailor-n-you-crystal",
+   "name": "Tailor N' You",
+   "summary": "Tailor N' You is a tailor in Crystal, MN at 6414 Bass Lake Road, Crystal, MN 55428. Phone: +17635040904. Website: https://tailornyou.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tailor-n-you-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tailor-n-you-crystal.json",
+   "address": {
+    "streetAddress": "6414 Bass Lake Road",
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "postalCode": "55428",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "zip": "55428",
+   "geo": {
+    "lat": 45.0548662,
+    "lon": -93.3620971
+   },
+   "phone": "+17635040904",
+   "website": "https://tailornyou.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4561289940",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "tailors-on-blake-saint-louis-park",
+   "name": "Tailors On Blake",
+   "summary": "Tailors On Blake is a tailor in Saint Louis Park, MN at 5706 36th Street West, Saint Louis Park, MN 55416. Phone: +19529336585. Website: https://www.tailorsonblake.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tailors-on-blake-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tailors-on-blake-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5706 36th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9379488,
+    "lon": -93.3521457
+   },
+   "phone": "+19529336585",
+   "website": "https://www.tailorsonblake.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9591245740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "golden-tailor-falcon-heights",
+   "name": "Golden Tailor",
+   "summary": "Golden Tailor is a tailor in Falcon Heights, MN at 1555 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16516460938. Website: https://www.thegoldentailor.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-tailor-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-tailor-falcon-heights.json",
+   "address": {
+    "streetAddress": "1555 Larpenteur Avenue West",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920794,
+    "lon": -93.1654961
+   },
+   "phone": "+16516460938",
+   "website": "https://www.thegoldentailor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7294714125",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "j-hilburn-stylist-studio-minneapolis",
+   "name": "J. Hilburn Stylist Studio",
+   "summary": "J. Hilburn Stylist Studio is a tailor in Minneapolis, MN at 5047 France Avenue South, Minneapolis, MN 55410. Website: https://jennifershinners.jhilburn.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-hilburn-stylist-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-hilburn-stylist-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "5047 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9111106,
+    "lon": -93.3289006
+   },
+   "website": "https://jennifershinners.jhilburn.com/",
+   "opening_hours": "We-Sa 11:00-17:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12143327853",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "magic-needle-maple-grove",
+   "name": "Magic Needle",
+   "summary": "Magic Needle is a tailor in Maple Grove, MN at 13694 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949499.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magic-needle-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magic-needle-maple-grove.json",
+   "address": {
+    "streetAddress": "13694 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1045662,
+    "lon": -93.4540314
+   },
+   "phone": "+17634949499",
+   "opening_hours": "Mo-Fr 09:00-18:00;Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5777444268",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "richfield-tailors-bloomington",
+   "name": "Richfield Tailors",
+   "summary": "Richfield Tailors is a tailor in Bloomington, MN at 10582 France Avenue South, Bloomington, MN 55431. Phone: +16128392007.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richfield-tailors-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richfield-tailors-bloomington.json",
+   "address": {
+    "streetAddress": "10582 France Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8117389,
+    "lon": -93.3324226
+   },
+   "phone": "+16128392007",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13783820542",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "sew-what-saint-paul",
+   "name": "Sew What!",
+   "summary": "Sew What! is a tailor in Saint Paul, MN at 1818 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516990381.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-what-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-what-saint-paul.json",
+   "address": {
+    "streetAddress": "1818 Saint Clair Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9341687,
+    "lon": -93.1770482
+   },
+   "phone": "+16516990381",
+   "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-17:30; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271486109",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "toms-tailor-saint-paul",
+   "name": "Tom's Tailor",
+   "summary": "Tom's Tailor is a tailor in Saint Paul, MN at 672 Grand Avenue, Saint Paul, MN 55105. Phone: +16512225953.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/toms-tailor-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/toms-tailor-saint-paul.json",
+   "address": {
+    "streetAddress": "672 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398064,
+    "lon": -93.1283097
+   },
+   "phone": "+16512225953",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5747496892",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "northeast-tailor-shop-minneapolis",
+   "name": "Northeast Tailor Shop",
+   "summary": "Northeast Tailor Shop is a tailor in Minneapolis, MN at 2831 Northeast Johnson Street, Minneapolis, MN. Phone: +16127813810.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northeast-tailor-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northeast-tailor-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "2831 Northeast Johnson Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0195921,
+    "lon": -93.236966
+   },
+   "phone": "+16127813810",
+   "opening_hours": "Mo-Fr 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8169224524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "thans-tailor-saint-paul",
+   "name": "Than's Tailor",
+   "summary": "Than's Tailor is a tailor in Saint Paul, MN. Phone: +16516441154. Website: https://www.thanhstailor.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thans-tailor-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thans-tailor-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.939913,
+    "lon": -93.1781302
+   },
+   "phone": "+16516441154",
+   "website": "https://www.thanhstailor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8914957193",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "amazing-alterations-anoka",
+   "name": "Amazing Alterations",
+   "summary": "Amazing Alterations is a tailor in Anoka, MN at 2665 4th Avenue #29, Anoka, MN 55303. Website: https://www.amazingalterations.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amazing-alterations-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amazing-alterations-anoka.json",
+   "address": {
+    "streetAddress": "2665 4th Avenue #29",
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "postalCode": "55303",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "zip": "55303",
+   "geo": {
+    "lat": 45.2060757,
+    "lon": -93.3857674
+   },
+   "website": "https://www.amazingalterations.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12996336328",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "irinas-stitch-in-time-minneapolis",
+   "name": "Irina's Stitch in Time",
+   "summary": "Irina's Stitch in Time is a tailor in Minneapolis, MN at 3021 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128224744.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/irinas-stitch-in-time-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/irinas-stitch-in-time-minneapolis.json",
+   "address": {
+    "streetAddress": "3021 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9476558,
+    "lon": -93.2879089
+   },
+   "phone": "+16128224744",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5294111683",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "josephines-tailors-saint-louis-park",
+   "name": "Josephine's Tailors",
+   "summary": "Josephine's Tailors is a tailor in Saint Louis Park, MN at 4617 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529202493.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/josephines-tailors-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/josephines-tailors-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4617 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.933318,
+    "lon": -93.3391448
+   },
+   "phone": "+19529202493",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875220",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "patricias-alterations-and-tailoring-saint-paul",
+   "name": "Patricia's Alterations & Tailoring",
+   "summary": "Patricia's Alterations & Tailoring is a tailor in Saint Paul, MN at 101 5th Street East, Saint Paul, MN 55101. Phone: +16516650045.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patricias-alterations-and-tailoring-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patricias-alterations-and-tailoring-saint-paul.json",
+   "address": {
+    "streetAddress": "101 5th Street East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9477456,
+    "lon": -93.0919536
+   },
+   "phone": "+16516650045",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13761066210",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "sew-what-saint-louis-park",
+   "name": "Sew What!",
+   "summary": "Sew What! is a tailor in Saint Louis Park, MN at 6002 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529227470.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-what-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-what-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6002 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9283354,
+    "lon": -93.3565833
+   },
+   "phone": "+19529227470",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9596371548",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "sorbellas-taylor-and-alterations-saint-louis-park",
+   "name": "Sorbella's Taylor & Alterations",
+   "summary": "Sorbella's Taylor & Alterations is a tailor in Saint Louis Park, MN at 7123 Cedar Lake Road, Saint Louis Park, MN 55426. Phone: +19525461167.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sorbellas-taylor-and-alterations-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sorbellas-taylor-and-alterations-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7123 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9592008,
+    "lon": -93.3705873
+   },
+   "phone": "+19525461167",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4573747572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "the-tailors-of-edina-edina",
+   "name": "The Tailors of Edina",
+   "summary": "The Tailors of Edina is a tailor in Edina, MN. Phone: +19529208785.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-tailors-of-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-tailors-of-edina-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9104335,
+    "lon": -93.3548359
+   },
+   "phone": "+19529208785",
+   "opening_hours": "Tu-Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292234276",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "sew-simple-minneapolis",
+   "name": "Sew Simple",
+   "summary": "Sew Simple is a tailor in Minneapolis, MN at 2424 Nicollet Avenue South, Minneapolis, MN 55404.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-simple-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-simple-minneapolis.json",
+   "address": {
+    "streetAddress": "2424 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9582168,
+    "lon": -93.2781153
+   },
+   "opening_hours": "11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617359207",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "elenis-tailoring-minneapolis",
+   "name": "Eleni's Tailoring",
+   "summary": "Eleni's Tailoring is a tailor in Minneapolis, MN at West Lake Street, Minneapolis, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elenis-tailoring-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elenis-tailoring-minneapolis.json",
+   "address": {
+    "streetAddress": "West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485046,
+    "lon": -93.3027802
+   },
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6450215751",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "lovelys-sewing-and-arts-collective-minneapolis",
+   "name": "Lovely's Sewing & Arts Collective",
+   "summary": "Lovely's Sewing & Arts Collective is a tailor in Minneapolis, MN. Website: https://www.lovelyssewing.org/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovelys-sewing-and-arts-collective-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovelys-sewing-and-arts-collective-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758771,
+    "lon": -93.2717532
+   },
+   "website": "https://www.lovelyssewing.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410756369",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "kings-and-queens-tailors-robbinsdale",
+   "name": "Kings & Queens Tailors",
+   "summary": "Kings & Queens Tailors is a tailor in Robbinsdale, MN at 4179 West Broadway Avenue, Robbinsdale, MN 55422.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kings-and-queens-tailors-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kings-and-queens-tailors-robbinsdale.json",
+   "address": {
+    "streetAddress": "4179 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0311767,
+    "lon": -93.3395111
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762930139",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "ms-tailor-and-cleaners-newport",
+   "name": "M's Tailor & Cleaners",
+   "summary": "M's Tailor & Cleaners is a tailor in Newport, MN at 1656 Hastings Avenue, Newport, MN 55055.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ms-tailor-and-cleaners-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ms-tailor-and-cleaners-newport.json",
+   "address": {
+    "streetAddress": "1656 Hastings Avenue",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.8750362,
+    "lon": -93.0001731
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/976814038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "tailor-west-saint-paul",
+   "name": "Tailor",
+   "summary": "Tailor is a tailor in West Saint Paul, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tailor-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tailor-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8952742,
+    "lon": -93.0789
+   },
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729479024",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "sundays-best-boutique-saint-paul",
+   "name": "Sunday's Best Boutique",
+   "summary": "Sunday's Best Boutique is a tailor in Saint Paul, MN at 601 University Avenue, Saint Paul, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sundays-best-boutique-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sundays-best-boutique-saint-paul.json",
+   "address": {
+    "streetAddress": "601 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9559556,
+    "lon": -93.1254436
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3361923362",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "chi-tailors-and-cleaners-minneapolis",
+   "name": "Chi Tailors and Cleaners",
+   "summary": "Chi Tailors and Cleaners is a tailor in Minneapolis, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chi-tailors-and-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chi-tailors-and-cleaners-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9613268,
+    "lon": -93.2882535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12698037506",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "eden-tailors-eden-prairie",
+   "name": "Eden Tailors",
+   "summary": "Eden Tailors is a tailor in Eden Prairie, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eden-tailors-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eden-tailors-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8360437,
+    "lon": -93.4007913
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12191200558",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "frsteam-garment-services-saint-paul",
+   "name": "FRSTeam Garment Services",
+   "summary": "FRSTeam Garment Services is a tailor in Saint Paul, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/frsteam-garment-services-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/frsteam-garment-services-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9687658,
+    "lon": -93.0732135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605344803",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "gq-tailors-minnetonka",
+   "name": "GQ Tailors",
+   "summary": "GQ Tailors is a tailor in Minnetonka, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gq-tailors-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gq-tailors-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9414535,
+    "lon": -93.5033895
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857591",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "highland-tailors-saint-paul",
+   "name": "Highland Tailors",
+   "summary": "Highland Tailors is a tailor in Saint Paul, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/highland-tailors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/highland-tailors-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9201143,
+    "lon": -93.186985
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/728154098",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "kims-tailor-arden-hills",
+   "name": "Kim's Tailor",
+   "summary": "Kim's Tailor is a tailor in Arden Hills, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kims-tailor-arden-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kims-tailor-arden-hills.json",
+   "address": {
+    "addressLocality": "Arden Hills",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Arden Hills",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0486492,
+    "lon": -93.1492931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1783118442",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "lindas-minneapolis",
+   "name": "Linda's",
+   "summary": "Linda's is a tailor in Minneapolis, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lindas-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lindas-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485545,
+    "lon": -93.2195066
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12209239828",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "sew-so-great-saint-paul",
+   "name": "Sew So Great",
+   "summary": "Sew So Great is a tailor in Saint Paul, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-so-great-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-so-great-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9471129,
+    "lon": -93.0950557
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2684468152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "sew-what-minneapolis",
+   "name": "Sew What!",
+   "summary": "Sew What! is a tailor in Minneapolis, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-what-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-what-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9741623,
+    "lon": -93.2714076
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410756378",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "stitch-awesome-roseville",
+   "name": "Stitch Awesome",
+   "summary": "Stitch Awesome is a tailor in Roseville, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stitch-awesome-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stitch-awesome-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0125568,
+    "lon": -93.1714119
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810088605",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "stitchline-alterations-crystal",
+   "name": "Stitchline Alterations",
+   "summary": "Stitchline Alterations is a tailor in Crystal, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stitchline-alterations-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stitchline-alterations-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0531533,
+    "lon": -93.3668555
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131839073",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "universal-alteration-rogers",
+   "name": "Universal Alteration",
+   "summary": "Universal Alteration is a tailor in Rogers, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/universal-alteration-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/universal-alteration-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2005846,
+    "lon": -93.5558323
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423676",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "vics-tailor-eagan",
+   "name": "Vic's Tailor",
+   "summary": "Vic's Tailor is a tailor in Eagan, MN.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vics-tailor-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vics-tailor-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7932979,
+    "lon": -93.2052985
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13143516549",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

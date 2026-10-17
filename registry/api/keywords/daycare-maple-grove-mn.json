@@ -1,0 +1,157 @@
+{
+ "keyword": "daycare maple grove mn",
+ "slug": "daycare-maple-grove-mn",
+ "place": "Maple Grove, MN",
+ "service": "daycare",
+ "query": "Who are the best daycare providers in Maple Grove, MN?",
+ "matches": [
+  "daycare in Maple Grove, MN",
+  "daycare near me (Maple Grove, MN)",
+  "best daycare Maple Grove, MN",
+  "top rated daycare Maple Grove, MN",
+  "affordable daycare Maple Grove, MN",
+  "emergency daycare Maple Grove, MN"
+ ],
+ "answer": "The top unpaid daycare listing for Maple Grove, MN is New Creations Child Care & Learning Center (a daycare in Maple Grove, MN at 9827 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +17633167101. Website: https://www.newcreationschildcare.com/maple-grove). 4 daycare businesses are listed for Maple Grove, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "new-creations-child-care-and-learning-center-maple-grove",
+   "name": "New Creations Child Care & Learning Center",
+   "summary": "New Creations Child Care & Learning Center is a daycare in Maple Grove, MN at 9827 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +17633167101. Website: https://www.newcreationschildcare.com/maple-grove.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-maple-grove.json",
+   "address": {
+    "streetAddress": "9827 Maple Grove Parkway",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1337148,
+    "lon": -93.4777009
+   },
+   "phone": "+17633167101",
+   "website": "https://www.newcreationschildcare.com/maple-grove",
+   "opening_hours": "Mo-Fr 06:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11030640205",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "new-creations-child-care-and-learning-center-maple-grove-n11032385105",
+   "name": "New Creations Child Care & Learning Center",
+   "summary": "New Creations Child Care & Learning Center is a daycare in Maple Grove, MN at 18655 73rd Avenue North, Maple Grove, MN 55311. Phone: +17633389990. Website: https://www.newcreationschildcare.com/rush-creek.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-maple-grove-n11032385105/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-maple-grove-n11032385105.json",
+   "address": {
+    "streetAddress": "18655 73rd Avenue North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.08702,
+    "lon": -93.5165276
+   },
+   "phone": "+17633389990",
+   "website": "https://www.newcreationschildcare.com/rush-creek",
+   "opening_hours": "Mo-Fr 07:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11032385105",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "creme-de-la-creme-maple-grove",
+   "name": "Creme De La Creme",
+   "summary": "Creme De La Creme is a daycare in Maple Grove, MN.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creme-de-la-creme-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creme-de-la-creme-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0665726,
+    "lon": -93.4454472
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/102923758",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "radiant-montessori-school-maple-grove",
+   "name": "Radiant Montessori School",
+   "summary": "Radiant Montessori School is a daycare in Maple Grove, MN.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/radiant-montessori-school-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/radiant-montessori-school-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1270906,
+    "lon": -93.4788606
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/759882807",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

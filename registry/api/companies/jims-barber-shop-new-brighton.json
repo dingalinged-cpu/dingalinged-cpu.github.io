@@ -1,0 +1,57 @@
+{
+ "slug": "jims-barber-shop-new-brighton",
+ "name": "Jim's Barber Shop",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon new brighton mn",
+  "haircut new brighton mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "New Brighton",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "New Brighton",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0646543,
+  "lon": -93.1928843
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7360563648",
+ "osm": {
+  "type": "node",
+  "id": 7360563648,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "New Brighton",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jims-barber-shop-new-brighton/",
+ "summary": "Jim's Barber Shop is a hair salon in New Brighton, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

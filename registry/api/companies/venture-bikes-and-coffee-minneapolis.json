@@ -1,0 +1,57 @@
+{
+ "slug": "venture-bikes-and-coffee-minneapolis",
+ "name": "Venture Bikes and Coffee",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1000 Midtown Greenway",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55407",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55407",
+ "geo": {
+  "lat": 44.9504477,
+  "lon": -93.2609274
+ },
+ "phone": "+16123773029",
+ "website": "https://venturebikesmn.com/",
+ "opening_hours": "Mo,Su off; Tu-Fr 09:00-17:30; Sa 10:00-17:30",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/777793327",
+ "osm": {
+  "type": "node",
+  "id": 777793327,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/venture-bikes-and-coffee-minneapolis/",
+ "summary": "Venture Bikes and Coffee is a bike shop in Minneapolis, MN at 1000 Midtown Greenway, Minneapolis, MN 55407. Phone: +16123773029. Website: https://venturebikesmn.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

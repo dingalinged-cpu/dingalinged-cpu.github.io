@@ -1,0 +1,60 @@
+{
+ "slug": "chanhassen-family-dentistry-chanhassen",
+ "name": "Chanhassen Family Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist chanhassen mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8116 Mallory Court",
+  "addressLocality": "Chanhassen",
+  "addressRegion": "MN",
+  "postalCode": "55317",
+  "addressCountry": "US"
+ },
+ "city": "Chanhassen",
+ "state": "MN",
+ "zip": "55317",
+ "geo": {
+  "lat": 44.856576,
+  "lon": -93.5543361
+ },
+ "phone": "+19524433368",
+ "website": "https://chandent.com/",
+ "email": "office@chandent.com",
+ "opening_hours": "Mo-Th 07:00-12:00, 13:00-17:00",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8141725494",
+ "osm": {
+  "type": "node",
+  "id": 8141725494,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "dentist"
+  }
+ },
+ "municipality": "Chanhassen",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-family-dentistry-chanhassen/",
+ "summary": "Chanhassen Family Dentistry is a dentist in Chanhassen, MN at 8116 Mallory Court, Chanhassen, MN 55317. Phone: +19524433368. Website: https://chandent.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

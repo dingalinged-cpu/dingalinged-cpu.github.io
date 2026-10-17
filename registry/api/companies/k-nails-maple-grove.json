@@ -1,0 +1,58 @@
+{
+ "slug": "k-nails-maple-grove",
+ "name": "K-Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon maple grove mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "13681 Grove Drive North",
+  "addressLocality": "Maple Grove",
+  "addressRegion": "MN",
+  "postalCode": "55311",
+  "addressCountry": "US"
+ },
+ "city": "Maple Grove",
+ "state": "MN",
+ "zip": "55311",
+ "geo": {
+  "lat": 45.102762,
+  "lon": -93.4548435
+ },
+ "phone": "+17634163852",
+ "website": "https://www.knailsmaplegrove.com/",
+ "opening_hours": "Mo-Fr 10:00-20:00;Sa 10:00-18:00;Su 12:00-17:00",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5782225990",
+ "osm": {
+  "type": "node",
+  "id": 5782225990,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Maple Grove",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/k-nails-maple-grove/",
+ "summary": "K-Nails is a nail salon in Maple Grove, MN at 13681 Grove Drive North, Maple Grove, MN 55311. Phone: +17634163852. Website: https://www.knailsmaplegrove.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

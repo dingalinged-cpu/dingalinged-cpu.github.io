@@ -1,0 +1,97 @@
+{
+ "keyword": "marketing agency golden valley mn",
+ "slug": "marketing-agency-golden-valley-mn",
+ "place": "Golden Valley, MN",
+ "service": "marketing agency",
+ "query": "Who are the best marketing agency providers in Golden Valley, MN?",
+ "matches": [
+  "marketing agency in Golden Valley, MN",
+  "marketing agency near me (Golden Valley, MN)",
+  "best marketing agency Golden Valley, MN",
+  "top rated marketing agency Golden Valley, MN",
+  "affordable marketing agency Golden Valley, MN",
+  "emergency marketing agency Golden Valley, MN"
+ ],
+ "answer": "The top unpaid marketing agency listing for Golden Valley, MN is GVM Food Marketing (a marketing agency in Golden Valley, MN at 5101 Olson Memorial Highway #5000, Golden Valley, MN 55422. Phone: +18009323031. Website: https://www.gvmfoodmarketing.com/). 2 marketing agency businesses are listed for Golden Valley, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "gvm-food-marketing-golden-valley",
+   "name": "GVM Food Marketing",
+   "summary": "GVM Food Marketing is a marketing agency in Golden Valley, MN at 5101 Olson Memorial Highway #5000, Golden Valley, MN 55422. Phone: +18009323031. Website: https://www.gvmfoodmarketing.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gvm-food-marketing-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gvm-food-marketing-golden-valley.json",
+   "address": {
+    "streetAddress": "5101 Olson Memorial Highway #5000",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.983671,
+    "lon": -93.3435808
+   },
+   "phone": "+18009323031",
+   "website": "https://www.gvmfoodmarketing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11124443907",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "taiyo-international-golden-valley",
+   "name": "Taiyo International",
+   "summary": "Taiyo International is a marketing agency in Golden Valley, MN at 5960 Golden Hills Drive, Golden Valley, MN 55416. Phone: +17633983003. Website: https://www.taiyointernational.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/taiyo-international-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/taiyo-international-golden-valley.json",
+   "address": {
+    "streetAddress": "5960 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9735261,
+    "lon": -93.3561114
+   },
+   "phone": "+17633983003",
+   "website": "https://www.taiyointernational.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11129016213",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

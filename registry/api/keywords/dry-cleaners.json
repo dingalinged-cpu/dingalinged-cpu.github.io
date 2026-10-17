@@ -1,0 +1,1855 @@
+{
+ "keyword": "dry cleaners",
+ "slug": "dry-cleaners",
+ "place": "the United States",
+ "service": "dry cleaners",
+ "query": "Who are the best dry cleaners providers in the United States?",
+ "matches": [
+  "dry cleaners in the United States",
+  "dry cleaners near me (the United States)",
+  "best dry cleaners the United States",
+  "top rated dry cleaners the United States",
+  "affordable dry cleaners the United States",
+  "emergency dry cleaners the United States"
+ ],
+ "answer": "The top unpaid dry cleaners listing for the United States is Clean 'n' Press (a dry cleaner in Eagan, MN at 3250 Denmark Avenue #106, Eagan, MN 55121. Phone: +16519051330. Website: https://cleannpress.com/). 57 dry cleaners businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "clean-n-press-eagan",
+   "name": "Clean 'n' Press",
+   "summary": "Clean 'n' Press is a dry cleaner in Eagan, MN at 3250 Denmark Avenue #106, Eagan, MN 55121. Phone: +16519051330. Website: https://cleannpress.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clean-n-press-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clean-n-press-eagan.json",
+   "address": {
+    "streetAddress": "3250 Denmark Avenue #106",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8374109,
+    "lon": -93.1582563
+   },
+   "phone": "+16519051330",
+   "website": "https://cleannpress.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11815370169",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "clean-n-press-maple-grove",
+   "name": "Clean 'n' Press",
+   "summary": "Clean 'n' Press is a dry cleaner in Maple Grove, MN at 13704 Grove Drive North, Maple Grove, MN 55311. Phone: +17634166040. Website: https://www.cleannpress.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clean-n-press-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clean-n-press-maple-grove.json",
+   "address": {
+    "streetAddress": "13704 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1045591,
+    "lon": -93.4541347
+   },
+   "phone": "+17634166040",
+   "website": "https://www.cleannpress.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00;Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5777444269",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "colonial-cleaners-inc-minneapolis",
+   "name": "Colonial Cleaners, Inc.",
+   "summary": "Colonial Cleaners, Inc. is a dry cleaner in Minneapolis, MN at 3701 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238095. Website: https://colonialcleanersmn.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/colonial-cleaners-inc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/colonial-cleaners-inc-minneapolis.json",
+   "address": {
+    "streetAddress": "3701 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9357527,
+    "lon": -93.2878821
+   },
+   "phone": "+16128238095",
+   "website": "https://colonialcleanersmn.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-14:00; PH,Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/98764271",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "edina-cleaners-edina",
+   "name": "Edina Cleaners",
+   "summary": "Edina Cleaners is a dry cleaner in Edina, MN at 4530 France Avenue South #Suite 100, Edina, MN 55410. Phone: +19529279991. Website: https://myedinacleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-cleaners-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-cleaners-edina.json",
+   "address": {
+    "streetAddress": "4530 France Avenue South #Suite 100",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.920667,
+    "lon": -93.3295348
+   },
+   "phone": "+19529279991",
+   "website": "https://myedinacleaners.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12125226403",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "pilgrim-cleaners-maple-grove",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Maple Grove, MN at 13579 Grove Drive North, Maple Grove, MN 55311. Phone: +17634206770. Website: https://www.pilgrimdrycleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-maple-grove.json",
+   "address": {
+    "streetAddress": "13579 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.10395,
+    "lon": -93.4541072
+   },
+   "phone": "+17634206770",
+   "website": "https://www.pilgrimdrycleaners.com/",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5759711983",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "plaza-cleaners-and-launderers-maple-grove",
+   "name": "Plaza Cleaners & Launderers",
+   "summary": "Plaza Cleaners & Launderers is a dry cleaner in Maple Grove, MN at 13752 83rd Way North, Maple Grove, MN 55369. Phone: +17634204433. Website: https://www.plazacleanersmaplegrove.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/plaza-cleaners-and-launderers-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/plaza-cleaners-and-launderers-maple-grove.json",
+   "address": {
+    "streetAddress": "13752 83rd Way North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1062323,
+    "lon": -93.4551723
+   },
+   "phone": "+17634204433",
+   "website": "https://www.plazacleanersmaplegrove.com/",
+   "opening_hours": "Mo-Fr 05:00-20:00;Sa 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/607496675",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "st-croix-cleaners-saint-paul",
+   "name": "St Croix Cleaners",
+   "summary": "St Croix Cleaners is a dry cleaner in Saint Paul, MN at 678 Grand Avenue, Saint Paul, MN 55105. Phone: +16512911683. Website: https://stcroixcleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-croix-cleaners-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-croix-cleaners-saint-paul.json",
+   "address": {
+    "streetAddress": "678 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398117,
+    "lon": -93.1285915
+   },
+   "phone": "+16512911683",
+   "website": "https://stcroixcleaners.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2095784593",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "tide-cleaners-maple-grove",
+   "name": "Tide Cleaners",
+   "summary": "Tide Cleaners is a dry cleaner in Maple Grove, MN at 11680 Elm Creek Boulevard North, Maple Grove, MN 55369. Phone: +17632051897. Website: https://www.tidedrycleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tide-cleaners-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-maple-grove.json",
+   "address": {
+    "streetAddress": "11680 Elm Creek Boulevard North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0956715,
+    "lon": -93.4285551
+   },
+   "phone": "+17632051897",
+   "website": "https://www.tidedrycleaners.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00;Sa 08:00-17:00;Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752836963",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "village-cleaners-saint-louis-park",
+   "name": "Village Cleaners",
+   "summary": "Village Cleaners is a dry cleaner in Saint Louis Park, MN at 5309 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529224757. Website: https://villagecleanersmn.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-cleaners-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-cleaners-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5309 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9305214,
+    "lon": -93.3471724
+   },
+   "phone": "+19529224757",
+   "website": "https://villagecleanersmn.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2035249182",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "st-anthony-cleaners-saint-anthony",
+   "name": "St. Anthony Cleaners",
+   "summary": "St. Anthony Cleaners is a dry cleaner in Saint Anthony, MN at 3007 37th Avenue Northeast, Saint Anthony, MN. Phone: +16129102890. Website: https://stanthonycleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-anthony-cleaners-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-anthony-cleaners-saint-anthony.json",
+   "address": {
+    "streetAddress": "3007 37th Avenue Northeast",
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0359259,
+    "lon": -93.2175808
+   },
+   "phone": "+16129102890",
+   "website": "https://stanthonycleaners.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12894996787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "all-seasons-garment-care-and-tailoring-saint-paul",
+   "name": "All Seasons Garment Care and Tailoring",
+   "summary": "All Seasons Garment Care and Tailoring is a dry cleaner in Saint Paul, MN at 2234 Carter Avenue, Saint Paul, MN 55108. Phone: +16516448300. Website: https://www.allseasonsgarmentcare.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-seasons-garment-care-and-tailoring-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-seasons-garment-care-and-tailoring-saint-paul.json",
+   "address": {
+    "streetAddress": "2234 Carter Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9812172,
+    "lon": -93.1949672
+   },
+   "phone": "+16516448300",
+   "website": "https://www.allseasonsgarmentcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/756633791",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "elite-dry-cleaners-minneapolis",
+   "name": "Elite Dry Cleaners",
+   "summary": "Elite Dry Cleaners is a dry cleaner in Minneapolis, MN at 3101 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127213141. Website: https://elite-dry-cleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-dry-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-dry-cleaners-minneapolis.json",
+   "address": {
+    "streetAddress": "3101 Minnehaha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9466534,
+    "lon": -93.2326665
+   },
+   "phone": "+16127213141",
+   "website": "https://elite-dry-cleaners.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3258833070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "lamac-cleaners-minneapolis",
+   "name": "LaMac Cleaners",
+   "summary": "LaMac Cleaners is a dry cleaner in Minneapolis, MN. Phone: +16128235559. Website: https://lamaccleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lamac-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lamac-cleaners-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9043567,
+    "lon": -93.277815
+   },
+   "phone": "+16128235559",
+   "website": "https://lamaccleaners.com/",
+   "opening_hours": "Mo-Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241675551",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "mulberrys-saint-louis-park",
+   "name": "Mulberry's",
+   "summary": "Mulberry's is a dry cleaner in Saint Louis Park, MN at 3900 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +16123923770. Website: https://www.mulberryscleaners.com/minneapolis-saint-paul/store/st-louis-park/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mulberrys-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mulberrys-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3900 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9486959,
+    "lon": -93.3292917
+   },
+   "phone": "+16123923770",
+   "website": "https://www.mulberryscleaners.com/minneapolis-saint-paul/store/st-louis-park/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1015686532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "mulberrys-garment-care-saint-paul",
+   "name": "Mulberrys Garment Care",
+   "summary": "Mulberrys Garment Care is a dry cleaner in Saint Paul, MN at 978 Grand Avenue, Saint Paul, MN 55105. Phone: +16514609069. Website: https://www.mulberryscleaners.com/store/st-paul/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mulberrys-garment-care-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mulberrys-garment-care-saint-paul.json",
+   "address": {
+    "streetAddress": "978 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.939854,
+    "lon": -93.1413689
+   },
+   "phone": "+16514609069",
+   "website": "https://www.mulberryscleaners.com/store/st-paul/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1313773946",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "pilgrim-cleaners-minneapolis-n11292231490",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Minneapolis, MN at 206 1st Avenue North, Minneapolis, MN 55401. Phone: +16123153536. Website: https://www.pilgrimdrycleaners.com/locations/minneapolis-north-loop.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-minneapolis-n11292231490/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-minneapolis-n11292231490.json",
+   "address": {
+    "streetAddress": "206 1st Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9836587,
+    "lon": -93.2694673
+   },
+   "phone": "+16123153536",
+   "website": "https://www.pilgrimdrycleaners.com/locations/minneapolis-north-loop",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11292231490",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "pilgrim-cleaners-richfield",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Richfield, MN at 2901 West 66th Street, Richfield, MN 55423. Phone: +16128611697. Website: https://mypilgrimcleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-richfield.json",
+   "address": {
+    "streetAddress": "2901 West 66th Street",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8832512,
+    "lon": -93.316738
+   },
+   "phone": "+16128611697",
+   "website": "https://mypilgrimcleaners.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/311801783",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "pilgrim-cleaners-robbinsdale",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Robbinsdale, MN at 4606 42nd Avenue North, Robbinsdale, MN 55422. Phone: +17635373587. Website: https://www.pilgrimdrycleaners.com/locations/robbinsdale.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-robbinsdale.json",
+   "address": {
+    "streetAddress": "4606 42nd Avenue North",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0322539,
+    "lon": -93.3390539
+   },
+   "phone": "+17635373587",
+   "website": "https://www.pilgrimdrycleaners.com/locations/robbinsdale",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762945833",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "pilgrim-cleaners-saint-louis-park",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Saint Louis Park, MN at 4120 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529226056. Website: https://www.pilgrimdrycleaners.com/locations/st-louis-park.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4120 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9488009,
+    "lon": -93.3323462
+   },
+   "phone": "+19529226056",
+   "website": "https://www.pilgrimdrycleaners.com/locations/st-louis-park",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/132662552",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "storchak-cleaners-minneapolis",
+   "name": "Storchak Cleaners",
+   "summary": "Storchak Cleaners is a dry cleaner in Minneapolis, MN at 705 Douglas Avenue, Minneapolis, MN 55403. Phone: +16123742869. Website: https://www.storchakcleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/storchak-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/storchak-cleaners-minneapolis.json",
+   "address": {
+    "streetAddress": "705 Douglas Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9662805,
+    "lon": -93.2891005
+   },
+   "phone": "+16123742869",
+   "website": "https://www.storchakcleaners.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9336288137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "mulberrys-dry-cleaners-and-laundry-edina",
+   "name": "Mulberrys Dry Cleaners and Laundry",
+   "summary": "Mulberrys Dry Cleaners and Laundry is a dry cleaner in Edina, MN at 5127 Gus Young Lane, Edina, MN 55436. Website: https://www.mulberryscleaners.com/minneapolis-saint-paul/store/edina/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mulberrys-dry-cleaners-and-laundry-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mulberrys-dry-cleaners-and-laundry-edina.json",
+   "address": {
+    "streetAddress": "5127 Gus Young Lane",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9115192,
+    "lon": -93.3532656
+   },
+   "website": "https://www.mulberryscleaners.com/minneapolis-saint-paul/store/edina/",
+   "opening_hours": "Mo-Fr 07:00-21:00; Sa 09:00-17:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12272163242",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "prestige-cleaning-center-minneapolis",
+   "name": "Prestige Cleaning Center",
+   "summary": "Prestige Cleaning Center is a dry cleaner in Minneapolis, MN at 3711 West 44th Street, Minneapolis, MN 55410. Website: https://www.prestigecleaningcenter.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prestige-cleaning-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prestige-cleaning-center-minneapolis.json",
+   "address": {
+    "streetAddress": "3711 West 44th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.92251,
+    "lon": -93.3271724
+   },
+   "website": "https://www.prestigecleaningcenter.com/",
+   "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/166541946",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "camelot-cleaners-west-saint-paul",
+   "name": "Camelot Cleaners",
+   "summary": "Camelot Cleaners is a dry cleaner in West Saint Paul, MN at 984 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514572909.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/camelot-cleaners-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/camelot-cleaners-west-saint-paul.json",
+   "address": {
+    "streetAddress": "984 Smith Avenue South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9168268,
+    "lon": -93.1014058
+   },
+   "phone": "+16514572909",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/486838484",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "cleannpress-saint-anthony",
+   "name": "Clean'n'Press",
+   "summary": "Clean'n'Press is a dry cleaner in Saint Anthony, MN. Website: https://cleannpress.com/st-anthony-dry-cleaner/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cleannpress-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cleannpress-saint-anthony.json",
+   "address": {
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0400276,
+    "lon": -93.2190821
+   },
+   "website": "https://cleannpress.com/st-anthony-dry-cleaner/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12947681393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "osman-cleaners-minneapolis",
+   "name": "Osman Cleaners",
+   "summary": "Osman Cleaners is a dry cleaner in Minneapolis, MN. Phone: +16123741462.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/osman-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/osman-cleaners-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.957183,
+    "lon": -93.2958475
+   },
+   "phone": "+16123741462",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/88444151",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "u-s-cleaners-saint-louis-park",
+   "name": "U.S. Cleaners",
+   "summary": "U.S. Cleaners is a dry cleaner in Saint Louis Park, MN at 7119 Cedar Lake Road, Saint Louis Park, MN 55426. Phone: +19525446200.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-s-cleaners-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-s-cleaners-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7119 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9592921,
+    "lon": -93.3704571
+   },
+   "phone": "+19525446200",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4573747573",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "us-cleaners-minneapolis",
+   "name": "US Cleaners",
+   "summary": "US Cleaners is a dry cleaner in Minneapolis, MN at 4729 Hiawatha Avenue, Minneapolis, MN 55406. Phone: +16127299206.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/us-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/us-cleaners-minneapolis.json",
+   "address": {
+    "streetAddress": "4729 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9179752,
+    "lon": -93.2162254
+   },
+   "phone": "+16127299206",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8555285423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "clover-cleaners-bloomington",
+   "name": "Clover Cleaners",
+   "summary": "Clover Cleaners is a dry cleaner in Bloomington, MN at 9342 Ensign Avenue South, Bloomington, MN 55438.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clover-cleaners-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clover-cleaners-bloomington.json",
+   "address": {
+    "streetAddress": "9342 Ensign Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55438",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55438",
+   "geo": {
+    "lat": 44.8345623,
+    "lon": -93.396167
+   },
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1188081621",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "pilgrim-cleaners-minneapolis",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Minneapolis, MN at 2925 Dupont Avenue South, Minneapolis, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-minneapolis.json",
+   "address": {
+    "streetAddress": "2925 Dupont Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9491639,
+    "lon": -93.2927789
+   },
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/771701504",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "mulberrys-garment-care-minneapolis",
+   "name": "Mulberrys Garment Care",
+   "summary": "Mulberrys Garment Care is a dry cleaner in Minneapolis, MN. Website: https://www.mulberryscleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mulberrys-garment-care-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mulberrys-garment-care-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9063572,
+    "lon": -93.2877077
+   },
+   "website": "https://www.mulberryscleaners.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/80751553",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "pilgrim-cleaners-coon-rapids",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Coon Rapids, MN. Phone: +17633239949.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2080871,
+    "lon": -93.3584072
+   },
+   "phone": "+17633239949",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952098",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "best-cleaners-chanhassen",
+   "name": "Best Cleaners",
+   "summary": "Best Cleaners is a dry cleaner in Chanhassen, MN at 7886 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-cleaners-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-cleaners-chanhassen.json",
+   "address": {
+    "streetAddress": "7886 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8605174,
+    "lon": -93.5400548
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789885",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "clean-n-press-vadnais-heights",
+   "name": "Clean 'n' Press",
+   "summary": "Clean 'n' Press is a dry cleaner in Vadnais Heights, MN at 1032 Highway 96, Vadnais Heights, MN 55127.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clean-n-press-vadnais-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clean-n-press-vadnais-heights.json",
+   "address": {
+    "streetAddress": "1032 Highway 96",
+    "addressLocality": "Vadnais Heights",
+    "addressRegion": "MN",
+    "postalCode": "55127",
+    "addressCountry": "US"
+   },
+   "city": "Vadnais Heights",
+   "state": "MN",
+   "zip": "55127",
+   "geo": {
+    "lat": 45.0781618,
+    "lon": -93.057203
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1137118402",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "cleannpress-saint-louis-park",
+   "name": "Clean'n'Press",
+   "summary": "Clean'n'Press is a dry cleaner in Saint Louis Park, MN at 4716 Excelsior Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cleannpress-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cleannpress-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4716 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9333067,
+    "lon": -93.3407187
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9501600385",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "cleaners-excelsior",
+   "name": "Cleaners",
+   "summary": "Cleaners is a dry cleaner in Excelsior, MN at Manitou Road, Excelsior, MN 55331.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cleaners-excelsior/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cleaners-excelsior.json",
+   "address": {
+    "streetAddress": "Manitou Road",
+    "addressLocality": "Excelsior",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Excelsior",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.9013544,
+    "lon": -93.5886568
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11775549013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "evans-garment-restoration-chaska",
+   "name": "Evans Garment Restoration",
+   "summary": "Evans Garment Restoration is a dry cleaner in Chaska, MN at 108 Peavey Road, Chaska, MN 55318.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evans-garment-restoration-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evans-garment-restoration-chaska.json",
+   "address": {
+    "streetAddress": "108 Peavey Road",
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "postalCode": "55318",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "zip": "55318",
+   "geo": {
+    "lat": 44.8414,
+    "lon": -93.5943172
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1393364915",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "grand-cleaners-roseville",
+   "name": "Grand Cleaners",
+   "summary": "Grand Cleaners is a dry cleaner in Roseville, MN at 1757 Lexington Avenue North, Roseville, MN 55113.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-cleaners-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-cleaners-roseville.json",
+   "address": {
+    "streetAddress": "1757 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9944,
+    "lon": -93.146927
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1583379450",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "hour-glass-cleaners-chanhassen",
+   "name": "Hour Glass Cleaners",
+   "summary": "Hour Glass Cleaners is a dry cleaner in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hour-glass-cleaners-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hour-glass-cleaners-chanhassen.json",
+   "address": {
+    "streetAddress": "530 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8600212,
+    "lon": -93.5332056
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391867613",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "m-and-m-cleaners-west-saint-paul",
+   "name": "M & M Cleaners",
+   "summary": "M & M Cleaners is a dry cleaner in West Saint Paul, MN at 1134 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-and-m-cleaners-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-and-m-cleaners-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1134 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9119285,
+    "lon": -93.0802324
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527077152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "st-croix-cleaners-saint-paul-n8663748457",
+   "name": "St. Croix Cleaners",
+   "summary": "St. Croix Cleaners is a dry cleaner in Saint Paul, MN at 300 Snelling Avenue South #B, Saint Paul, MN 55105.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-croix-cleaners-saint-paul-n8663748457/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-croix-cleaners-saint-paul-n8663748457.json",
+   "address": {
+    "streetAddress": "300 Snelling Avenue South #B",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9326578,
+    "lon": -93.1667876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8663748457",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "tide-cleaners-eden-prairie",
+   "name": "Tide Cleaners",
+   "summary": "Tide Cleaners is a dry cleaner in Eden Prairie, MN at 9254 Hennepin Town Road, Eden Prairie, MN 55347.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tide-cleaners-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tide-cleaners-eden-prairie.json",
+   "address": {
+    "streetAddress": "9254 Hennepin Town Road",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55347",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55347",
+   "geo": {
+    "lat": 44.8355988,
+    "lon": -93.3993308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11679561783",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "best-cleaners-eden-prairie",
+   "name": "Best Cleaners",
+   "summary": "Best Cleaners is a dry cleaner in Eden Prairie, MN at 6205 Dell Road, Eden Prairie, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-cleaners-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-cleaners-eden-prairie.json",
+   "address": {
+    "streetAddress": "6205 Dell Road",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8912163,
+    "lon": -93.5148196
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5627517144",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "cleaners-eden-prairie",
+   "name": "Cleaners",
+   "summary": "Cleaners is a dry cleaner in Eden Prairie, MN at 8254 Commonwealth Drive, Eden Prairie, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cleaners-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cleaners-eden-prairie.json",
+   "address": {
+    "streetAddress": "8254 Commonwealth Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547726,
+    "lon": -93.4340678
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4145440389",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "saint-croix-cleaners-mendota-heights",
+   "name": "Saint Croix Cleaners",
+   "summary": "Saint Croix Cleaners is a dry cleaner in Mendota Heights, MN at 778, Mendota Heights, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-croix-cleaners-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-croix-cleaners-mendota-heights.json",
+   "address": {
+    "streetAddress": "778",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8817971,
+    "lon": -93.1248944
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318419",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "andersons-cleaners-saint-paul",
+   "name": "Anderson's Cleaners",
+   "summary": "Anderson's Cleaners is a dry cleaner in Saint Paul, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/andersons-cleaners-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/andersons-cleaners-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9199698,
+    "lon": -93.1869778
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/728154061",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "chaska-laundry-cleaners-chaska",
+   "name": "Chaska Laundry Cleaners",
+   "summary": "Chaska Laundry Cleaners is a dry cleaner in Chaska, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chaska-laundry-cleaners-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chaska-laundry-cleaners-chaska.json",
+   "address": {
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8015705,
+    "lon": -93.5804863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1134664727",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "cleannpress-rogers",
+   "name": "Clean'n'Press",
+   "summary": "Clean'n'Press is a dry cleaner in Rogers, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cleannpress-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cleannpress-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2008542,
+    "lon": -93.5558797
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423673",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "dinsmore-cleaners-minneapolis",
+   "name": "Dinsmore Cleaners",
+   "summary": "Dinsmore Cleaners is a dry cleaner in Minneapolis, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dinsmore-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dinsmore-cleaners-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9982172,
+    "lon": -93.2568366
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13841793082",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "hamline-cleaners-saint-paul",
+   "name": "Hamline Cleaners",
+   "summary": "Hamline Cleaners is a dry cleaner in Saint Paul, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hamline-cleaners-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hamline-cleaners-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9608597,
+    "lon": -93.167497
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12971459596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "m-and-m-cleaners-saint-paul",
+   "name": "M&M Cleaners",
+   "summary": "M&M Cleaners is a dry cleaner in Saint Paul, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-and-m-cleaners-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-and-m-cleaners-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9510919,
+    "lon": -93.0296341
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11872681550",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "mtm-cleaners-and-tailors-anoka",
+   "name": "MTM Cleaners & Tailors",
+   "summary": "MTM Cleaners & Tailors is a dry cleaner in Anoka, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mtm-cleaners-and-tailors-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mtm-cleaners-and-tailors-anoka.json",
+   "address": {
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1973422,
+    "lon": -93.3911058
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5595314599",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "pilgrim-cleaners-blaine",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Blaine, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1312986,
+    "lon": -93.2589876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453435776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "pilgrim-cleaners-minnetonka",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Minnetonka, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9179422,
+    "lon": -93.5039387
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487968",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "roxys-alterations-saint-paul",
+   "name": "Roxy's Alterations",
+   "summary": "Roxy's Alterations is a dry cleaner in Saint Paul, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roxys-alterations-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roxys-alterations-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9345347,
+    "lon": -93.1877474
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13276899491",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "sew-and-press-anoka",
+   "name": "Sew & Press",
+   "summary": "Sew & Press is a dry cleaner in Anoka, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sew-and-press-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sew-and-press-anoka.json",
+   "address": {
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1981072,
+    "lon": -93.387962
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5599281267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "st-croix-cleaners-minneapolis",
+   "name": "St. Croix Cleaners",
+   "summary": "St. Croix Cleaners is a dry cleaner in Minneapolis, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-croix-cleaners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-croix-cleaners-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758194,
+    "lon": -93.2718254
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5355792476",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "us-cleaners-minneapolis-n12869967159",
+   "name": "US Cleaners",
+   "summary": "US Cleaners is a dry cleaner in Minneapolis, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/us-cleaners-minneapolis-n12869967159/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/us-cleaners-minneapolis-n12869967159.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9626296,
+    "lon": -93.2370932
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12869967159",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

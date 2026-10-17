@@ -1,0 +1,53 @@
+{
+ "slug": "jared-maplewood",
+ "name": "Jared",
+ "categories": [
+  "jewelry store"
+ ],
+ "keywords": [
+  "jewelry store",
+  "jewelry store maplewood mn"
+ ],
+ "services": [
+  {
+   "name": "jewelry store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Maplewood",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Maplewood",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0346031,
+  "lon": -93.0181346
+ },
+ "brand": "Jared",
+ "wikidata": "Q62029282",
+ "schema_type": "JewelryStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/126138322",
+ "osm": {
+  "type": "way",
+  "id": 126138322,
+  "tags_used": {
+   "shop": "jewelry"
+  }
+ },
+ "municipality": "Maplewood",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jared-maplewood/",
+ "summary": "Jared is a jewelry store in Maplewood, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

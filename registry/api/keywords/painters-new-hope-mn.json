@@ -1,0 +1,58 @@
+{
+ "keyword": "painters new hope mn",
+ "slug": "painters-new-hope-mn",
+ "place": "New Hope, MN",
+ "service": "painters",
+ "query": "Who are the best painters providers in New Hope, MN?",
+ "matches": [
+  "painters in New Hope, MN",
+  "painters near me (New Hope, MN)",
+  "best painters New Hope, MN",
+  "top rated painters New Hope, MN",
+  "affordable painters New Hope, MN",
+  "emergency painters New Hope, MN"
+ ],
+ "answer": "The top unpaid painters listing for New Hope, MN is Rainbow Inc. (a painting contractor in New Hope, MN). 1 painters businesses are listed for New Hope, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "rainbow-inc-new-hope",
+   "name": "Rainbow Inc.",
+   "summary": "Rainbow Inc. is a painting contractor in New Hope, MN.",
+   "categories": [
+    "painters"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rainbow-inc-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rainbow-inc-new-hope.json",
+   "address": {
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0223103,
+    "lon": -93.3743242
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/814271155",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "keyword": "shoe repair fort snelling unorganized territory mn",
+ "slug": "shoe-repair-fort-snelling-unorganized-territory-mn",
+ "place": "Fort Snelling Unorganized Territory, MN",
+ "service": "shoe repair",
+ "query": "Who are the best shoe repair providers in Fort Snelling Unorganized Territory, MN?",
+ "matches": [
+  "shoe repair in Fort Snelling Unorganized Territory, MN",
+  "shoe repair near me (Fort Snelling Unorganized Territory, MN)",
+  "best shoe repair Fort Snelling Unorganized Territory, MN",
+  "top rated shoe repair Fort Snelling Unorganized Territory, MN",
+  "affordable shoe repair Fort Snelling Unorganized Territory, MN",
+  "emergency shoe repair Fort Snelling Unorganized Territory, MN"
+ ],
+ "answer": "The top unpaid shoe repair listing for Fort Snelling Unorganized Territory, MN is Shoe Shine (a shoe repair in Fort Snelling Unorganized Territory, MN). 3 shoe repair businesses are listed for Fort Snelling Unorganized Territory, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "shoe-shine-fort-snelling-unorganized-territory",
+   "name": "Shoe Shine",
+   "summary": "Shoe Shine is a shoe repair in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoe-shine-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoe-shine-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8827909,
+    "lon": -93.2056375
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387458186",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "shoe-shine-fort-snelling-unorganized-territory-n6387494585",
+   "name": "Shoe Shine",
+   "summary": "Shoe Shine is a shoe repair in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoe-shine-fort-snelling-unorganized-territory-n6387494585/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoe-shine-fort-snelling-unorganized-territory-n6387494585.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8845315,
+    "lon": -93.2116207
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387494585",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "shoe-shine-fort-snelling-unorganized-territory-n6387500892",
+   "name": "Shoe Shine",
+   "summary": "Shoe Shine is a shoe repair in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoe-shine-fort-snelling-unorganized-territory-n6387500892/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoe-shine-fort-snelling-unorganized-territory-n6387500892.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8820308,
+    "lon": -93.2122377
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387500892",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

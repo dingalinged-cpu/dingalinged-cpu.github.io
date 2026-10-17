@@ -1,0 +1,23 @@
+U-Haul is a moving company in Plymouth, MN.
+
+# U-Haul
+
+- Category: movers
+- Services: movers, moving company
+- Address: Plymouth, MN
+- City: Plymouth
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9926412, -93.40265
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-plymouth/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-plymouth.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12751755517 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

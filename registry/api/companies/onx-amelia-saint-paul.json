@@ -1,0 +1,53 @@
+{
+ "slug": "onx-amelia-saint-paul",
+ "name": "Onx + Amelia",
+ "categories": [
+  "yoga classes"
+ ],
+ "keywords": [
+  "yoga classes",
+  "yoga classes saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "yoga classes",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9463573,
+  "lon": -93.1180202
+ },
+ "opening_hours": "Mo-Th 08:30-13:30,14:30-21:00; Fr 08:30-13:30,14:30-17:00; Sa 07:00-14:00; Su 08:30-19:00",
+ "schema_type": "SportsActivityLocation",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12818365705",
+ "osm": {
+  "type": "node",
+  "id": 12818365705,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "yoga"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/onx-amelia-saint-paul/",
+ "summary": "Onx + Amelia is a yoga studio in Saint Paul, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

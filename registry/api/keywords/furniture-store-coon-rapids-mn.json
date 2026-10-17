@@ -1,0 +1,89 @@
+{
+ "keyword": "furniture store coon rapids mn",
+ "slug": "furniture-store-coon-rapids-mn",
+ "place": "Coon Rapids, MN",
+ "service": "furniture store",
+ "query": "Who are the best furniture store providers in Coon Rapids, MN?",
+ "matches": [
+  "furniture store in Coon Rapids, MN",
+  "furniture store near me (Coon Rapids, MN)",
+  "best furniture store Coon Rapids, MN",
+  "top rated furniture store Coon Rapids, MN",
+  "affordable furniture store Coon Rapids, MN",
+  "emergency furniture store Coon Rapids, MN"
+ ],
+ "answer": "The top unpaid furniture store listing for Coon Rapids, MN is Furniture & Things (a furniture store in Coon Rapids, MN at 2163 Coon Rapids Boulevard Northwest, Coon Rapids, MN. Phone: +17637554149). 2 furniture store businesses are listed for Coon Rapids, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "furniture-and-things-coon-rapids",
+   "name": "Furniture & Things",
+   "summary": "Furniture & Things is a furniture store in Coon Rapids, MN at 2163 Coon Rapids Boulevard Northwest, Coon Rapids, MN. Phone: +17637554149.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furniture-and-things-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furniture-and-things-coon-rapids.json",
+   "address": {
+    "streetAddress": "2163 Coon Rapids Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1638087,
+    "lon": -93.3227107
+   },
+   "phone": "+17637554149",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/745483529",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "chase-cole-galleries-coon-rapids",
+   "name": "Chase Cole Galleries",
+   "summary": "Chase Cole Galleries is a furniture store in Coon Rapids, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chase-cole-galleries-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chase-cole-galleries-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1726143,
+    "lon": -93.3447918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/696025366",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

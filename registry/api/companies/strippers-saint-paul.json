@@ -1,0 +1,55 @@
+{
+ "slug": "strippers-saint-paul",
+ "name": "Strippers",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1698 Selby Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9464046,
+  "lon": -93.1719013
+ },
+ "phone": "+16516451394",
+ "website": "https://strippersonselby.com/",
+ "opening_hours": "Mo-Fr 09:30-17:00",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8097533023",
+ "osm": {
+  "type": "node",
+  "id": 8097533023,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/strippers-saint-paul/",
+ "summary": "Strippers is a furniture store in Saint Paul, MN at 1698 Selby Avenue, Saint Paul, MN. Phone: +16516451394. Website: https://strippersonselby.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

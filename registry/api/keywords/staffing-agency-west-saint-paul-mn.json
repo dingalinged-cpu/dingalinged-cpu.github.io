@@ -1,0 +1,88 @@
+{
+ "keyword": "staffing agency west saint paul mn",
+ "slug": "staffing-agency-west-saint-paul-mn",
+ "place": "West Saint Paul, MN",
+ "service": "staffing agency",
+ "query": "Who are the best staffing agency providers in West Saint Paul, MN?",
+ "matches": [
+  "staffing agency in West Saint Paul, MN",
+  "staffing agency near me (West Saint Paul, MN)",
+  "best staffing agency West Saint Paul, MN",
+  "top rated staffing agency West Saint Paul, MN",
+  "affordable staffing agency West Saint Paul, MN",
+  "emergency staffing agency West Saint Paul, MN"
+ ],
+ "answer": "The top unpaid staffing agency listing for West Saint Paul, MN is Twin City Staffing (a staffing agency in West Saint Paul, MN). 2 staffing agency businesses are listed for West Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "twin-city-staffing-west-saint-paul",
+   "name": "Twin City Staffing",
+   "summary": "Twin City Staffing is a staffing agency in West Saint Paul, MN.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-city-staffing-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-city-staffing-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.895146,
+    "lon": -93.0787719
+   },
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729479028",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "peopleready-west-saint-paul",
+   "name": "PeopleReady",
+   "summary": "PeopleReady is a staffing agency in West Saint Paul, MN.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peopleready-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peopleready-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9092604,
+    "lon": -93.0816749
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12726907090",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

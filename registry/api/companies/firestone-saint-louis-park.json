@@ -1,0 +1,64 @@
+{
+ "slug": "firestone-saint-louis-park",
+ "name": "Firestone",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair saint louis park mn",
+  "mechanic saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8530 Minnesota State Highway 7",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55426",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55426",
+ "geo": {
+  "lat": 44.9359426,
+  "lon": -93.3881932
+ },
+ "phone": "+19529559728",
+ "website": "https://local.firestonecompleteautocare.com/minnesota/saint-louis-park/8530-mn-7/?lw_cmp=oloc_google_localmaps_maps",
+ "brand": "Firestone",
+ "wikidata": "Q420837",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/699413494",
+ "osm": {
+  "type": "way",
+  "id": 699413494,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/firestone-saint-louis-park/",
+ "summary": "Firestone is an auto repair shop in Saint Louis Park, MN at 8530 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529559728. Website: https://local.firestonecompleteautocare.com/minnesota/saint-louis-park/8530-mn-7/?lw_cmp=oloc_google_localmaps_maps.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

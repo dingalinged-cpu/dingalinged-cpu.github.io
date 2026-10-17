@@ -1,0 +1,61 @@
+{
+ "slug": "hope-law-minneapolis",
+ "name": "Hope Law",
+ "categories": [
+  "lawyer"
+ ],
+ "keywords": [
+  "lawyer",
+  "attorney",
+  "lawyer minneapolis mn",
+  "attorney minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "lawyer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "attorney",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4999 France Avenue South #245",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55410",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55410",
+ "geo": {
+  "lat": 44.9128174,
+  "lon": -93.3288285
+ },
+ "website": "https://hopelawoffice.com/",
+ "schema_type": "LegalService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12139116013",
+ "osm": {
+  "type": "node",
+  "id": 12139116013,
+  "tags_used": {
+   "office": "lawyer"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hope-law-minneapolis/",
+ "summary": "Hope Law is a lawyer in Minneapolis, MN at 4999 France Avenue South #245, Minneapolis, MN 55410. Website: https://hopelawoffice.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

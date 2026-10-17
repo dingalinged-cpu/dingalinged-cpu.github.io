@@ -1,0 +1,54 @@
+{
+ "slug": "g-will-liquors-champlin",
+ "name": "G-Will Liquors",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store champlin mn"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "12153 Champlin Drive",
+  "addressLocality": "Champlin",
+  "addressRegion": "MN",
+  "postalCode": "55316",
+  "addressCountry": "US"
+ },
+ "city": "Champlin",
+ "state": "MN",
+ "zip": "55316",
+ "geo": {
+  "lat": 45.1739311,
+  "lon": -93.3943161
+ },
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/470093869",
+ "osm": {
+  "type": "way",
+  "id": 470093869,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Champlin",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/g-will-liquors-champlin/",
+ "summary": "G-Will Liquors is a liquor store in Champlin, MN at 12153 Champlin Drive, Champlin, MN 55316.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

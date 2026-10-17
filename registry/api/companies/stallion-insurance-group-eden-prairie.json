@@ -1,0 +1,70 @@
+{
+ "slug": "stallion-insurance-group-eden-prairie",
+ "name": "Stallion Insurance Group",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent eden prairie mn",
+  "insurance agency eden prairie mn",
+  "insurance agents eden prairie mn"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "12160 Technology Drive #213",
+  "addressLocality": "Eden Prairie",
+  "addressRegion": "MN",
+  "postalCode": "55344",
+  "addressCountry": "US"
+ },
+ "city": "Eden Prairie",
+ "state": "MN",
+ "zip": "55344",
+ "geo": {
+  "lat": 44.8628758,
+  "lon": -93.4328912
+ },
+ "phone": "+16517351284",
+ "website": "https://www.stallioninsgroup.com/",
+ "email": "csr@stallioninsgroup.com",
+ "opening_hours": "Mo-Fr 09:00-17:00",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10829488791",
+ "osm": {
+  "type": "node",
+  "id": 10829488791,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Eden Prairie",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/stallion-insurance-group-eden-prairie/",
+ "summary": "Stallion Insurance Group is an insurance agent in Eden Prairie, MN at 12160 Technology Drive #213, Eden Prairie, MN 55344. Phone: +16517351284. Website: https://www.stallioninsgroup.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "tierra-encantada-minneapolis",
+ "name": "Tierra Encantada",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4012 Minnehaha Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55406",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55406",
+ "geo": {
+  "lat": 44.9300187,
+  "lon": -93.2212995
+ },
+ "phone": "+16127220509",
+ "website": "https://www.tierraencantada.com/hiawatha",
+ "email": "hiawatha@tierraencantada.com",
+ "opening_hours": "Mo-Fr 06:30-18:00",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/943062726",
+ "osm": {
+  "type": "way",
+  "id": 943062726,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/tierra-encantada-minneapolis/",
+ "summary": "Tierra Encantada is a daycare in Minneapolis, MN at 4012 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127220509. Website: https://www.tierraencantada.com/hiawatha.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

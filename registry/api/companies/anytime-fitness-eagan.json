@@ -1,0 +1,58 @@
+{
+ "slug": "anytime-fitness-eagan",
+ "name": "Anytime Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym eagan mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1981 Silver Bell Road #1800",
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "postalCode": "55122",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "zip": "55122",
+ "geo": {
+  "lat": 44.8205832,
+  "lon": -93.2052271
+ },
+ "phone": "+16516864667",
+ "website": "https://www.anytimefitness.com/gyms/1265/eagan-mn-55122/",
+ "brand": "Anytime Fitness",
+ "wikidata": "Q4778364",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9234733592",
+ "osm": {
+  "type": "node",
+  "id": 9234733592,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-eagan/",
+ "summary": "Anytime Fitness is a gym in Eagan, MN at 1981 Silver Bell Road #1800, Eagan, MN 55122. Phone: +16516864667. Website: https://www.anytimefitness.com/gyms/1265/eagan-mn-55122/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

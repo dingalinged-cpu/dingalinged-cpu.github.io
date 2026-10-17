@@ -1,0 +1,57 @@
+{
+ "slug": "visiting-angels-senior-home-care-blaine",
+ "name": "Visiting Angels Senior Home Care",
+ "categories": [
+  "assisted living"
+ ],
+ "keywords": [
+  "assisted living",
+  "assisted living blaine mn"
+ ],
+ "services": [
+  {
+   "name": "assisted living",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "12760 Aberdeen Street Northeast #316",
+  "addressLocality": "Blaine",
+  "addressRegion": "MN",
+  "postalCode": "55449",
+  "addressCountry": "US"
+ },
+ "city": "Blaine",
+ "state": "MN",
+ "zip": "55449",
+ "geo": {
+  "lat": 45.2020172,
+  "lon": -93.2328248
+ },
+ "phone": "+19528918000",
+ "website": "https://www.visitingangels.com/blaine/home",
+ "opening_hours": "24/7",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12699283957",
+ "osm": {
+  "type": "node",
+  "id": 12699283957,
+  "tags_used": {
+   "amenity": "social_facility"
+  }
+ },
+ "municipality": "Blaine",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/visiting-angels-senior-home-care-blaine/",
+ "summary": "Visiting Angels Senior Home Care is an assisted living facility in Blaine, MN at 12760 Aberdeen Street Northeast #316, Blaine, MN 55449. Phone: +19528918000. Website: https://www.visitingangels.com/blaine/home.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

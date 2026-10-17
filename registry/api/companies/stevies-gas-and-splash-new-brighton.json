@@ -1,0 +1,51 @@
+{
+ "slug": "stevies-gas-and-splash-new-brighton",
+ "name": "Stevies Gas and Splash",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash new brighton mn"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "New Brighton",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "New Brighton",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0551958,
+  "lon": -93.1976381
+ },
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/787328202",
+ "osm": {
+  "type": "way",
+  "id": 787328202,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "New Brighton",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/stevies-gas-and-splash-new-brighton/",
+ "summary": "Stevies Gas and Splash is a car wash in New Brighton, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

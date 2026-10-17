@@ -1,0 +1,90 @@
+{
+ "keyword": "haircut hopkins mn",
+ "slug": "haircut-hopkins-mn",
+ "place": "Hopkins, MN",
+ "service": "haircut",
+ "query": "Who are the best haircut providers in Hopkins, MN?",
+ "matches": [
+  "haircut in Hopkins, MN",
+  "haircut near me (Hopkins, MN)",
+  "best haircut Hopkins, MN",
+  "top rated haircut Hopkins, MN",
+  "affordable haircut Hopkins, MN",
+  "emergency haircut Hopkins, MN"
+ ],
+ "answer": "The top unpaid haircut listing for Hopkins, MN is Duff's Barber Shop (a hair salon in Hopkins, MN at 5 9th Avenue South, Hopkins, MN 55343). 2 haircut businesses are listed for Hopkins, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "duffs-barber-shop-hopkins",
+   "name": "Duff's Barber Shop",
+   "summary": "Duff's Barber Shop is a hair salon in Hopkins, MN at 5 9th Avenue South, Hopkins, MN 55343.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duffs-barber-shop-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duffs-barber-shop-hopkins.json",
+   "address": {
+    "streetAddress": "5 9th Avenue South",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9241189,
+    "lon": -93.4113148
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8690947758",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "salon-limage-hopkins",
+   "name": "Salon L'Image",
+   "summary": "Salon L'Image is a hair salon in Hopkins, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-limage-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-limage-hopkins.json",
+   "address": {
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9338026,
+    "lon": -93.4200828
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2601361546",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

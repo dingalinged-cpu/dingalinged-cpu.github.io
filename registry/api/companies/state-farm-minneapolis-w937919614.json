@@ -1,0 +1,68 @@
+{
+ "slug": "state-farm-minneapolis-w937919614",
+ "name": "State Farm",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent minneapolis mn",
+  "insurance agency minneapolis mn",
+  "insurance agents minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3259 Northeast Johnson Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55418",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55418",
+ "geo": {
+  "lat": 45.027547,
+  "lon": -93.2368642
+ },
+ "brand": "State Farm",
+ "wikidata": "Q2007336",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/937919614",
+ "osm": {
+  "type": "way",
+  "id": 937919614,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-minneapolis-w937919614/",
+ "summary": "State Farm is an insurance agent in Minneapolis, MN at 3259 Northeast Johnson Street, Minneapolis, MN 55418.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

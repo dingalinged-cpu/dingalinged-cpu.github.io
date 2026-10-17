@@ -1,0 +1,57 @@
+{
+ "slug": "metro-dentalcare-chanhassen-chanhassen",
+ "name": "Metro Dentalcare Chanhassen",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon chanhassen mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7806 Market Boulevard",
+  "addressLocality": "Chanhassen",
+  "addressRegion": "MN",
+  "postalCode": "55317",
+  "addressCountry": "US"
+ },
+ "city": "Chanhassen",
+ "state": "MN",
+ "zip": "55317",
+ "geo": {
+  "lat": 44.8618997,
+  "lon": -93.5384217
+ },
+ "phone": "+19529491083",
+ "website": "https://www.mdchanhassen.com/",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6391789948",
+ "osm": {
+  "type": "node",
+  "id": 6391789948,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Chanhassen",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-chanhassen-chanhassen/",
+ "summary": "Metro Dentalcare Chanhassen is a nail salon in Chanhassen, MN at 7806 Market Boulevard, Chanhassen, MN 55317. Phone: +19529491083. Website: https://www.mdchanhassen.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

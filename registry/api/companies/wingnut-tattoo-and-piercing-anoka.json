@@ -1,0 +1,54 @@
+{
+ "slug": "wingnut-tattoo-and-piercing-anoka",
+ "name": "Wingnut Tattoo & Piercing",
+ "categories": [
+  "tattoo shop"
+ ],
+ "keywords": [
+  "tattoo shop",
+  "tattoo shop anoka mn"
+ ],
+ "services": [
+  {
+   "name": "tattoo shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2022 North Ferry Street",
+  "addressLocality": "Anoka",
+  "addressRegion": "MN",
+  "postalCode": "55303",
+  "addressCountry": "US"
+ },
+ "city": "Anoka",
+ "state": "MN",
+ "zip": "55303",
+ "geo": {
+  "lat": 45.1992494,
+  "lon": -93.3921132
+ },
+ "schema_type": "TattooParlor",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/585525225",
+ "osm": {
+  "type": "way",
+  "id": 585525225,
+  "tags_used": {
+   "shop": "tattoo"
+  }
+ },
+ "municipality": "Anoka",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/wingnut-tattoo-and-piercing-anoka/",
+ "summary": "Wingnut Tattoo & Piercing is a tattoo shop in Anoka, MN at 2022 North Ferry Street, Anoka, MN 55303.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

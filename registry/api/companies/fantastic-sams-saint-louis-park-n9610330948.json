@@ -1,0 +1,64 @@
+{
+ "slug": "fantastic-sams-saint-louis-park-n9610330948",
+ "name": "Fantastic Sams",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon saint louis park mn",
+  "haircut saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5330 Cedar Lake Road #400",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9627629,
+  "lon": -93.3480012
+ },
+ "phone": "+19529330082",
+ "website": "https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-louis-park-mn-0",
+ "brand": "Fantastic Sams",
+ "wikidata": "Q5434222",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9610330948",
+ "osm": {
+  "type": "node",
+  "id": 9610330948,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-saint-louis-park-n9610330948/",
+ "summary": "Fantastic Sams is a hair salon in Saint Louis Park, MN at 5330 Cedar Lake Road #400, Saint Louis Park, MN 55416. Phone: +19529330082. Website: https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-louis-park-mn-0.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

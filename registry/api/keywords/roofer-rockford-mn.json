@@ -1,0 +1,63 @@
+{
+ "keyword": "roofer rockford mn",
+ "slug": "roofer-rockford-mn",
+ "place": "Rockford, MN",
+ "service": "roofer",
+ "query": "Who are the best roofer providers in Rockford, MN?",
+ "matches": [
+  "roofer in Rockford, MN",
+  "roofer near me (Rockford, MN)",
+  "best roofer Rockford, MN",
+  "top rated roofer Rockford, MN",
+  "affordable roofer Rockford, MN",
+  "emergency roofer Rockford, MN"
+ ],
+ "answer": "The top unpaid roofer listing for Rockford, MN is Duraroof USA (a roofer in Rockford, MN at 8906 Autumn Oaks Drive, Rockford, MN 55373. Phone: +17633160660. Website: https://www.duraroofusa.com/). 1 roofer businesses are listed for Rockford, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "duraroof-usa-rockford",
+   "name": "Duraroof USA",
+   "summary": "Duraroof USA is a roofer in Rockford, MN at 8906 Autumn Oaks Drive, Rockford, MN 55373. Phone: +17633160660. Website: https://www.duraroofusa.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duraroof-usa-rockford/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duraroof-usa-rockford.json",
+   "address": {
+    "streetAddress": "8906 Autumn Oaks Drive",
+    "addressLocality": "Rockford",
+    "addressRegion": "MN",
+    "postalCode": "55373",
+    "addressCountry": "US"
+   },
+   "city": "Rockford",
+   "state": "MN",
+   "zip": "55373",
+   "geo": {
+    "lat": 45.0919229,
+    "lon": -93.7475368
+   },
+   "phone": "+17633160660",
+   "website": "https://www.duraroofusa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1322434384",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

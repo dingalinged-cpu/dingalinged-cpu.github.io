@@ -1,0 +1,91 @@
+{
+ "keyword": "massage eden prairie mn",
+ "slug": "massage-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "massage",
+ "query": "Who are the best massage providers in Eden Prairie, MN?",
+ "matches": [
+  "massage in Eden Prairie, MN",
+  "massage near me (Eden Prairie, MN)",
+  "best massage Eden Prairie, MN",
+  "top rated massage Eden Prairie, MN",
+  "affordable massage Eden Prairie, MN",
+  "emergency massage Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid massage listing for Eden Prairie, MN is Elements Massage (a massage studio in Eden Prairie, MN at 10165 Hennepin Town Road #103, Eden Prairie, MN 55347). 2 massage businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "elements-massage-eden-prairie",
+   "name": "Elements Massage",
+   "summary": "Elements Massage is a massage studio in Eden Prairie, MN at 10165 Hennepin Town Road #103, Eden Prairie, MN 55347.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elements-massage-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elements-massage-eden-prairie.json",
+   "address": {
+    "streetAddress": "10165 Hennepin Town Road #103",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55347",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55347",
+   "geo": {
+    "lat": 44.8210597,
+    "lon": -93.4011514
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11680086344",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "massage-retreat-and-spa-eden-prairie",
+   "name": "Massage Retreat & Spa",
+   "summary": "Massage Retreat & Spa is a massage studio in Eden Prairie, MN at 8248 Commonwealth Drive, Eden Prairie, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-retreat-and-spa-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-retreat-and-spa-eden-prairie.json",
+   "address": {
+    "streetAddress": "8248 Commonwealth Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547345,
+    "lon": -93.4338249
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4145440394",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

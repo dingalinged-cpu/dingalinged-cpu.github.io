@@ -1,0 +1,55 @@
+{
+ "slug": "josephines-tailors-saint-louis-park",
+ "name": "Josephine's Tailors",
+ "categories": [
+  "tailor"
+ ],
+ "keywords": [
+  "tailor",
+  "tailor saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "tailor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4617 Excelsior Boulevard",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.933318,
+  "lon": -93.3391448
+ },
+ "phone": "+19529202493",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/692875220",
+ "osm": {
+  "type": "way",
+  "id": 692875220,
+  "tags_used": {
+   "shop": "tailor"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/josephines-tailors-saint-louis-park/",
+ "summary": "Josephine's Tailors is a tailor in Saint Louis Park, MN at 4617 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529202493.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

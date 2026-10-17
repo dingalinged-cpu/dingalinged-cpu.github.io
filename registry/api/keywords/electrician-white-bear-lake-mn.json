@@ -1,0 +1,95 @@
+{
+ "keyword": "electrician white bear lake mn",
+ "slug": "electrician-white-bear-lake-mn",
+ "place": "White Bear Lake, MN",
+ "service": "electrician",
+ "query": "Who are the best electrician providers in White Bear Lake, MN?",
+ "matches": [
+  "electrician in White Bear Lake, MN",
+  "electrician near me (White Bear Lake, MN)",
+  "best electrician White Bear Lake, MN",
+  "top rated electrician White Bear Lake, MN",
+  "affordable electrician White Bear Lake, MN",
+  "emergency electrician White Bear Lake, MN"
+ ],
+ "answer": "The top unpaid electrician listing for White Bear Lake, MN is Shinin' Brightly Electric LLC (an electrician in White Bear Lake, MN at 2130 11th Street, White Bear Lake, MN 55110. Phone: +16127304120). 2 electrician businesses are listed for White Bear Lake, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "shinin-brightly-electric-llc-white-bear-lake",
+   "name": "Shinin' Brightly Electric LLC",
+   "summary": "Shinin' Brightly Electric LLC is an electrician in White Bear Lake, MN at 2130 11th Street, White Bear Lake, MN 55110. Phone: +16127304120.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shinin-brightly-electric-llc-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shinin-brightly-electric-llc-white-bear-lake.json",
+   "address": {
+    "streetAddress": "2130 11th Street",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.0924844,
+    "lon": -93.0096658
+   },
+   "phone": "+16127304120",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13735737138",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "paulson-and-clark-electrical-engineering-white-bear-lake",
+   "name": "Paulson & Clark Electrical Engineering",
+   "summary": "Paulson & Clark Electrical Engineering is an electrician in White Bear Lake, MN at 2352 County Road J East, White Bear Lake, MN 55110.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paulson-and-clark-electrical-engineering-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paulson-and-clark-electrical-engineering-white-bear-lake.json",
+   "address": {
+    "streetAddress": "2352 County Road J East",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.1233063,
+    "lon": -92.9987071
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6516594241",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

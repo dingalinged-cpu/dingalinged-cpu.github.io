@@ -1,0 +1,23 @@
+Elite Auto Accessories is an auto repair shop in West Saint Paul, MN at 78 - 84 Moreland Avenue East, West Saint Paul, MN 55118.
+
+# Elite Auto Accessories
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 78 - 84 Moreland Avenue East, West Saint Paul, MN 55118
+- City: West Saint Paul
+- State: MN
+- ZIP: 55118
+- Coordinates: 44.9085223, -93.081566
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/elite-auto-accessories-west-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/elite-auto-accessories-west-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/527077602 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

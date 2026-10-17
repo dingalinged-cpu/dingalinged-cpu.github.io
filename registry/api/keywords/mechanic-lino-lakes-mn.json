@@ -1,0 +1,61 @@
+{
+ "keyword": "mechanic lino lakes mn",
+ "slug": "mechanic-lino-lakes-mn",
+ "place": "Lino Lakes, MN",
+ "service": "mechanic",
+ "query": "Who are the best mechanic providers in Lino Lakes, MN?",
+ "matches": [
+  "mechanic in Lino Lakes, MN",
+  "mechanic near me (Lino Lakes, MN)",
+  "best mechanic Lino Lakes, MN",
+  "top rated mechanic Lino Lakes, MN",
+  "affordable mechanic Lino Lakes, MN",
+  "emergency mechanic Lino Lakes, MN"
+ ],
+ "answer": "The top unpaid mechanic listing for Lino Lakes, MN is Apitz Garage Inc. (an auto repair shop in Lino Lakes, MN at 325 Birch Street, Lino Lakes, MN 55014). 1 mechanic businesses are listed for Lino Lakes, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "apitz-garage-inc-lino-lakes",
+   "name": "Apitz Garage Inc.",
+   "summary": "Apitz Garage Inc. is an auto repair shop in Lino Lakes, MN at 325 Birch Street, Lino Lakes, MN 55014.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/apitz-garage-inc-lino-lakes/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/apitz-garage-inc-lino-lakes.json",
+   "address": {
+    "streetAddress": "325 Birch Street",
+    "addressLocality": "Lino Lakes",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Lino Lakes",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.1426279,
+    "lon": -93.1249085
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1005095819",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

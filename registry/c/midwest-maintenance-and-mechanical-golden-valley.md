@@ -1,0 +1,23 @@
+Midwest Maintenance & Mechanical is a window installer in Golden Valley, MN at 750 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +17635442700. Website: https://www.midwestmaint.com/.
+
+# Midwest Maintenance & Mechanical
+
+- Category: window replacement
+- Services: window replacement
+- Address: 750 Pennsylvania Avenue South, Golden Valley, MN 55426
+- City: Golden Valley
+- State: MN
+- ZIP: 55426
+- Coordinates: 44.9735663, -93.3763948
+- Phone: +17635442700
+- Website: https://www.midwestmaint.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-maintenance-and-mechanical-golden-valley/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-maintenance-and-mechanical-golden-valley.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/411449931 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,782 @@
+{
+ "name": "company-registry",
+ "title": "Company Registry",
+ "licenses": [
+  {
+   "name": "ODbL-1.0",
+   "path": "https://opendatacommons.org/licenses/odbl/1-0/"
+  }
+ ],
+ "homepage": "https://dingalinged-cpu.github.io/registry/",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "resources": [
+  {
+   "path": "companies.csv",
+   "format": "csv"
+  },
+  {
+   "path": "companies.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/albertville-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/andover-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/anoka-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/arden-hills-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/blaine-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bloomington-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/brooklyn-center-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/brooklyn-park-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/burnsville-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/centerville-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/champlin-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/chanhassen-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/chaska-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/circle-pines-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/columbia-heights-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/columbus-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/coon-rapids-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/corcoran-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/crystal-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dayton-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/eagan-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/eden-prairie-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/edina-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/excelsior-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/falcon-heights-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/forest-lake-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fort-snelling-unorganized-territory-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fridley-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/golden-valley-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/greenfield-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/greenwood-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/ham-lake-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hilltop-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hopkins-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hugo-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/inver-grove-heights-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lauderdale-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lilydale-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lino-lakes-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/little-canada-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/long-lake-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/loretto-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mahtomedi-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/maple-grove-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/maple-plain-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/maplewood-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/medicine-lake-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/medina-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mendota-heights-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/minneapolis-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/minnetonka-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/minnetrista-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mound-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mounds-view-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/new-brighton-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/new-hope-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/newport-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/north-oaks-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/north-saint-paul-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oakdale-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/orono-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/osseo-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/plymouth-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/ramsey-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/richfield-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/robbinsdale-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rockford-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rockford-township-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rogers-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/roseville-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/saint-anthony-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/saint-bonifacius-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/saint-louis-park-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/saint-michael-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/saint-paul-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/saint-paul-park-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/shakopee-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/shoreview-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/shorewood-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/south-saint-paul-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/spring-lake-park-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/spring-park-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/tonka-bay-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/vadnais-heights-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/victoria-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/wayzata-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/west-saint-paul-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/white-bear-lake-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/white-bear-township-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/woodbury-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/accountant.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/acupuncture.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/allergist.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/architect.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/assisted-living.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/auto-repair.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/bakery.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/barber-shop.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/bike-shop.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/boutique.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/business-consultant.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/car-inspection.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/car-wash.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/carpet-installation.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/caterers.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/chiropractor.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/concrete-contractor.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/coworking-space.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/crossfit.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/dance-studio.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/daycare.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/dentist.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/dermatologist.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/dog-boarding.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/dog-groomer.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/driving-school.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/drug-rehab.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/dry-cleaners.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/electrician.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/event-venues.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/eye-doctor.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/facial.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/family-doctor.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/financial-advisor.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/flooring-companies.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/florist.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/funeral-home.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/furniture-store.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/general-contractor.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/gift-shop.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/graphic-designer.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/gym.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/hair-salon.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/hvac-repair.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/insulation-contractor.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/insurance-agent.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/interior-designer.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/it-support.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/jewelry-store.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/landscaping.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/lawyer.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/liquor-store.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/locksmith.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/marketing-agency.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/martial-arts.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/massage.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/mattress-store.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/motorcycle-repair.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/movers.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/music-lessons.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/nail-salon.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/ob-gyn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/occupational-therapist.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/orthopedic-surgeon.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/painters.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/pediatrician.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/pest-control.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/pet-store.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/phone-repair.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/photographer.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/physical-therapy.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/piercing.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/pilates.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/plastic-surgeon.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/plumber.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/podiatrist.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/preschool.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/printing-services.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/property-management-company.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/real-estate-agent.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/roofer.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/shoe-repair.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/spa.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/staffing-agency.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/storage-units.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/tailor.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/tanning-salon.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/tattoo-shop.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/tax-preparation.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/therapist.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/thrift-store.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/tire-shop.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/urgent-care.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/used-cars-for-sale.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/vet.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/waxing.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/window-repair.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/window-replacement.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "category/yoga-classes.jsonl",
+   "format": "jsonl"
+  }
+ ],
+ "updated": "2026-10-17"
+}

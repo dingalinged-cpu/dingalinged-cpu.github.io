@@ -1,0 +1,69 @@
+{
+ "slug": "lakes-sothebys-international-realty-edina",
+ "name": "Lakes Sotheby's International Realty",
+ "categories": [
+  "real estate agent"
+ ],
+ "keywords": [
+  "real estate agent",
+  "realtor",
+  "real estate agent edina mn",
+  "realtor edina mn"
+ ],
+ "services": [
+  {
+   "name": "real estate agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "realtor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3946 West 50th Street",
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "postalCode": "55424",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "zip": "55424",
+ "geo": {
+  "lat": 44.9126685,
+  "lon": -93.3312432
+ },
+ "phone": "+16125010252",
+ "website": "https://www.joshsprague.com/",
+ "email": "josh@joshsprague.com",
+ "opening_hours": "Mo-Su 10:00-20:00",
+ "social": [
+  "https://www.facebook.com/joshspraguerealtor",
+  "https://www.instagram.com/edinajosh/",
+  "https://twitter.com/edinajosh"
+ ],
+ "schema_type": "RealEstateAgent",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11942963407",
+ "osm": {
+  "type": "node",
+  "id": 11942963407,
+  "tags_used": {
+   "office": "estate_agent"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lakes-sothebys-international-realty-edina/",
+ "summary": "Lakes Sotheby's International Realty is a real estate agency in Edina, MN at 3946 West 50th Street, Edina, MN 55424. Phone: +16125010252. Website: https://www.joshsprague.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,92 @@
+{
+ "keyword": "massage bloomington mn",
+ "slug": "massage-bloomington-mn",
+ "place": "Bloomington, MN",
+ "service": "massage",
+ "query": "Who are the best massage providers in Bloomington, MN?",
+ "matches": [
+  "massage in Bloomington, MN",
+  "massage near me (Bloomington, MN)",
+  "best massage Bloomington, MN",
+  "top rated massage Bloomington, MN",
+  "affordable massage Bloomington, MN",
+  "emergency massage Bloomington, MN"
+ ],
+ "answer": "The top unpaid massage listing for Bloomington, MN is Relaxing Massage (a massage studio in Bloomington, MN at 367 North Garden, Bloomington, MN. Phone: +19528544815). 2 massage businesses are listed for Bloomington, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "relaxing-massage-bloomington",
+   "name": "Relaxing Massage",
+   "summary": "Relaxing Massage is a massage studio in Bloomington, MN at 367 North Garden, Bloomington, MN. Phone: +19528544815.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/relaxing-massage-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/relaxing-massage-bloomington.json",
+   "address": {
+    "streetAddress": "367 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8554197,
+    "lon": -93.2411496
+   },
+   "phone": "+19528544815",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829606",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "shiatsu-renu-bloomington",
+   "name": "Shiatsu Renu",
+   "summary": "Shiatsu Renu is a massage studio in Bloomington, MN at 390 West Market, Bloomington, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shiatsu-renu-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shiatsu-renu-bloomington.json",
+   "address": {
+    "streetAddress": "390 West Market",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8541035,
+    "lon": -93.2432681
+   },
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829581",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

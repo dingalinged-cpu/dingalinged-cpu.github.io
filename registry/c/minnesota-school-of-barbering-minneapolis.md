@@ -1,0 +1,23 @@
+Minnesota School of Barbering is a barber shop in Minneapolis, MN.
+
+# Minnesota School of Barbering
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: Minneapolis, MN
+- City: Minneapolis
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9481861, -93.2196694
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/minnesota-school-of-barbering-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/minnesota-school-of-barbering-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12209231047 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

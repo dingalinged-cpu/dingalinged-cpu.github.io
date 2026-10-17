@@ -1,0 +1,58 @@
+{
+ "slug": "johns-auto-shop-richfield",
+ "name": "John's Auto Shop",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair richfield mn",
+  "mechanic richfield mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Richfield",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Richfield",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8761673,
+  "lon": -93.2482452
+ },
+ "phone": "+16128695256",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12294243094",
+ "osm": {
+  "type": "node",
+  "id": 12294243094,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Richfield",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/johns-auto-shop-richfield/",
+ "summary": "John's Auto Shop is an auto repair shop in Richfield, MN. Phone: +16128695256.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

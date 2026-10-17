@@ -1,0 +1,92 @@
+{
+ "keyword": "mattress store eden prairie mn",
+ "slug": "mattress-store-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "mattress store",
+ "query": "Who are the best mattress store providers in Eden Prairie, MN?",
+ "matches": [
+  "mattress store in Eden Prairie, MN",
+  "mattress store near me (Eden Prairie, MN)",
+  "best mattress store Eden Prairie, MN",
+  "top rated mattress store Eden Prairie, MN",
+  "affordable mattress store Eden Prairie, MN",
+  "emergency mattress store Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid mattress store listing for Eden Prairie, MN is Mattress Firm (a mattress store in Eden Prairie, MN at 335 Prairie Center Drive, Eden Prairie, MN 55344. Phone: +19529950303. Website: https://www.mattressfirm.com/en-us/stores/mn/eden-prairie/080015/). 2 mattress store businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mattress-firm-eden-prairie",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Eden Prairie, MN at 335 Prairie Center Drive, Eden Prairie, MN 55344. Phone: +19529950303. Website: https://www.mattressfirm.com/en-us/stores/mn/eden-prairie/080015/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-eden-prairie.json",
+   "address": {
+    "streetAddress": "335 Prairie Center Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8551302,
+    "lon": -93.4197732
+   },
+   "phone": "+19529950303",
+   "website": "https://www.mattressfirm.com/en-us/stores/mn/eden-prairie/080015/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/44994116",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "mattress-firm-eden-prairie-w47230083",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Eden Prairie, MN.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-eden-prairie-w47230083/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-eden-prairie-w47230083.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8544684,
+    "lon": -93.4302961
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47230083",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "keyword": "shoe repair minneapolis mn",
+ "slug": "shoe-repair-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "shoe repair",
+ "query": "Who are the best shoe repair providers in Minneapolis, MN?",
+ "matches": [
+  "shoe repair in Minneapolis, MN",
+  "shoe repair near me (Minneapolis, MN)",
+  "best shoe repair Minneapolis, MN",
+  "top rated shoe repair Minneapolis, MN",
+  "affordable shoe repair Minneapolis, MN",
+  "emergency shoe repair Minneapolis, MN"
+ ],
+ "answer": "The top unpaid shoe repair listing for Minneapolis, MN is Old World Cobbler Shoe Leather (a shoe repair in Minneapolis, MN at 3015 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128252266. Website: https://oldworldcobbler.wordpress.com/). 4 shoe repair businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "old-world-cobbler-shoe-leather-minneapolis",
+   "name": "Old World Cobbler Shoe Leather",
+   "summary": "Old World Cobbler Shoe Leather is a shoe repair in Minneapolis, MN at 3015 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128252266. Website: https://oldworldcobbler.wordpress.com/.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/old-world-cobbler-shoe-leather-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/old-world-cobbler-shoe-leather-minneapolis.json",
+   "address": {
+    "streetAddress": "3015 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9477322,
+    "lon": -93.2879025
+   },
+   "phone": "+16128252266",
+   "website": "https://oldworldcobbler.wordpress.com/",
+   "opening_hours": "\"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5294111680",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "lees-shoe-and-leather-repair-minneapolis",
+   "name": "Lee's Shoe & Leather Repair",
+   "summary": "Lee's Shoe & Leather Repair is a shoe repair in Minneapolis, MN at 815 West Lake Street, Minneapolis, MN 55408. Phone: +16128242040.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lees-shoe-and-leather-repair-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lees-shoe-and-leather-repair-minneapolis.json",
+   "address": {
+    "streetAddress": "815 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482322,
+    "lon": -93.2901305
+   },
+   "phone": "+16128242040",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3289545861",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "napoleons-shoe-shine-minneapolis",
+   "name": "Napoleon's Shoe Shine",
+   "summary": "Napoleon's Shoe Shine is a shoe repair in Minneapolis, MN.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/napoleons-shoe-shine-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/napoleons-shoe-shine-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9779112,
+    "lon": -93.2701904
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13451758102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "skyway-shoe-repair-minneapolis",
+   "name": "Skyway Shoe Repair",
+   "summary": "Skyway Shoe Repair is a shoe repair in Minneapolis, MN.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/skyway-shoe-repair-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/skyway-shoe-repair-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9750967,
+    "lon": -93.2727561
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410756368",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

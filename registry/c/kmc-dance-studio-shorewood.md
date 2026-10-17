@@ -1,0 +1,23 @@
+KMC Dance Studio is a dance studio in Shorewood, MN at 23470 Minnesota State Highway 7, Shorewood, MN. Phone: +19522402319. Website: https://www.engagephysicaltherapymn.com/.
+
+# KMC Dance Studio
+
+- Category: dance studio
+- Services: dance studio
+- Address: 23470 Minnesota State Highway 7, Shorewood, MN
+- City: Shorewood
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.8927294, -93.5796246
+- Phone: +19522402319
+- Website: https://www.engagephysicaltherapymn.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kmc-dance-studio-shorewood/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kmc-dance-studio-shorewood.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11219547734 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

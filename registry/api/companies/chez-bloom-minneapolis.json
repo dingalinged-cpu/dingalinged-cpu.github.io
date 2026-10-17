@@ -1,0 +1,56 @@
+{
+ "slug": "chez-bloom-minneapolis",
+ "name": "Chez Bloom",
+ "categories": [
+  "florist"
+ ],
+ "keywords": [
+  "florist",
+  "florist minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "florist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4310 Bryant Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55409",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55409",
+ "geo": {
+  "lat": 44.924604,
+  "lon": -93.2910004
+ },
+ "phone": "+16128222003",
+ "website": "https://www.chezbloom.com/",
+ "schema_type": "Florist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5287810998",
+ "osm": {
+  "type": "node",
+  "id": 5287810998,
+  "tags_used": {
+   "shop": "florist"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/chez-bloom-minneapolis/",
+ "summary": "Chez Bloom is a florist in Minneapolis, MN at 4310 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16128222003. Website: https://www.chezbloom.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

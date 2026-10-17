@@ -1,0 +1,62 @@
+{
+ "slug": "france-44-minneapolis",
+ "name": "France 44",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4351 France Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55410",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55410",
+ "geo": {
+  "lat": 44.9229057,
+  "lon": -93.3286959
+ },
+ "phone": "+16129253252",
+ "website": "https://www.france44.com/",
+ "email": "hello@france44.com",
+ "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+ "social": [
+  "https://www.instagram.com/france_44/",
+  "https://www.linkedin.com/company/france-44/"
+ ],
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/102079791",
+ "osm": {
+  "type": "way",
+  "id": 102079791,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/france-44-minneapolis/",
+ "summary": "France 44 is a liquor store in Minneapolis, MN at 4351 France Avenue South, Minneapolis, MN 55410. Phone: +16129253252. Website: https://www.france44.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

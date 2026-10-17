@@ -1,0 +1,23 @@
+Shin's Hair Salon is a hair salon in Minneapolis, MN at 211 Southeast Oak Street, Minneapolis, MN 55414. Phone: +16123311260.
+
+# Shin's Hair Salon
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 211 Southeast Oak Street, Minneapolis, MN 55414
+- City: Minneapolis
+- State: MN
+- ZIP: 55414
+- Coordinates: 44.9743262, -93.2266945
+- Phone: +16123311260
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/shins-hair-salon-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/shins-hair-salon-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6353507501 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

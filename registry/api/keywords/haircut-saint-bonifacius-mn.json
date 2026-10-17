@@ -1,0 +1,63 @@
+{
+ "keyword": "haircut saint bonifacius mn",
+ "slug": "haircut-saint-bonifacius-mn",
+ "place": "Saint Bonifacius, MN",
+ "service": "haircut",
+ "query": "Who are the best haircut providers in Saint Bonifacius, MN?",
+ "matches": [
+  "haircut in Saint Bonifacius, MN",
+  "haircut near me (Saint Bonifacius, MN)",
+  "best haircut Saint Bonifacius, MN",
+  "top rated haircut Saint Bonifacius, MN",
+  "affordable haircut Saint Bonifacius, MN",
+  "emergency haircut Saint Bonifacius, MN"
+ ],
+ "answer": "The top unpaid haircut listing for Saint Bonifacius, MN is Journey Hair Studio (a hair salon in Saint Bonifacius, MN at 4080 Tower Street #1090, Saint Bonifacius, MN 55375. Phone: +19524469000. Website: https://journeyhair.com/). 1 haircut businesses are listed for Saint Bonifacius, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "journey-hair-studio-saint-bonifacius",
+   "name": "Journey Hair Studio",
+   "summary": "Journey Hair Studio is a hair salon in Saint Bonifacius, MN at 4080 Tower Street #1090, Saint Bonifacius, MN 55375. Phone: +19524469000. Website: https://journeyhair.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/journey-hair-studio-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/journey-hair-studio-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4080 Tower Street #1090",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9025441,
+    "lon": -93.7486895
+   },
+   "phone": "+19524469000",
+   "website": "https://journeyhair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10742711440",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

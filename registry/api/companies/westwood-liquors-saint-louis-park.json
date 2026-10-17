@@ -1,0 +1,55 @@
+{
+ "slug": "westwood-liquors-saint-louis-park",
+ "name": "Westwood Liquors",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2304 Louisiana Avenue South",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55426",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55426",
+ "geo": {
+  "lat": 44.9591676,
+  "lon": -93.3717466
+ },
+ "phone": "+19525447878",
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/1786935177",
+ "osm": {
+  "type": "node",
+  "id": 1786935177,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/westwood-liquors-saint-louis-park/",
+ "summary": "Westwood Liquors is a liquor store in Saint Louis Park, MN at 2304 Louisiana Avenue South, Saint Louis Park, MN 55426. Phone: +19525447878.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

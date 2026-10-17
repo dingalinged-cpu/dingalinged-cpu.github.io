@@ -1,0 +1,63 @@
+{
+ "keyword": "heating and air golden valley mn",
+ "slug": "heating-and-air-golden-valley-mn",
+ "place": "Golden Valley, MN",
+ "service": "heating and air",
+ "query": "Who are the best heating and air providers in Golden Valley, MN?",
+ "matches": [
+  "heating and air in Golden Valley, MN",
+  "heating and air near me (Golden Valley, MN)",
+  "best heating and air Golden Valley, MN",
+  "top rated heating and air Golden Valley, MN",
+  "affordable heating and air Golden Valley, MN",
+  "emergency heating and air Golden Valley, MN"
+ ],
+ "answer": "The top unpaid heating and air listing for Golden Valley, MN is Flare Heating and Air Conditioning (a HVAC contractor in Golden Valley, MN at 9303 Plymouth Avenue North #104, Golden Valley, MN 55427. Phone: +17635421166. Website: https://www.flareheating.com/). 1 heating and air businesses are listed for Golden Valley, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "flare-heating-and-air-conditioning-golden-valley",
+   "name": "Flare Heating and Air Conditioning",
+   "summary": "Flare Heating and Air Conditioning is a HVAC contractor in Golden Valley, MN at 9303 Plymouth Avenue North #104, Golden Valley, MN 55427. Phone: +17635421166. Website: https://www.flareheating.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flare-heating-and-air-conditioning-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flare-heating-and-air-conditioning-golden-valley.json",
+   "address": {
+    "streetAddress": "9303 Plymouth Avenue North #104",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55427",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55427",
+   "geo": {
+    "lat": 44.9925915,
+    "lon": -93.3984327
+   },
+   "phone": "+17635421166",
+   "website": "https://www.flareheating.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12751755439",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,760 @@
+{
+ "keyword": "dance studio",
+ "slug": "dance-studio",
+ "place": "the United States",
+ "service": "dance studio",
+ "query": "Who are the best dance studio providers in the United States?",
+ "matches": [
+  "dance studio in the United States",
+  "dance studio near me (the United States)",
+  "best dance studio the United States",
+  "top rated dance studio the United States",
+  "affordable dance studio the United States",
+  "emergency dance studio the United States"
+ ],
+ "answer": "The top unpaid dance studio listing for the United States is St. Paul Ballet (a dance studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516901588. Website: https://spballet.org/). 23 dance studio businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "st-paul-ballet-saint-paul",
+   "name": "St. Paul Ballet",
+   "summary": "St. Paul Ballet is a dance studio in Saint Paul, MN at 655 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516901588. Website: https://spballet.org/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-paul-ballet-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-paul-ballet-saint-paul.json",
+   "address": {
+    "streetAddress": "655 Fairview Avenue North",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9611427,
+    "lon": -93.1776862
+   },
+   "phone": "+16516901588",
+   "website": "https://spballet.org/",
+   "opening_hours": "Mo-Fr 16:00-19:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196417959",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "tu-dance-center-saint-paul",
+   "name": "TU Dance Center",
+   "summary": "TU Dance Center is a dance studio in Saint Paul, MN at 2121 University Avenue, Saint Paul, MN 55114. Phone: +16126051925. Website: https://www.tudance.org/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tu-dance-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tu-dance-center-saint-paul.json",
+   "address": {
+    "streetAddress": "2121 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9607207,
+    "lon": -93.1883569
+   },
+   "phone": "+16126051925",
+   "website": "https://www.tudance.org/",
+   "opening_hours": "Mo-Fr 09:30-21:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176417225",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "four-seasons-dance-studio-minneapolis",
+   "name": "Four Seasons Dance Studio",
+   "summary": "Four Seasons Dance Studio is a dance studio in Minneapolis, MN at 1637 Hennepin Avenue, Minneapolis, MN 55403. Phone: +16123420902. Website: https://fourseasonsdance.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/four-seasons-dance-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/four-seasons-dance-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "1637 Hennepin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9715617,
+    "lon": -93.2858787
+   },
+   "phone": "+16123420902",
+   "website": "https://fourseasonsdance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13771228995",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "kmc-dance-robbinsdale",
+   "name": "KMC Dance",
+   "summary": "KMC Dance is a dance studio in Robbinsdale, MN at 4035 West Broadway Avenue, Robbinsdale, MN 55422. Phone: +17635332623. Website: https://kmcdance.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kmc-dance-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kmc-dance-robbinsdale.json",
+   "address": {
+    "streetAddress": "4035 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0281827,
+    "lon": -93.3362623
+   },
+   "phone": "+17635332623",
+   "website": "https://kmcdance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1214437000",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "metropolitan-ballroom-and-clubroom-golden-valley",
+   "name": "Metropolitan Ballroom & Clubroom",
+   "summary": "Metropolitan Ballroom & Clubroom is a dance studio in Golden Valley, MN at 5418 Wayzata Boulevard, Golden Valley, MN 55416. Phone: +16122384444. Website: https://damicocatering.com/venues/metropolitan/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metropolitan-ballroom-and-clubroom-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metropolitan-ballroom-and-clubroom-golden-valley.json",
+   "address": {
+    "streetAddress": "5418 Wayzata Boulevard",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9713613,
+    "lon": -93.3486018
+   },
+   "phone": "+16122384444",
+   "website": "https://damicocatering.com/venues/metropolitan/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/44970409",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "metropolitan-dance-alliance-shakopee",
+   "name": "Metropolitan Dance Alliance",
+   "summary": "Metropolitan Dance Alliance is a dance studio in Shakopee, MN at 1159 Shakopee Town Square, Shakopee, MN 55379. Phone: +19524452330. Website: https://metropolitandancealliance.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metropolitan-dance-alliance-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metropolitan-dance-alliance-shakopee.json",
+   "address": {
+    "streetAddress": "1159 Shakopee Town Square",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7841645,
+    "lon": -93.5545624
+   },
+   "phone": "+19524452330",
+   "website": "https://metropolitandancealliance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8948775281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "straightline-dance-fitness-minneapolis",
+   "name": "Straightline Dance Fitness",
+   "summary": "Straightline Dance Fitness is a dance studio in Minneapolis, MN at 34 13th Avenue Northeast ##104C, Minneapolis, MN 55413. Phone: +16123854218. Website: https://www.straightlinedancefitness.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/straightline-dance-fitness-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/straightline-dance-fitness-minneapolis.json",
+   "address": {
+    "streetAddress": "34 13th Avenue Northeast ##104C",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 44.9992338,
+    "lon": -93.2716719
+   },
+   "phone": "+16123854218",
+   "website": "https://www.straightlinedancefitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4639574687",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "kmc-dance-studio-shorewood",
+   "name": "KMC Dance Studio",
+   "summary": "KMC Dance Studio is a dance studio in Shorewood, MN at 23470 Minnesota State Highway 7, Shorewood, MN. Phone: +19522402319. Website: https://www.engagephysicaltherapymn.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kmc-dance-studio-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kmc-dance-studio-shorewood.json",
+   "address": {
+    "streetAddress": "23470 Minnesota State Highway 7",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8927294,
+    "lon": -93.5796246
+   },
+   "phone": "+19522402319",
+   "website": "https://www.engagephysicaltherapymn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11219547734",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "arthur-murray-minneapolis",
+   "name": "Arthur Murray",
+   "summary": "Arthur Murray is a dance studio in Minneapolis, MN at 5041 France Avenue South, Minneapolis, MN 55410. Website: https://arthurmurrayminneapolis.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arthur-murray-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arthur-murray-minneapolis.json",
+   "address": {
+    "streetAddress": "5041 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9113646,
+    "lon": -93.3288645
+   },
+   "website": "https://arthurmurrayminneapolis.com/",
+   "opening_hours": "Mo-Fr 09:30-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "arthur-murray-dance-center-saint-paul",
+   "name": "Arthur Murray Dance Center",
+   "summary": "Arthur Murray Dance Center is a dance studio in Saint Paul, MN at 534 Selby Avenue, Saint Paul, MN 55102. Phone: +16512273200.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arthur-murray-dance-center-saint-paul.json",
+   "address": {
+    "streetAddress": "534 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9464733,
+    "lon": -93.1227681
+   },
+   "phone": "+16512273200",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3134022835",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "medina-entertainment-center-medina",
+   "name": "Medina Entertainment Center",
+   "summary": "Medina Entertainment Center is a dance studio in Medina, MN. Website: https://www.medinaentertainment.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/medina-entertainment-center-medina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/medina-entertainment-center-medina.json",
+   "address": {
+    "addressLocality": "Medina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Medina",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0455039,
+    "lon": -93.5344889
+   },
+   "website": "https://www.medinaentertainment.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/107287393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "costa-rica-ball-room-hopkins",
+   "name": "Costa Rica Ball Room",
+   "summary": "Costa Rica Ball Room is a dance studio in Hopkins, MN at 816 Mainstreet, Hopkins, MN 55343.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/costa-rica-ball-room-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/costa-rica-ball-room-hopkins.json",
+   "address": {
+    "streetAddress": "816 Mainstreet",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9243019,
+    "lon": -93.4109413
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8691000319",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "dancexchange-edina",
+   "name": "DanceXchange",
+   "summary": "DanceXchange is a dance studio in Edina, MN at 6885 Washington Avenue South, Edina, MN 55439.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dancexchange-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dancexchange-edina.json",
+   "address": {
+    "streetAddress": "6885 Washington Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55439",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55439",
+   "geo": {
+    "lat": 44.8785502,
+    "lon": -93.3985632
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8576731281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "jet-dance-centre-rogers",
+   "name": "Jeté Dance Centre",
+   "summary": "Jeté Dance Centre is a dance studio in Rogers, MN at 14165 James Road #118, Rogers, MN 55374.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jet-dance-centre-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jet-dance-centre-rogers.json",
+   "address": {
+    "streetAddress": "14165 James Road #118",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.2116858,
+    "lon": -93.5508649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10724327876",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "qc-dance-blaine",
+   "name": "QC Dance",
+   "summary": "QC Dance is a dance studio in Blaine, MN at 9967 Ulysses Street Northeast, Blaine, MN 55434.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/qc-dance-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/qc-dance-blaine.json",
+   "address": {
+    "streetAddress": "9967 Ulysses Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1511334,
+    "lon": -93.2362682
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/351202113",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "momentum-dance-project-eagan",
+   "name": "Momentum Dance Project",
+   "summary": "Momentum Dance Project is a dance studio in Eagan, MN at 3410 Federal Drive, Eagan, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/momentum-dance-project-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/momentum-dance-project-eagan.json",
+   "address": {
+    "streetAddress": "3410 Federal Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8329018,
+    "lon": -93.1718812
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134351517",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "rhythm-and-shoes-south-saint-paul",
+   "name": "rhythm and shoes",
+   "summary": "rhythm and shoes is a dance studio in South Saint Paul, MN at 1515, South Saint Paul, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rhythm-and-shoes-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rhythm-and-shoes-south-saint-paul.json",
+   "address": {
+    "streetAddress": "1515",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8650798,
+    "lon": -93.0394416
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217026273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "ballare-teatro-minneapolis",
+   "name": "Ballare Teatro",
+   "summary": "Ballare Teatro is a dance studio in Minneapolis, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ballare-teatro-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ballare-teatro-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9253799,
+    "lon": -93.2174493
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/568319644",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "dance-factory-circle-pines",
+   "name": "Dance Factory",
+   "summary": "Dance Factory is a dance studio in Circle Pines, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dance-factory-circle-pines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dance-factory-circle-pines.json",
+   "address": {
+    "addressLocality": "Circle Pines",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Circle Pines",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1409299,
+    "lon": -93.1619317
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1341145076",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "metro-dance-center-shoreview",
+   "name": "Metro Dance Center",
+   "summary": "Metro Dance Center is a dance studio in Shoreview, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-dance-center-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-dance-center-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0809887,
+    "lon": -93.146022
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12338849142",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "rhythm-and-shoes-inver-grove-heights",
+   "name": "Rhythm and Shoes",
+   "summary": "Rhythm and Shoes is a dance studio in Inver Grove Heights, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rhythm-and-shoes-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rhythm-and-shoes-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8175386,
+    "lon": -93.0459187
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "spectrum-dance-saint-paul",
+   "name": "Spectrum Dance",
+   "summary": "Spectrum Dance is a dance studio in Saint Paul, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spectrum-dance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spectrum-dance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9402099,
+    "lon": -93.1413943
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920721915",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "tapestry-folk-dance-center-minneapolis",
+   "name": "Tapestry Folk Dance Center",
+   "summary": "Tapestry Folk Dance Center is a dance studio in Minneapolis, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tapestry-folk-dance-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tapestry-folk-dance-center-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9346291,
+    "lon": -93.2247928
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/147111081",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

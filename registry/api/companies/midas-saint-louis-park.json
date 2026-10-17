@@ -1,0 +1,65 @@
+{
+ "slug": "midas-saint-louis-park",
+ "name": "Midas",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair saint louis park mn",
+  "mechanic saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4200 Excelsior Boulevard",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9371757,
+  "lon": -93.3339484
+ },
+ "phone": "+19526792142",
+ "website": "https://www.midas.com/minneapolis/store.aspx?shopnum=2196&dmanum=576001",
+ "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-14:00; PH closed",
+ "brand": "Midas",
+ "wikidata": "Q3312613",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/692875250",
+ "osm": {
+  "type": "way",
+  "id": 692875250,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/midas-saint-louis-park/",
+ "summary": "Midas is an auto repair shop in Saint Louis Park, MN at 4200 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19526792142. Website: https://www.midas.com/minneapolis/store.aspx?shopnum=2196&dmanum=576001.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

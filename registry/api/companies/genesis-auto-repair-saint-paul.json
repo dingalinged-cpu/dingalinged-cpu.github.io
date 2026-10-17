@@ -1,0 +1,60 @@
+{
+ "slug": "genesis-auto-repair-saint-paul",
+ "name": "Genesis Auto Repair",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair saint paul mn",
+  "mechanic saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1324 Arcade Street",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9812909,
+  "lon": -93.0656415
+ },
+ "phone": "+16514535790",
+ "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/605096320",
+ "osm": {
+  "type": "way",
+  "id": 605096320,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/genesis-auto-repair-saint-paul/",
+ "summary": "Genesis Auto Repair is an auto repair shop in Saint Paul, MN at 1324 Arcade Street, Saint Paul, MN. Phone: +16514535790.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

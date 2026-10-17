@@ -1,0 +1,54 @@
+{
+ "slug": "family-first-home-healthcare-saint-paul",
+ "name": "Family First Home Healthcare",
+ "categories": [
+  "assisted living"
+ ],
+ "keywords": [
+  "assisted living",
+  "assisted living saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "assisted living",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1261 Payne Avenue #102",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9793646,
+  "lon": -93.0737129
+ },
+ "phone": "+16513400825",
+ "website": "https://familyfirstmn.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11963426977",
+ "osm": {
+  "type": "node",
+  "id": 11963426977,
+  "tags_used": {
+   "amenity": "social_facility"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/family-first-home-healthcare-saint-paul/",
+ "summary": "Family First Home Healthcare is an assisted living facility in Saint Paul, MN at 1261 Payne Avenue #102, Saint Paul, MN. Phone: +16513400825. Website: https://familyfirstmn.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,1909 @@
+{
+ "keyword": "lawyer",
+ "slug": "lawyer",
+ "place": "the United States",
+ "service": "lawyer",
+ "query": "Who are the best lawyer providers in the United States?",
+ "matches": [
+  "lawyer in the United States",
+  "lawyer near me (the United States)",
+  "best lawyer the United States",
+  "top rated lawyer the United States",
+  "affordable lawyer the United States",
+  "emergency lawyer the United States"
+ ],
+ "answer": "The top unpaid lawyer listing for the United States is Arneson & Geffen, PLLC (a lawyer in Minneapolis, MN at 333 North Washington Avenue ##405, Minneapolis, MN 55401. Phone: +16124658581. Website: https://www.arnesongeffen.com/). 57 lawyer businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "arneson-and-geffen-pllc-minneapolis",
+   "name": "Arneson & Geffen, PLLC",
+   "summary": "Arneson & Geffen, PLLC is a lawyer in Minneapolis, MN at 333 North Washington Avenue ##405, Minneapolis, MN 55401. Phone: +16124658581. Website: https://www.arnesongeffen.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arneson-and-geffen-pllc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arneson-and-geffen-pllc-minneapolis.json",
+   "address": {
+    "streetAddress": "333 North Washington Avenue ##405",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9843277,
+    "lon": -93.2738713
+   },
+   "phone": "+16124658581",
+   "website": "https://www.arnesongeffen.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12976840253",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "ferdinand-peters-esq-law-firm-saint-paul",
+   "name": "Ferdinand Peters, Esq. Law Firm",
+   "summary": "Ferdinand Peters, Esq. Law Firm is a lawyer in Saint Paul, MN at 842 Raymond Avenue, Saint Paul, MN 55114. Phone: +16516476250. Website: https://www.ferdlaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ferdinand-peters-esq-law-firm-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ferdinand-peters-esq-law-firm-saint-paul.json",
+   "address": {
+    "streetAddress": "842 Raymond Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9668936,
+    "lon": -93.1976008
+   },
+   "phone": "+16516476250",
+   "website": "https://www.ferdlaw.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173830866",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "galena-law-firm-p-a-saint-paul",
+   "name": "Galena Law Firm, P.A.",
+   "summary": "Galena Law Firm, P.A. is a lawyer in Saint Paul, MN at 4886 North Highway 61, Saint Paul, MN 55110. Phone: +16514296555. Website: https://galenalaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galena-law-firm-p-a-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galena-law-firm-p-a-saint-paul.json",
+   "address": {
+    "streetAddress": "4886 North Highway 61",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.0890728,
+    "lon": -93.0070935
+   },
+   "phone": "+16514296555",
+   "website": "https://galenalaw.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6292782920",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "johnson-turner-legal-minneapolis",
+   "name": "Johnson/Turner Legal",
+   "summary": "Johnson/Turner Legal is a lawyer in Minneapolis, MN at 100 S 5th St, Suite #1900, Minneapolis, MN 55402. Phone: +16513719117. Website: https://www.johnsonturner.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-turner-legal-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-turner-legal-minneapolis.json",
+   "address": {
+    "streetAddress": "100 S 5th St, Suite #1900",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55402",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55402",
+   "geo": {
+    "lat": 44.9783358,
+    "lon": -93.2686536
+   },
+   "phone": "+16513719117",
+   "website": "https://www.johnsonturner.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10026992701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "johnson-turner-legal-wayzata-n10028756222",
+   "name": "Johnson/Turner Legal",
+   "summary": "Johnson/Turner Legal is a lawyer in Wayzata, MN at 1155 Wayzata Boulevard #Suite #10, Wayzata, MN 55391. Phone: +16513719117. Website: https://www.johnsonturner.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-turner-legal-wayzata-n10028756222/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-turner-legal-wayzata-n10028756222.json",
+   "address": {
+    "streetAddress": "1155 Wayzata Boulevard #Suite #10",
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "postalCode": "55391",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "zip": "55391",
+   "geo": {
+    "lat": 44.9719778,
+    "lon": -93.4997452
+   },
+   "phone": "+16513719117",
+   "website": "https://www.johnsonturner.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10028756222",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "josh-johnson-law-minneapolis",
+   "name": "Josh Johnson Law",
+   "summary": "Josh Johnson Law is a lawyer in Minneapolis, MN at 310 4th Avenue South #7000, Minneapolis, MN 55415. Phone: +16127301738. Website: https://joshjohnsonlaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/josh-johnson-law-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/josh-johnson-law-minneapolis.json",
+   "address": {
+    "streetAddress": "310 4th Avenue South #7000",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55415",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55415",
+   "geo": {
+    "lat": 44.9783153,
+    "lon": -93.2639502
+   },
+   "phone": "+16127301738",
+   "website": "https://joshjohnsonlaw.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12993848296",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "justicia-law-minneapolis",
+   "name": "Justicia Law",
+   "summary": "Justicia Law is a lawyer in Minneapolis, MN at 3105 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16122841484. Website: https://justicialawmn.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/justicia-law-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/justicia-law-minneapolis.json",
+   "address": {
+    "streetAddress": "3105 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9463021,
+    "lon": -93.2979993
+   },
+   "phone": "+16122841484",
+   "website": "https://justicialawmn.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/88464294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "osterbauer-law-firm-minneapolis",
+   "name": "Osterbauer Law Firm",
+   "summary": "Osterbauer Law Firm is a lawyer in Minneapolis, MN at 404 3rd Avenue North #201, Minneapolis, MN 55401. Phone: +16123343434. Website: https://www.osterbauerlawfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/osterbauer-law-firm-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/osterbauer-law-firm-minneapolis.json",
+   "address": {
+    "streetAddress": "404 3rd Avenue North #201",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9827946,
+    "lon": -93.2753488
+   },
+   "phone": "+16123343434",
+   "website": "https://www.osterbauerlawfirm.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6895557095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "robert-d-butterbrodt-attorney-at-law-saint-paul",
+   "name": "Robert D. Butterbrodt, Attorney at Law",
+   "summary": "Robert D. Butterbrodt, Attorney at Law is a lawyer in Saint Paul, MN at 1 West Water Street #275, Saint Paul, MN 55107. Phone: +16512921000. Website: https://robertdbutterbrodt-attorneyatlaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/robert-d-butterbrodt-attorney-at-law-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/robert-d-butterbrodt-attorney-at-law-saint-paul.json",
+   "address": {
+    "streetAddress": "1 West Water Street #275",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55107",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55107",
+   "geo": {
+    "lat": 44.9398967,
+    "lon": -93.0905296
+   },
+   "phone": "+16512921000",
+   "website": "https://robertdbutterbrodt-attorneyatlaw.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10910429440",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "scott-hespen-law-pllc-saint-paul",
+   "name": "Scott + Hespen Law, PLLC",
+   "summary": "Scott + Hespen Law, PLLC is a lawyer in Saint Paul, MN at 2356 University Avenue West ##400, Saint Paul, MN 55114. Phone: +16519681457. Website: https://www.scotthespenlaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scott-hespen-law-pllc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scott-hespen-law-pllc-saint-paul.json",
+   "address": {
+    "streetAddress": "2356 University Avenue West ##400",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9632042,
+    "lon": -93.197214
+   },
+   "phone": "+16519681457",
+   "website": "https://www.scotthespenlaw.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6456665446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "student-legal-service-minneapolis",
+   "name": "Student Legal Service",
+   "summary": "Student Legal Service is a lawyer in Minneapolis, MN at 219 19th Avenue South ##160, Minneapolis, MN 55455. Phone: +16126241001. Website: https://sls.umn.edu/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/student-legal-service-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/student-legal-service-minneapolis.json",
+   "address": {
+    "streetAddress": "219 19th Avenue South ##160",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55455",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55455",
+   "geo": {
+    "lat": 44.9724708,
+    "lon": -93.2433761
+   },
+   "phone": "+16126241001",
+   "website": "https://sls.umn.edu/",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6433139157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "the-cooper-law-firm-chartered-minneapolis",
+   "name": "The Cooper Law Firm, Chartered",
+   "summary": "The Cooper Law Firm, Chartered is a lawyer in Minneapolis, MN at 1201 Yale Place #A100, Minneapolis, MN 55403. Phone: +16123383533. Website: https://www.stephencooperlawfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-cooper-law-firm-chartered-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-cooper-law-firm-chartered-minneapolis.json",
+   "address": {
+    "streetAddress": "1201 Yale Place #A100",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9722731,
+    "lon": -93.2788711
+   },
+   "phone": "+16123383533",
+   "website": "https://www.stephencooperlawfirm.com/",
+   "opening_hours": "Mo-Fr 08:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6604331345",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "theresia-a-crisler-attorney-at-law-minnetonka",
+   "name": "Theresia A. Crisler Attorney At Law",
+   "summary": "Theresia A. Crisler Attorney At Law is a lawyer in Minnetonka, MN at 10925 Wayzata Boulevard #304, Minnetonka, MN 55305. Phone: +19526575208. Website: https://tacrislerfamilyandprobatelaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/theresia-a-crisler-attorney-at-law-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/theresia-a-crisler-attorney-at-law-minnetonka.json",
+   "address": {
+    "streetAddress": "10925 Wayzata Boulevard #304",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9704863,
+    "lon": -93.4173476
+   },
+   "phone": "+19526575208",
+   "website": "https://tacrislerfamilyandprobatelaw.com/",
+   "opening_hours": "Mo-Fr 09:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11393565662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "appellate-public-defender-saint-paul",
+   "name": "Appellate Public Defender",
+   "summary": "Appellate Public Defender is a lawyer in Saint Paul, MN at 540 Fairview Avenue North ##300, Saint Paul, MN 55104. Phone: +16512016700. Website: https://www.mncourts.gov/CourtOfAppeals/FAQAffordAppeal.aspx.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/appellate-public-defender-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/appellate-public-defender-saint-paul.json",
+   "address": {
+    "streetAddress": "540 Fairview Avenue North ##300",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9574508,
+    "lon": -93.1767948
+   },
+   "phone": "+16512016700",
+   "website": "https://www.mncourts.gov/CourtOfAppeals/FAQAffordAppeal.aspx",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7202339972",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "brazil-sweeney-law-group-minneapolis",
+   "name": "Brazil Sweeney Law Group",
+   "summary": "Brazil Sweeney Law Group is a lawyer in Minneapolis, MN at 1622 West Lake Street, Minneapolis, MN 55408. Phone: +16128746109. Website: https://djbrazil-law.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brazil-sweeney-law-group-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brazil-sweeney-law-group-minneapolis.json",
+   "address": {
+    "streetAddress": "1622 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9485238,
+    "lon": -93.3031375
+   },
+   "phone": "+16128746109",
+   "website": "https://djbrazil-law.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6450215743",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "gobena-and-associates-saint-paul",
+   "name": "Gobena & Associates",
+   "summary": "Gobena & Associates is a lawyer in Saint Paul, MN at 2147 University Avenue, Saint Paul, MN 55114. Phone: +16516410931. Website: https://www.gobena-law.com/blog/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gobena-and-associates-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gobena-and-associates-saint-paul.json",
+   "address": {
+    "streetAddress": "2147 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9609147,
+    "lon": -93.1889438
+   },
+   "phone": "+16516410931",
+   "website": "https://www.gobena-law.com/blog/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176417219",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "goldstein-law-pllc-minneapolis",
+   "name": "Goldstein Law, PLLC",
+   "summary": "Goldstein Law, PLLC is a lawyer in Minneapolis, MN at 2550 Blaisdell Avenue South, Minneapolis, MN 55404. Phone: +16129771040. Website: https://www.brucegoldsteinlaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goldstein-law-pllc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goldstein-law-pllc-minneapolis.json",
+   "address": {
+    "streetAddress": "2550 Blaisdell Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9557114,
+    "lon": -93.2799556
+   },
+   "phone": "+16129771040",
+   "website": "https://www.brucegoldsteinlaw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619562335",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "keegan-law-office-minneapolis",
+   "name": "Keegan Law Office",
+   "summary": "Keegan Law Office is a lawyer in Minneapolis, MN at 1622 West Lake Street, Minneapolis, MN 55408. Phone: +16125843834. Website: https://www.keeganlawoffice.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/keegan-law-office-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/keegan-law-office-minneapolis.json",
+   "address": {
+    "streetAddress": "1622 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9485237,
+    "lon": -93.3031142
+   },
+   "phone": "+16125843834",
+   "website": "https://www.keeganlawoffice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12865293475",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "kelly-and-lemmons-p-a-saint-paul",
+   "name": "Kelly & Lemmons, P.A.",
+   "summary": "Kelly & Lemmons, P.A. is a lawyer in Saint Paul, MN at 2350 Wycliff Street ##200, Saint Paul, MN 55114. Phone: +16512243781. Website: https://www.kellyandlemmons.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kelly-and-lemmons-p-a-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kelly-and-lemmons-p-a-saint-paul.json",
+   "address": {
+    "streetAddress": "2350 Wycliff Street ##200",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9693491,
+    "lon": -93.1962278
+   },
+   "phone": "+16512243781",
+   "website": "https://www.kellyandlemmons.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267047986",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "legal-aid-minneapolis",
+   "name": "Legal Aid",
+   "summary": "Legal Aid is a lawyer in Minneapolis, MN at 111 North 5th Street #402, Minneapolis, MN 55403. Phone: +16123328151. Website: https://www.centralmnlegal.org/contact/minneapolis/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/legal-aid-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/legal-aid-minneapolis.json",
+   "address": {
+    "streetAddress": "111 North 5th Street #402",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9806287,
+    "lon": -93.2743094
+   },
+   "phone": "+16123328151",
+   "website": "https://www.centralmnlegal.org/contact/minneapolis/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12870055617",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "madia-law-llc-minneapolis",
+   "name": "Madia Law LLC",
+   "summary": "Madia Law LLC is a lawyer in Minneapolis, MN. Phone: +16123492729. Website: https://madialaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/madia-law-llc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/madia-law-llc-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.975848,
+    "lon": -93.2721135
+   },
+   "phone": "+16123492729",
+   "website": "https://madialaw.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00; Sa-Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11676404426",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "margolis-law-firm-saint-louis-park",
+   "name": "Margolis Law Firm",
+   "summary": "Margolis Law Firm is a lawyer in Saint Louis Park, MN at 4901 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19522302700. Website: https://margolislawoffice.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/margolis-law-firm-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/margolis-law-firm-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4901 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9322394,
+    "lon": -93.3426573
+   },
+   "phone": "+19522302700",
+   "website": "https://margolislawoffice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875204",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "newville-plc-minneapolis",
+   "name": "Newville PLC",
+   "summary": "Newville PLC is a lawyer in Minneapolis, MN. Phone: +16129002563. Website: https://www.newville.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/newville-plc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/newville-plc-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9762255,
+    "lon": -93.2760838
+   },
+   "phone": "+16129002563",
+   "website": "https://www.newville.com/",
+   "opening_hours": "Mo-Fr 07:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11254473766",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "ortner-and-bofferding-llc-saint-paul",
+   "name": "Ortner & Bofferding, LLC",
+   "summary": "Ortner & Bofferding, LLC is a lawyer in Saint Paul, MN at 842 Raymond Avenue ##200, Saint Paul, MN 55114. Phone: +16513212119. Website: https://www.oandb-llc.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ortner-and-bofferding-llc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ortner-and-bofferding-llc-saint-paul.json",
+   "address": {
+    "streetAddress": "842 Raymond Avenue ##200",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9668549,
+    "lon": -93.1974461
+   },
+   "phone": "+16513212119",
+   "website": "https://www.oandb-llc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173830871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "paul-baertschi-attorney-minneapolis",
+   "name": "Paul Baertschi Attorney",
+   "summary": "Paul Baertschi Attorney is a lawyer in Minneapolis, MN at 920 2nd Avenue South ##1540, Minneapolis, MN 55402. Phone: +16123375577. Website: https://www.tallenandbaertschi.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paul-baertschi-attorney-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paul-baertschi-attorney-minneapolis.json",
+   "address": {
+    "streetAddress": "920 2nd Avenue South ##1540",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55402",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55402",
+   "geo": {
+    "lat": 44.9732348,
+    "lon": -93.2720908
+   },
+   "phone": "+16123375577",
+   "website": "https://www.tallenandbaertschi.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6057647459",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "ratgen-personal-injury-law-saint-paul",
+   "name": "Ratgen Personal Injury Law",
+   "summary": "Ratgen Personal Injury Law is a lawyer in Saint Paul, MN at 1821 University Avenue #S-156, Saint Paul, MN 55104. Phone: +16516465840. Website: https://twincitiespersonalinjury.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ratgen-personal-injury-law-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ratgen-personal-injury-law-saint-paul.json",
+   "address": {
+    "streetAddress": "1821 University Avenue #S-156",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9565971,
+    "lon": -93.1763539
+   },
+   "phone": "+16516465840",
+   "website": "https://twincitiespersonalinjury.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7202339970",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "s-jankowski-law-office-maple-grove",
+   "name": "S Jankowski Law Office",
+   "summary": "S Jankowski Law Office is a lawyer in Maple Grove, MN at 11670 Fountains Drive North #200, Maple Grove, MN 55369. Phone: +17635873785. Website: https://sjankowskilaw.com/criminal-defense-attorney-maple-grove.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/s-jankowski-law-office-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/s-jankowski-law-office-maple-grove.json",
+   "address": {
+    "streetAddress": "11670 Fountains Drive North #200",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0940678,
+    "lon": -93.4265694
+   },
+   "phone": "+17635873785",
+   "website": "https://sjankowskilaw.com/criminal-defense-attorney-maple-grove",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6420282609",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "spangler-and-de-stefano-pllp-saint-paul",
+   "name": "Spangler And de Stefano, PLLP",
+   "summary": "Spangler And de Stefano, PLLP is a lawyer in Saint Paul, MN at 962 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16517762900. Website: https://spangleranddestefano.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spangler-and-de-stefano-pllp-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spangler-and-de-stefano-pllp-saint-paul.json",
+   "address": {
+    "streetAddress": "962 Saint Clair Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9334588,
+    "lon": -93.1412457
+   },
+   "phone": "+16517762900",
+   "website": "https://spangleranddestefano.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4535268218",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "the-ruth-law-team-saint-paul",
+   "name": "The Ruth Law Team",
+   "summary": "The Ruth Law Team is a lawyer in Saint Paul, MN at 842 Raymond Avenue ##200, Saint Paul, MN 55114. Phone: +16512222408. Website: https://getjustice.com/locations/st-paul-mn/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ruth-law-team-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ruth-law-team-saint-paul.json",
+   "address": {
+    "streetAddress": "842 Raymond Avenue ##200",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9667989,
+    "lon": -93.1975536
+   },
+   "phone": "+16512222408",
+   "website": "https://getjustice.com/locations/st-paul-mn/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173830873",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "vue-law-office-saint-paul",
+   "name": "Vue Law Office",
+   "summary": "Vue Law Office is a lawyer in Saint Paul, MN at 784 University Avenue West, Saint Paul, MN 55104. Phone: +16128391950. Website: https://www.vuelawfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vue-law-office-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vue-law-office-saint-paul.json",
+   "address": {
+    "streetAddress": "784 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9554632,
+    "lon": -93.1333126
+   },
+   "phone": "+16128391950",
+   "website": "https://www.vuelawfirm.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/156741081",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "dorsey-and-whitney-llp-minneapolis",
+   "name": "Dorsey & Whitney LLP",
+   "summary": "Dorsey & Whitney LLP is a lawyer in Minneapolis, MN at 50 South 6th Street #1500, Minneapolis, MN. Phone: +16123402600. Website: https://www.dorsey.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dorsey-and-whitney-llp-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dorsey-and-whitney-llp-minneapolis.json",
+   "address": {
+    "streetAddress": "50 South 6th Street #1500",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9784798,
+    "lon": -93.2718238
+   },
+   "phone": "+16123402600",
+   "website": "https://www.dorsey.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12872001189",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "mary-sherman-hill-new-brighton",
+   "name": "Mary Sherman Hill",
+   "summary": "Mary Sherman Hill is a lawyer in New Brighton, MN at 888 County Road D  West #301, New Brighton, MN. Phone: +16516330064. Website: https://maryshermanhilllaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mary-sherman-hill-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mary-sherman-hill-new-brighton.json",
+   "address": {
+    "streetAddress": "888 County Road D  West #301",
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0361533,
+    "lon": -93.2003593
+   },
+   "phone": "+16516330064",
+   "website": "https://maryshermanhilllaw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12968381348",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "prescott-pearson-and-tande-new-brighton",
+   "name": "Prescott, Pearson, & Tande",
+   "summary": "Prescott, Pearson, & Tande is a lawyer in New Brighton, MN at 443 #208, New Brighton, MN. Phone: +16516332757. Website: https://www.prescottpearson.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prescott-pearson-and-tande-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prescott-pearson-and-tande-new-brighton.json",
+   "address": {
+    "streetAddress": "443 #208",
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0564561,
+    "lon": -93.1975316
+   },
+   "phone": "+16516332757",
+   "website": "https://www.prescottpearson.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12899911682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "essien-law-office-pllc-saint-paul",
+   "name": "Essien Law Office, PLLC.",
+   "summary": "Essien Law Office, PLLC. is a lawyer in Saint Paul, MN at 2147 University Avenue, Saint Paul, MN 55114. Phone: +16513404310.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/essien-law-office-pllc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/essien-law-office-pllc-saint-paul.json",
+   "address": {
+    "streetAddress": "2147 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9607826,
+    "lon": -93.1889517
+   },
+   "phone": "+16513404310",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176417221",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "john-r-bertle-saint-paul",
+   "name": "John R. Bertle",
+   "summary": "John R. Bertle is a lawyer in Saint Paul, MN at 2334 University Avenue West ##190, Saint Paul, MN 55114. Phone: +16516450511.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/john-r-bertle-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/john-r-bertle-saint-paul.json",
+   "address": {
+    "streetAddress": "2334 University Avenue West ##190",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9628547,
+    "lon": -93.1961526
+   },
+   "phone": "+16516450511",
+   "opening_hours": "Mo-Fr 08:00-13:00,01:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7150081727",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "huffman-usem-crawford-greenberg-and-smith-p-a-golden-valley",
+   "name": "Huffman, Usem, Crawford, Greenberg & Smith P.A.",
+   "summary": "Huffman, Usem, Crawford, Greenberg & Smith P.A. is a lawyer in Golden Valley, MN. Phone: +17632006595. Website: https://www.hucglaw.com/?npcmp=dir%3Alocal%3A1378161%3A55422.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/huffman-usem-crawford-greenberg-and-smith-p-a-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/huffman-usem-crawford-greenberg-and-smith-p-a-golden-valley.json",
+   "address": {
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "geo": {
+    "lat": 44.983638,
+    "lon": -93.3441534
+   },
+   "phone": "+17632006595",
+   "website": "https://www.hucglaw.com/?npcmp=dir%3Alocal%3A1378161%3A55422",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11124443903",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "bucklet-and-jensen-white-bear-lake",
+   "name": "Bucklet & Jensen",
+   "summary": "Bucklet & Jensen is a lawyer in White Bear Lake, MN at 1257 Gun Club Road, White Bear Lake, MN 55110. Website: https://www.buckleyjensen.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bucklet-and-jensen-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bucklet-and-jensen-white-bear-lake.json",
+   "address": {
+    "streetAddress": "1257 Gun Club Road",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.080699,
+    "lon": -93.0497346
+   },
+   "website": "https://www.buckleyjensen.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1087016793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "de-leon-nestor-and-torres-minneapolis",
+   "name": "De Leon, Nestor & Torres",
+   "summary": "De Leon, Nestor & Torres is a lawyer in Minneapolis, MN at 3547 Cedar Avenue South, Minneapolis, MN 55407. Website: https://denestlaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/de-leon-nestor-and-torres-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/de-leon-nestor-and-torres-minneapolis.json",
+   "address": {
+    "streetAddress": "3547 Cedar Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9378969,
+    "lon": -93.2471015
+   },
+   "website": "https://denestlaw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/171839273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "hope-law-minneapolis",
+   "name": "Hope Law",
+   "summary": "Hope Law is a lawyer in Minneapolis, MN at 4999 France Avenue South #245, Minneapolis, MN 55410. Website: https://hopelawoffice.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hope-law-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hope-law-minneapolis.json",
+   "address": {
+    "streetAddress": "4999 France Avenue South #245",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9128174,
+    "lon": -93.3288285
+   },
+   "website": "https://hopelawoffice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "langemo-law-shakopee",
+   "name": "Langemo Law",
+   "summary": "Langemo Law is a lawyer in Shakopee, MN at 120 Fuller Street South #Suite 120, Shakopee, MN 55379. Phone: +19525560056.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/langemo-law-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/langemo-law-shakopee.json",
+   "address": {
+    "streetAddress": "120 Fuller Street South #Suite 120",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7981956,
+    "lon": -93.5283423
+   },
+   "phone": "+19525560056",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9025252358",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "lawhelpmn-saint-paul",
+   "name": "LawHelpMN",
+   "summary": "LawHelpMN is a lawyer in Saint Paul, MN at 2324 University Avenue West, Saint Paul, MN 55114. Website: https://www.lawhelpmn.org/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lawhelpmn-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lawhelpmn-saint-paul.json",
+   "address": {
+    "streetAddress": "2324 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9628739,
+    "lon": -93.1955815
+   },
+   "website": "https://www.lawhelpmn.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6456665447",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "mcclay-alton-attorneys-saint-paul",
+   "name": "McClay-Alton, Attorneys",
+   "summary": "McClay-Alton, Attorneys is a lawyer in Saint Paul, MN at 951 Grand Avenue, Saint Paul, MN 55105. Website: https://www.mcclay-alton.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcclay-alton-attorneys-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcclay-alton-attorneys-saint-paul.json",
+   "address": {
+    "streetAddress": "951 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9402406,
+    "lon": -93.140332
+   },
+   "website": "https://www.mcclay-alton.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/332905534",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "yaeger-and-jungbauer-barristers-white-bear-township",
+   "name": "Yaeger & Jungbauer Barristers",
+   "summary": "Yaeger & Jungbauer Barristers is a lawyer in White Bear Township, MN at 4601 Weston Woods Way, White Bear Township, MN 55127. Website: https://www.yjblaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yaeger-and-jungbauer-barristers-white-bear-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yaeger-and-jungbauer-barristers-white-bear-township.json",
+   "address": {
+    "streetAddress": "4601 Weston Woods Way",
+    "addressLocality": "White Bear Township",
+    "addressRegion": "MN",
+    "postalCode": "55127",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Township",
+   "state": "MN",
+   "zip": "55127",
+   "geo": {
+    "lat": 45.0796387,
+    "lon": -93.0650858
+   },
+   "website": "https://www.yjblaw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1085713643",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "bennerotte-and-associates-eagan",
+   "name": "Bennerotte and Associates",
+   "summary": "Bennerotte and Associates is a lawyer in Eagan, MN at 3085 Justice Way, Eagan, MN. Phone: +16515878423.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bennerotte-and-associates-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bennerotte-and-associates-eagan.json",
+   "address": {
+    "streetAddress": "3085 Justice Way",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8460114,
+    "lon": -93.1173017
+   },
+   "phone": "+16515878423",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1493664813",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "walsh-and-gaertner-saint-paul",
+   "name": "Walsh & Gaertner",
+   "summary": "Walsh & Gaertner is a lawyer in Saint Paul, MN at 24 4th Street East, Saint Paul, MN. Website: https://www.walsh-gaertner.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walsh-and-gaertner-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walsh-and-gaertner-saint-paul.json",
+   "address": {
+    "streetAddress": "24 4th Street East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9450568,
+    "lon": -93.0928618
+   },
+   "website": "https://www.walsh-gaertner.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/85632342",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "iverson-reuvers-law-firm-bloomington",
+   "name": "Iverson Reuvers Law Firm",
+   "summary": "Iverson Reuvers Law Firm is a lawyer in Bloomington, MN at 9321 Ensign Avenue South, Bloomington, MN 55438.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/iverson-reuvers-law-firm-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/iverson-reuvers-law-firm-bloomington.json",
+   "address": {
+    "streetAddress": "9321 Ensign Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55438",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55438",
+   "geo": {
+    "lat": 44.8344335,
+    "lon": -93.3945415
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/784339173",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "johnson-mediation-chanhassen",
+   "name": "Johnson Mediation",
+   "summary": "Johnson Mediation is a lawyer in Chanhassen, MN at 7965 Stone Creek Drive #10, Chanhassen, MN 55317.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-mediation-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-mediation-chanhassen.json",
+   "address": {
+    "streetAddress": "7965 Stone Creek Drive #10",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8622363,
+    "lon": -93.5731154
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428575",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "meshbesher-and-spence-minneapolis",
+   "name": "Meshbesher & Spence",
+   "summary": "Meshbesher & Spence is a lawyer in Minneapolis, MN at 1616 Park Avenue South, Minneapolis, MN 55404.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meshbesher-and-spence-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meshbesher-and-spence-minneapolis.json",
+   "address": {
+    "streetAddress": "1616 Park Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9667912,
+    "lon": -93.2654782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/122795135",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "solem-law-office-west-saint-paul",
+   "name": "Solem Law Office",
+   "summary": "Solem Law Office is a lawyer in West Saint Paul, MN at 295 Marie Avenue East, West Saint Paul, MN 55118.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/solem-law-office-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/solem-law-office-west-saint-paul.json",
+   "address": {
+    "streetAddress": "295 Marie Avenue East",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8907871,
+    "lon": -93.0726453
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531844944",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "wilson-law-group-minneapolis",
+   "name": "Wilson Law Group",
+   "summary": "Wilson Law Group is a lawyer in Minneapolis, MN at 3019 Minnehaha Avenue, Minneapolis, MN 55406.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wilson-law-group-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wilson-law-group-minneapolis.json",
+   "address": {
+    "streetAddress": "3019 Minnehaha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9477454,
+    "lon": -93.2335633
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7569842433",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "anderson-and-anderson-minneapolis",
+   "name": "Anderson & Anderson",
+   "summary": "Anderson & Anderson is a lawyer in Minneapolis, MN.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anderson-and-anderson-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anderson-and-anderson-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.009877,
+    "lon": -93.2814646
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13739129191",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "belfay-law-office-saint-paul",
+   "name": "Belfay Law Office",
+   "summary": "Belfay Law Office is a lawyer in Saint Paul, MN.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belfay-law-office-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belfay-law-office-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9233997,
+    "lon": -93.1333992
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3095001932",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "essling-ltd-law-office-saint-paul",
+   "name": "Essling, Ltd. Law Office",
+   "summary": "Essling, Ltd. Law Office is a lawyer in Saint Paul, MN.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/essling-ltd-law-office-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/essling-ltd-law-office-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9231387,
+    "lon": -93.133794
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/109493642",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "everhart-law-new-brighton",
+   "name": "Everhart Law",
+   "summary": "Everhart Law is a lawyer in New Brighton, MN.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/everhart-law-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/everhart-law-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0586797,
+    "lon": -93.1933154
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7360557229",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "johnson-turner-legal-wayzata",
+   "name": "Johnson / Turner Legal",
+   "summary": "Johnson / Turner Legal is a lawyer in Wayzata, MN.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-turner-legal-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-turner-legal-wayzata.json",
+   "address": {
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9720308,
+    "lon": -93.4999178
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8541900856",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "schmidt-and-salita-law-team-minnetonka",
+   "name": "Schmidt & Salita Law Team",
+   "summary": "Schmidt & Salita Law Team is a lawyer in Minnetonka, MN.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schmidt-and-salita-law-team-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schmidt-and-salita-law-team-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9681528,
+    "lon": -93.4211866
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1478703251",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "swor-and-gatto-saint-paul",
+   "name": "Swor & Gatto",
+   "summary": "Swor & Gatto is a lawyer in Saint Paul, MN.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swor-and-gatto-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swor-and-gatto-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9241429,
+    "lon": -93.132653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9141856041",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

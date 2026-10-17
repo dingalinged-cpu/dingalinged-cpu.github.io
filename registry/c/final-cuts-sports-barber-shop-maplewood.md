@@ -1,0 +1,23 @@
+Final Cuts Sports Barber Shop is a hair salon in Maplewood, MN.
+
+# Final Cuts Sports Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Maplewood, MN
+- City: Maplewood
+- State: MN
+- ZIP: n/a
+- Coordinates: 45.0319661, -93.0215791
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/final-cuts-sports-barber-shop-maplewood/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/final-cuts-sports-barber-shop-maplewood.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5196408048 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,1421 @@
+{
+ "place": "Maplewood, MN",
+ "slug": "maplewood-mn",
+ "count": 45,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "allergist maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/allergist-maplewood-mn.json"
+  },
+  {
+   "keyword": "assisted living maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-maplewood-mn.json"
+  },
+  {
+   "keyword": "auto body shop maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-maplewood-mn.json"
+  },
+  {
+   "keyword": "auto repair maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-maplewood-mn.json"
+  },
+  {
+   "keyword": "bakery maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-maplewood-mn.json"
+  },
+  {
+   "keyword": "bike shop maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-maplewood-mn.json"
+  },
+  {
+   "keyword": "car wash maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-maplewood-mn.json"
+  },
+  {
+   "keyword": "dentist maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-maplewood-mn.json"
+  },
+  {
+   "keyword": "furniture store maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-maplewood-mn.json"
+  },
+  {
+   "keyword": "gift shop maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-maplewood-mn.json"
+  },
+  {
+   "keyword": "gym maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-maplewood-mn.json"
+  },
+  {
+   "keyword": "hair salon maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-maplewood-mn.json"
+  },
+  {
+   "keyword": "haircut maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-maplewood-mn.json"
+  },
+  {
+   "keyword": "heating and air maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-maplewood-mn.json"
+  },
+  {
+   "keyword": "hvac repair maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-maplewood-mn.json"
+  },
+  {
+   "keyword": "jewelry store maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-maplewood-mn.json"
+  },
+  {
+   "keyword": "liquor store maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-maplewood-mn.json"
+  },
+  {
+   "keyword": "mattress store maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-maplewood-mn.json"
+  },
+  {
+   "keyword": "mechanic maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-maplewood-mn.json"
+  },
+  {
+   "keyword": "nail salon maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-maplewood-mn.json"
+  },
+  {
+   "keyword": "pet store maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-maplewood-mn.json"
+  },
+  {
+   "keyword": "printing services maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-maplewood-mn.json"
+  },
+  {
+   "keyword": "tattoo shop maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-maplewood-mn.json"
+  },
+  {
+   "keyword": "thrift store maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-maplewood-mn.json"
+  },
+  {
+   "keyword": "tire shop maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-maplewood-mn.json"
+  },
+  {
+   "keyword": "used cars for sale maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-maplewood-mn.json"
+  },
+  {
+   "keyword": "vet maplewood mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-maplewood-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "fearless-tattoo-removal-maplewood",
+   "name": "Fearless Tattoo Removal",
+   "summary": "Fearless Tattoo Removal is a tattoo shop in Maplewood, MN at 1973 Sloan Pl Ste 70, Maplewood, MN 55117. Phone: +16123878022. Website: https://www.fearlesstattooremoval.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fearless-tattoo-removal-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fearless-tattoo-removal-maplewood.json",
+   "address": {
+    "streetAddress": "1973 Sloan Pl Ste 70",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55117",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55117",
+   "geo": {
+    "lat": 45.0007129,
+    "lon": -93.0884286
+   },
+   "phone": "+16123878022",
+   "website": "https://www.fearlesstattooremoval.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11906093994",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "maplewood-liquor-maplewood",
+   "name": "Maplewood Liquor",
+   "summary": "Maplewood Liquor is a liquor store in Maplewood, MN at 2950 White Bear Avenue #12, Maplewood, MN 55109. Phone: +16517797920. Website: https://mgmwineandspirits.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maplewood-liquor-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maplewood-liquor-maplewood.json",
+   "address": {
+    "streetAddress": "2950 White Bear Avenue #12",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0297162,
+    "lon": -93.0171242
+   },
+   "phone": "+16517797920",
+   "website": "https://mgmwineandspirits.com/",
+   "opening_hours": "Mo-Sa 09:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6534119473",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mcquillan-home-services-llc-saint-paul",
+   "name": "McQuillan Home Services LLC.",
+   "summary": "McQuillan Home Services LLC. is a HVAC contractor in Saint Paul, MN at 1727 Minnesota 36, Saint Paul, MN 55109. Phone: +16512433211. Website: https://mcquillanbros.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcquillan-home-services-llc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcquillan-home-services-llc-saint-paul.json",
+   "address": {
+    "streetAddress": "1727 Minnesota 36",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0124687,
+    "lon": -93.0268731
+   },
+   "phone": "+16512433211",
+   "website": "https://mcquillanbros.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13363443895",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petsmart-maplewood",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Maplewood, MN at 2370 White Bear Avenue North, Maplewood, MN 55109. Phone: +16517779533. Website: https://www.petsmart.com/stores/us/mn/maplewood-store0461.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-maplewood.json",
+   "address": {
+    "streetAddress": "2370 White Bear Avenue North",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0126406,
+    "lon": -93.0195966
+   },
+   "phone": "+16517779533",
+   "website": "https://www.petsmart.com/stores/us/mn/maplewood-store0461.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507997936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ashley-homestore-maplewood",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Maplewood, MN at 1770 County Road D East, Maplewood, MN 55109. Phone: +16513250200. Website: https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-maplewood.json",
+   "address": {
+    "streetAddress": "1770 County Road D East",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0352999,
+    "lon": -93.0262558
+   },
+   "phone": "+16513250200",
+   "website": "https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125710446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-saint-paul",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Saint Paul, MN at 1987 County Road D East #200, Saint Paul, MN 55109. Phone: +16517776806. Website: https://www.mattressfirm.com/en-us/stores/mn/saint-paul/080017/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-saint-paul.json",
+   "address": {
+    "streetAddress": "1987 County Road D East #200",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0361575,
+    "lon": -93.0171378
+   },
+   "phone": "+16517776806",
+   "website": "https://www.mattressfirm.com/en-us/stores/mn/saint-paul/080017/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6274698358",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-homestead-at-maplewood-maplewood",
+   "name": "The Homestead at Maplewood",
+   "summary": "The Homestead at Maplewood is an assisted living facility in Maplewood, MN at 1890 Sherren Avenue East, Maplewood, MN 55109. Phone: +16517703959. Website: https://www.voaseniorliving.org/communities/the-homestead-at-maplewood/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-homestead-at-maplewood-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-homestead-at-maplewood-maplewood.json",
+   "address": {
+    "streetAddress": "1890 Sherren Avenue East",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0105386,
+    "lon": -93.0207227
+   },
+   "phone": "+16517703959",
+   "website": "https://www.voaseniorliving.org/communities/the-homestead-at-maplewood/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/784317513",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "north-star-auto-body-maplewood",
+   "name": "North Star Auto Body",
+   "summary": "North Star Auto Body is an auto repair shop in Maplewood, MN at 2672 Maplewood Drive North, Maplewood, MN 55109. Phone: +18336512886.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-star-auto-body-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-star-auto-body-maplewood.json",
+   "address": {
+    "streetAddress": "2672 Maplewood Drive North",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0218343,
+    "lon": -93.0489958
+   },
+   "phone": "+18336512886",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/695844811",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "allergy-and-asthma-center-of-minnesota-maplewood",
+   "name": "Allergy and Asthma Center of Minnesota",
+   "summary": "Allergy and Asthma Center of Minnesota is an allergist in Maplewood, MN at 2480 White Bear Avenue ##104, Maplewood, MN 55109. Phone: +16124443247.",
+   "categories": [
+    "allergist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allergy-and-asthma-center-of-minnesota-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allergy-and-asthma-center-of-minnesota-maplewood.json",
+   "address": {
+    "streetAddress": "2480 White Bear Avenue ##104",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0162679,
+    "lon": -93.0192064
+   },
+   "phone": "+16124443247",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7201827392",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "divine-nails-maplewood",
+   "name": "Divine Nails",
+   "summary": "Divine Nails is a nail salon in Maplewood, MN. Phone: +16517700424.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/divine-nails-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/divine-nails-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0295075,
+    "lon": -93.0171125
+   },
+   "phone": "+16517700424",
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-18:30; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12046781947",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "family-dentistry-maplewood",
+   "name": "Family Dentistry",
+   "summary": "Family Dentistry is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. Phone: +16517761597.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-dentistry-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-dentistry-maplewood.json",
+   "address": {
+    "streetAddress": "2480 White Bear Avenue",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0161967,
+    "lon": -93.0190629
+   },
+   "phone": "+16517761597",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7201827393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-maplewood",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Maplewood, MN at 2303 White Bear Avenue, Maplewood, MN 55109. Website: https://local.fedex.com/mn/maplewood/office-0617/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-maplewood.json",
+   "address": {
+    "streetAddress": "2303 White Bear Avenue",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0108245,
+    "lon": -93.0236602
+   },
+   "website": "https://local.fedex.com/mn/maplewood/office-0617/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4962959648",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orangetheory-fitness-maplewood",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Maplewood, MN at 3095 White Bear Avenue #2, Maplewood, MN 55109. Phone: +16519982219.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-maplewood.json",
+   "address": {
+    "streetAddress": "3095 White Bear Avenue #2",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0353826,
+    "lon": -93.0194432
+   },
+   "phone": "+16519982219",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13998864410",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "century-animal-clinic-maplewood",
+   "name": "Century Animal Clinic",
+   "summary": "Century Animal Clinic is a veterinarian in Maplewood, MN at 839 Century Avenue North, Maplewood, MN. Website: https://www.centuryanimalclinic.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/century-animal-clinic-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/century-animal-clinic-maplewood.json",
+   "address": {
+    "streetAddress": "839 Century Avenue North",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9666318,
+    "lon": -92.9851775
+   },
+   "website": "https://www.centuryanimalclinic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9161403654",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mapletree-pediatric-dentistry-maplewood",
+   "name": "MapleTree Pediatric Dentistry",
+   "summary": "MapleTree Pediatric Dentistry is a dentist in Maplewood, MN at 1915 County Road D, Maplewood, MN 55109.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mapletree-pediatric-dentistry-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mapletree-pediatric-dentistry-maplewood.json",
+   "address": {
+    "streetAddress": "1915 County Road D",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.036202,
+    "lon": -93.0215554
+   },
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/126130354",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "61-liquors-maplewood",
+   "name": "61 Liquors",
+   "summary": "61 Liquors is a liquor store in Maplewood, MN. Website: https://61liquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/61-liquors-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/61-liquors-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0228532,
+    "lon": -93.0487207
+   },
+   "website": "https://61liquors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9446471648",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "carmax-maplewood",
+   "name": "Carmax",
+   "summary": "Carmax is an used car dealer in Maplewood, MN. Website: https://www.carmax.com/stores/7633.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0294357,
+    "lon": -93.0447774
+   },
+   "website": "https://www.carmax.com/stores/7633",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1236682202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dental-health-of-maplewood-maplewood",
+   "name": "Dental Health of Maplewood",
+   "summary": "Dental Health of Maplewood is a dentist in Maplewood, MN at 1270 Cope Avenue East, Maplewood, MN 55109.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-health-of-maplewood-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-health-of-maplewood-maplewood.json",
+   "address": {
+    "streetAddress": "1270 Cope Avenue East",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0103474,
+    "lon": -93.0471415
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1462838098",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jensen-and-jensen-periodontics-implants-maplewood",
+   "name": "Jensen and Jensen Periodontics - Implants",
+   "summary": "Jensen and Jensen Periodontics - Implants is a dentist in Maplewood, MN at 2480 White Bear Avenue ##201, Maplewood, MN 55109.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jensen-and-jensen-periodontics-implants-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jensen-and-jensen-periodontics-implants-maplewood.json",
+   "address": {
+    "streetAddress": "2480 White Bear Avenue ##201",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0161672,
+    "lon": -93.019127
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7201827394",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "maple-hill-senior-living-maplewood",
+   "name": "Maple Hill Senior Living",
+   "summary": "Maple Hill Senior Living is an assisted living facility in Maplewood, MN at 3030 Southlawn Drive, Maplewood, MN 55109.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maple-hill-senior-living-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maple-hill-senior-living-maplewood.json",
+   "address": {
+    "streetAddress": "3030 Southlawn Drive",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0332798,
+    "lon": -93.02478
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/137493663",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "minnesota-hair-maplewood",
+   "name": "Minnesota Hair",
+   "summary": "Minnesota Hair is a hair salon in Maplewood, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-hair-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-hair-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0293341,
+    "lon": -93.0171104
+   },
+   "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa 07:00-14:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12046781945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orthodontics-david-c-dueval-dds-ms-maplewood",
+   "name": "Orthodontics - David C Dueval, DDS, MS",
+   "summary": "Orthodontics - David C Dueval, DDS, MS is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orthodontics-david-c-dueval-dds-ms-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orthodontics-david-c-dueval-dds-ms-maplewood.json",
+   "address": {
+    "streetAddress": "2480 White Bear Avenue",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0162134,
+    "lon": -93.0192137
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7201827396",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-maplewood",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Maplewood, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0178924,
+    "lon": -93.0210389
+   },
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:30-16:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12388823964",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aspen-dental-maplewood",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Maplewood, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0346773,
+    "lon": -93.0172138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11191518090",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "becker-furniture-maplewood",
+   "name": "Becker Furniture",
+   "summary": "Becker Furniture is a furniture store in Maplewood, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/becker-furniture-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/becker-furniture-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0352841,
+    "lon": -93.0228462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125836316",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-maplewood",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Maplewood, MN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0177771,
+    "lon": -93.0190521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/507998689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "final-cuts-sports-barber-shop-maplewood",
+   "name": "Final Cuts Sports Barber Shop",
+   "summary": "Final Cuts Sports Barber Shop is a hair salon in Maplewood, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/final-cuts-sports-barber-shop-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/final-cuts-sports-barber-shop-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0319661,
+    "lon": -93.0215791
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408048",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-maplewood",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Maplewood, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0337167,
+    "lon": -93.0164922
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/137493506",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodman-jewelers-maplewood",
+   "name": "Goodman Jewelers",
+   "summary": "Goodman Jewelers is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodman-jewelers-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodman-jewelers-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0307378,
+    "lon": -93.0217963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408063",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-maplewood",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Maplewood, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0183391,
+    "lon": -93.0188946
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11481133170",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "helzberg-jewelers-maplewood",
+   "name": "Helzberg Jewelers",
+   "summary": "Helzberg Jewelers is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/helzberg-jewelers-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/helzberg-jewelers-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0309273,
+    "lon": -93.0216703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hoff-diamonds-maplewood",
+   "name": "Hoff Diamonds",
+   "summary": "Hoff Diamonds is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hoff-diamonds-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hoff-diamonds-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0311339,
+    "lon": -93.0216783
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408061",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jared-maplewood",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0346031,
+    "lon": -93.0181346
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/126138322",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kay-jewelers-maplewood",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Maplewood, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0315358,
+    "lon": -93.0221638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408040",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-delicious-bread-maplewood",
+   "name": "La Delicious Bread",
+   "summary": "La Delicious Bread is a bakery in Maplewood, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-delicious-bread-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-delicious-bread-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0060182,
+    "lon": -93.1055288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11401113809",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-maplewood",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Maplewood, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0352474,
+    "lon": -93.0206653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/126138319",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lakes-orthodontics-maplewood",
+   "name": "Lakes Orthodontics",
+   "summary": "Lakes Orthodontics is a dentist in Maplewood, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakes-orthodontics-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakes-orthodontics-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.009792,
+    "lon": -93.0300779
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11472428069",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lamettreys-maplewood",
+   "name": "LaMettrey's",
+   "summary": "LaMettrey's is an auto repair shop in Maplewood, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lamettreys-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lamettreys-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0303551,
+    "lon": -93.0467832
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/579999365",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "larsons-auto-maplewood",
+   "name": "Larson's Auto",
+   "summary": "Larson's Auto is an auto repair shop in Maplewood, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/larsons-auto-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/larsons-auto-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0353721,
+    "lon": -93.0164544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/137493491",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rice-street-car-wash-maplewood",
+   "name": "Rice Street Car Wash",
+   "summary": "Rice Street Car Wash is a car wash in Maplewood, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rice-street-car-wash-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rice-street-car-wash-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9940331,
+    "lon": -93.1045757
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605754160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sleep-number-maplewood",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Maplewood, MN.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0350285,
+    "lon": -93.0171352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/137493508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "slumberland-maplewood",
+   "name": "Slumberland",
+   "summary": "Slumberland is a furniture store in Maplewood, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slumberland-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0363421,
+    "lon": -93.027441
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125708465",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "spencers-maplewood",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Maplewood, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0312268,
+    "lon": -93.0215603
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "strauss-skates-and-bicycles-maplewood",
+   "name": "Strauss Skates and Bicycles",
+   "summary": "Strauss Skates and Bicycles is a bike shop in Maplewood, MN.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strauss-skates-and-bicycles-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strauss-skates-and-bicycles-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0103646,
+    "lon": -93.0264232
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11472429269",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-original-mattress-factory-maplewood",
+   "name": "The Original Mattress Factory",
+   "summary": "The Original Mattress Factory is a furniture store in Maplewood, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-original-mattress-factory-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-original-mattress-factory-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0125389,
+    "lon": -93.0476182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11472431970",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

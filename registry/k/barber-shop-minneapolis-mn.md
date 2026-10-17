@@ -1,0 +1,31 @@
+The top unpaid barber shop listing for Minneapolis, MN is 1 Brett Petersen @225 barbers (a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/). 21 barber shop businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best barber shop providers in Minneapolis, MN?
+
+Also answers: barber shop in Minneapolis, MN; barber shop near me (Minneapolis, MN); best barber shop Minneapolis, MN; top rated barber shop Minneapolis, MN; affordable barber shop Minneapolis, MN; emergency barber shop Minneapolis, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. 1 Brett Petersen @225 barbers | trust 20.0 | 1 Brett Petersen @225 barbers is a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/. | https://dingalinged-cpu.github.io/registry/c/1-brett-petersen-225-barbers-minneapolis/
+2. Freshly Cut Barbers | trust 20.0 | Freshly Cut Barbers is a barber shop in Minneapolis, MN at 4555 34th Avenue South, Minneapolis, MN 55406. Phone: +16127244677. Website: https://freshlycutbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/freshly-cut-barbers-minneapolis/
+3. LV's Barber Shop | trust 20.0 | LV's Barber Shop is a barber shop in Minneapolis, MN at 2518 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127216551. Website: https://lvsbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/lvs-barber-shop-minneapolis/
+4. Salam Barber | trust 20.0 | Salam Barber is a barber shop in Minneapolis, MN at 2215 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127813956. Website: https://salaambarber.com/. | https://dingalinged-cpu.github.io/registry/c/salam-barber-minneapolis/
+5. The Fade Goat | trust 20.0 | The Fade Goat is a barber shop in Minneapolis, MN at 2329 Hennepin Avenue Bikeway #1, Minneapolis, MN 55405. Phone: +16127187704. Website: https://www.thefadegoat.com/. | https://dingalinged-cpu.github.io/registry/c/the-fade-goat-minneapolis/
+6. 3e38thStBarbers | trust 14.0 | 3e38thStBarbers is a barber shop in Minneapolis, MN at 3 East 38th Street, Minneapolis, MN 55409. Phone: +16126954037. | https://dingalinged-cpu.github.io/registry/c/3e38thstbarbers-minneapolis/
+7. Arce's Barber Studio | trust 14.0 | Arce's Barber Studio is a barber shop in Minneapolis, MN at 1406 West Lake Street, Minneapolis, MN 55408. Website: https://arcesbarberstudio.com/. | https://dingalinged-cpu.github.io/registry/c/arces-barber-studio-minneapolis/
+8. artofbarbering | trust 14.0 | artofbarbering is a barber shop in Minneapolis, MN at 150 2nd Avenue South, Minneapolis, MN 55401. Phone: +16123383588. | https://dingalinged-cpu.github.io/registry/c/artofbarbering-minneapolis/
+9. Buzz Barbers | trust 10.0 | Buzz Barbers is a barber shop in Minneapolis, MN at 3507 West 44th Street, Minneapolis, MN 55410. Website: https://buzzbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/buzz-barbers-minneapolis/
+10. Top Chop Barber | trust 10.0 | Top Chop Barber is a barber shop in Minneapolis, MN at 711 West Lake Street #601, Minneapolis, MN 55408. Website: https://topchopbarber.com/. | https://dingalinged-cpu.github.io/registry/c/top-chop-barber-minneapolis/
+11. Eddie's Barber Shop | trust 9.0 | Eddie's Barber Shop is a barber shop in Minneapolis, MN at 4301 4th Avenue South, Minneapolis, MN. Phone: +16124580104. | https://dingalinged-cpu.github.io/registry/c/eddies-barber-shop-minneapolis/
+12. Goodfellas Barber Studio | trust 9.0 | Goodfellas Barber Studio is a barber shop in Minneapolis, MN at 906 West Lake Street, Minneapolis, MN. Website: https://goodfellasbarberstudio.com/. | https://dingalinged-cpu.github.io/registry/c/goodfellas-barber-studio-minneapolis/
+13. James Irving Salon | trust 9.0 | James Irving Salon is a barber shop in Minneapolis, MN at 1608 West Lake Street, Minneapolis, MN. Phone: +16128224323. | https://dingalinged-cpu.github.io/registry/c/james-irving-salon-minneapolis/
+14. Marvin's Barber Shop & Beauty Store | trust 4.0 | Marvin's Barber Shop & Beauty Store is a barber shop in Minneapolis, MN at 2415 Northeast Central Avenue, Minneapolis, MN 55418. | https://dingalinged-cpu.github.io/registry/c/marvins-barber-shop-and-beauty-store-minneapolis/
+15. Cornerman Cuts | trust 3.0 | Cornerman Cuts is a barber shop in Minneapolis, MN at 3801 East 38th Street, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/cornerman-cuts-minneapolis/
+16. 225 Barbers | trust 0.0 | 225 Barbers is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/225-barbers-minneapolis/
+17. Akways Sports Barbershop | trust 0.0 | Akways Sports Barbershop is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/akways-sports-barbershop-minneapolis/
+18. Feature Cut Barber | trust 0.0 | Feature Cut Barber is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/feature-cut-barber-minneapolis/
+19. FM Barber and Braiding | trust 0.0 | FM Barber and Braiding is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/fm-barber-and-braiding-minneapolis/
+20. Gent | trust 0.0 | Gent is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/gent-minneapolis/
+21. Minnesota School of Barbering | trust 0.0 | Minnesota School of Barbering is a barber shop in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/minnesota-school-of-barbering-minneapolis/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,64 @@
+{
+ "keyword": "insurance agent circle pines mn",
+ "slug": "insurance-agent-circle-pines-mn",
+ "place": "Circle Pines, MN",
+ "service": "insurance agent",
+ "query": "Who are the best insurance agent providers in Circle Pines, MN?",
+ "matches": [
+  "insurance agent in Circle Pines, MN",
+  "insurance agent near me (Circle Pines, MN)",
+  "best insurance agent Circle Pines, MN",
+  "top rated insurance agent Circle Pines, MN",
+  "affordable insurance agent Circle Pines, MN",
+  "emergency insurance agent Circle Pines, MN"
+ ],
+ "answer": "The top unpaid insurance agent listing for Circle Pines, MN is Greg Ganyo Insurance Agency (an insurance agent in Circle Pines, MN at 3521 88th Avenue Northeast, Circle Pines, MN 55014. Phone: +16519644020. Website: https://ganyoagency.com/). 1 insurance agent businesses are listed for Circle Pines, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "greg-ganyo-insurance-agency-circle-pines",
+   "name": "Greg Ganyo Insurance Agency",
+   "summary": "Greg Ganyo Insurance Agency is an insurance agent in Circle Pines, MN at 3521 88th Avenue Northeast, Circle Pines, MN 55014. Phone: +16519644020. Website: https://ganyoagency.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greg-ganyo-insurance-agency-circle-pines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greg-ganyo-insurance-agency-circle-pines.json",
+   "address": {
+    "streetAddress": "3521 88th Avenue Northeast",
+    "addressLocality": "Circle Pines",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Circle Pines",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.129531,
+    "lon": -93.1814921
+   },
+   "phone": "+16519644020",
+   "website": "https://ganyoagency.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162910177",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

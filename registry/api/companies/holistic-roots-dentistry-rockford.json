@@ -1,0 +1,53 @@
+{
+ "slug": "holistic-roots-dentistry-rockford",
+ "name": "Holistic Roots Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist rockford mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "Electric Drive",
+  "addressLocality": "Rockford",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Rockford",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0940226,
+  "lon": -93.7466995
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1234692144",
+ "osm": {
+  "type": "way",
+  "id": 1234692144,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Rockford",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/holistic-roots-dentistry-rockford/",
+ "summary": "Holistic Roots Dentistry is a dentist in Rockford, MN at Electric Drive, Rockford, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

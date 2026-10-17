@@ -1,0 +1,57 @@
+{
+ "slug": "centennial-lakes-dental-group-golden-valley",
+ "name": "Centennial Lakes Dental Group",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist golden valley mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4800 Olson Memorial Highway #110",
+  "addressLocality": "Golden Valley",
+  "addressRegion": "MN",
+  "postalCode": "55422",
+  "addressCountry": "US"
+ },
+ "city": "Golden Valley",
+ "state": "MN",
+ "zip": "55422",
+ "geo": {
+  "lat": 44.9848526,
+  "lon": -93.3404463
+ },
+ "website": "https://www.centlakedent.com/",
+ "opening_hours": "+17635440121",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12704116116",
+ "osm": {
+  "type": "node",
+  "id": 12704116116,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Golden Valley",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/centennial-lakes-dental-group-golden-valley/",
+ "summary": "Centennial Lakes Dental Group is a dentist in Golden Valley, MN at 4800 Olson Memorial Highway #110, Golden Valley, MN 55422. Website: https://www.centlakedent.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

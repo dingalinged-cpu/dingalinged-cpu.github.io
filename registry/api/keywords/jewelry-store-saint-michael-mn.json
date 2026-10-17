@@ -1,0 +1,64 @@
+{
+ "keyword": "jewelry store saint michael mn",
+ "slug": "jewelry-store-saint-michael-mn",
+ "place": "Saint Michael, MN",
+ "service": "jewelry store",
+ "query": "Who are the best jewelry store providers in Saint Michael, MN?",
+ "matches": [
+  "jewelry store in Saint Michael, MN",
+  "jewelry store near me (Saint Michael, MN)",
+  "best jewelry store Saint Michael, MN",
+  "top rated jewelry store Saint Michael, MN",
+  "affordable jewelry store Saint Michael, MN",
+  "emergency jewelry store Saint Michael, MN"
+ ],
+ "answer": "The top unpaid jewelry store listing for Saint Michael, MN is Colonial Jewelers (a jewelry store in Saint Michael, MN at 400 Central Avenue East, Saint Michael, MN 55376. Phone: +17634973717. Website: https://colonial-jewelers.com/). 1 jewelry store businesses are listed for Saint Michael, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "colonial-jewelers-saint-michael",
+   "name": "Colonial Jewelers",
+   "summary": "Colonial Jewelers is a jewelry store in Saint Michael, MN at 400 Central Avenue East, Saint Michael, MN 55376. Phone: +17634973717. Website: https://colonial-jewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/colonial-jewelers-saint-michael/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/colonial-jewelers-saint-michael.json",
+   "address": {
+    "streetAddress": "400 Central Avenue East",
+    "addressLocality": "Saint Michael",
+    "addressRegion": "MN",
+    "postalCode": "55376",
+    "addressCountry": "US"
+   },
+   "city": "Saint Michael",
+   "state": "MN",
+   "zip": "55376",
+   "geo": {
+    "lat": 45.2091947,
+    "lon": -93.6552688
+   },
+   "phone": "+17634973717",
+   "website": "https://colonial-jewelers.com/",
+   "opening_hours": "Mo-Fr 09:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10001926982",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

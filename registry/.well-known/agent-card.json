@@ -1,0 +1,55 @@
+{
+ "protocolVersion": "0.3.0",
+ "name": "Company Registry",
+ "description": "Machine-readable US company registry. Search companies by service keyword and city; read structured company facts. Paid placements are labeled sponsored.",
+ "url": "https://dingalinged-cpu.github.io/registry/",
+ "version": "1",
+ "capabilities": {},
+ "defaultInputModes": [
+  "text/plain",
+  "application/json"
+ ],
+ "defaultOutputModes": [
+  "application/json"
+ ],
+ "skills": [
+  {
+   "id": "search_companies",
+   "name": "Search companies by keyword",
+   "description": "Service + optional US city, e.g. 'roofing minneapolis'. Sponsored results flagged.",
+   "tags": [
+    "business search",
+    "local services"
+   ],
+   "examples": [
+    "roofers in Minneapolis"
+   ]
+  },
+  {
+   "id": "get_company",
+   "name": "Company facts",
+   "description": "Structured record for one company.",
+   "tags": [
+    "company data"
+   ]
+  },
+  {
+   "id": "keyword_price",
+   "name": "Sponsored spot prices",
+   "description": "Minimum bids for a keyword.",
+   "tags": [
+    "advertising"
+   ]
+  }
+ ],
+ "additionalInterfaces": [
+  {
+   "transport": "OpenAPI",
+   "url": "https://dingalinged-cpu.github.io/registry/openapi.json"
+  },
+  {
+   "transport": "llms.txt",
+   "url": "https://dingalinged-cpu.github.io/registry/llms.txt"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "anderson-lakes-dental-eden-prairie",
+ "name": "Anderson Lakes Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist eden prairie mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8775 Columbine Road",
+  "addressLocality": "Eden Prairie",
+  "addressRegion": "MN",
+  "postalCode": "55344",
+  "addressCountry": "US"
+ },
+ "city": "Eden Prairie",
+ "state": "MN",
+ "zip": "55344",
+ "geo": {
+  "lat": 44.845117,
+  "lon": -93.4411093
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/10597376689",
+ "osm": {
+  "type": "node",
+  "id": 10597376689,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "dentist"
+  }
+ },
+ "municipality": "Eden Prairie",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anderson-lakes-dental-eden-prairie/",
+ "summary": "Anderson Lakes Dental is a dentist in Eden Prairie, MN at 8775 Columbine Road, Eden Prairie, MN 55344.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

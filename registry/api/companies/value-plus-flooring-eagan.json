@@ -1,0 +1,56 @@
+{
+ "slug": "value-plus-flooring-eagan",
+ "name": "Value Plus Flooring",
+ "categories": [
+  "flooring companies"
+ ],
+ "keywords": [
+  "flooring companies",
+  "flooring companies eagan mn"
+ ],
+ "services": [
+  {
+   "name": "flooring companies",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3109 Neil Armstrong Boulevard",
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "postalCode": "55121",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "zip": "55121",
+ "geo": {
+  "lat": 44.8441512,
+  "lon": -93.1431075
+ },
+ "phone": "+16514549344",
+ "website": "https://valueplusflooring.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/351058823",
+ "osm": {
+  "type": "way",
+  "id": 351058823,
+  "tags_used": {
+   "shop": "flooring"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/value-plus-flooring-eagan/",
+ "summary": "Value Plus Flooring is a flooring company in Eagan, MN at 3109 Neil Armstrong Boulevard, Eagan, MN 55121. Phone: +16514549344. Website: https://valueplusflooring.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

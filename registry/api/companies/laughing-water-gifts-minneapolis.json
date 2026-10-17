@@ -1,0 +1,56 @@
+{
+ "slug": "laughing-water-gifts-minneapolis",
+ "name": "Laughing Water Gifts",
+ "categories": [
+  "gift shop"
+ ],
+ "keywords": [
+  "gift shop",
+  "gift shop minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "gift shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2718 East 50th Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55417",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55417",
+ "geo": {
+  "lat": 44.9128207,
+  "lon": -93.2328119
+ },
+ "phone": "+16127210074",
+ "opening_hours": "Mo-Fr 12:00-18:00, Sa 10:00-18:00, Su 12:00-17:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4852088819",
+ "osm": {
+  "type": "node",
+  "id": 4852088819,
+  "tags_used": {
+   "shop": "gift"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/laughing-water-gifts-minneapolis/",
+ "summary": "Laughing Water Gifts is a gift shop in Minneapolis, MN at 2718 East 50th Street, Minneapolis, MN 55417. Phone: +16127210074.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

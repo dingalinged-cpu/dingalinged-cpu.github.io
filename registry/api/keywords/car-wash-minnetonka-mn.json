@@ -1,0 +1,117 @@
+{
+ "keyword": "car wash minnetonka mn",
+ "slug": "car-wash-minnetonka-mn",
+ "place": "Minnetonka, MN",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in Minnetonka, MN?",
+ "matches": [
+  "car wash in Minnetonka, MN",
+  "car wash near me (Minnetonka, MN)",
+  "best car wash Minnetonka, MN",
+  "top rated car wash Minnetonka, MN",
+  "affordable car wash Minnetonka, MN",
+  "emergency car wash Minnetonka, MN"
+ ],
+ "answer": "The top unpaid car wash listing for Minnetonka, MN is Mister Car Wash (a car wash in Minnetonka, MN at 17600 Minnesota State Highway 7, Minnetonka, MN). 3 car wash businesses are listed for Minnetonka, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mister-car-wash-minnetonka",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Minnetonka, MN at 17600 Minnesota State Highway 7, Minnetonka, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-minnetonka.json",
+   "address": {
+    "streetAddress": "17600 Minnesota State Highway 7",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9140662,
+    "lon": -93.50392
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/55199931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "speedy-wash-minnetonka",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Minnetonka, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9340286,
+    "lon": -93.4215176
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/254347508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "speedy-wash-minnetonka-w413449072",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Minnetonka, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-minnetonka-w413449072/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-minnetonka-w413449072.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9146739,
+    "lon": -93.5024503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/413449072",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

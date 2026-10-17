@@ -1,0 +1,96 @@
+{
+ "keyword": "business consultant saint louis park mn",
+ "slug": "business-consultant-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "business consultant",
+ "query": "Who are the best business consultant providers in Saint Louis Park, MN?",
+ "matches": [
+  "business consultant in Saint Louis Park, MN",
+  "business consultant near me (Saint Louis Park, MN)",
+  "best business consultant Saint Louis Park, MN",
+  "top rated business consultant Saint Louis Park, MN",
+  "affordable business consultant Saint Louis Park, MN",
+  "emergency business consultant Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid business consultant listing for Saint Louis Park, MN is Lelch Audio Video (a business consultant in Saint Louis Park, MN at 2600 Excelsior Boulevard #201, Saint Louis Park, MN 55416. Phone: +16123535087. Website: https://www.lelchav.com/). 2 business consultant businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "lelch-audio-video-saint-louis-park",
+   "name": "Lelch Audio Video",
+   "summary": "Lelch Audio Video is a business consultant in Saint Louis Park, MN at 2600 Excelsior Boulevard #201, Saint Louis Park, MN 55416. Phone: +16123535087. Website: https://www.lelchav.com/.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lelch-audio-video-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lelch-audio-video-saint-louis-park.json",
+   "address": {
+    "streetAddress": "2600 Excelsior Boulevard #201",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.930326,
+    "lon": -93.3509535
+   },
+   "phone": "+16123535087",
+   "website": "https://www.lelchav.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9590592417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "m-j-shahidi-business-saint-louis-park",
+   "name": "M J Shahidi Business",
+   "summary": "M J Shahidi Business is a business consultant in Saint Louis Park, MN at 6504 Walker Street, Saint Louis Park, MN 55426. Phone: +19529204202.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-j-shahidi-business-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-j-shahidi-business-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6504 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9391405,
+    "lon": -93.3621589
+   },
+   "phone": "+19529204202",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604575738",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

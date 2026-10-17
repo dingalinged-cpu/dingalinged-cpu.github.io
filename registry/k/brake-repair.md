@@ -1,0 +1,16 @@
+The top unpaid brake repair listing for the United States is Dred Scott Automotive (an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/). 6 brake repair businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best brake repair providers in the United States?
+
+Also answers: brake repair in the United States; brake repair near me (the United States); best brake repair the United States; top rated brake repair the United States; affordable brake repair the United States; emergency brake repair the United States
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Dred Scott Automotive | trust 20.0 | Dred Scott Automotive is an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/dred-scott-automotive-bloomington/
+2. Goodyear Bloomington Auto, Tire & Glass | trust 20.0 | Goodyear Bloomington Auto, Tire & Glass is an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/. | https://dingalinged-cpu.github.io/registry/c/goodyear-bloomington-auto-tire-and-glass-bloomington/
+3. Jiffy Lube | trust 20.0 | Jiffy Lube is an auto repair shop in Roseville, MN at 1585 West County Road C, Roseville, MN 55113. Phone: +16516363931. Website: https://www.jiffylube.com/locations/mn/roseville/1382. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-roseville/
+4. Midas | trust 20.0 | Midas is an auto repair shop in Roseville, MN at 2168 Snelling Avenue North, Roseville, MN 55113. Phone: +16516743927. Website: https://www.midas.com/store/mn/roseville/2168-snelling-avenue-north-55113?shopnum=2465. | https://dingalinged-cpu.github.io/registry/c/midas-roseville/
+5. Five Star Auto Service | trust 19.0 | Five Star Auto Service is an auto repair shop in Saint Paul, MN at 675 Snelling Avenue, Saint Paul, MN. Phone: +16515835155. Website: https://www.fivestarautoservicemn.com/. | https://dingalinged-cpu.github.io/registry/c/five-star-auto-service-saint-paul/
+6. Great Brakes, Inc. | trust 16.0 | Great Brakes, Inc. is an auto repair shop in Minneapolis, MN at 3326 University Avenue Southeast, Minneapolis, MN 55414. Phone: +16123313635. Website: https://www.greatbrakesautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/great-brakes-inc-minneapolis/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

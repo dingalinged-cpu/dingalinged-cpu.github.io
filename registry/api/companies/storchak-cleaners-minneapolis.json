@@ -1,0 +1,56 @@
+{
+ "slug": "storchak-cleaners-minneapolis",
+ "name": "Storchak Cleaners",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "705 Douglas Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55403",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55403",
+ "geo": {
+  "lat": 44.9662805,
+  "lon": -93.2891005
+ },
+ "phone": "+16123742869",
+ "website": "https://www.storchakcleaners.com/",
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9336288137",
+ "osm": {
+  "type": "node",
+  "id": 9336288137,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/storchak-cleaners-minneapolis/",
+ "summary": "Storchak Cleaners is a dry cleaner in Minneapolis, MN at 705 Douglas Avenue, Minneapolis, MN 55403. Phone: +16123742869. Website: https://www.storchakcleaners.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

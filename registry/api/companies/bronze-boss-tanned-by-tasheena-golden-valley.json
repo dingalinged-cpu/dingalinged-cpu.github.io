@@ -1,0 +1,54 @@
+{
+ "slug": "bronze-boss-tanned-by-tasheena-golden-valley",
+ "name": "Bronze Boss Tanned by Tasheena",
+ "categories": [
+  "tanning salon"
+ ],
+ "keywords": [
+  "tanning salon",
+  "tanning salon golden valley mn"
+ ],
+ "services": [
+  {
+   "name": "tanning salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Golden Valley",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Golden Valley",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9719461,
+  "lon": -93.3630894
+ },
+ "phone": "+16128171101",
+ "website": "https://bronzebosstannedbytasheena.business.site/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11129016610",
+ "osm": {
+  "type": "node",
+  "id": 11129016610,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "tanning"
+  }
+ },
+ "municipality": "Golden Valley",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bronze-boss-tanned-by-tasheena-golden-valley/",
+ "summary": "Bronze Boss Tanned by Tasheena is a tanning salon in Golden Valley, MN. Phone: +16128171101. Website: https://bronzebosstannedbytasheena.business.site/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

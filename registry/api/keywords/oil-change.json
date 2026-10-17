@@ -1,0 +1,468 @@
+{
+ "keyword": "oil change",
+ "slug": "oil-change",
+ "place": "the United States",
+ "service": "oil change",
+ "query": "Who are the best oil change providers in the United States?",
+ "matches": [
+  "oil change in the United States",
+  "oil change near me (the United States)",
+  "best oil change the United States",
+  "top rated oil change the United States",
+  "affordable oil change the United States",
+  "emergency oil change the United States"
+ ],
+ "answer": "The top unpaid oil change listing for the United States is Dred Scott Automotive (an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/). 13 oil change businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "dred-scott-automotive-bloomington",
+   "name": "Dred Scott Automotive",
+   "summary": "Dred Scott Automotive is an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dred-scott-automotive-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dred-scott-automotive-bloomington.json",
+   "address": {
+    "streetAddress": "10800 Rhode Island Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55438",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55438",
+   "geo": {
+    "lat": 44.8075339,
+    "lon": -93.3827989
+   },
+   "phone": "+19529440010",
+   "website": "https://www.dredscottautorepair.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13717600842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "ep-auto-tire-and-glass-minnetonka",
+   "name": "EP Auto, Tire & Glass",
+   "summary": "EP Auto, Tire & Glass is an auto repair shop in Minnetonka, MN at 13600 County Rd 62, Minnetonka, MN 55345. Phone: +19528889900. Website: https://lamettrysautotech.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ep-auto-tire-and-glass-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ep-auto-tire-and-glass-minnetonka.json",
+   "address": {
+    "streetAddress": "13600 County Rd 62",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.8929471,
+    "lon": -93.4524621
+   },
+   "phone": "+19528889900",
+   "website": "https://lamettrysautotech.com/",
+   "opening_hours": "Mo-Fr 07:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12560620918",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "goodyear-bloomington-auto-tire-and-glass-bloomington",
+   "name": "Goodyear Bloomington Auto, Tire & Glass",
+   "summary": "Goodyear Bloomington Auto, Tire & Glass is an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-bloomington-auto-tire-and-glass-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-bloomington-auto-tire-and-glass-bloomington.json",
+   "address": {
+    "streetAddress": "9331 East Bloomington Freeway",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55420",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55420",
+   "geo": {
+    "lat": 44.8343912,
+    "lon": -93.2944517
+   },
+   "phone": "+19522240378",
+   "website": "https://lamettrysautotech.com/locations/bl-auto-tire/",
+   "opening_hours": "Mo-Fr 07:30 – 17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12520236990",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "jiffy-lube-roseville",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Roseville, MN at 1585 West County Road C, Roseville, MN 55113. Phone: +16516363931. Website: https://www.jiffylube.com/locations/mn/roseville/1382.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-roseville.json",
+   "address": {
+    "streetAddress": "1585 West County Road C",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 45.0214258,
+    "lon": -93.1684422
+   },
+   "phone": "+16516363931",
+   "website": "https://www.jiffylube.com/locations/mn/roseville/1382",
+   "opening_hours": "Mo-Fr 08:00-18:00,Sa 7:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/148018364",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "midas-roseville",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Roseville, MN at 2168 Snelling Avenue North, Roseville, MN 55113. Phone: +16516743927. Website: https://www.midas.com/store/mn/roseville/2168-snelling-avenue-north-55113?shopnum=2465.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-roseville.json",
+   "address": {
+    "streetAddress": "2168 Snelling Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 45.0065288,
+    "lon": -93.1655558
+   },
+   "phone": "+16516743927",
+   "website": "https://www.midas.com/store/mn/roseville/2168-snelling-avenue-north-55113?shopnum=2465",
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/118402679",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "park-service-saint-paul",
+   "name": "Park Service",
+   "summary": "Park Service is an auto repair shop in Saint Paul, MN at 2277 Como Avenue, Saint Paul, MN 55108. Phone: +16516444775. Website: https://facebook.com/ParkServiceInc/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-service-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-service-saint-paul.json",
+   "address": {
+    "streetAddress": "2277 Como Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9820042,
+    "lon": -93.1947055
+   },
+   "phone": "+16516444775",
+   "website": "https://facebook.com/ParkServiceInc/",
+   "opening_hours": "Mo-Fr 07:00-20:00, Sa 07:00-18:00, Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/157489495",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "quick-lane-tire-and-auto-center-roseville",
+   "name": "Quick Lane Tire & Auto Center",
+   "summary": "Quick Lane Tire & Auto Center is an auto repair shop in Roseville, MN at 2777 Snelling Avenue North, Roseville, MN 55113. Phone: +16516384881. Website: https://www.quicklane.com/en-us/oil-change-tire-auto-repair-store/mn/roseville/55113/quick-lane-at-midway-ford/QL803/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quick-lane-tire-and-auto-center-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quick-lane-tire-and-auto-center-roseville.json",
+   "address": {
+    "streetAddress": "2777 Snelling Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 45.0239361,
+    "lon": -93.1683403
+   },
+   "phone": "+16516384881",
+   "website": "https://www.quicklane.com/en-us/oil-change-tire-auto-repair-store/mn/roseville/55113/quick-lane-at-midway-ford/QL803/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8497171163",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "five-star-auto-service-saint-paul",
+   "name": "Five Star Auto Service",
+   "summary": "Five Star Auto Service is an auto repair shop in Saint Paul, MN at 675 Snelling Avenue, Saint Paul, MN. Phone: +16515835155. Website: https://www.fivestarautoservicemn.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-star-auto-service-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-star-auto-service-saint-paul.json",
+   "address": {
+    "streetAddress": "675 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9615195,
+    "lon": -93.1672968
+   },
+   "phone": "+16515835155",
+   "website": "https://www.fivestarautoservicemn.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8265496833",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "castrol-premium-lube-express-minneapolis",
+   "name": "Castrol Premium Lube Express",
+   "summary": "Castrol Premium Lube Express is an auto repair shop in Minneapolis, MN at 3544 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128226088. Website: https://www.castrolpremiumlube.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castrol-premium-lube-express-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castrol-premium-lube-express-minneapolis.json",
+   "address": {
+    "streetAddress": "3544 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9380728,
+    "lon": -93.2886935
+   },
+   "phone": "+16128226088",
+   "website": "https://www.castrolpremiumlube.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5286840845",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "valvoline-roseville",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Roseville, MN. Phone: +16514894870. Website: https://store.vioc.com/mn/roseville/oil-change-010009.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9996259,
+    "lon": -93.1467963
+   },
+   "phone": "+16514894870",
+   "website": "https://store.vioc.com/mn/roseville/oil-change-010009.html",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/102381607",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "tgk-automotive-hugo",
+   "name": "TGK Automotive",
+   "summary": "TGK Automotive is an auto repair shop in Hugo, MN at 13891 Forest Boulevard North, Hugo, MN 55038. Phone: +16514135961.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tgk-automotive-hugo/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tgk-automotive-hugo.json",
+   "address": {
+    "streetAddress": "13891 Forest Boulevard North",
+    "addressLocality": "Hugo",
+    "addressRegion": "MN",
+    "postalCode": "55038",
+    "addressCountry": "US"
+   },
+   "city": "Hugo",
+   "state": "MN",
+   "zip": "55038",
+   "geo": {
+    "lat": 45.1509815,
+    "lon": -92.994793
+   },
+   "phone": "+16514135961",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1459639568",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "honest-1-auto-care-eagan",
+   "name": "Honest-1 Auto Care",
+   "summary": "Honest-1 Auto Care is an auto repair shop in Eagan, MN at 4195 Nicols Road, Eagan, MN 55122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/honest-1-auto-care-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/honest-1-auto-care-eagan.json",
+   "address": {
+    "streetAddress": "4195 Nicols Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.8052017,
+    "lon": -93.2185354
+   },
+   "opening_hours": "Mo-Fr 07:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/615020468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "valvoline-saint-paul",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Saint Paul, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9608387,
+    "lon": -93.1667333
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13269302208",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

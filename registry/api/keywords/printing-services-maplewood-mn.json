@@ -1,0 +1,92 @@
+{
+ "keyword": "printing services maplewood mn",
+ "slug": "printing-services-maplewood-mn",
+ "place": "Maplewood, MN",
+ "service": "printing services",
+ "query": "Who are the best printing services providers in Maplewood, MN?",
+ "matches": [
+  "printing services in Maplewood, MN",
+  "printing services near me (Maplewood, MN)",
+  "best printing services Maplewood, MN",
+  "top rated printing services Maplewood, MN",
+  "affordable printing services Maplewood, MN",
+  "emergency printing services Maplewood, MN"
+ ],
+ "answer": "The top unpaid printing services listing for Maplewood, MN is FedEx Office (a printing service in Maplewood, MN at 2303 White Bear Avenue, Maplewood, MN 55109. Website: https://local.fedex.com/mn/maplewood/office-0617/). 2 printing services businesses are listed for Maplewood, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "fedex-office-maplewood",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Maplewood, MN at 2303 White Bear Avenue, Maplewood, MN 55109. Website: https://local.fedex.com/mn/maplewood/office-0617/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-maplewood.json",
+   "address": {
+    "streetAddress": "2303 White Bear Avenue",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0108245,
+    "lon": -93.0236602
+   },
+   "website": "https://local.fedex.com/mn/maplewood/office-0617/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4962959648",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "the-ups-store-maplewood",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Maplewood, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0178924,
+    "lon": -93.0210389
+   },
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:30-16:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12388823964",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

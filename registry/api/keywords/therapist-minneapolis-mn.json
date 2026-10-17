@@ -1,0 +1,485 @@
+{
+ "keyword": "therapist minneapolis mn",
+ "slug": "therapist-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "therapist",
+ "query": "Who are the best therapist providers in Minneapolis, MN?",
+ "matches": [
+  "therapist in Minneapolis, MN",
+  "therapist near me (Minneapolis, MN)",
+  "best therapist Minneapolis, MN",
+  "top rated therapist Minneapolis, MN",
+  "affordable therapist Minneapolis, MN",
+  "emergency therapist Minneapolis, MN"
+ ],
+ "answer": "The top unpaid therapist listing for Minneapolis, MN is Planned Parenthood (a therapy practice in Minneapolis, MN at 1200 Lagoon Avenue, Minneapolis, MN 55408. Phone: +16128236300. Website: https://www.plannedparenthood.org/health-center/minnesota/minneapolis/55408/minneapolis-clinic-2719-90720). 14 therapist businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "planned-parenthood-minneapolis",
+   "name": "Planned Parenthood",
+   "summary": "Planned Parenthood is a therapy practice in Minneapolis, MN at 1200 Lagoon Avenue, Minneapolis, MN 55408. Phone: +16128236300. Website: https://www.plannedparenthood.org/health-center/minnesota/minneapolis/55408/minneapolis-clinic-2719-90720.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planned-parenthood-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-minneapolis.json",
+   "address": {
+    "streetAddress": "1200 Lagoon Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9495426,
+    "lon": -93.294833
+   },
+   "phone": "+16128236300",
+   "website": "https://www.plannedparenthood.org/health-center/minnesota/minneapolis/55408/minneapolis-clinic-2719-90720",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/936506078",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "cedar-hill-therapy-minneapolis",
+   "name": "Cedar Hill Therapy",
+   "summary": "Cedar Hill Therapy is a therapy practice in Minneapolis, MN at 3432 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16122844291. Website: https://cedarhilltherapy.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedar-hill-therapy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedar-hill-therapy-minneapolis.json",
+   "address": {
+    "streetAddress": "3432 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9402331,
+    "lon": -93.2885194
+   },
+   "phone": "+16122844291",
+   "website": "https://cedarhilltherapy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13370454801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "essential-care-centers-minneapolis",
+   "name": "Essential Care Centers",
+   "summary": "Essential Care Centers is a therapy practice in Minneapolis, MN at 3101 Irving Avenue South, Minneapolis, MN 55408. Phone: +16124412024. Website: https://essentialcarecenters.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/essential-care-centers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/essential-care-centers-minneapolis.json",
+   "address": {
+    "streetAddress": "3101 Irving Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9464157,
+    "lon": -93.3017311
+   },
+   "phone": "+16124412024",
+   "website": "https://essentialcarecenters.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/89275669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "partners-in-fertility-minneapolis",
+   "name": "partners (in)fertility",
+   "summary": "partners (in)fertility is a therapy practice in Minneapolis, MN at 416 Penn Avenue South, Minneapolis, MN 55405. Phone: +16123241207. Website: https://www.partnersinfertility.net/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/partners-in-fertility-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/partners-in-fertility-minneapolis.json",
+   "address": {
+    "streetAddress": "416 Penn Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9731493,
+    "lon": -93.308687
+   },
+   "phone": "+16123241207",
+   "website": "https://www.partnersinfertility.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/984761598",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "reviving-roots-therapy-and-wellness-minneapolis",
+   "name": "Reviving Roots Therapy & Wellness",
+   "summary": "Reviving Roots Therapy & Wellness is a therapy practice in Minneapolis, MN at 1624 Harmon Place #300, Minneapolis, MN 55403. Phone: +16124457781. Website: https://reviving-roots.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reviving-roots-therapy-and-wellness-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reviving-roots-therapy-and-wellness-minneapolis.json",
+   "address": {
+    "streetAddress": "1624 Harmon Place #300",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9718191,
+    "lon": -93.2858506
+   },
+   "phone": "+16124457781",
+   "website": "https://reviving-roots.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13639106473",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "smary-therapy-center-minneapolis",
+   "name": "Smary Therapy Center",
+   "summary": "Smary Therapy Center is a therapy practice in Minneapolis, MN at Nicollet Avenue #100, Minneapolis, MN. Phone: +16122080751.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smary-therapy-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smary-therapy-center-minneapolis.json",
+   "address": {
+    "streetAddress": "Nicollet Avenue #100",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9620409,
+    "lon": -93.277585
+   },
+   "phone": "+16122080751",
+   "opening_hours": "09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11035069534",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "echo-integrated-mental-health-minneapolis",
+   "name": "Echo Integrated Mental Health",
+   "summary": "Echo Integrated Mental Health is a therapy practice in Minneapolis, MN at 1523 West Lake Street #A, Minneapolis, MN 55408. Website: https://www.echohealthcare.org/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/echo-integrated-mental-health-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/echo-integrated-mental-health-minneapolis.json",
+   "address": {
+    "streetAddress": "1523 West Lake Street #A",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482486,
+    "lon": -93.3018841
+   },
+   "website": "https://www.echohealthcare.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6450215756",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "morningsong-therapy-minneapolis",
+   "name": "Morningsong Therapy",
+   "summary": "Morningsong Therapy is a therapy practice in Minneapolis, MN at 3801 West 50th Street #STE 250B, Minneapolis, MN 55410. Website: https://morningsongtherapy.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morningsong-therapy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morningsong-therapy-minneapolis.json",
+   "address": {
+    "streetAddress": "3801 West 50th Street #STE 250B",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9122638,
+    "lon": -93.3280143
+   },
+   "website": "https://morningsongtherapy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "comprehensive-behavioral-health-minneapolis",
+   "name": "Comprehensive Behavioral Health",
+   "summary": "Comprehensive Behavioral Health is a therapy practice in Minneapolis, MN at 4243 4th Avenue South, Minneapolis, MN. Phone: +16128212003.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/comprehensive-behavioral-health-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/comprehensive-behavioral-health-minneapolis.json",
+   "address": {
+    "streetAddress": "4243 4th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9254588,
+    "lon": -93.2697962
+   },
+   "phone": "+16128212003",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7416355147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "lyn-lake-psychotherapy-and-wellness-minneapolis",
+   "name": "Lyn-Lake Psychotherapy and Wellness",
+   "summary": "Lyn-Lake Psychotherapy and Wellness is a therapy practice in Minneapolis, MN at 3033 Excelsior Boulevard, Minneapolis, MN. Website: https://therapy-mn.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyn-lake-psychotherapy-and-wellness-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyn-lake-psychotherapy-and-wellness-minneapolis.json",
+   "address": {
+    "streetAddress": "3033 Excelsior Boulevard",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9476391,
+    "lon": -93.3184208
+   },
+   "website": "https://therapy-mn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13706216736",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "care-counseling-minneapolis",
+   "name": "CARE Counseling",
+   "summary": "CARE Counseling is a therapy practice in Minneapolis, MN at 204 West Franklin Avenue, Minneapolis, MN 55404.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/care-counseling-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/care-counseling-minneapolis.json",
+   "address": {
+    "streetAddress": "204 West Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9629898,
+    "lon": -93.2811373
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/119004467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "dr-michael-d-thompson-edina",
+   "name": "Dr. Michael D. Thompson",
+   "summary": "Dr. Michael D. Thompson is a therapy practice in Edina, MN at 5007 France Avenue South, Edina, MN 55410.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-michael-d-thompson-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-michael-d-thompson-edina.json",
+   "address": {
+    "streetAddress": "5007 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9122669,
+    "lon": -93.3287802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12143327841",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "bold-north-psychotherapy-minneapolis",
+   "name": "Bold North Psychotherapy",
+   "summary": "Bold North Psychotherapy is a therapy practice in Minneapolis, MN at 4311, Minneapolis, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bold-north-psychotherapy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bold-north-psychotherapy-minneapolis.json",
+   "address": {
+    "streetAddress": "4311",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9241687,
+    "lon": -93.3145829
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12983410405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "lynlake-centers-for-wellbeing-minneapolis",
+   "name": "LynLake centers for wellbeing",
+   "summary": "LynLake centers for wellbeing is a therapy practice in Minneapolis, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lynlake-centers-for-wellbeing-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lynlake-centers-for-wellbeing-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9460693,
+    "lon": -93.2986519
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9918110417",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

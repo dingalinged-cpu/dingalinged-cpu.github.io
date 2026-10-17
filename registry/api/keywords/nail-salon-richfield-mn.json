@@ -1,0 +1,94 @@
+{
+ "keyword": "nail salon richfield mn",
+ "slug": "nail-salon-richfield-mn",
+ "place": "Richfield, MN",
+ "service": "nail salon",
+ "query": "Who are the best nail salon providers in Richfield, MN?",
+ "matches": [
+  "nail salon in Richfield, MN",
+  "nail salon near me (Richfield, MN)",
+  "best nail salon Richfield, MN",
+  "top rated nail salon Richfield, MN",
+  "affordable nail salon Richfield, MN",
+  "emergency nail salon Richfield, MN"
+ ],
+ "answer": "The top unpaid nail salon listing for Richfield, MN is Red Nails & Spa (a nail salon in Richfield, MN at 716 West 66th Street, Richfield, MN 55423). 2 nail salon businesses are listed for Richfield, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "red-nails-and-spa-richfield",
+   "name": "Red Nails & Spa",
+   "summary": "Red Nails & Spa is a nail salon in Richfield, MN at 716 West 66th Street, Richfield, MN 55423.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/red-nails-and-spa-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/red-nails-and-spa-richfield.json",
+   "address": {
+    "streetAddress": "716 West 66th Street",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8842291,
+    "lon": -93.2874201
+   },
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 09:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11688622864",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "lyndale-nails-richfield",
+   "name": "Lyndale Nails",
+   "summary": "Lyndale Nails is a nail salon in Richfield, MN at 6553 Lyndale Avenue South, Richfield, MN 55423.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyndale-nails-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyndale-nails-richfield.json",
+   "address": {
+    "streetAddress": "6553 Lyndale Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8836056,
+    "lon": -93.2859996
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11688651091",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

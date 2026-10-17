@@ -1,0 +1,55 @@
+{
+ "slug": "dentists-of-west-saint-paul-west-saint-paul",
+ "name": "Dentists of West Saint Paul",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist west saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1740 Robert Street South #Unit 110",
+  "addressLocality": "West Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55118",
+  "addressCountry": "US"
+ },
+ "city": "West Saint Paul",
+ "state": "MN",
+ "zip": "55118",
+ "geo": {
+  "lat": 44.8938815,
+  "lon": -93.0801939
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7176583044",
+ "osm": {
+  "type": "node",
+  "id": 7176583044,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "West Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/dentists-of-west-saint-paul-west-saint-paul/",
+ "summary": "Dentists of West Saint Paul is a dentist in West Saint Paul, MN at 1740 Robert Street South #Unit 110, West Saint Paul, MN 55118.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

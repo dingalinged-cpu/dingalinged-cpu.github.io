@@ -1,0 +1,56 @@
+{
+ "slug": "savory-bake-house-minneapolis",
+ "name": "Savory Bake House",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3008 36th Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55406",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55406",
+ "geo": {
+  "lat": 44.9480168,
+  "lon": -93.2205954
+ },
+ "website": "https://www.savorybakehouse.com/",
+ "opening_hours": "Fr-Su 09:00-12:00",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11949173826",
+ "osm": {
+  "type": "node",
+  "id": 11949173826,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/savory-bake-house-minneapolis/",
+ "summary": "Savory Bake House is a bakery in Minneapolis, MN at 3008 36th Avenue South, Minneapolis, MN 55406. Website: https://www.savorybakehouse.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

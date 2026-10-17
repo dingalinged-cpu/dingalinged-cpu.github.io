@@ -1,0 +1,562 @@
+{
+ "place": "Mendota Heights, MN",
+ "slug": "mendota-heights-mn",
+ "count": 17,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "bike shop mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "car wash mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "dentist mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "dry cleaners mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "gym mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "insurance agency mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "insurance agent mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "insurance agents mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "liquor store mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "massage mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "music lessons mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "nail salon mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-mendota-heights-mn.json"
+  },
+  {
+   "keyword": "pet store mendota heights mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-mendota-heights-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "oneten-cycles-mendota-heights",
+   "name": "OneTen Cycles",
+   "summary": "OneTen Cycles is a bike shop in Mendota Heights, MN at 1040 West Dakota Drive, Mendota Heights, MN 55120. Website: https://www.onetencycles.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oneten-cycles-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oneten-cycles-mendota-heights.json",
+   "address": {
+    "streetAddress": "1040 West Dakota Drive",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55120",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55120",
+   "geo": {
+    "lat": 44.8830832,
+    "lon": -93.143237
+   },
+   "website": "https://www.onetencycles.com/",
+   "opening_hours": "Mo-Th 11:00-19:00, Fr 10:00-18:00, Sa 10:00-17:00, Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/220959792",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brighter-minds-music-mendota-heights",
+   "name": "Brighter Minds Music",
+   "summary": "Brighter Minds Music is a music school in Mendota Heights, MN at 770 North Plaza Drive, Mendota Heights, MN 55120. Website: https://www.brightermindsmusic.com/.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brighter-minds-music-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brighter-minds-music-mendota-heights.json",
+   "address": {
+    "streetAddress": "770 North Plaza Drive",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55120",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55120",
+   "geo": {
+    "lat": 44.8819626,
+    "lon": -93.1247324
+   },
+   "website": "https://www.brightermindsmusic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mendota-heights-dental-center-mendota-heights",
+   "name": "Mendota Heights Dental Center",
+   "summary": "Mendota Heights Dental Center is a dentist in Mendota Heights, MN at 880 Sibley Memorial Highway, Mendota Heights, MN 55118. Website: https://www.mendotaheightsfamilydentist.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mendota-heights-dental-center-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mendota-heights-dental-center-mendota-heights.json",
+   "address": {
+    "streetAddress": "880 Sibley Memorial Highway",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9046843,
+    "lon": -93.1319226
+   },
+   "website": "https://www.mendotaheightsfamilydentist.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13610430717",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "for-the-love-of-dogs-mendota-heights",
+   "name": "For The Love Of Dogs",
+   "summary": "For The Love Of Dogs is a pet store in Mendota Heights, MN at 2415 Pilot Knob Road, Mendota Heights, MN. Website: https://www.fortheloveofdogstrainingschool.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/for-the-love-of-dogs-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/for-the-love-of-dogs-mendota-heights.json",
+   "address": {
+    "streetAddress": "2415 Pilot Knob Road",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8659409,
+    "lon": -93.1679799
+   },
+   "website": "https://www.fortheloveofdogstrainingschool.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13043822825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anthem-mendota-heights",
+   "name": "Anthem",
+   "summary": "Anthem is an insurance agent in Mendota Heights, MN at 1285 Northland Drive, Mendota Heights, MN 55120.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anthem-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anthem-mendota-heights.json",
+   "address": {
+    "streetAddress": "1285 Northland Drive",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55120",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55120",
+   "geo": {
+    "lat": 44.8647025,
+    "lon": -93.1601637
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/159165651",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "boltz-tae-kwon-do-mendota-heights",
+   "name": "Boltz Tae Kwon Do",
+   "summary": "Boltz Tae Kwon Do is a gym in Mendota Heights, MN at 780 Plaza Drive, Mendota Heights, MN 55120.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boltz-tae-kwon-do-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boltz-tae-kwon-do-mendota-heights.json",
+   "address": {
+    "streetAddress": "780 Plaza Drive",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55120",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55120",
+   "geo": {
+    "lat": 44.8802474,
+    "lon": -93.125269
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/529046064",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chets-liquor-mendota-heights",
+   "name": "Chet's Liquor",
+   "summary": "Chet's Liquor is a liquor store in Mendota Heights, MN at 974 Sibley Memorial Highway, Mendota Heights, MN 55118.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chets-liquor-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chets-liquor-mendota-heights.json",
+   "address": {
+    "streetAddress": "974 Sibley Memorial Highway",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8991591,
+    "lon": -93.13777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531594244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "curves-mendota-heights",
+   "name": "Curves",
+   "summary": "Curves is a gym in Mendota Heights, MN at 790 Plaza Drive, Mendota Heights, MN 55120.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/curves-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/curves-mendota-heights.json",
+   "address": {
+    "streetAddress": "790 Plaza Drive",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55120",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55120",
+   "geo": {
+    "lat": 44.8802094,
+    "lon": -93.1258505
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/529046061",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "farmer-insurance-mendota-heights",
+   "name": "Farmer Insurance",
+   "summary": "Farmer Insurance is an insurance agent in Mendota Heights, MN at 800 Plaza Drive, Mendota Heights, MN 55120.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmer-insurance-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmer-insurance-mendota-heights.json",
+   "address": {
+    "streetAddress": "800 Plaza Drive",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55120",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55120",
+   "geo": {
+    "lat": 44.8801208,
+    "lon": -93.1261151
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/529046068",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "enchanted-nails-spa-mendota-heights",
+   "name": "Enchanted Nails Spa",
+   "summary": "Enchanted Nails Spa is a nail salon in Mendota Heights, MN at 772, Mendota Heights, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/enchanted-nails-spa-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/enchanted-nails-spa-mendota-heights.json",
+   "address": {
+    "streetAddress": "772",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8819116,
+    "lon": -93.12478
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hush-therapeutic-massage-mendota-heights",
+   "name": "hush Therapeutic Massage",
+   "summary": "hush Therapeutic Massage is a massage studio in Mendota Heights, MN at 776, Mendota Heights, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hush-therapeutic-massage-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hush-therapeutic-massage-mendota-heights.json",
+   "address": {
+    "streetAddress": "776",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8818589,
+    "lon": -93.1248385
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318418",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "saint-croix-cleaners-mendota-heights",
+   "name": "Saint Croix Cleaners",
+   "summary": "Saint Croix Cleaners is a dry cleaner in Mendota Heights, MN at 778, Mendota Heights, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-croix-cleaners-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-croix-cleaners-mendota-heights.json",
+   "address": {
+    "streetAddress": "778",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8817971,
+    "lon": -93.1248944
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318419",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anytime-fitness-mendota-heights",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Mendota Heights, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-mendota-heights.json",
+   "address": {
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8817411,
+    "lon": -93.1239272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318414",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "liquor-barrel-mendota-heights",
+   "name": "Liquor Barrel",
+   "summary": "Liquor Barrel is a liquor store in Mendota Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-barrel-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-barrel-mendota-heights.json",
+   "address": {
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8819201,
+    "lon": -93.1244368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318413",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-mendota-heights",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Mendota Heights, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-mendota-heights.json",
+   "address": {
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8655126,
+    "lon": -93.1521161
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478485185",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-mendota-heights-w531847439",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Mendota Heights, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-mendota-heights-w531847439/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-mendota-heights-w531847439.json",
+   "address": {
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8828344,
+    "lon": -93.146142
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531847439",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "white-pines-senior-living-mendota-heights",
+   "name": "White Pines Senior Living",
+   "summary": "White Pines Senior Living is an assisted living facility in Mendota Heights, MN.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/white-pines-senior-living-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/white-pines-senior-living-mendota-heights.json",
+   "address": {
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8811694,
+    "lon": -93.1232629
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/529046048",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "keyword": "dry cleaners mendota heights mn",
+ "slug": "dry-cleaners-mendota-heights-mn",
+ "place": "Mendota Heights, MN",
+ "service": "dry cleaners",
+ "query": "Who are the best dry cleaners providers in Mendota Heights, MN?",
+ "matches": [
+  "dry cleaners in Mendota Heights, MN",
+  "dry cleaners near me (Mendota Heights, MN)",
+  "best dry cleaners Mendota Heights, MN",
+  "top rated dry cleaners Mendota Heights, MN",
+  "affordable dry cleaners Mendota Heights, MN",
+  "emergency dry cleaners Mendota Heights, MN"
+ ],
+ "answer": "The top unpaid dry cleaners listing for Mendota Heights, MN is Saint Croix Cleaners (a dry cleaner in Mendota Heights, MN at 778, Mendota Heights, MN). 1 dry cleaners businesses are listed for Mendota Heights, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "saint-croix-cleaners-mendota-heights",
+   "name": "Saint Croix Cleaners",
+   "summary": "Saint Croix Cleaners is a dry cleaner in Mendota Heights, MN at 778, Mendota Heights, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-croix-cleaners-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-croix-cleaners-mendota-heights.json",
+   "address": {
+    "streetAddress": "778",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8817971,
+    "lon": -93.1248944
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318419",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "keyword": "phone repair minneapolis mn",
+ "slug": "phone-repair-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "phone repair",
+ "query": "Who are the best phone repair providers in Minneapolis, MN?",
+ "matches": [
+  "phone repair in Minneapolis, MN",
+  "phone repair near me (Minneapolis, MN)",
+  "best phone repair Minneapolis, MN",
+  "top rated phone repair Minneapolis, MN",
+  "affordable phone repair Minneapolis, MN",
+  "emergency phone repair Minneapolis, MN"
+ ],
+ "answer": "The top unpaid phone repair listing for Minneapolis, MN is CPR Cell Phone Repair (a phone repair shop in Minneapolis, MN at 806 Southeast Washington Avenue, Minneapolis, MN 55414. Phone: +16122364682. Website: https://www.cellphonerepair.com/). 3 phone repair businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "cpr-cell-phone-repair-minneapolis",
+   "name": "CPR Cell Phone Repair",
+   "summary": "CPR Cell Phone Repair is a phone repair shop in Minneapolis, MN at 806 Southeast Washington Avenue, Minneapolis, MN 55414. Phone: +16122364682. Website: https://www.cellphonerepair.com/.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cpr-cell-phone-repair-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cpr-cell-phone-repair-minneapolis.json",
+   "address": {
+    "streetAddress": "806 Southeast Washington Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.973478,
+    "lon": -93.2266336
+   },
+   "phone": "+16122364682",
+   "website": "https://www.cellphonerepair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6344134126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "asurion-tech-repair-and-solutions-minneapolis",
+   "name": "Asurion Tech Repair & Solutions",
+   "summary": "Asurion Tech Repair & Solutions is a phone repair shop in Minneapolis, MN. Phone: +16126552890.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asurion-tech-repair-and-solutions-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482431,
+    "lon": -93.2916271
+   },
+   "phone": "+16126552890",
+   "opening_hours": "Mo-Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10243480659",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "fixology-minneapolis",
+   "name": "Fixology",
+   "summary": "Fixology is a phone repair shop in Minneapolis, MN. Website: https://fixologyrepair.com/minneapolis/.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fixology-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fixology-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9772069,
+    "lon": -93.27098
+   },
+   "website": "https://fixologyrepair.com/minneapolis/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12862806761",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

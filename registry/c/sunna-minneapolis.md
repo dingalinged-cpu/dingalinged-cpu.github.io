@@ -1,0 +1,23 @@
+Sunna is a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, Minneapolis, MN 55414. Phone: +16124171991. Website: https://www.spacesunna.com/.
+
+# Sunna
+
+- Category: pilates
+- Services: pilates, yoga classes
+- Address: 514 Southeast 2nd Street #105, Minneapolis, MN 55414
+- City: Minneapolis
+- State: MN
+- ZIP: 55414
+- Coordinates: 44.9831143, -93.249947
+- Phone: +16124171991
+- Website: https://www.spacesunna.com/
+- Email: contact@spacesunna.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sunna-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sunna-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13644296199 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,23 @@
+Scott's Liquors is a liquor store in Saint Paul, MN at 1464 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516904434. Website: https://scottsliquor.com/.
+
+# Scott's Liquors
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1464 Saint Clair Avenue, Saint Paul, MN 55105
+- City: Saint Paul
+- State: MN
+- ZIP: 55105
+- Coordinates: 44.9339255, -93.1622301
+- Phone: +16516904434
+- Website: https://scottsliquor.com/
+- Email: contact@scottsliquor.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/scotts-liquors-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/scotts-liquors-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/400446671 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

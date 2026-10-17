@@ -1,0 +1,96 @@
+{
+ "keyword": "dentist chaska mn",
+ "slug": "dentist-chaska-mn",
+ "place": "Chaska, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Chaska, MN?",
+ "matches": [
+  "dentist in Chaska, MN",
+  "dentist near me (Chaska, MN)",
+  "best dentist Chaska, MN",
+  "top rated dentist Chaska, MN",
+  "affordable dentist Chaska, MN",
+  "emergency dentist Chaska, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Chaska, MN is Town Dental - Chaska (a dentist in Chaska, MN at 1200 Chaska Creek Way #150, Chaska, MN 55318. Website: https://town-dental.com/). 2 dentist businesses are listed for Chaska, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "town-dental-chaska-chaska",
+   "name": "Town Dental - Chaska",
+   "summary": "Town Dental - Chaska is a dentist in Chaska, MN at 1200 Chaska Creek Way #150, Chaska, MN 55318. Website: https://town-dental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/town-dental-chaska-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/town-dental-chaska-chaska.json",
+   "address": {
+    "streetAddress": "1200 Chaska Creek Way #150",
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "postalCode": "55318",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "zip": "55318",
+   "geo": {
+    "lat": 44.8052784,
+    "lon": -93.63158
+   },
+   "website": "https://town-dental.com/",
+   "opening_hours": "Mo 08:00-17:00, Tu 08:00-17:00, We 07:00-16:00, Th 07:30-16:30, Fr-Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11777821189",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "the-dental-specialists-orthodontics-chaska",
+   "name": "The Dental Specialists Orthodontics",
+   "summary": "The Dental Specialists Orthodontics is a dentist in Chaska, MN at 1150 Hazeltine Boulevard, Chaska, MN 55318. Website: https://www.thedentalspecialists.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dental-specialists-orthodontics-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dental-specialists-orthodontics-chaska.json",
+   "address": {
+    "streetAddress": "1150 Hazeltine Boulevard",
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "postalCode": "55318",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "zip": "55318",
+   "geo": {
+    "lat": 44.8329683,
+    "lon": -93.6015125
+   },
+   "website": "https://www.thedentalspecialists.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1021270932",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

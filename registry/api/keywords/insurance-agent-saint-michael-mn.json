@@ -1,0 +1,98 @@
+{
+ "keyword": "insurance agent saint michael mn",
+ "slug": "insurance-agent-saint-michael-mn",
+ "place": "Saint Michael, MN",
+ "service": "insurance agent",
+ "query": "Who are the best insurance agent providers in Saint Michael, MN?",
+ "matches": [
+  "insurance agent in Saint Michael, MN",
+  "insurance agent near me (Saint Michael, MN)",
+  "best insurance agent Saint Michael, MN",
+  "top rated insurance agent Saint Michael, MN",
+  "affordable insurance agent Saint Michael, MN",
+  "emergency insurance agent Saint Michael, MN"
+ ],
+ "answer": "The top unpaid insurance agent listing for Saint Michael, MN is Farmers Insurance - David Mugg (an insurance agent in Saint Michael, MN at 400 Central Avenue East #55, Saint Michael, MN 55376. Phone: +17632983563. Website: https://agents.farmers.com/mn/saint-michael/david-mugg/). 2 insurance agent businesses are listed for Saint Michael, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "farmers-insurance-david-mugg-saint-michael",
+   "name": "Farmers Insurance - David Mugg",
+   "summary": "Farmers Insurance - David Mugg is an insurance agent in Saint Michael, MN at 400 Central Avenue East #55, Saint Michael, MN 55376. Phone: +17632983563. Website: https://agents.farmers.com/mn/saint-michael/david-mugg/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-david-mugg-saint-michael/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-david-mugg-saint-michael.json",
+   "address": {
+    "streetAddress": "400 Central Avenue East #55",
+    "addressLocality": "Saint Michael",
+    "addressRegion": "MN",
+    "postalCode": "55376",
+    "addressCountry": "US"
+   },
+   "city": "Saint Michael",
+   "state": "MN",
+   "zip": "55376",
+   "geo": {
+    "lat": 45.2108686,
+    "lon": -93.6551588
+   },
+   "phone": "+17632983563",
+   "website": "https://agents.farmers.com/mn/saint-michael/david-mugg/",
+   "opening_hours": "Mo-Fr 08:30-17:30; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13677514763",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "infinity-insurance-agency-saint-michael",
+   "name": "Infinity Insurance Agency",
+   "summary": "Infinity Insurance Agency is an insurance agent in Saint Michael, MN at 601 Central Avenue West, Saint Michael, MN 55376. Phone: +17634970722. Website: https://www.infinityinsmn.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/infinity-insurance-agency-saint-michael/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/infinity-insurance-agency-saint-michael.json",
+   "address": {
+    "streetAddress": "601 Central Avenue West",
+    "addressLocality": "Saint Michael",
+    "addressRegion": "MN",
+    "postalCode": "55376",
+    "addressCountry": "US"
+   },
+   "city": "Saint Michael",
+   "state": "MN",
+   "zip": "55376",
+   "geo": {
+    "lat": 45.207313,
+    "lon": -93.6758322
+   },
+   "phone": "+17634970722",
+   "website": "https://www.infinityinsmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12050054862",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

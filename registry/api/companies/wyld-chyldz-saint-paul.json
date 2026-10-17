@@ -1,0 +1,60 @@
+{
+ "slug": "wyld-chyldz-saint-paul",
+ "name": "Wyld Chyldz",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon saint paul mn",
+  "haircut saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "880 Payne Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9678305,
+  "lon": -93.0734139
+ },
+ "phone": "+17736644054",
+ "website": "https://www.wyldchyldz.com/",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12264854810",
+ "osm": {
+  "type": "node",
+  "id": 12264854810,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/wyld-chyldz-saint-paul/",
+ "summary": "Wyld Chyldz is a hair salon in Saint Paul, MN at 880 Payne Avenue, Saint Paul, MN. Phone: +17736644054. Website: https://www.wyldchyldz.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

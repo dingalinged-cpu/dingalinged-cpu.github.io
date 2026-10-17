@@ -1,0 +1,54 @@
+{
+ "slug": "samaritan-tire-edina",
+ "name": "Samaritan Tire",
+ "categories": [
+  "tire shop"
+ ],
+ "keywords": [
+  "tire shop",
+  "tire shop edina mn"
+ ],
+ "services": [
+  {
+   "name": "tire shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3230 Southdale Circle",
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "postalCode": "55435",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "zip": "55435",
+ "geo": {
+  "lat": 44.8820423,
+  "lon": -93.3205217
+ },
+ "schema_type": "TireShop",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/51857593",
+ "osm": {
+  "type": "way",
+  "id": 51857593,
+  "tags_used": {
+   "shop": "tyres"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/samaritan-tire-edina/",
+ "summary": "Samaritan Tire is a tire shop in Edina, MN at 3230 Southdale Circle, Edina, MN 55435.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

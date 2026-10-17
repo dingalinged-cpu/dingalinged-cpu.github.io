@@ -1,0 +1,177 @@
+{
+ "keyword": "liquor store minnetonka mn",
+ "slug": "liquor-store-minnetonka-mn",
+ "place": "Minnetonka, MN",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in Minnetonka, MN?",
+ "matches": [
+  "liquor store in Minnetonka, MN",
+  "liquor store near me (Minnetonka, MN)",
+  "best liquor store Minnetonka, MN",
+  "top rated liquor store Minnetonka, MN",
+  "affordable liquor store Minnetonka, MN",
+  "emergency liquor store Minnetonka, MN"
+ ],
+ "answer": "The top unpaid liquor store listing for Minnetonka, MN is Strong Liquors (a liquor store in Minnetonka, MN at 11048 Cedar Lake Road, Minnetonka, MN 55305). 5 liquor store businesses are listed for Minnetonka, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "strong-liquors-minnetonka",
+   "name": "Strong Liquors",
+   "summary": "Strong Liquors is a liquor store in Minnetonka, MN at 11048 Cedar Lake Road, Minnetonka, MN 55305.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strong-liquors-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strong-liquors-minnetonka.json",
+   "address": {
+    "streetAddress": "11048 Cedar Lake Road",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9531837,
+    "lon": -93.4177002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11331448609",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "lunds-and-byerlys-wines-and-spirits-minnetonka",
+   "name": "Lunds & Byerlys Wines & Spirits",
+   "summary": "Lunds & Byerlys Wines & Spirits is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lunds-and-byerlys-wines-and-spirits-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lunds-and-byerlys-wines-and-spirits-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9683797,
+    "lon": -93.4463636
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482424393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "mgm-liquors-minnetonka-minnetonka",
+   "name": "MGM Liquors Minnetonka",
+   "summary": "MGM Liquors Minnetonka is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquors-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquors-minnetonka-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9170414,
+    "lon": -93.5011273
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9031893898",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-wine-shop-minnetonka",
+   "name": "The Wine Shop",
+   "summary": "The Wine Shop is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wine-shop-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wine-shop-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9413372,
+    "lon": -93.5015936
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9032025498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "tonka-bottle-shop-minnetonka",
+   "name": "Tonka Bottle Shop",
+   "summary": "Tonka Bottle Shop is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tonka-bottle-shop-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tonka-bottle-shop-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9424132,
+    "lon": -93.5033937
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9032025499",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,1677 @@
+{
+ "keyword": "massage",
+ "slug": "massage",
+ "place": "the United States",
+ "service": "massage",
+ "query": "Who are the best massage providers in the United States?",
+ "matches": [
+  "massage in the United States",
+  "massage near me (the United States)",
+  "best massage the United States",
+  "top rated massage the United States",
+  "affordable massage the United States",
+  "emergency massage the United States"
+ ],
+ "answer": "The top unpaid massage listing for the United States is Body Healing Services (a massage studio in Minneapolis, MN at 5037 France Avenue South #Suite 203, Minneapolis, MN 55410. Phone: +16129861207. Website: https://www.bodyhealingservices.com/). 51 massage businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "body-healing-services-minneapolis",
+   "name": "Body Healing Services",
+   "summary": "Body Healing Services is a massage studio in Minneapolis, MN at 5037 France Avenue South #Suite 203, Minneapolis, MN 55410. Phone: +16129861207. Website: https://www.bodyhealingservices.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/body-healing-services-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/body-healing-services-minneapolis.json",
+   "address": {
+    "streetAddress": "5037 France Avenue South #Suite 203",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9112819,
+    "lon": -93.3285229
+   },
+   "phone": "+16129861207",
+   "website": "https://www.bodyhealingservices.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12147010858",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "escape-to-paradise-llc-minneapolis",
+   "name": "Escape To Paradise LLC",
+   "summary": "Escape To Paradise LLC is a massage studio in Minneapolis, MN at 3249 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16122979609. Website: https://escapetoparadisellc.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/escape-to-paradise-llc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/escape-to-paradise-llc-minneapolis.json",
+   "address": {
+    "streetAddress": "3249 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9431867,
+    "lon": -93.2980767
+   },
+   "phone": "+16122979609",
+   "website": "https://escapetoparadisellc.com/",
+   "opening_hours": "Mo-Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11608604556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "graces-massage-therapy-roseville",
+   "name": "Grace's Massage Therapy",
+   "summary": "Grace's Massage Therapy is a massage studio in Roseville, MN at 1734 Lexington Avenue N, Roseville, MN 55113. Phone: +17633372188. Website: https://www.gracesmassagetherapy.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/graces-massage-therapy-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/graces-massage-therapy-roseville.json",
+   "address": {
+    "streetAddress": "1734 Lexington Avenue N",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9936138,
+    "lon": -93.1456915
+   },
+   "phone": "+17633372188",
+   "website": "https://www.gracesmassagetherapy.com/",
+   "opening_hours": "Mo-Su 09:30-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147169434",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "holistic-kneads-minneapolis",
+   "name": "Holistic Kneads",
+   "summary": "Holistic Kneads is a massage studio in Minneapolis, MN at 3609 Bryant Avenue South, Minneapolis, MN 55408. Phone: +16128279557. Website: https://www.holistickneads.net/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holistic-kneads-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holistic-kneads-minneapolis.json",
+   "address": {
+    "streetAddress": "3609 Bryant Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9372852,
+    "lon": -93.2906232
+   },
+   "phone": "+16128279557",
+   "website": "https://www.holistickneads.net/",
+   "opening_hours": "\"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5286875273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "jai-dee-osseo",
+   "name": "Jai Dee",
+   "summary": "Jai Dee is a massage studio in Osseo, MN at 233 1st Avenue Northeast, Osseo, MN 55369. Phone: +17636006957. Website: https://www.jaideewellness.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jai-dee-osseo/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jai-dee-osseo.json",
+   "address": {
+    "streetAddress": "233 1st Avenue Northeast",
+    "addressLocality": "Osseo",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Osseo",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1191057,
+    "lon": -93.4008307
+   },
+   "phone": "+17636006957",
+   "website": "https://www.jaideewellness.com/",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920343904",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "massage-envy-edina",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Edina, MN at 7101 France Avenue South, Edina, MN 55435. Phone: +19529558228. Website: https://www.massageenvy.com/clinics/MN/Edina-.aspx.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-edina.json",
+   "address": {
+    "streetAddress": "7101 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8744771,
+    "lon": -93.3282597
+   },
+   "phone": "+19529558228",
+   "website": "https://www.massageenvy.com/clinics/MN/Edina-.aspx",
+   "opening_hours": "Mo-Su 09:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5018640762",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "massage-envy-maple-grove",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Maple Grove, MN at 8091 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634251777. Website: https://locations.massageenvy.com/minnesota/maple-grove/8091-wedgewood-lane-north.html.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-maple-grove.json",
+   "address": {
+    "streetAddress": "8091 Wedgewood Lane",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1014628,
+    "lon": -93.4504717
+   },
+   "phone": "+17634251777",
+   "website": "https://locations.massageenvy.com/minnesota/maple-grove/8091-wedgewood-lane-north.html",
+   "opening_hours": "Mo-Fr 08:00-22:00;Sa 08:00-21:00;Su 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613971259",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "massage-envy-minneapolis",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Minneapolis, MN at 3254 Lake Street West, Minneapolis, MN 55416. Phone: +16124559000. Website: https://locations.massageenvy.com/minnesota/minneapolis/3254-west-lake-street.html.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-minneapolis.json",
+   "address": {
+    "streetAddress": "3254 Lake Street West",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.948643,
+    "lon": -93.321887
+   },
+   "phone": "+16124559000",
+   "website": "https://locations.massageenvy.com/minnesota/minneapolis/3254-west-lake-street.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6701050765",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "massage-xcape-roseville",
+   "name": "Massage Xcape",
+   "summary": "Massage Xcape is a massage studio in Roseville, MN at 1767 Lexington Avenue North, Roseville, MN 55113. Phone: +16519641112. Website: https://www.massage-xcape.business.site/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-xcape-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-xcape-roseville.json",
+   "address": {
+    "streetAddress": "1767 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9946963,
+    "lon": -93.1469149
+   },
+   "phone": "+16519641112",
+   "website": "https://www.massage-xcape.business.site/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7141890137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "sun-spa-champlin",
+   "name": "Sun Spa",
+   "summary": "Sun Spa is a massage studio in Champlin, MN at 514 Jefferson Highway North, Champlin, MN 55316. Phone: +17634329139. Website: https://sunspamn.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-spa-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-spa-champlin.json",
+   "address": {
+    "streetAddress": "514 Jefferson Highway North",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1841853,
+    "lon": -93.3932005
+   },
+   "phone": "+17634329139",
+   "website": "https://sunspamn.com/",
+   "opening_hours": "Mo-Su 09:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9377710587",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "avivage-massage-saint-paul",
+   "name": "Avivage Massage",
+   "summary": "Avivage Massage is a massage studio in Saint Paul, MN at 649 Grand Avenue #2, Saint Paul, MN 55105. Phone: +16512228222. Website: https://avivagemassage.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avivage-massage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avivage-massage-saint-paul.json",
+   "address": {
+    "streetAddress": "649 Grand Avenue #2",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9402036,
+    "lon": -93.1274149
+   },
+   "phone": "+16512228222",
+   "website": "https://avivagemassage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920889289",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "center-for-a-balanced-life-inc-west-saint-paul",
+   "name": "Center For A Balanced Life Inc",
+   "summary": "Center For A Balanced Life Inc is a massage studio in West Saint Paul, MN at 1545 Livingston Avenue #100, West Saint Paul, MN 55118. Phone: +16514550473. Website: https://centerforabalancedlifeincmn.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/center-for-a-balanced-life-inc-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/center-for-a-balanced-life-inc-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1545 Livingston Avenue #100",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8998148,
+    "lon": -93.083087
+   },
+   "phone": "+16514550473",
+   "website": "https://centerforabalancedlifeincmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4568188157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "clear-holistic-therapies-minneapolis",
+   "name": "Clear Holistic Therapies",
+   "summary": "Clear Holistic Therapies is a massage studio in Minneapolis, MN at 406 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16123777677. Website: https://www.clearholistictherapies.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clear-holistic-therapies-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clear-holistic-therapies-minneapolis.json",
+   "address": {
+    "streetAddress": "406 Cedar Lake Road South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9737374,
+    "lon": -93.3087514
+   },
+   "phone": "+16123777677",
+   "website": "https://www.clearholistictherapies.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9101873955",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "elements-massage-saint-louis-park",
+   "name": "Elements Massage",
+   "summary": "Elements Massage is a massage studio in Saint Louis Park, MN at 5640 36th Street West, Saint Louis Park, MN 55416. Phone: +19523535674. Website: https://elementsmassage.com/st-louis-park/how-much-does-a-massage-cost?y_source=1_MTU1OTg3MjctNzE1LWxvY2F0aW9uLm1lbnVfdXJs.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elements-massage-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elements-massage-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5640 36th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9379843,
+    "lon": -93.3508003
+   },
+   "phone": "+19523535674",
+   "website": "https://elementsmassage.com/st-louis-park/how-much-does-a-massage-cost?y_source=1_MTU1OTg3MjctNzE1LWxvY2F0aW9uLm1lbnVfdXJs",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9590892964",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park",
+   "name": "Epic Bodyworks Massage & Skin Care Clinic",
+   "summary": "Epic Bodyworks Massage & Skin Care Clinic is a massage studio in Saint Louis Park, MN at 6726 Walker Street, Saint Louis Park, MN 55426. Phone: +19525461364. Website: https://www.epicbodyworks.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6726 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9392563,
+    "lon": -93.3651207
+   },
+   "phone": "+19525461364",
+   "website": "https://www.epicbodyworks.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1051732543",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "garden-of-eden-spa-oakdale",
+   "name": "Garden of Eden Spa",
+   "summary": "Garden of Eden Spa is a massage studio in Oakdale, MN at 5695 Geneva Avenue North, Oakdale, MN 55128. Phone: +16514930261. Website: https://gardenofeden.grouppayless.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garden-of-eden-spa-oakdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garden-of-eden-spa-oakdale.json",
+   "address": {
+    "streetAddress": "5695 Geneva Avenue North",
+    "addressLocality": "Oakdale",
+    "addressRegion": "MN",
+    "postalCode": "55128",
+    "addressCountry": "US"
+   },
+   "city": "Oakdale",
+   "state": "MN",
+   "zip": "55128",
+   "geo": {
+    "lat": 45.0309845,
+    "lon": -92.984103
+   },
+   "phone": "+16514930261",
+   "website": "https://gardenofeden.grouppayless.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6636466366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "heart-life-massage-saint-paul",
+   "name": "Heart Life Massage",
+   "summary": "Heart Life Massage is a massage studio in Saint Paul, MN at 1887 Grand Avenue #10, Saint Paul, MN 55105. Phone: +16516981022. Website: https://www.heartlifemassage.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heart-life-massage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heart-life-massage-saint-paul.json",
+   "address": {
+    "streetAddress": "1887 Grand Avenue #10",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9403658,
+    "lon": -93.1801694
+   },
+   "phone": "+16516981022",
+   "website": "https://www.heartlifemassage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8914957197",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "hush-therapeutic-massage-saint-paul",
+   "name": "Hush Therapeutic Massage",
+   "summary": "Hush Therapeutic Massage is a massage studio in Saint Paul, MN at 1053 Grand Avenue, Saint Paul, MN 55105. Phone: +16519643446. Website: https://hushstudio.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hush-therapeutic-massage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hush-therapeutic-massage-saint-paul.json",
+   "address": {
+    "streetAddress": "1053 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9402863,
+    "lon": -93.1444302
+   },
+   "phone": "+16519643446",
+   "website": "https://hushstudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920602102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "peace-is-at-hand-massage-therapy-and-bodywork-minneapolis",
+   "name": "Peace is at Hand Massage Therapy & Bodywork",
+   "summary": "Peace is at Hand Massage Therapy & Bodywork is a massage studio in Minneapolis, MN at 3300 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +19522400724. Website: https://www.peaceisathand.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peace-is-at-hand-massage-therapy-and-bodywork-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peace-is-at-hand-massage-therapy-and-bodywork-minneapolis.json",
+   "address": {
+    "streetAddress": "3300 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.942805,
+    "lon": -93.2884639
+   },
+   "phone": "+19522400724",
+   "website": "https://www.peaceisathand.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5286875274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "massage-envy-blaine",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Blaine, MN at 10450 Baltimore Street Northeast, Blaine, MN 55449. Website: https://www.massageenvy.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-blaine.json",
+   "address": {
+    "streetAddress": "10450 Baltimore Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1604118,
+    "lon": -93.2334812
+   },
+   "website": "https://www.massageenvy.com/",
+   "opening_hours": "08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7087125520",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "seidou-spa-shorewood",
+   "name": "Seidou Spa",
+   "summary": "Seidou Spa is a massage studio in Shorewood, MN at 24000 Minnesota State Highway 7 #201, Shorewood, MN 55331. Phone: +19523569410.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seidou-spa-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seidou-spa-shorewood.json",
+   "address": {
+    "streetAddress": "24000 Minnesota State Highway 7 #201",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8920519,
+    "lon": -93.583718
+   },
+   "phone": "+19523569410",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215326435",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "vida-bodywork-minneapolis",
+   "name": "Vida Bodywork",
+   "summary": "Vida Bodywork is a massage studio in Minneapolis, MN at 611 West Lake Street, Minneapolis, MN 55408. Website: https://www.vidabodywork.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vida-bodywork-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vida-bodywork-minneapolis.json",
+   "address": {
+    "streetAddress": "611 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.948231,
+    "lon": -93.287482
+   },
+   "website": "https://www.vidabodywork.com/",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5292643310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "relaxing-massage-bloomington",
+   "name": "Relaxing Massage",
+   "summary": "Relaxing Massage is a massage studio in Bloomington, MN at 367 North Garden, Bloomington, MN. Phone: +19528544815.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/relaxing-massage-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/relaxing-massage-bloomington.json",
+   "address": {
+    "streetAddress": "367 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8554197,
+    "lon": -93.2411496
+   },
+   "phone": "+19528544815",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829606",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "dvine-massage-health-and-wellness-saint-paul",
+   "name": "D'Vine Massage Health & Wellness",
+   "summary": "D'Vine Massage Health & Wellness is a massage studio in Saint Paul, MN. Phone: +16514345889. Website: https://www.facebook.com/pages/category/Medical---Health/DVine-Massage-Health-Wellness-2341398262766646/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dvine-massage-health-and-wellness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dvine-massage-health-and-wellness-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9403081,
+    "lon": -93.1652666
+   },
+   "phone": "+16514345889",
+   "website": "https://www.facebook.com/pages/category/Medical---Health/DVine-Massage-Health-Wellness-2341398262766646/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8796559991",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "alpha-massage-minneapolis",
+   "name": "Alpha Massage",
+   "summary": "Alpha Massage is a massage studio in Minneapolis, MN at 115 North 1st Street, Minneapolis, MN 55401. Website: https://alphamassage.co/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpha-massage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpha-massage-minneapolis.json",
+   "address": {
+    "streetAddress": "115 North 1st Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9849049,
+    "lon": -93.2686306
+   },
+   "website": "https://alphamassage.co/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626360294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "axon-movement-edina",
+   "name": "Axon Movement",
+   "summary": "Axon Movement is a massage studio in Edina, MN at 4820 West 77th Street #100, Edina, MN 55435. Website: https://www.axon-movement.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/axon-movement-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/axon-movement-edina.json",
+   "address": {
+    "streetAddress": "4820 West 77th Street #100",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8641544,
+    "lon": -93.3458522
+   },
+   "website": "https://www.axon-movement.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006863402",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "red-sky-massage-chaska",
+   "name": "Red Sky Massage",
+   "summary": "Red Sky Massage is a massage studio in Chaska, MN at 808 Yellow Brick Road, Chaska, MN 55318. Phone: +19527158080.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/red-sky-massage-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/red-sky-massage-chaska.json",
+   "address": {
+    "streetAddress": "808 Yellow Brick Road",
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "postalCode": "55318",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "zip": "55318",
+   "geo": {
+    "lat": 44.7917946,
+    "lon": -93.599509
+   },
+   "phone": "+19527158080",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12752805380",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "massage-and-healing-by-mary-and-friends-minneapolis",
+   "name": "Massage & Healing by Mary and Friends",
+   "summary": "Massage & Healing by Mary and Friends is a massage studio in Minneapolis, MN at 2848 Northeast Johnson Street, Minneapolis, MN. Phone: +16129649366.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-and-healing-by-mary-and-friends-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-and-healing-by-mary-and-friends-minneapolis.json",
+   "address": {
+    "streetAddress": "2848 Northeast Johnson Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.02007,
+    "lon": -93.2373023
+   },
+   "phone": "+16129649366",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8300261458",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "shiatsu-renu-bloomington",
+   "name": "Shiatsu Renu",
+   "summary": "Shiatsu Renu is a massage studio in Bloomington, MN at 390 West Market, Bloomington, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shiatsu-renu-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shiatsu-renu-bloomington.json",
+   "address": {
+    "streetAddress": "390 West Market",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8541035,
+    "lon": -93.2432681
+   },
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829581",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "massage-burnsville",
+   "name": "Massage",
+   "summary": "Massage is a massage studio in Burnsville, MN. Phone: +16123687910.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-burnsville.json",
+   "address": {
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "geo": {
+    "lat": 44.791599,
+    "lon": -93.240493
+   },
+   "phone": "+16123687910",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12801289388",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "posh-spa-minneapolis",
+   "name": "Posh Spa",
+   "summary": "Posh Spa is a massage studio in Minneapolis, MN. Phone: +16123152267.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/posh-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/posh-spa-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9248296,
+    "lon": -93.2910113
+   },
+   "phone": "+16123152267",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6359447309",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "aervita-integrative-medicine-hyperbarics-edina",
+   "name": "Aervita Integrative Medicine + Hyperbarics",
+   "summary": "Aervita Integrative Medicine + Hyperbarics is a massage studio in Edina, MN at 4820 West 77th Street #150, Edina, MN 55435.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aervita-integrative-medicine-hyperbarics-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aervita-integrative-medicine-hyperbarics-edina.json",
+   "address": {
+    "streetAddress": "4820 West 77th Street #150",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8642188,
+    "lon": -93.3461556
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006819699",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "elements-massage-eden-prairie",
+   "name": "Elements Massage",
+   "summary": "Elements Massage is a massage studio in Eden Prairie, MN at 10165 Hennepin Town Road #103, Eden Prairie, MN 55347.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elements-massage-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elements-massage-eden-prairie.json",
+   "address": {
+    "streetAddress": "10165 Hennepin Town Road #103",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55347",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55347",
+   "geo": {
+    "lat": 44.8210597,
+    "lon": -93.4011514
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11680086344",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "european-massage-therapy-hopkins",
+   "name": "European Massage Therapy",
+   "summary": "European Massage Therapy is a massage studio in Hopkins, MN at 901 1st Street North, Hopkins, MN 55343.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-massage-therapy-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-massage-therapy-hopkins.json",
+   "address": {
+    "streetAddress": "901 1st Street North",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9262621,
+    "lon": -93.4117807
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12099767281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "integrative-massage-edina-edina",
+   "name": "Integrative Massage Edina",
+   "summary": "Integrative Massage Edina is a massage studio in Edina, MN at 4820 West 77th Street #150, Edina, MN 55435.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/integrative-massage-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/integrative-massage-edina-edina.json",
+   "address": {
+    "streetAddress": "4820 West 77th Street #150",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8641608,
+    "lon": -93.3460538
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006819700",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "massage-chaska",
+   "name": "Massage",
+   "summary": "Massage is a massage studio in Chaska, MN at 150 Pioneer Trail, Chaska, MN 55318.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-chaska/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-chaska.json",
+   "address": {
+    "streetAddress": "150 Pioneer Trail",
+    "addressLocality": "Chaska",
+    "addressRegion": "MN",
+    "postalCode": "55318",
+    "addressCountry": "US"
+   },
+   "city": "Chaska",
+   "state": "MN",
+   "zip": "55318",
+   "geo": {
+    "lat": 44.8298321,
+    "lon": -93.6002446
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13017745213",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "massage-retreat-and-spa-plymouth",
+   "name": "Massage Retreat & Spa",
+   "summary": "Massage Retreat & Spa is a massage studio in Plymouth, MN at 4445 Nathan Lane North #Suite B, Plymouth, MN 55442.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-retreat-and-spa-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-retreat-and-spa-plymouth.json",
+   "address": {
+    "streetAddress": "4445 Nathan Lane North #Suite B",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55442",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55442",
+   "geo": {
+    "lat": 45.03508,
+    "lon": -93.4092337
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7167433148",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "serenity-massage-saint-paul",
+   "name": "Serenity Massage",
+   "summary": "Serenity Massage is a massage studio in Saint Paul, MN at 400 Selby Avenue #Suite F, Saint Paul, MN 55102.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/serenity-massage-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/serenity-massage-saint-paul.json",
+   "address": {
+    "streetAddress": "400 Selby Avenue #Suite F",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9462323,
+    "lon": -93.1171688
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818226867",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "eagan-massage-center-eagan",
+   "name": "Eagan Massage Center",
+   "summary": "Eagan Massage Center is a massage studio in Eagan, MN at 3424, Eagan, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eagan-massage-center-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eagan-massage-center-eagan.json",
+   "address": {
+    "streetAddress": "3424",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8313459,
+    "lon": -93.1587475
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724585211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "hand-and-stone-maple-grove",
+   "name": "Hand and Stone",
+   "summary": "Hand and Stone is a massage studio in Maple Grove, MN at 11647, Maple Grove, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hand-and-stone-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hand-and-stone-maple-grove.json",
+   "address": {
+    "streetAddress": "11647",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0934446,
+    "lon": -93.4275103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5597424694",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "hush-therapeutic-massage-mendota-heights",
+   "name": "hush Therapeutic Massage",
+   "summary": "hush Therapeutic Massage is a massage studio in Mendota Heights, MN at 776, Mendota Heights, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hush-therapeutic-massage-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hush-therapeutic-massage-mendota-heights.json",
+   "address": {
+    "streetAddress": "776",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8818589,
+    "lon": -93.1248385
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318418",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "massage-retreat-and-spa-eden-prairie",
+   "name": "Massage Retreat & Spa",
+   "summary": "Massage Retreat & Spa is a massage studio in Eden Prairie, MN at 8248 Commonwealth Drive, Eden Prairie, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-retreat-and-spa-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-retreat-and-spa-eden-prairie.json",
+   "address": {
+    "streetAddress": "8248 Commonwealth Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547345,
+    "lon": -93.4338249
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4145440394",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "resinosa-massage-eagan",
+   "name": "Resinosa Massage",
+   "summary": "Resinosa Massage is a massage studio in Eagan, MN at 3410 Federal Drive, Eagan, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/resinosa-massage-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/resinosa-massage-eagan.json",
+   "address": {
+    "streetAddress": "3410 Federal Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8328319,
+    "lon": -93.1717992
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134351521",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "massage-envy-eagan",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Eagan, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8360476,
+    "lon": -93.1695925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724662590",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "massage-envy-minnetonka",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Minnetonka, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9683588,
+    "lon": -93.446605
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482424793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "massage-envy-minnetonka-n11098487967",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Minnetonka, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka-n11098487967/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-minnetonka-n11098487967.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9180997,
+    "lon": -93.503938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "no-knots-massage-and-bodywork-saint-paul-park",
+   "name": "No Knots Massage and Bodywork",
+   "summary": "No Knots Massage and Bodywork is a massage studio in Saint Paul Park, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/no-knots-massage-and-bodywork-saint-paul-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/no-knots-massage-and-bodywork-saint-paul-park.json",
+   "address": {
+    "addressLocality": "Saint Paul Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8481384,
+    "lon": -92.9961834
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603190104",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "thai-massage-crystal",
+   "name": "Thai Massage",
+   "summary": "Thai Massage is a massage studio in Crystal, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thai-massage-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thai-massage-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.053463,
+    "lon": -93.3629958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7131839062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "the-chiroport-chiropractic-fort-snelling-unorganized-territory",
+   "name": "The Chiroport Chiropractic",
+   "summary": "The Chiroport Chiropractic is a massage studio in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-chiroport-chiropractic-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-chiroport-chiropractic-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8814702,
+    "lon": -93.2106495
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387501088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "the-great-metropolitan-back-rub-saint-paul",
+   "name": "The Great Metropolitan Back Rub",
+   "summary": "The Great Metropolitan Back Rub is a massage studio in Saint Paul, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-great-metropolitan-back-rub-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-great-metropolitan-back-rub-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9183488,
+    "lon": -93.1871653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/728154097",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "xpresspa-fort-snelling-unorganized-territory",
+   "name": "XpresSpa",
+   "summary": "XpresSpa is a massage studio in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/xpresspa-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/xpresspa-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8849348,
+    "lon": -93.2105956
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5744517021",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

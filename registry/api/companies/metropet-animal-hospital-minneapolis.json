@@ -1,0 +1,55 @@
+{
+ "slug": "metropet-animal-hospital-minneapolis",
+ "name": "MetroPet Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2603 Hennepin Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9553295,
+  "lon": -93.2966517
+ },
+ "phone": "+16123744414",
+ "website": "https://metropetmn.com/",
+ "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-15:00",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4993586040",
+ "osm": {
+  "type": "node",
+  "id": 4993586040,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/metropet-animal-hospital-minneapolis/",
+ "summary": "MetroPet Animal Hospital is a veterinarian in Minneapolis, MN at 2603 Hennepin Avenue South, Minneapolis, MN. Phone: +16123744414. Website: https://metropetmn.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

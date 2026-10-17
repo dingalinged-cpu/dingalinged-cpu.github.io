@@ -1,0 +1,23 @@
+All J's Tire Center is an auto repair shop in Minneapolis, MN at 3023 West 50th Street, Minneapolis, MN 55410. Website: https://www.alljstire.com/.
+
+# All J's Tire Center
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 3023 West 50th Street, Minneapolis, MN 55410
+- City: Minneapolis
+- State: MN
+- ZIP: 55410
+- Coordinates: 44.9122617, -93.3184459
+- Phone: n/a
+- Website: https://www.alljstire.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/all-js-tire-center-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-js-tire-center-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1284648969 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

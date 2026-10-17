@@ -1,0 +1,183 @@
+{
+ "keyword": "car wash chanhassen mn",
+ "slug": "car-wash-chanhassen-mn",
+ "place": "Chanhassen, MN",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in Chanhassen, MN?",
+ "matches": [
+  "car wash in Chanhassen, MN",
+  "car wash near me (Chanhassen, MN)",
+  "best car wash Chanhassen, MN",
+  "top rated car wash Chanhassen, MN",
+  "affordable car wash Chanhassen, MN",
+  "emergency car wash Chanhassen, MN"
+ ],
+ "answer": "The top unpaid car wash listing for Chanhassen, MN is BP (a car wash in Chanhassen, MN at 7755 West 78th Street, Chanhassen, MN 55317). 5 car wash businesses are listed for Chanhassen, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bp-chanhassen",
+   "name": "BP",
+   "summary": "BP is a car wash in Chanhassen, MN at 7755 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-chanhassen.json",
+   "address": {
+    "streetAddress": "7755 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8640916,
+    "lon": -93.5890887
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52255159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "kwik-trip-chanhassen",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=402.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8640904,
+    "lon": -93.5776399
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=402",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52255162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "kwik-trip-chanhassen-w258506166",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=492.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen-w258506166/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-chanhassen-w258506166.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8423664,
+    "lon": -93.539362
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=492",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/258506166",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "browns-car-wash-chanhassen",
+   "name": "Brown's Car Wash",
+   "summary": "Brown's Car Wash is a car wash in Chanhassen, MN at 7903 Great Plains Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/browns-car-wash-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/browns-car-wash-chanhassen.json",
+   "address": {
+    "streetAddress": "7903 Great Plains Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8603205,
+    "lon": -93.53062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/589088945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "speedy-wash-chanhassen",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Chanhassen, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8568405,
+    "lon": -93.5962826
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478425850",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

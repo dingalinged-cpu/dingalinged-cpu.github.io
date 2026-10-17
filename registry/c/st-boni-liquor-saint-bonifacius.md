@@ -1,0 +1,23 @@
+St. Boni Liquor is a liquor store in Saint Bonifacius, MN.
+
+# St. Boni Liquor
+
+- Category: liquor store
+- Services: liquor store
+- Address: Saint Bonifacius, MN
+- City: Saint Bonifacius
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9022814, -93.743479
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/st-boni-liquor-saint-bonifacius/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-boni-liquor-saint-bonifacius.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/590636450 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

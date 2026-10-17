@@ -1,0 +1,634 @@
+{
+ "place": "Saint Bonifacius, MN",
+ "slug": "saint-bonifacius-mn",
+ "count": 18,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "bike shop saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "car wash saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "chiropractor saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "dentist saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "flooring companies saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "gym saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "hair salon saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "haircut saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "insurance agency saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "insurance agent saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "insurance agents saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "liquor store saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "mechanic saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "storage units saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "vet saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-saint-bonifacius-mn.json"
+  },
+  {
+   "keyword": "window replacement saint bonifacius mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-replacement-saint-bonifacius-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "dressel-agency-inc-saint-bonifacius",
+   "name": "Dressel Agency Inc.",
+   "summary": "Dressel Agency Inc. is an insurance agent in Saint Bonifacius, MN at 4133 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461380. Website: https://www.dresselagency.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dressel-agency-inc-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dressel-agency-inc-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4133 Main Street",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9037858,
+    "lon": -93.7476264
+   },
+   "phone": "+19524461380",
+   "website": "https://www.dresselagency.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/590636430",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "glass-masters-auto-glass-saint-bonifacius",
+   "name": "Glass Masters Auto Glass",
+   "summary": "Glass Masters Auto Glass is a window installer in Saint Bonifacius, MN at 4141 Main Street, Saint Bonifacius, MN 55375. Phone: +16122131227. Website: https://glassmastersmn.com/.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glass-masters-auto-glass-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glass-masters-auto-glass-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4141 Main Street",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9036732,
+    "lon": -93.7475894
+   },
+   "phone": "+16122131227",
+   "website": "https://glassmastersmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/590636431",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hansen-auto-service-saint-bonifacius",
+   "name": "Hansen Auto Service",
+   "summary": "Hansen Auto Service is an auto repair shop in Saint Bonifacius, MN at 4213 Steiner Street, Saint Bonifacius, MN 55375. Phone: +19524461573. Website: https://www.hansenautoservice.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hansen-auto-service-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hansen-auto-service-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4213 Steiner Street",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9009183,
+    "lon": -93.7413622
+   },
+   "phone": "+19524461573",
+   "website": "https://www.hansenautoservice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/954622550",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "journey-hair-studio-saint-bonifacius",
+   "name": "Journey Hair Studio",
+   "summary": "Journey Hair Studio is a hair salon in Saint Bonifacius, MN at 4080 Tower Street #1090, Saint Bonifacius, MN 55375. Phone: +19524469000. Website: https://journeyhair.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/journey-hair-studio-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/journey-hair-studio-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4080 Tower Street #1090",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9025441,
+    "lon": -93.7486895
+   },
+   "phone": "+19524469000",
+   "website": "https://journeyhair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10742711440",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "linn-family-dentistry-saint-bonifacius",
+   "name": "Linn Family Dentistry",
+   "summary": "Linn Family Dentistry is a dentist in Saint Bonifacius, MN at 4080 Tower Street #1050, Saint Bonifacius, MN 55375. Phone: +19524469933. Website: https://www.linnfamilydentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linn-family-dentistry-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linn-family-dentistry-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4080 Tower Street #1050",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.902547,
+    "lon": -93.7483504
+   },
+   "phone": "+19524469933",
+   "website": "https://www.linnfamilydentistry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10742711444",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mobys-wine-and-spirits-saint-bonifacius",
+   "name": "Moby's Wine and Spirits",
+   "summary": "Moby's Wine and Spirits is a liquor store in Saint Bonifacius, MN at 4080 Tower Street #1070, Saint Bonifacius, MN 55375. Phone: +19524461638. Website: https://mobys-wine-and-spirits.business.site/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobys-wine-and-spirits-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobys-wine-and-spirits-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4080 Tower Street #1070",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9025455,
+    "lon": -93.7485196
+   },
+   "phone": "+19524461638",
+   "website": "https://mobys-wine-and-spirits.business.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10742711442",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "olsen-corvette-saint-bonifacius",
+   "name": "Olsen Corvette",
+   "summary": "Olsen Corvette is an auto repair shop in Saint Bonifacius, MN at 4350 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461497. Website: https://olsencorvettemotorsports.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/olsen-corvette-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/olsen-corvette-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4350 Main Street",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.8992828,
+    "lon": -93.7457826
+   },
+   "phone": "+19524461497",
+   "website": "https://olsencorvettemotorsports.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/954622561",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "snap-fitness-saint-bonifacius",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Saint Bonifacius, MN at 4195 Main Street #1040, Saint Bonifacius, MN 55375. Phone: +19524468879. Website: https://www.snapfitness.com/us/gyms/st-bonifacius-mn/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4195 Main Street #1040",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9021926,
+    "lon": -93.7477583
+   },
+   "phone": "+19524468879",
+   "website": "https://www.snapfitness.com/us/gyms/st-bonifacius-mn/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8875565930",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "spokes-saint-bonifacius",
+   "name": "Spokes",
+   "summary": "Spokes is a bike shop in Saint Bonifacius, MN at 8850 Glacier Road, Saint Bonifacius, MN 55375. Phone: +19524461666. Website: https://www.spokesmn.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spokes-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spokes-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "8850 Glacier Road",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9008204,
+    "lon": -93.7488597
+   },
+   "phone": "+19524461666",
+   "website": "https://www.spokesmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/955484326",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "st-bonifacius-chiropractic-saint-bonifacius",
+   "name": "St. Bonifacius Chiropractic",
+   "summary": "St. Bonifacius Chiropractic is a chiropractor in Saint Bonifacius, MN at 4080 Tower Street #1080, Saint Bonifacius, MN 55375. Phone: +19524461800. Website: https://www.stbonispine.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-bonifacius-chiropractic-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-bonifacius-chiropractic-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4080 Tower Street #1080",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9025448,
+    "lon": -93.748603
+   },
+   "phone": "+19524461800",
+   "website": "https://www.stbonispine.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10742711441",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-bearded-mechanic-saint-bonifacius",
+   "name": "The Bearded Mechanic",
+   "summary": "The Bearded Mechanic is an auto repair shop in Saint Bonifacius, MN at 8750 Minnesota State Highway 7, Saint Bonifacius, MN 55375. Phone: +19524791960. Website: https://www.beardedmechanic.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-bearded-mechanic-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-bearded-mechanic-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "8750 Minnesota State Highway 7",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.901308,
+    "lon": -93.7467271
+   },
+   "phone": "+19524791960",
+   "website": "https://www.beardedmechanic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/954622549",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gregg-floor-covering-saint-bonifacius",
+   "name": "Gregg Floor Covering",
+   "summary": "Gregg Floor Covering is a flooring company in Saint Bonifacius, MN at 4117 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461170.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gregg-floor-covering-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gregg-floor-covering-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4117 Main Street",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9040335,
+    "lon": -93.7475814
+   },
+   "phone": "+19524461170",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1155153732",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kwik-trip-car-wash-saint-bonifacius",
+   "name": "Kwik Trip - Car Wash",
+   "summary": "Kwik Trip - Car Wash is a car wash in Saint Bonifacius, MN. Website: https://www.kwiktrip.com/locator/store?id=477.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-car-wash-saint-bonifacius.json",
+   "address": {
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "geo": {
+    "lat": 44.901359,
+    "lon": -93.7487504
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=477",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/590636418",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aj-mini-storage-saint-bonifacius",
+   "name": "AJ-Mini Storage",
+   "summary": "AJ-Mini Storage is a self-storage facility in Saint Bonifacius, MN at 8833 Kennedy Memorial Drive, Saint Bonifacius, MN 55375.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aj-mini-storage-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aj-mini-storage-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "8833 Kennedy Memorial Drive",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9043552,
+    "lon": -93.7484553
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1155153738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "st-boni-pet-hospital-saint-bonifacius",
+   "name": "St Boni Pet Hospital",
+   "summary": "St Boni Pet Hospital is a veterinarian in Saint Bonifacius, MN at 8801 Partridge Road, Saint Bonifacius, MN 55375.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-boni-pet-hospital-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-boni-pet-hospital-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "8801 Partridge Road",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.8973411,
+    "lon": -93.7480389
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/418975386",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ford-repair-shop-saint-bonifacius",
+   "name": "Ford Repair Shop",
+   "summary": "Ford Repair Shop is an auto repair shop in Saint Bonifacius, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ford-repair-shop-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ford-repair-shop-saint-bonifacius.json",
+   "address": {
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9035546,
+    "lon": -93.7426239
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/616192698",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "holiday-gas-station-saint-bonifacius",
+   "name": "Holiday Gas Station",
+   "summary": "Holiday Gas Station is a car wash in Saint Bonifacius, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holiday-gas-station-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holiday-gas-station-saint-bonifacius.json",
+   "address": {
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9024107,
+    "lon": -93.7460426
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3451997933",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "st-boni-liquor-saint-bonifacius",
+   "name": "St. Boni Liquor",
+   "summary": "St. Boni Liquor is a liquor store in Saint Bonifacius, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-boni-liquor-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-boni-liquor-saint-bonifacius.json",
+   "address": {
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9022814,
+    "lon": -93.743479
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/590636450",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

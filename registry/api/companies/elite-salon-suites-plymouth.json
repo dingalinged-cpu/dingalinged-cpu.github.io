@@ -1,0 +1,67 @@
+{
+ "slug": "elite-salon-suites-plymouth",
+ "name": "Elite Salon Suites",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon plymouth mn",
+  "haircut plymouth mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10700 Highway 55 #100",
+  "addressLocality": "Plymouth",
+  "addressRegion": "MN",
+  "postalCode": "55441",
+  "addressCountry": "US"
+ },
+ "city": "Plymouth",
+ "state": "MN",
+ "zip": "55441",
+ "geo": {
+  "lat": 44.9951352,
+  "lon": -93.4354621
+ },
+ "phone": "+16124045588",
+ "website": "https://elite-salons.com/",
+ "email": "info@elite-salons.com",
+ "opening_hours": "Mo-Su 09:00-21:00",
+ "social": [
+  "https://facebook.com/people/Elite-Salon-Suites-PlymouthMn/100089440686373/"
+ ],
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12651906159",
+ "osm": {
+  "type": "node",
+  "id": 12651906159,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Plymouth",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/elite-salon-suites-plymouth/",
+ "summary": "Elite Salon Suites is a hair salon in Plymouth, MN at 10700 Highway 55 #100, Plymouth, MN 55441. Phone: +16124045588. Website: https://elite-salons.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

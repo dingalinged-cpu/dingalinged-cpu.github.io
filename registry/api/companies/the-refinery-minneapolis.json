@@ -1,0 +1,56 @@
+{
+ "slug": "the-refinery-minneapolis",
+ "name": "The Refinery",
+ "categories": [
+  "waxing"
+ ],
+ "keywords": [
+  "waxing",
+  "waxing minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "waxing",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "34 Northeast 13th Avenue #102",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55413",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55413",
+ "geo": {
+  "lat": 44.9993052,
+  "lon": -93.2718314
+ },
+ "website": "https://www.refinerympls.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13659408633",
+ "osm": {
+  "type": "node",
+  "id": 13659408633,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "waxing;massage"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-refinery-minneapolis/",
+ "summary": "The Refinery is a waxing salon in Minneapolis, MN at 34 Northeast 13th Avenue #102, Minneapolis, MN 55413. Website: https://www.refinerympls.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

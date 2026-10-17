@@ -1,0 +1,23 @@
+Total Wine is a liquor store in Chanhassen, MN at 510 Lake Drive, Chanhassen, MN 55317. Phone: +19529346484. Website: https://www.totalwine.com/store-info/1606.
+
+# Total Wine
+
+- Category: liquor store
+- Services: liquor store
+- Address: 510 Lake Drive, Chanhassen, MN 55317
+- City: Chanhassen
+- State: MN
+- ZIP: 55317
+- Coordinates: 44.8566308, -93.5337551
+- Phone: +19529346484
+- Website: https://www.totalwine.com/store-info/1606
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 08:00-22:00; Su 11:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/total-wine-chanhassen/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/total-wine-chanhassen.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5584887732 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

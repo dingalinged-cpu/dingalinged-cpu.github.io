@@ -1,0 +1,63 @@
+{
+ "keyword": "electrician golden valley mn",
+ "slug": "electrician-golden-valley-mn",
+ "place": "Golden Valley, MN",
+ "service": "electrician",
+ "query": "Who are the best electrician providers in Golden Valley, MN?",
+ "matches": [
+  "electrician in Golden Valley, MN",
+  "electrician near me (Golden Valley, MN)",
+  "best electrician Golden Valley, MN",
+  "top rated electrician Golden Valley, MN",
+  "affordable electrician Golden Valley, MN",
+  "emergency electrician Golden Valley, MN"
+ ],
+ "answer": "The top unpaid electrician listing for Golden Valley, MN is North Country Auto & Marine (an electrician in Golden Valley, MN at 710 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +16129192963. Website: https://www.facebook.com/northcountryam/). 1 electrician businesses are listed for Golden Valley, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "north-country-auto-and-marine-golden-valley",
+   "name": "North Country Auto & Marine",
+   "summary": "North Country Auto & Marine is an electrician in Golden Valley, MN at 710 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +16129192963. Website: https://www.facebook.com/northcountryam/.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-country-auto-and-marine-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-country-auto-and-marine-golden-valley.json",
+   "address": {
+    "streetAddress": "710 Pennsylvania Avenue South",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9738335,
+    "lon": -93.3767944
+   },
+   "phone": "+16129192963",
+   "website": "https://www.facebook.com/northcountryam/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/411529136",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

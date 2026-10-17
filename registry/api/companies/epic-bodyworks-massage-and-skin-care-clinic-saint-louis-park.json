@@ -1,0 +1,56 @@
+{
+ "slug": "epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park",
+ "name": "Epic Bodyworks Massage & Skin Care Clinic",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6726 Walker Street",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55426",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55426",
+ "geo": {
+  "lat": 44.9392563,
+  "lon": -93.3651207
+ },
+ "phone": "+19525461364",
+ "website": "https://www.epicbodyworks.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1051732543",
+ "osm": {
+  "type": "way",
+  "id": 1051732543,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/epic-bodyworks-massage-and-skin-care-clinic-saint-louis-park/",
+ "summary": "Epic Bodyworks Massage & Skin Care Clinic is a massage studio in Saint Louis Park, MN at 6726 Walker Street, Saint Louis Park, MN 55426. Phone: +19525461364. Website: https://www.epicbodyworks.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

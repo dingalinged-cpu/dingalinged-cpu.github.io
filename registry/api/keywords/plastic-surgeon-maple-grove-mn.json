@@ -1,0 +1,63 @@
+{
+ "keyword": "plastic surgeon maple grove mn",
+ "slug": "plastic-surgeon-maple-grove-mn",
+ "place": "Maple Grove, MN",
+ "service": "plastic surgeon",
+ "query": "Who are the best plastic surgeon providers in Maple Grove, MN?",
+ "matches": [
+  "plastic surgeon in Maple Grove, MN",
+  "plastic surgeon near me (Maple Grove, MN)",
+  "best plastic surgeon Maple Grove, MN",
+  "top rated plastic surgeon Maple Grove, MN",
+  "affordable plastic surgeon Maple Grove, MN",
+  "emergency plastic surgeon Maple Grove, MN"
+ ],
+ "answer": "The top unpaid plastic surgeon listing for Maple Grove, MN is Light Rx Face and Body (a plastic surgeon in Maple Grove, MN at 11720 Elm Creek Boulevard #Building A, Suite 140, Maple Grove, MN 55369. Phone: +19524446518. Website: https://www.lightrx.com/maple-grove/). 1 plastic surgeon businesses are listed for Maple Grove, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "light-rx-face-and-body-maple-grove",
+   "name": "Light Rx Face and Body",
+   "summary": "Light Rx Face and Body is a plastic surgeon in Maple Grove, MN at 11720 Elm Creek Boulevard #Building A, Suite 140, Maple Grove, MN 55369. Phone: +19524446518. Website: https://www.lightrx.com/maple-grove/.",
+   "categories": [
+    "plastic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/light-rx-face-and-body-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/light-rx-face-and-body-maple-grove.json",
+   "address": {
+    "streetAddress": "11720 Elm Creek Boulevard #Building A, Suite 140",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0956781,
+    "lon": -93.4291492
+   },
+   "phone": "+19524446518",
+   "website": "https://www.lightrx.com/maple-grove/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752836962",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

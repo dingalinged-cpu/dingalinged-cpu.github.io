@@ -1,0 +1,57 @@
+{
+ "slug": "france-avenue-pet-hospital-bloomington",
+ "name": "France Avenue Pet Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet bloomington mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3701 West Old Shakopee Road #280",
+  "addressLocality": "Bloomington",
+  "addressRegion": "MN",
+  "postalCode": "55431",
+  "addressCountry": "US"
+ },
+ "city": "Bloomington",
+ "state": "MN",
+ "zip": "55431",
+ "geo": {
+  "lat": 44.810457,
+  "lon": -93.3274513
+ },
+ "phone": "+19527469296",
+ "website": "https://franceavepethospital.com/",
+ "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13809526457",
+ "osm": {
+  "type": "node",
+  "id": 13809526457,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Bloomington",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/france-avenue-pet-hospital-bloomington/",
+ "summary": "France Avenue Pet Hospital is a veterinarian in Bloomington, MN at 3701 West Old Shakopee Road #280, Bloomington, MN 55431. Phone: +19527469296. Website: https://franceavepethospital.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

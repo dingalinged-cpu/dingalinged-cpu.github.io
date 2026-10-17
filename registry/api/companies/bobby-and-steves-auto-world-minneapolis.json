@@ -1,0 +1,62 @@
+{
+ "slug": "bobby-and-steves-auto-world-minneapolis",
+ "name": "Bobby & Steve's Auto World",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair minneapolis mn",
+  "mechanic minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "328 Cedar Lake Road South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55405",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55405",
+ "geo": {
+  "lat": 44.9743718,
+  "lon": -93.3080979
+ },
+ "phone": "+16123774743",
+ "website": "https://bobbyandstevesautoworld.com/my_installers/map",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9104267169",
+ "osm": {
+  "type": "node",
+  "id": 9104267169,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/bobby-and-steves-auto-world-minneapolis/",
+ "summary": "Bobby & Steve's Auto World is an auto repair shop in Minneapolis, MN at 328 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16123774743. Website: https://bobbyandstevesautoworld.com/my_installers/map.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

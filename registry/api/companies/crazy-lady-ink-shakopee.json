@@ -1,0 +1,57 @@
+{
+ "slug": "crazy-lady-ink-shakopee",
+ "name": "Crazy Lady Ink",
+ "categories": [
+  "tattoo shop"
+ ],
+ "keywords": [
+  "tattoo shop",
+  "tattoo shop shakopee mn"
+ ],
+ "services": [
+  {
+   "name": "tattoo shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "110 1st Avenue East",
+  "addressLocality": "Shakopee",
+  "addressRegion": "MN",
+  "postalCode": "55379",
+  "addressCountry": "US"
+ },
+ "city": "Shakopee",
+ "state": "MN",
+ "zip": "55379",
+ "geo": {
+  "lat": 44.7984905,
+  "lon": -93.5263264
+ },
+ "phone": "+19524453281",
+ "website": "https://www.crazyladyink.com/",
+ "email": "mytattoo@crazyladyink.com",
+ "schema_type": "TattooParlor",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9024231938",
+ "osm": {
+  "type": "node",
+  "id": 9024231938,
+  "tags_used": {
+   "shop": "tattoo"
+  }
+ },
+ "municipality": "Shakopee",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/crazy-lady-ink-shakopee/",
+ "summary": "Crazy Lady Ink is a tattoo shop in Shakopee, MN at 110 1st Avenue East, Shakopee, MN 55379. Phone: +19524453281. Website: https://www.crazyladyink.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

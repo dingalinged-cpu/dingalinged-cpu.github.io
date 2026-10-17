@@ -1,0 +1,57 @@
+{
+ "slug": "270-hennepin-leasing-office-minneapolis",
+ "name": "270 Hennepin Leasing Office",
+ "categories": [
+  "property management company"
+ ],
+ "keywords": [
+  "property management company",
+  "property management companies",
+  "property management company minneapolis mn",
+  "property management companies minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "property management company",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "property management companies",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9815547,
+  "lon": -93.27029
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11292231484",
+ "osm": {
+  "type": "node",
+  "id": 11292231484,
+  "tags_used": {
+   "office": "property_management"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/270-hennepin-leasing-office-minneapolis/",
+ "summary": "270 Hennepin Leasing Office is a property management company in Minneapolis, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

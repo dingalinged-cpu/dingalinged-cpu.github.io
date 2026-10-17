@@ -1,0 +1,58 @@
+{
+ "slug": "vertical-endeavors-twin-cities-bouldering-saint-paul",
+ "name": "Vertical Endeavors - Twin Cities Bouldering",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2550 Wabash Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.9604979,
+  "lon": -93.2068105
+ },
+ "phone": "+16513308661",
+ "website": "https://www.verticalendeavors.com/",
+ "opening_hours": "Mo-Fr 06:00-22:00; Sa 08:00-20:00; Su 08:00-18:00",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6329878282",
+ "osm": {
+  "type": "node",
+  "id": 6329878282,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "climbing"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/vertical-endeavors-twin-cities-bouldering-saint-paul/",
+ "summary": "Vertical Endeavors - Twin Cities Bouldering is a gym in Saint Paul, MN at 2550 Wabash Avenue, Saint Paul, MN 55114. Phone: +16513308661. Website: https://www.verticalendeavors.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

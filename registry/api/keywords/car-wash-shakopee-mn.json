@@ -1,0 +1,119 @@
+{
+ "keyword": "car wash shakopee mn",
+ "slug": "car-wash-shakopee-mn",
+ "place": "Shakopee, MN",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in Shakopee, MN?",
+ "matches": [
+  "car wash in Shakopee, MN",
+  "car wash near me (Shakopee, MN)",
+  "best car wash Shakopee, MN",
+  "top rated car wash Shakopee, MN",
+  "affordable car wash Shakopee, MN",
+  "emergency car wash Shakopee, MN"
+ ],
+ "answer": "The top unpaid car wash listing for Shakopee, MN is Canterbury Car Wash‎ (a car wash in Shakopee, MN at 612 1st Avenue East, Shakopee, MN 55379). 3 car wash businesses are listed for Shakopee, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "canterbury-car-wash-shakopee",
+   "name": "Canterbury Car Wash‎",
+   "summary": "Canterbury Car Wash‎ is a car wash in Shakopee, MN at 612 1st Avenue East, Shakopee, MN 55379.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canterbury-car-wash-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canterbury-car-wash-shakopee.json",
+   "address": {
+    "streetAddress": "612 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7992062,
+    "lon": -93.5190784
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42789259",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "speedy-wash-shakopee",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Shakopee, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7853719,
+    "lon": -93.4693562
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6704330412",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "speedy-wash-shakopee-n12478740708",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Shakopee, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-shakopee-n12478740708/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-shakopee-n12478740708.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7807758,
+    "lon": -93.505719
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478740708",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "massage-xcape-roseville",
+ "name": "Massage Xcape",
+ "categories": [
+  "massage"
+ ],
+ "keywords": [
+  "massage",
+  "massage roseville mn"
+ ],
+ "services": [
+  {
+   "name": "massage",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1767 Lexington Avenue North",
+  "addressLocality": "Roseville",
+  "addressRegion": "MN",
+  "postalCode": "55113",
+  "addressCountry": "US"
+ },
+ "city": "Roseville",
+ "state": "MN",
+ "zip": "55113",
+ "geo": {
+  "lat": 44.9946963,
+  "lon": -93.1469149
+ },
+ "phone": "+16519641112",
+ "website": "https://www.massage-xcape.business.site/",
+ "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7141890137",
+ "osm": {
+  "type": "node",
+  "id": 7141890137,
+  "tags_used": {
+   "shop": "massage"
+  }
+ },
+ "municipality": "Roseville",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/massage-xcape-roseville/",
+ "summary": "Massage Xcape is a massage studio in Roseville, MN at 1767 Lexington Avenue North, Roseville, MN 55113. Phone: +16519641112. Website: https://www.massage-xcape.business.site/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

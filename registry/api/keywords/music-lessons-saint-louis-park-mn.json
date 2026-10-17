@@ -1,0 +1,93 @@
+{
+ "keyword": "music lessons saint louis park mn",
+ "slug": "music-lessons-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "music lessons",
+ "query": "Who are the best music lessons providers in Saint Louis Park, MN?",
+ "matches": [
+  "music lessons in Saint Louis Park, MN",
+  "music lessons near me (Saint Louis Park, MN)",
+  "best music lessons Saint Louis Park, MN",
+  "top rated music lessons Saint Louis Park, MN",
+  "affordable music lessons Saint Louis Park, MN",
+  "emergency music lessons Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid music lessons listing for Saint Louis Park, MN is Maestoso Music Studio (a music school in Saint Louis Park, MN at 3402 Library Lane, Saint Louis Park, MN 55426). 2 music lessons businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "maestoso-music-studio-saint-louis-park",
+   "name": "Maestoso Music Studio",
+   "summary": "Maestoso Music Studio is a music school in Saint Louis Park, MN at 3402 Library Lane, Saint Louis Park, MN 55426.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maestoso-music-studio-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maestoso-music-studio-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3402 Library Lane",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9396586,
+    "lon": -93.3627817
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604575743",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "rock-camp-experience-saint-louis-park",
+   "name": "Rock Camp Experience",
+   "summary": "Rock Camp Experience is a music school in Saint Louis Park, MN at 6415 Walker Street, Saint Louis Park, MN 55426.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rock-camp-experience-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rock-camp-experience-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6415 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9387636,
+    "lon": -93.3614152
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/192837027",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

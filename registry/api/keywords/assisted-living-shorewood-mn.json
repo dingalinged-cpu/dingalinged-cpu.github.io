@@ -1,0 +1,63 @@
+{
+ "keyword": "assisted living shorewood mn",
+ "slug": "assisted-living-shorewood-mn",
+ "place": "Shorewood, MN",
+ "service": "assisted living",
+ "query": "Who are the best assisted living providers in Shorewood, MN?",
+ "matches": [
+  "assisted living in Shorewood, MN",
+  "assisted living near me (Shorewood, MN)",
+  "best assisted living Shorewood, MN",
+  "top rated assisted living Shorewood, MN",
+  "affordable assisted living Shorewood, MN",
+  "emergency assisted living Shorewood, MN"
+ ],
+ "answer": "The top unpaid assisted living listing for Shorewood, MN is Shorewood Landing (an assisted living facility in Shorewood, MN at 6000 Chaska Road, Shorewood, MN 55331. Phone: +19524017444. Website: https://preshomes.org/living-options/find-a-community/shorewood-landing/). 1 assisted living businesses are listed for Shorewood, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "shorewood-landing-shorewood",
+   "name": "Shorewood Landing",
+   "summary": "Shorewood Landing is an assisted living facility in Shorewood, MN at 6000 Chaska Road, Shorewood, MN 55331. Phone: +19524017444. Website: https://preshomes.org/living-options/find-a-community/shorewood-landing/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shorewood-landing-shorewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shorewood-landing-shorewood.json",
+   "address": {
+    "streetAddress": "6000 Chaska Road",
+    "addressLocality": "Shorewood",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Shorewood",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8942059,
+    "lon": -93.5733182
+   },
+   "phone": "+19524017444",
+   "website": "https://preshomes.org/living-options/find-a-community/shorewood-landing/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1385360153",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

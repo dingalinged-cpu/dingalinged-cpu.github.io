@@ -1,0 +1,3015 @@
+{
+ "keyword": "gift shop",
+ "slug": "gift-shop",
+ "place": "the United States",
+ "service": "gift shop",
+ "query": "Who are the best gift shop providers in the United States?",
+ "matches": [
+  "gift shop in the United States",
+  "gift shop near me (the United States)",
+  "best gift shop the United States",
+  "top rated gift shop the United States",
+  "affordable gift shop the United States",
+  "emergency gift shop the United States"
+ ],
+ "answer": "The top unpaid gift shop listing for the United States is boreal (a gift shop in Saint Paul, MN at 2276 Como Avenue, Saint Paul, MN 55108. Phone: +16515609900. Website: https://boreal.life/). 95 gift shop businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "boreal-saint-paul",
+   "name": "boreal",
+   "summary": "boreal is a gift shop in Saint Paul, MN at 2276 Como Avenue, Saint Paul, MN 55108. Phone: +16515609900. Website: https://boreal.life/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boreal-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boreal-saint-paul.json",
+   "address": {
+    "streetAddress": "2276 Como Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.9816184,
+    "lon": -93.1952415
+   },
+   "phone": "+16515609900",
+   "website": "https://boreal.life/",
+   "opening_hours": "Mo-Sa 10:00-17:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/157489498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "edible-arrangements-maple-grove",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Maple Grove, MN at 13712 Grove Drive North, Maple Grove, MN 55311. Phone: +17634203115. Website: https://www.ediblearrangements.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-maple-grove.json",
+   "address": {
+    "streetAddress": "13712 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1045226,
+    "lon": -93.4542225
+   },
+   "phone": "+17634203115",
+   "website": "https://www.ediblearrangements.com/",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5777444270",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "edible-arrangements-roseville",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Roseville, MN at 1747 Lexington Avenue North, Roseville, MN 55113. Phone: +16514884500. Website: https://www.ediblearrangements.com/stores/1747-lexington-ave-n-roseville-mn-55113.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-roseville.json",
+   "address": {
+    "streetAddress": "1747 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9940845,
+    "lon": -93.1469198
+   },
+   "phone": "+16514884500",
+   "website": "https://www.ediblearrangements.com/stores/1747-lexington-ave-n-roseville-mn-55113",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1583379441",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "gypsy-moon-saint-paul",
+   "name": "Gypsy Moon",
+   "summary": "Gypsy Moon is a gift shop in Saint Paul, MN at 1887 Randolph Avenue, Saint Paul, MN 55105. Phone: +16516999531. Website: https://gypsymoonstpaul.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gypsy-moon-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gypsy-moon-saint-paul.json",
+   "address": {
+    "streetAddress": "1887 Randolph Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9272366,
+    "lon": -93.1800852
+   },
+   "phone": "+16516999531",
+   "website": "https://gypsymoonstpaul.com/",
+   "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/143180119",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "hallmark-eagan",
+   "name": "Hallmark",
+   "summary": "Hallmark is a gift shop in Eagan, MN at 1283 Promenade Place #5, Eagan, MN 55121. Phone: +16516818424. Website: https://stores.hallmark.com/mn/eagan/jaynes-hallmark-shop-eagan-mn-062975.html.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hallmark-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hallmark-eagan.json",
+   "address": {
+    "streetAddress": "1283 Promenade Place #5",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8363902,
+    "lon": -93.1559629
+   },
+   "phone": "+16516818424",
+   "website": "https://stores.hallmark.com/mn/eagan/jaynes-hallmark-shop-eagan-mn-062975.html",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138739579",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "lotus-lake-gifts-and-decor-chanhassen",
+   "name": "Lotus Lake Gifts & Decor",
+   "summary": "Lotus Lake Gifts & Decor is a gift shop in Chanhassen, MN at 412 West 78th Street, Chanhassen, MN 55317. Phone: +19529343485. Website: https://lotuslakegifts.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lotus-lake-gifts-and-decor-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lotus-lake-gifts-and-decor-chanhassen.json",
+   "address": {
+    "streetAddress": "412 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.862608,
+    "lon": -93.5318096
+   },
+   "phone": "+19529343485",
+   "website": "https://lotuslakegifts.com/",
+   "opening_hours": "Mo-We, Fr-Sa 10:00-17:00; Th 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391790005",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "patina-minneapolis",
+   "name": "Patina",
+   "summary": "Patina is a gift shop in Minneapolis, MN at 821 West 50th Street, Minneapolis, MN 55419. Phone: +16128219315. Website: https://www.patinastores.com/locations/south-mpls.php.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patina-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patina-minneapolis.json",
+   "address": {
+    "streetAddress": "821 West 50th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9122111,
+    "lon": -93.2906491
+   },
+   "phone": "+16128219315",
+   "website": "https://www.patinastores.com/locations/south-mpls.php",
+   "opening_hours": "Mo-Sa 09:30-21:00; Su 11:00-18:00; PH off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2346658725",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "edible-arrangements-minneapolis",
+   "name": "Edible Arrangements",
+   "summary": "Edible Arrangements is a gift shop in Minneapolis, MN at 108 South 8th Street #103, Minneapolis, MN. Phone: +16124361152. Website: https://www.ediblearrangements.com/stores/108-8th-street-south-suite-103-minneapolis-mn-55402.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edible-arrangements-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-minneapolis.json",
+   "address": {
+    "streetAddress": "108 South 8th Street #103",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9753354,
+    "lon": -93.2712714
+   },
+   "phone": "+16124361152",
+   "website": "https://www.ediblearrangements.com/stores/108-8th-street-south-suite-103-minneapolis-mn-55402",
+   "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12569712436",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "14-hill-minneapolis",
+   "name": "14 Hill",
+   "summary": "14 Hill is a gift shop in Minneapolis, MN at 4737 Chicago Avenue South #Suite 2, Minneapolis, MN 55407. Phone: +16128247774. Website: https://www.14hill.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/14-hill-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/14-hill-minneapolis.json",
+   "address": {
+    "streetAddress": "4737 Chicago Avenue South #Suite 2",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9165086,
+    "lon": -93.2624418
+   },
+   "phone": "+16128247774",
+   "website": "https://www.14hill.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7651142708",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "eglomise-designs-saint-louis-park",
+   "name": "Eglomise Designs",
+   "summary": "Eglomise Designs is a gift shop in Saint Louis Park, MN at 5701 36th Street West, Saint Louis Park, MN 55416. Phone: +18004438987. Website: https://eglomisedesigns.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eglomise-designs-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eglomise-designs-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5701 36th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9374584,
+    "lon": -93.3518248
+   },
+   "phone": "+18004438987",
+   "website": "https://eglomisedesigns.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/147610264",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "goldys-locker-room-minneapolis",
+   "name": "Goldy's Locker Room",
+   "summary": "Goldy's Locker Room is a gift shop in Minneapolis, MN at 714 Southeast Washington Avenue ##106B, Minneapolis, MN 55414. Phone: +16123313009. Website: https://www.mygophersports.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goldys-locker-room-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goldys-locker-room-minneapolis.json",
+   "address": {
+    "streetAddress": "714 Southeast Washington Avenue ##106B",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9735463,
+    "lon": -93.2280725
+   },
+   "phone": "+16123313009",
+   "website": "https://www.mygophersports.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6353444659",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "goodthings-saint-paul",
+   "name": "GoodThings",
+   "summary": "GoodThings is a gift shop in Saint Paul, MN at 1082 Grand Avenue, Saint Paul, MN 55105. Phone: +16512220321. Website: https://shopgoodthings.com/bibelot-goodthings-grand-avenue/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodthings-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodthings-saint-paul.json",
+   "address": {
+    "streetAddress": "1082 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.939893,
+    "lon": -93.1459642
+   },
+   "phone": "+16512220321",
+   "website": "https://shopgoodthings.com/bibelot-goodthings-grand-avenue/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3990995076",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "i-like-you-too-saint-paul",
+   "name": "I like you too",
+   "summary": "I like you too is a gift shop in Saint Paul, MN at 416 Snelling Avenue South, Saint Paul, MN 55105. Phone: +16513409710. Website: https://i-like-you-minneapolis.myshopify.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-like-you-too-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-like-you-too-saint-paul.json",
+   "address": {
+    "streetAddress": "416 Snelling Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9290109,
+    "lon": -93.1668006
+   },
+   "phone": "+16513409710",
+   "website": "https://i-like-you-minneapolis.myshopify.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13037788172",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "ingebretsens-scandinavian-gifts-and-foods-minneapolis",
+   "name": "Ingebretsen's Scandinavian Gifts & Foods",
+   "summary": "Ingebretsen's Scandinavian Gifts & Foods is a gift shop in Minneapolis, MN at 1601 East Lake Street, Minneapolis, MN 55407. Phone: +16127299333. Website: https://www.ingebretsens.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ingebretsens-scandinavian-gifts-and-foods-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ingebretsens-scandinavian-gifts-and-foods-minneapolis.json",
+   "address": {
+    "streetAddress": "1601 East Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9480969,
+    "lon": -93.2509558
+   },
+   "phone": "+16127299333",
+   "website": "https://www.ingebretsens.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/513246423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "jewelweed-excelsior",
+   "name": "Jewelweed",
+   "summary": "Jewelweed is a gift shop in Excelsior, MN at 223 Water Street, Excelsior, MN 55331. Phone: +19524767631. Website: https://jewelweed.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jewelweed-excelsior/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jewelweed-excelsior.json",
+   "address": {
+    "streetAddress": "223 Water Street",
+    "addressLocality": "Excelsior",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Excelsior",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.9029971,
+    "lon": -93.5664841
+   },
+   "phone": "+19524767631",
+   "website": "https://jewelweed.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6384347262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "legacy-art-and-gifts-saint-paul",
+   "name": "Legacy Art & Gifts",
+   "summary": "Legacy Art & Gifts is a gift shop in Saint Paul, MN at 1209 Grand Avenue, Saint Paul, MN 55105. Phone: +16512219094. Website: https://www.legacyartandgifts.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/legacy-art-and-gifts-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/legacy-art-and-gifts-saint-paul.json",
+   "address": {
+    "streetAddress": "1209 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9402621,
+    "lon": -93.1511497
+   },
+   "phone": "+16512219094",
+   "website": "https://www.legacyartandgifts.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920602089",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "shop-in-the-city-edina",
+   "name": "SHOP in the CITY",
+   "summary": "SHOP in the CITY is a gift shop in Edina, MN. Phone: +19528004178. Website: https://www.shopinthecity.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shop-in-the-city-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shop-in-the-city-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9133327,
+    "lon": -93.3303138
+   },
+   "phone": "+19528004178",
+   "website": "https://www.shopinthecity.com/",
+   "opening_hours": "Tu-Sa 11:00-17:30; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116039",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "thistle-saint-paul",
+   "name": "Thistle",
+   "summary": "Thistle is a gift shop in Saint Paul, MN at 2228 Carter Avenue #Apartment 4, Saint Paul, MN 55108. Phone: +17634648470. Website: https://www.thistlemiltonsquare.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thistle-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thistle-saint-paul.json",
+   "address": {
+    "streetAddress": "2228 Carter Avenue #Apartment 4",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55108",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55108",
+   "geo": {
+    "lat": 44.981176,
+    "lon": -93.194922
+   },
+   "phone": "+17634648470",
+   "website": "https://www.thistlemiltonsquare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267238512",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "piccadilly-prairie-minneapolis",
+   "name": "Piccadilly Prairie",
+   "summary": "Piccadilly Prairie is a gift shop in Minneapolis, MN at 4306 Upton Avenue South, Minneapolis, MN. Phone: +16122345014. Website: https://shop.piccadillyprairie.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/piccadilly-prairie-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/piccadilly-prairie-minneapolis.json",
+   "address": {
+    "streetAddress": "4306 Upton Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9243496,
+    "lon": -93.3149018
+   },
+   "phone": "+16122345014",
+   "website": "https://shop.piccadillyprairie.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3532499003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "bleu-home-decor-shop-minneapolis",
+   "name": "Bleu Home Decor Shop",
+   "summary": "Bleu Home Decor Shop is a gift shop in Minneapolis, MN at 403 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16125237673.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bleu-home-decor-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bleu-home-decor-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "403 Cedar Lake Road South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9733526,
+    "lon": -93.3088548
+   },
+   "phone": "+16125237673",
+   "opening_hours": "We-Sa 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/984761597",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "dozoles-creations-minneapolis",
+   "name": "Dozoles Creations",
+   "summary": "Dozoles Creations is a gift shop in Minneapolis, MN at 1828 East 42nd Street, Minneapolis, MN 55407. Website: https://www.dozoles.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dozoles-creations-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dozoles-creations-minneapolis.json",
+   "address": {
+    "streetAddress": "1828 East 42nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9270809,
+    "lon": -93.2469018
+   },
+   "website": "https://www.dozoles.com/",
+   "opening_hours": "Mo-Su 09:30-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13331955347",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "es-emporium-minneapolis",
+   "name": "E's Emporium",
+   "summary": "E's Emporium is a gift shop in Minneapolis, MN at 3911 Minnehaha Avenue, Minneapolis, MN 55406. Website: https://www.es-emporium.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/es-emporium-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/es-emporium-minneapolis.json",
+   "address": {
+    "streetAddress": "3911 Minnehaha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9320149,
+    "lon": -93.2220361
+   },
+   "website": "https://www.es-emporium.com/",
+   "opening_hours": "Fr-Su 11:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13639285107",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "i-like-you-minneapolis",
+   "name": "I like You",
+   "summary": "I like You is a gift shop in Minneapolis, MN at 1955 Northeast Johnson Street, Minneapolis, MN 55418. Website: https://i-like-you-minneapolis.myshopify.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-like-you-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-like-you-minneapolis.json",
+   "address": {
+    "streetAddress": "1955 Northeast Johnson Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0094536,
+    "lon": -93.2369634
+   },
+   "website": "https://i-like-you-minneapolis.myshopify.com/",
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa 11:15-18:00; Su 11:00-16:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6773414115",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "larissa-loden-saint-paul",
+   "name": "Larissa Loden",
+   "summary": "Larissa Loden is a gift shop in Saint Paul, MN at 2032 Marshall Avenue, Saint Paul, MN 55104. Phone: +16128869134.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/larissa-loden-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/larissa-loden-saint-paul.json",
+   "address": {
+    "streetAddress": "2032 Marshall Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9482206,
+    "lon": -93.1861977
+   },
+   "phone": "+16128869134",
+   "opening_hours": "Mo-Sa 11:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11360612740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "laughing-water-gifts-minneapolis",
+   "name": "Laughing Water Gifts",
+   "summary": "Laughing Water Gifts is a gift shop in Minneapolis, MN at 2718 East 50th Street, Minneapolis, MN 55417. Phone: +16127210074.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laughing-water-gifts-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laughing-water-gifts-minneapolis.json",
+   "address": {
+    "streetAddress": "2718 East 50th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.9128207,
+    "lon": -93.2328119
+   },
+   "phone": "+16127210074",
+   "opening_hours": "Mo-Fr 12:00-18:00, Sa 10:00-18:00, Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4852088819",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "patina-saint-paul",
+   "name": "Patina",
+   "summary": "Patina is a gift shop in Saint Paul, MN at 1581 Selby Avenue, Saint Paul, MN 55104. Website: https://patinastores.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patina-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patina-saint-paul.json",
+   "address": {
+    "streetAddress": "1581 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9467118,
+    "lon": -93.1672497
+   },
+   "website": "https://patinastores.com/",
+   "opening_hours": "Mo-Sa 09:30-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/600583817",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "boxlunch-bloomington",
+   "name": "BoxLunch",
+   "summary": "BoxLunch is a gift shop in Bloomington, MN at 134 North Garden, Bloomington, MN. Phone: +19528549953.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boxlunch-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boxlunch-bloomington.json",
+   "address": {
+    "streetAddress": "134 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8557167,
+    "lon": -93.2414923
+   },
+   "phone": "+19528549953",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739830204",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "brighton-collectibles-bloomington",
+   "name": "Brighton Collectibles",
+   "summary": "Brighton Collectibles is a gift shop in Bloomington, MN at 224 South Avenue, Bloomington, MN. Phone: +19528548043.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brighton-collectibles-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brighton-collectibles-bloomington.json",
+   "address": {
+    "streetAddress": "224 South Avenue",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8536648,
+    "lon": -93.2419208
+   },
+   "phone": "+19528548043",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739830046",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "indulge-bloom-bloomington",
+   "name": "Indulge + Bloom",
+   "summary": "Indulge + Bloom is a gift shop in Bloomington, MN at 314 North Garden, Bloomington, MN. Phone: +16123430000.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/indulge-bloom-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/indulge-bloom-bloomington.json",
+   "address": {
+    "streetAddress": "314 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8558415,
+    "lon": -93.2425563
+   },
+   "phone": "+16123430000",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829652",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "love-from-minnesota-bloomington",
+   "name": "Love From Minnesota",
+   "summary": "Love From Minnesota is a gift shop in Bloomington, MN at 380 West Market, Bloomington, MN. Phone: +19528547319.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/love-from-minnesota-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/love-from-minnesota-bloomington.json",
+   "address": {
+    "streetAddress": "380 West Market",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8545591,
+    "lon": -93.243249
+   },
+   "phone": "+19528547319",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829586",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "minnesot-ah-bloomington",
+   "name": "Minnesot-ah!",
+   "summary": "Minnesot-ah! is a gift shop in Bloomington, MN at 157 East Broadway, Bloomington, MN. Phone: +19528588531.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesot-ah-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesot-ah-bloomington.json",
+   "address": {
+    "streetAddress": "157 East Broadway",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8544309,
+    "lon": -93.2405521
+   },
+   "phone": "+19528588531",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739830105",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "pepper-palace-bloomington",
+   "name": "Pepper Palace",
+   "summary": "Pepper Palace is a gift shop in Bloomington, MN at 284 North Garden, Bloomington, MN. Phone: +19524562714.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pepper-palace-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pepper-palace-bloomington.json",
+   "address": {
+    "streetAddress": "284 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8555007,
+    "lon": -93.2428967
+   },
+   "phone": "+19524562714",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829717",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "spencers-bloomington",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Bloomington, MN at 354 North Garden, Bloomington, MN. Phone: +18007620419.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-bloomington.json",
+   "address": {
+    "streetAddress": "354 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8557234,
+    "lon": -93.2407854
+   },
+   "phone": "+18007620419",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829673",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "spencers-bloomington-n5739829720",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Bloomington, MN at 275 North Garden, Bloomington, MN. Phone: +18007620419.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-bloomington-n5739829720/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-bloomington-n5739829720.json",
+   "address": {
+    "streetAddress": "275 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8555024,
+    "lon": -93.2423635
+   },
+   "phone": "+18007620419",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829720",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "typo-bloomington",
+   "name": "Typo",
+   "summary": "Typo is a gift shop in Bloomington, MN at 132 North Garden, Bloomington, MN. Phone: +19528545873.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/typo-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/typo-bloomington.json",
+   "address": {
+    "streetAddress": "132 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8556964,
+    "lon": -93.2416161
+   },
+   "phone": "+19528545873",
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739830205",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "avalon-minneapolis",
+   "name": "AVALON",
+   "summary": "AVALON is a gift shop in Minneapolis, MN at 168 13th Ave NE, Minneapolis, MN 55413. Phone: +16124082934.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avalon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avalon-minneapolis.json",
+   "address": {
+    "streetAddress": "168 13th Ave NE",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0007221,
+    "lon": -93.2666757
+   },
+   "phone": "+16124082934",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11699113333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "coccinella-edina",
+   "name": "Coccinella",
+   "summary": "Coccinella is a gift shop in Edina, MN at 4946 France Avenue South, Edina, MN 55410. Website: https://www.coccinellastore.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coccinella-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coccinella-edina.json",
+   "address": {
+    "streetAddress": "4946 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9128715,
+    "lon": -93.3291904
+   },
+   "website": "https://www.coccinellastore.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "doodle-bird-design-gifts-minneapolis",
+   "name": "Doodle Bird Design + Gifts",
+   "summary": "Doodle Bird Design + Gifts is a gift shop in Minneapolis, MN at 2803 East 42nd Street, Minneapolis, MN 55406. Phone: +16123457961.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doodle-bird-design-gifts-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doodle-bird-design-gifts-minneapolis.json",
+   "address": {
+    "streetAddress": "2803 East 42nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9267684,
+    "lon": -93.23181
+   },
+   "phone": "+16123457961",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3198152699",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "frostbeard-studio-minneapolis",
+   "name": "Frostbeard Studio",
+   "summary": "Frostbeard Studio is a gift shop in Minneapolis, MN. Website: https://www.rlmartstudio.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/frostbeard-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/frostbeard-studio-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9392893,
+    "lon": -93.2628479
+   },
+   "website": "https://www.rlmartstudio.com/",
+   "opening_hours": "\"not open to the public\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5973350185",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "lama-bazaar-saint-paul",
+   "name": "Lama Bazaar",
+   "summary": "Lama Bazaar is a gift shop in Saint Paul, MN at 1144 Grand Avenue, Saint Paul, MN 55105. Phone: +16128043690.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lama-bazaar-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lama-bazaar-saint-paul.json",
+   "address": {
+    "streetAddress": "1144 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9397678,
+    "lon": -93.1484272
+   },
+   "phone": "+16128043690",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/79236588",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "leipolds-gifts-and-antiques-excelsior",
+   "name": "Leipold's Gifts & Antiques",
+   "summary": "Leipold's Gifts & Antiques is a gift shop in Excelsior, MN at 239 Water Street, Excelsior, MN 55331. Phone: +19524745880.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leipolds-gifts-and-antiques-excelsior/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leipolds-gifts-and-antiques-excelsior.json",
+   "address": {
+    "streetAddress": "239 Water Street",
+    "addressLocality": "Excelsior",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Excelsior",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.9027715,
+    "lon": -93.5667082
+   },
+   "phone": "+19524745880",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6384347266",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "my-pillow-roseville",
+   "name": "My Pillow",
+   "summary": "My Pillow is a gift shop in Roseville, MN. Phone: +16512036191.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/my-pillow-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/my-pillow-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0126246,
+    "lon": -93.1714426
+   },
+   "phone": "+16512036191",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6982974932",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "senti-edina",
+   "name": "SENTi",
+   "summary": "SENTi is a gift shop in Edina, MN. Website: https://shopsenti.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/senti-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/senti-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9129216,
+    "lon": -93.3301509
+   },
+   "website": "https://shopsenti.com/",
+   "opening_hours": "Tu-Sa 11:00-18:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "awakenings-minneapolis",
+   "name": "Awakenings...",
+   "summary": "Awakenings... is a gift shop in Minneapolis, MN at 4165 Minnehaha Avenue, Minneapolis, MN 55406.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/awakenings-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/awakenings-minneapolis.json",
+   "address": {
+    "streetAddress": "4165 Minnehaha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9270909,
+    "lon": -93.2185273
+   },
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13783173445",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "blue-hummingbird-woman-indigenous-gift-shop-saint-paul",
+   "name": "Blue Hummingbird Woman Indigenous Gift Shop",
+   "summary": "Blue Hummingbird Woman Indigenous Gift Shop is a gift shop in Saint Paul, MN at 30 7th Street East, Saint Paul, MN 55101.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-hummingbird-woman-indigenous-gift-shop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-hummingbird-woman-indigenous-gift-shop-saint-paul.json",
+   "address": {
+    "streetAddress": "30 7th Street East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9478245,
+    "lon": -93.0948771
+   },
+   "opening_hours": "Saturday\tClosed Sunday\tClosed Monday\t10:30 AM–2 PM Tuesday\t10:30 AM–2 PM Wednesday\t10:30 AM–2 PM Thursday\t10:30 AM–1 PM Friday\tClosed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13760239137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "beef-jerky-experience-bloomington",
+   "name": "Beef Jerky Experience",
+   "summary": "Beef Jerky Experience is a gift shop in Bloomington, MN at 341 North Garden, Bloomington, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beef-jerky-experience-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beef-jerky-experience-bloomington.json",
+   "address": {
+    "streetAddress": "341 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8557977,
+    "lon": -93.2412305
+   },
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829670",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "ebisu-bloomington",
+   "name": "Ebisu",
+   "summary": "Ebisu is a gift shop in Bloomington, MN at 306 North Garden, Bloomington, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ebisu-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ebisu-bloomington.json",
+   "address": {
+    "streetAddress": "306 North Garden",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8556803,
+    "lon": -93.2430553
+   },
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13723926151",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "i-love-minnesota-bloomington",
+   "name": "I Love Minnesota",
+   "summary": "I Love Minnesota is a gift shop in Bloomington, MN at 372 West Market, Bloomington, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-love-minnesota-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-love-minnesota-bloomington.json",
+   "address": {
+    "streetAddress": "372 West Market",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547279,
+    "lon": -93.2432585
+   },
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829587",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "mall-of-america-gift-store-bloomington",
+   "name": "Mall of America Gift Store",
+   "summary": "Mall of America Gift Store is a gift shop in Bloomington, MN at 285 East Broadway, Bloomington, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mall-of-america-gift-store-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mall-of-america-gift-store-bloomington.json",
+   "address": {
+    "streetAddress": "285 East Broadway",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8550518,
+    "lon": -93.240633
+   },
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739829684",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "mall-of-america-gift-store-bloomington-n5739830047",
+   "name": "Mall of America Gift Store",
+   "summary": "Mall of America Gift Store is a gift shop in Bloomington, MN at 225 South Avenue, Bloomington, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mall-of-america-gift-store-bloomington-n5739830047/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mall-of-america-gift-store-bloomington-n5739830047.json",
+   "address": {
+    "streetAddress": "225 South Avenue",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8534859,
+    "lon": -93.2421957
+   },
+   "opening_hours": "Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5739830047",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "miniso-bloomington",
+   "name": "MINISO",
+   "summary": "MINISO is a gift shop in Bloomington, MN at 212 East Broadway, Bloomington, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/miniso-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/miniso-bloomington.json",
+   "address": {
+    "streetAddress": "212 East Broadway",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.855183,
+    "lon": -93.2402955
+   },
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13723837417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "stormcloud-trading-saint-paul",
+   "name": "Stormcloud Trading",
+   "summary": "Stormcloud Trading is a gift shop in Saint Paul, MN at 725 Snelling Avenue, Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stormcloud-trading-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stormcloud-trading-saint-paul.json",
+   "address": {
+    "streetAddress": "725 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9631359,
+    "lon": -93.1672991
+   },
+   "opening_hours": "Mo-Fr 10:00-17:45; Sa 10:00-16:45",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9190490291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "anas-apothecary-minneapolis",
+   "name": "Ana's Apothecary",
+   "summary": "Ana's Apothecary is a gift shop in Minneapolis, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anas-apothecary-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anas-apothecary-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9773391,
+    "lon": -93.2715979
+   },
+   "opening_hours": "Mo-Fr 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5955577508",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "bullseye-boutique-brooklyn-park",
+   "name": "Bullseye Boutique",
+   "summary": "Bullseye Boutique is a gift shop in Brooklyn Park, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bullseye-boutique-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bullseye-boutique-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1344134,
+    "lon": -93.3719378
+   },
+   "opening_hours": "Mo-Fr 07:30-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5935046820",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "corazon-minneapolis",
+   "name": "CorAzoN",
+   "summary": "CorAzoN is a gift shop in Minneapolis, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/corazon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/corazon-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485031,
+    "lon": -93.206224
+   },
+   "opening_hours": "Mo-Su 06:30-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1923777536",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "dgpilot-saint-paul",
+   "name": "DGPilot",
+   "summary": "DGPilot is a gift shop in Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dgpilot-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dgpilot-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9476512,
+    "lon": -93.0859655
+   },
+   "opening_hours": "We-Sa 11:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3649475711",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "fleurish-llp-excelsior",
+   "name": "Fleurish LLP",
+   "summary": "Fleurish LLP is a gift shop in Excelsior, MN at 261 Water Street, Excelsior, MN 55331.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fleurish-llp-excelsior/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fleurish-llp-excelsior.json",
+   "address": {
+    "streetAddress": "261 Water Street",
+    "addressLocality": "Excelsior",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Excelsior",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.9025391,
+    "lon": -93.5669301
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6384347268",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "goonga-baloongas-mound",
+   "name": "Goonga Baloonga's",
+   "summary": "Goonga Baloonga's is a gift shop in Mound, MN at 2339 Commerce Boulevard, Mound, MN 55356.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goonga-baloongas-mound/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goonga-baloongas-mound.json",
+   "address": {
+    "streetAddress": "2339 Commerce Boulevard",
+    "addressLocality": "Mound",
+    "addressRegion": "MN",
+    "postalCode": "55356",
+    "addressCountry": "US"
+   },
+   "city": "Mound",
+   "state": "MN",
+   "zip": "55356",
+   "geo": {
+    "lat": 44.9364027,
+    "lon": -93.6667688
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6724562305",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "larues-minneapolis",
+   "name": "Larue's",
+   "summary": "Larue's is a gift shop in Minneapolis, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/larues-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/larues-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9244673,
+    "lon": -93.3144743
+   },
+   "opening_hours": "Tu-Sa 10:00-18:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3532499011",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "love-from-minnesota-falcon-heights",
+   "name": "Love From Minnesota",
+   "summary": "Love From Minnesota is a gift shop in Falcon Heights, MN at 1663 Dan Patch Avenue, Falcon Heights, MN 55113.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/love-from-minnesota-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/love-from-minnesota-falcon-heights.json",
+   "address": {
+    "streetAddress": "1663 Dan Patch Avenue",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.981515,
+    "lon": -93.1697369
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/177770108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "minnesota-makers-robbinsdale",
+   "name": "Minnesota Makers",
+   "summary": "Minnesota Makers is a gift shop in Robbinsdale, MN at 4180 West Broadway Avenue, Robbinsdale, MN 55422.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-makers-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-makers-robbinsdale.json",
+   "address": {
+    "streetAddress": "4180 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0313342,
+    "lon": -93.3392123
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129066241",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "minnesota-xplorer-falcon-heights",
+   "name": "Minnesota Xplorer",
+   "summary": "Minnesota Xplorer is a gift shop in Falcon Heights, MN at 1352 Cooper Street, Falcon Heights, MN 55113.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-xplorer-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-xplorer-falcon-heights.json",
+   "address": {
+    "streetAddress": "1352 Cooper Street",
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9816492,
+    "lon": -93.1688164
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/177770105",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "inspire-minneapolis",
+   "name": "Inspire",
+   "summary": "Inspire is a gift shop in Minneapolis, MN at 108 West 14th Street, Minneapolis, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/inspire-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/inspire-minneapolis.json",
+   "address": {
+    "streetAddress": "108 West 14th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.968895,
+    "lon": -93.279976
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5512284665",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "marigold-minneapolis",
+   "name": "Marigold",
+   "summary": "Marigold is a gift shop in Minneapolis, MN at 3506 Nicollet Avenue South, Minneapolis, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marigold-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marigold-minneapolis.json",
+   "address": {
+    "streetAddress": "3506 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9393078,
+    "lon": -93.2782511
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/346689274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "patina-roseville",
+   "name": "Patina",
+   "summary": "Patina is a gift shop in Roseville, MN at 2397 Fairview Avenue North, Roseville, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patina-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patina-roseville.json",
+   "address": {
+    "streetAddress": "2397 Fairview Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0123311,
+    "lon": -93.1774217
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13570301415",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "patina-saint-paul-n660909467",
+   "name": "Patina",
+   "summary": "Patina is a gift shop in Saint Paul, MN at 2057 Ford Parkway, Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patina-saint-paul-n660909467/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patina-saint-paul-n660909467.json",
+   "address": {
+    "streetAddress": "2057 Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9180794,
+    "lon": -93.1871872
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/660909467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "baggallini-fort-snelling-unorganized-territory",
+   "name": "Baggallini",
+   "summary": "Baggallini is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baggallini-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baggallini-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8803653,
+    "lon": -93.2079271
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387428086",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "exotic-india-art-roseville",
+   "name": "Exotic India Art",
+   "summary": "Exotic India Art is a gift shop in Roseville, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/exotic-india-art-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/exotic-india-art-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0186874,
+    "lon": -93.1576106
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11641970210",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "fanatics-by-lids-albertville",
+   "name": "Fanatics by Lids",
+   "summary": "Fanatics by Lids is a gift shop in Albertville, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fanatics-by-lids-albertville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fanatics-by-lids-albertville.json",
+   "address": {
+    "addressLocality": "Albertville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Albertville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2450096,
+    "lon": -93.6651745
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9032854452",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "fantasy-gifts-saint-paul",
+   "name": "Fantasy Gifts",
+   "summary": "Fantasy Gifts is a gift shop in Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantasy-gifts-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantasy-gifts-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9532839,
+    "lon": -93.0849346
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2846187004",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "frivolous-fort-snelling-unorganized-territory",
+   "name": "Frivolous",
+   "summary": "Frivolous is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/frivolous-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/frivolous-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8842447,
+    "lon": -93.2110527
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387483784",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "general-store-of-minnetonka-minnetonka",
+   "name": "General Store of Minnetonka",
+   "summary": "General Store of Minnetonka is a gift shop in Minnetonka, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/general-store-of-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/general-store-of-minnetonka-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9220098,
+    "lon": -93.463686
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/751644153",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "glacier-gifts-saint-paul",
+   "name": "Glacier Gifts",
+   "summary": "Glacier Gifts is a gift shop in Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glacier-gifts-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glacier-gifts-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9828925,
+    "lon": -93.153479
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/996593853",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "hjem-home-wares-and-gifts-fort-snelling-unorganized-territory",
+   "name": "Hjem Home wares and gifts",
+   "summary": "Hjem Home wares and gifts is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hjem-home-wares-and-gifts-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hjem-home-wares-and-gifts-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8830313,
+    "lon": -93.2062954
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13722136902",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "inspired-life-art-fort-snelling-unorganized-territory",
+   "name": "Inspired Life + Art",
+   "summary": "Inspired Life + Art is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/inspired-life-art-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/inspired-life-art-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8830606,
+    "lon": -93.2061474
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387464086",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "lakeshore-landing-shakopee",
+   "name": "Lakeshore Landing",
+   "summary": "Lakeshore Landing is a gift shop in Shakopee, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeshore-landing-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeshore-landing-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7994831,
+    "lon": -93.4543652
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/865199364",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "local-marketplace-fort-snelling-unorganized-territory",
+   "name": "Local Marketplace",
+   "summary": "Local Marketplace is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/local-marketplace-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/local-marketplace-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8834299,
+    "lon": -93.2147154
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11186279013",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "lolli-and-pops-fort-snelling-unorganized-territory",
+   "name": "Lolli and Pops",
+   "summary": "Lolli and Pops is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lolli-and-pops-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lolli-and-pops-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8833306,
+    "lon": -93.214215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4781035123",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "loring-park-essentials-fort-snelling-unorganized-territory",
+   "name": "Loring Park Essentials",
+   "summary": "Loring Park Essentials is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/loring-park-essentials-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/loring-park-essentials-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8848876,
+    "lon": -93.2106375
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4121880570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "minnesota-state-of-nice-fort-snelling-unorganized-territory",
+   "name": "Minnesota State of Nice",
+   "summary": "Minnesota State of Nice is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-state-of-nice-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-state-of-nice-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.883391,
+    "lon": -93.2113836
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387488088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "msp-duty-free-fort-snelling-unorganized-territory",
+   "name": "MSP Duty Free",
+   "summary": "MSP Duty Free is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/msp-duty-free-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/msp-duty-free-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8848581,
+    "lon": -93.2101746
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387483775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "msp-duty-free-fort-snelling-unorganized-territory-n6387495095",
+   "name": "MSP Duty Free",
+   "summary": "MSP Duty Free is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/msp-duty-free-fort-snelling-unorganized-territory-n6387495095/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/msp-duty-free-fort-snelling-unorganized-territory-n6387495095.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.88256,
+    "lon": -93.2123964
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387495095",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "owl-and-lark-rogers",
+   "name": "Owl and Lark",
+   "summary": "Owl and Lark is a gift shop in Rogers, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/owl-and-lark-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/owl-and-lark-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1885711,
+    "lon": -93.5527702
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10297245240",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "plaza-shopper-shakopee",
+   "name": "Plaza Shopper",
+   "summary": "Plaza Shopper is a gift shop in Shakopee, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/plaza-shopper-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/plaza-shopper-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7986575,
+    "lon": -93.4540593
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8087589945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "prince-fort-snelling-unorganized-territory",
+   "name": "Prince",
+   "summary": "Prince is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prince-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prince-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8825042,
+    "lon": -93.2121324
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387500888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "red-barn-andover",
+   "name": "Red Barn",
+   "summary": "Red Barn is a gift shop in Andover, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/red-barn-andover/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/red-barn-andover.json",
+   "address": {
+    "addressLocality": "Andover",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Andover",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2201584,
+    "lon": -93.3504568
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1413533357",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "snoopy-boutique-shakopee",
+   "name": "Snoopy Boutique",
+   "summary": "Snoopy Boutique is a gift shop in Shakopee, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snoopy-boutique-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snoopy-boutique-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8001827,
+    "lon": -93.4562771
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470686747",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "spencers-maplewood",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Maplewood, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0312268,
+    "lon": -93.0215603
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5196408043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "splashdown-supplies-shakopee",
+   "name": "Splashdown Supplies",
+   "summary": "Splashdown Supplies is a gift shop in Shakopee, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/splashdown-supplies-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/splashdown-supplies-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7991784,
+    "lon": -93.4610852
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521283224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "stony-hill-gifts-and-home-decor-rogers",
+   "name": "Stony Hill Gifts and Home Decor",
+   "summary": "Stony Hill Gifts and Home Decor is a gift shop in Rogers, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stony-hill-gifts-and-home-decor-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stony-hill-gifts-and-home-decor-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1978165,
+    "lon": -93.5573571
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10737423685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
+   "sponsored": false,
+   "slug": "the-north-merchantile-fort-snelling-unorganized-territory",
+   "name": "The North Merchantile",
+   "summary": "The North Merchantile is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-north-merchantile-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-north-merchantile-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8823981,
+    "lon": -93.2125831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387495096",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "treasures-galore-on-94-rogers",
+   "name": "Treasures Galore on 94",
+   "summary": "Treasures Galore on 94 is a gift shop in Rogers, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/treasures-galore-on-94-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/treasures-galore-on-94-rogers.json",
+   "address": {
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1908918,
+    "lon": -93.5430428
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10728333348",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "tumi-fort-snelling-unorganized-territory",
+   "name": "Tumi",
+   "summary": "Tumi is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tumi-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tumi-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8841618,
+    "lon": -93.2107731
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6387471976",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
+   "sponsored": false,
+   "slug": "words-fort-snelling-unorganized-territory",
+   "name": "Words",
+   "summary": "Words is a gift shop in Fort Snelling Unorganized Territory, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/words-fort-snelling-unorganized-territory/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/words-fort-snelling-unorganized-territory.json",
+   "address": {
+    "addressLocality": "Fort Snelling Unorganized Territory",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fort Snelling Unorganized Territory",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8825647,
+    "lon": -93.2050074
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4780177422",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "your-turn-saint-paul",
+   "name": "Your Turn",
+   "summary": "Your Turn is a gift shop in Saint Paul, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/your-turn-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/your-turn-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9532003,
+    "lon": -93.0850928
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2846187012",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

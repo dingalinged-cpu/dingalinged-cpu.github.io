@@ -1,0 +1,56 @@
+{
+ "slug": "selby-acupuncture-saint-paul",
+ "name": "Selby Acupuncture",
+ "categories": [
+  "acupuncture"
+ ],
+ "keywords": [
+  "acupuncture",
+  "acupuncture saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "acupuncture",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "400 Selby Avenue #Suite G2",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55102",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55102",
+ "geo": {
+  "lat": 44.9462216,
+  "lon": -93.1174196
+ },
+ "website": "https://selbyacupuncture.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12818276683",
+ "osm": {
+  "type": "node",
+  "id": 12818276683,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "acupuncture"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/selby-acupuncture-saint-paul/",
+ "summary": "Selby Acupuncture is an acupuncture clinic in Saint Paul, MN at 400 Selby Avenue #Suite G2, Saint Paul, MN 55102. Website: https://selbyacupuncture.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

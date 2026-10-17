@@ -1,0 +1,157 @@
+{
+ "keyword": "pet store blaine mn",
+ "slug": "pet-store-blaine-mn",
+ "place": "Blaine, MN",
+ "service": "pet store",
+ "query": "Who are the best pet store providers in Blaine, MN?",
+ "matches": [
+  "pet store in Blaine, MN",
+  "pet store near me (Blaine, MN)",
+  "best pet store Blaine, MN",
+  "top rated pet store Blaine, MN",
+  "affordable pet store Blaine, MN",
+  "emergency pet store Blaine, MN"
+ ],
+ "answer": "The top unpaid pet store listing for Blaine, MN is PetSmart (a pet store in Blaine, MN at 10451 Baltimore Street Northeast, Blaine, MN 55449. Phone: +17636143055. Website: https://www.petsmart.com/store-locator/store/). 4 pet store businesses are listed for Blaine, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "petsmart-blaine",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Blaine, MN at 10451 Baltimore Street Northeast, Blaine, MN 55449. Phone: +17636143055. Website: https://www.petsmart.com/store-locator/store/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-blaine.json",
+   "address": {
+    "streetAddress": "10451 Baltimore Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1599973,
+    "lon": -93.2313976
+   },
+   "phone": "+17636143055",
+   "website": "https://www.petsmart.com/store-locator/store/",
+   "opening_hours": "08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/458357655",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "stone-mountain-pet-lodge-blaine",
+   "name": "Stone Mountain Pet Lodge",
+   "summary": "Stone Mountain Pet Lodge is a pet store in Blaine, MN at 9935 Radisson Road Northeast, Blaine, MN 55449. Website: https://stonemountainpetlodge.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stone-mountain-pet-lodge-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stone-mountain-pet-lodge-blaine.json",
+   "address": {
+    "streetAddress": "9935 Radisson Road Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1506575,
+    "lon": -93.1910373
+   },
+   "website": "https://stonemountainpetlodge.com/",
+   "opening_hours": "Mo-Fr 06:00-18:00; Sa 08:00-16:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13588244901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "pet-evolution-blaine",
+   "name": "Pet Evolution",
+   "summary": "Pet Evolution is a pet store in Blaine, MN. Website: https://www.petevolution.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-evolution-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-evolution-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1668719,
+    "lon": -93.2324407
+   },
+   "website": "https://www.petevolution.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12527842888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "petco-blaine",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Blaine, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1813649,
+    "lon": -93.2364944
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12629709519",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Ninja Nail is a nail salon in Minneapolis, MN. Website: https://www.nailninjampls.com/minneapolis.
+
+# Ninja Nail
+
+- Category: nail salon
+- Services: nail salon
+- Address: Minneapolis, MN
+- City: Minneapolis
+- State: MN
+- ZIP: n/a
+- Coordinates: 45.0193608, -93.2376023
+- Phone: n/a
+- Website: https://www.nailninjampls.com/minneapolis
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ninja-nail-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ninja-nail-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11072098836 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

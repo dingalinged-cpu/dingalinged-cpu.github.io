@@ -1,0 +1,129 @@
+{
+ "keyword": "tire shop minneapolis mn",
+ "slug": "tire-shop-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "tire shop",
+ "query": "Who are the best tire shop providers in Minneapolis, MN?",
+ "matches": [
+  "tire shop in Minneapolis, MN",
+  "tire shop near me (Minneapolis, MN)",
+  "best tire shop Minneapolis, MN",
+  "top rated tire shop Minneapolis, MN",
+  "affordable tire shop Minneapolis, MN",
+  "emergency tire shop Minneapolis, MN"
+ ],
+ "answer": "The top unpaid tire shop listing for Minneapolis, MN is Northwestern Tire Co (a tire shop in Minneapolis, MN at 301 Fremont Avenue North, Minneapolis, MN 55405. Phone: +16123774900. Website: https://www.northwesterntire.net/). 3 tire shop businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "northwestern-tire-co-minneapolis",
+   "name": "Northwestern Tire Co",
+   "summary": "Northwestern Tire Co is a tire shop in Minneapolis, MN at 301 Fremont Avenue North, Minneapolis, MN 55405. Phone: +16123774900. Website: https://www.northwesterntire.net/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwestern-tire-co-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwestern-tire-co-minneapolis.json",
+   "address": {
+    "streetAddress": "301 Fremont Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9808141,
+    "lon": -93.2958948
+   },
+   "phone": "+16123774900",
+   "website": "https://www.northwesterntire.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/240869842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "southwest-tire-and-auto-minneapolis",
+   "name": "Southwest Tire & Auto",
+   "summary": "Southwest Tire & Auto is a tire shop in Minneapolis, MN at 5009 Xerxes Avenue South, Minneapolis, MN 55410. Website: https://www.swtireauto.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southwest-tire-and-auto-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southwest-tire-and-auto-minneapolis.json",
+   "address": {
+    "streetAddress": "5009 Xerxes Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.911986,
+    "lon": -93.3185665
+   },
+   "website": "https://www.swtireauto.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1284649079",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "tires-plus-minneapolis",
+   "name": "Tires Plus",
+   "summary": "Tires Plus is a tire shop in Minneapolis, MN at 1103 West Lake Street, Minneapolis, MN 55408.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tires-plus-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tires-plus-minneapolis.json",
+   "address": {
+    "streetAddress": "1103 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9481901,
+    "lon": -93.2935046
+   },
+   "opening_hours": "Mo-Sa 08:00-18:00; Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334216609",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

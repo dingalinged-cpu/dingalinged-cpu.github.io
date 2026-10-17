@@ -1,0 +1,23 @@
+LaserAway is a skin care studio in Edina, MN. Website: https://www.laseraway.com/locations/mn/minneapolis/.
+
+# LaserAway
+
+- Category: facial
+- Services: facial
+- Address: Edina, MN
+- City: Edina
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9126644, -93.3311149
+- Phone: n/a
+- Website: https://www.laseraway.com/locations/mn/minneapolis/
+- Email: n/a
+- Opening hours (OSM syntax): Mo 10:00-20:00; Tu,We 10:00-18:00; Th 10:00-20:00; Fr-Su 10:00-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/laseraway-edina/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/laseraway-edina.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12139116023 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

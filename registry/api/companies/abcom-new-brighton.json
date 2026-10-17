@@ -1,0 +1,53 @@
+{
+ "slug": "abcom-new-brighton",
+ "name": "ABcom",
+ "categories": [
+  "it support"
+ ],
+ "keywords": [
+  "it support",
+  "it support new brighton mn"
+ ],
+ "services": [
+  {
+   "name": "it support",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "213 Old Highway 8 Southwest",
+  "addressLocality": "New Brighton",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "New Brighton",
+ "state": "MN",
+ "geo": {
+  "lat": 45.046325,
+  "lon": -93.1974342
+ },
+ "website": "https://www.abcomllc.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12900412026",
+ "osm": {
+  "type": "node",
+  "id": 12900412026,
+  "tags_used": {
+   "office": "it"
+  }
+ },
+ "municipality": "New Brighton",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/abcom-new-brighton/",
+ "summary": "ABcom is an IT support company in New Brighton, MN at 213 Old Highway 8 Southwest, New Brighton, MN. Website: https://www.abcomllc.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

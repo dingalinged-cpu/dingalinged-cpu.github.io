@@ -1,0 +1,79 @@
+{
+ "place": "Minnetrista, MN",
+ "slug": "minnetrista-mn",
+ "count": 2,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "event venues minnetrista mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-minnetrista-mn.json"
+  },
+  {
+   "keyword": "liquor store minnetrista mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-minnetrista-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "the-cove-wine-and-spirits-minnetrista",
+   "name": "The Cove Wine & Spirits",
+   "summary": "The Cove Wine & Spirits is a liquor store in Minnetrista, MN at 4751 Kings Point Road, Minnetrista, MN 55331.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-cove-wine-and-spirits-minnetrista/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-cove-wine-and-spirits-minnetrista.json",
+   "address": {
+    "streetAddress": "4751 Kings Point Road",
+    "addressLocality": "Minnetrista",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Minnetrista",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8932748,
+    "lon": -93.7049234
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12123499328",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rental-facility-minnetrista",
+   "name": "Rental Facility",
+   "summary": "Rental Facility is an event venue in Minnetrista, MN.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rental-facility-minnetrista/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rental-facility-minnetrista.json",
+   "address": {
+    "addressLocality": "Minnetrista",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetrista",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8966064,
+    "lon": -93.6681207
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1487861404",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

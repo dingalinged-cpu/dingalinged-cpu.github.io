@@ -1,0 +1,61 @@
+{
+ "keyword": "assisted living little canada mn",
+ "slug": "assisted-living-little-canada-mn",
+ "place": "Little Canada, MN",
+ "service": "assisted living",
+ "query": "Who are the best assisted living providers in Little Canada, MN?",
+ "matches": [
+  "assisted living in Little Canada, MN",
+  "assisted living near me (Little Canada, MN)",
+  "best assisted living Little Canada, MN",
+  "top rated assisted living Little Canada, MN",
+  "affordable assisted living Little Canada, MN",
+  "emergency assisted living Little Canada, MN"
+ ],
+ "answer": "The top unpaid assisted living listing for Little Canada, MN is Cardigan Ridge Senior Living (an assisted living facility in Shoreview, MN at 3300 Rice Street, Shoreview, MN 55126). 1 assisted living businesses are listed for Little Canada, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "cardigan-ridge-senior-living-shoreview",
+   "name": "Cardigan Ridge Senior Living",
+   "summary": "Cardigan Ridge Senior Living is an assisted living facility in Shoreview, MN at 3300 Rice Street, Shoreview, MN 55126.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cardigan-ridge-senior-living-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cardigan-ridge-senior-living-shoreview.json",
+   "address": {
+    "streetAddress": "3300 Rice Street",
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "postalCode": "55126",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "zip": "55126",
+   "geo": {
+    "lat": 45.041336,
+    "lon": -93.1055588
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1360570552",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

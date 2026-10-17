@@ -1,0 +1,23 @@
+Alpha Massage is a massage studio in Minneapolis, MN at 115 North 1st Street, Minneapolis, MN 55401. Website: https://alphamassage.co/.
+
+# Alpha Massage
+
+- Category: massage
+- Services: massage
+- Address: 115 North 1st Street, Minneapolis, MN 55401
+- City: Minneapolis
+- State: MN
+- ZIP: 55401
+- Coordinates: 44.9849049, -93.2686306
+- Phone: n/a
+- Website: https://alphamassage.co/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/alpha-massage-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/alpha-massage-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13626360294 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

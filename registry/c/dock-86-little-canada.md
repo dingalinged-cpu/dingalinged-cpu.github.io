@@ -1,0 +1,23 @@
+Dock 86 is a furniture store in Little Canada, MN.
+
+# Dock 86
+
+- Category: furniture store
+- Services: furniture store
+- Address: Little Canada, MN
+- City: Little Canada
+- State: MN
+- ZIP: n/a
+- Coordinates: 45.0378475, -93.0951992
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dock-86-little-canada/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dock-86-little-canada.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11449528469 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

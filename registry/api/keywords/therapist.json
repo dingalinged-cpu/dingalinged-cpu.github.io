@@ -1,0 +1,1523 @@
+{
+ "keyword": "therapist",
+ "slug": "therapist",
+ "place": "the United States",
+ "service": "therapist",
+ "query": "Who are the best therapist providers in the United States?",
+ "matches": [
+  "therapist in the United States",
+  "therapist near me (the United States)",
+  "best therapist the United States",
+  "top rated therapist the United States",
+  "affordable therapist the United States",
+  "emergency therapist the United States"
+ ],
+ "answer": "The top unpaid therapist listing for the United States is Action Behavior Centers - ABA Therapy for Autism (a therapy practice in Plymouth, MN at 2905 Northwest Boulevard #100, Plymouth, MN 55441. Phone: +16123558868. Website: https://www.actionbehavior.com/locations/minnesota/aba-therapy-plymouth-mn/). 46 therapist businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "action-behavior-centers-aba-therapy-for-autism-plymouth",
+   "name": "Action Behavior Centers - ABA Therapy for Autism",
+   "summary": "Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Plymouth, MN at 2905 Northwest Boulevard #100, Plymouth, MN 55441. Phone: +16123558868. Website: https://www.actionbehavior.com/locations/minnesota/aba-therapy-plymouth-mn/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/action-behavior-centers-aba-therapy-for-autism-plymouth.json",
+   "address": {
+    "streetAddress": "2905 Northwest Boulevard #100",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55441",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55441",
+   "geo": {
+    "lat": 45.0122474,
+    "lon": -93.4505973
+   },
+   "phone": "+16123558868",
+   "website": "https://www.actionbehavior.com/locations/minnesota/aba-therapy-plymouth-mn/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11331978069",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "mental-health-resources-saint-paul",
+   "name": "Mental Health Resources",
+   "summary": "Mental Health Resources is a therapy practice in Saint Paul, MN at 762 Transfer Road ##21, Saint Paul, MN 55114. Phone: +16516592900. Website: https://www.mhresources.org/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mental-health-resources-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mental-health-resources-saint-paul.json",
+   "address": {
+    "streetAddress": "762 Transfer Road ##21",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9645641,
+    "lon": -93.185286
+   },
+   "phone": "+16516592900",
+   "website": "https://www.mhresources.org/",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7192381895",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "minnesota-center-for-psychology-saint-paul",
+   "name": "Minnesota Center for Psychology",
+   "summary": "Minnesota Center for Psychology is a therapy practice in Saint Paul, MN at 2324 University Avenue West ##120, Saint Paul, MN 55114. Phone: +16516444100. Website: https://www.minnesotacenterforpsychology.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-center-for-psychology-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-center-for-psychology-saint-paul.json",
+   "address": {
+    "streetAddress": "2324 University Avenue West ##120",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9625028,
+    "lon": -93.1959005
+   },
+   "phone": "+16516444100",
+   "website": "https://www.minnesotacenterforpsychology.com/",
+   "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7150081728",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "natalis-counseling-and-psychology-solutions-saint-paul",
+   "name": "Natalis Counseling & Psychology Solutions",
+   "summary": "Natalis Counseling & Psychology Solutions is a therapy practice in Saint Paul, MN at 1600 University Avenue ##12, Saint Paul, MN 55104. Phone: +16513795157. Website: https://www.natalispsychology.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natalis-counseling-and-psychology-solutions-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natalis-counseling-and-psychology-solutions-saint-paul.json",
+   "address": {
+    "streetAddress": "1600 University Avenue ##12",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9554848,
+    "lon": -93.1684839
+   },
+   "phone": "+16513795157",
+   "website": "https://www.natalispsychology.com/",
+   "opening_hours": "Mo-We 07:30-19:00; Th 07:30-18:00; Fr 07:30-19:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7207235102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "planned-parenthood-minneapolis",
+   "name": "Planned Parenthood",
+   "summary": "Planned Parenthood is a therapy practice in Minneapolis, MN at 1200 Lagoon Avenue, Minneapolis, MN 55408. Phone: +16128236300. Website: https://www.plannedparenthood.org/health-center/minnesota/minneapolis/55408/minneapolis-clinic-2719-90720.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planned-parenthood-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-minneapolis.json",
+   "address": {
+    "streetAddress": "1200 Lagoon Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9495426,
+    "lon": -93.294833
+   },
+   "phone": "+16128236300",
+   "website": "https://www.plannedparenthood.org/health-center/minnesota/minneapolis/55408/minneapolis-clinic-2719-90720",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/936506078",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "planned-parenthood-saint-paul",
+   "name": "Planned Parenthood",
+   "summary": "Planned Parenthood is a therapy practice in Saint Paul, MN at 671 Vandalia Street, Saint Paul, MN 55114. Phone: +16516982406. Website: https://www.plannedparenthood.org/health-center/minnesota/saint-paul/55114/st-paul-health-center-vandalia-4055-90720.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planned-parenthood-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-saint-paul.json",
+   "address": {
+    "streetAddress": "671 Vandalia Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.96176,
+    "lon": -93.189616
+   },
+   "phone": "+16516982406",
+   "website": "https://www.plannedparenthood.org/health-center/minnesota/saint-paul/55114/st-paul-health-center-vandalia-4055-90720",
+   "opening_hours": "Mo-Sa 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/61149689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "the-institute-for-rational-well-being-saint-paul",
+   "name": "The Institute for Rational Well-Being",
+   "summary": "The Institute for Rational Well-Being is a therapy practice in Saint Paul, MN at 1919 University Avenue ##425, Saint Paul, MN 55104. Phone: +16512438200. Website: https://www.irwb.org/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-institute-for-rational-well-being-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-institute-for-rational-well-being-saint-paul.json",
+   "address": {
+    "streetAddress": "1919 University Avenue ##425",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9573248,
+    "lon": -93.1801818
+   },
+   "phone": "+16512438200",
+   "website": "https://www.irwb.org/",
+   "opening_hours": "Mo 07:00-18:00; Tu 07:00-16:00; We-Th 07:00-18:00; Fr 07:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7199209062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "william-schultz-counselling-saint-paul",
+   "name": "William Schultz Counselling",
+   "summary": "William Schultz Counselling is a therapy practice in Saint Paul, MN at 6 5th Street West, Saint Paul, MN 55102. Phone: +16128751890. Website: https://www.williamschultzcounseling.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/william-schultz-counselling-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/william-schultz-counselling-saint-paul.json",
+   "address": {
+    "streetAddress": "6 5th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9454456,
+    "lon": -93.0946949
+   },
+   "phone": "+16128751890",
+   "website": "https://www.williamschultzcounseling.com/",
+   "opening_hours": "Mo-Sa 11:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13657508987",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "ww-studio-maple-grove",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in Maple Grove, MN at 13610 Grove Drive North, Maple Grove, MN 55311. Phone: +18006516000. Website: https://www.weightwatchers.com/us/find-a-meeting/1200230/weight-watchers-store-maple-grove-maple-grove-mn.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-maple-grove.json",
+   "address": {
+    "streetAddress": "13610 Grove Drive North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.1047219,
+    "lon": -93.4528105
+   },
+   "phone": "+18006516000",
+   "website": "https://www.weightwatchers.com/us/find-a-meeting/1200230/weight-watchers-store-maple-grove-maple-grove-mn",
+   "opening_hours": "Su 09:00-10:30;Tu 10:00-11:30,16:30-19:00;We 09:00-13:00,16:00-17:30;Th 11:30-13:00,17:00-18:30;Fr 07:00-12:00;Sa 06:30-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/610036226",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "cedar-hill-therapy-minneapolis",
+   "name": "Cedar Hill Therapy",
+   "summary": "Cedar Hill Therapy is a therapy practice in Minneapolis, MN at 3432 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16122844291. Website: https://cedarhilltherapy.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedar-hill-therapy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedar-hill-therapy-minneapolis.json",
+   "address": {
+    "streetAddress": "3432 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9402331,
+    "lon": -93.2885194
+   },
+   "phone": "+16122844291",
+   "website": "https://cedarhilltherapy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13370454801",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "essential-care-centers-minneapolis",
+   "name": "Essential Care Centers",
+   "summary": "Essential Care Centers is a therapy practice in Minneapolis, MN at 3101 Irving Avenue South, Minneapolis, MN 55408. Phone: +16124412024. Website: https://essentialcarecenters.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/essential-care-centers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/essential-care-centers-minneapolis.json",
+   "address": {
+    "streetAddress": "3101 Irving Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9464157,
+    "lon": -93.3017311
+   },
+   "phone": "+16124412024",
+   "website": "https://essentialcarecenters.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/89275669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "northstar-behavioral-health-oakdale",
+   "name": "Northstar Behavioral Health",
+   "summary": "Northstar Behavioral Health is a therapy practice in Oakdale, MN at 5713 Geneva Avenue North, Oakdale, MN 55128. Phone: +16513717327. Website: https://www.northstarbehavioralhealthmn.com/womens-residential-geneva.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northstar-behavioral-health-oakdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northstar-behavioral-health-oakdale.json",
+   "address": {
+    "streetAddress": "5713 Geneva Avenue North",
+    "addressLocality": "Oakdale",
+    "addressRegion": "MN",
+    "postalCode": "55128",
+    "addressCountry": "US"
+   },
+   "city": "Oakdale",
+   "state": "MN",
+   "zip": "55128",
+   "geo": {
+    "lat": 45.0322578,
+    "lon": -92.9841312
+   },
+   "phone": "+16513717327",
+   "website": "https://www.northstarbehavioralhealthmn.com/womens-residential-geneva",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6636466384",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "nutritional-weight-and-wellness-saint-paul",
+   "name": "Nutritional Weight & Wellness",
+   "summary": "Nutritional Weight & Wellness is a therapy practice in Saint Paul, MN at 45 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516993438. Website: https://www.weightandwellness.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nutritional-weight-and-wellness-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nutritional-weight-and-wellness-saint-paul.json",
+   "address": {
+    "streetAddress": "45 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9426103,
+    "lon": -93.1673347
+   },
+   "phone": "+16516993438",
+   "website": "https://www.weightandwellness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/510471074",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "partners-in-fertility-minneapolis",
+   "name": "partners (in)fertility",
+   "summary": "partners (in)fertility is a therapy practice in Minneapolis, MN at 416 Penn Avenue South, Minneapolis, MN 55405. Phone: +16123241207. Website: https://www.partnersinfertility.net/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/partners-in-fertility-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/partners-in-fertility-minneapolis.json",
+   "address": {
+    "streetAddress": "416 Penn Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9731493,
+    "lon": -93.308687
+   },
+   "phone": "+16123241207",
+   "website": "https://www.partnersinfertility.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/984761598",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "reviving-roots-therapy-and-wellness-minneapolis",
+   "name": "Reviving Roots Therapy & Wellness",
+   "summary": "Reviving Roots Therapy & Wellness is a therapy practice in Minneapolis, MN at 1624 Harmon Place #300, Minneapolis, MN 55403. Phone: +16124457781. Website: https://reviving-roots.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reviving-roots-therapy-and-wellness-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reviving-roots-therapy-and-wellness-minneapolis.json",
+   "address": {
+    "streetAddress": "1624 Harmon Place #300",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9718191,
+    "lon": -93.2858506
+   },
+   "phone": "+16124457781",
+   "website": "https://reviving-roots.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13639106473",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "smary-therapy-center-minneapolis",
+   "name": "Smary Therapy Center",
+   "summary": "Smary Therapy Center is a therapy practice in Minneapolis, MN at Nicollet Avenue #100, Minneapolis, MN. Phone: +16122080751.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smary-therapy-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smary-therapy-center-minneapolis.json",
+   "address": {
+    "streetAddress": "Nicollet Avenue #100",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9620409,
+    "lon": -93.277585
+   },
+   "phone": "+16122080751",
+   "opening_hours": "09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11035069534",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "air-healthcare-saint-paul",
+   "name": "AiR Healthcare",
+   "summary": "AiR Healthcare is a therapy practice in Saint Paul, MN at 400 Selby Avenue #Suite D, Saint Paul, MN 55102. Website: https://www.humankindforall.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/air-healthcare-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/air-healthcare-saint-paul.json",
+   "address": {
+    "streetAddress": "400 Selby Avenue #Suite D",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9461588,
+    "lon": -93.1175868
+   },
+   "website": "https://www.humankindforall.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818285046",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "anoka-psychological-services-coon-rapids",
+   "name": "Anoka Psychological Services",
+   "summary": "Anoka Psychological Services is a therapy practice in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541531.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anoka-psychological-services-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anoka-psychological-services-coon-rapids.json",
+   "address": {
+    "streetAddress": "11427 Hanson Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "postalCode": "55433",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "zip": "55433",
+   "geo": {
+    "lat": 45.1781234,
+    "lon": -93.316335
+   },
+   "phone": "+17637541531",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9249369713",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "arctos-360-the-purpose-institute-saint-paul",
+   "name": "Arctos 360 The Purpose Institute",
+   "summary": "Arctos 360 The Purpose Institute is a therapy practice in Saint Paul, MN at 400 Selby Avenue, Saint Paul, MN 55102. Website: https://www.arctos360.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arctos-360-the-purpose-institute-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arctos-360-the-purpose-institute-saint-paul.json",
+   "address": {
+    "streetAddress": "400 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.946307,
+    "lon": -93.117205
+   },
+   "website": "https://www.arctos360.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818305546",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "echo-integrated-mental-health-minneapolis",
+   "name": "Echo Integrated Mental Health",
+   "summary": "Echo Integrated Mental Health is a therapy practice in Minneapolis, MN at 1523 West Lake Street #A, Minneapolis, MN 55408. Website: https://www.echohealthcare.org/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/echo-integrated-mental-health-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/echo-integrated-mental-health-minneapolis.json",
+   "address": {
+    "streetAddress": "1523 West Lake Street #A",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482486,
+    "lon": -93.3018841
+   },
+   "website": "https://www.echohealthcare.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6450215756",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "healthy-minds-saint-paul",
+   "name": "Healthy Minds",
+   "summary": "Healthy Minds is a therapy practice in Saint Paul, MN at 400 Selby Avenue #Suite Q, Saint Paul, MN 55102. Website: https://www.healthyminds.io/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthy-minds-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthy-minds-saint-paul.json",
+   "address": {
+    "streetAddress": "400 Selby Avenue #Suite Q",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9463046,
+    "lon": -93.117297
+   },
+   "website": "https://www.healthyminds.io/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12818285047",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "hypnoessence-minnetonka",
+   "name": "Hypnoessence",
+   "summary": "Hypnoessence is a therapy practice in Minnetonka, MN at 5025 Crown Street, Minnetonka, MN 55345. Website: https://hypnoessence.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hypnoessence-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hypnoessence-minnetonka.json",
+   "address": {
+    "streetAddress": "5025 Crown Street",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55345",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55345",
+   "geo": {
+    "lat": 44.9121947,
+    "lon": -93.4549087
+   },
+   "website": "https://hypnoessence.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/238162909",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "linnihan-licensed-psychologist-saint-paul",
+   "name": "Linnihan Licensed Psychologist",
+   "summary": "Linnihan Licensed Psychologist is a therapy practice in Saint Paul, MN at 540 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16516455372.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linnihan-licensed-psychologist-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linnihan-licensed-psychologist-saint-paul.json",
+   "address": {
+    "streetAddress": "540 Fairview Avenue North",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9572193,
+    "lon": -93.1766689
+   },
+   "phone": "+16516455372",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7202339973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "morningsong-therapy-minneapolis",
+   "name": "Morningsong Therapy",
+   "summary": "Morningsong Therapy is a therapy practice in Minneapolis, MN at 3801 West 50th Street #STE 250B, Minneapolis, MN 55410. Website: https://morningsongtherapy.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morningsong-therapy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morningsong-therapy-minneapolis.json",
+   "address": {
+    "streetAddress": "3801 West 50th Street #STE 250B",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9122638,
+    "lon": -93.3280143
+   },
+   "website": "https://morningsongtherapy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "northwinds-counseling-services-rogers",
+   "name": "Northwinds Counseling Services",
+   "summary": "Northwinds Counseling Services is a therapy practice in Rogers, MN at 21395 John Milless Drive #Suite 400, Rogers, MN 55374. Phone: +17634241888.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwinds-counseling-services-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwinds-counseling-services-rogers.json",
+   "address": {
+    "streetAddress": "21395 John Milless Drive #Suite 400",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1918926,
+    "lon": -93.5503927
+   },
+   "phone": "+17634241888",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7061386959",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "stone-creek-psychiartry-chanhassen",
+   "name": "Stone Creek Psychiartry",
+   "summary": "Stone Creek Psychiartry is a therapy practice in Chanhassen, MN at 7945 Stone Creek Drive #130, Chanhassen, MN 55317. Website: https://www.stonecreekpsychiatry.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stone-creek-psychiartry-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stone-creek-psychiartry-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #130",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.86235,
+    "lon": -93.5717857
+   },
+   "website": "https://www.stonecreekpsychiatry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428568",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "comprehensive-behavioral-health-minneapolis",
+   "name": "Comprehensive Behavioral Health",
+   "summary": "Comprehensive Behavioral Health is a therapy practice in Minneapolis, MN at 4243 4th Avenue South, Minneapolis, MN. Phone: +16128212003.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/comprehensive-behavioral-health-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/comprehensive-behavioral-health-minneapolis.json",
+   "address": {
+    "streetAddress": "4243 4th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9254588,
+    "lon": -93.2697962
+   },
+   "phone": "+16128212003",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7416355147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "lyn-lake-psychotherapy-and-wellness-minneapolis",
+   "name": "Lyn-Lake Psychotherapy and Wellness",
+   "summary": "Lyn-Lake Psychotherapy and Wellness is a therapy practice in Minneapolis, MN at 3033 Excelsior Boulevard, Minneapolis, MN. Website: https://therapy-mn.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyn-lake-psychotherapy-and-wellness-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyn-lake-psychotherapy-and-wellness-minneapolis.json",
+   "address": {
+    "streetAddress": "3033 Excelsior Boulevard",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9476391,
+    "lon": -93.3184208
+   },
+   "website": "https://therapy-mn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13706216736",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "associated-clinic-of-psychology-saint-louis-park",
+   "name": "Associated Clinic of Psychology",
+   "summary": "Associated Clinic of Psychology is a therapy practice in Saint Louis Park, MN. Website: https://acp-mn.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/associated-clinic-of-psychology-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/associated-clinic-of-psychology-saint-louis-park.json",
+   "address": {
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9475373,
+    "lon": -93.3314038
+   },
+   "website": "https://acp-mn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14005572335",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "ww-studio-roseville",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in Roseville, MN. Website: https://www.weightwatchers.com/us/find-a-meeting/1200370/ww-studio-roseville-roseville-mn.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-roseville.json",
+   "address": {
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0127016,
+    "lon": -93.1727207
+   },
+   "website": "https://www.weightwatchers.com/us/find-a-meeting/1200370/ww-studio-roseville-roseville-mn",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1551082521",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "behavioral-dimensions-saint-louis-park",
+   "name": "Behavioral Dimensions",
+   "summary": "Behavioral Dimensions is a therapy practice in Saint Louis Park, MN at 7010 Minnesota State Highway 7, Saint Louis Park, MN 55426.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/behavioral-dimensions-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/behavioral-dimensions-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7010 Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9386748,
+    "lon": -93.3660133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/435068831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "care-counseling-minneapolis",
+   "name": "CARE Counseling",
+   "summary": "CARE Counseling is a therapy practice in Minneapolis, MN at 204 West Franklin Avenue, Minneapolis, MN 55404.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/care-counseling-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/care-counseling-minneapolis.json",
+   "address": {
+    "streetAddress": "204 West Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9629898,
+    "lon": -93.2811373
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/119004467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "choices-psychotherapy-chanhassen",
+   "name": "Choices Psychotherapy",
+   "summary": "Choices Psychotherapy is a therapy practice in Chanhassen, MN at 7975 Stone Creek Drive #130, Chanhassen, MN 55317.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/choices-psychotherapy-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/choices-psychotherapy-chanhassen.json",
+   "address": {
+    "streetAddress": "7975 Stone Creek Drive #130",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8619034,
+    "lon": -93.5726918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428574",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "dr-michael-d-thompson-edina",
+   "name": "Dr. Michael D. Thompson",
+   "summary": "Dr. Michael D. Thompson is a therapy practice in Edina, MN at 5007 France Avenue South, Edina, MN 55410.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-michael-d-thompson-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-michael-d-thompson-edina.json",
+   "address": {
+    "streetAddress": "5007 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9122669,
+    "lon": -93.3287802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12143327841",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "north-star-regional-mental-health-chanhassen",
+   "name": "North Star Regional Mental Health",
+   "summary": "North Star Regional Mental Health is a therapy practice in Chanhassen, MN at 7945 Stone Creek Drive #140, Chanhassen, MN 55317.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-star-regional-mental-health-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-star-regional-mental-health-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #140",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8623397,
+    "lon": -93.571906
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428567",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "northstar-regional-bridges-program-chanhassen",
+   "name": "NorthStar Regional Bridges Program",
+   "summary": "NorthStar Regional Bridges Program is a therapy practice in Chanhassen, MN at 7945 Stone Creek Drive #10, Chanhassen, MN 55317.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northstar-regional-bridges-program-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northstar-regional-bridges-program-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #10",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8622991,
+    "lon": -93.5715272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428571",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "northstar-regional-cd-iop-chanhassen",
+   "name": "NorthStar Regional CD IOP",
+   "summary": "NorthStar Regional CD IOP is a therapy practice in Chanhassen, MN at 7945 Stone Creek Drive #30, Chanhassen, MN 55317.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northstar-regional-cd-iop-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northstar-regional-cd-iop-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #30",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.862276,
+    "lon": -93.5717756
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "bold-north-psychotherapy-minneapolis",
+   "name": "Bold North Psychotherapy",
+   "summary": "Bold North Psychotherapy is a therapy practice in Minneapolis, MN at 4311, Minneapolis, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bold-north-psychotherapy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bold-north-psychotherapy-minneapolis.json",
+   "address": {
+    "streetAddress": "4311",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9241687,
+    "lon": -93.3145829
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12983410405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "sage-prairie-treatment-center-eagan",
+   "name": "Sage Prairie Treatment Center",
+   "summary": "Sage Prairie Treatment Center is a therapy practice in Eagan, MN at 1440 Duckwood Drive #300, Eagan, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sage-prairie-treatment-center-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sage-prairie-treatment-center-eagan.json",
+   "address": {
+    "streetAddress": "1440 Duckwood Drive #300",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8264693,
+    "lon": -93.1694428
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7787676228",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "threads-of-hope-eagan",
+   "name": "Threads of Hope",
+   "summary": "Threads of Hope is a therapy practice in Eagan, MN at 3410 Federal Drive, Eagan, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/threads-of-hope-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/threads-of-hope-eagan.json",
+   "address": {
+    "streetAddress": "3410 Federal Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8328641,
+    "lon": -93.1718812
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134351518",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "ww-studio-eden-prairie",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in Eden Prairie, MN at 8250 Commonwealth Drive, Eden Prairie, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-eden-prairie.json",
+   "address": {
+    "streetAddress": "8250 Commonwealth Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547745,
+    "lon": -93.4339202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4145440399",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "lynlake-centers-for-wellbeing-minneapolis",
+   "name": "LynLake centers for wellbeing",
+   "summary": "LynLake centers for wellbeing is a therapy practice in Minneapolis, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lynlake-centers-for-wellbeing-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lynlake-centers-for-wellbeing-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9460693,
+    "lon": -93.2986519
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9918110417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "brave-soul-counseling-services-saint-paul-park",
+   "name": "Brave Soul Counseling Services",
+   "summary": "Brave Soul Counseling Services is a therapy practice in Saint Paul Park, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brave-soul-counseling-services-saint-paul-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brave-soul-counseling-services-saint-paul-park.json",
+   "address": {
+    "addressLocality": "Saint Paul Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8481385,
+    "lon": -92.9960231
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/787317514",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "true-foundation-counseling-services-brooklyn-park",
+   "name": "True Foundation Counseling Services",
+   "summary": "True Foundation Counseling Services is a therapy practice in Brooklyn Park, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/true-foundation-counseling-services-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/true-foundation-counseling-services-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1097907,
+    "lon": -93.3075402
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8147867922",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "v-care-home-health-inc-saint-paul",
+   "name": "V-Care Home Health, Inc",
+   "summary": "V-Care Home Health, Inc is a therapy practice in Saint Paul, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/v-care-home-health-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/v-care-home-health-inc-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9728323,
+    "lon": -93.0737772
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605070032",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "ww-studio-saint-paul",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in Saint Paul, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9176055,
+    "lon": -93.18574
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/660909476",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

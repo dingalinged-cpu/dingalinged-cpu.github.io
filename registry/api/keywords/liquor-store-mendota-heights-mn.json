@@ -1,0 +1,90 @@
+{
+ "keyword": "liquor store mendota heights mn",
+ "slug": "liquor-store-mendota-heights-mn",
+ "place": "Mendota Heights, MN",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in Mendota Heights, MN?",
+ "matches": [
+  "liquor store in Mendota Heights, MN",
+  "liquor store near me (Mendota Heights, MN)",
+  "best liquor store Mendota Heights, MN",
+  "top rated liquor store Mendota Heights, MN",
+  "affordable liquor store Mendota Heights, MN",
+  "emergency liquor store Mendota Heights, MN"
+ ],
+ "answer": "The top unpaid liquor store listing for Mendota Heights, MN is Chet's Liquor (a liquor store in Mendota Heights, MN at 974 Sibley Memorial Highway, Mendota Heights, MN 55118). 2 liquor store businesses are listed for Mendota Heights, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "chets-liquor-mendota-heights",
+   "name": "Chet's Liquor",
+   "summary": "Chet's Liquor is a liquor store in Mendota Heights, MN at 974 Sibley Memorial Highway, Mendota Heights, MN 55118.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chets-liquor-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chets-liquor-mendota-heights.json",
+   "address": {
+    "streetAddress": "974 Sibley Memorial Highway",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8991591,
+    "lon": -93.13777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531594244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "liquor-barrel-mendota-heights",
+   "name": "Liquor Barrel",
+   "summary": "Liquor Barrel is a liquor store in Mendota Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-barrel-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-barrel-mendota-heights.json",
+   "address": {
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8819201,
+    "lon": -93.1244368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318413",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "keyword": "plumbing services saint paul mn",
+ "slug": "plumbing-services-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "plumbing services",
+ "query": "Who are the best plumbing services providers in Saint Paul, MN?",
+ "matches": [
+  "plumbing services in Saint Paul, MN",
+  "plumbing services near me (Saint Paul, MN)",
+  "best plumbing services Saint Paul, MN",
+  "top rated plumbing services Saint Paul, MN",
+  "affordable plumbing services Saint Paul, MN",
+  "emergency plumbing services Saint Paul, MN"
+ ],
+ "answer": "The top unpaid plumbing services listing for Saint Paul, MN is Norblom Plumbing (a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul, MN 55104. Phone: +16128274033. Website: https://www.norblomplumbing.com/). 3 plumbing services businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "norblom-plumbing-saint-paul",
+   "name": "Norblom Plumbing",
+   "summary": "Norblom Plumbing is a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul, MN 55104. Phone: +16128274033. Website: https://www.norblomplumbing.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/norblom-plumbing-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/norblom-plumbing-saint-paul.json",
+   "address": {
+    "streetAddress": "1465 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.946911,
+    "lon": -93.1623848
+   },
+   "phone": "+16128274033",
+   "website": "https://www.norblomplumbing.com/",
+   "opening_hours": "Mo-Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/845504165",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "kelly-plumbing-and-heating-saint-paul",
+   "name": "Kelly Plumbing & Heating",
+   "summary": "Kelly Plumbing & Heating is a plumber in Saint Paul, MN at 1932 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516991232. Website: https://www.kellyplumbinginc.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kelly-plumbing-and-heating-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kelly-plumbing-and-heating-saint-paul.json",
+   "address": {
+    "streetAddress": "1932 Saint Clair Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9342057,
+    "lon": -93.1819101
+   },
+   "phone": "+16516991232",
+   "website": "https://www.kellyplumbinginc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7229122989",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "mcdonoughs-saint-paul",
+   "name": "McDonough's",
+   "summary": "McDonough's is a plumber in Saint Paul, MN at 2271 Capp Road, Saint Paul, MN 55114. Phone: +16514363370. Website: https://www.unclogdrains,com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcdonoughs-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcdonoughs-saint-paul.json",
+   "address": {
+    "streetAddress": "2271 Capp Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9699344,
+    "lon": -93.1917246
+   },
+   "phone": "+16514363370",
+   "website": "https://www.unclogdrains,com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267117646",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "keyword": "hair salon inver grove heights mn",
+ "slug": "hair-salon-inver-grove-heights-mn",
+ "place": "Inver Grove Heights, MN",
+ "service": "hair salon",
+ "query": "Who are the best hair salon providers in Inver Grove Heights, MN?",
+ "matches": [
+  "hair salon in Inver Grove Heights, MN",
+  "hair salon near me (Inver Grove Heights, MN)",
+  "best hair salon Inver Grove Heights, MN",
+  "top rated hair salon Inver Grove Heights, MN",
+  "affordable hair salon Inver Grove Heights, MN",
+  "emergency hair salon Inver Grove Heights, MN"
+ ],
+ "answer": "The top unpaid hair salon listing for Inver Grove Heights, MN is Marilu G Studio (a hair salon in Inver Grove Heights, MN). 2 hair salon businesses are listed for Inver Grove Heights, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "marilu-g-studio-inver-grove-heights",
+   "name": "Marilu G Studio",
+   "summary": "Marilu G Studio is a hair salon in Inver Grove Heights, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marilu-g-studio-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marilu-g-studio-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.817384,
+    "lon": -93.0456327
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "the-times-hair-salon-inver-grove-heights",
+   "name": "The Times Hair Salon",
+   "summary": "The Times Hair Salon is a hair salon in Inver Grove Heights, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-times-hair-salon-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-times-hair-salon-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.853281,
+    "lon": -93.0454157
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5155386657",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

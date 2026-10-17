@@ -1,0 +1,23 @@
+Kohlstad Brothers Autobody is an auto repair shop in Minneapolis, MN at 4261 Chicago Avenue South, Minneapolis, MN. Phone: +16127216933.
+
+# Kohlstad Brothers Autobody
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 4261 Chicago Avenue South, Minneapolis, MN
+- City: Minneapolis
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9252696, -93.262151
+- Phone: +16127216933
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kohlstad-brothers-autobody-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kohlstad-brothers-autobody-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/799412908 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,54 @@
+{
+ "slug": "kwik-trip-hugo",
+ "name": "Kwik Trip",
+ "categories": [
+  "car wash"
+ ],
+ "keywords": [
+  "car wash",
+  "car wash hugo mn"
+ ],
+ "services": [
+  {
+   "name": "car wash",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Hugo",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Hugo",
+ "state": "MN",
+ "geo": {
+  "lat": 45.1642451,
+  "lon": -93.0175012
+ },
+ "website": "https://www.kwiktrip.com/locator/store?id=454",
+ "brand": "Kwik Trip",
+ "wikidata": "Q6450420",
+ "schema_type": "AutoWash",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/485232802",
+ "osm": {
+  "type": "way",
+  "id": 485232802,
+  "tags_used": {
+   "amenity": "car_wash"
+  }
+ },
+ "municipality": "Hugo",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-hugo/",
+ "summary": "Kwik Trip is a car wash in Hugo, MN. Website: https://www.kwiktrip.com/locator/store?id=454.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

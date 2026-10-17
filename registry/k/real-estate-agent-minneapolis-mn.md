@@ -1,0 +1,31 @@
+The top unpaid real estate agent listing for Minneapolis, MN is Whetstone Land (a real estate agency in Minneapolis, MN at 5123 West 98th Street, Minneapolis, MN 55437. Phone: +17043255263. Website: https://whetstoneland.com/). 21 real estate agent businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best real estate agent providers in Minneapolis, MN?
+
+Also answers: real estate agent in Minneapolis, MN; real estate agent near me (Minneapolis, MN); best real estate agent Minneapolis, MN; top rated real estate agent Minneapolis, MN; affordable real estate agent Minneapolis, MN; emergency real estate agent Minneapolis, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Whetstone Land | trust 20.0 | Whetstone Land is a real estate agency in Minneapolis, MN at 5123 West 98th Street, Minneapolis, MN 55437. Phone: +17043255263. Website: https://whetstoneland.com/. | https://dingalinged-cpu.github.io/registry/c/whetstone-land-minneapolis/
+2. Direct Access Realty LLC | trust 16.0 | Direct Access Realty LLC is a real estate agency in Minneapolis, MN at 2727 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16126888888. Website: https://directaccessrealty.com/. | https://dingalinged-cpu.github.io/registry/c/direct-access-realty-llc-minneapolis/
+3. Gold Group Realty | trust 16.0 | Gold Group Realty is a real estate agency in Minneapolis, MN at 1515 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16125673123. Website: https://www.thegold.group/. | https://dingalinged-cpu.github.io/registry/c/gold-group-realty-minneapolis/
+4. Hartley Properties | trust 16.0 | Hartley Properties is a real estate agency in Minneapolis, MN at 1414 3rd Street South, Minneapolis, MN 55454. Phone: +16126730198. Website: https://www.hartleyproperties.com/. | https://dingalinged-cpu.github.io/registry/c/hartley-properties-minneapolis/
+5. Sylvia I. Anderson Realty | trust 16.0 | Sylvia I. Anderson Realty is a real estate agency in Minneapolis, MN at 4023 East Lake Street, Minneapolis, MN 55406. Phone: +16128863603. Website: https://andersonrealtymn.com/. | https://dingalinged-cpu.github.io/registry/c/sylvia-i-anderson-realty-minneapolis/
+6. RE/MAX | trust 15.0 | RE/MAX is a real estate agency in Minneapolis, MN at 1609, Minneapolis, MN. Phone: +16123141520. Website: https://results.net/offices/minneapolis-loring-park/99. | https://dingalinged-cpu.github.io/registry/c/re-max-minneapolis/
+7. Al Theisen Renovations | trust 10.0 | Al Theisen Renovations is a real estate agency in Minneapolis, MN at 5005 Penn Avenue South, Minneapolis, MN 55419. Website: https://www.altheisenrenovations.com/. | https://dingalinged-cpu.github.io/registry/c/al-theisen-renovations-minneapolis/
+8. Eagle Nesters Realty | trust 10.0 | Eagle Nesters Realty is a real estate agency in Minneapolis, MN at 1533 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16128661916. | https://dingalinged-cpu.github.io/registry/c/eagle-nesters-realty-minneapolis/
+9. Edina Realty | trust 10.0 | Edina Realty is a real estate agency in Minneapolis, MN at 4999 France Avenue South #250, Minneapolis, MN 55410. Website: https://www.edinarealty.com/office/edina-50th-and-france. | https://dingalinged-cpu.github.io/registry/c/edina-realty-minneapolis/
+10. Uptown Realty & Management | trust 10.0 | Uptown Realty & Management is a real estate agency in Minneapolis, MN at 2431 Lyndale Avenue South, Minneapolis, MN 55405. Website: https://www.uptownre.com/. | https://dingalinged-cpu.github.io/registry/c/uptown-realty-and-management-minneapolis/
+11. Rubicon Mortgage Advisors | trust 7.0 | Rubicon Mortgage Advisors is a real estate agency in Minneapolis, MN at 1300 Lagoon Avenue, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/rubicon-mortgage-advisors-minneapolis/
+12. DCA Title | trust 4.0 | DCA Title is a real estate agency in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/dca-title-minneapolis/
+13. Lakes Area Reality | trust 4.0 | Lakes Area Reality is a real estate agency in Minneapolis, MN at 1428 West 28th Street, Minneapolis, MN 55408. | https://dingalinged-cpu.github.io/registry/c/lakes-area-reality-minneapolis/
+14. Living Life Realty | trust 4.0 | Living Life Realty is a real estate agency in Minneapolis, MN at 4302 Upton Avenue South #5, Minneapolis, MN 55410. | https://dingalinged-cpu.github.io/registry/c/living-life-realty-minneapolis/
+15. Molina Realtors | trust 3.0 | Molina Realtors is a real estate agency in Minneapolis, MN at 507 East Lake Street, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/molina-realtors-minneapolis/
+16. PS Real Estate | trust 3.0 | PS Real Estate is a real estate agency in Minneapolis, MN at 2254 Northeast Johnson Street, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/ps-real-estate-minneapolis/
+17. Engel & Völkers | trust 0.0 | Engel & Völkers is a real estate agency in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/engel-and-v-lkers-minneapolis/
+18. Greco | trust 0.0 | Greco is a real estate agency in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/greco-minneapolis/
+19. Keller Williams Realty | trust 0.0 | Keller Williams Realty is a real estate agency in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/keller-williams-realty-minneapolis/
+20. Michael Sharp Realty | trust 0.0 | Michael Sharp Realty is a real estate agency in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/michael-sharp-realty-minneapolis/
+21. Sandy Green Realty | trust 0.0 | Sandy Green Realty is a real estate agency in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/sandy-green-realty-minneapolis/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

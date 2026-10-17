@@ -1,0 +1,52 @@
+{
+ "slug": "blaine-area-pet-hospital-blaine",
+ "name": "Blaine Area Pet Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet blaine mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "11850 Aberdeen St. NE",
+  "addressLocality": "Blaine",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Blaine",
+ "state": "MN",
+ "geo": {
+  "lat": 45.1855834,
+  "lon": -93.2337517
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/796644784",
+ "osm": {
+  "type": "node",
+  "id": 796644784,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Blaine",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/blaine-area-pet-hospital-blaine/",
+ "summary": "Blaine Area Pet Hospital is a veterinarian in Blaine, MN at 11850 Aberdeen St. NE, Blaine, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,358 @@
+{
+ "keyword": "auto repair bloomington mn",
+ "slug": "auto-repair-bloomington-mn",
+ "place": "Bloomington, MN",
+ "service": "auto repair",
+ "query": "Who are the best auto repair providers in Bloomington, MN?",
+ "matches": [
+  "auto repair in Bloomington, MN",
+  "auto repair near me (Bloomington, MN)",
+  "best auto repair Bloomington, MN",
+  "top rated auto repair Bloomington, MN",
+  "affordable auto repair Bloomington, MN",
+  "emergency auto repair Bloomington, MN"
+ ],
+ "answer": "The top unpaid auto repair listing for Bloomington, MN is Andy & George's Auto Service Center (an auto repair shop in Bloomington, MN at 521 West 90th Street, Bloomington, MN 55420. Phone: +19528844675. Website: https://andyandgeorgesautoservice.com/). 10 auto repair businesses are listed for Bloomington, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "andy-and-georges-auto-service-center-bloomington",
+   "name": "Andy & George's Auto Service Center",
+   "summary": "Andy & George's Auto Service Center is an auto repair shop in Bloomington, MN at 521 West 90th Street, Bloomington, MN 55420. Phone: +19528844675. Website: https://andyandgeorgesautoservice.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/andy-and-georges-auto-service-center-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/andy-and-georges-auto-service-center-bloomington.json",
+   "address": {
+    "streetAddress": "521 West 90th Street",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55420",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55420",
+   "geo": {
+    "lat": 44.8402549,
+    "lon": -93.287265
+   },
+   "phone": "+19528844675",
+   "website": "https://andyandgeorgesautoservice.com/",
+   "opening_hours": "Mo-Fr 07:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11383607533",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "bloomington-collision-center-bloomington",
+   "name": "Bloomington Collision Center",
+   "summary": "Bloomington Collision Center is an auto repair shop in Bloomington, MN at 9735 Humboldt Avenue South, Bloomington, MN 55431. Phone: +19528886656. Website: https://www.bloomingtoncollisioncenter.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bloomington-collision-center-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bloomington-collision-center-bloomington.json",
+   "address": {
+    "streetAddress": "9735 Humboldt Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.826963,
+    "lon": -93.2983666
+   },
+   "phone": "+19528886656",
+   "website": "https://www.bloomingtoncollisioncenter.com/",
+   "opening_hours": "Mo-Fr 08:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5901643423",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "dred-scott-automotive-bloomington",
+   "name": "Dred Scott Automotive",
+   "summary": "Dred Scott Automotive is an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dred-scott-automotive-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dred-scott-automotive-bloomington.json",
+   "address": {
+    "streetAddress": "10800 Rhode Island Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55438",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55438",
+   "geo": {
+    "lat": 44.8075339,
+    "lon": -93.3827989
+   },
+   "phone": "+19529440010",
+   "website": "https://www.dredscottautorepair.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13717600842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "goodyear-bloomington-auto-tire-and-glass-bloomington",
+   "name": "Goodyear Bloomington Auto, Tire & Glass",
+   "summary": "Goodyear Bloomington Auto, Tire & Glass is an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-bloomington-auto-tire-and-glass-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-bloomington-auto-tire-and-glass-bloomington.json",
+   "address": {
+    "streetAddress": "9331 East Bloomington Freeway",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55420",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55420",
+   "geo": {
+    "lat": 44.8343912,
+    "lon": -93.2944517
+   },
+   "phone": "+19522240378",
+   "website": "https://lamettrysautotech.com/locations/bl-auto-tire/",
+   "opening_hours": "Mo-Fr 07:30 – 17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12520236990",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "jiffy-lube-bloomington",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Bloomington, MN at 7999 Penn Avenue S, Bloomington, MN 55431. Phone: +19528883428. Website: https://www.jiffylube.com/locations/mn/bloomington/1371.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-bloomington.json",
+   "address": {
+    "streetAddress": "7999 Penn Avenue S",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8593719,
+    "lon": -93.3082553
+   },
+   "phone": "+19528883428",
+   "website": "https://www.jiffylube.com/locations/mn/bloomington/1371",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/89080634",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "driven-auto-repair-bloomington",
+   "name": "Driven Auto Repair",
+   "summary": "Driven Auto Repair is an auto repair shop in Bloomington, MN at 8041 Nicollet Avenue, Bloomington, MN 55420. Phone: +19524176330.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/driven-auto-repair-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/driven-auto-repair-bloomington.json",
+   "address": {
+    "streetAddress": "8041 Nicollet Avenue",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55420",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55420",
+   "geo": {
+    "lat": 44.8572829,
+    "lon": -93.2779243
+   },
+   "phone": "+19524176330",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12585374429",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "c-c-auto-bloomington",
+   "name": "C. C. Auto",
+   "summary": "C. C. Auto is an auto repair shop in Bloomington, MN at 1031 West 80th Street, Bloomington, MN 55420.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/c-c-auto-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/c-c-auto-bloomington.json",
+   "address": {
+    "streetAddress": "1031 West 80th Street",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55420",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55420",
+   "geo": {
+    "lat": 44.8584871,
+    "lon": -93.2935032
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2645068102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "caliber-collision-bloomington",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Bloomington, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8597058,
+    "lon": -93.2927013
+   },
+   "opening_hours": "Mo-Fr 07:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13717436654",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "dj-petes-bloomington",
+   "name": "DJ Pete's",
+   "summary": "DJ Pete's is an auto repair shop in Bloomington, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dj-petes-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dj-petes-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8374253,
+    "lon": -93.247381
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/188374941",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "lehmans-in-bloomington-bloomington",
+   "name": "Lehman's In Bloomington",
+   "summary": "Lehman's In Bloomington is an auto repair shop in Bloomington, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lehmans-in-bloomington-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lehmans-in-bloomington-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8587263,
+    "lon": -93.2811034
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/773366973",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

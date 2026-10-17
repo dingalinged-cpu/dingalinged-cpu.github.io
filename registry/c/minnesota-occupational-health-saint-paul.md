@@ -1,0 +1,23 @@
+Minnesota Occupational Health is an occupational therapist in Saint Paul, MN at 1661 Saint Anthony Avenue ##2, Saint Paul, MN 55104. Phone: +16519685300. Website: https://www.mohonline.com/.
+
+# Minnesota Occupational Health
+
+- Category: occupational therapist
+- Services: occupational therapist
+- Address: 1661 Saint Anthony Avenue ##2, Saint Paul, MN 55104
+- City: Saint Paul
+- State: MN
+- ZIP: 55104
+- Coordinates: 44.9525863, -93.1704284
+- Phone: +16519685300
+- Website: https://www.mohonline.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/minnesota-occupational-health-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/minnesota-occupational-health-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7207235107 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

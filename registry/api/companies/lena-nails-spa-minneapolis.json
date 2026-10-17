@@ -1,0 +1,56 @@
+{
+ "slug": "lena-nails-spa-minneapolis",
+ "name": "Lena Nails Spa",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4612 Nicollet Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55419",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55419",
+ "geo": {
+  "lat": 44.9192505,
+  "lon": -93.2784917
+ },
+ "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-15:00",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12955198544",
+ "osm": {
+  "type": "node",
+  "id": 12955198544,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/lena-nails-spa-minneapolis/",
+ "summary": "Lena Nails Spa is a nail salon in Minneapolis, MN at 4612 Nicollet Avenue South, Minneapolis, MN 55419.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

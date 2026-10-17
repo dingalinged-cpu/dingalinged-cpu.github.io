@@ -1,0 +1,23 @@
+Snoopy Boutique is a gift shop in Shakopee, MN.
+
+# Snoopy Boutique
+
+- Category: gift shop
+- Services: gift shop
+- Address: Shakopee, MN
+- City: Shakopee
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.8001827, -93.4562771
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/snoopy-boutique-shakopee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/snoopy-boutique-shakopee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/470686747 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,56 @@
+{
+ "slug": "taiyo-international-golden-valley",
+ "name": "Taiyo International",
+ "categories": [
+  "marketing agency"
+ ],
+ "keywords": [
+  "marketing agency",
+  "marketing agency golden valley mn"
+ ],
+ "services": [
+  {
+   "name": "marketing agency",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5960 Golden Hills Drive",
+  "addressLocality": "Golden Valley",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Golden Valley",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9735261,
+  "lon": -93.3561114
+ },
+ "phone": "+17633983003",
+ "website": "https://www.taiyointernational.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11129016213",
+ "osm": {
+  "type": "node",
+  "id": 11129016213,
+  "tags_used": {
+   "office": "advertising_agency"
+  }
+ },
+ "municipality": "Golden Valley",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/taiyo-international-golden-valley/",
+ "summary": "Taiyo International is a marketing agency in Golden Valley, MN at 5960 Golden Hills Drive, Golden Valley, MN 55416. Phone: +17633983003. Website: https://www.taiyointernational.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "ace-beauty-and-wellness-minneapolis",
+ "name": "Ace Beauty & Wellness",
+ "categories": [
+  "plastic surgeon"
+ ],
+ "keywords": [
+  "plastic surgeon",
+  "plastic surgeon minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "plastic surgeon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1620 West Lake Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.948523,
+  "lon": -93.3030006
+ },
+ "phone": "+16125402745",
+ "website": "https://acebeautyandwellness.com/",
+ "email": "info@acebeautyandwellness.com",
+ "opening_hours": "Tu-Fr 09:00-18:00; Sa 09:00-14:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6450215746",
+ "osm": {
+  "type": "node",
+  "id": 6450215746,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor",
+   "healthcare:speciality": "plastic_surgery"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ace-beauty-and-wellness-minneapolis/",
+ "summary": "Ace Beauty & Wellness is a plastic surgeon in Minneapolis, MN at 1620 West Lake Street, Minneapolis, MN. Phone: +16125402745. Website: https://acebeautyandwellness.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

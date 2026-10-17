@@ -1,0 +1,180 @@
+{
+ "keyword": "car wash eden prairie mn",
+ "slug": "car-wash-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in Eden Prairie, MN?",
+ "matches": [
+  "car wash in Eden Prairie, MN",
+  "car wash near me (Eden Prairie, MN)",
+  "best car wash Eden Prairie, MN",
+  "top rated car wash Eden Prairie, MN",
+  "affordable car wash Eden Prairie, MN",
+  "emergency car wash Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid car wash listing for Eden Prairie, MN is Crew Carwash (a car wash in Eden Prairie, MN at 16345 Terrey Pine Drive, Eden Prairie, MN 55344. Phone: +16126828177. Website: https://locations.crewcarwash.com/mn/eden-prairie/eden-prairie/). 5 car wash businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "crew-carwash-eden-prairie",
+   "name": "Crew Carwash",
+   "summary": "Crew Carwash is a car wash in Eden Prairie, MN at 16345 Terrey Pine Drive, Eden Prairie, MN 55344. Phone: +16126828177. Website: https://locations.crewcarwash.com/mn/eden-prairie/eden-prairie/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crew-carwash-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crew-carwash-eden-prairie.json",
+   "address": {
+    "streetAddress": "16345 Terrey Pine Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8615105,
+    "lon": -93.4849416
+   },
+   "phone": "+16126828177",
+   "website": "https://locations.crewcarwash.com/mn/eden-prairie/eden-prairie/",
+   "opening_hours": "07:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1468611498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "bp-eden-prairie",
+   "name": "BP",
+   "summary": "BP is a car wash in Eden Prairie, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8639867,
+    "lon": -93.4587124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/43411623",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "hot-shot-car-wash-eden-prairie",
+   "name": "Hot Shot Car Wash",
+   "summary": "Hot Shot Car Wash is a car wash in Eden Prairie, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hot-shot-car-wash-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hot-shot-car-wash-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8641774,
+    "lon": -93.4675203
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/43411724",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "mister-express-car-wash-eden-prairie",
+   "name": "Mister Express Car Wash",
+   "summary": "Mister Express Car Wash is a car wash in Eden Prairie, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-express-car-wash-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-express-car-wash-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8540809,
+    "lon": -93.4305866
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47230074",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "speedy-wash-eden-prairie",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Eden Prairie, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8893708,
+    "lon": -93.4202918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478461038",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

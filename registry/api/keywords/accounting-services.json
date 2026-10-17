@@ -1,0 +1,419 @@
+{
+ "keyword": "accounting services",
+ "slug": "accounting-services",
+ "place": "the United States",
+ "service": "accounting services",
+ "query": "Who are the best accounting services providers in the United States?",
+ "matches": [
+  "accounting services in the United States",
+  "accounting services near me (the United States)",
+  "best accounting services the United States",
+  "top rated accounting services the United States",
+  "affordable accounting services the United States",
+  "emergency accounting services the United States"
+ ],
+ "answer": "The top unpaid accounting services listing for the United States is A & M Accounting (an accountant in Minneapolis, MN at 2529 Nicollet Avenue South #201, Minneapolis, MN 55404. Phone: +16128701324. Website: https://www.amaccounting.com/). 12 accounting services businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "a-and-m-accounting-minneapolis",
+   "name": "A & M Accounting",
+   "summary": "A & M Accounting is an accountant in Minneapolis, MN at 2529 Nicollet Avenue South #201, Minneapolis, MN 55404. Phone: +16128701324. Website: https://www.amaccounting.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-and-m-accounting-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-and-m-accounting-minneapolis.json",
+   "address": {
+    "streetAddress": "2529 Nicollet Avenue South #201",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9563292,
+    "lon": -93.2776592
+   },
+   "phone": "+16128701324",
+   "website": "https://www.amaccounting.com/",
+   "opening_hours": "Mo-Fr 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619841618",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "pinpoint-accounting-services-saint-paul",
+   "name": "PinPoint Accounting Services",
+   "summary": "PinPoint Accounting Services is an accountant in Saint Paul, MN at 2469 University Avenue West ##220W, Saint Paul, MN 55114. Phone: +16128391483. Website: https://www.pinpointaccountingmn.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pinpoint-accounting-services-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pinpoint-accounting-services-saint-paul.json",
+   "address": {
+    "streetAddress": "2469 University Avenue West ##220W",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9652592,
+    "lon": -93.2001907
+   },
+   "phone": "+16128391483",
+   "website": "https://www.pinpointaccountingmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6264952651",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "romer-and-company-pc-minneapolis",
+   "name": "Romer & Company, PC",
+   "summary": "Romer & Company, PC is an accountant in Minneapolis, MN at 4322 Nicollet Avenue, Minneapolis, MN 55409. Phone: +16128720012. Website: https://www.romercpas.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/romer-and-company-pc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/romer-and-company-pc-minneapolis.json",
+   "address": {
+    "streetAddress": "4322 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.9242916,
+    "lon": -93.2783306
+   },
+   "phone": "+16128720012",
+   "website": "https://www.romercpas.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4630862009",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "stewart-tax-and-accounting-llc-golden-valley",
+   "name": "Stewart Tax & Accounting LLC",
+   "summary": "Stewart Tax & Accounting LLC is an accountant in Golden Valley, MN at 4959 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17635453501. Website: https://stewarttax.com/meet-our-team/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stewart-tax-and-accounting-llc-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stewart-tax-and-accounting-llc-golden-valley.json",
+   "address": {
+    "streetAddress": "4959 Olson Memorial Highway",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.9837349,
+    "lon": -93.3424719
+   },
+   "phone": "+17635453501",
+   "website": "https://stewarttax.com/meet-our-team/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11124443894",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "victory-minneapolis",
+   "name": "Victory",
+   "summary": "Victory is an accountant in Minneapolis, MN at 2839 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16129876827. Website: https://www.victorybusinesssolutions.org/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/victory-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/victory-minneapolis.json",
+   "address": {
+    "streetAddress": "2839 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9506719,
+    "lon": -93.2878318
+   },
+   "phone": "+16129876827",
+   "website": "https://www.victorybusinesssolutions.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5288561963",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "by-the-books-accounting-white-bear-lake",
+   "name": "By The Books Accounting",
+   "summary": "By The Books Accounting is an accountant in White Bear Lake, MN at 1259 Gun Club Road, White Bear Lake, MN 55110. Website: https://btbaccting.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/by-the-books-accounting-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/by-the-books-accounting-white-bear-lake.json",
+   "address": {
+    "streetAddress": "1259 Gun Club Road",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.080699,
+    "lon": -93.0496074
+   },
+   "website": "https://btbaccting.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1087016792",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "vetscher-and-associates-llc-saint-paul",
+   "name": "Vetscher & Associates, LLC",
+   "summary": "Vetscher & Associates, LLC is an accountant in Saint Paul, MN at 2550 University Avenue West ##185S, Saint Paul, MN 55114. Phone: +16516902250.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vetscher-and-associates-llc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vetscher-and-associates-llc-saint-paul.json",
+   "address": {
+    "streetAddress": "2550 University Avenue West ##185S",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9655643,
+    "lon": -93.2040055
+   },
+   "phone": "+16516902250",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6275543771",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "imrans-tax-service-minneapolis",
+   "name": "Imran's Tax Service",
+   "summary": "Imran's Tax Service is an accountant in Minneapolis, MN at 322 West Lake Street #201, Minneapolis, MN 55408.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/imrans-tax-service-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/imrans-tax-service-minneapolis.json",
+   "address": {
+    "streetAddress": "322 West Lake Street #201",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9484996,
+    "lon": -93.284051
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626227169",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "lottsa-tax-and-accounting-services-inc-minneapolis",
+   "name": "Lottsa Tax and Accounting Services, Inc.",
+   "summary": "Lottsa Tax and Accounting Services, Inc. is an accountant in Minneapolis, MN.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lottsa-tax-and-accounting-services-inc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lottsa-tax-and-accounting-services-inc-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9698616,
+    "lon": -93.2459614
+   },
+   "opening_hours": "Mo-Th 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12920018957",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "mullen-michael-p-cpa-saint-louis-park",
+   "name": "Mullen Michael P CPA",
+   "summary": "Mullen Michael P CPA is an accountant in Saint Louis Park, MN at 5912 35th Street West, Saint Louis Park, MN 55416.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mullen-michael-p-cpa-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mullen-michael-p-cpa-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5912 35th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9402438,
+    "lon": -93.3552509
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/945878880",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "guta-tax-service-minneapolis",
+   "name": "Guta Tax Service",
+   "summary": "Guta Tax Service is an accountant in Minneapolis, MN at 2327 East Franklin Avenue, Minneapolis, MN.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/guta-tax-service-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/guta-tax-service-minneapolis.json",
+   "address": {
+    "streetAddress": "2327 East Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9626249,
+    "lon": -93.2381471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12774406652",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "ellingson-and-ellingson-ltd-edina",
+   "name": "Ellingson & Ellingson, LTD.",
+   "summary": "Ellingson & Ellingson, LTD. is an accountant in Edina, MN.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ellingson-and-ellingson-ltd-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ellingson-and-ellingson-ltd-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9107653,
+    "lon": -93.3546653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335567663",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

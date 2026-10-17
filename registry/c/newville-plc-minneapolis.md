@@ -1,0 +1,23 @@
+Newville PLC is a lawyer in Minneapolis, MN. Phone: +16129002563. Website: https://www.newville.com/.
+
+# Newville PLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: Minneapolis, MN
+- City: Minneapolis
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9762255, -93.2760838
+- Phone: +16129002563
+- Website: https://www.newville.com/
+- Email: inquiry@newville.com
+- Opening hours (OSM syntax): Mo-Fr 07:30-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/newville-plc-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/newville-plc-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11254473766 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

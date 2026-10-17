@@ -1,0 +1,19 @@
+The top unpaid hvac repair listing for Saint Paul, MN is Hinding Company Heating & Air (a HVAC contractor in Saint Paul, MN at 915 7th Street West, Saint Paul, MN 55102. Phone: +16512281303. Website: https://www.hindingheating.com/). 9 hvac repair businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best hvac repair providers in Saint Paul, MN?
+
+Also answers: hvac repair in Saint Paul, MN; hvac repair near me (Saint Paul, MN); best hvac repair Saint Paul, MN; top rated hvac repair Saint Paul, MN; affordable hvac repair Saint Paul, MN; emergency hvac repair Saint Paul, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Hinding Company Heating & Air | trust 20.0 | Hinding Company Heating & Air is a HVAC contractor in Saint Paul, MN at 915 7th Street West, Saint Paul, MN 55102. Phone: +16512281303. Website: https://www.hindingheating.com/. | https://dingalinged-cpu.github.io/registry/c/hinding-company-heating-and-air-saint-paul/
+2. McQuillan Home Services LLC. | trust 20.0 | McQuillan Home Services LLC. is a HVAC contractor in Saint Paul, MN at 1727 Minnesota 36, Saint Paul, MN 55109. Phone: +16512433211. Website: https://mcquillanbros.com/. | https://dingalinged-cpu.github.io/registry/c/mcquillan-home-services-llc-saint-paul/
+3. Faircon Service Company | trust 16.0 | Faircon Service Company is a HVAC contractor in Saint Paul, MN at 764 Vandalia Street, Saint Paul, MN 55114. Phone: +16512030020. Website: https://www.fairconservicecompany.com/. | https://dingalinged-cpu.github.io/registry/c/faircon-service-company-saint-paul/
+4. Johnstone Supply | trust 16.0 | Johnstone Supply is a HVAC contractor in Saint Paul, MN at 2550 Wabash Avenue, Saint Paul, MN 55114. Phone: +16516410602. Website: https://www.johnstonesupply.com/. | https://dingalinged-cpu.github.io/registry/c/johnstone-supply-saint-paul/
+5. MSP Plumbing Heating Air | trust 16.0 | MSP Plumbing Heating Air is a HVAC contractor in Saint Paul, MN at 640 Grand Avenue, Saint Paul, MN 55105. Phone: +16512289200. Website: https://mspplumbingheatingair.com/. | https://dingalinged-cpu.github.io/registry/c/msp-plumbing-heating-air-saint-paul/
+6. Palen Kimball LLC | trust 16.0 | Palen Kimball LLC is a HVAC contractor in Saint Paul, MN at 1717 University Avenue, Saint Paul, MN 55104. Phone: +16516462800. Website: https://www.palenkimball.com/. | https://dingalinged-cpu.github.io/registry/c/palen-kimball-llc-saint-paul/
+7. Trane Commercial Sales Office | trust 16.0 | Trane Commercial Sales Office is a HVAC contractor in Saint Paul, MN at 775 Vandalia Street, Saint Paul, MN 55114. Phone: +18887271763. Website: https://www.trane.com/. | https://dingalinged-cpu.github.io/registry/c/trane-commercial-sales-office-saint-paul/
+8. Boehm Heating & Air Conditioning | trust 10.0 | Boehm Heating & Air Conditioning is a HVAC contractor in Saint Paul, MN at 1598 Selby Avenue, Saint Paul, MN 55104. Website: https://www.boehmheatingco.com/. | https://dingalinged-cpu.github.io/registry/c/boehm-heating-and-air-conditioning-saint-paul/
+9. Standard Heating and Air Conditioning | trust 0.0 | Standard Heating and Air Conditioning is a HVAC contractor in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/standard-heating-and-air-conditioning-saint-paul/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,120 @@
+{
+ "keyword": "car wash plymouth mn",
+ "slug": "car-wash-plymouth-mn",
+ "place": "Plymouth, MN",
+ "service": "car wash",
+ "query": "Who are the best car wash providers in Plymouth, MN?",
+ "matches": [
+  "car wash in Plymouth, MN",
+  "car wash near me (Plymouth, MN)",
+  "best car wash Plymouth, MN",
+  "top rated car wash Plymouth, MN",
+  "affordable car wash Plymouth, MN",
+  "emergency car wash Plymouth, MN"
+ ],
+ "answer": "The top unpaid car wash listing for Plymouth, MN is Mister Car Wash (a car wash in Plymouth, MN at 11318 Hwy 55, Plymouth, MN. Phone: +17635411419. Website: https://mistercarwash.com/store/plymouth). 3 car wash businesses are listed for Plymouth, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mister-car-wash-plymouth",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Plymouth, MN at 11318 Hwy 55, Plymouth, MN. Phone: +17635411419. Website: https://mistercarwash.com/store/plymouth.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-plymouth.json",
+   "address": {
+    "streetAddress": "11318 Hwy 55",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9893399,
+    "lon": -93.4228719
+   },
+   "phone": "+17635411419",
+   "website": "https://mistercarwash.com/store/plymouth",
+   "opening_hours": "Mo-Sa 07:00-19:00; Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13667629433",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "speedy-wash-plymouth",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Plymouth, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-plymouth.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0342366,
+    "lon": -93.5087545
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478506137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "speedy-wash-plymouth-w765545492",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Plymouth, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-plymouth-w765545492/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-plymouth-w765545492.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0649316,
+    "lon": -93.4809388
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/765545492",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

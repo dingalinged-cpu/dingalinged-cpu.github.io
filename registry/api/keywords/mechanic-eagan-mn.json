@@ -1,0 +1,527 @@
+{
+ "keyword": "mechanic eagan mn",
+ "slug": "mechanic-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "mechanic",
+ "query": "Who are the best mechanic providers in Eagan, MN?",
+ "matches": [
+  "mechanic in Eagan, MN",
+  "mechanic near me (Eagan, MN)",
+  "best mechanic Eagan, MN",
+  "top rated mechanic Eagan, MN",
+  "affordable mechanic Eagan, MN",
+  "emergency mechanic Eagan, MN"
+ ],
+ "answer": "The top unpaid mechanic listing for Eagan, MN is Pep Boys (an auto repair shop in Eagan, MN at 1340 Duckwood Drive, Eagan, MN 55123. Phone: +16514547100. Website: https://www.pepboys.com/stores/mn/eagan/1340-duckswood-drive?storeCode=6608). 16 mechanic businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "pep-boys-eagan",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Eagan, MN at 1340 Duckwood Drive, Eagan, MN 55123. Phone: +16514547100. Website: https://www.pepboys.com/stores/mn/eagan/1340-duckswood-drive?storeCode=6608.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-eagan.json",
+   "address": {
+    "streetAddress": "1340 Duckwood Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8269542,
+    "lon": -93.1624471
+   },
+   "phone": "+16514547100",
+   "website": "https://www.pepboys.com/stores/mn/eagan/1340-duckswood-drive?storeCode=6608",
+   "opening_hours": "Mo-Sa 08:00-18:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1719957681",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "valvoline-eagan",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Eagan, MN at 1984 Cliff Road, Eagan, MN 55122. Phone: +16514521272. Website: https://store.vioc.com/mn/eagan/oil-change-010035.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-eagan.json",
+   "address": {
+    "streetAddress": "1984 Cliff Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.7895904,
+    "lon": -93.2063999
+   },
+   "phone": "+16514521272",
+   "website": "https://store.vioc.com/mn/eagan/oil-change-010035.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/320468973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "valvoline-instant-oil-eagan",
+   "name": "Valvoline Instant Oil",
+   "summary": "Valvoline Instant Oil is an auto repair shop in Eagan, MN at 1180 Yankee Doodle Road, Eagan, MN 55121. Website: https://store.vioc.com/mn/eagan/oil-change-010047.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-instant-oil-eagan.json",
+   "address": {
+    "streetAddress": "1180 Yankee Doodle Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8331475,
+    "lon": -93.1513946
+   },
+   "website": "https://store.vioc.com/mn/eagan/oil-change-010047.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533507273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "honest-1-auto-care-eagan",
+   "name": "Honest-1 Auto Care",
+   "summary": "Honest-1 Auto Care is an auto repair shop in Eagan, MN at 4195 Nicols Road, Eagan, MN 55122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/honest-1-auto-care-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/honest-1-auto-care-eagan.json",
+   "address": {
+    "streetAddress": "4195 Nicols Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.8052017,
+    "lon": -93.2185354
+   },
+   "opening_hours": "Mo-Fr 07:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/615020468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "homestead-auto-and-tire-eagan",
+   "name": "Homestead Auto and Tire",
+   "summary": "Homestead Auto and Tire is an auto repair shop in Eagan, MN. Phone: +16517561900.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/homestead-auto-and-tire-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/homestead-auto-and-tire-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8278477,
+    "lon": -93.1680063
+   },
+   "phone": "+16517561900",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92926383",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "advanced-auto-repair-eagan",
+   "name": "Advanced Auto Repair",
+   "summary": "Advanced Auto Repair is an auto repair shop in Eagan, MN at 1575 Cliff Road, Eagan, MN 55122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/advanced-auto-repair-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/advanced-auto-repair-eagan.json",
+   "address": {
+    "streetAddress": "1575 Cliff Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.790624,
+    "lon": -93.1799966
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/528933353",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "caliber-collision-eagan",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Eagan, MN at 2905 Lexington Avenue South, Eagan, MN 55121.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-eagan.json",
+   "address": {
+    "streetAddress": "2905 Lexington Avenue South",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8514938,
+    "lon": -93.1478223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217077063",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "jim-coopers-tire-and-auto-eagan",
+   "name": "Jim Cooper's Tire & Auto",
+   "summary": "Jim Cooper's Tire & Auto is an auto repair shop in Eagan, MN at 1835 Diffley Road, Eagan, MN 55122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jim-coopers-tire-and-auto-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jim-coopers-tire-and-auto-eagan.json",
+   "address": {
+    "streetAddress": "1835 Diffley Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.8049326,
+    "lon": -93.1951814
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/526943704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "shell-rapid-lube-eagan",
+   "name": "Shell Rapid Lube",
+   "summary": "Shell Rapid Lube is an auto repair shop in Eagan, MN at 1570 Thomas Center Drive, Eagan, MN 55122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shell-rapid-lube-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shell-rapid-lube-eagan.json",
+   "address": {
+    "streetAddress": "1570 Thomas Center Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.7912397,
+    "lon": -93.1807653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/528933335",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "penske-collision-repair-eagan",
+   "name": "Penske Collision Repair",
+   "summary": "Penske Collision Repair is an auto repair shop in Eagan, MN at 3110, Eagan, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/penske-collision-repair-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/penske-collision-repair-eagan.json",
+   "address": {
+    "streetAddress": "3110",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8434057,
+    "lon": -93.1269842
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/451285078",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "walstad-automotive-eagan",
+   "name": "Walstad Automotive",
+   "summary": "Walstad Automotive is an auto repair shop in Eagan, MN at 2105 Cliff Road, Eagan, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walstad-automotive-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walstad-automotive-eagan.json",
+   "address": {
+    "streetAddress": "2105 Cliff Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7908397,
+    "lon": -93.2145113
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13802169102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "caliber-collision-eagan-n12724605693",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Eagan, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-eagan-n12724605693/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-eagan-n12724605693.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.828021,
+    "lon": -93.1664858
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724605693",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "car-x-eagan",
+   "name": "Car-X",
+   "summary": "Car-X is an auto repair shop in Eagan, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-x-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-x-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8282368,
+    "lon": -93.1660598
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724605692",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "firestone-eagan",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Eagan, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8275536,
+    "lon": -93.1665496
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724605691",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "jiffy-lube-eagan",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Eagan, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.827681,
+    "lon": -93.1659793
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92926295",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "superior-automotive-eagan",
+   "name": "Superior Automotive",
+   "summary": "Superior Automotive is an auto repair shop in Eagan, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/superior-automotive-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/superior-automotive-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8293615,
+    "lon": -93.1603165
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/765822579",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

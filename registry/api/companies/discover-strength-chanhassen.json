@@ -1,0 +1,57 @@
+{
+ "slug": "discover-strength-chanhassen",
+ "name": "Discover Strength",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym chanhassen mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "18882 Lake Drive East",
+  "addressLocality": "Chanhassen",
+  "addressRegion": "MN",
+  "postalCode": "55317",
+  "addressCountry": "US"
+ },
+ "city": "Chanhassen",
+ "state": "MN",
+ "zip": "55317",
+ "geo": {
+  "lat": 44.8614928,
+  "lon": -93.5173418
+ },
+ "phone": "+19529341204",
+ "website": "https://www.discoverstrength.com/chanhassen/",
+ "opening_hours": "Mo-Fr 05:30-20:00; Sa 07:30-15:00; Su 07:30-15:15",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13596313901",
+ "osm": {
+  "type": "node",
+  "id": 13596313901,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Chanhassen",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/discover-strength-chanhassen/",
+ "summary": "Discover Strength is a gym in Chanhassen, MN at 18882 Lake Drive East, Chanhassen, MN 55317. Phone: +19529341204. Website: https://www.discoverstrength.com/chanhassen/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

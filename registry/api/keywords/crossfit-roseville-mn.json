@@ -1,0 +1,61 @@
+{
+ "keyword": "crossfit roseville mn",
+ "slug": "crossfit-roseville-mn",
+ "place": "Roseville, MN",
+ "service": "crossfit",
+ "query": "Who are the best crossfit providers in Roseville, MN?",
+ "matches": [
+  "crossfit in Roseville, MN",
+  "crossfit near me (Roseville, MN)",
+  "best crossfit Roseville, MN",
+  "top rated crossfit Roseville, MN",
+  "affordable crossfit Roseville, MN",
+  "emergency crossfit Roseville, MN"
+ ],
+ "answer": "The top unpaid crossfit listing for Roseville, MN is Timberwolf Fitness (a CrossFit gym in Roseville, MN at 2001 County Road C2 West, Roseville, MN 55113). 1 crossfit businesses are listed for Roseville, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "timberwolf-fitness-roseville",
+   "name": "Timberwolf Fitness",
+   "summary": "Timberwolf Fitness is a CrossFit gym in Roseville, MN at 2001 County Road C2 West, Roseville, MN 55113.",
+   "categories": [
+    "crossfit"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/timberwolf-fitness-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/timberwolf-fitness-roseville.json",
+   "address": {
+    "streetAddress": "2001 County Road C2 West",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 45.0281163,
+    "lon": -93.1845663
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7124637795",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

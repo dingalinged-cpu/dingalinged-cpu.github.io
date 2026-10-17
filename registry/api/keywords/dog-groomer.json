@@ -1,0 +1,956 @@
+{
+ "keyword": "dog groomer",
+ "slug": "dog-groomer",
+ "place": "the United States",
+ "service": "dog groomer",
+ "query": "Who are the best dog groomer providers in the United States?",
+ "matches": [
+  "dog groomer in the United States",
+  "dog groomer near me (the United States)",
+  "best dog groomer the United States",
+  "top rated dog groomer the United States",
+  "affordable dog groomer the United States",
+  "emergency dog groomer the United States"
+ ],
+ "answer": "The top unpaid dog groomer listing for the United States is Bubbly Paws (a dog groomer in Saint Louis Park, MN at 3730 Grand Way, Saint Louis Park, MN 55416. Phone: +19526575300. Website: https://www.bubblypaws.com/). 29 dog groomer businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bubbly-paws-saint-louis-park",
+   "name": "Bubbly Paws",
+   "summary": "Bubbly Paws is a dog groomer in Saint Louis Park, MN at 3730 Grand Way, Saint Louis Park, MN 55416. Phone: +19526575300. Website: https://www.bubblypaws.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bubbly-paws-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bubbly-paws-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3730 Grand Way",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9342294,
+    "lon": -93.3408273
+   },
+   "phone": "+19526575300",
+   "website": "https://www.bubblypaws.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6611143052",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "dig-it-dog-grooming-roseville",
+   "name": "Dig It Dog Grooming",
+   "summary": "Dig It Dog Grooming is a dog groomer in Roseville, MN at 1748 Lexington Avenue North, Roseville, MN 55113. Phone: +16517759856. Website: https://www.digitdoggrooming.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dig-it-dog-grooming-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dig-it-dog-grooming-roseville.json",
+   "address": {
+    "streetAddress": "1748 Lexington Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9943345,
+    "lon": -93.1456824
+   },
+   "phone": "+16517759856",
+   "website": "https://www.digitdoggrooming.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147583919",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "lulu-and-luigi-saint-louis-park",
+   "name": "Lulu & Luigi",
+   "summary": "Lulu & Luigi is a dog groomer in Saint Louis Park, MN at 3699 Joppa Avenue South, Saint Louis Park, MN 55416. Phone: +19529291200. Website: https://luluandluigi.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lulu-and-luigi-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lulu-and-luigi-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3699 Joppa Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9361524,
+    "lon": -93.3338909
+   },
+   "phone": "+19529291200",
+   "website": "https://luluandluigi.com/",
+   "opening_hours": "Mo-Sa 09:00-18:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-paw-spa-new-brighton",
+   "name": "The Paw Spa",
+   "summary": "The Paw Spa is a dog groomer in New Brighton, MN at 151 Silver Lake Road Northwest #108, New Brighton, MN. Phone: +16516399177. Website: https://www.facebook.com/ThePawSpaNB/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-paw-spa-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-paw-spa-new-brighton.json",
+   "address": {
+    "streetAddress": "151 Silver Lake Road Northwest #108",
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0509028,
+    "lon": -93.217478
+   },
+   "phone": "+16516399177",
+   "website": "https://www.facebook.com/ThePawSpaNB/",
+   "opening_hours": "Mo-Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12947152965",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "blue-ribbon-grooming-oakdale",
+   "name": "Blue Ribbon Grooming",
+   "summary": "Blue Ribbon Grooming is a dog groomer in Oakdale, MN at 5679 Geneva Avenue North, Oakdale, MN 55128. Phone: +16517488885. Website: https://www.facebook.com/brgrooming/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-ribbon-grooming-oakdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-ribbon-grooming-oakdale.json",
+   "address": {
+    "streetAddress": "5679 Geneva Avenue North",
+    "addressLocality": "Oakdale",
+    "addressRegion": "MN",
+    "postalCode": "55128",
+    "addressCountry": "US"
+   },
+   "city": "Oakdale",
+   "state": "MN",
+   "zip": "55128",
+   "geo": {
+    "lat": 45.0306755,
+    "lon": -92.9840963
+   },
+   "phone": "+16517488885",
+   "website": "https://www.facebook.com/brgrooming/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6636466364",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "bubbles-and-ecouture-west-saint-paul",
+   "name": "Bubbles & Ecouture",
+   "summary": "Bubbles & Ecouture is a dog groomer in West Saint Paul, MN at 883 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514571816. Website: https://bubblesnecouture.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bubbles-and-ecouture-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bubbles-and-ecouture-west-saint-paul.json",
+   "address": {
+    "streetAddress": "883 Smith Avenue South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9194257,
+    "lon": -93.1019209
+   },
+   "phone": "+16514571816",
+   "website": "https://bubblesnecouture.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7499470392",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "bubbly-paws-minneapolis",
+   "name": "Bubbly Paws",
+   "summary": "Bubbly Paws is a dog groomer in Minneapolis, MN at 4737 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16126053245. Website: https://www.bubblypaws.com/minneapolis.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bubbly-paws-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bubbly-paws-minneapolis.json",
+   "address": {
+    "streetAddress": "4737 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9165553,
+    "lon": -93.262441
+   },
+   "phone": "+16126053245",
+   "website": "https://www.bubblypaws.com/minneapolis",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7651142707",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "doggie-doos-spa-and-retreat-shakopee",
+   "name": "Doggie Doo's Spa and Retreat",
+   "summary": "Doggie Doo's Spa and Retreat is a dog groomer in Shakopee, MN at 2555 Vierling Drive West, Shakopee, MN 55379. Phone: +19524455262. Website: https://www.doggiedoosspaandretreat.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doggie-doos-spa-and-retreat-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doggie-doos-spa-and-retreat-shakopee.json",
+   "address": {
+    "streetAddress": "2555 Vierling Drive West",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7839845,
+    "lon": -93.5570019
+   },
+   "phone": "+19524455262",
+   "website": "https://www.doggiedoosspaandretreat.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/966565468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "foxy-dogs-minneapolis",
+   "name": "Foxy Dogs",
+   "summary": "Foxy Dogs is a dog groomer in Minneapolis, MN at 5457 Nicollet Avenue South, Minneapolis, MN 55419. Phone: +16128243699. Website: https://www.foxydogs.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/foxy-dogs-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/foxy-dogs-minneapolis.json",
+   "address": {
+    "streetAddress": "5457 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9035682,
+    "lon": -93.2776188
+   },
+   "phone": "+16128243699",
+   "website": "https://www.foxydogs.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13628545544",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "grand-groomers-saint-paul",
+   "name": "Grand Groomers",
+   "summary": "Grand Groomers is a dog groomer in Saint Paul, MN at 956 Grand Avenue, Saint Paul, MN 55105. Phone: +16512271733. Website: https://www.facebook.com/Grand-Groomers-110815275649763/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-groomers-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-groomers-saint-paul.json",
+   "address": {
+    "streetAddress": "956 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9397442,
+    "lon": -93.1404849
+   },
+   "phone": "+16512271733",
+   "website": "https://www.facebook.com/Grand-Groomers-110815275649763/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8925060126",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "shampooch-saint-louis-park",
+   "name": "Shampooch",
+   "summary": "Shampooch is a dog groomer in Saint Louis Park, MN at 8140 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +16124522742. Website: https://shampooch-salon.edan.io/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shampooch-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shampooch-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8140 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9497516,
+    "lon": -93.3833508
+   },
+   "phone": "+16124522742",
+   "website": "https://shampooch-salon.edan.io/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/667337618",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "haute-dog-white-bear-lake",
+   "name": "Haute Dog",
+   "summary": "Haute Dog is a dog groomer in White Bear Lake, MN at 995 Wildwood Road, White Bear Lake, MN. Website: https://www.hautedogspa.com/whitebear.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haute-dog-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haute-dog-white-bear-lake.json",
+   "address": {
+    "streetAddress": "995 Wildwood Road",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0505199,
+    "lon": -92.9840337
+   },
+   "website": "https://www.hautedogspa.com/whitebear",
+   "opening_hours": "Tu-Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10172056708",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "heartspace-salon-and-spa-for-dogs-white-bear-lake",
+   "name": "HeartSpace Salon and Spa for Dogs",
+   "summary": "HeartSpace Salon and Spa for Dogs is a dog groomer in White Bear Lake, MN at 5050 Division Avenue, White Bear Lake, MN 55110. Phone: +16516001563.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heartspace-salon-and-spa-for-dogs-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heartspace-salon-and-spa-for-dogs-white-bear-lake.json",
+   "address": {
+    "streetAddress": "5050 Division Avenue",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.0942154,
+    "lon": -93.0098105
+   },
+   "phone": "+16516001563",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13735737069",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "pawlished-pets-grooming-salon-eagan",
+   "name": "Pawlished Pets Grooming Salon",
+   "summary": "Pawlished Pets Grooming Salon is a dog groomer in Eagan, MN at 1016 Diffley Road #500, Eagan, MN 55123. Website: https://www.pawlishedpets.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pawlished-pets-grooming-salon-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pawlished-pets-grooming-salon-eagan.json",
+   "address": {
+    "streetAddress": "1016 Diffley Road #500",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8037981,
+    "lon": -93.1394905
+   },
+   "website": "https://www.pawlishedpets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9464286594",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "pet-clips-chanhassen",
+   "name": "Pet Clips",
+   "summary": "Pet Clips is a dog groomer in Chanhassen, MN at 2445 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524707848.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-clips-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-clips-chanhassen.json",
+   "address": {
+    "streetAddress": "2445 Minnesota State Highway 7",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8900828,
+    "lon": -93.5821461
+   },
+   "phone": "+19524707848",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215299481",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "royal-pet-beauty-shop-minneapolis",
+   "name": "Royal Pet Beauty Shop",
+   "summary": "Royal Pet Beauty Shop is a dog groomer in Minneapolis, MN at 3019 Lyndale Avenue South, Minneapolis, MN 55408. Website: https://www.royalpetbeautyshop.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royal-pet-beauty-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royal-pet-beauty-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "3019 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9477087,
+    "lon": -93.2879012
+   },
+   "website": "https://www.royalpetbeautyshop.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5294111682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "bark-and-bathe-robbinsdale",
+   "name": "Bark & Bathe",
+   "summary": "Bark & Bathe is a dog groomer in Robbinsdale, MN at 3833 West Broadway Avenue, Robbinsdale, MN 55422.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bark-and-bathe-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bark-and-bathe-robbinsdale.json",
+   "address": {
+    "streetAddress": "3833 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0257546,
+    "lon": -93.3333133
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1232225729",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "grand-paws-pet-grooming-saint-paul",
+   "name": "Grand Paws Pet Grooming",
+   "summary": "Grand Paws Pet Grooming is a dog groomer in Saint Paul, MN at 600 Hamline Avenue North, Saint Paul, MN 55104.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grand-paws-pet-grooming-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grand-paws-pet-grooming-saint-paul.json",
+   "address": {
+    "streetAddress": "600 Hamline Avenue North",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9592205,
+    "lon": -93.1566716
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11756655231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "haute-dog-spa-edina",
+   "name": "Haute Dog Spa",
+   "summary": "Haute Dog Spa is a dog groomer in Edina, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haute-dog-spa-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haute-dog-spa-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8674074,
+    "lon": -93.3265616
+   },
+   "opening_hours": "\"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449400291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "the-canine-coach-st-louis-park-saint-louis-park",
+   "name": "The Canine Coach - St Louis Park",
+   "summary": "The Canine Coach - St Louis Park is a dog groomer in Saint Louis Park, MN at 6500 Lake Street West, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-canine-coach-st-louis-park-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-canine-coach-st-louis-park-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6500 Lake Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9412942,
+    "lon": -93.3613747
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604654638",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "chuck-and-dons-grooming-white-bear-lake",
+   "name": "Chuck & Don's Grooming",
+   "summary": "Chuck & Don's Grooming is a dog groomer in White Bear Lake, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-grooming-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-grooming-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0498662,
+    "lon": -92.9831832
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/593488383",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "dog-haven-and-spa-orono",
+   "name": "Dog Haven and Spa",
+   "summary": "Dog Haven and Spa is a dog groomer in Orono, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dog-haven-and-spa-orono/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dog-haven-and-spa-orono.json",
+   "address": {
+    "addressLocality": "Orono",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Orono",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9348403,
+    "lon": -93.613575
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1309514496",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "grateful-grooming-inver-grove-heights",
+   "name": "Grateful Grooming",
+   "summary": "Grateful Grooming is a dog groomer in Inver Grove Heights, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grateful-grooming-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grateful-grooming-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8548468,
+    "lon": -93.0435614
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724577702",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "houndstooth-dog-groomer-saint-paul",
+   "name": "Houndstooth Dog Groomer",
+   "summary": "Houndstooth Dog Groomer is a dog groomer in Saint Paul, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/houndstooth-dog-groomer-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/houndstooth-dog-groomer-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9272076,
+    "lon": -93.1871246
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13608457353",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "just-paws-west-saint-paul",
+   "name": "Just Paws",
+   "summary": "Just Paws is a dog groomer in West Saint Paul, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/just-paws-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/just-paws-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9092592,
+    "lon": -93.0823054
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12726907084",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "k-9-and-kitty-kutters-minneapolis",
+   "name": "K-9 & Kitty Kutters",
+   "summary": "K-9 & Kitty Kutters is a dog groomer in Minneapolis, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/k-9-and-kitty-kutters-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/k-9-and-kitty-kutters-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9396835,
+    "lon": -93.2522593
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6775996475",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "pucci-pet-grooming-anoka",
+   "name": "Pucci Pet Grooming",
+   "summary": "Pucci Pet Grooming is a dog groomer in Anoka, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pucci-pet-grooming-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pucci-pet-grooming-anoka.json",
+   "address": {
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1981227,
+    "lon": -93.3895721
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5597195131",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "sandys-dog-and-cat-grooming-and-boarding-saint-paul",
+   "name": "Sandy's Dog and Cat Grooming and Boarding",
+   "summary": "Sandy's Dog and Cat Grooming and Boarding is a dog groomer in Saint Paul, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sandys-dog-and-cat-grooming-and-boarding-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sandys-dog-and-cat-grooming-and-boarding-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.930406,
+    "lon": -93.134071
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2605653755",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "wag-n-wash-eagan",
+   "name": "Wag n' Wash",
+   "summary": "Wag n' Wash is a dog groomer in Eagan, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wag-n-wash-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wag-n-wash-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7934937,
+    "lon": -93.2053049
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13143516548",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

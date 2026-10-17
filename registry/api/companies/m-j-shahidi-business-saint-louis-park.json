@@ -1,0 +1,55 @@
+{
+ "slug": "m-j-shahidi-business-saint-louis-park",
+ "name": "M J Shahidi Business",
+ "categories": [
+  "business consultant"
+ ],
+ "keywords": [
+  "business consultant",
+  "business consultant saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "business consultant",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6504 Walker Street",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55426",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55426",
+ "geo": {
+  "lat": 44.9391405,
+  "lon": -93.3621589
+ },
+ "phone": "+19529204202",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9604575738",
+ "osm": {
+  "type": "node",
+  "id": 9604575738,
+  "tags_used": {
+   "office": "consulting"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/m-j-shahidi-business-saint-louis-park/",
+ "summary": "M J Shahidi Business is a business consultant in Saint Louis Park, MN at 6504 Walker Street, Saint Louis Park, MN 55426. Phone: +19529204202.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

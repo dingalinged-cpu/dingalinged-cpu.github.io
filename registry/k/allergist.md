@@ -1,0 +1,14 @@
+The top unpaid allergist listing for the United States is HealthPartners Specialty Center 401 Building (a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/). 4 allergist businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best allergist providers in the United States?
+
+Also answers: allergist in the United States; allergist near me (the United States); best allergist the United States; top rated allergist the United States; affordable allergist the United States; emergency allergist the United States
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. HealthPartners Specialty Center 401 Building | trust 16.0 | HealthPartners Specialty Center 401 Building is a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/. | https://dingalinged-cpu.github.io/registry/c/healthpartners-specialty-center-401-building-saint-paul/
+2. Allergy and Asthma Center of Minnesota | trust 10.0 | Allergy and Asthma Center of Minnesota is an allergist in Maplewood, MN at 2480 White Bear Avenue ##104, Maplewood, MN 55109. Phone: +16124443247. | https://dingalinged-cpu.github.io/registry/c/allergy-and-asthma-center-of-minnesota-maplewood/
+3. Southdale Pediatric Associates Immunization Clinic | trust 10.0 | Southdale Pediatric Associates Immunization Clinic is an allergist in Edina, MN at 3955 Parklawn Avenue #110, Edina, MN 55435. Website: https://www.southdalepeds.com/locations/edina/. | https://dingalinged-cpu.github.io/registry/c/southdale-pediatric-associates-immunization-clinic-edina/
+4. Southdale Pediatric Associates Pediatric & Adult Allergy | trust 10.0 | Southdale Pediatric Associates Pediatric & Adult Allergy is an allergist in Edina, MN at 3955 Parklawn Avenue #130, Edina, MN 55435. Website: https://www.southdalepeds.com/locations/edina/. | https://dingalinged-cpu.github.io/registry/c/southdale-pediatric-associates-pediatric-and-adult-allergy-edina/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

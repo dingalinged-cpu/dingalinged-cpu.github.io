@@ -1,0 +1,55 @@
+{
+ "slug": "precision-acupuncture-minneapolis",
+ "name": "Precision Acupuncture",
+ "categories": [
+  "acupuncture"
+ ],
+ "keywords": [
+  "acupuncture",
+  "acupuncture minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "acupuncture",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1829 Riverside Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55454",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55454",
+ "geo": {
+  "lat": 44.9693867,
+  "lon": -93.2458294
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13301781432",
+ "osm": {
+  "type": "node",
+  "id": 13301781432,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "acupuncture"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/precision-acupuncture-minneapolis/",
+ "summary": "Precision Acupuncture is an acupuncture clinic in Minneapolis, MN at 1829 Riverside Avenue, Minneapolis, MN 55454.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,50 @@
+{
+ "place": "Victoria, MN",
+ "slug": "victoria-mn",
+ "count": 1,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "liquor store victoria mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-victoria-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "crossroads-liquor-victoria",
+   "name": "Crossroads Liquor",
+   "summary": "Crossroads Liquor is a liquor store in Victoria, MN at 7999 Victoria Drive, Victoria, MN 55386. Website: https://www.crossroadsliq.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossroads-liquor-victoria/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossroads-liquor-victoria.json",
+   "address": {
+    "streetAddress": "7999 Victoria Drive",
+    "addressLocality": "Victoria",
+    "addressRegion": "MN",
+    "postalCode": "55386",
+    "addressCountry": "US"
+   },
+   "city": "Victoria",
+   "state": "MN",
+   "zip": "55386",
+   "geo": {
+    "lat": 44.8594574,
+    "lon": -93.6608182
+   },
+   "website": "https://www.crossroadsliq.com/",
+   "opening_hours": "Mo-Sa 09:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/421207120",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

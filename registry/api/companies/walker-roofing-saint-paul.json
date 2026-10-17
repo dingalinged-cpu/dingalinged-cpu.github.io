@@ -1,0 +1,62 @@
+{
+ "slug": "walker-roofing-saint-paul",
+ "name": "Walker Roofing",
+ "categories": [
+  "roofer"
+ ],
+ "keywords": [
+  "roofer",
+  "roofing contractor",
+  "roofer saint paul mn",
+  "roofing contractor saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "roofer",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "roofing contractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2270 Capp Road",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.9690969,
+  "lon": -93.1909791
+ },
+ "phone": "+16512510910",
+ "website": "https://www.walkerroofing.com/",
+ "schema_type": "RoofingContractor",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6267117648",
+ "osm": {
+  "type": "node",
+  "id": 6267117648,
+  "tags_used": {
+   "craft": "roofer"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/walker-roofing-saint-paul/",
+ "summary": "Walker Roofing is a roofer in Saint Paul, MN at 2270 Capp Road, Saint Paul, MN 55114. Phone: +16512510910. Website: https://www.walkerroofing.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

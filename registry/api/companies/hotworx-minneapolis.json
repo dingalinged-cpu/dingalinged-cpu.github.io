@@ -1,0 +1,57 @@
+{
+ "slug": "hotworx-minneapolis",
+ "name": "HotWorx",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "401 1st Avenue Northeast #C",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55413",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55413",
+ "geo": {
+  "lat": 44.9898224,
+  "lon": -93.2551751
+ },
+ "phone": "+16126018811",
+ "website": "https://www.hotworx.net/studio/minneapolis-northeast",
+ "wikidata": "Q115527690",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13431202111",
+ "osm": {
+  "type": "node",
+  "id": 13431202111,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hotworx-minneapolis/",
+ "summary": "HotWorx is a gym in Minneapolis, MN at 401 1st Avenue Northeast #C, Minneapolis, MN 55413. Phone: +16126018811. Website: https://www.hotworx.net/studio/minneapolis-northeast.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

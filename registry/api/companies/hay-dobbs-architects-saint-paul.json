@@ -1,0 +1,57 @@
+{
+ "slug": "hay-dobbs-architects-saint-paul",
+ "name": "Hay Dobbs Architects",
+ "categories": [
+  "architect"
+ ],
+ "keywords": [
+  "architect",
+  "architect saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "architect",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2324 University Avenue West ##200",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55114",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55114",
+ "geo": {
+  "lat": 44.962545,
+  "lon": -93.1960597
+ },
+ "phone": "+16123384590",
+ "website": "https://www.haydobbs.com/",
+ "opening_hours": "Mo-Fr 08:00-17:00",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7150081729",
+ "osm": {
+  "type": "node",
+  "id": 7150081729,
+  "tags_used": {
+   "office": "architect"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hay-dobbs-architects-saint-paul/",
+ "summary": "Hay Dobbs Architects is an architect in Saint Paul, MN at 2324 University Avenue West ##200, Saint Paul, MN 55114. Phone: +16123384590. Website: https://www.haydobbs.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

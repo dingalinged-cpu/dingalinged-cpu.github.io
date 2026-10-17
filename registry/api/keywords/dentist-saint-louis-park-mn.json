@@ -1,0 +1,709 @@
+{
+ "keyword": "dentist saint louis park mn",
+ "slug": "dentist-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Saint Louis Park, MN?",
+ "matches": [
+  "dentist in Saint Louis Park, MN",
+  "dentist near me (Saint Louis Park, MN)",
+  "best dentist Saint Louis Park, MN",
+  "top rated dentist Saint Louis Park, MN",
+  "affordable dentist Saint Louis Park, MN",
+  "emergency dentist Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Saint Louis Park, MN is Metro Dentalcare (a dentist in Saint Louis Park, MN at 4959 Excelsior Boulevard #200, Saint Louis Park, MN 55416. Phone: +19529208774. Website: https://www.metro-dentalcare.com/practices/metro-dentalcare-st-louis-park). 21 dentist businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "metro-dentalcare-saint-louis-park",
+   "name": "Metro Dentalcare",
+   "summary": "Metro Dentalcare is a dentist in Saint Louis Park, MN at 4959 Excelsior Boulevard #200, Saint Louis Park, MN 55416. Phone: +19529208774. Website: https://www.metro-dentalcare.com/practices/metro-dentalcare-st-louis-park.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-dentalcare-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4959 Excelsior Boulevard #200",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9313675,
+    "lon": -93.3440368
+   },
+   "phone": "+19529208774",
+   "website": "https://www.metro-dentalcare.com/practices/metro-dentalcare-st-louis-park",
+   "opening_hours": "Mo-Th 07:00-20:00; Fr 08:15-14:00; Sa open \"By appointment\"; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6611097229",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "all-care-dentistry-saint-louis-park",
+   "name": "All Care Dentistry",
+   "summary": "All Care Dentistry is a dentist in Saint Louis Park, MN at 4221 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529249198. Website: https://www.allcaredentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-care-dentistry-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-care-dentistry-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4221 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9480659,
+    "lon": -93.3335179
+   },
+   "phone": "+19529249198",
+   "website": "https://www.allcaredentistry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/966541039",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "family-orthodontics-saint-louis-park",
+   "name": "Family Orthodontics",
+   "summary": "Family Orthodontics is a dentist in Saint Louis Park, MN at 5804 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529227117. Website: https://www.familyorthomn.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-orthodontics-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-orthodontics-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5804 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9294102,
+    "lon": -93.3534667
+   },
+   "phone": "+19529227117",
+   "website": "https://www.familyorthomn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/914286353",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "tranquility-dental-saint-louis-park",
+   "name": "Tranquility Dental",
+   "summary": "Tranquility Dental is a dentist in Saint Louis Park, MN at 7415 Wayzata Boulevard #201, Saint Louis Park, MN 55426. Website: https://tranqulitydentalmn.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tranquility-dental-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tranquility-dental-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7415 Wayzata Boulevard #201",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9707432,
+    "lon": -93.3741157
+   },
+   "website": "https://tranqulitydentalmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11852879266",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "healthpartners-dental-saint-louis-park",
+   "name": "HealthPartners Dental",
+   "summary": "HealthPartners Dental is a dentist in Saint Louis Park, MN at 5500 Excelsior Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthpartners-dental-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthpartners-dental-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5500 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9318326,
+    "lon": -93.3487739
+   },
+   "opening_hours": "Mo 08:00-16:00; Tu 09:00-19:00; We 08:00-17:30; Th-Fr 07:30-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6656004386",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "jain-dental-saint-louis-park",
+   "name": "Jain Dental",
+   "summary": "Jain Dental is a dentist in Saint Louis Park, MN at 4600 Excelsior Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jain-dental-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jain-dental-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4600 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9340765,
+    "lon": -93.3382184
+   },
+   "opening_hours": "Mo,We-Th 07:15-16:30; Tu 12:00-19:00; Fr 08:00-12:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566621917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "orthodontic-care-specialists-saint-louis-park",
+   "name": "Orthodontic Care Specialists",
+   "summary": "Orthodontic Care Specialists is a dentist in Saint Louis Park, MN. Phone: +19529201373.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orthodontic-care-specialists-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orthodontic-care-specialists-saint-louis-park.json",
+   "address": {
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9314911,
+    "lon": -93.3441181
+   },
+   "phone": "+19529201373",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6611097224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "a-banner-smile-dental-clinic-saint-louis-park",
+   "name": "A Banner Smile Dental Clinic",
+   "summary": "A Banner Smile Dental Clinic is a dentist in Saint Louis Park, MN at 8011 Minnetonka Boulevard, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-banner-smile-dental-clinic-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-banner-smile-dental-clinic-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8011 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9492177,
+    "lon": -93.3815004
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9671484192",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "brandsness-and-krumholz-saint-louis-park",
+   "name": "Brandsness & Krumholz",
+   "summary": "Brandsness & Krumholz is a dentist in Saint Louis Park, MN at 2267 Louisiana Avenue South, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brandsness-and-krumholz-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brandsness-and-krumholz-saint-louis-park.json",
+   "address": {
+    "streetAddress": "2267 Louisiana Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9602795,
+    "lon": -93.3705288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/460383876",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "brookside-dentistry-l-foster-dds-saint-louis-park",
+   "name": "Brookside Dentistry - L. Foster, DDS",
+   "summary": "Brookside Dentistry - L. Foster, DDS is a dentist in Saint Louis Park, MN at 4047 Brookside Avenue South, Saint Louis Park, MN 55416.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookside-dentistry-l-foster-dds-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookside-dentistry-l-foster-dds-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4047 Brookside Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9277474,
+    "lon": -93.3551244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9579836298",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "creekside-dental-saint-louis-park",
+   "name": "Creekside Dental",
+   "summary": "Creekside Dental is a dentist in Saint Louis Park, MN at 3340 Republic Avenue, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creekside-dental-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creekside-dental-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3340 Republic Avenue",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9391621,
+    "lon": -93.3682919
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/435068838",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "dentistry-by-brian-weber-saint-louis-park",
+   "name": "Dentistry by Brian Weber",
+   "summary": "Dentistry by Brian Weber is a dentist in Saint Louis Park, MN at 3400 Dakota Avenue South, Saint Louis Park, MN 55416.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dentistry-by-brian-weber-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dentistry-by-brian-weber-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3400 Dakota Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9419155,
+    "lon": -93.3605811
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604654646",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "distinctive-dentistry-saint-louis-park",
+   "name": "Distinctive Dentistry",
+   "summary": "Distinctive Dentistry is a dentist in Saint Louis Park, MN at 7921 Minnetonka Boulevard, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/distinctive-dentistry-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/distinctive-dentistry-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7921 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9491606,
+    "lon": -93.3805782
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000596278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "excel-dentistry-saint-louis-park",
+   "name": "Excel Dentistry",
+   "summary": "Excel Dentistry is a dentist in Saint Louis Park, MN at 8001 State Highway 7 Service Road, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/excel-dentistry-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/excel-dentistry-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8001 State Highway 7 Service Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9355585,
+    "lon": -93.3812219
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/974484284",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "family-dentistry-saint-louis-park",
+   "name": "Family Dentistry",
+   "summary": "Family Dentistry is a dentist in Saint Louis Park, MN at 5020 Minnetonka Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-dentistry-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-dentistry-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5020 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9487884,
+    "lon": -93.3436876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/601130228",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "frontline-dental-ernest-juean-dds-saint-louis-park",
+   "name": "Frontline Dental, Ernest Juean, DDS",
+   "summary": "Frontline Dental, Ernest Juean, DDS is a dentist in Saint Louis Park, MN at 4045 Brookside Avenue South, Saint Louis Park, MN 55416.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/frontline-dental-ernest-juean-dds-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/frontline-dental-ernest-juean-dds-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4045 Brookside Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.927749,
+    "lon": -93.3553066
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9579836297",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "knollwood-dentistry-saint-louis-park",
+   "name": "Knollwood Dentistry",
+   "summary": "Knollwood Dentistry is a dentist in Saint Louis Park, MN at 8458 Minnesota State Highway 7, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/knollwood-dentistry-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/knollwood-dentistry-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8458 Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9363192,
+    "lon": -93.3857158
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4331102007",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "leon-orthodontics-saint-louis-park",
+   "name": "Leon Orthodontics",
+   "summary": "Leon Orthodontics is a dentist in Saint Louis Park, MN at 6100 Excelsior Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/leon-orthodontics-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/leon-orthodontics-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6100 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9282467,
+    "lon": -93.3569986
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/308147815",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "peter-a-berven-d-d-s-saint-louis-park",
+   "name": "Peter A. Berven. D. D. S.",
+   "summary": "Peter A. Berven. D. D. S. is a dentist in Saint Louis Park, MN at 4033 Brookside Avenue South, Saint Louis Park, MN 55416.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peter-a-berven-d-d-s-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peter-a-berven-d-d-s-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4033 Brookside Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9280107,
+    "lon": -93.3554041
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9579836292",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "rhode-island-dental-saint-louis-park",
+   "name": "Rhode Island Dental",
+   "summary": "Rhode Island Dental is a dentist in Saint Louis Park, MN at 3645 Rhode Island Avenue South, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rhode-island-dental-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rhode-island-dental-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3645 Rhode Island Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9371194,
+    "lon": -93.3779632
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/993142838",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "twin-cities-periodontics-saint-louis-park",
+   "name": "Twin Cities Periodontics",
+   "summary": "Twin Cities Periodontics is a dentist in Saint Louis Park, MN at 3555 Louisiana Avenue South, Saint Louis Park, MN 55426.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-cities-periodontics-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-periodontics-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3555 Louisiana Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9394972,
+    "lon": -93.3691318
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/747615453",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

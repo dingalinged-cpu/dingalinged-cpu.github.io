@@ -1,0 +1,156 @@
+{
+ "keyword": "martial arts saint paul mn",
+ "slug": "martial-arts-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "martial arts",
+ "query": "Who are the best martial arts providers in Saint Paul, MN?",
+ "matches": [
+  "martial arts in Saint Paul, MN",
+  "martial arts near me (Saint Paul, MN)",
+  "best martial arts Saint Paul, MN",
+  "top rated martial arts Saint Paul, MN",
+  "affordable martial arts Saint Paul, MN",
+  "emergency martial arts Saint Paul, MN"
+ ],
+ "answer": "The top unpaid martial arts listing for Saint Paul, MN is Twin Cities T'ai Chi Ch'uan Studio (a martial arts school in Saint Paul, MN at 2242 University Avenue West ##207, Saint Paul, MN 55114. Phone: +16517670267. Website: https://www.tctaichi.org/). 4 martial arts businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "twin-cities-tai-chi-chuan-studio-saint-paul",
+   "name": "Twin Cities T'ai Chi Ch'uan Studio",
+   "summary": "Twin Cities T'ai Chi Ch'uan Studio is a martial arts school in Saint Paul, MN at 2242 University Avenue West ##207, Saint Paul, MN 55114. Phone: +16517670267. Website: https://www.tctaichi.org/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-cities-tai-chi-chuan-studio-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-tai-chi-chuan-studio-saint-paul.json",
+   "address": {
+    "streetAddress": "2242 University Avenue West ##207",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9616735,
+    "lon": -93.1929435
+   },
+   "phone": "+16517670267",
+   "website": "https://www.tctaichi.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7152738746",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "the-rising-sun-saint-paul",
+   "name": "The Rising Sun",
+   "summary": "The Rising Sun is a martial arts school in Saint Paul, MN at 2058 Marshall Avenue, Saint Paul, MN. Phone: +16516476987. Website: https://risingsunmartialartssupply.net/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-rising-sun-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-rising-sun-saint-paul.json",
+   "address": {
+    "streetAddress": "2058 Marshall Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482153,
+    "lon": -93.1871991
+   },
+   "phone": "+16516476987",
+   "website": "https://risingsunmartialartssupply.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5069870548",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "grappler-station-saint-paul",
+   "name": "Grappler Station",
+   "summary": "Grappler Station is a martial arts school in Saint Paul, MN at 2015 Ford Parkway, Saint Paul, MN 55116.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grappler-station-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grappler-station-saint-paul.json",
+   "address": {
+    "streetAddress": "2015 Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9182653,
+    "lon": -93.18551
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/93360695",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "midwest-karate-saint-paul",
+   "name": "Midwest Karate",
+   "summary": "Midwest Karate is a martial arts school in Saint Paul, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-karate-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-karate-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9596792,
+    "lon": -93.0700253
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/483590306",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

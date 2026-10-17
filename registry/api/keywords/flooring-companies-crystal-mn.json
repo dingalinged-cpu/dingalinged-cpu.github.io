@@ -1,0 +1,58 @@
+{
+ "keyword": "flooring companies crystal mn",
+ "slug": "flooring-companies-crystal-mn",
+ "place": "Crystal, MN",
+ "service": "flooring companies",
+ "query": "Who are the best flooring companies providers in Crystal, MN?",
+ "matches": [
+  "flooring companies in Crystal, MN",
+  "flooring companies near me (Crystal, MN)",
+  "best flooring companies Crystal, MN",
+  "top rated flooring companies Crystal, MN",
+  "affordable flooring companies Crystal, MN",
+  "emergency flooring companies Crystal, MN"
+ ],
+ "answer": "The top unpaid flooring companies listing for Crystal, MN is DB Floor Sanding (a flooring company in Crystal, MN). 1 flooring companies businesses are listed for Crystal, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "db-floor-sanding-crystal",
+   "name": "DB Floor Sanding",
+   "summary": "DB Floor Sanding is a flooring company in Crystal, MN.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/db-floor-sanding-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/db-floor-sanding-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0203588,
+    "lon": -93.3382585
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223321520",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

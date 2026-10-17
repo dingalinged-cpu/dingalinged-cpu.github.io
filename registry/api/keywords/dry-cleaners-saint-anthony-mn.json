@@ -1,0 +1,93 @@
+{
+ "keyword": "dry cleaners saint anthony mn",
+ "slug": "dry-cleaners-saint-anthony-mn",
+ "place": "Saint Anthony, MN",
+ "service": "dry cleaners",
+ "query": "Who are the best dry cleaners providers in Saint Anthony, MN?",
+ "matches": [
+  "dry cleaners in Saint Anthony, MN",
+  "dry cleaners near me (Saint Anthony, MN)",
+  "best dry cleaners Saint Anthony, MN",
+  "top rated dry cleaners Saint Anthony, MN",
+  "affordable dry cleaners Saint Anthony, MN",
+  "emergency dry cleaners Saint Anthony, MN"
+ ],
+ "answer": "The top unpaid dry cleaners listing for Saint Anthony, MN is St. Anthony Cleaners (a dry cleaner in Saint Anthony, MN at 3007 37th Avenue Northeast, Saint Anthony, MN. Phone: +16129102890. Website: https://stanthonycleaners.com/). 2 dry cleaners businesses are listed for Saint Anthony, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "st-anthony-cleaners-saint-anthony",
+   "name": "St. Anthony Cleaners",
+   "summary": "St. Anthony Cleaners is a dry cleaner in Saint Anthony, MN at 3007 37th Avenue Northeast, Saint Anthony, MN. Phone: +16129102890. Website: https://stanthonycleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-anthony-cleaners-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-anthony-cleaners-saint-anthony.json",
+   "address": {
+    "streetAddress": "3007 37th Avenue Northeast",
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0359259,
+    "lon": -93.2175808
+   },
+   "phone": "+16129102890",
+   "website": "https://stanthonycleaners.com/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12894996787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "cleannpress-saint-anthony",
+   "name": "Clean'n'Press",
+   "summary": "Clean'n'Press is a dry cleaner in Saint Anthony, MN. Website: https://cleannpress.com/st-anthony-dry-cleaner/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cleannpress-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cleannpress-saint-anthony.json",
+   "address": {
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0400276,
+    "lon": -93.2190821
+   },
+   "website": "https://cleannpress.com/st-anthony-dry-cleaner/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12947681393",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "elite-nails-spa-white-bear-lake",
+ "name": "Elite Nails + Spa",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon white bear lake mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "White Bear Lake",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "White Bear Lake",
+ "state": "MN",
+ "geo": {
+  "lat": 45.051257,
+  "lon": -92.9840293
+ },
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12597127801",
+ "osm": {
+  "type": "node",
+  "id": 12597127801,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "White Bear Lake",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/elite-nails-spa-white-bear-lake/",
+ "summary": "Elite Nails + Spa is a nail salon in White Bear Lake, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

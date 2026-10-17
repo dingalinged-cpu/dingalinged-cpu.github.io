@@ -1,0 +1,58 @@
+{
+ "slug": "barry-s-minneapolis",
+ "name": "Barry’s",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "701 North Washington Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55401",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55401",
+ "geo": {
+  "lat": 44.9872996,
+  "lon": -93.277046
+ },
+ "phone": "+16124704141",
+ "website": "https://www.barrys.com/studio/minneapolis",
+ "email": "minneapolis@barrys.com",
+ "opening_hours": "Mo-Fr 06:00-19:00; Su 08:00-14:00; Sa 07:00-13:00",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13724495101",
+ "osm": {
+  "type": "node",
+  "id": 13724495101,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/barry-s-minneapolis/",
+ "summary": "Barry’s is a gym in Minneapolis, MN at 701 North Washington Avenue, Minneapolis, MN 55401. Phone: +16124704141. Website: https://www.barrys.com/studio/minneapolis.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

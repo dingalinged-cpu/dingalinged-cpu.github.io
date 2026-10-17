@@ -1,0 +1,97 @@
+{
+ "keyword": "roofer saint louis park mn",
+ "slug": "roofer-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "roofer",
+ "query": "Who are the best roofer providers in Saint Louis Park, MN?",
+ "matches": [
+  "roofer in Saint Louis Park, MN",
+  "roofer near me (Saint Louis Park, MN)",
+  "best roofer Saint Louis Park, MN",
+  "top rated roofer Saint Louis Park, MN",
+  "affordable roofer Saint Louis Park, MN",
+  "emergency roofer Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid roofer listing for Saint Louis Park, MN is Mayday Restoration (a roofer in Saint Louis Park, MN at 6817 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +17637777663. Website: https://www.hailmayday.com/). 2 roofer businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mayday-restoration-saint-louis-park",
+   "name": "Mayday Restoration",
+   "summary": "Mayday Restoration is a roofer in Saint Louis Park, MN at 6817 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +17637777663. Website: https://www.hailmayday.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mayday-restoration-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mayday-restoration-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6817 Wayzata Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.970809,
+    "lon": -93.3664019
+   },
+   "phone": "+17637777663",
+   "website": "https://www.hailmayday.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2419407676",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "sela-roofing-and-remodeling-saint-louis-park",
+   "name": "Sela Roofing and Remodeling",
+   "summary": "Sela Roofing and Remodeling is a roofer in Saint Louis Park, MN at 4100 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16128238046. Website: https://selaroofing.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sela-roofing-and-remodeling-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sela-roofing-and-remodeling-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4100 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9381145,
+    "lon": -93.332644
+   },
+   "phone": "+16128238046",
+   "website": "https://selaroofing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/692875257",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "slug": "hinding-company-heating-and-air-saint-paul",
+ "name": "Hinding Company Heating & Air",
+ "categories": [
+  "hvac repair"
+ ],
+ "keywords": [
+  "hvac repair",
+  "heating and air",
+  "hvac repair saint paul mn",
+  "heating and air saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "hvac repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "heating and air",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "915 7th Street West",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55102",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55102",
+ "geo": {
+  "lat": 44.9288594,
+  "lon": -93.125382
+ },
+ "phone": "+16512281303",
+ "website": "https://www.hindingheating.com/",
+ "email": "info@hindingheating.com",
+ "opening_hours": "Mo-Su 05:00-20:00",
+ "schema_type": "HVACBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/210223935",
+ "osm": {
+  "type": "way",
+  "id": 210223935,
+  "tags_used": {
+   "craft": "hvac"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hinding-company-heating-and-air-saint-paul/",
+ "summary": "Hinding Company Heating & Air is a HVAC contractor in Saint Paul, MN at 915 7th Street West, Saint Paul, MN 55102. Phone: +16512281303. Website: https://www.hindingheating.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

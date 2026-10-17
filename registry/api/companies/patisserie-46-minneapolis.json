@@ -1,0 +1,56 @@
+{
+ "slug": "patisserie-46-minneapolis",
+ "name": "Patisserie 46",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4552 Grand Avenue South",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55419",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55419",
+ "geo": {
+  "lat": 44.9197338,
+  "lon": -93.2846868
+ },
+ "website": "https://patisserie46.com/",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11971107314",
+ "osm": {
+  "type": "node",
+  "id": 11971107314,
+  "tags_used": {
+   "shop": "bakery",
+   "amenity": "cafe"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/patisserie-46-minneapolis/",
+ "summary": "Patisserie 46 is a bakery in Minneapolis, MN at 4552 Grand Avenue South, Minneapolis, MN 55419. Website: https://patisserie46.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

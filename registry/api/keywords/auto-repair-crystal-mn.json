@@ -1,0 +1,92 @@
+{
+ "keyword": "auto repair crystal mn",
+ "slug": "auto-repair-crystal-mn",
+ "place": "Crystal, MN",
+ "service": "auto repair",
+ "query": "Who are the best auto repair providers in Crystal, MN?",
+ "matches": [
+  "auto repair in Crystal, MN",
+  "auto repair near me (Crystal, MN)",
+  "best auto repair Crystal, MN",
+  "top rated auto repair Crystal, MN",
+  "affordable auto repair Crystal, MN",
+  "emergency auto repair Crystal, MN"
+ ],
+ "answer": "The top unpaid auto repair listing for Crystal, MN is Crystal Collision Center (an auto repair shop in Crystal, MN at 5108 West Broadway Avenue, Crystal, MN 55429. Phone: +17635330412. Website: https://www.crystalcollisioncenter.com/). 2 auto repair businesses are listed for Crystal, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "crystal-collision-center-crystal",
+   "name": "Crystal Collision Center",
+   "summary": "Crystal Collision Center is an auto repair shop in Crystal, MN at 5108 West Broadway Avenue, Crystal, MN 55429. Phone: +17635330412. Website: https://www.crystalcollisioncenter.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crystal-collision-center-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crystal-collision-center-crystal.json",
+   "address": {
+    "streetAddress": "5108 West Broadway Avenue",
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "postalCode": "55429",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "zip": "55429",
+   "geo": {
+    "lat": 45.0460224,
+    "lon": -93.3539382
+   },
+   "phone": "+17635330412",
+   "website": "https://www.crystalcollisioncenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/171280379",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "b-and-r-transmission-crystal",
+   "name": "B & R Transmission",
+   "summary": "B & R Transmission is an auto repair shop in Crystal, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/b-and-r-transmission-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/b-and-r-transmission-crystal.json",
+   "address": {
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0330708,
+    "lon": -93.3604937
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1333405439",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

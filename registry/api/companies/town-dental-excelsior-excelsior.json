@@ -1,0 +1,63 @@
+{
+ "slug": "town-dental-excelsior-excelsior",
+ "name": "Town Dental - Excelsior",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist excelsior mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "425 2nd Street",
+  "addressLocality": "Excelsior",
+  "addressRegion": "MN",
+  "postalCode": "55331",
+  "addressCountry": "US"
+ },
+ "city": "Excelsior",
+ "state": "MN",
+ "zip": "55331",
+ "geo": {
+  "lat": 44.9033611,
+  "lon": -93.5656068
+ },
+ "phone": "+19522951622",
+ "website": "https://town-dental.com/locations/excelsior/",
+ "email": "info@town-dental.com",
+ "opening_hours": "Mo 08:00-17:00, Tu 07:00-16:00, We 07:00-16:00, Th 08:00-17:00, Fr closed, Sa closed, Su closed",
+ "social": [
+  "https://www.facebook.com/Towndentalexcelsior"
+ ],
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11780026077",
+ "osm": {
+  "type": "node",
+  "id": 11780026077,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "general_&_cosmetic_dentistry;emergency_dentistry;preventive_dentistry;dental_crowns;teeth_whitening;dental_fillings_&_sealants;oral_cancer_screenings"
+  }
+ },
+ "municipality": "Excelsior",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/town-dental-excelsior-excelsior/",
+ "summary": "Town Dental - Excelsior is a dentist in Excelsior, MN at 425 2nd Street, Excelsior, MN 55331. Phone: +19522951622. Website: https://town-dental.com/locations/excelsior/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

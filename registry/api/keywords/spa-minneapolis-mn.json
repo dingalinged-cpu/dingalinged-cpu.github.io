@@ -1,0 +1,163 @@
+{
+ "keyword": "spa minneapolis mn",
+ "slug": "spa-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "spa",
+ "query": "Who are the best spa providers in Minneapolis, MN?",
+ "matches": [
+  "spa in Minneapolis, MN",
+  "spa near me (Minneapolis, MN)",
+  "best spa Minneapolis, MN",
+  "top rated spa Minneapolis, MN",
+  "affordable spa Minneapolis, MN",
+  "emergency spa Minneapolis, MN"
+ ],
+ "answer": "The top unpaid spa listing for Minneapolis, MN is BeeQ Nails and Spa (a spa in Minneapolis, MN at 5559 Xerxes Avenue South, Minneapolis, MN 55410. Phone: +19526810473. Website: https://beeqnailssalons.com/). 4 spa businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "beeq-nails-and-spa-minneapolis",
+   "name": "BeeQ Nails and Spa",
+   "summary": "BeeQ Nails and Spa is a spa in Minneapolis, MN at 5559 Xerxes Avenue South, Minneapolis, MN 55410. Phone: +19526810473. Website: https://beeqnailssalons.com/.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beeq-nails-and-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beeq-nails-and-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "5559 Xerxes Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9017391,
+    "lon": -93.3185327
+   },
+   "phone": "+19526810473",
+   "website": "https://beeqnailssalons.com/",
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13624425480",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "watershed-spa-minneapolis",
+   "name": "Watershed Spa",
+   "summary": "Watershed Spa is a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/watershed-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/watershed-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "514 Southeast 2nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9830368,
+    "lon": -93.2495555
+   },
+   "phone": "+16123314182",
+   "website": "https://www.watershedspa.com/",
+   "opening_hours": "Mo-Su 09:00-23:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13631283072",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "face-minneapolis",
+   "name": "#FACE",
+   "summary": "#FACE is a spa in Minneapolis, MN at 925 West Lake Street, Minneapolis, MN 55408. Website: https://faceoflelas.com/.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/face-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/face-minneapolis.json",
+   "address": {
+    "streetAddress": "925 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482353,
+    "lon": -93.2917662
+   },
+   "website": "https://faceoflelas.com/",
+   "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334193686",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "emerald-city-day-spa-minneapolis",
+   "name": "Emerald City Day Spa",
+   "summary": "Emerald City Day Spa is a spa in Minneapolis, MN. Website: https://emeraldcitydayspa.com/.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/emerald-city-day-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/emerald-city-day-spa-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9774551,
+    "lon": -93.2709476
+   },
+   "website": "https://emeraldcitydayspa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5955577504",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

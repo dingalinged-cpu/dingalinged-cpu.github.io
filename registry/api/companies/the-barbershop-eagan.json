@@ -1,0 +1,60 @@
+{
+ "slug": "the-barbershop-eagan",
+ "name": "The Barbershop",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon eagan mn",
+  "haircut eagan mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1278 Town Centre Drive",
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8301781,
+  "lon": -93.1626556
+ },
+ "phone": "+16512004147",
+ "opening_hours": "Mo-Fr 09:00-19:00, Sa 08:00-16:00, Su",
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12104466937",
+ "osm": {
+  "type": "node",
+  "id": 12104466937,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-barbershop-eagan/",
+ "summary": "The Barbershop is a hair salon in Eagan, MN at 1278 Town Centre Drive, Eagan, MN. Phone: +16512004147.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

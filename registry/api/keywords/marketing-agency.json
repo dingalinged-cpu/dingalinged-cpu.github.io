@@ -1,0 +1,940 @@
+{
+ "keyword": "marketing agency",
+ "slug": "marketing-agency",
+ "place": "the United States",
+ "service": "marketing agency",
+ "query": "Who are the best marketing agency providers in the United States?",
+ "matches": [
+  "marketing agency in the United States",
+  "marketing agency near me (the United States)",
+  "best marketing agency the United States",
+  "top rated marketing agency the United States",
+  "affordable marketing agency the United States",
+  "emergency marketing agency the United States"
+ ],
+ "answer": "The top unpaid marketing agency listing for the United States is BROWNTOWN_ (a marketing agency in Saint Paul, MN at 501 West Lynnhurst Avenue, Saint Paul, MN 55104. Phone: +16124123771. Website: https://www.browntowndesign.com/). 27 marketing agency businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "browntown-saint-paul",
+   "name": "BROWNTOWN_",
+   "summary": "BROWNTOWN_ is a marketing agency in Saint Paul, MN at 501 West Lynnhurst Avenue, Saint Paul, MN 55104. Phone: +16124123771. Website: https://www.browntowndesign.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/browntown-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/browntown-saint-paul.json",
+   "address": {
+    "streetAddress": "501 West Lynnhurst Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9564083,
+    "lon": -93.1807627
+   },
+   "phone": "+16124123771",
+   "website": "https://www.browntowndesign.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196597425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "ian-inc-edina",
+   "name": "IAN Inc.",
+   "summary": "IAN Inc. is a marketing agency in Edina, MN at 3948 West 50th Street #Suite 212, Edina, MN 55424. Phone: +19529156065. Website: https://ianinc.net/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ian-inc-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ian-inc-edina.json",
+   "address": {
+    "streetAddress": "3948 West 50th Street #Suite 212",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9130214,
+    "lon": -93.331439
+   },
+   "phone": "+19529156065",
+   "website": "https://ianinc.net/",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116015",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "interactive-assist-minneapolis",
+   "name": "InterActive Assist",
+   "summary": "InterActive Assist is a marketing agency in Minneapolis, MN at 1400 Van Buren Street NE #Suite 200, Minneapolis, MN 55413. Phone: +18552422736. Website: https://ia-assist.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/interactive-assist-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/interactive-assist-minneapolis.json",
+   "address": {
+    "streetAddress": "1400 Van Buren Street NE #Suite 200",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0026855,
+    "lon": -93.2491265
+   },
+   "phone": "+18552422736",
+   "website": "https://ia-assist.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8505858725",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "mono-minneapolis",
+   "name": "MONO",
+   "summary": "MONO is a marketing agency in Minneapolis, MN at 1350 Lagoon Avenue #Suite 1000, Minneapolis, MN 55408. Phone: +16124544900. Website: https://www.mono-1.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mono-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mono-minneapolis.json",
+   "address": {
+    "streetAddress": "1350 Lagoon Avenue #Suite 1000",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.949907,
+    "lon": -93.2974767
+   },
+   "phone": "+16124544900",
+   "website": "https://www.mono-1.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2429781608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "ovative-group-minneapolis",
+   "name": "Ovative Group",
+   "summary": "Ovative Group is a marketing agency in Minneapolis, MN at 729 North Washington Avenue, Minneapolis, MN 55401. Phone: +16128861010. Website: https://ovative.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ovative-group-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ovative-group-minneapolis.json",
+   "address": {
+    "streetAddress": "729 North Washington Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9878947,
+    "lon": -93.2779898
+   },
+   "phone": "+16128861010",
+   "website": "https://ovative.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13141654618",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "star-brooklyn-park",
+   "name": "Star",
+   "summary": "Star is a marketing agency in Brooklyn Park, MN at 6688 93rd Avenue North, Brooklyn Park, MN 55445. Phone: +17635614655. Website: https://engagestar.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/star-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/star-brooklyn-park.json",
+   "address": {
+    "streetAddress": "6688 93rd Avenue North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55445",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55445",
+   "geo": {
+    "lat": 45.1239365,
+    "lon": -93.364732
+   },
+   "phone": "+17635614655",
+   "website": "https://engagestar.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9275900995",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "the-social-lights-minneapolis",
+   "name": "The Social Lights",
+   "summary": "The Social Lights is a marketing agency in Minneapolis, MN at 241 5th Avenue North #100, Minneapolis, MN 55401. Phone: +16128038833. Website: https://thesociallights.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-social-lights-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-social-lights-minneapolis.json",
+   "address": {
+    "streetAddress": "241 5th Avenue North #100",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9854381,
+    "lon": -93.2753659
+   },
+   "phone": "+16128038833",
+   "website": "https://thesociallights.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12544820324",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "upswing-creative-saint-paul",
+   "name": "Upswing Creative",
+   "summary": "Upswing Creative is a marketing agency in Saint Paul, MN at 755 North Prior Avenue ##106, Saint Paul, MN 55104. Phone: +16512524651. Website: https://www.upswingcreative.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/upswing-creative-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/upswing-creative-saint-paul.json",
+   "address": {
+    "streetAddress": "755 North Prior Avenue ##106",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.964162,
+    "lon": -93.1833456
+   },
+   "phone": "+16512524651",
+   "website": "https://www.upswingcreative.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196019065",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "augeo-greer-saint-paul",
+   "name": "Augeo+Greer",
+   "summary": "Augeo+Greer is a marketing agency in Saint Paul, MN at 2561 Territorial Road, Saint Paul, MN 55114. Phone: +16123386171. Website: https://www.augeogreer.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/augeo-greer-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/augeo-greer-saint-paul.json",
+   "address": {
+    "streetAddress": "2561 Territorial Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9688746,
+    "lon": -93.2038327
+   },
+   "phone": "+16123386171",
+   "website": "https://www.augeogreer.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6277568967",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "fellow-advertising-agency-minneapolis",
+   "name": "Fellow Advertising Agency",
+   "summary": "Fellow Advertising Agency is a marketing agency in Minneapolis, MN at 718 West 34th Street, Minneapolis, MN 55408. Phone: +16126051712. Website: https://www.fellowinc.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fellow-advertising-agency-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fellow-advertising-agency-minneapolis.json",
+   "address": {
+    "streetAddress": "718 West 34th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9414883,
+    "lon": -93.2887724
+   },
+   "phone": "+16126051712",
+   "website": "https://www.fellowinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4806273390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "gvm-food-marketing-golden-valley",
+   "name": "GVM Food Marketing",
+   "summary": "GVM Food Marketing is a marketing agency in Golden Valley, MN at 5101 Olson Memorial Highway #5000, Golden Valley, MN 55422. Phone: +18009323031. Website: https://www.gvmfoodmarketing.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gvm-food-marketing-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gvm-food-marketing-golden-valley.json",
+   "address": {
+    "streetAddress": "5101 Olson Memorial Highway #5000",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 44.983671,
+    "lon": -93.3435808
+   },
+   "phone": "+18009323031",
+   "website": "https://www.gvmfoodmarketing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11124443907",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "jt-mega-food-advertising-saint-louis-park",
+   "name": "JT Mega Food Advertising",
+   "summary": "JT Mega Food Advertising is a marketing agency in Saint Louis Park, MN at 4020 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529291370. Website: https://jtmega.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jt-mega-food-advertising-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jt-mega-food-advertising-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4020 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9486781,
+    "lon": -93.3311266
+   },
+   "phone": "+19529291370",
+   "website": "https://jtmega.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/132662568",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "knock-inc-minneapolis",
+   "name": "KNOCK, inc.",
+   "summary": "KNOCK, inc. is a marketing agency in Minneapolis, MN at 1307 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16123336511. Website: https://knockinc.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/knock-inc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/knock-inc-minneapolis.json",
+   "address": {
+    "streetAddress": "1307 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9803632,
+    "lon": -93.2976496
+   },
+   "phone": "+16123336511",
+   "website": "https://knockinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/13272676",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "mo-digital-services-roseville",
+   "name": "MO Digital Services",
+   "summary": "MO Digital Services is a marketing agency in Roseville, MN at 3135 Sandy Hook Drive,,,, Roseville, MN 55113. Phone: +16516158589. Website: https://mods.agency/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mo-digital-services-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mo-digital-services-roseville.json",
+   "address": {
+    "streetAddress": "3135 Sandy Hook Drive,,,",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 45.0208127,
+    "lon": -93.2315918
+   },
+   "phone": "+16516158589",
+   "website": "https://mods.agency/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13270112459",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "right-turn-recruiting-inc-rtr-saint-louis-park",
+   "name": "Right Turn Recruiting, Inc (RTR)",
+   "summary": "Right Turn Recruiting, Inc (RTR) is a marketing agency in Saint Louis Park, MN at 7825 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +18777437888. Website: https://www.rightturnrecruiting.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/right-turn-recruiting-inc-rtr-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/right-turn-recruiting-inc-rtr-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7825 Wayzata Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.970728,
+    "lon": -93.3791883
+   },
+   "phone": "+18777437888",
+   "website": "https://www.rightturnrecruiting.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/411532125",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "scales-advertising-saint-paul",
+   "name": "Scales Advertising",
+   "summary": "Scales Advertising is a marketing agency in Saint Paul, MN at 2303 Wycliff Street, Saint Paul, MN 55114. Phone: +16516410226. Website: https://www.scalesadvertising.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scales-advertising-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scales-advertising-saint-paul.json",
+   "address": {
+    "streetAddress": "2303 Wycliff Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9687512,
+    "lon": -93.193592
+   },
+   "phone": "+16516410226",
+   "website": "https://www.scalesadvertising.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6265036092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "taiyo-international-golden-valley",
+   "name": "Taiyo International",
+   "summary": "Taiyo International is a marketing agency in Golden Valley, MN at 5960 Golden Hills Drive, Golden Valley, MN 55416. Phone: +17633983003. Website: https://www.taiyointernational.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/taiyo-international-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/taiyo-international-golden-valley.json",
+   "address": {
+    "streetAddress": "5960 Golden Hills Drive",
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9735261,
+    "lon": -93.3561114
+   },
+   "phone": "+17633983003",
+   "website": "https://www.taiyointernational.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11129016213",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "authentic-form-and-function-minneapolis",
+   "name": "Authentic Form & Function",
+   "summary": "Authentic Form & Function is a marketing agency in Minneapolis, MN at 1307 2nd Avenue North, Minneapolis, MN 55405. Website: https://authenticff.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/authentic-form-and-function-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/authentic-form-and-function-minneapolis.json",
+   "address": {
+    "streetAddress": "1307 2nd Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9788932,
+    "lon": -93.2974403
+   },
+   "website": "https://authenticff.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12263111118",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "bcpr-north-minneapolis",
+   "name": "BCPR North",
+   "summary": "BCPR North is a marketing agency in Minneapolis, MN at 330 2nd Avenue South, Minneapolis, MN 55401. Website: https://bcprnorth.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bcpr-north-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bcpr-north-minneapolis.json",
+   "address": {
+    "streetAddress": "330 2nd Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9790063,
+    "lon": -93.2672091
+   },
+   "website": "https://bcprnorth.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13526175726",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "digital-impact-solutions-shakopee",
+   "name": "Digital Impact Solutions",
+   "summary": "Digital Impact Solutions is a marketing agency in Shakopee, MN at 128 Holmes Street South, Shakopee, MN 55379. Website: https://digitalimpactsolutions.net/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/digital-impact-solutions-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/digital-impact-solutions-shakopee.json",
+   "address": {
+    "streetAddress": "128 Holmes Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.797884,
+    "lon": -93.5267674
+   },
+   "website": "https://digitalimpactsolutions.net/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024200110",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "red-e-print-inc-saint-paul",
+   "name": "Red E Print, Inc.",
+   "summary": "Red E Print, Inc. is a marketing agency in Saint Paul, MN at 101 5th Street East #211, Saint Paul, MN 55101. Phone: +16512242307.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/red-e-print-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/red-e-print-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "101 5th Street East #211",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9478072,
+    "lon": -93.0920175
+   },
+   "phone": "+16512242307",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13760993883",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "rocket55-minneapolis",
+   "name": "Rocket55",
+   "summary": "Rocket55 is a marketing agency in Minneapolis, MN at 807 Northeast Broadway Street, Minneapolis, MN 55413. Website: https://www.rocket55.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rocket55-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rocket55-minneapolis.json",
+   "address": {
+    "streetAddress": "807 Northeast Broadway Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 44.9996566,
+    "lon": -93.2501121
+   },
+   "website": "https://www.rocket55.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4745733821",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "tad-ware-and-company-minneapolis",
+   "name": "Tad Ware & Company",
+   "summary": "Tad Ware & Company is a marketing agency in Minneapolis, MN at 708 North 1st Street #336, Minneapolis, MN 55401. Website: https://tadware.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tad-ware-and-company-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tad-ware-and-company-minneapolis.json",
+   "address": {
+    "streetAddress": "708 North 1st Street #336",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9898459,
+    "lon": -93.2749742
+   },
+   "website": "https://tadware.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6029984892",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "cedar-printing-saint-paul",
+   "name": "Cedar Printing",
+   "summary": "Cedar Printing is a marketing agency in Saint Paul, MN. Website: https://www.cedarprinting.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedar-printing-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedar-printing-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9480495,
+    "lon": -93.0927105
+   },
+   "website": "https://www.cedarprinting.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13717023336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "mars-advertising-saint-louis-park",
+   "name": "Mars Advertising",
+   "summary": "Mars Advertising is a marketing agency in Saint Louis Park, MN at 5050 36th Street West, Saint Louis Park, MN 55416.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mars-advertising-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mars-advertising-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5050 36th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9381307,
+    "lon": -93.3438125
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47199084",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "tsg-the-steinhauser-group-robbinsdale",
+   "name": "TSG | The Steinhauser Group",
+   "summary": "TSG | The Steinhauser Group is a marketing agency in Robbinsdale, MN at 4181 West Broadway Avenue, Robbinsdale, MN 55422.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tsg-the-steinhauser-group-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tsg-the-steinhauser-group-robbinsdale.json",
+   "address": {
+    "streetAddress": "4181 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0312012,
+    "lon": -93.339652
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762930138",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "jumpercable-marketing-minneapolis",
+   "name": "JumperCable Marketing",
+   "summary": "JumperCable Marketing is a marketing agency in Minneapolis, MN at 4311, Minneapolis, MN.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jumpercable-marketing-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jumpercable-marketing-minneapolis.json",
+   "address": {
+    "streetAddress": "4311",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9241711,
+    "lon": -93.3146035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12983410406",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

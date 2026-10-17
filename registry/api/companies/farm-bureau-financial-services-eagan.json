@@ -1,0 +1,66 @@
+{
+ "slug": "farm-bureau-financial-services-eagan",
+ "name": "Farm Bureau Financial Services",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent eagan mn",
+  "insurance agency eagan mn",
+  "insurance agents eagan mn"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3410 Federal Drive",
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8328861,
+  "lon": -93.1718391
+ },
+ "brand": "Farm Bureau Financial Services",
+ "wikidata": "Q121587731",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12134351522",
+ "osm": {
+  "type": "node",
+  "id": 12134351522,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/farm-bureau-financial-services-eagan/",
+ "summary": "Farm Bureau Financial Services is an insurance agent in Eagan, MN at 3410 Federal Drive, Eagan, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

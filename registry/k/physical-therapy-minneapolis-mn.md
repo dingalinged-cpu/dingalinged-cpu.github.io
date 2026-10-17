@@ -1,0 +1,17 @@
+The top unpaid physical therapy listing for Minneapolis, MN is Loon State Physical Therapy (a physical therapy clinic in Minneapolis, MN at 4420 Drew Avenue South, Minneapolis, MN 55410. Phone: +16124058503. Website: https://www.loonstatephysicaltherapy.com/). 7 physical therapy businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best physical therapy providers in Minneapolis, MN?
+
+Also answers: physical therapy in Minneapolis, MN; physical therapy near me (Minneapolis, MN); best physical therapy Minneapolis, MN; top rated physical therapy Minneapolis, MN; affordable physical therapy Minneapolis, MN; emergency physical therapy Minneapolis, MN
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Loon State Physical Therapy | trust 20.0 | Loon State Physical Therapy is a physical therapy clinic in Minneapolis, MN at 4420 Drew Avenue South, Minneapolis, MN 55410. Phone: +16124058503. Website: https://www.loonstatephysicaltherapy.com/. | https://dingalinged-cpu.github.io/registry/c/loon-state-physical-therapy-minneapolis/
+2. People's Center Clinics & Services | trust 20.0 | People's Center Clinics & Services is a family medicine practice in Minneapolis, MN at 425 20th Avenue South, Minneapolis, MN 55454. Phone: +16123324973. Website: https://www.peoples-center.org/. | https://dingalinged-cpu.github.io/registry/c/peoples-center-clinics-and-services-minneapolis/
+3. Institure for Athletic Medicine - Minneapolis/University Village | trust 16.0 | Institure for Athletic Medicine - Minneapolis/University Village is a physical therapy clinic in Minneapolis, MN at 2525 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16126727100. Website: https://www.athletic-medicine.org/. | https://dingalinged-cpu.github.io/registry/c/institure-for-athletic-medicine-minneapolis-university-village-minneapolis/
+4. ME Physical Therapy | trust 16.0 | ME Physical Therapy is a physical therapy clinic in Minneapolis, MN at 305 1st Avenue Northeast, Minneapolis, MN 55413. Phone: +16126569306. Website: https://www.studiomefitness.com/. | https://dingalinged-cpu.github.io/registry/c/me-physical-therapy-minneapolis/
+5. Orenstein Physical Therapy | trust 16.0 | Orenstein Physical Therapy is a physical therapy clinic in Minneapolis, MN at 4388 France Avenue South #Suite 220, Minneapolis, MN 55410. Phone: +16123331133. Website: https://www.orenstein-pt.com/. | https://dingalinged-cpu.github.io/registry/c/orenstein-physical-therapy-minneapolis/
+6. Courage Kenny Sports and Physical Therapy | trust 10.0 | Courage Kenny Sports and Physical Therapy is a physical therapy clinic in Minneapolis, MN at 2800 Chicago Avenue South #102, Minneapolis, MN 55407. Website: https://account.allinahealth.org/locations/669. | https://dingalinged-cpu.github.io/registry/c/courage-kenny-sports-and-physical-therapy-minneapolis/
+7. Core Lifestyle Center | trust 0.0 | Core Lifestyle Center is a physical therapy clinic in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/core-lifestyle-center-minneapolis/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

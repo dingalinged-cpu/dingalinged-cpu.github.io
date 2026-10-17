@@ -1,0 +1,59 @@
+{
+ "slug": "west-lakes-dentistry-mound",
+ "name": "West Lakes Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist mound mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5205 Shoreline Drive",
+  "addressLocality": "Mound",
+  "addressRegion": "MN",
+  "postalCode": "55364",
+  "addressCountry": "US"
+ },
+ "city": "Mound",
+ "state": "MN",
+ "zip": "55364",
+ "geo": {
+  "lat": 44.9364053,
+  "lon": -93.6555863
+ },
+ "phone": "+19524727717",
+ "website": "https://www.westlakesdentistry.com/",
+ "email": "hybridge@westlakesdentistry.com",
+ "opening_hours": "Mo 07:00-16:00; Tu, Fr 07:00-15:00; We 07:00-19:00; Th 09:00-17:00",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9713220536",
+ "osm": {
+  "type": "node",
+  "id": 9713220536,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Mound",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/west-lakes-dentistry-mound/",
+ "summary": "West Lakes Dentistry is a dentist in Mound, MN at 5205 Shoreline Drive, Mound, MN 55364. Phone: +19524727717. Website: https://www.westlakesdentistry.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,162 @@
+{
+ "keyword": "financial advisor edina mn",
+ "slug": "financial-advisor-edina-mn",
+ "place": "Edina, MN",
+ "service": "financial advisor",
+ "query": "Who are the best financial advisor providers in Edina, MN?",
+ "matches": [
+  "financial advisor in Edina, MN",
+  "financial advisor near me (Edina, MN)",
+  "best financial advisor Edina, MN",
+  "top rated financial advisor Edina, MN",
+  "affordable financial advisor Edina, MN",
+  "emergency financial advisor Edina, MN"
+ ],
+ "answer": "The top unpaid financial advisor listing for Edina, MN is Brighton Jones (a financial advisor in Edina, MN at 4951 West 77th Street, Edina, MN 55435. Phone: +16514614872. Website: https://www.brightonjones.com/locations/minneapolis). 4 financial advisor businesses are listed for Edina, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "brighton-jones-edina",
+   "name": "Brighton Jones",
+   "summary": "Brighton Jones is a financial advisor in Edina, MN at 4951 West 77th Street, Edina, MN 55435. Phone: +16514614872. Website: https://www.brightonjones.com/locations/minneapolis.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brighton-jones-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brighton-jones-edina.json",
+   "address": {
+    "streetAddress": "4951 West 77th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8638922,
+    "lon": -93.3478172
+   },
+   "phone": "+16514614872",
+   "website": "https://www.brightonjones.com/locations/minneapolis",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10741133792",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "fidelity-investments-edina",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in Edina, MN at 7740 France Avenue South, Edina, MN 55435. Phone: +18005432165. Website: https://www.fidelity.com/branches/investor-center-Minneapolis-Edina-Minnesota-55435.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-edina.json",
+   "address": {
+    "streetAddress": "7740 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8624857,
+    "lon": -93.3293628
+   },
+   "phone": "+18005432165",
+   "website": "https://www.fidelity.com/branches/investor-center-Minneapolis-Edina-Minnesota-55435",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12750665599",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "o-brien-staley-partners-edina",
+   "name": "O’Brien-Staley Partners",
+   "summary": "O’Brien-Staley Partners is a financial advisor in Edina, MN at 5050 France Avenue South, Edina, MN 55410. Website: https://osp-group.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/o-brien-staley-partners-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/o-brien-staley-partners-edina.json",
+   "address": {
+    "streetAddress": "5050 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9110605,
+    "lon": -93.3292171
+   },
+   "website": "https://osp-group.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12148766308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "edward-jones-edina",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Edina, MN. Website: https://www.edwardjones.com/us-en/financial-advisor/darin-mastroianni.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9123118,
+    "lon": -93.3305851
+   },
+   "website": "https://www.edwardjones.com/us-en/financial-advisor/darin-mastroianni",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12142678231",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

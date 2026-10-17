@@ -1,0 +1,1286 @@
+{
+ "keyword": "florist",
+ "slug": "florist",
+ "place": "the United States",
+ "service": "florist",
+ "query": "Who are the best florist providers in the United States?",
+ "matches": [
+  "florist in the United States",
+  "florist near me (the United States)",
+  "best florist the United States",
+  "top rated florist the United States",
+  "affordable florist the United States",
+  "emergency florist the United States"
+ ],
+ "answer": "The top unpaid florist listing for the United States is A. Johnson & Sons Florist (a florist in Saint Paul, MN at 1738 Grand Avenue, Saint Paul, MN 55105. Phone: +16516986000. Website: https://www.jflorist.com/). 39 florist businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "a-johnson-and-sons-florist-saint-paul",
+   "name": "A. Johnson & Sons Florist",
+   "summary": "A. Johnson & Sons Florist is a florist in Saint Paul, MN at 1738 Grand Avenue, Saint Paul, MN 55105. Phone: +16516986000. Website: https://www.jflorist.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-johnson-and-sons-florist-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-johnson-and-sons-florist-saint-paul.json",
+   "address": {
+    "streetAddress": "1738 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398403,
+    "lon": -93.1739749
+   },
+   "phone": "+16516986000",
+   "website": "https://www.jflorist.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/141425771",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "flowerama-saint-paul",
+   "name": "Flowerama",
+   "summary": "Flowerama is a florist in Saint Paul, MN at 1676 Lexington Parkway North, Saint Paul, MN 55117. Phone: +16514890338. Website: https://www.floweramasp.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flowerama-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flowerama-saint-paul.json",
+   "address": {
+    "streetAddress": "1676 Lexington Parkway North",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55117",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55117",
+   "geo": {
+    "lat": 44.9917557,
+    "lon": -93.1461659
+   },
+   "phone": "+16514890338",
+   "website": "https://www.floweramasp.com/",
+   "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-17:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6554291311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "flowers-by-miss-bertha-minneapolis",
+   "name": "Flowers by Miss Bertha",
+   "summary": "Flowers by Miss Bertha is a florist in Minneapolis, MN at 2100 Nicollet Avenue, Minneapolis, MN 55404. Phone: +16128711542. Website: https://flowersbymissbertha.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flowers-by-miss-bertha-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flowers-by-miss-bertha-minneapolis.json",
+   "address": {
+    "streetAddress": "2100 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9617757,
+    "lon": -93.2780249
+   },
+   "phone": "+16128711542",
+   "website": "https://flowersbymissbertha.com/",
+   "opening_hours": "Mo-Fr 09:30-17:30; Sa 09:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617420635",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "maple-grove-floral-maple-grove",
+   "name": "Maple Grove Floral",
+   "summary": "Maple Grove Floral is a florist in Maple Grove, MN at 13708 83rd Way North, Maple Grove, MN 55369. Phone: +17632696969. Website: https://www.mathnasium.com/maplegrove.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maple-grove-floral-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maple-grove-floral-maple-grove.json",
+   "address": {
+    "streetAddress": "13708 83rd Way North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1064553,
+    "lon": -93.4541787
+   },
+   "phone": "+17632696969",
+   "website": "https://www.mathnasium.com/maplegrove",
+   "opening_hours": "Mo 15:30-19:00;Tu-Th 09:30-12:30,15:30-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/607496666",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "marthas-gardens-saint-paul",
+   "name": "Martha's Gardens",
+   "summary": "Martha's Gardens is a florist in Saint Paul, MN at 1593 Selby Avenue, Saint Paul, MN 55104. Phone: +16516962993. Website: https://marthasfloralstudio.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marthas-gardens-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marthas-gardens-saint-paul.json",
+   "address": {
+    "streetAddress": "1593 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9467105,
+    "lon": -93.1675843
+   },
+   "phone": "+16516962993",
+   "website": "https://marthasfloralstudio.com/",
+   "opening_hours": "Mo,Su off; Tu-Fr 09:00-17:00; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8787180053",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "schaaf-floral-fridley",
+   "name": "Schaaf Floral",
+   "summary": "Schaaf Floral is a florist in Fridley, MN at 8070 University Avenue Northeast, Fridley, MN 55432. Phone: +17635714600. Website: https://www.schaaffloral.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schaaf-floral-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schaaf-floral-fridley.json",
+   "address": {
+    "streetAddress": "8070 University Avenue Northeast",
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "postalCode": "55432",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "zip": "55432",
+   "geo": {
+    "lat": 45.1145375,
+    "lon": -93.2652781
+   },
+   "phone": "+17635714600",
+   "website": "https://www.schaaffloral.com/",
+   "opening_hours": "Mo-Fr 08:30-16:30; Sa 08:30-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11649844269",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "flowers-for-you-eagan",
+   "name": "Flower's for You",
+   "summary": "Flower's for You is a florist in Eagan, MN at 3400 Federal Drive, Eagan, MN. Phone: +16513304353. Website: https://flowersforyoullc.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flowers-for-you-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flowers-for-you-eagan.json",
+   "address": {
+    "streetAddress": "3400 Federal Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8330902,
+    "lon": -93.1718792
+   },
+   "phone": "+16513304353",
+   "website": "https://flowersforyoullc.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00, Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9874689917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "saint-paul-floral-saint-paul",
+   "name": "Saint Paul Floral",
+   "summary": "Saint Paul Floral is a florist in Saint Paul, MN at 960 Payne Avenue, Saint Paul, MN. Phone: +16517781661. Website: https://www.stpaulfloral.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-paul-floral-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-paul-floral-saint-paul.json",
+   "address": {
+    "streetAddress": "960 Payne Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9701389,
+    "lon": -93.0733847
+   },
+   "phone": "+16517781661",
+   "website": "https://www.stpaulfloral.com/",
+   "opening_hours": "Mo-Fr 09:30-16:00; Sa 09:30-14:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12542416437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "arts-and-flowers-inc-saint-louis-park",
+   "name": "Arts & Flowers Inc",
+   "summary": "Arts & Flowers Inc is a florist in Saint Louis Park, MN at 6011 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529208415. Website: https://www.artsflowersmn.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arts-and-flowers-inc-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arts-and-flowers-inc-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6011 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9278346,
+    "lon": -93.3563779
+   },
+   "phone": "+19529208415",
+   "website": "https://www.artsflowersmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/914286337",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "chez-bloom-minneapolis",
+   "name": "Chez Bloom",
+   "summary": "Chez Bloom is a florist in Minneapolis, MN at 4310 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16128222003. Website: https://www.chezbloom.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chez-bloom-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chez-bloom-minneapolis.json",
+   "address": {
+    "streetAddress": "4310 Bryant Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.924604,
+    "lon": -93.2910004
+   },
+   "phone": "+16128222003",
+   "website": "https://www.chezbloom.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287810998",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "fleur-de-lis-flowers-saint-paul",
+   "name": "Fleur de Lis Flowers",
+   "summary": "Fleur de Lis Flowers is a florist in Saint Paul, MN at 516 Selby Avenue, Saint Paul, MN 55102. Phone: +16512929562. Website: https://www.fleurfresh.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fleur-de-lis-flowers-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fleur-de-lis-flowers-saint-paul.json",
+   "address": {
+    "streetAddress": "516 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9464702,
+    "lon": -93.122082
+   },
+   "phone": "+16512929562",
+   "website": "https://www.fleurfresh.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3134015345",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "floral-art-by-tim-minneapolis",
+   "name": "Floral Art by Tim",
+   "summary": "Floral Art by Tim is a florist in Minneapolis, MN at 4751 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16128244526. Website: https://www.floralartbytim.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floral-art-by-tim-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floral-art-by-tim-minneapolis.json",
+   "address": {
+    "streetAddress": "4751 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9163379,
+    "lon": -93.2624454
+   },
+   "phone": "+16128244526",
+   "website": "https://www.floralartbytim.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7651142711",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "linsk-flowers-petals-at-play-saint-louis-park",
+   "name": "Linsk Flowers - Petals At Play",
+   "summary": "Linsk Flowers - Petals At Play is a florist in Saint Louis Park, MN at 5555 Lake Street West, Saint Louis Park, MN 55416. Phone: +19529203525. Website: https://www.linsk.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linsk-flowers-petals-at-play-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linsk-flowers-petals-at-play-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5555 Lake Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9480469,
+    "lon": -93.3502631
+   },
+   "phone": "+19529203525",
+   "website": "https://www.linsk.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/502990958",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "pearson-florist-shakopee",
+   "name": "Pearson Florist",
+   "summary": "Pearson Florist is a florist in Shakopee, MN at 112 Sommerville Street S, Shakopee, MN 55379. Phone: +19524454344. Website: https://www.pearsonflorist.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pearson-florist-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pearson-florist-shakopee.json",
+   "address": {
+    "streetAddress": "112 Sommerville Street S",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7986877,
+    "lon": -93.5241195
+   },
+   "phone": "+19524454344",
+   "website": "https://www.pearsonflorist.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/788972590",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "the-flower-shoppe-blaine",
+   "name": "The Flower Shoppe",
+   "summary": "The Flower Shoppe is a florist in Blaine, MN at 1041 109th Avenue Northeast, Blaine, MN 55434. Phone: +17637842532. Website: https://www.greenfingersinc.com/_index.php.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-flower-shoppe-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-flower-shoppe-blaine.json",
+   "address": {
+    "streetAddress": "1041 109th Avenue Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1687349,
+    "lon": -93.24442
+   },
+   "phone": "+17637842532",
+   "website": "https://www.greenfingersinc.com/_index.php",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731278677",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "brown-and-greene-minneapolis",
+   "name": "Brown & Greene",
+   "summary": "Brown & Greene is a florist in Minneapolis, MN at 4400 Beard Avenue South, Minneapolis, MN 55410. Website: https://www.bgfloral.net/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brown-and-greene-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brown-and-greene-minneapolis.json",
+   "address": {
+    "streetAddress": "4400 Beard Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9231201,
+    "lon": -93.3241771
+   },
+   "website": "https://www.bgfloral.net/",
+   "opening_hours": "Mo-Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12120870752",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "fleurs-de-lee-minneapolis",
+   "name": "Fleurs de Lee",
+   "summary": "Fleurs de Lee is a florist in Minneapolis, MN at 410 West 38th Street, Minneapolis, MN 55409. Phone: +16128237311.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fleurs-de-lee-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fleurs-de-lee-minneapolis.json",
+   "address": {
+    "streetAddress": "410 West 38th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.9342183,
+    "lon": -93.284942
+   },
+   "phone": "+16128237311",
+   "opening_hours": "Mo,Sa 10:00-14:00; Tu 10:00-16:00; We-Fr 10:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/743744929",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "moonlight-floral-minneapolis",
+   "name": "Moonlight Floral",
+   "summary": "Moonlight Floral is a florist in Minneapolis, MN at 2424 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128798163.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/moonlight-floral-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/moonlight-floral-minneapolis.json",
+   "address": {
+    "streetAddress": "2424 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9581777,
+    "lon": -93.2780689
+   },
+   "phone": "+16128798163",
+   "opening_hours": "08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617359208",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "the-petal-minneapolis",
+   "name": "The Petal",
+   "summary": "The Petal is a florist in Minneapolis, MN at 5029 France Avenue South, Minneapolis, MN 55410. Website: https://www.the-petal.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-petal-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-petal-minneapolis.json",
+   "address": {
+    "streetAddress": "5029 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.911685,
+    "lon": -93.3289087
+   },
+   "website": "https://www.the-petal.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa,Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12143327849",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "bayside-just-because-floral-and-gifts-spring-park",
+   "name": "Bayside Just Because...Floral and Gifts",
+   "summary": "Bayside Just Because...Floral and Gifts is a florist in Spring Park, MN at 4310 Shoreline Drive, Spring Park, MN 55384. Phone: +19524718409.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bayside-just-because-floral-and-gifts-spring-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bayside-just-because-floral-and-gifts-spring-park.json",
+   "address": {
+    "streetAddress": "4310 Shoreline Drive",
+    "addressLocality": "Spring Park",
+    "addressRegion": "MN",
+    "postalCode": "55384",
+    "addressCountry": "US"
+   },
+   "city": "Spring Park",
+   "state": "MN",
+   "zip": "55384",
+   "geo": {
+    "lat": 44.9354783,
+    "lon": -93.6323679
+   },
+   "phone": "+19524718409",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1309501920",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "columbia-gardens-ne-mpls-minneapolis",
+   "name": "Columbia Gardens NE Mpls",
+   "summary": "Columbia Gardens NE Mpls is a florist in Minneapolis, MN. Website: https://columbiagardensnempls.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/columbia-gardens-ne-mpls-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/columbia-gardens-ne-mpls-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0280108,
+    "lon": -93.2471054
+   },
+   "website": "https://columbiagardensnempls.com/",
+   "opening_hours": "Su,Mo 09:00-16:00; We-Fr 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11064271224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "lake-harriet-florist-minneapolis",
+   "name": "Lake Harriet Florist",
+   "summary": "Lake Harriet Florist is a florist in Minneapolis, MN at 5011 Penn Avenue South, Minneapolis, MN 55419. Website: https://www.lakeharrietflorist.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-harriet-florist-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-harriet-florist-minneapolis.json",
+   "address": {
+    "streetAddress": "5011 Penn Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9119799,
+    "lon": -93.3084245
+   },
+   "website": "https://www.lakeharrietflorist.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3528904002",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "love-knots-minneapolis",
+   "name": "Love Knots",
+   "summary": "Love Knots is a florist in Minneapolis, MN at 4441 Aldrich Avenue South, Minneapolis, MN 55419. Phone: +16126055646.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/love-knots-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/love-knots-minneapolis.json",
+   "address": {
+    "streetAddress": "4441 Aldrich Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9218942,
+    "lon": -93.2893139
+   },
+   "phone": "+16126055646",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287810993",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "planty-queens-minneapolis",
+   "name": "Planty Queens",
+   "summary": "Planty Queens is a florist in Minneapolis, MN. Website: https://plantyqueens.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planty-queens-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planty-queens-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0189314,
+    "lon": -93.2369747
+   },
+   "website": "https://plantyqueens.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11072105023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "a-pocket-full-of-posies-saint-paul",
+   "name": "A Pocket Full of Posies",
+   "summary": "A Pocket Full of Posies is a florist in Saint Paul, MN at 141 4th Street East, Saint Paul, MN 55101.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-pocket-full-of-posies-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-pocket-full-of-posies-saint-paul.json",
+   "address": {
+    "streetAddress": "141 4th Street East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9469175,
+    "lon": -93.0898351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13716765503",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "belladonna-florist-eden-prairie",
+   "name": "Belladonna Florist",
+   "summary": "Belladonna Florist is a florist in Eden Prairie, MN at 8433 Joiner Way, Eden Prairie, MN 55344.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/belladonna-florist-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/belladonna-florist-eden-prairie.json",
+   "address": {
+    "streetAddress": "8433 Joiner Way",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8506901,
+    "lon": -93.4307539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12021287793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "chanhassen-floral-chanhassen",
+   "name": "Chanhassen Floral",
+   "summary": "Chanhassen Floral is a florist in Chanhassen, MN at 7880 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-floral-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanhassen-floral-chanhassen.json",
+   "address": {
+    "streetAddress": "7880 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8606316,
+    "lon": -93.540062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789783",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "floreria-yare-minneapolis",
+   "name": "Floreria Yare",
+   "summary": "Floreria Yare is a florist in Minneapolis, MN at 417 East Lake Street #81, Minneapolis, MN 55408.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floreria-yare-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floreria-yare-minneapolis.json",
+   "address": {
+    "streetAddress": "417 East Lake Street #81",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9480807,
+    "lon": -93.2692638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626275429",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "acanthus-floral-art-shop-minneapolis",
+   "name": "Acanthus Floral Art Shop",
+   "summary": "Acanthus Floral Art Shop is a florist in Minneapolis, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acanthus-floral-art-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acanthus-floral-art-shop-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9311419,
+    "lon": -93.247607
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1627302270",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "artistic-floral-edina",
+   "name": "Artistic Floral",
+   "summary": "Artistic Floral is a florist in Edina, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/artistic-floral-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/artistic-floral-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.892328,
+    "lon": -93.3395939
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812520529",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "chase-minneapolis",
+   "name": "Chase",
+   "summary": "Chase is a florist in Minneapolis, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chase-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chase-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9629035,
+    "lon": -93.2579487
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/62260785",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "flower-bar-minneapolis",
+   "name": "Flower Bar",
+   "summary": "Flower Bar is a florist in Minneapolis, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flower-bar-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flower-bar-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9526555,
+    "lon": -93.2883271
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12840983398",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "fresh-flowers-and-gifts-saint-paul",
+   "name": "Fresh Flowers & Gifts",
+   "summary": "Fresh Flowers & Gifts is a florist in Saint Paul, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fresh-flowers-and-gifts-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fresh-flowers-and-gifts-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9741753,
+    "lon": -93.0733208
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605070040",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "jandrich-floral-saint-paul",
+   "name": "Jandrich Floral",
+   "summary": "Jandrich Floral is a florist in Saint Paul, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jandrich-floral-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jandrich-floral-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9274624,
+    "lon": -93.1268584
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3095001943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "main-floral-anoka",
+   "name": "Main Floral",
+   "summary": "Main Floral is a florist in Anoka, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/main-floral-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/main-floral-anoka.json",
+   "address": {
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1981223,
+    "lon": -93.3898342
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5599281246",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "rose-shop-minneapolis",
+   "name": "Rose Shop",
+   "summary": "Rose Shop is a florist in Minneapolis, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rose-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rose-shop-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.008058,
+    "lon": -93.2366803
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11061276800",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "rosie-posie-edina",
+   "name": "Rosie Posie",
+   "summary": "Rosie Posie is a florist in Edina, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rosie-posie-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rosie-posie-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8924008,
+    "lon": -93.3398828
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812520530",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "soderburgs-minneapolis",
+   "name": "Soderburg's",
+   "summary": "Soderburg's is a florist in Minneapolis, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/soderburgs-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/soderburgs-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482133,
+    "lon": -93.2240254
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12329393899",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "studio-emme-minneapolis",
+   "name": "Studio Emme",
+   "summary": "Studio Emme is a florist in Minneapolis, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-emme-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-emme-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9340267,
+    "lon": -93.2324745
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12091042012",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

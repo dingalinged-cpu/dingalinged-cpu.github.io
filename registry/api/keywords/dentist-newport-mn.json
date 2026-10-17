@@ -1,0 +1,62 @@
+{
+ "keyword": "dentist newport mn",
+ "slug": "dentist-newport-mn",
+ "place": "Newport, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Newport, MN?",
+ "matches": [
+  "dentist in Newport, MN",
+  "dentist near me (Newport, MN)",
+  "best dentist Newport, MN",
+  "top rated dentist Newport, MN",
+  "affordable dentist Newport, MN",
+  "emergency dentist Newport, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Newport, MN is Roscher Dental Group (a dentist in Newport, MN at 1590 Hastings Avenue, Newport, MN 55055. Website: https://www.roscherdental.com/). 1 dentist businesses are listed for Newport, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "roscher-dental-group-newport",
+   "name": "Roscher Dental Group",
+   "summary": "Roscher Dental Group is a dentist in Newport, MN at 1590 Hastings Avenue, Newport, MN 55055. Website: https://www.roscherdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roscher-dental-group-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roscher-dental-group-newport.json",
+   "address": {
+    "streetAddress": "1590 Hastings Avenue",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.8729104,
+    "lon": -92.9990879
+   },
+   "website": "https://www.roscherdental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/976791070",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

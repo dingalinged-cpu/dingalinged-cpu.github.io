@@ -1,0 +1,57 @@
+{
+ "slug": "electric-city-corporation-saint-louis-park",
+ "name": "Electric City Corporation",
+ "categories": [
+  "electrician"
+ ],
+ "keywords": [
+  "electrician",
+  "electrician saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "electrician",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3230 Gorham Avenue #2",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55426",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55426",
+ "geo": {
+  "lat": 44.943945,
+  "lon": -93.3703396
+ },
+ "phone": "+19524068238",
+ "website": "https://electriccitycorp.com/",
+ "email": "info@electriccitycorp.com",
+ "schema_type": "Electrician",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9521433864",
+ "osm": {
+  "type": "node",
+  "id": 9521433864,
+  "tags_used": {
+   "craft": "electrician"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/electric-city-corporation-saint-louis-park/",
+ "summary": "Electric City Corporation is an electrician in Saint Louis Park, MN at 3230 Gorham Avenue #2, Saint Louis Park, MN 55426. Phone: +19524068238. Website: https://electriccitycorp.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

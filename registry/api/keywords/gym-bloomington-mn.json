@@ -1,0 +1,164 @@
+{
+ "keyword": "gym bloomington mn",
+ "slug": "gym-bloomington-mn",
+ "place": "Bloomington, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in Bloomington, MN?",
+ "matches": [
+  "gym in Bloomington, MN",
+  "gym near me (Bloomington, MN)",
+  "best gym Bloomington, MN",
+  "top rated gym Bloomington, MN",
+  "affordable gym Bloomington, MN",
+  "emergency gym Bloomington, MN"
+ ],
+ "answer": "The top unpaid gym listing for Bloomington, MN is Life Time (a gym in Bloomington, MN at 5250 West 84th Street, Bloomington, MN 55437. Phone: +19528352222. Website: https://www.lifetime.life/life-time-locations/mn-bloomington-north.html). 4 gym businesses are listed for Bloomington, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "life-time-bloomington-w103422607",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Bloomington, MN at 5250 West 84th Street, Bloomington, MN 55437. Phone: +19528352222. Website: https://www.lifetime.life/life-time-locations/mn-bloomington-north.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-bloomington-w103422607/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-bloomington-w103422607.json",
+   "address": {
+    "streetAddress": "5250 West 84th Street",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55437",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55437",
+   "geo": {
+    "lat": 44.8535261,
+    "lon": -93.346769
+   },
+   "phone": "+19528352222",
+   "website": "https://www.lifetime.life/life-time-locations/mn-bloomington-north.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/103422607",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "life-time-bloomington",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Bloomington, MN at 1001 West 98th Street, Bloomington, MN 55431. Phone: +19528307900. Website: https://www.lifetime.life/life-time-locations/mn-bloomington-south.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-bloomington.json",
+   "address": {
+    "streetAddress": "1001 West 98th Street",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.82355,
+    "lon": -93.2928803
+   },
+   "phone": "+19528307900",
+   "website": "https://www.lifetime.life/life-time-locations/mn-bloomington-south.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/5427970",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "anytime-fitness-bloomington",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Bloomington, MN at 5107 West 98th Street, Bloomington, MN 55437. Website: https://www.anytimefitness.com/locations/bloomington-minnesota-1700.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-bloomington.json",
+   "address": {
+    "streetAddress": "5107 West 98th Street",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55437",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55437",
+   "geo": {
+    "lat": 44.824552,
+    "lon": -93.3470531
+   },
+   "website": "https://www.anytimefitness.com/locations/bloomington-minnesota-1700",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1168049768",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "planet-fitness-bloomington",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Bloomington, MN at France Avenue South, Bloomington, MN 55431.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-bloomington.json",
+   "address": {
+    "streetAddress": "France Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8114592,
+    "lon": -93.3324482
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13783820557",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

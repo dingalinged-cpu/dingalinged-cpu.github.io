@@ -1,0 +1,52 @@
+{
+ "slug": "viverant-eagan",
+ "name": "viverant",
+ "categories": [
+  "physical therapy"
+ ],
+ "keywords": [
+  "physical therapy",
+  "physical therapy eagan mn"
+ ],
+ "services": [
+  {
+   "name": "physical therapy",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3365 #100",
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "geo": {
+  "lat": 44.8356999,
+  "lon": -93.169981
+ },
+ "schema_type": "Physiotherapy",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12724654227",
+ "osm": {
+  "type": "node",
+  "id": 12724654227,
+  "tags_used": {
+   "healthcare": "physiotherapist"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/viverant-eagan/",
+ "summary": "viverant is a physical therapy clinic in Eagan, MN at 3365 #100, Eagan, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

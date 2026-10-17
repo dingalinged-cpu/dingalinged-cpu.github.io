@@ -1,0 +1,317 @@
+{
+ "keyword": "mechanic west saint paul mn",
+ "slug": "mechanic-west-saint-paul-mn",
+ "place": "West Saint Paul, MN",
+ "service": "mechanic",
+ "query": "Who are the best mechanic providers in West Saint Paul, MN?",
+ "matches": [
+  "mechanic in West Saint Paul, MN",
+  "mechanic near me (West Saint Paul, MN)",
+  "best mechanic West Saint Paul, MN",
+  "top rated mechanic West Saint Paul, MN",
+  "affordable mechanic West Saint Paul, MN",
+  "emergency mechanic West Saint Paul, MN"
+ ],
+ "answer": "The top unpaid mechanic listing for West Saint Paul, MN is Zak's Auto Service (an auto repair shop in West Saint Paul, MN at 995 Dodd Road, West Saint Paul, MN 55118. Phone: +16514571043. Website: https://www.zaksautoservice.com/services). 9 mechanic businesses are listed for West Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "zaks-auto-service-west-saint-paul",
+   "name": "Zak's Auto Service",
+   "summary": "Zak's Auto Service is an auto repair shop in West Saint Paul, MN at 995 Dodd Road, West Saint Paul, MN 55118. Phone: +16514571043. Website: https://www.zaksautoservice.com/services.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zaks-auto-service-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zaks-auto-service-west-saint-paul.json",
+   "address": {
+    "streetAddress": "995 Dodd Road",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.916018,
+    "lon": -93.1024112
+   },
+   "phone": "+16514571043",
+   "website": "https://www.zaksautoservice.com/services",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/486838488",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "valvoline-west-saint-paul",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in West Saint Paul, MN at 1126 Robert Street South, West Saint Paul, MN 55118. Website: https://store.vioc.com/mn/stpaul/oil-change-010013.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1126 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.912149,
+    "lon": -93.0801909
+   },
+   "website": "https://store.vioc.com/mn/stpaul/oil-change-010013.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527077137",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "caliber-collision-west-saint-paul",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in West Saint Paul, MN at 130 Thompson Avenue East, West Saint Paul, MN 55118.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-west-saint-paul.json",
+   "address": {
+    "streetAddress": "130 Thompson Avenue East",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9010656,
+    "lon": -93.0795713
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527080208",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "elite-auto-accessories-west-saint-paul",
+   "name": "Elite Auto Accessories",
+   "summary": "Elite Auto Accessories is an auto repair shop in West Saint Paul, MN at 78 - 84 Moreland Avenue East, West Saint Paul, MN 55118.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-auto-accessories-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-auto-accessories-west-saint-paul.json",
+   "address": {
+    "streetAddress": "78 - 84 Moreland Avenue East",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9085223,
+    "lon": -93.081566
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527077602",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "firestone-west-saint-paul",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in West Saint Paul, MN at 1170 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1170 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9108097,
+    "lon": -93.0800931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527077227",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "jiffy-lube-west-saint-paul",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in West Saint Paul, MN at 1244 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1244 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9085721,
+    "lon": -93.0802784
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527077604",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "midas-west-saint-paul",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in West Saint Paul, MN at 1450 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1450 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9023835,
+    "lon": -93.0801656
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527080193",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "paces-tire-and-service-center-west-saint-paul",
+   "name": "Pace's Tire & Service Center",
+   "summary": "Pace's Tire & Service Center is an auto repair shop in West Saint Paul, MN at 1247 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paces-tire-and-service-center-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paces-tire-and-service-center-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1247 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9084904,
+    "lon": -93.0811211
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527077653",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "bobby-and-steves-west-saint-paul",
+   "name": "Bobby & Steve's",
+   "summary": "Bobby & Steve's is an auto repair shop in West Saint Paul, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobby-and-steves-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobby-and-steves-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8914033,
+    "lon": -93.0801585
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1374807827",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

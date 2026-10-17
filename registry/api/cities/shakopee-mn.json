@@ -1,0 +1,2174 @@
+{
+ "place": "Shakopee, MN",
+ "slug": "shakopee-mn",
+ "count": 65,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-shakopee-mn.json"
+  },
+  {
+   "keyword": "auto repair shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-shakopee-mn.json"
+  },
+  {
+   "keyword": "bakery shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-shakopee-mn.json"
+  },
+  {
+   "keyword": "bike shop shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-shakopee-mn.json"
+  },
+  {
+   "keyword": "car inspection shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-inspection-shakopee-mn.json"
+  },
+  {
+   "keyword": "car wash shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-shakopee-mn.json"
+  },
+  {
+   "keyword": "chiropractor shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-shakopee-mn.json"
+  },
+  {
+   "keyword": "dance studio shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-shakopee-mn.json"
+  },
+  {
+   "keyword": "daycare shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-shakopee-mn.json"
+  },
+  {
+   "keyword": "dentist shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-shakopee-mn.json"
+  },
+  {
+   "keyword": "dog groomer shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-shakopee-mn.json"
+  },
+  {
+   "keyword": "event venues shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-shakopee-mn.json"
+  },
+  {
+   "keyword": "eye doctor shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-shakopee-mn.json"
+  },
+  {
+   "keyword": "financial advisor shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-shakopee-mn.json"
+  },
+  {
+   "keyword": "florist shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-shakopee-mn.json"
+  },
+  {
+   "keyword": "funeral home shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-shakopee-mn.json"
+  },
+  {
+   "keyword": "furniture store shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-shakopee-mn.json"
+  },
+  {
+   "keyword": "gift shop shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-shakopee-mn.json"
+  },
+  {
+   "keyword": "gym shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-shakopee-mn.json"
+  },
+  {
+   "keyword": "hair salon shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-shakopee-mn.json"
+  },
+  {
+   "keyword": "haircut shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-shakopee-mn.json"
+  },
+  {
+   "keyword": "insurance agency shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-shakopee-mn.json"
+  },
+  {
+   "keyword": "insurance agent shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-shakopee-mn.json"
+  },
+  {
+   "keyword": "insurance agents shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-shakopee-mn.json"
+  },
+  {
+   "keyword": "jewelry store shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-shakopee-mn.json"
+  },
+  {
+   "keyword": "landscaping shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/landscaping-shakopee-mn.json"
+  },
+  {
+   "keyword": "lawyer shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-shakopee-mn.json"
+  },
+  {
+   "keyword": "liquor store shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-shakopee-mn.json"
+  },
+  {
+   "keyword": "marketing agency shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/marketing-agency-shakopee-mn.json"
+  },
+  {
+   "keyword": "martial arts shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-shakopee-mn.json"
+  },
+  {
+   "keyword": "mechanic shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-shakopee-mn.json"
+  },
+  {
+   "keyword": "real estate agent shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-shakopee-mn.json"
+  },
+  {
+   "keyword": "realtor shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-shakopee-mn.json"
+  },
+  {
+   "keyword": "staffing agency shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-shakopee-mn.json"
+  },
+  {
+   "keyword": "storage units shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-shakopee-mn.json"
+  },
+  {
+   "keyword": "tanning salon shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-shakopee-mn.json"
+  },
+  {
+   "keyword": "tattoo shop shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-shakopee-mn.json"
+  },
+  {
+   "keyword": "tax preparation shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-shakopee-mn.json"
+  },
+  {
+   "keyword": "tax preparer shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-shakopee-mn.json"
+  },
+  {
+   "keyword": "tire shop shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-shakopee-mn.json"
+  },
+  {
+   "keyword": "used cars for sale shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-shakopee-mn.json"
+  },
+  {
+   "keyword": "vet shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-shakopee-mn.json"
+  },
+  {
+   "keyword": "yoga classes shakopee mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-shakopee-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "5-tan-shakopee",
+   "name": "$5 Tan",
+   "summary": "$5 Tan is a tanning salon in Shakopee, MN at 1102 Vierling Drive East, Shakopee, MN 55379. Phone: +19524020800. Website: https://5dollartan.com/l.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-tan-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-tan-shakopee.json",
+   "address": {
+    "streetAddress": "1102 Vierling Drive East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7818187,
+    "lon": -93.5091018
+   },
+   "phone": "+19524020800",
+   "website": "https://5dollartan.com/l",
+   "opening_hours": "Mo-Fr 8:00-20:00; Sa-Su 8:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/535792767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "automotive-repair-center-shakopee",
+   "name": "Automotive Repair Center",
+   "summary": "Automotive Repair Center is an auto repair shop in Shakopee, MN at 936 1st Avenue East, Shakopee, MN 55379. Phone: +19524457776. Website: https://affordablecarrepair.biz/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/automotive-repair-center-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/automotive-repair-center-shakopee.json",
+   "address": {
+    "streetAddress": "936 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7999148,
+    "lon": -93.5142029
+   },
+   "phone": "+19524457776",
+   "website": "https://affordablecarrepair.biz/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968821018",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "farmers-insurance-shakopee",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Shakopee, MN at 132 Holmes Street South, Shakopee, MN 55379. Phone: +19529422082. Website: https://agents.farmers.com/mn/shakopee/tim-whitcomb.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-shakopee.json",
+   "address": {
+    "streetAddress": "132 Holmes Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7978366,
+    "lon": -93.5267573
+   },
+   "phone": "+19529422082",
+   "website": "https://agents.farmers.com/mn/shakopee/tim-whitcomb",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024200111",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mgm-auto-sales-shakopee",
+   "name": "MGM Auto Sales",
+   "summary": "MGM Auto Sales is an used car dealer in Shakopee, MN at 804 1st Avenue East, Shakopee, MN 55379. Phone: +19522331631. Website: https://www.wheels-and-dealsmn.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-auto-sales-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-auto-sales-shakopee.json",
+   "address": {
+    "streetAddress": "804 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7995535,
+    "lon": -93.516198
+   },
+   "phone": "+19522331631",
+   "website": "https://www.wheels-and-dealsmn.com/",
+   "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/309759981",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pauls-bicycle-shop-shakopee",
+   "name": "Paul's Bicycle Shop",
+   "summary": "Paul's Bicycle Shop is a bike shop in Shakopee, MN at 120 Holmes Street South, Shakopee, MN 55379. Phone: +19526886820. Website: https://www.paulsbicyclerepair.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pauls-bicycle-shop-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pauls-bicycle-shop-shakopee.json",
+   "address": {
+    "streetAddress": "120 Holmes Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7981365,
+    "lon": -93.5268437
+   },
+   "phone": "+19526886820",
+   "website": "https://www.paulsbicyclerepair.com/",
+   "opening_hours": "Tu-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024200108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "progessive-dental-shakopee",
+   "name": "Progessive Dental",
+   "summary": "Progessive Dental is a dentist in Shakopee, MN at 1036 1st Avenue East #100, Shakopee, MN 55379. Phone: +19524456220. Website: https://progressivedentalmn.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/progessive-dental-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/progessive-dental-shakopee.json",
+   "address": {
+    "streetAddress": "1036 1st Avenue East #100",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7999264,
+    "lon": -93.5134251
+   },
+   "phone": "+19524456220",
+   "website": "https://progressivedentalmn.com/",
+   "opening_hours": "Mo 08:00-17:00; Tu-We 09:00-19:00; Th 07:00-17:00; Fr 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8963308986",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "real-gem-jewelers-shakopee",
+   "name": "Real Gem Jewelers",
+   "summary": "Real Gem Jewelers is a jewelry store in Shakopee, MN at 108 1st Avenue East, Shakopee, MN 55379. Phone: +19524962000. Website: https://www.realgemjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/real-gem-jewelers-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/real-gem-jewelers-shakopee.json",
+   "address": {
+    "streetAddress": "108 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.798486,
+    "lon": -93.5263974
+   },
+   "phone": "+19524962000",
+   "website": "https://www.realgemjewelers.com/",
+   "opening_hours": "Mo-Fr 10:00-17:30; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389116",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "trusted-wrench-shakopee",
+   "name": "Trusted Wrench",
+   "summary": "Trusted Wrench is an auto repair shop in Shakopee, MN at 104 Market Street North, Shakopee, MN 55379. Phone: +19522065456. Website: https://www.midas.com/minneapolis/store.aspx?shopnum=2163&dmanum=576001.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trusted-wrench-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trusted-wrench-shakopee.json",
+   "address": {
+    "streetAddress": "104 Market Street North",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.799921,
+    "lon": -93.5184952
+   },
+   "phone": "+19522065456",
+   "website": "https://www.midas.com/minneapolis/store.aspx?shopnum=2163&dmanum=576001",
+   "opening_hours": "Mo-Fr 07:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/941977786",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tuans-auto-body-collision-and-paint-shakopee",
+   "name": "Tuan's Auto Body. Collision & Paint",
+   "summary": "Tuan's Auto Body. Collision & Paint is an auto repair shop in Shakopee, MN at 981 Bluff Avenue East, Shakopee, MN 55379. Phone: +16127019249. Website: https://tuansautobody.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tuans-auto-body-collision-and-paint-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tuans-auto-body-collision-and-paint-shakopee.json",
+   "address": {
+    "streetAddress": "981 Bluff Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.8013738,
+    "lon": -93.5144708
+   },
+   "phone": "+16127019249",
+   "website": "https://tuansautobody.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/309238326",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anytime-fitness-shakopee",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Shakopee, MN at 1206 Shakopee Town Square, Shakopee, MN 55379. Phone: +19522338155. Website: https://www.anytimefitness.com/gyms/1055/shakopee-mn-55379/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-shakopee.json",
+   "address": {
+    "streetAddress": "1206 Shakopee Town Square",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7835541,
+    "lon": -93.5548464
+   },
+   "phone": "+19522338155",
+   "website": "https://www.anytimefitness.com/gyms/1055/shakopee-mn-55379/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8948775284",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ballard-sunder-funeral-and-cremation-reception-center-shakopee",
+   "name": "Ballard-Sunder Funeral and Cremation Reception Center",
+   "summary": "Ballard-Sunder Funeral and Cremation Reception Center is a funeral home in Shakopee, MN at 833 Marschall Road, Shakopee, MN 55379. Phone: +19524451202. Website: https://www.ballardsunderfuneral.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ballard-sunder-funeral-and-cremation-reception-center-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ballard-sunder-funeral-and-cremation-reception-center-shakopee.json",
+   "address": {
+    "streetAddress": "833 Marschall Road",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7910795,
+    "lon": -93.507047
+   },
+   "phone": "+19524451202",
+   "website": "https://www.ballardsunderfuneral.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/246927895",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bobs-lawn-and-landscape-shakopee",
+   "name": "Bob's Lawn & Landscape",
+   "summary": "Bob's Lawn & Landscape is a landscaping company in Shakopee, MN at 406 1st Avenue West, Shakopee, MN 55379. Phone: +19524452326. Website: https://www.bobslawnandlandscaping.net/.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bobs-lawn-and-landscape-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bobs-lawn-and-landscape-shakopee.json",
+   "address": {
+    "streetAddress": "406 1st Avenue West",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7975625,
+    "lon": -93.5313201
+   },
+   "phone": "+19524452326",
+   "website": "https://www.bobslawnandlandscaping.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/60114231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "canterbury-chiropractic-shakopee",
+   "name": "Canterbury Chiropractic",
+   "summary": "Canterbury Chiropractic is a chiropractor in Shakopee, MN at 135 1st Avenue East, Shakopee, MN 55379. Phone: +19523781813. Website: https://www.canterburychiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canterbury-chiropractic-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canterbury-chiropractic-shakopee.json",
+   "address": {
+    "streetAddress": "135 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7988017,
+    "lon": -93.5260901
+   },
+   "phone": "+19523781813",
+   "website": "https://www.canterburychiropractic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024286874",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crazy-lady-ink-shakopee",
+   "name": "Crazy Lady Ink",
+   "summary": "Crazy Lady Ink is a tattoo shop in Shakopee, MN at 110 1st Avenue East, Shakopee, MN 55379. Phone: +19524453281. Website: https://www.crazyladyink.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crazy-lady-ink-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crazy-lady-ink-shakopee.json",
+   "address": {
+    "streetAddress": "110 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7984905,
+    "lon": -93.5263264
+   },
+   "phone": "+19524453281",
+   "website": "https://www.crazyladyink.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024231938",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dave-brown-realtors-shakopee",
+   "name": "Dave Brown Realtors",
+   "summary": "Dave Brown Realtors is a real estate agency in Shakopee, MN at 100 Fuller Street South #Suite 105, Shakopee, MN 55379. Phone: +19524458155. Website: https://www.davebrownrealtors.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dave-brown-realtors-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dave-brown-realtors-shakopee.json",
+   "address": {
+    "streetAddress": "100 Fuller Street South #Suite 105",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7982486,
+    "lon": -93.5283907
+   },
+   "phone": "+19524458155",
+   "website": "https://www.davebrownrealtors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9025252359",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "doggie-doos-spa-and-retreat-shakopee",
+   "name": "Doggie Doo's Spa and Retreat",
+   "summary": "Doggie Doo's Spa and Retreat is a dog groomer in Shakopee, MN at 2555 Vierling Drive West, Shakopee, MN 55379. Phone: +19524455262. Website: https://www.doggiedoosspaandretreat.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doggie-doos-spa-and-retreat-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doggie-doos-spa-and-retreat-shakopee.json",
+   "address": {
+    "streetAddress": "2555 Vierling Drive West",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7839845,
+    "lon": -93.5570019
+   },
+   "phone": "+19524455262",
+   "website": "https://www.doggiedoosspaandretreat.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/966565468",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "flagship-insurance-services-shakopee",
+   "name": "Flagship Insurance Services",
+   "summary": "Flagship Insurance Services is an insurance agent in Shakopee, MN at 230 1st Avenue East, Shakopee, MN 55379. Phone: +18007867208. Website: https://flagshipinsuranceservices.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flagship-insurance-services-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flagship-insurance-services-shakopee.json",
+   "address": {
+    "streetAddress": "230 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7987437,
+    "lon": -93.524342
+   },
+   "phone": "+18007867208",
+   "website": "https://flagshipinsuranceservices.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389147",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goldsmith-eye-care-shakopee",
+   "name": "Goldsmith Eye Care",
+   "summary": "Goldsmith Eye Care is an eye care practice in Shakopee, MN at 1127 Shakopee Town Square, Shakopee, MN 55379. Phone: +19524451132. Website: https://www.goldsmitheye.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goldsmith-eye-care-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goldsmith-eye-care-shakopee.json",
+   "address": {
+    "streetAddress": "1127 Shakopee Town Square",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.784891,
+    "lon": -93.5539821
+   },
+   "phone": "+19524451132",
+   "website": "https://www.goldsmitheye.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8948775278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "h-and-r-block-shakopee",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Shakopee, MN at 102 1st Avenue East, Shakopee, MN 55379. Phone: +19524457167. Website: https://www.hrblock.com/local-tax-offices/minnesota/shakopee/102-1st-ave/22842/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-shakopee.json",
+   "address": {
+    "streetAddress": "102 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7984681,
+    "lon": -93.5265429
+   },
+   "phone": "+19524457167",
+   "website": "https://www.hrblock.com/local-tax-offices/minnesota/shakopee/102-1st-ave/22842/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024231939",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hennens-auto-service-shakopee",
+   "name": "Hennen's Auto Service",
+   "summary": "Hennen's Auto Service is an auto repair shop in Shakopee, MN at 807 1st Avenue East, Shakopee, MN 55379. Phone: +19524452478. Website: https://www.hennensautoservice.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hennens-auto-service-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hennens-auto-service-shakopee.json",
+   "address": {
+    "streetAddress": "807 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.8002727,
+    "lon": -93.5163693
+   },
+   "phone": "+19524452478",
+   "website": "https://www.hennensautoservice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/306476753",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "home-choice-shakopee",
+   "name": "Home Choice",
+   "summary": "Home Choice is a furniture store in Shakopee, MN at 1136 Vierling Drive East, Shakopee, MN 55379. Phone: +19523560936. Website: https://www.homechoicestores.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/home-choice-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/home-choice-shakopee.json",
+   "address": {
+    "streetAddress": "1136 Vierling Drive East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.780926,
+    "lon": -93.5084634
+   },
+   "phone": "+19523560936",
+   "website": "https://www.homechoicestores.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8936006733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "main-street-veterinary-service-shakopee",
+   "name": "Main Street Veterinary Service",
+   "summary": "Main Street Veterinary Service is a veterinarian in Shakopee, MN at 536 1st Avenue East, Shakopee, MN 55379. Phone: +19524455222. Website: https://msvets.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/main-street-veterinary-service-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/main-street-veterinary-service-shakopee.json",
+   "address": {
+    "streetAddress": "536 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.799272,
+    "lon": -93.5197834
+   },
+   "phone": "+19524455222",
+   "website": "https://msvets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8928738839",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "marschall-road-animal-hospital-shakopee",
+   "name": "Marschall Road Animal Hospital",
+   "summary": "Marschall Road Animal Hospital is a veterinarian in Shakopee, MN at 1176 Vierling Drive East, Shakopee, MN 55379. Phone: +19524457956. Website: https://www.marschallroadvet.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marschall-road-animal-hospital-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marschall-road-animal-hospital-shakopee.json",
+   "address": {
+    "streetAddress": "1176 Vierling Drive East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7806977,
+    "lon": -93.5099358
+   },
+   "phone": "+19524457956",
+   "website": "https://www.marschallroadvet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/536308348",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "metropolitan-dance-alliance-shakopee",
+   "name": "Metropolitan Dance Alliance",
+   "summary": "Metropolitan Dance Alliance is a dance studio in Shakopee, MN at 1159 Shakopee Town Square, Shakopee, MN 55379. Phone: +19524452330. Website: https://metropolitandancealliance.com/.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metropolitan-dance-alliance-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metropolitan-dance-alliance-shakopee.json",
+   "address": {
+    "streetAddress": "1159 Shakopee Town Square",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7841645,
+    "lon": -93.5545624
+   },
+   "phone": "+19524452330",
+   "website": "https://metropolitandancealliance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8948775281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pearson-florist-shakopee",
+   "name": "Pearson Florist",
+   "summary": "Pearson Florist is a florist in Shakopee, MN at 112 Sommerville Street S, Shakopee, MN 55379. Phone: +19524454344. Website: https://www.pearsonflorist.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pearson-florist-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pearson-florist-shakopee.json",
+   "address": {
+    "streetAddress": "112 Sommerville Street S",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7986877,
+    "lon": -93.5241195
+   },
+   "phone": "+19524454344",
+   "website": "https://www.pearsonflorist.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/788972590",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "river-valley-montessori-and-child-care-shakopee",
+   "name": "River Valley Montessori & Child Care",
+   "summary": "River Valley Montessori & Child Care is a daycare in Shakopee, MN at 110 Prairie Street North, Shakopee, MN 55379. Phone: +19522224044. Website: https://rivervalleymontessori.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/river-valley-montessori-and-child-care-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/river-valley-montessori-and-child-care-shakopee.json",
+   "address": {
+    "streetAddress": "110 Prairie Street North",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.8004816,
+    "lon": -93.5144777
+   },
+   "phone": "+19522224044",
+   "website": "https://rivervalleymontessori.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968814325",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "scott-county-mini-storage-shakopee",
+   "name": "Scott County Mini Storage",
+   "summary": "Scott County Mini Storage is a self-storage facility in Shakopee, MN at 240 Shumway Street South #Suite 600, Shakopee, MN 55379. Phone: +19524456858. Website: https://www.shakopeestorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scott-county-mini-storage-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scott-county-mini-storage-shakopee.json",
+   "address": {
+    "streetAddress": "240 Shumway Street South #Suite 600",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7964045,
+    "lon": -93.5340239
+   },
+   "phone": "+19524456858",
+   "website": "https://www.shakopeestorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812524624",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shakopee-eyecare-and-vision-clinic-shakopee",
+   "name": "Shakopee Eyecare and Vision Clinic",
+   "summary": "Shakopee Eyecare and Vision Clinic is an eye care practice in Shakopee, MN at 312 1st Avenue East, Shakopee, MN 55379. Phone: +19524454474. Website: https://chaskaeyecare.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shakopee-eyecare-and-vision-clinic-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shakopee-eyecare-and-vision-clinic-shakopee.json",
+   "address": {
+    "streetAddress": "312 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7987715,
+    "lon": -93.5233224
+   },
+   "phone": "+19524454474",
+   "website": "https://chaskaeyecare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/289380689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "underground-jiu-jitsu-shakopee",
+   "name": "Underground Jiu-Jitsu",
+   "summary": "Underground Jiu-Jitsu is a martial arts school in Shakopee, MN at 215 1st Avenue East, Shakopee, MN 55379. Phone: +19523888737. Website: https://undergroundjj.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/underground-jiu-jitsu-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/underground-jiu-jitsu-shakopee.json",
+   "address": {
+    "streetAddress": "215 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7989313,
+    "lon": -93.5251137
+   },
+   "phone": "+19523888737",
+   "website": "https://undergroundjj.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389081",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "zager-family-chiropractic-shakopee",
+   "name": "Zager Family Chiropractic",
+   "summary": "Zager Family Chiropractic is a chiropractor in Shakopee, MN at 1164 Vierling Drive East, Shakopee, MN 55379. Phone: +19522978840. Website: https://www.zagerfamilychiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zager-family-chiropractic-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zager-family-chiropractic-shakopee.json",
+   "address": {
+    "streetAddress": "1164 Vierling Drive East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7808521,
+    "lon": -93.5099204
+   },
+   "phone": "+19522978840",
+   "website": "https://www.zagerfamilychiro.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8936076524",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "digital-impact-solutions-shakopee",
+   "name": "Digital Impact Solutions",
+   "summary": "Digital Impact Solutions is a marketing agency in Shakopee, MN at 128 Holmes Street South, Shakopee, MN 55379. Website: https://digitalimpactsolutions.net/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/digital-impact-solutions-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/digital-impact-solutions-shakopee.json",
+   "address": {
+    "streetAddress": "128 Holmes Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.797884,
+    "lon": -93.5267674
+   },
+   "website": "https://digitalimpactsolutions.net/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024200110",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alphabet-junction-childcare-shakopee",
+   "name": "Alphabet Junction Childcare",
+   "summary": "Alphabet Junction Childcare is a daycare in Shakopee, MN at 1335 10th Avenue East, Shakopee, MN 55379. Website: https://www.alphabetjunctionchildcare.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alphabet-junction-childcare-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alphabet-junction-childcare-shakopee.json",
+   "address": {
+    "streetAddress": "1335 10th Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7887139,
+    "lon": -93.5073694
+   },
+   "website": "https://www.alphabetjunctionchildcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/246927021",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "holtz-family-chiropractic-shakopee",
+   "name": "Holtz Family Chiropractic",
+   "summary": "Holtz Family Chiropractic is a chiropractor in Shakopee, MN at 140 Holmes Street South, Shakopee, MN 55379. Phone: +19524459382.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holtz-family-chiropractic-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holtz-family-chiropractic-shakopee.json",
+   "address": {
+    "streetAddress": "140 Holmes Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7976679,
+    "lon": -93.5267109
+   },
+   "phone": "+19524459382",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024200113",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kennedy-transmission-shakopee",
+   "name": "Kennedy Transmission",
+   "summary": "Kennedy Transmission is an auto repair shop in Shakopee, MN at 630 1st Avenue East, Shakopee, MN 55379. Website: https://kennedytransmission.com/shop-locator/shakopee-mn-auto-repair-maintenance/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kennedy-transmission-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kennedy-transmission-shakopee.json",
+   "address": {
+    "streetAddress": "630 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7992428,
+    "lon": -93.5185421
+   },
+   "website": "https://kennedytransmission.com/shop-locator/shakopee-mn-auto-repair-maintenance/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42789258",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "langemo-law-shakopee",
+   "name": "Langemo Law",
+   "summary": "Langemo Law is a lawyer in Shakopee, MN at 120 Fuller Street South #Suite 120, Shakopee, MN 55379. Phone: +19525560056.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/langemo-law-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/langemo-law-shakopee.json",
+   "address": {
+    "streetAddress": "120 Fuller Street South #Suite 120",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7981956,
+    "lon": -93.5283423
+   },
+   "phone": "+19525560056",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9025252358",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "riverside-liquors-shakopee",
+   "name": "Riverside Liquors",
+   "summary": "Riverside Liquors is a liquor store in Shakopee, MN at 507 1st Avenue East, Shakopee, MN 55379. Phone: +19524456014.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riverside-liquors-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riverside-liquors-shakopee.json",
+   "address": {
+    "streetAddress": "507 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7996811,
+    "lon": -93.5206621
+   },
+   "phone": "+19524456014",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/965707824",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shakra-yoga-and-fitness-shakopee",
+   "name": "ShakRa Yoga & Fitness",
+   "summary": "ShakRa Yoga & Fitness is a yoga studio in Shakopee, MN at 110 1/2 1st Avenue East, Shakopee, MN 55379. Website: https://shakrayoga.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shakra-yoga-and-fitness-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shakra-yoga-and-fitness-shakopee.json",
+   "address": {
+    "streetAddress": "110 1/2 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7984938,
+    "lon": -93.5262664
+   },
+   "website": "https://shakrayoga.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024231937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "turtles-1890-social-centre-shakopee",
+   "name": "Turtle's 1890 Social Centre",
+   "summary": "Turtle's 1890 Social Centre is an event venue in Shakopee, MN at 112 Lewis Street South, Shakopee, MN 55379. Website: https://www.tsc1890.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/turtles-1890-social-centre-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/turtles-1890-social-centre-shakopee.json",
+   "address": {
+    "streetAddress": "112 Lewis Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7983727,
+    "lon": -93.5254222
+   },
+   "website": "https://www.tsc1890.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024259159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "youth-building-at-lions-park-shakopee",
+   "name": "Youth Building at Lions Park",
+   "summary": "Youth Building at Lions Park is an event venue in Shakopee, MN at 1099 Adams Street South, Shakopee, MN 55379. Website: https://www.shakopeemn.gov/recreation/recreation-facilities/youth-building.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/youth-building-at-lions-park-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/youth-building-at-lions-park-shakopee.json",
+   "address": {
+    "streetAddress": "1099 Adams Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7860854,
+    "lon": -93.5399284
+   },
+   "website": "https://www.shakopeemn.gov/recreation/recreation-facilities/youth-building",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/890990861",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bittners-bakery-shakopee",
+   "name": "Bittner's Bakery",
+   "summary": "Bittner's Bakery is a bakery in Shakopee, MN at 114 1st Avenue East, Shakopee, MN 55379.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bittners-bakery-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bittners-bakery-shakopee.json",
+   "address": {
+    "streetAddress": "114 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7985036,
+    "lon": -93.526195
+   },
+   "opening_hours": "Mo-Fr 06:00-17:00; Sa 07:00-15:00; Su 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-shakopee",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Shakopee, MN at 1172, Shakopee, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-shakopee.json",
+   "address": {
+    "streetAddress": "1172",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7807464,
+    "lon": -93.5099358
+   },
+   "opening_hours": "Mo-Fr 9:00-21:00; Sa 8:00-18:00; Su 9:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/536308349",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "galens-barber-shop-shakopee",
+   "name": "Galen's Barber Shop",
+   "summary": "Galen's Barber Shop is a hair salon in Shakopee, MN. Phone: +19524453263.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galens-barber-shop-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galens-barber-shop-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7986729,
+    "lon": -93.5248324
+   },
+   "phone": "+19524453263",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389144",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "american-family-insurance-shakopee",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Shakopee, MN at 124 Lewis Street South, Shakopee, MN 55379.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-shakopee.json",
+   "address": {
+    "streetAddress": "124 Lewis Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.798163,
+    "lon": -93.5253668
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8955028936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "canterbury-car-wash-shakopee",
+   "name": "Canterbury Car Wash‎",
+   "summary": "Canterbury Car Wash‎ is a car wash in Shakopee, MN at 612 1st Avenue East, Shakopee, MN 55379.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canterbury-car-wash-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canterbury-car-wash-shakopee.json",
+   "address": {
+    "streetAddress": "612 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7992062,
+    "lon": -93.5190784
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42789259",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cruz-auto-service-shakopee",
+   "name": "Cruz Auto Service",
+   "summary": "Cruz Auto Service is an auto repair shop in Shakopee, MN at 148 Sommerville Street South, Shakopee, MN 55379.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cruz-auto-service-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cruz-auto-service-shakopee.json",
+   "address": {
+    "streetAddress": "148 Sommerville Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7981481,
+    "lon": -93.5239523
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/977750162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-shakopee",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Shakopee, MN at 8150 Old Carriage Court, Shakopee, MN 55379.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-shakopee.json",
+   "address": {
+    "streetAddress": "8150 Old Carriage Court",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7807241,
+    "lon": -93.4141657
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42942808",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edward-jones-shakopee",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Shakopee, MN at 100 Fuller Street South #Suite 145, Shakopee, MN 55379.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-shakopee.json",
+   "address": {
+    "streetAddress": "100 Fuller Street South #Suite 145",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7979313,
+    "lon": -93.5283002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9025252356",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "masterson-personnel-shakopee",
+   "name": "Masterson Personnel",
+   "summary": "Masterson Personnel is a staffing agency in Shakopee, MN at 155 1st Avenue East, Shakopee, MN 55379.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/masterson-personnel-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/masterson-personnel-shakopee.json",
+   "address": {
+    "streetAddress": "155 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7988535,
+    "lon": -93.5258289
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389134",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mikes-auto-repair-shakopee",
+   "name": "Mike's Auto Repair",
+   "summary": "Mike's Auto Repair is an auto repair shop in Shakopee, MN at 452 1st Avenue West, Shakopee, MN 55379.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mikes-auto-repair-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mikes-auto-repair-shakopee.json",
+   "address": {
+    "streetAddress": "452 1st Avenue West",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.797622,
+    "lon": -93.5321476
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9025280332",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "nationwide-shakopee",
+   "name": "Nationwide",
+   "summary": "Nationwide is an insurance agent in Shakopee, MN at 145 1st Avenue East, Shakopee, MN 55379.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nationwide-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nationwide-shakopee.json",
+   "address": {
+    "streetAddress": "145 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7988266,
+    "lon": -93.5259499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389084",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "thrivent-shakopee",
+   "name": "Thrivent",
+   "summary": "Thrivent is a financial advisor in Shakopee, MN at 238 Lewis Street South, Shakopee, MN 55379.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrivent-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrivent-shakopee.json",
+   "address": {
+    "streetAddress": "238 Lewis Street South",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7968272,
+    "lon": -93.5249735
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9024259156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "universal-child-care-shakopee",
+   "name": "Universal Child Care",
+   "summary": "Universal Child Care is a daycare in Shakopee, MN at 1208 Shakopee Town Square, Shakopee, MN 55379.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/universal-child-care-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/universal-child-care-shakopee.json",
+   "address": {
+    "streetAddress": "1208 Shakopee Town Square",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7833963,
+    "lon": -93.5550014
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8948775285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cost-cutters-shakopee",
+   "name": "Cost Cutters",
+   "summary": "Cost Cutters is a hair salon in Shakopee, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cost-cutters-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cost-cutters-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7825045,
+    "lon": -93.5070145
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4645441917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crossings-dental-care-shakopee",
+   "name": "Crossings Dental Care",
+   "summary": "Crossings Dental Care is a dentist in Shakopee, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossings-dental-care-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossings-dental-care-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7819075,
+    "lon": -93.4145255
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/547074088",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "eckart-dental-center-shakopee",
+   "name": "Eckart Dental Center",
+   "summary": "Eckart Dental Center is a dentist in Shakopee, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eckart-dental-center-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eckart-dental-center-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7987159,
+    "lon": -93.5235459
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42789254",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fantastic-sams-shakopee",
+   "name": "Fantastic Sams",
+   "summary": "Fantastic Sams is a hair salon in Shakopee, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7945356,
+    "lon": -93.5086049
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodyear-shakopee",
+   "name": "Goodyear",
+   "summary": "Goodyear is an auto repair shop in Shakopee, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7992621,
+    "lon": -93.5099598
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389142",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-shakopee",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is a vehicle inspection station in Shakopee, MN.",
+   "categories": [
+    "car inspection"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7803355,
+    "lon": -93.504686
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42909549",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lakeshore-landing-shakopee",
+   "name": "Lakeshore Landing",
+   "summary": "Lakeshore Landing is a gift shop in Shakopee, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakeshore-landing-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakeshore-landing-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7994831,
+    "lon": -93.4543652
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/865199364",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "panader-a-y-paseleria-oralias-bakery-shakopee",
+   "name": "Panadería y Paseleria oralia's Bakery",
+   "summary": "Panadería y Paseleria oralia's Bakery is a bakery in Shakopee, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/panader-a-y-paseleria-oralias-bakery-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/panader-a-y-paseleria-oralias-bakery-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7946559,
+    "lon": -93.5086173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/774389157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "plaza-shopper-shakopee",
+   "name": "Plaza Shopper",
+   "summary": "Plaza Shopper is a gift shop in Shakopee, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/plaza-shopper-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/plaza-shopper-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7986575,
+    "lon": -93.4540593
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8087589945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "snoopy-boutique-shakopee",
+   "name": "Snoopy Boutique",
+   "summary": "Snoopy Boutique is a gift shop in Shakopee, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snoopy-boutique-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snoopy-boutique-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8001827,
+    "lon": -93.4562771
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470686747",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-shakopee",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Shakopee, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7853719,
+    "lon": -93.4693562
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6704330412",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-shakopee-n12478740708",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Shakopee, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-shakopee-n12478740708/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-shakopee-n12478740708.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7807758,
+    "lon": -93.505719
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478740708",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "splashdown-supplies-shakopee",
+   "name": "Splashdown Supplies",
+   "summary": "Splashdown Supplies is a gift shop in Shakopee, MN.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/splashdown-supplies-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/splashdown-supplies-shakopee.json",
+   "address": {
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7991784,
+    "lon": -93.4610852
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/521283224",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

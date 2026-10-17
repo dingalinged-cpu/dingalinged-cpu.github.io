@@ -1,0 +1,53 @@
+{
+ "slug": "banfield-pet-hospital-minnetonka-n11098487980",
+ "name": "Banfield Pet Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet minnetonka mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minnetonka",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minnetonka",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9174303,
+  "lon": -93.5012412
+ },
+ "brand": "Banfield Pet Hospital",
+ "wikidata": "Q2882416",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11098487980",
+ "osm": {
+  "type": "node",
+  "id": 11098487980,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Minnetonka",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-minnetonka-n11098487980/",
+ "summary": "Banfield Pet Hospital is a veterinarian in Minnetonka, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

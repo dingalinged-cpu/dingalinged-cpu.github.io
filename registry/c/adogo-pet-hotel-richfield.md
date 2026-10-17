@@ -1,0 +1,23 @@
+Adogo Pet Hotel is a dog boarding facility in Richfield, MN.
+
+# Adogo Pet Hotel
+
+- Category: dog boarding
+- Services: dog boarding
+- Address: Richfield, MN
+- City: Richfield
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.8896536, -93.2481998
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/adogo-pet-hotel-richfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/adogo-pet-hotel-richfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13986622229 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

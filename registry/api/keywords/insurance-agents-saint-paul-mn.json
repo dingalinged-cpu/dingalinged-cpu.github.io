@@ -1,0 +1,554 @@
+{
+ "keyword": "insurance agents saint paul mn",
+ "slug": "insurance-agents-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "insurance agents",
+ "query": "Who are the best insurance agents providers in Saint Paul, MN?",
+ "matches": [
+  "insurance agents in Saint Paul, MN",
+  "insurance agents near me (Saint Paul, MN)",
+  "best insurance agents Saint Paul, MN",
+  "top rated insurance agents Saint Paul, MN",
+  "affordable insurance agents Saint Paul, MN",
+  "emergency insurance agents Saint Paul, MN"
+ ],
+ "answer": "The top unpaid insurance agents listing for Saint Paul, MN is Kevin DeGezelle - State Farm Insurance Agent (an insurance agent in Saint Paul, MN at 611 Grand Avenue, Saint Paul, MN 55102. Phone: +16512224944. Website: https://www.kdsfinsurance.com/). 17 insurance agents businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "kevin-degezelle-state-farm-insurance-agent-saint-paul",
+   "name": "Kevin DeGezelle - State Farm Insurance Agent",
+   "summary": "Kevin DeGezelle - State Farm Insurance Agent is an insurance agent in Saint Paul, MN at 611 Grand Avenue, Saint Paul, MN 55102. Phone: +16512224944. Website: https://www.kdsfinsurance.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kevin-degezelle-state-farm-insurance-agent-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kevin-degezelle-state-farm-insurance-agent-saint-paul.json",
+   "address": {
+    "streetAddress": "611 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9400802,
+    "lon": -93.1257627
+   },
+   "phone": "+16512224944",
+   "website": "https://www.kdsfinsurance.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920889293",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "minneapolis-st-paul-agency-insurance-and-risk-management-saint-paul",
+   "name": "Minneapolis St. Paul Agency Insurance & Risk Management",
+   "summary": "Minneapolis St. Paul Agency Insurance & Risk Management is an insurance agent in Saint Paul, MN at 2469 University Avenue West ##200E, Saint Paul, MN 55114. Phone: +16516479665. Website: https://www.mspagency.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minneapolis-st-paul-agency-insurance-and-risk-management-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minneapolis-st-paul-agency-insurance-and-risk-management-saint-paul.json",
+   "address": {
+    "streetAddress": "2469 University Avenue West ##200E",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9651594,
+    "lon": -93.1999391
+   },
+   "phone": "+16516479665",
+   "website": "https://www.mspagency.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6264952650",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "minnesota-council-of-health-plans-saint-paul",
+   "name": "Minnesota Council of Health Plans",
+   "summary": "Minnesota Council of Health Plans is an insurance agent in Saint Paul, MN at 2550 University Avenue West ##255S, Saint Paul, MN 55114. Phone: +16516450099. Website: https://mnhealthplans.org/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-council-of-health-plans-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-council-of-health-plans-saint-paul.json",
+   "address": {
+    "streetAddress": "2550 University Avenue West ##255S",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9649398,
+    "lon": -93.2042309
+   },
+   "phone": "+16516450099",
+   "website": "https://mnhealthplans.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6275543778",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "champion-insurance-services-inc-saint-paul",
+   "name": "Champion Insurance Services, Inc.",
+   "summary": "Champion Insurance Services, Inc. is an insurance agent in Saint Paul, MN at 821 Raymond Avenue ##400, Saint Paul, MN 55114. Phone: +16516446464.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/champion-insurance-services-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/champion-insurance-services-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "821 Raymond Avenue ##400",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9660014,
+    "lon": -93.1980298
+   },
+   "phone": "+16516446464",
+   "opening_hours": "Mo 09:00-17:00; Tu-We 09:00-18:00; Th-Fr 09:00-17:00; Sa 12:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173830865",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "five-star-insurance-services-saint-paul",
+   "name": "Five Star Insurance Services",
+   "summary": "Five Star Insurance Services is an insurance agent in Saint Paul, MN. Phone: +16513401105.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-star-insurance-services-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-star-insurance-services-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9776766,
+    "lon": -93.0617324
+   },
+   "phone": "+16513401105",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11845489338",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "reliable-family-insurance-agency-inc-saint-paul",
+   "name": "Reliable Family Insurance Agency, Inc.",
+   "summary": "Reliable Family Insurance Agency, Inc. is an insurance agent in Saint Paul, MN at 2147 University Avenue ##101, Saint Paul, MN 55114. Phone: +16516455999.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reliable-family-insurance-agency-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reliable-family-insurance-agency-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "2147 University Avenue ##101",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9609166,
+    "lon": -93.1888342
+   },
+   "phone": "+16516455999",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173830864",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "insurance-pros-saint-paul",
+   "name": "Insurance Pros",
+   "summary": "Insurance Pros is an insurance agent in Saint Paul, MN at 1408 Arcade Street, Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurance-pros-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurance-pros-saint-paul.json",
+   "address": {
+    "streetAddress": "1408 Arcade Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9839599,
+    "lon": -93.0657926
+   },
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096312",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "chris-okeleye-allstate-insurance-saint-paul",
+   "name": "Chris Okeleye: Allstate Insurance",
+   "summary": "Chris Okeleye: Allstate Insurance is an insurance agent in Saint Paul, MN. Phone: +16516900056.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chris-okeleye-allstate-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chris-okeleye-allstate-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9399785,
+    "lon": -93.1787136
+   },
+   "phone": "+16516900056",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8914957195",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "wiessner-agency-saint-paul",
+   "name": "Wiessner Agency",
+   "summary": "Wiessner Agency is an insurance agent in Saint Paul, MN at 250 Hamline Avenue South, Saint Paul, MN 55105.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wiessner-agency-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wiessner-agency-saint-paul.json",
+   "address": {
+    "streetAddress": "250 Hamline Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9338949,
+    "lon": -93.1567078
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6419731888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "all-about-insurance-saint-paul",
+   "name": "All About Insurance",
+   "summary": "All About Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-about-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-about-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9706467,
+    "lon": -93.0661863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096367",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "american-family-insurance-saint-paul",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9172262,
+    "lon": -93.1418202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/96324504",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "farmers-insurance-saint-paul",
+   "name": "Farmer's Insurance",
+   "summary": "Farmer's Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9327846,
+    "lon": -93.0810073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10158023780",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "farmers-insurance-saint-paul-n13311603449",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-saint-paul-n13311603449/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-saint-paul-n13311603449.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9277889,
+    "lon": -93.1666732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13311603449",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "krog-insurance-saint-paul",
+   "name": "Krog Insurance",
+   "summary": "Krog Insurance is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/krog-insurance-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/krog-insurance-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9603978,
+    "lon": -93.1675471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13071137911",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "state-farm-saint-paul",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9559024,
+    "lon": -93.1655372
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12329610047",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "trusted-family-insurance-agency-saint-paul",
+   "name": "Trusted Family Insurance Agency",
+   "summary": "Trusted Family Insurance Agency is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trusted-family-insurance-agency-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trusted-family-insurance-agency-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9718893,
+    "lon": -93.0657451
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096353",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "xeng-insurance-office-saint-paul",
+   "name": "Xeng Insurance Office",
+   "summary": "Xeng Insurance Office is an insurance agent in Saint Paul, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/xeng-insurance-office-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/xeng-insurance-office-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9741028,
+    "lon": -93.0733321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605070039",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

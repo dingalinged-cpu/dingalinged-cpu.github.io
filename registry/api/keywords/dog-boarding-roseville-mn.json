@@ -1,0 +1,64 @@
+{
+ "keyword": "dog boarding roseville mn",
+ "slug": "dog-boarding-roseville-mn",
+ "place": "Roseville, MN",
+ "service": "dog boarding",
+ "query": "Who are the best dog boarding providers in Roseville, MN?",
+ "matches": [
+  "dog boarding in Roseville, MN",
+  "dog boarding near me (Roseville, MN)",
+  "best dog boarding Roseville, MN",
+  "top rated dog boarding Roseville, MN",
+  "affordable dog boarding Roseville, MN",
+  "emergency dog boarding Roseville, MN"
+ ],
+ "answer": "The top unpaid dog boarding listing for Roseville, MN is Dogtopia (a dog boarding facility in Roseville, MN at 2216 County Road D West #Suite R, Roseville, MN 55112. Phone: +16512730880. Website: https://www.dogtopia.com/minneapolis-roseville/). 1 dog boarding businesses are listed for Roseville, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "dogtopia-roseville",
+   "name": "Dogtopia",
+   "summary": "Dogtopia is a dog boarding facility in Roseville, MN at 2216 County Road D West #Suite R, Roseville, MN 55112. Phone: +16512730880. Website: https://www.dogtopia.com/minneapolis-roseville/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dogtopia-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-roseville.json",
+   "address": {
+    "streetAddress": "2216 County Road D West #Suite R",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55112",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55112",
+   "geo": {
+    "lat": 45.0352861,
+    "lon": -93.1934203
+   },
+   "phone": "+16512730880",
+   "website": "https://www.dogtopia.com/minneapolis-roseville/",
+   "opening_hours": "Mo-Fr 07:00-12:00,14:00-19:00; Sa,Su 10:00-12:00,14:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12889601931",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "keyword": "massage minneapolis mn",
+ "slug": "massage-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "massage",
+ "query": "Who are the best massage providers in Minneapolis, MN?",
+ "matches": [
+  "massage in Minneapolis, MN",
+  "massage near me (Minneapolis, MN)",
+  "best massage Minneapolis, MN",
+  "top rated massage Minneapolis, MN",
+  "affordable massage Minneapolis, MN",
+  "emergency massage Minneapolis, MN"
+ ],
+ "answer": "The top unpaid massage listing for Minneapolis, MN is Body Healing Services (a massage studio in Minneapolis, MN at 5037 France Avenue South #Suite 203, Minneapolis, MN 55410. Phone: +16129861207. Website: https://www.bodyhealingservices.com/). 10 massage businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "body-healing-services-minneapolis",
+   "name": "Body Healing Services",
+   "summary": "Body Healing Services is a massage studio in Minneapolis, MN at 5037 France Avenue South #Suite 203, Minneapolis, MN 55410. Phone: +16129861207. Website: https://www.bodyhealingservices.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/body-healing-services-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/body-healing-services-minneapolis.json",
+   "address": {
+    "streetAddress": "5037 France Avenue South #Suite 203",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9112819,
+    "lon": -93.3285229
+   },
+   "phone": "+16129861207",
+   "website": "https://www.bodyhealingservices.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12147010858",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "escape-to-paradise-llc-minneapolis",
+   "name": "Escape To Paradise LLC",
+   "summary": "Escape To Paradise LLC is a massage studio in Minneapolis, MN at 3249 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16122979609. Website: https://escapetoparadisellc.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/escape-to-paradise-llc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/escape-to-paradise-llc-minneapolis.json",
+   "address": {
+    "streetAddress": "3249 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9431867,
+    "lon": -93.2980767
+   },
+   "phone": "+16122979609",
+   "website": "https://escapetoparadisellc.com/",
+   "opening_hours": "Mo-Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11608604556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "holistic-kneads-minneapolis",
+   "name": "Holistic Kneads",
+   "summary": "Holistic Kneads is a massage studio in Minneapolis, MN at 3609 Bryant Avenue South, Minneapolis, MN 55408. Phone: +16128279557. Website: https://www.holistickneads.net/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holistic-kneads-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holistic-kneads-minneapolis.json",
+   "address": {
+    "streetAddress": "3609 Bryant Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9372852,
+    "lon": -93.2906232
+   },
+   "phone": "+16128279557",
+   "website": "https://www.holistickneads.net/",
+   "opening_hours": "\"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5286875273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "massage-envy-minneapolis",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Minneapolis, MN at 3254 Lake Street West, Minneapolis, MN 55416. Phone: +16124559000. Website: https://locations.massageenvy.com/minnesota/minneapolis/3254-west-lake-street.html.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-minneapolis.json",
+   "address": {
+    "streetAddress": "3254 Lake Street West",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.948643,
+    "lon": -93.321887
+   },
+   "phone": "+16124559000",
+   "website": "https://locations.massageenvy.com/minnesota/minneapolis/3254-west-lake-street.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6701050765",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "clear-holistic-therapies-minneapolis",
+   "name": "Clear Holistic Therapies",
+   "summary": "Clear Holistic Therapies is a massage studio in Minneapolis, MN at 406 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16123777677. Website: https://www.clearholistictherapies.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clear-holistic-therapies-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clear-holistic-therapies-minneapolis.json",
+   "address": {
+    "streetAddress": "406 Cedar Lake Road South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9737374,
+    "lon": -93.3087514
+   },
+   "phone": "+16123777677",
+   "website": "https://www.clearholistictherapies.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9101873955",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "peace-is-at-hand-massage-therapy-and-bodywork-minneapolis",
+   "name": "Peace is at Hand Massage Therapy & Bodywork",
+   "summary": "Peace is at Hand Massage Therapy & Bodywork is a massage studio in Minneapolis, MN at 3300 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +19522400724. Website: https://www.peaceisathand.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peace-is-at-hand-massage-therapy-and-bodywork-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peace-is-at-hand-massage-therapy-and-bodywork-minneapolis.json",
+   "address": {
+    "streetAddress": "3300 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.942805,
+    "lon": -93.2884639
+   },
+   "phone": "+19522400724",
+   "website": "https://www.peaceisathand.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5286875274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "vida-bodywork-minneapolis",
+   "name": "Vida Bodywork",
+   "summary": "Vida Bodywork is a massage studio in Minneapolis, MN at 611 West Lake Street, Minneapolis, MN 55408. Website: https://www.vidabodywork.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vida-bodywork-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vida-bodywork-minneapolis.json",
+   "address": {
+    "streetAddress": "611 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.948231,
+    "lon": -93.287482
+   },
+   "website": "https://www.vidabodywork.com/",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5292643310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "alpha-massage-minneapolis",
+   "name": "Alpha Massage",
+   "summary": "Alpha Massage is a massage studio in Minneapolis, MN at 115 North 1st Street, Minneapolis, MN 55401. Website: https://alphamassage.co/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpha-massage-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpha-massage-minneapolis.json",
+   "address": {
+    "streetAddress": "115 North 1st Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9849049,
+    "lon": -93.2686306
+   },
+   "website": "https://alphamassage.co/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626360294",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "massage-and-healing-by-mary-and-friends-minneapolis",
+   "name": "Massage & Healing by Mary and Friends",
+   "summary": "Massage & Healing by Mary and Friends is a massage studio in Minneapolis, MN at 2848 Northeast Johnson Street, Minneapolis, MN. Phone: +16129649366.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-and-healing-by-mary-and-friends-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-and-healing-by-mary-and-friends-minneapolis.json",
+   "address": {
+    "streetAddress": "2848 Northeast Johnson Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.02007,
+    "lon": -93.2373023
+   },
+   "phone": "+16129649366",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8300261458",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "posh-spa-minneapolis",
+   "name": "Posh Spa",
+   "summary": "Posh Spa is a massage studio in Minneapolis, MN. Phone: +16123152267.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/posh-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/posh-spa-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9248296,
+    "lon": -93.2910113
+   },
+   "phone": "+16123152267",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6359447309",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

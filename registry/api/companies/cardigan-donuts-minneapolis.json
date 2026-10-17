@@ -1,0 +1,57 @@
+{
+ "slug": "cardigan-donuts-minneapolis",
+ "name": "Cardigan Donuts",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "40 South 7th Street #207",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55402",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55402",
+ "geo": {
+  "lat": 44.977792,
+  "lon": -93.2730752
+ },
+ "phone": "+16122597804",
+ "website": "https://cardigandonuts.com/",
+ "opening_hours": "Mo-Fr 06:30-17:30; Sa 08:00-15:00",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/5955582349",
+ "osm": {
+  "type": "node",
+  "id": 5955582349,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cardigan-donuts-minneapolis/",
+ "summary": "Cardigan Donuts is a bakery in Minneapolis, MN at 40 South 7th Street #207, Minneapolis, MN 55402. Phone: +16122597804. Website: https://cardigandonuts.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

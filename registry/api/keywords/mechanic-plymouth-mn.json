@@ -1,0 +1,150 @@
+{
+ "keyword": "mechanic plymouth mn",
+ "slug": "mechanic-plymouth-mn",
+ "place": "Plymouth, MN",
+ "service": "mechanic",
+ "query": "Who are the best mechanic providers in Plymouth, MN?",
+ "matches": [
+  "mechanic in Plymouth, MN",
+  "mechanic near me (Plymouth, MN)",
+  "best mechanic Plymouth, MN",
+  "top rated mechanic Plymouth, MN",
+  "affordable mechanic Plymouth, MN",
+  "emergency mechanic Plymouth, MN"
+ ],
+ "answer": "The top unpaid mechanic listing for Plymouth, MN is Luther Collision & Glass (an auto repair shop in Plymouth, MN. Phone: +17633316066). 4 mechanic businesses are listed for Plymouth, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "luther-collision-and-glass-plymouth-n12277395832",
+   "name": "Luther Collision & Glass",
+   "summary": "Luther Collision & Glass is an auto repair shop in Plymouth, MN. Phone: +17633316066.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luther-collision-and-glass-plymouth-n12277395832/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luther-collision-and-glass-plymouth-n12277395832.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0549622,
+    "lon": -93.4040756
+   },
+   "phone": "+17633316066",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277395832",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "plymouth-vip-auto-plymouth",
+   "name": "Plymouth VIP Auto",
+   "summary": "Plymouth VIP Auto is an auto repair shop in Plymouth, MN at 9950 Rockford Road, Plymouth, MN 55442.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/plymouth-vip-auto-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/plymouth-vip-auto-plymouth.json",
+   "address": {
+    "streetAddress": "9950 Rockford Road",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55442",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55442",
+   "geo": {
+    "lat": 45.0341312,
+    "lon": -93.406592
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603472209",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "luther-collision-and-glass-plymouth",
+   "name": "Luther Collision and Glass",
+   "summary": "Luther Collision and Glass is an auto repair shop in Plymouth, MN at 9825 56th Avenue North, Plymouth, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luther-collision-and-glass-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luther-collision-and-glass-plymouth.json",
+   "address": {
+    "streetAddress": "9825 56th Avenue North",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0549998,
+    "lon": -93.4039544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9973988183",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "goodyear-plymouth",
+   "name": "Goodyear",
+   "summary": "Goodyear is an auto repair shop in Plymouth, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-plymouth.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0143794,
+    "lon": -93.4599135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11860895508",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

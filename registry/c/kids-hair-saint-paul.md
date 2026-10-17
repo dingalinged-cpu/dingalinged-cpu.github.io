@@ -1,0 +1,23 @@
+Kids Hair is a hair salon in Saint Paul, MN at 2040 Ford Parkway, Saint Paul, MN.
+
+# Kids Hair
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2040 Ford Parkway, Saint Paul, MN
+- City: Saint Paul
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9176071, -93.1865554
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su 10:00-16:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kids-hair-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kids-hair-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/660909470 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

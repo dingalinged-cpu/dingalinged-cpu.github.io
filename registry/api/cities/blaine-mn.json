@@ -1,0 +1,1651 @@
+{
+ "place": "Blaine, MN",
+ "slug": "blaine-mn",
+ "count": 51,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-blaine-mn.json"
+  },
+  {
+   "keyword": "auto repair blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-blaine-mn.json"
+  },
+  {
+   "keyword": "bike shop blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-blaine-mn.json"
+  },
+  {
+   "keyword": "car wash blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-blaine-mn.json"
+  },
+  {
+   "keyword": "dance studio blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-blaine-mn.json"
+  },
+  {
+   "keyword": "daycare blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-blaine-mn.json"
+  },
+  {
+   "keyword": "dentist blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-blaine-mn.json"
+  },
+  {
+   "keyword": "dry cleaners blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-blaine-mn.json"
+  },
+  {
+   "keyword": "florist blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-blaine-mn.json"
+  },
+  {
+   "keyword": "furniture store blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-blaine-mn.json"
+  },
+  {
+   "keyword": "gym blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-blaine-mn.json"
+  },
+  {
+   "keyword": "hair salon blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-blaine-mn.json"
+  },
+  {
+   "keyword": "haircut blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-blaine-mn.json"
+  },
+  {
+   "keyword": "heating and air blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-blaine-mn.json"
+  },
+  {
+   "keyword": "hvac repair blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-blaine-mn.json"
+  },
+  {
+   "keyword": "insurance agency blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-blaine-mn.json"
+  },
+  {
+   "keyword": "insurance agent blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-blaine-mn.json"
+  },
+  {
+   "keyword": "insurance agents blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-blaine-mn.json"
+  },
+  {
+   "keyword": "liquor store blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-blaine-mn.json"
+  },
+  {
+   "keyword": "massage blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-blaine-mn.json"
+  },
+  {
+   "keyword": "mattress store blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-blaine-mn.json"
+  },
+  {
+   "keyword": "mechanic blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-blaine-mn.json"
+  },
+  {
+   "keyword": "nail salon blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-blaine-mn.json"
+  },
+  {
+   "keyword": "occupational therapist blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/occupational-therapist-blaine-mn.json"
+  },
+  {
+   "keyword": "pet store blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-blaine-mn.json"
+  },
+  {
+   "keyword": "preschool blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-blaine-mn.json"
+  },
+  {
+   "keyword": "printing services blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-blaine-mn.json"
+  },
+  {
+   "keyword": "real estate agent blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-blaine-mn.json"
+  },
+  {
+   "keyword": "realtor blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-blaine-mn.json"
+  },
+  {
+   "keyword": "storage units blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-blaine-mn.json"
+  },
+  {
+   "keyword": "tax preparation blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-blaine-mn.json"
+  },
+  {
+   "keyword": "tax preparer blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-blaine-mn.json"
+  },
+  {
+   "keyword": "thrift store blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-blaine-mn.json"
+  },
+  {
+   "keyword": "tire shop blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-blaine-mn.json"
+  },
+  {
+   "keyword": "vet blaine mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-blaine-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "greg-ganyo-insurance-agency-circle-pines",
+   "name": "Greg Ganyo Insurance Agency",
+   "summary": "Greg Ganyo Insurance Agency is an insurance agent in Circle Pines, MN at 3521 88th Avenue Northeast, Circle Pines, MN 55014. Phone: +16519644020. Website: https://ganyoagency.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greg-ganyo-insurance-agency-circle-pines/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greg-ganyo-insurance-agency-circle-pines.json",
+   "address": {
+    "streetAddress": "3521 88th Avenue Northeast",
+    "addressLocality": "Circle Pines",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Circle Pines",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.129531,
+    "lon": -93.1814921
+   },
+   "phone": "+16519644020",
+   "website": "https://ganyoagency.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162910177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "honest-1-auto-care-blaine",
+   "name": "Honest-1 Auto Care",
+   "summary": "Honest-1 Auto Care is an auto repair shop in Blaine, MN at 10705 University Avenue Northeast, Blaine, MN 55434. Phone: +17632191845. Website: https://honest1blaine.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/honest-1-auto-care-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/honest-1-auto-care-blaine.json",
+   "address": {
+    "streetAddress": "10705 University Avenue Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.164963,
+    "lon": -93.2656963
+   },
+   "phone": "+17632191845",
+   "website": "https://honest1blaine.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162650257",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "imagine-smiles-blaine",
+   "name": "Imagine Smiles",
+   "summary": "Imagine Smiles is a dentist in Blaine, MN at 10729 Town Square Drive Northeast #150, Blaine, MN 55449. Phone: +17632698650. Website: https://www.imagine-smiles.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/imagine-smiles-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/imagine-smiles-blaine.json",
+   "address": {
+    "streetAddress": "10729 Town Square Drive Northeast #150",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1645785,
+    "lon": -93.2120658
+   },
+   "phone": "+17632698650",
+   "website": "https://www.imagine-smiles.com/",
+   "opening_hours": "Mo-We 07:00-17:00; Th 07:00-16:00; Fr 07:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13185418506",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "new-creations-child-care-and-learning-center-blaine-blaine",
+   "name": "New Creations Child Care & Learning Center | Blaine",
+   "summary": "New Creations Child Care & Learning Center | Blaine is a daycare in Blaine, MN at 12267 Aberdeen Street Northeast, Blaine, MN 55449. Phone: +17634475659. Website: https://www.newcreationschildcare.com/blaine.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-blaine-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-blaine-blaine.json",
+   "address": {
+    "streetAddress": "12267 Aberdeen Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1927778,
+    "lon": -93.2325542
+   },
+   "phone": "+17634475659",
+   "website": "https://www.newcreationschildcare.com/blaine",
+   "opening_hours": "Mo-Fr 07:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11030590505",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "new-creations-child-care-and-learning-center-blaine-at-lexington-blaine",
+   "name": "New Creations Child Care & Learning Center | Blaine (at Lexington)",
+   "summary": "New Creations Child Care & Learning Center | Blaine (at Lexington) is a daycare in Blaine, MN at 10301 Lexington Avenue Northeast, Blaine, MN 55014. Phone: +17636570387. Website: https://www.newcreationschildcare.com/blaine-at-lexington.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-blaine-at-lexington-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-creations-child-care-and-learning-center-blaine-at-lexington-blaine.json",
+   "address": {
+    "streetAddress": "10301 Lexington Avenue Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.1573407,
+    "lon": -93.1625908
+   },
+   "phone": "+17636570387",
+   "website": "https://www.newcreationschildcare.com/blaine-at-lexington",
+   "opening_hours": "Mo-Fr 06:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11030600305",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "oboys-plumbing-furnace-and-ac-repair-blaine",
+   "name": "O'Boys Plumbing, Furnace & AC Repair",
+   "summary": "O'Boys Plumbing, Furnace & AC Repair is a HVAC contractor in Blaine, MN at 1550 91st Avenue Northeast #STE 301, Blaine, MN 55449. Phone: +17633335803. Website: https://www.calloboys.com/heating-repair.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oboys-plumbing-furnace-and-ac-repair-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oboys-plumbing-furnace-and-ac-repair-blaine.json",
+   "address": {
+    "streetAddress": "1550 91st Avenue Northeast #STE 301",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1350605,
+    "lon": -93.2320657
+   },
+   "phone": "+17633335803",
+   "website": "https://www.calloboys.com/heating-repair",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13381276915",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petsmart-blaine",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Blaine, MN at 10451 Baltimore Street Northeast, Blaine, MN 55449. Phone: +17636143055. Website: https://www.petsmart.com/store-locator/store/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-blaine.json",
+   "address": {
+    "streetAddress": "10451 Baltimore Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1599973,
+    "lon": -93.2313976
+   },
+   "phone": "+17636143055",
+   "website": "https://www.petsmart.com/store-locator/store/",
+   "opening_hours": "08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/458357655",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "visiting-angels-senior-home-care-blaine",
+   "name": "Visiting Angels Senior Home Care",
+   "summary": "Visiting Angels Senior Home Care is an assisted living facility in Blaine, MN at 12760 Aberdeen Street Northeast #316, Blaine, MN 55449. Phone: +19528918000. Website: https://www.visitingangels.com/blaine/home.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/visiting-angels-senior-home-care-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/visiting-angels-senior-home-care-blaine.json",
+   "address": {
+    "streetAddress": "12760 Aberdeen Street Northeast #316",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.2020172,
+    "lon": -93.2328248
+   },
+   "phone": "+19528918000",
+   "website": "https://www.visitingangels.com/blaine/home",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12699283957",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "planet-fitness-blaine",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Blaine, MN at 10650 Baltimore Street Northeast, Blaine, MN. Phone: +17632705601. Website: https://www.planetfitness.com/gyms/blaine-mn.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-blaine.json",
+   "address": {
+    "streetAddress": "10650 Baltimore Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1633962,
+    "lon": -93.2328702
+   },
+   "phone": "+17632705601",
+   "website": "https://www.planetfitness.com/gyms/blaine-mn",
+   "opening_hours": "Mo 05:00-00:00; Tu-Th 00:00-00:00; Fr 00:00-21:00; Sa, Su 06:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/214792795",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "alpha-air-corporation-blaine",
+   "name": "Alpha Air Corporation",
+   "summary": "Alpha Air Corporation is a HVAC contractor in Blaine, MN at 12527 Central Avenue Northeast, Blaine, MN 55434. Phone: +19524764144. Website: https://www.alphaaircorp.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpha-air-corporation-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpha-air-corporation-blaine.json",
+   "address": {
+    "streetAddress": "12527 Central Avenue Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1988798,
+    "lon": -93.2323677
+   },
+   "phone": "+19524764144",
+   "website": "https://www.alphaaircorp.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4286060906",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "berg-therapy-blaine",
+   "name": "Berg Therapy",
+   "summary": "Berg Therapy is an occupational therapist in Blaine, MN at 11800 Aberdeen Street Northeast #120, Blaine, MN 55434. Phone: +16124248526. Website: https://www.bergtherapymn.com/index.html.",
+   "categories": [
+    "occupational therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berg-therapy-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berg-therapy-blaine.json",
+   "address": {
+    "streetAddress": "11800 Aberdeen Street Northeast #120",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1839204,
+    "lon": -93.2338892
+   },
+   "phone": "+16124248526",
+   "website": "https://www.bergtherapymn.com/index.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13149614085",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "perpetual-motion-blaine",
+   "name": "Perpetual Motion",
+   "summary": "Perpetual Motion is a gym in Blaine, MN at 12440 Aberdeen Street Northeast, Blaine, MN 55434. Phone: +17637542341. Website: https://www.perpetualmotiongymnastics.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/perpetual-motion-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/perpetual-motion-blaine.json",
+   "address": {
+    "streetAddress": "12440 Aberdeen Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1958232,
+    "lon": -93.2329271
+   },
+   "phone": "+17637542341",
+   "website": "https://www.perpetualmotiongymnastics.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5274083921",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "real-estate-corners-inc-blaine",
+   "name": "Real Estate Corners, Inc",
+   "summary": "Real Estate Corners, Inc is a real estate agency in Blaine, MN. Phone: +16124831230. Website: https://realestatecorners.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/real-estate-corners-inc-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/real-estate-corners-inc-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1841902,
+    "lon": -93.19956
+   },
+   "phone": "+16124831230",
+   "website": "https://realestatecorners.com/",
+   "opening_hours": "Mo-Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9958908607",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-flower-shoppe-blaine",
+   "name": "The Flower Shoppe",
+   "summary": "The Flower Shoppe is a florist in Blaine, MN at 1041 109th Avenue Northeast, Blaine, MN 55434. Phone: +17637842532. Website: https://www.greenfingersinc.com/_index.php.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-flower-shoppe-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-flower-shoppe-blaine.json",
+   "address": {
+    "streetAddress": "1041 109th Avenue Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1687349,
+    "lon": -93.24442
+   },
+   "phone": "+17637842532",
+   "website": "https://www.greenfingersinc.com/_index.php",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9731278677",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-reality-blaine",
+   "name": "Edina Reality",
+   "summary": "Edina Reality is a real estate agency in Blaine, MN at 10945 Club West Parkway North, Blaine, MN 55449. Phone: +17637951800.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-reality-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-reality-blaine.json",
+   "address": {
+    "streetAddress": "10945 Club West Parkway North",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1688842,
+    "lon": -93.2294656
+   },
+   "phone": "+17637951800",
+   "opening_hours": "08:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/458350093",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-envy-blaine",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Blaine, MN at 10450 Baltimore Street Northeast, Blaine, MN 55449. Website: https://www.massageenvy.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-blaine.json",
+   "address": {
+    "streetAddress": "10450 Baltimore Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1604118,
+    "lon": -93.2334812
+   },
+   "website": "https://www.massageenvy.com/",
+   "opening_hours": "08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7087125520",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "stone-mountain-pet-lodge-blaine",
+   "name": "Stone Mountain Pet Lodge",
+   "summary": "Stone Mountain Pet Lodge is a pet store in Blaine, MN at 9935 Radisson Road Northeast, Blaine, MN 55449. Website: https://stonemountainpetlodge.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stone-mountain-pet-lodge-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stone-mountain-pet-lodge-blaine.json",
+   "address": {
+    "streetAddress": "9935 Radisson Road Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1506575,
+    "lon": -93.1910373
+   },
+   "website": "https://stonemountainpetlodge.com/",
+   "opening_hours": "Mo-Fr 06:00-18:00; Sa 08:00-16:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13588244901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pioneer-cycle-blaine",
+   "name": "Pioneer Cycle",
+   "summary": "Pioneer Cycle is a bike shop in Blaine, MN at 12741 Central Avenue Northeast, Blaine, MN 55434. Phone: +17637558871.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pioneer-cycle-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pioneer-cycle-blaine.json",
+   "address": {
+    "streetAddress": "12741 Central Avenue Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.2012754,
+    "lon": -93.2335425
+   },
+   "phone": "+17637558871",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/611663711",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "smith-nielsen-auto-repair-blaine",
+   "name": "Smith Nielsen Auto Repair",
+   "summary": "Smith Nielsen Auto Repair is an auto repair shop in Blaine, MN at 12850 Central Avenue Northeast, Blaine, MN 55434. Website: https://www.smithnielsen.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smith-nielsen-auto-repair-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smith-nielsen-auto-repair-blaine.json",
+   "address": {
+    "streetAddress": "12850 Central Avenue Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.2033959,
+    "lon": -93.2335037
+   },
+   "website": "https://www.smithnielsen.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/312610667",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kwik-trip-car-wash-blaine",
+   "name": "Kwik Trip Car Wash",
+   "summary": "Kwik Trip Car Wash is a car wash in Blaine, MN. Website: https://www.kwiktrip.com/locator/store?id=896.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-car-wash-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1253837,
+    "lon": -93.2359788
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=896",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1120647523",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pet-evolution-blaine",
+   "name": "Pet Evolution",
+   "summary": "Pet Evolution is a pet store in Blaine, MN. Website: https://www.petevolution.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-evolution-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-evolution-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1668719,
+    "lon": -93.2324407
+   },
+   "website": "https://www.petevolution.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12527842888",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "blaine-dentistry-blaine",
+   "name": "Blaine Dentistry",
+   "summary": "Blaine Dentistry is a dentist in Blaine, MN at 1384 109th Avenue Northeast #200, Blaine, MN 55434.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blaine-dentistry-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blaine-dentistry-blaine.json",
+   "address": {
+    "streetAddress": "1384 109th Avenue Northeast #200",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1676549,
+    "lon": -93.2358696
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12516572195",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "central-spirits-blaine",
+   "name": "Central Spirits",
+   "summary": "Central Spirits is a liquor store in Blaine, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-spirits-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-spirits-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1393146,
+    "lon": -93.2341274
+   },
+   "opening_hours": "Mo-Sa 08:00-22:00, Su 11:00-06:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5768689853",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discount-tire-blaine",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Blaine, MN at 9450 Baltimore Street Northeast, Blaine, MN 55449.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-blaine.json",
+   "address": {
+    "streetAddress": "9450 Baltimore Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1425472,
+    "lon": -93.2342552
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/608993087",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "johns-auto-parts-blaine",
+   "name": "John's Auto Parts",
+   "summary": "John's Auto Parts is an auto repair shop in Blaine, MN at 10506 Central Avenue, Blaine, MN 55434.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johns-auto-parts-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johns-auto-parts-blaine.json",
+   "address": {
+    "streetAddress": "10506 Central Avenue",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1614843,
+    "lon": -93.2369105
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/758636056",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-blaine",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Blaine, MN at 1384 109th Avenue Northeast #300, Blaine, MN 55434.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-blaine.json",
+   "address": {
+    "streetAddress": "1384 109th Avenue Northeast #300",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1677669,
+    "lon": -93.2358653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12516572194",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "qc-dance-blaine",
+   "name": "QC Dance",
+   "summary": "QC Dance is a dance studio in Blaine, MN at 9967 Ulysses Street Northeast, Blaine, MN 55434.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/qc-dance-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/qc-dance-blaine.json",
+   "address": {
+    "streetAddress": "9967 Ulysses Street Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55434",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55434",
+   "geo": {
+    "lat": 45.1511334,
+    "lon": -93.2362682
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/351202113",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tommys-express-car-wash-blaine",
+   "name": "Tommy's Express® Car Wash",
+   "summary": "Tommy's Express® Car Wash is a car wash in Blaine, MN at 4252 122nd Lane Northeast, Blaine, MN 55449.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tommys-express-car-wash-blaine.json",
+   "address": {
+    "streetAddress": "4252 122nd Lane Northeast",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "postalCode": "55449",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "zip": "55449",
+   "geo": {
+    "lat": 45.1913143,
+    "lon": -93.1619794
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12873881598",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "blaine-area-pet-hospital-blaine",
+   "name": "Blaine Area Pet Hospital",
+   "summary": "Blaine Area Pet Hospital is a veterinarian in Blaine, MN at 11850 Aberdeen St. NE, Blaine, MN.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blaine-area-pet-hospital-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blaine-area-pet-hospital-blaine.json",
+   "address": {
+    "streetAddress": "11850 Aberdeen St. NE",
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1855834,
+    "lon": -93.2337517
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/796644784",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "acorn-mini-storage-blaine",
+   "name": "Acorn Mini Storage",
+   "summary": "Acorn Mini Storage is a self-storage facility in Blaine, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acorn-mini-storage-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acorn-mini-storage-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1872326,
+    "lon": -93.2355544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/611610260",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "at-home-decor-blaine",
+   "name": "At Home Decor",
+   "summary": "At Home Decor is a furniture store in Blaine, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/at-home-decor-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/at-home-decor-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1663347,
+    "lon": -93.158906
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/756820991",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edgewood-blaine",
+   "name": "Edgewood",
+   "summary": "Edgewood is an assisted living facility in Blaine, MN.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edgewood-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edgewood-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.196264,
+    "lon": -93.2098277
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1202999586",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-blaine",
+   "name": "FedEx",
+   "summary": "FedEx is a printing service in Blaine, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1274173,
+    "lon": -93.2568365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453447777",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-blaine",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Blaine, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1600556,
+    "lon": -93.1605904
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6926007125",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-blaine",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Blaine, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1835713,
+    "lon": -93.2367011
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/611650504",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jackson-hewitt-blaine",
+   "name": "Jackson Hewitt",
+   "summary": "Jackson Hewitt is a tax preparation service in Blaine, MN.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackson-hewitt-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1313945,
+    "lon": -93.2591537
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453435774",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jiffy-lube-blaine",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Blaine, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1960676,
+    "lon": -93.235494
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/611644681",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "metro-denal-care-blaine",
+   "name": "Metro Denal Care",
+   "summary": "Metro Denal Care is a dentist in Blaine, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-denal-care-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-denal-care-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1297392,
+    "lon": -93.2580929
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453441261",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "metro-self-storage-blaine",
+   "name": "Metro Self Storage",
+   "summary": "Metro Self Storage is a self-storage facility in Blaine, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-self-storage-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-self-storage-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1517281,
+    "lon": -93.2341509
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/351202114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mgm-liquor-warehouse-blaine",
+   "name": "MGM Liquor Warehouse",
+   "summary": "MGM Liquor Warehouse is a liquor store in Blaine, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquor-warehouse-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquor-warehouse-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1295229,
+    "lon": -93.2583024
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453441262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "misters-car-wash-blaine",
+   "name": "Misters Car wash",
+   "summary": "Misters Car wash is a car wash in Blaine, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/misters-car-wash-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/misters-car-wash-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1931751,
+    "lon": -93.2356089
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1497553815",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "petco-blaine",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Blaine, MN.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1813649,
+    "lon": -93.2364944
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12629709519",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pilgrim-cleaners-blaine",
+   "name": "Pilgrim Cleaners",
+   "summary": "Pilgrim Cleaners is a dry cleaner in Blaine, MN.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pilgrim-cleaners-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1312986,
+    "lon": -93.2589876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453435776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-blaine",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Blaine, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1779336,
+    "lon": -93.2385354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1293817206",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-blaine-w1293817207",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Blaine, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-blaine-w1293817207/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-blaine-w1293817207.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1783625,
+    "lon": -93.2373812
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1293817207",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "salon-10-blaine",
+   "name": "Salon 10",
+   "summary": "Salon 10 is a hair salon in Blaine, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-10-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-10-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1312321,
+    "lon": -93.2588189
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1686579301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-blaine",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Blaine, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1470349,
+    "lon": -93.2363538
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478659848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-blaine-w1162650248",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Blaine, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-blaine-w1162650248/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-blaine-w1162650248.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1669589,
+    "lon": -93.2657315
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162650248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tnt-nails-blaine",
+   "name": "TNT Nails",
+   "summary": "TNT Nails is a nail salon in Blaine, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tnt-nails-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tnt-nails-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1313522,
+    "lon": -93.2591003
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453435775",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tu-nails-blaine",
+   "name": "TU Nails",
+   "summary": "TU Nails is a nail salon in Blaine, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tu-nails-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tu-nails-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.167485,
+    "lon": -93.2332658
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12527842878",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tutor-time-blaine",
+   "name": "Tutor Time",
+   "summary": "Tutor Time is a preschool in Blaine, MN.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tutor-time-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tutor-time-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1669358,
+    "lon": -93.2306543
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/214790230",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+Code42 is an IT support company in Minneapolis, MN at 100 Washington Square Washington Avenue South, Minneapolis, MN 55401. Phone: +16123334242. Website: https://code42.com/.
+
+# Code42
+
+- Category: it support
+- Services: it support
+- Address: 100 Washington Square Washington Avenue South, Minneapolis, MN 55401
+- City: Minneapolis
+- State: MN
+- ZIP: 55401
+- Coordinates: 44.9811658, -93.2658093
+- Phone: +16123334242
+- Website: https://code42.com/
+- Email: support@code42.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/code42-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/code42-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6423573751 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

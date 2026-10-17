@@ -1,0 +1,63 @@
+{
+ "slug": "precision-tune-auto-care-maple-grove",
+ "name": "Precision Tune Auto Care",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair maple grove mn",
+  "mechanic maple grove mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "13360 Grove Drive North",
+  "addressLocality": "Maple Grove",
+  "addressRegion": "MN",
+  "postalCode": "55369",
+  "addressCountry": "US"
+ },
+ "city": "Maple Grove",
+ "state": "MN",
+ "zip": "55369",
+ "geo": {
+  "lat": 45.1044376,
+  "lon": -93.4501865
+ },
+ "phone": "+17634949595",
+ "website": "https://precisiontune.com/locations/maple-grove-mn/",
+ "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-15:00",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/613007180",
+ "osm": {
+  "type": "way",
+  "id": 613007180,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Maple Grove",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/precision-tune-auto-care-maple-grove/",
+ "summary": "Precision Tune Auto Care is an auto repair shop in Maple Grove, MN at 13360 Grove Drive North, Maple Grove, MN 55369. Phone: +17634949595. Website: https://precisiontune.com/locations/maple-grove-mn/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

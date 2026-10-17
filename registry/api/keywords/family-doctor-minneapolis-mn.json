@@ -1,0 +1,163 @@
+{
+ "keyword": "family doctor minneapolis mn",
+ "slug": "family-doctor-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "family doctor",
+ "query": "Who are the best family doctor providers in Minneapolis, MN?",
+ "matches": [
+  "family doctor in Minneapolis, MN",
+  "family doctor near me (Minneapolis, MN)",
+  "best family doctor Minneapolis, MN",
+  "top rated family doctor Minneapolis, MN",
+  "affordable family doctor Minneapolis, MN",
+  "emergency family doctor Minneapolis, MN"
+ ],
+ "answer": "The top unpaid family doctor listing for Minneapolis, MN is Allina Medical Clinic (a family medicine practice in Minneapolis, MN at 2800 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16127754800. Website: https://account.allinahealth.org/locations/71). 4 family doctor businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "allina-medical-clinic-minneapolis",
+   "name": "Allina Medical Clinic",
+   "summary": "Allina Medical Clinic is a family medicine practice in Minneapolis, MN at 2800 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16127754800. Website: https://account.allinahealth.org/locations/71.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allina-medical-clinic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allina-medical-clinic-minneapolis.json",
+   "address": {
+    "streetAddress": "2800 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9515183,
+    "lon": -93.2986945
+   },
+   "phone": "+16127754800",
+   "website": "https://account.allinahealth.org/locations/71",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1459256379",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "peoples-center-clinics-and-services-minneapolis",
+   "name": "People's Center Clinics & Services",
+   "summary": "People's Center Clinics & Services is a family medicine practice in Minneapolis, MN at 425 20th Avenue South, Minneapolis, MN 55454. Phone: +16123324973. Website: https://www.peoples-center.org/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peoples-center-clinics-and-services-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peoples-center-clinics-and-services-minneapolis.json",
+   "address": {
+    "streetAddress": "425 20th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55454",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55454",
+   "geo": {
+    "lat": 44.9692535,
+    "lon": -93.2437753
+   },
+   "phone": "+16123324973",
+   "website": "https://www.peoples-center.org/",
+   "opening_hours": "Mo 08:30-17:00; Tu-Th 08:30-20:00; Fr 08:30-17:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6433139167",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "indian-health-board-minneapolis",
+   "name": "Indian Health Board",
+   "summary": "Indian Health Board is a dentist in Minneapolis, MN at 1315 East 24th Street, Minneapolis, MN 55404. Website: https://indianhealthboard.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/indian-health-board-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/indian-health-board-minneapolis.json",
+   "address": {
+    "streetAddress": "1315 East 24th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9588953,
+    "lon": -93.255337
+   },
+   "website": "https://indianhealthboard.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/111560459",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "greenway-primary-care-clinic-minneapolis",
+   "name": "Greenway Primary Care Clinic",
+   "summary": "Greenway Primary Care Clinic is a family medicine practice in Minneapolis, MN at Lake Street West, Minneapolis, MN.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greenway-primary-care-clinic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greenway-primary-care-clinic-minneapolis.json",
+   "address": {
+    "streetAddress": "Lake Street West",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9489499,
+    "lon": -93.3218459
+   },
+   "opening_hours": "Mo,We,Fr 07:00-17:00; Tu,Th 08:00-18:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6701050770",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

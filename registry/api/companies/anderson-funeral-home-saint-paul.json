@@ -1,0 +1,54 @@
+{
+ "slug": "anderson-funeral-home-saint-paul",
+ "name": "Anderson Funeral Home",
+ "categories": [
+  "funeral home"
+ ],
+ "keywords": [
+  "funeral home",
+  "funeral home saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "funeral home",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1401 Arcade Street",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9836629,
+  "lon": -93.0663664
+ },
+ "phone": "+16517762761",
+ "website": "https://andersonfuneralhome.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/605096308",
+ "osm": {
+  "type": "way",
+  "id": 605096308,
+  "tags_used": {
+   "shop": "funeral_directors"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anderson-funeral-home-saint-paul/",
+ "summary": "Anderson Funeral Home is a funeral home in Saint Paul, MN at 1401 Arcade Street, Saint Paul, MN. Phone: +16517762761. Website: https://andersonfuneralhome.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

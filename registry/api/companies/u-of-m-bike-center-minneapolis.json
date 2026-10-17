@@ -1,0 +1,57 @@
+{
+ "slug": "u-of-m-bike-center-minneapolis",
+ "name": "U of M Bike Center",
+ "categories": [
+  "bike shop"
+ ],
+ "keywords": [
+  "bike shop",
+  "bike shop minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "bike shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "401 Southeast Oak Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55414",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55414",
+ "geo": {
+  "lat": 44.9723809,
+  "lon": -93.2266961
+ },
+ "phone": "+16126249468",
+ "website": "https://pts.umn.edu/walk-bike-and-scooter/bike/bike-center",
+ "opening_hours": "Mo,Tu,Th,Fr 10:00-17:00; We 11:00-17:00",
+ "schema_type": "BikeStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6773142608",
+ "osm": {
+  "type": "node",
+  "id": 6773142608,
+  "tags_used": {
+   "shop": "bicycle"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/u-of-m-bike-center-minneapolis/",
+ "summary": "U of M Bike Center is a bike shop in Minneapolis, MN at 401 Southeast Oak Street, Minneapolis, MN 55414. Phone: +16126249468. Website: https://pts.umn.edu/walk-bike-and-scooter/bike/bike-center.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

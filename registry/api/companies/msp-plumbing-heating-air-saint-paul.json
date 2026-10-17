@@ -1,0 +1,62 @@
+{
+ "slug": "msp-plumbing-heating-air-saint-paul",
+ "name": "MSP Plumbing Heating Air",
+ "categories": [
+  "hvac repair"
+ ],
+ "keywords": [
+  "hvac repair",
+  "heating and air",
+  "hvac repair saint paul mn",
+  "heating and air saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "hvac repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "heating and air",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "640 Grand Avenue",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55105",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55105",
+ "geo": {
+  "lat": 44.9396404,
+  "lon": -93.1271961
+ },
+ "phone": "+16512289200",
+ "website": "https://mspplumbingheatingair.com/",
+ "schema_type": "HVACBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/303411781",
+ "osm": {
+  "type": "way",
+  "id": 303411781,
+  "tags_used": {
+   "craft": "hvac"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/msp-plumbing-heating-air-saint-paul/",
+ "summary": "MSP Plumbing Heating Air is a HVAC contractor in Saint Paul, MN at 640 Grand Avenue, Saint Paul, MN 55105. Phone: +16512289200. Website: https://mspplumbingheatingair.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

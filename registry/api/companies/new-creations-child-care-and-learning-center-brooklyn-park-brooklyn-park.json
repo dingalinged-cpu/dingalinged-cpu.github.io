@@ -1,0 +1,58 @@
+{
+ "slug": "new-creations-child-care-and-learning-center-brooklyn-park-brooklyn-park",
+ "name": "New Creations Child Care & Learning Center | Brooklyn Park",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare brooklyn park mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4500 Oak Grove Parkway",
+  "addressLocality": "Brooklyn Park",
+  "addressRegion": "MN",
+  "postalCode": "55443",
+  "addressCountry": "US"
+ },
+ "city": "Brooklyn Park",
+ "state": "MN",
+ "zip": "55443",
+ "geo": {
+  "lat": 45.1313151,
+  "lon": -93.3370048
+ },
+ "phone": "+17632271304",
+ "website": "https://www.newcreationschildcare.com/brooklyn-park",
+ "email": "Marketing@newcreationschildcare.com",
+ "opening_hours": "Mo-Fr 06:30-18:00",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11030606605",
+ "osm": {
+  "type": "node",
+  "id": 11030606605,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Brooklyn Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/new-creations-child-care-and-learning-center-brooklyn-park-brooklyn-park/",
+ "summary": "New Creations Child Care & Learning Center | Brooklyn Park is a daycare in Brooklyn Park, MN at 4500 Oak Grove Parkway, Brooklyn Park, MN 55443. Phone: +17632271304. Website: https://www.newcreationschildcare.com/brooklyn-park.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

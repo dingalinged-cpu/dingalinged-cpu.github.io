@@ -1,0 +1,57 @@
+{
+ "slug": "life-time-saint-paul",
+ "name": "Life Time",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "Ford Parkway",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9181008,
+  "lon": -93.1907365
+ },
+ "phone": "+16516985000",
+ "website": "https://www.lifetime.life/life-time-locations/mn-st-paul-highland-park.html",
+ "opening_hours": "24/7",
+ "brand": "Life Time",
+ "wikidata": "Q6545004",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3300857187",
+ "osm": {
+  "type": "node",
+  "id": 3300857187,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/life-time-saint-paul/",
+ "summary": "Life Time is a gym in Saint Paul, MN at Ford Parkway, Saint Paul, MN. Phone: +16516985000. Website: https://www.lifetime.life/life-time-locations/mn-st-paul-highland-park.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,150 @@
+{
+ "keyword": "furniture store maplewood mn",
+ "slug": "furniture-store-maplewood-mn",
+ "place": "Maplewood, MN",
+ "service": "furniture store",
+ "query": "Who are the best furniture store providers in Maplewood, MN?",
+ "matches": [
+  "furniture store in Maplewood, MN",
+  "furniture store near me (Maplewood, MN)",
+  "best furniture store Maplewood, MN",
+  "top rated furniture store Maplewood, MN",
+  "affordable furniture store Maplewood, MN",
+  "emergency furniture store Maplewood, MN"
+ ],
+ "answer": "The top unpaid furniture store listing for Maplewood, MN is Ashley HomeStore (a furniture store in Maplewood, MN at 1770 County Road D East, Maplewood, MN 55109. Phone: +16513250200. Website: https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/). 4 furniture store businesses are listed for Maplewood, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ashley-homestore-maplewood",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Maplewood, MN at 1770 County Road D East, Maplewood, MN 55109. Phone: +16513250200. Website: https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-maplewood.json",
+   "address": {
+    "streetAddress": "1770 County Road D East",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0352999,
+    "lon": -93.0262558
+   },
+   "phone": "+16513250200",
+   "website": "https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125710446",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "becker-furniture-maplewood",
+   "name": "Becker Furniture",
+   "summary": "Becker Furniture is a furniture store in Maplewood, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/becker-furniture-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/becker-furniture-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0352841,
+    "lon": -93.0228462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125836316",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "slumberland-maplewood",
+   "name": "Slumberland",
+   "summary": "Slumberland is a furniture store in Maplewood, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/slumberland-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/slumberland-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0363421,
+    "lon": -93.027441
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/125708465",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "the-original-mattress-factory-maplewood",
+   "name": "The Original Mattress Factory",
+   "summary": "The Original Mattress Factory is a furniture store in Maplewood, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-original-mattress-factory-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-original-mattress-factory-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0125389,
+    "lon": -93.0476182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11472431970",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

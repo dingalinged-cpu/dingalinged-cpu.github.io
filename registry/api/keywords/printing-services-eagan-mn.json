@@ -1,0 +1,122 @@
+{
+ "keyword": "printing services eagan mn",
+ "slug": "printing-services-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "printing services",
+ "query": "Who are the best printing services providers in Eagan, MN?",
+ "matches": [
+  "printing services in Eagan, MN",
+  "printing services near me (Eagan, MN)",
+  "best printing services Eagan, MN",
+  "top rated printing services Eagan, MN",
+  "affordable printing services Eagan, MN",
+  "emergency printing services Eagan, MN"
+ ],
+ "answer": "The top unpaid printing services listing for Eagan, MN is The UPS Store (a printing service in Eagan, MN at 1960 Cliff Lake Road #129, Eagan, MN 55122. Phone: +16519941944. Website: https://locations.theupsstore.com/mn/eagan/1960-cliff-lake-rd). 3 printing services businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "the-ups-store-eagan",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Eagan, MN at 1960 Cliff Lake Road #129, Eagan, MN 55122. Phone: +16519941944. Website: https://locations.theupsstore.com/mn/eagan/1960-cliff-lake-rd.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-eagan.json",
+   "address": {
+    "streetAddress": "1960 Cliff Lake Road #129",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55122",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55122",
+   "geo": {
+    "lat": 44.792899,
+    "lon": -93.2052019
+   },
+   "phone": "+16519941944",
+   "website": "https://locations.theupsstore.com/mn/eagan/1960-cliff-lake-rd",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-16:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4824705621",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "fedex-office-eagan",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Eagan, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8307091,
+    "lon": -93.1635996
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2398910733",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "the-ups-store-eagan-n12724585213",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Eagan, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-eagan-n12724585213/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-eagan-n12724585213.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8312178,
+    "lon": -93.158781
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12724585213",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

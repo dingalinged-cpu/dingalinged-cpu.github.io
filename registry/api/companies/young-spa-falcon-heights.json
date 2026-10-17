@@ -1,0 +1,56 @@
+{
+ "slug": "young-spa-falcon-heights",
+ "name": "Young Spa",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon falcon heights mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1541 Larpenteur Avenue West",
+  "addressLocality": "Falcon Heights",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Falcon Heights",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9920782,
+  "lon": -93.1649966
+ },
+ "phone": "+16519170595",
+ "website": "https://sites.google.com/site/youngspa1/location-hours",
+ "opening_hours": "Tu-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7294714120",
+ "osm": {
+  "type": "node",
+  "id": 7294714120,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Falcon Heights",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/young-spa-falcon-heights/",
+ "summary": "Young Spa is a nail salon in Falcon Heights, MN at 1541 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16519170595. Website: https://sites.google.com/site/youngspa1/location-hours.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

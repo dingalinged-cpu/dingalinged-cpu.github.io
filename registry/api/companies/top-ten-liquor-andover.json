@@ -1,0 +1,51 @@
+{
+ "slug": "top-ten-liquor-andover",
+ "name": "Top Ten Liquor",
+ "categories": [
+  "liquor store"
+ ],
+ "keywords": [
+  "liquor store",
+  "liquor store andover mn"
+ ],
+ "services": [
+  {
+   "name": "liquor store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Andover",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Andover",
+ "state": "MN",
+ "geo": {
+  "lat": 45.2180544,
+  "lon": -93.3205097
+ },
+ "schema_type": "LiquorStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/698137990",
+ "osm": {
+  "type": "way",
+  "id": 698137990,
+  "tags_used": {
+   "shop": "alcohol"
+  }
+ },
+ "municipality": "Andover",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquor-andover/",
+ "summary": "Top Ten Liquor is a liquor store in Andover, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

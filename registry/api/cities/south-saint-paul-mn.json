@@ -1,0 +1,649 @@
+{
+ "place": "South Saint Paul, MN",
+ "slug": "south-saint-paul-mn",
+ "count": 19,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "chiropractor south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "dance studio south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "daycare south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "event venues south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "hair salon south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "haircut south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "liquor store south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "locksmith south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/locksmith-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "mechanic south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "painters south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/painters-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "plumber south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "plumbers south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "plumbing services south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "storage units south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "thrift store south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-south-saint-paul-mn.json"
+  },
+  {
+   "keyword": "used cars for sale south saint paul mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-south-saint-paul-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "a-and-a-auto-care-south-saint-paul",
+   "name": "A&A Auto Care",
+   "summary": "A&A Auto Care is an auto repair shop in South Saint Paul, MN at 1201 5th Avenue South, South Saint Paul, MN 55075. Phone: +16513749536. Website: https://aandaautocare.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-and-a-auto-care-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-and-a-auto-care-south-saint-paul.json",
+   "address": {
+    "streetAddress": "1201 5th Avenue South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8705741,
+    "lon": -93.039582
+   },
+   "phone": "+16513749536",
+   "website": "https://aandaautocare.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1312854122",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "freedom-plumbing-and-water-conditioning-south-saint-paul",
+   "name": "Freedom Plumbing and Water Conditioning",
+   "summary": "Freedom Plumbing and Water Conditioning is a plumber in South Saint Paul, MN at 101 Bridgepoint Way #suite 120, South Saint Paul, MN 55075. Phone: +16126998879. Website: https://freedomplumbingmidwest.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freedom-plumbing-and-water-conditioning-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freedom-plumbing-and-water-conditioning-south-saint-paul.json",
+   "address": {
+    "streetAddress": "101 Bridgepoint Way #suite 120",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8900959,
+    "lon": -93.0322928
+   },
+   "phone": "+16126998879",
+   "website": "https://freedomplumbingmidwest.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11728779448",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "south-st-paul-family-chiropractic-south-saint-paul-n5901565966",
+   "name": "South St.Paul Family Chiropractic",
+   "summary": "South St.Paul Family Chiropractic is a chiropractor in South Saint Paul, MN at 1345 Thompson Avenue, South Saint Paul, MN 55075. Phone: +16514502366. Website: https://drjuliefoote.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/south-st-paul-family-chiropractic-south-saint-paul-n5901565966/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/south-st-paul-family-chiropractic-south-saint-paul-n5901565966.json",
+   "address": {
+    "streetAddress": "1345 Thompson Avenue",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.9011541,
+    "lon": -93.0508582
+   },
+   "phone": "+16514502366",
+   "website": "https://drjuliefoote.com/",
+   "opening_hours": "Mo,We,Fr 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5901565966",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mighty-lock-and-safe-south-saint-paul",
+   "name": "Mighty Lock and Safe",
+   "summary": "Mighty Lock and Safe is a locksmith in South Saint Paul, MN at 1523 5th Avenue South, South Saint Paul, MN 55075. Phone: +16512074187. Website: https://www.mightylockandsafe.com/.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mighty-lock-and-safe-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mighty-lock-and-safe-south-saint-paul.json",
+   "address": {
+    "streetAddress": "1523 5th Avenue South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8646824,
+    "lon": -93.0394533
+   },
+   "phone": "+16512074187",
+   "website": "https://www.mightylockandsafe.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217026277",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hat-trick-liquors-south-saint-paul",
+   "name": "Hat Trick Liquors",
+   "summary": "Hat Trick Liquors is a liquor store in South Saint Paul, MN at 1150 Southview Boulevard, South Saint Paul, MN 55075. Phone: +16515521996.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hat-trick-liquors-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hat-trick-liquors-south-saint-paul.json",
+   "address": {
+    "streetAddress": "1150 Southview Boulevard",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8893099,
+    "lon": -93.048312
+   },
+   "phone": "+16515521996",
+   "opening_hours": "Mo-Sa 09:00-21:55",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447124503",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vickies-plaza-hairstyles-south-saint-paul",
+   "name": "Vickie's Plaza Hairstyles",
+   "summary": "Vickie's Plaza Hairstyles is a hair salon in South Saint Paul, MN at 1525 5th Avenue South, South Saint Paul, MN 55075. Phone: +16514512900.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vickies-plaza-hairstyles-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vickies-plaza-hairstyles-south-saint-paul.json",
+   "address": {
+    "streetAddress": "1525 5th Avenue South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8646334,
+    "lon": -93.039456
+   },
+   "phone": "+16514512900",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217026278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bester-brothers-transfer-and-storage-south-saint-paul",
+   "name": "Bester Brothers Transfer & Storage",
+   "summary": "Bester Brothers Transfer & Storage is a self-storage facility in South Saint Paul, MN at 260 Hardman Avenue South, South Saint Paul, MN 55075.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bester-brothers-transfer-and-storage-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bester-brothers-transfer-and-storage-south-saint-paul.json",
+   "address": {
+    "streetAddress": "260 Hardman Avenue South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8893083,
+    "lon": -93.0257586
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/493781057",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "big-discount-liquor-south-saint-paul",
+   "name": "Big Discount Liquor",
+   "summary": "Big Discount Liquor is a liquor store in South Saint Paul, MN at 333 Concord Street North, South Saint Paul, MN 55075.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-discount-liquor-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-discount-liquor-south-saint-paul.json",
+   "address": {
+    "streetAddress": "333 Concord Street North",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8959285,
+    "lon": -93.0376103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447027414",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "city-auto-glass-south-saint-paul",
+   "name": "City Auto Glass",
+   "summary": "City Auto Glass is an auto repair shop in South Saint Paul, MN at 116 Concord Exchange South, South Saint Paul, MN 55075.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/city-auto-glass-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/city-auto-glass-south-saint-paul.json",
+   "address": {
+    "streetAddress": "116 Concord Exchange South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8900553,
+    "lon": -93.0344564
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447124068",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "northern-lights-auto-sales-south-saint-paul",
+   "name": "Northern Lights Auto Sales",
+   "summary": "Northern Lights Auto Sales is an used car dealer in South Saint Paul, MN at 144 Concord Exchange South, South Saint Paul, MN 55075.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northern-lights-auto-sales-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northern-lights-auto-sales-south-saint-paul.json",
+   "address": {
+    "streetAddress": "144 Concord Exchange South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8890127,
+    "lon": -93.0341665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447124071",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pro-touch-painting-inc-south-saint-paul",
+   "name": "Pro Touch Painting, Inc.",
+   "summary": "Pro Touch Painting, Inc. is a painting contractor in South Saint Paul, MN at 139 Concord Exchange South, South Saint Paul, MN 55075.",
+   "categories": [
+    "painters"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-touch-painting-inc-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-touch-painting-inc-south-saint-paul.json",
+   "address": {
+    "streetAddress": "139 Concord Exchange South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8894257,
+    "lon": -93.0336893
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447124070",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "quality-auto-care-center-south-saint-paul",
+   "name": "Quality Auto Care Center",
+   "summary": "Quality Auto Care Center is an auto repair shop in South Saint Paul, MN at 100 Concord Exchange South, South Saint Paul, MN 55075.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quality-auto-care-center-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quality-auto-care-center-south-saint-paul.json",
+   "address": {
+    "streetAddress": "100 Concord Exchange South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8904469,
+    "lon": -93.0346313
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447124067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "walser-subaru-south-saint-paul",
+   "name": "Walser Subaru",
+   "summary": "Walser Subaru is an used car dealer in South Saint Paul, MN at 740 Concord Street South, South Saint Paul, MN 55075.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/walser-subaru-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/walser-subaru-south-saint-paul.json",
+   "address": {
+    "streetAddress": "740 Concord Street South",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8775904,
+    "lon": -93.0328945
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92921838",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rhythm-and-shoes-south-saint-paul",
+   "name": "rhythm and shoes",
+   "summary": "rhythm and shoes is a dance studio in South Saint Paul, MN at 1515, South Saint Paul, MN.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rhythm-and-shoes-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rhythm-and-shoes-south-saint-paul.json",
+   "address": {
+    "streetAddress": "1515",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8650798,
+    "lon": -93.0394416
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217026273",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cjs-hair-care-south-saint-paul",
+   "name": "CJ's Hair Care",
+   "summary": "CJ's Hair Care is a hair salon in South Saint Paul, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cjs-hair-care-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cjs-hair-care-south-saint-paul.json",
+   "address": {
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9012174,
+    "lon": -93.0507564
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5747579961",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dds-place-south-saint-paul",
+   "name": "DD's Place",
+   "summary": "DD's Place is a thrift store in South Saint Paul, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dds-place-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dds-place-south-saint-paul.json",
+   "address": {
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9012158,
+    "lon": -93.0509112
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5747579960",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "escalon-south-saint-paul",
+   "name": "Escalon",
+   "summary": "Escalon is an event venue in South Saint Paul, MN.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/escalon-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/escalon-south-saint-paul.json",
+   "address": {
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8647946,
+    "lon": -93.0394515
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217026275",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pathways-to-play-south-saint-paul",
+   "name": "Pathways to Play",
+   "summary": "Pathways to Play is a daycare in South Saint Paul, MN.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pathways-to-play-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pathways-to-play-south-saint-paul.json",
+   "address": {
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9047942,
+    "lon": -93.0567222
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5747601143",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "south-st-paul-family-chiropractic-south-saint-paul",
+   "name": "South St. Paul Family Chiropractic",
+   "summary": "South St. Paul Family Chiropractic is a chiropractor in South Saint Paul, MN.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/south-st-paul-family-chiropractic-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/south-st-paul-family-chiropractic-south-saint-paul.json",
+   "address": {
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9012141,
+    "lon": -93.0510845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5747579959",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

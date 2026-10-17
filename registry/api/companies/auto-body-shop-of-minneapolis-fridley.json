@@ -1,0 +1,62 @@
+{
+ "slug": "auto-body-shop-of-minneapolis-fridley",
+ "name": "Auto Body Shop of Minneapolis",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair fridley mn",
+  "mechanic fridley mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7741 Main Street Northeast",
+  "addressLocality": "Fridley",
+  "addressRegion": "MN",
+  "postalCode": "55432",
+  "addressCountry": "US"
+ },
+ "city": "Fridley",
+ "state": "MN",
+ "zip": "55432",
+ "geo": {
+  "lat": 45.1086962,
+  "lon": -93.2686896
+ },
+ "phone": "+17635719151",
+ "website": "https://www.autobodyshopofminneapolis.com/",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/3707375630",
+ "osm": {
+  "type": "node",
+  "id": 3707375630,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Fridley",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/auto-body-shop-of-minneapolis-fridley/",
+ "summary": "Auto Body Shop of Minneapolis is an auto repair shop in Fridley, MN at 7741 Main Street Northeast, Fridley, MN 55432. Phone: +17635719151. Website: https://www.autobodyshopofminneapolis.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

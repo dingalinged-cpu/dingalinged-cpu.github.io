@@ -1,0 +1,155 @@
+{
+ "keyword": "martial arts eden prairie mn",
+ "slug": "martial-arts-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "martial arts",
+ "query": "Who are the best martial arts providers in Eden Prairie, MN?",
+ "matches": [
+  "martial arts in Eden Prairie, MN",
+  "martial arts near me (Eden Prairie, MN)",
+  "best martial arts Eden Prairie, MN",
+  "top rated martial arts Eden Prairie, MN",
+  "affordable martial arts Eden Prairie, MN",
+  "emergency martial arts Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid martial arts listing for Eden Prairie, MN is Farrell's Extreme Bodyshaping (a martial arts school in Eden Prairie, MN at 9627 Anderson Lakes Parkway, Eden Prairie, MN 55344. Website: https://fxbedenprairie.com/). 4 martial arts businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "farrells-extreme-bodyshaping-eden-prairie",
+   "name": "Farrell's Extreme Bodyshaping",
+   "summary": "Farrell's Extreme Bodyshaping is a martial arts school in Eden Prairie, MN at 9627 Anderson Lakes Parkway, Eden Prairie, MN 55344. Website: https://fxbedenprairie.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farrells-extreme-bodyshaping-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farrells-extreme-bodyshaping-eden-prairie.json",
+   "address": {
+    "streetAddress": "9627 Anderson Lakes Parkway",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8359378,
+    "lon": -93.4004308
+   },
+   "website": "https://fxbedenprairie.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12191200556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "dojo-karate-eden-prairie",
+   "name": "Dojo Karate",
+   "summary": "Dojo Karate is a martial arts school in Eden Prairie, MN at 7916 Mitchell Road, Eden Prairie, MN 55344.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dojo-karate-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dojo-karate-eden-prairie.json",
+   "address": {
+    "streetAddress": "7916 Mitchell Road",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8602997,
+    "lon": -93.4608829
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11686247505",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "national-karate-eden-prairie",
+   "name": "National Karate",
+   "summary": "National Karate is a martial arts school in Eden Prairie, MN at 8423 Joiner Way, Eden Prairie, MN 55344.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-karate-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-karate-eden-prairie.json",
+   "address": {
+    "streetAddress": "8423 Joiner Way",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8509375,
+    "lon": -93.4305394
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12021287797",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "9-round-fitness-eden-prairie",
+   "name": "9 Round Fitness",
+   "summary": "9 Round Fitness is a martial arts school in Eden Prairie, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/9-round-fitness-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/9-round-fitness-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8583815,
+    "lon": -93.426705
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10597376662",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

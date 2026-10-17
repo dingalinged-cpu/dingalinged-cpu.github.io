@@ -1,0 +1,98 @@
+{
+ "keyword": "primary care physician saint paul mn",
+ "slug": "primary-care-physician-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "primary care physician",
+ "query": "Who are the best primary care physician providers in Saint Paul, MN?",
+ "matches": [
+  "primary care physician in Saint Paul, MN",
+  "primary care physician near me (Saint Paul, MN)",
+  "best primary care physician Saint Paul, MN",
+  "top rated primary care physician Saint Paul, MN",
+  "affordable primary care physician Saint Paul, MN",
+  "emergency primary care physician Saint Paul, MN"
+ ],
+ "answer": "The top unpaid primary care physician listing for Saint Paul, MN is Entira Family Clinics (a family medicine practice in Saint Paul, MN at 1050 Larpenteur Avenue West, Saint Paul, MN 55113. Phone: +16514872831. Website: https://entirafamilyclinics.com/primary-care-clinics/como-roseville/). 2 primary care physician businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "entira-family-clinics-saint-paul",
+   "name": "Entira Family Clinics",
+   "summary": "Entira Family Clinics is a family medicine practice in Saint Paul, MN at 1050 Larpenteur Avenue West, Saint Paul, MN 55113. Phone: +16514872831. Website: https://entirafamilyclinics.com/primary-care-clinics/como-roseville/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/entira-family-clinics-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/entira-family-clinics-saint-paul.json",
+   "address": {
+    "streetAddress": "1050 Larpenteur Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9916416,
+    "lon": -93.1451363
+   },
+   "phone": "+16514872831",
+   "website": "https://entirafamilyclinics.com/primary-care-clinics/como-roseville/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147762887",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "healthpartners-specialty-center-401-building-saint-paul",
+   "name": "HealthPartners Specialty Center 401 Building",
+   "summary": "HealthPartners Specialty Center 401 Building is a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthpartners-specialty-center-401-building-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthpartners-specialty-center-401-building-saint-paul.json",
+   "address": {
+    "streetAddress": "401 Phalen Boulevard",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55130",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55130",
+   "geo": {
+    "lat": 44.964889,
+    "lon": -93.0844197
+   },
+   "phone": "+16512547400",
+   "website": "https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/91197963",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

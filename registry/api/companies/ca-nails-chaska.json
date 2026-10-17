@@ -1,0 +1,56 @@
+{
+ "slug": "ca-nails-chaska",
+ "name": "CA Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon chaska mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "140 Pioneer Trail",
+  "addressLocality": "Chaska",
+  "addressRegion": "MN",
+  "postalCode": "55318",
+  "addressCountry": "US"
+ },
+ "city": "Chaska",
+ "state": "MN",
+ "zip": "55318",
+ "geo": {
+  "lat": 44.8299242,
+  "lon": -93.6003582
+ },
+ "website": "https://canailschaska.us/",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12880183059",
+ "osm": {
+  "type": "node",
+  "id": 12880183059,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Chaska",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/ca-nails-chaska/",
+ "summary": "CA Nails is a nail salon in Chaska, MN at 140 Pioneer Trail, Chaska, MN 55318. Website: https://canailschaska.us/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

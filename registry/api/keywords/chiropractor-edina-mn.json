@@ -1,0 +1,95 @@
+{
+ "keyword": "chiropractor edina mn",
+ "slug": "chiropractor-edina-mn",
+ "place": "Edina, MN",
+ "service": "chiropractor",
+ "query": "Who are the best chiropractor providers in Edina, MN?",
+ "matches": [
+  "chiropractor in Edina, MN",
+  "chiropractor near me (Edina, MN)",
+  "best chiropractor Edina, MN",
+  "top rated chiropractor Edina, MN",
+  "affordable chiropractor Edina, MN",
+  "emergency chiropractor Edina, MN"
+ ],
+ "answer": "The top unpaid chiropractor listing for Edina, MN is 50th & France Chiropractic & Wellness (a chiropractor in Edina, MN at 3948 West 50th Street #Suite 203, Edina, MN 55424. Phone: +19529204528. Website: https://edinachiropractic.com/). 2 chiropractor businesses are listed for Edina, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "50th-and-france-chiropractic-and-wellness-edina",
+   "name": "50th & France Chiropractic & Wellness",
+   "summary": "50th & France Chiropractic & Wellness is a chiropractor in Edina, MN at 3948 West 50th Street #Suite 203, Edina, MN 55424. Phone: +19529204528. Website: https://edinachiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/50th-and-france-chiropractic-and-wellness-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/50th-and-france-chiropractic-and-wellness-edina.json",
+   "address": {
+    "streetAddress": "3948 West 50th Street #Suite 203",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.912894,
+    "lon": -93.3313735
+   },
+   "phone": "+19529204528",
+   "website": "https://edinachiropractic.com/",
+   "opening_hours": "Mo 08:00-17:00; Tu 09:00-14:00; We 08:00-17:30; Th 09:00-12:00; Fr 08:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867367",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "edina-family-chiropractic-edina",
+   "name": "Edina Family Chiropractic",
+   "summary": "Edina Family Chiropractic is a chiropractor in Edina, MN. Website: https://edinafamilychiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-family-chiropractic-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-family-chiropractic-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.912358,
+    "lon": -93.3302152
+   },
+   "website": "https://edinafamilychiropractic.com/",
+   "opening_hours": "Mo 09:00-16:30; Tu 08:00-13:00; We 12:00-17:30; Th 09:00-16:30; Fr 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088882",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

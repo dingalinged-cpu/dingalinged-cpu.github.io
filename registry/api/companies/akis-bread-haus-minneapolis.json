@@ -1,0 +1,54 @@
+{
+ "slug": "akis-bread-haus-minneapolis",
+ "name": "Aki's Bread Haus",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0051157,
+  "lon": -93.2718257
+ },
+ "phone": "+16125787897",
+ "website": "https://akisbreadhaus.com/",
+ "email": "team@akisbreadhaus.com",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12385497822",
+ "osm": {
+  "type": "node",
+  "id": 12385497822,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/akis-bread-haus-minneapolis/",
+ "summary": "Aki's Bread Haus is a bakery in Minneapolis, MN. Phone: +16125787897. Website: https://akisbreadhaus.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

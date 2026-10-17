@@ -1,0 +1,87 @@
+{
+ "keyword": "massage minnetonka mn",
+ "slug": "massage-minnetonka-mn",
+ "place": "Minnetonka, MN",
+ "service": "massage",
+ "query": "Who are the best massage providers in Minnetonka, MN?",
+ "matches": [
+  "massage in Minnetonka, MN",
+  "massage near me (Minnetonka, MN)",
+  "best massage Minnetonka, MN",
+  "top rated massage Minnetonka, MN",
+  "affordable massage Minnetonka, MN",
+  "emergency massage Minnetonka, MN"
+ ],
+ "answer": "The top unpaid massage listing for Minnetonka, MN is Massage Envy (a massage studio in Minnetonka, MN). 2 massage businesses are listed for Minnetonka, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "massage-envy-minnetonka",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Minnetonka, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9683588,
+    "lon": -93.446605
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482424793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "massage-envy-minnetonka-n11098487967",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Minnetonka, MN.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka-n11098487967/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-minnetonka-n11098487967.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9180997,
+    "lon": -93.503938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11098487967",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

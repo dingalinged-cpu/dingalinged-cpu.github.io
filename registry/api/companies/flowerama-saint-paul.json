@@ -1,0 +1,57 @@
+{
+ "slug": "flowerama-saint-paul",
+ "name": "Flowerama",
+ "categories": [
+  "florist"
+ ],
+ "keywords": [
+  "florist",
+  "florist saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "florist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1676 Lexington Parkway North",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55117",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55117",
+ "geo": {
+  "lat": 44.9917557,
+  "lon": -93.1461659
+ },
+ "phone": "+16514890338",
+ "website": "https://www.floweramasp.com/",
+ "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-17:00; Su 10:00-16:00",
+ "schema_type": "Florist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6554291311",
+ "osm": {
+  "type": "node",
+  "id": 6554291311,
+  "tags_used": {
+   "shop": "florist"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/flowerama-saint-paul/",
+ "summary": "Flowerama is a florist in Saint Paul, MN at 1676 Lexington Parkway North, Saint Paul, MN 55117. Phone: +16514890338. Website: https://www.floweramasp.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

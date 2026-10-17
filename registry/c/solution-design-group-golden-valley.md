@@ -1,0 +1,23 @@
+Solution Design Group is a business consultant in Golden Valley, MN at 7500 Olson Memorial Hwy #250, Golden Valley, MN 55427. Phone: +19522782500. Website: https://www.solutiondesign.com/.
+
+# Solution Design Group
+
+- Category: business consultant
+- Services: business consultant
+- Address: 7500 Olson Memorial Hwy #250, Golden Valley, MN 55427
+- City: Golden Valley
+- State: MN
+- ZIP: 55427
+- Coordinates: 44.9837671, -93.3766451
+- Phone: +19522782500
+- Website: https://www.solutiondesign.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/solution-design-group-golden-valley/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/solution-design-group-golden-valley.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12705578844 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

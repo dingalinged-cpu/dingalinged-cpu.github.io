@@ -1,0 +1,198 @@
+{
+ "keyword": "pet store saint louis park mn",
+ "slug": "pet-store-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "pet store",
+ "query": "Who are the best pet store providers in Saint Louis Park, MN?",
+ "matches": [
+  "pet store in Saint Louis Park, MN",
+  "pet store near me (Saint Louis Park, MN)",
+  "best pet store Saint Louis Park, MN",
+  "top rated pet store Saint Louis Park, MN",
+  "affordable pet store Saint Louis Park, MN",
+  "emergency pet store Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid pet store listing for Saint Louis Park, MN is PetSmart (a pet store in Saint Louis Park, MN at 5640 Cedar Lake Road, Saint Louis Park, MN 55416. Phone: +19527979798. Website: https://www.petsmart.com/stores/us/mn/minneapolis-store0463.html). 5 pet store businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "petsmart-saint-louis-park",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Saint Louis Park, MN at 5640 Cedar Lake Road, Saint Louis Park, MN 55416. Phone: +19527979798. Website: https://www.petsmart.com/stores/us/mn/minneapolis-store0463.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5640 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.963929,
+    "lon": -93.3507194
+   },
+   "phone": "+19527979798",
+   "website": "https://www.petsmart.com/stores/us/mn/minneapolis-store0463.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/754441320",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "pampered-pooch-playground-saint-louis-park",
+   "name": "Pampered Pooch Playground",
+   "summary": "Pampered Pooch Playground is a pet store in Saint Louis Park, MN at 7020 Walker Street, Saint Louis Park, MN 55426. Phone: +19529228183. Website: https://www.pamperedpoochplayground.com/?y_source=1_MjU3NDY4OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pampered-pooch-playground-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pampered-pooch-playground-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7020 Walker Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9392296,
+    "lon": -93.3668371
+   },
+   "phone": "+19529228183",
+   "website": "https://www.pamperedpoochplayground.com/?y_source=1_MjU3NDY4OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/435068841",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "premier-aquarium-service-saint-louis-park",
+   "name": "Premier Aquarium Service",
+   "summary": "Premier Aquarium Service is a pet store in Saint Louis Park, MN at 5801 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16122431335. Website: https://www.premieraquarium.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/premier-aquarium-service-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/premier-aquarium-service-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5801 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9288148,
+    "lon": -93.3534168
+   },
+   "phone": "+16122431335",
+   "website": "https://www.premieraquarium.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/914286357",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "underdog-rescue-mn-saint-louis-park",
+   "name": "Underdog Rescue MN",
+   "summary": "Underdog Rescue MN is a pet store in Saint Louis Park, MN at 3345 Dakota Avenue South, Saint Louis Park, MN 55416. Phone: +19529290777. Website: https://www.underdogrescuemn.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/underdog-rescue-mn-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/underdog-rescue-mn-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3345 Dakota Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9430701,
+    "lon": -93.3600704
+   },
+   "phone": "+19529290777",
+   "website": "https://www.underdogrescuemn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/612817351",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "petropawlis-saint-louis-park",
+   "name": "Petropawlis",
+   "summary": "Petropawlis is a pet store in Saint Louis Park, MN at 6500 Lake Street West, Saint Louis Park, MN 55426.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petropawlis-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petropawlis-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6500 Lake Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9413759,
+    "lon": -93.3612603
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604654639",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

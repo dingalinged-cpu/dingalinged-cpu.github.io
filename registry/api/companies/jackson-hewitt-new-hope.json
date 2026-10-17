@@ -1,0 +1,59 @@
+{
+ "slug": "jackson-hewitt-new-hope",
+ "name": "Jackson Hewitt",
+ "categories": [
+  "tax preparation"
+ ],
+ "keywords": [
+  "tax preparation",
+  "tax preparer",
+  "tax preparation new hope mn",
+  "tax preparer new hope mn"
+ ],
+ "services": [
+  {
+   "name": "tax preparation",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "tax preparer",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "New Hope",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "New Hope",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0336554,
+  "lon": -93.3819396
+ },
+ "brand": "Jackson Hewitt",
+ "wikidata": "Q6117132",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7089810772",
+ "osm": {
+  "type": "node",
+  "id": 7089810772,
+  "tags_used": {
+   "office": "tax_advisor"
+  }
+ },
+ "municipality": "New Hope",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-new-hope/",
+ "summary": "Jackson Hewitt is a tax preparation service in New Hope, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

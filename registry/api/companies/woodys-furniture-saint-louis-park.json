@@ -1,0 +1,57 @@
+{
+ "slug": "woodys-furniture-saint-louis-park",
+ "name": "Woody's Furniture",
+ "categories": [
+  "furniture store"
+ ],
+ "keywords": [
+  "furniture store",
+  "furniture store saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "furniture store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5217 Excelsior Boulevard",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55416",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55416",
+ "geo": {
+  "lat": 44.9306102,
+  "lon": -93.346883
+ },
+ "phone": "+19529296300",
+ "website": "https://www.woodysfurniture.com/",
+ "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-17:00; PH closed",
+ "schema_type": "FurnitureStore",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/2246717604",
+ "osm": {
+  "type": "node",
+  "id": 2246717604,
+  "tags_used": {
+   "shop": "furniture"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/woodys-furniture-saint-louis-park/",
+ "summary": "Woody's Furniture is a furniture store in Saint Louis Park, MN at 5217 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529296300. Website: https://www.woodysfurniture.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

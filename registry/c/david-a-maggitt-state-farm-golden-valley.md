@@ -1,0 +1,23 @@
+David A Maggitt - State Farm is a real estate agency in Golden Valley, MN at 4969 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17635451927. Website: https://www.statefarm.com/agent/US/MN/Golden-Valley/David-A-Maggitt-WB84S1YS000?cmpid=gbfr_blm_0001.
+
+# David A Maggitt - State Farm
+
+- Category: real estate agent
+- Services: real estate agent, realtor
+- Address: 4969 Olson Memorial Highway, Golden Valley, MN 55422
+- City: Golden Valley
+- State: MN
+- ZIP: 55422
+- Coordinates: 44.9832806, -93.3424151
+- Phone: +17635451927
+- Website: https://www.statefarm.com/agent/US/MN/Golden-Valley/David-A-Maggitt-WB84S1YS000?cmpid=gbfr_blm_0001
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/david-a-maggitt-state-farm-golden-valley/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/david-a-maggitt-state-farm-golden-valley.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11124443897 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

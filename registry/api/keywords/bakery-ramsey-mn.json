@@ -1,0 +1,61 @@
+{
+ "keyword": "bakery ramsey mn",
+ "slug": "bakery-ramsey-mn",
+ "place": "Ramsey, MN",
+ "service": "bakery",
+ "query": "Who are the best bakery providers in Ramsey, MN?",
+ "matches": [
+  "bakery in Ramsey, MN",
+  "bakery near me (Ramsey, MN)",
+  "best bakery Ramsey, MN",
+  "top rated bakery Ramsey, MN",
+  "affordable bakery Ramsey, MN",
+  "emergency bakery Ramsey, MN"
+ ],
+ "answer": "The top unpaid bakery listing for Ramsey, MN is Allison's Petite Pastries Bakery (a bakery in Ramsey, MN at 14037 Saint Francis Boulevard, Ramsey, MN 55303). 1 bakery businesses are listed for Ramsey, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "allisons-petite-pastries-bakery-ramsey",
+   "name": "Allison's Petite Pastries Bakery",
+   "summary": "Allison's Petite Pastries Bakery is a bakery in Ramsey, MN at 14037 Saint Francis Boulevard, Ramsey, MN 55303.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allisons-petite-pastries-bakery-ramsey/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allisons-petite-pastries-bakery-ramsey.json",
+   "address": {
+    "streetAddress": "14037 Saint Francis Boulevard",
+    "addressLocality": "Ramsey",
+    "addressRegion": "MN",
+    "postalCode": "55303",
+    "addressCountry": "US"
+   },
+   "city": "Ramsey",
+   "state": "MN",
+   "zip": "55303",
+   "geo": {
+    "lat": 45.225945,
+    "lon": -93.3967055
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13504705533",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

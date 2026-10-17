@@ -1,0 +1,56 @@
+{
+ "slug": "charles-schwab-eden-prairie",
+ "name": "Charles Schwab",
+ "categories": [
+  "financial advisor"
+ ],
+ "keywords": [
+  "financial advisor",
+  "financial advisor eden prairie mn"
+ ],
+ "services": [
+  {
+   "name": "financial advisor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7914 Mitchell Road",
+  "addressLocality": "Eden Prairie",
+  "addressRegion": "MN",
+  "postalCode": "55344",
+  "addressCountry": "US"
+ },
+ "city": "Eden Prairie",
+ "state": "MN",
+ "zip": "55344",
+ "geo": {
+  "lat": 44.8603814,
+  "lon": -93.4608832
+ },
+ "brand": "Charles Schwab",
+ "wikidata": "Q1066028",
+ "schema_type": "FinancialService",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6773408073",
+ "osm": {
+  "type": "node",
+  "id": 6773408073,
+  "tags_used": {
+   "office": "financial_advisor"
+  }
+ },
+ "municipality": "Eden Prairie",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-eden-prairie/",
+ "summary": "Charles Schwab is a financial advisor in Eden Prairie, MN at 7914 Mitchell Road, Eden Prairie, MN 55344.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

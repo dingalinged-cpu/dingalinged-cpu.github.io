@@ -1,0 +1,54 @@
+{
+ "slug": "childrens-world-learning-center-eagan",
+ "name": "Childrens World Learning Center",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare eagan mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1101 Town Centre Drive",
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "postalCode": "55123",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "zip": "55123",
+ "geo": {
+  "lat": 44.8317479,
+  "lon": -93.1475338
+ },
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/533507283",
+ "osm": {
+  "type": "way",
+  "id": 533507283,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/childrens-world-learning-center-eagan/",
+ "summary": "Childrens World Learning Center is a daycare in Eagan, MN at 1101 Town Centre Drive, Eagan, MN 55123.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

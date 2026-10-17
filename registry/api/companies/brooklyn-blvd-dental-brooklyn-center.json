@@ -1,0 +1,58 @@
+{
+ "slug": "brooklyn-blvd-dental-brooklyn-center",
+ "name": "Brooklyn Blvd. Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist brooklyn center mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5831 Brooklyn Boulevard",
+  "addressLocality": "Brooklyn Center",
+  "addressRegion": "MN",
+  "postalCode": "55429",
+  "addressCountry": "US"
+ },
+ "city": "Brooklyn Center",
+ "state": "MN",
+ "zip": "55429",
+ "geo": {
+  "lat": 45.0614191,
+  "lon": -93.3256555
+ },
+ "phone": "+17635338669",
+ "website": "https://brooklynblvddental.com/",
+ "email": "frontdesk1@brooklynblvddental.com",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1039199196",
+ "osm": {
+  "type": "way",
+  "id": 1039199196,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Brooklyn Center",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/brooklyn-blvd-dental-brooklyn-center/",
+ "summary": "Brooklyn Blvd. Dental is a dentist in Brooklyn Center, MN at 5831 Brooklyn Boulevard, Brooklyn Center, MN 55429. Phone: +17635338669. Website: https://brooklynblvddental.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

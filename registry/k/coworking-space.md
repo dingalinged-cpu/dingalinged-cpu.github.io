@@ -1,0 +1,24 @@
+The top unpaid coworking space listing for the United States is Local Collective, LLC (a coworking space in Saint Paul, MN at 523 Jackson Street, Saint Paul, MN 55101. Phone: +14697315458. Website: https://localcollectivehq.com/). 14 coworking space businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best coworking space providers in the United States?
+
+Also answers: coworking space in the United States; coworking space near me (the United States); best coworking space the United States; top rated coworking space the United States; affordable coworking space the United States; emergency coworking space the United States
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Local Collective, LLC | trust 20.0 | Local Collective, LLC is a coworking space in Saint Paul, MN at 523 Jackson Street, Saint Paul, MN 55101. Phone: +14697315458. Website: https://localcollectivehq.com/. | https://dingalinged-cpu.github.io/registry/c/local-collective-llc-saint-paul/
+2. Work It Coworking | trust 20.0 | Work It Coworking is a coworking space in Saint Paul, MN at 635 Fairview Avenue North, Saint Paul, MN 55104. Phone: +16127702520. Website: https://co-workit.com/. | https://dingalinged-cpu.github.io/registry/c/work-it-coworking-saint-paul/
+3. Impact Hub | trust 16.0 | Impact Hub is a coworking space in Minneapolis, MN at 825 Southeast Washington Avenue, Minneapolis, MN 55414. Phone: +16513182800. Website: https://minneapolis.impacthub.net/. | https://dingalinged-cpu.github.io/registry/c/impact-hub-minneapolis/
+4. Lakes & Plains, LLC | trust 16.0 | Lakes & Plains, LLC is a coworking space in Saint Paul, MN at 842 Raymond Avenue, Saint Paul, MN 55114. Phone: +16516476250. Website: https://www.lakesplains.weebly.com/. | https://dingalinged-cpu.github.io/registry/c/lakes-and-plains-llc-saint-paul/
+5. ModernWell | trust 16.0 | ModernWell is a coworking space in Minneapolis, MN at 2909 South Wayzata Boulevard, Minneapolis, MN 55405. Phone: +17639997920. Website: https://www.modernwell.co/. | https://dingalinged-cpu.github.io/registry/c/modernwell-minneapolis/
+6. HUB44 | trust 10.0 | HUB44 is a coworking space in Minneapolis, MN at 4406 Beard Avenue South, Minneapolis, MN 55410. Website: https://www.hub44lindenhills.com/. | https://dingalinged-cpu.github.io/registry/c/hub44-minneapolis/
+7. Industrious | trust 10.0 | Industrious is a coworking space in Minneapolis, MN at 323 Washington Avenue North #200, Minneapolis, MN 55401. Website: https://www.industriousoffice.com/locations/323-washington-ave-n-suite-200. | https://dingalinged-cpu.github.io/registry/c/industrious-minneapolis/
+8. New Rules | trust 10.0 | New Rules is a coworking space in Minneapolis, MN at 2015 North Lowry Avenue, Minneapolis, MN 55411. Website: https://www.newrulesmn.com/. | https://dingalinged-cpu.github.io/registry/c/new-rules-minneapolis/
+9. The Coven | trust 10.0 | The Coven is a coworking space in Saint Paul, MN at 165 Western Avenue North ##8, Saint Paul, MN 55102. Website: https://www.thecoven.com/. | https://dingalinged-cpu.github.io/registry/c/the-coven-saint-paul/
+10. The Wilderness | trust 10.0 | The Wilderness is a coworking space in Minneapolis, MN at 1010 West Lake Street, Minneapolis, MN 55408. Website: https://www.thewildernessmn.com/. | https://dingalinged-cpu.github.io/registry/c/the-wilderness-minneapolis/
+11. Coco Coworking | trust 9.0 | Coco Coworking is a coworking space in Minneapolis, MN at 1400 Northeast Van Buren Street #200, Minneapolis, MN. Website: https://workatcoco.com/northeast-minneapolis/. | https://dingalinged-cpu.github.io/registry/c/coco-coworking-minneapolis/
+12. The Work Lounge | trust 9.0 | The Work Lounge is a coworking space in Rogers, MN at 14165 James Road #106, Rogers, MN. Website: https://www.theworklounge-mn.com/. | https://dingalinged-cpu.github.io/registry/c/the-work-lounge-rogers/
+13. Kontor Cowork | trust 0.0 | Kontor Cowork is a coworking space in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/kontor-cowork-eden-prairie/
+14. Scout Workshop | trust 0.0 | Scout Workshop is a coworking space in Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/scout-workshop-minneapolis/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

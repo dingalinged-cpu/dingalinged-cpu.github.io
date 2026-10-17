@@ -1,0 +1,87 @@
+{
+ "keyword": "gym new brighton mn",
+ "slug": "gym-new-brighton-mn",
+ "place": "New Brighton, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in New Brighton, MN?",
+ "matches": [
+  "gym in New Brighton, MN",
+  "gym near me (New Brighton, MN)",
+  "best gym New Brighton, MN",
+  "top rated gym New Brighton, MN",
+  "affordable gym New Brighton, MN",
+  "emergency gym New Brighton, MN"
+ ],
+ "answer": "The top unpaid gym listing for New Brighton, MN is Gifford Fitness (a gym in New Brighton, MN). 2 gym businesses are listed for New Brighton, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "gifford-fitness-new-brighton",
+   "name": "Gifford Fitness",
+   "summary": "Gifford Fitness is a gym in New Brighton, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gifford-fitness-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gifford-fitness-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0452624,
+    "lon": -93.1991451
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7361169690",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "la-fitness-new-brighton",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in New Brighton, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0656377,
+    "lon": -93.2165313
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/261305130",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

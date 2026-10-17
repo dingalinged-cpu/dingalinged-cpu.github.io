@@ -1,0 +1,13 @@
+{
+ "name": "Company Registry",
+ "mcp_server": null,
+ "transport": "streamable-http",
+ "tools": [
+  "search_companies",
+  "get_company",
+  "list_keywords",
+  "keyword_price",
+  "auction_schedule"
+ ],
+ "source": "agent_server/server.py"
+}

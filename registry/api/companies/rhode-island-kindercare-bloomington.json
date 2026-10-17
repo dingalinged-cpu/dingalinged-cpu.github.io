@@ -1,0 +1,57 @@
+{
+ "slug": "rhode-island-kindercare-bloomington",
+ "name": "Rhode Island KinderCare",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare bloomington mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "10801 Rhode Island Avenue South",
+  "addressLocality": "Bloomington",
+  "addressRegion": "MN",
+  "postalCode": "55438",
+  "addressCountry": "US"
+ },
+ "city": "Bloomington",
+ "state": "MN",
+ "zip": "55438",
+ "geo": {
+  "lat": 44.8076704,
+  "lon": -93.3812315
+ },
+ "phone": "+19529417817",
+ "website": "https://www.kindercare.com/our-centers/bloomington/mn/301201",
+ "opening_hours": "Mo-Fr 06:30-18:30",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/363001407",
+ "osm": {
+  "type": "way",
+  "id": 363001407,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Bloomington",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/rhode-island-kindercare-bloomington/",
+ "summary": "Rhode Island KinderCare is a daycare in Bloomington, MN at 10801 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529417817. Website: https://www.kindercare.com/our-centers/bloomington/mn/301201.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

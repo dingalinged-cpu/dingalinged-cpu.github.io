@@ -1,0 +1,60 @@
+{
+ "slug": "valvoline-shorewood",
+ "name": "Valvoline",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair shorewood mn",
+  "mechanic shorewood mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Shorewood",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Shorewood",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9096282,
+  "lon": -93.5267973
+ },
+ "website": "https://store.vioc.com/mn/shorewood/oil-change-010018.html",
+ "brand": "Valvoline",
+ "wikidata": "Q7912852",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11735236153",
+ "osm": {
+  "type": "node",
+  "id": 11735236153,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Shorewood",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-shorewood/",
+ "summary": "Valvoline is an auto repair shop in Shorewood, MN. Website: https://store.vioc.com/mn/shorewood/oil-change-010018.html.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

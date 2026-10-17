@@ -1,0 +1,57 @@
+{
+ "slug": "health-sense-dental-chanhassen",
+ "name": "Health Sense Dental",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist shorewood mn",
+  "dentist chanhassen mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "6140 Lake Linden Drive #235",
+  "addressLocality": "Chanhassen",
+  "addressRegion": "MN",
+  "postalCode": "55331",
+  "addressCountry": "US"
+ },
+ "city": "Chanhassen",
+ "state": "MN",
+ "zip": "55331",
+ "geo": {
+  "lat": 44.8923004,
+  "lon": -93.5835462
+ },
+ "opening_hours": "Mo-Th 07:00-19:00, Fr 07:00-12:00",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11215325078",
+ "osm": {
+  "type": "node",
+  "id": 11215325078,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Shorewood",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/health-sense-dental-chanhassen/",
+ "summary": "Health Sense Dental is a dentist in Chanhassen, MN at 6140 Lake Linden Drive #235, Chanhassen, MN 55331.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

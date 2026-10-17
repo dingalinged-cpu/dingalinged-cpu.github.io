@@ -1,0 +1,55 @@
+{
+ "slug": "green-river-tattoo-minneapolis",
+ "name": "Green River Tattoo",
+ "categories": [
+  "tattoo shop"
+ ],
+ "keywords": [
+  "tattoo shop",
+  "tattoo shop minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "tattoo shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "118 East 26th Street",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55404",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55404",
+ "geo": {
+  "lat": 44.9556799,
+  "lon": -93.2754982
+ },
+ "opening_hours": "Tu-Sa 12:00-20:00",
+ "schema_type": "TattooParlor",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4619562330",
+ "osm": {
+  "type": "node",
+  "id": 4619562330,
+  "tags_used": {
+   "shop": "tattoo"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/green-river-tattoo-minneapolis/",
+ "summary": "Green River Tattoo is a tattoo shop in Minneapolis, MN at 118 East 26th Street, Minneapolis, MN 55404.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

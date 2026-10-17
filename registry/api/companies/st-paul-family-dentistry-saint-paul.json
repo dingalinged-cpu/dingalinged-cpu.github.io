@@ -1,0 +1,59 @@
+{
+ "slug": "st-paul-family-dentistry-saint-paul",
+ "name": "St. Paul Family Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1050 Larpenteur Avenue West",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55113",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55113",
+ "geo": {
+  "lat": 44.9917738,
+  "lon": -93.1450713
+ },
+ "phone": "+16514885522",
+ "website": "https://www.stpaulfamilydentistry.com/",
+ "opening_hours": "Mo 06:30-17:00; Tu 06:30-20:00; We-Th 06:30-19:00; Fr 06:30-14:00; Sa 09:00-13:00",
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7147762889",
+ "osm": {
+  "type": "node",
+  "id": 7147762889,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist",
+   "healthcare:speciality": "dentist"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/st-paul-family-dentistry-saint-paul/",
+ "summary": "St. Paul Family Dentistry is a dentist in Saint Paul, MN at 1050 Larpenteur Avenue West, Saint Paul, MN 55113. Phone: +16514885522. Website: https://www.stpaulfamilydentistry.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

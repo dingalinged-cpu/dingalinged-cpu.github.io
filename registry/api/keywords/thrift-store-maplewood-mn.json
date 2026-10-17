@@ -1,0 +1,58 @@
+{
+ "keyword": "thrift store maplewood mn",
+ "slug": "thrift-store-maplewood-mn",
+ "place": "Maplewood, MN",
+ "service": "thrift store",
+ "query": "Who are the best thrift store providers in Maplewood, MN?",
+ "matches": [
+  "thrift store in Maplewood, MN",
+  "thrift store near me (Maplewood, MN)",
+  "best thrift store Maplewood, MN",
+  "top rated thrift store Maplewood, MN",
+  "affordable thrift store Maplewood, MN",
+  "emergency thrift store Maplewood, MN"
+ ],
+ "answer": "The top unpaid thrift store listing for Maplewood, MN is Goodwill (a thrift store in Maplewood, MN). 1 thrift store businesses are listed for Maplewood, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "goodwill-maplewood",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Maplewood, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0183391,
+    "lon": -93.0188946
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11481133170",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

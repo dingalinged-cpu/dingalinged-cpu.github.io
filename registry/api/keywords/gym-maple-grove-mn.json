@@ -1,0 +1,262 @@
+{
+ "keyword": "gym maple grove mn",
+ "slug": "gym-maple-grove-mn",
+ "place": "Maple Grove, MN",
+ "service": "gym",
+ "query": "Who are the best gym providers in Maple Grove, MN?",
+ "matches": [
+  "gym in Maple Grove, MN",
+  "gym near me (Maple Grove, MN)",
+  "best gym Maple Grove, MN",
+  "top rated gym Maple Grove, MN",
+  "affordable gym Maple Grove, MN",
+  "emergency gym Maple Grove, MN"
+ ],
+ "answer": "The top unpaid gym listing for Maple Grove, MN is Life Time (a gym in Maple Grove, MN at 12601 82nd Avenue North, Maple Grove, MN 55369. Phone: +17634208282. Website: https://www.lifetime.life/life-time-locations/mn-maple-grove.html). 7 gym businesses are listed for Maple Grove, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "life-time-maple-grove",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Maple Grove, MN at 12601 82nd Avenue North, Maple Grove, MN 55369. Phone: +17634208282. Website: https://www.lifetime.life/life-time-locations/mn-maple-grove.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-maple-grove.json",
+   "address": {
+    "streetAddress": "12601 82nd Avenue North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1034906,
+    "lon": -93.4413711
+   },
+   "phone": "+17634208282",
+   "website": "https://www.lifetime.life/life-time-locations/mn-maple-grove.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/99663943",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "anytime-fitness-maple-grove",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Maple Grove, MN at 6450 Vinewood Lane North, Maple Grove, MN 55311. Phone: +17638983956. Website: https://www.anytimefitness.com/gyms/4394/maple-grove-mn-55311/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-maple-grove.json",
+   "address": {
+    "streetAddress": "6450 Vinewood Lane North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.0706012,
+    "lon": -93.4481411
+   },
+   "phone": "+17638983956",
+   "website": "https://www.anytimefitness.com/gyms/4394/maple-grove-mn-55311/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9264417518",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "farrells-extreme-bodyshaping-maple-grove",
+   "name": "Farrell's Extreme Bodyshaping",
+   "summary": "Farrell's Extreme Bodyshaping is a gym in Maple Grove, MN at 9893 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +16123982929. Website: https://fxbmaplegrove.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farrells-extreme-bodyshaping-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farrells-extreme-bodyshaping-maple-grove.json",
+   "address": {
+    "streetAddress": "9893 Maple Grove Parkway",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1336759,
+    "lon": -93.4769296
+   },
+   "phone": "+16123982929",
+   "website": "https://fxbmaplegrove.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9291222003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "planet-fitness-maple-grove",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Maple Grove, MN at 12059 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17632056918. Website: https://www.planetfitness.com/gyms/maple-grove-mn.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-maple-grove.json",
+   "address": {
+    "streetAddress": "12059 Elm Creek Boulevard",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0926878,
+    "lon": -93.433551
+   },
+   "phone": "+17632056918",
+   "website": "https://www.planetfitness.com/gyms/maple-grove-mn",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4756519451",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "snap-fitness-maple-grove",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Maple Grove, MN at 13408 Bass Lake Road, Maple Grove, MN 55311. Phone: +17634474014. Website: https://www.snapfitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-maple-grove.json",
+   "address": {
+    "streetAddress": "13408 Bass Lake Road",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.0689706,
+    "lon": -93.4499504
+   },
+   "phone": "+17634474014",
+   "website": "https://www.snapfitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3243108388",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "orangetheory-fitness-maple-grove",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Maple Grove, MN at 8121 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17636571313.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-maple-grove.json",
+   "address": {
+    "streetAddress": "8121 Wedgewood Lane",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1025494,
+    "lon": -93.4504786
+   },
+   "phone": "+17636571313",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/613971262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "burn-boot-camp-maple-grove",
+   "name": "Burn Boot Camp",
+   "summary": "Burn Boot Camp is a gym in Maple Grove, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burn-boot-camp-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burn-boot-camp-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1043145,
+    "lon": -93.4642362
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/553165393",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "slug": "plymouth-heights-pet-hospital-new-hope",
+ "name": "Plymouth Heights Pet Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet new hope mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "9200 49th Avenue North",
+  "addressLocality": "New Hope",
+  "addressRegion": "MN",
+  "postalCode": "55428",
+  "addressCountry": "US"
+ },
+ "city": "New Hope",
+ "state": "MN",
+ "zip": "55428",
+ "geo": {
+  "lat": 45.04458,
+  "lon": -93.3973281
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/773589529",
+ "osm": {
+  "type": "way",
+  "id": 773589529,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "New Hope",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/plymouth-heights-pet-hospital-new-hope/",
+ "summary": "Plymouth Heights Pet Hospital is a veterinarian in New Hope, MN at 9200 49th Avenue North, New Hope, MN 55428.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,58 @@
+{
+ "keyword": "carpet installation",
+ "slug": "carpet-installation",
+ "place": "the United States",
+ "service": "carpet installation",
+ "query": "Who are the best carpet installation providers in the United States?",
+ "matches": [
+  "carpet installation in the United States",
+  "carpet installation near me (the United States)",
+  "best carpet installation the United States",
+  "top rated carpet installation the United States",
+  "affordable carpet installation the United States",
+  "emergency carpet installation the United States"
+ ],
+ "answer": "The top unpaid carpet installation listing for the United States is Schneider Carpet One (a carpet installer in Saint Paul, MN). 1 carpet installation businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "schneider-carpet-one-saint-paul",
+   "name": "Schneider Carpet One",
+   "summary": "Schneider Carpet One is a carpet installer in Saint Paul, MN.",
+   "categories": [
+    "carpet installation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schneider-carpet-one-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schneider-carpet-one-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9246028,
+    "lon": -93.1309449
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/107351529",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

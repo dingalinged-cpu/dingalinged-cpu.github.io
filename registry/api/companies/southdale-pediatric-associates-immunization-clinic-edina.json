@@ -1,0 +1,57 @@
+{
+ "slug": "southdale-pediatric-associates-immunization-clinic-edina",
+ "name": "Southdale Pediatric Associates Immunization Clinic",
+ "categories": [
+  "allergist"
+ ],
+ "keywords": [
+  "allergist",
+  "allergist edina mn"
+ ],
+ "services": [
+  {
+   "name": "allergist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3955 Parklawn Avenue #110",
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "postalCode": "55435",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "zip": "55435",
+ "geo": {
+  "lat": 44.8675059,
+  "lon": -93.3307447
+ },
+ "website": "https://www.southdalepeds.com/locations/edina/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12812299734",
+ "osm": {
+  "type": "node",
+  "id": 12812299734,
+  "tags_used": {
+   "amenity": "doctors",
+   "healthcare": "doctor",
+   "healthcare:speciality": "allergology"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/southdale-pediatric-associates-immunization-clinic-edina/",
+ "summary": "Southdale Pediatric Associates Immunization Clinic is an allergist in Edina, MN at 3955 Parklawn Avenue #110, Edina, MN 55435. Website: https://www.southdalepeds.com/locations/edina/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

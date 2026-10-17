@@ -1,0 +1,58 @@
+{
+ "slug": "vs-barbershop-white-bear-lake",
+ "name": "V's Barbershop",
+ "categories": [
+  "hair salon"
+ ],
+ "keywords": [
+  "hair salon",
+  "haircut",
+  "hair salon white bear lake mn",
+  "haircut white bear lake mn"
+ ],
+ "services": [
+  {
+   "name": "hair salon",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "haircut",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "999 Wildwood Road",
+  "addressLocality": "White Bear Lake",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "White Bear Lake",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0505123,
+  "lon": -92.9843539
+ },
+ "schema_type": "HairSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12162218161",
+ "osm": {
+  "type": "node",
+  "id": 12162218161,
+  "tags_used": {
+   "shop": "hairdresser"
+  }
+ },
+ "municipality": "White Bear Lake",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/vs-barbershop-white-bear-lake/",
+ "summary": "V's Barbershop is a hair salon in White Bear Lake, MN at 999 Wildwood Road, White Bear Lake, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

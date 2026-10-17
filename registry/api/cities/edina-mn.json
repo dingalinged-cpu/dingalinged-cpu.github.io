@@ -1,0 +1,4032 @@
+{
+ "place": "Edina, MN",
+ "slug": "edina-mn",
+ "count": 128,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-edina-mn.json"
+  },
+  {
+   "keyword": "accounting services edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-edina-mn.json"
+  },
+  {
+   "keyword": "acupuncture edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/acupuncture-edina-mn.json"
+  },
+  {
+   "keyword": "allergist edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/allergist-edina-mn.json"
+  },
+  {
+   "keyword": "assisted living edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-edina-mn.json"
+  },
+  {
+   "keyword": "auto repair edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-edina-mn.json"
+  },
+  {
+   "keyword": "bakery edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-edina-mn.json"
+  },
+  {
+   "keyword": "barber shop edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-edina-mn.json"
+  },
+  {
+   "keyword": "car wash edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-edina-mn.json"
+  },
+  {
+   "keyword": "chiropractor edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-edina-mn.json"
+  },
+  {
+   "keyword": "dance studio edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-edina-mn.json"
+  },
+  {
+   "keyword": "daycare edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-edina-mn.json"
+  },
+  {
+   "keyword": "dentist edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-edina-mn.json"
+  },
+  {
+   "keyword": "dog groomer edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-edina-mn.json"
+  },
+  {
+   "keyword": "driving school edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/driving-school-edina-mn.json"
+  },
+  {
+   "keyword": "dry cleaners edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-edina-mn.json"
+  },
+  {
+   "keyword": "eye doctor edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-edina-mn.json"
+  },
+  {
+   "keyword": "facial edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-edina-mn.json"
+  },
+  {
+   "keyword": "financial advisor edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-edina-mn.json"
+  },
+  {
+   "keyword": "florist edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-edina-mn.json"
+  },
+  {
+   "keyword": "funeral home edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-edina-mn.json"
+  },
+  {
+   "keyword": "furniture store edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-edina-mn.json"
+  },
+  {
+   "keyword": "gift shop edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-edina-mn.json"
+  },
+  {
+   "keyword": "gym edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-edina-mn.json"
+  },
+  {
+   "keyword": "hair salon edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-edina-mn.json"
+  },
+  {
+   "keyword": "haircut edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-edina-mn.json"
+  },
+  {
+   "keyword": "jewelry store edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-edina-mn.json"
+  },
+  {
+   "keyword": "liquor store edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-edina-mn.json"
+  },
+  {
+   "keyword": "marketing agency edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/marketing-agency-edina-mn.json"
+  },
+  {
+   "keyword": "martial arts edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-edina-mn.json"
+  },
+  {
+   "keyword": "massage edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-edina-mn.json"
+  },
+  {
+   "keyword": "mattress store edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-edina-mn.json"
+  },
+  {
+   "keyword": "mechanic edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-edina-mn.json"
+  },
+  {
+   "keyword": "nail salon edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-edina-mn.json"
+  },
+  {
+   "keyword": "pediatrician edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pediatrician-edina-mn.json"
+  },
+  {
+   "keyword": "photographer edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/photographer-edina-mn.json"
+  },
+  {
+   "keyword": "physical therapy edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-edina-mn.json"
+  },
+  {
+   "keyword": "pilates edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pilates-edina-mn.json"
+  },
+  {
+   "keyword": "plastic surgeon edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plastic-surgeon-edina-mn.json"
+  },
+  {
+   "keyword": "printing services edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-edina-mn.json"
+  },
+  {
+   "keyword": "real estate agent edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-edina-mn.json"
+  },
+  {
+   "keyword": "realtor edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-edina-mn.json"
+  },
+  {
+   "keyword": "staffing agency edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-edina-mn.json"
+  },
+  {
+   "keyword": "storage units edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-edina-mn.json"
+  },
+  {
+   "keyword": "tailor edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-edina-mn.json"
+  },
+  {
+   "keyword": "therapist edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-edina-mn.json"
+  },
+  {
+   "keyword": "tire shop edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-edina-mn.json"
+  },
+  {
+   "keyword": "vet edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-edina-mn.json"
+  },
+  {
+   "keyword": "waxing edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-edina-mn.json"
+  },
+  {
+   "keyword": "yoga classes edina mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-edina-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "50th-and-france-chiropractic-and-wellness-edina",
+   "name": "50th & France Chiropractic & Wellness",
+   "summary": "50th & France Chiropractic & Wellness is a chiropractor in Edina, MN at 3948 West 50th Street #Suite 203, Edina, MN 55424. Phone: +19529204528. Website: https://edinachiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/50th-and-france-chiropractic-and-wellness-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/50th-and-france-chiropractic-and-wellness-edina.json",
+   "address": {
+    "streetAddress": "3948 West 50th Street #Suite 203",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.912894,
+    "lon": -93.3313735
+   },
+   "phone": "+19529204528",
+   "website": "https://edinachiropractic.com/",
+   "opening_hours": "Mo 08:00-17:00; Tu 09:00-14:00; We 08:00-17:30; Th 09:00-12:00; Fr 08:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867367",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brighton-jones-edina",
+   "name": "Brighton Jones",
+   "summary": "Brighton Jones is a financial advisor in Edina, MN at 4951 West 77th Street, Edina, MN 55435. Phone: +16514614872. Website: https://www.brightonjones.com/locations/minneapolis.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brighton-jones-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brighton-jones-edina.json",
+   "address": {
+    "streetAddress": "4951 West 77th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8638922,
+    "lon": -93.3478172
+   },
+   "phone": "+16514614872",
+   "website": "https://www.brightonjones.com/locations/minneapolis",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10741133792",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dicks-sports-barbers-edina",
+   "name": "Dick's Sports Barbers",
+   "summary": "Dick's Sports Barbers is a barber shop in Edina, MN at 4404 France Avenue South, Edina, MN 55410. Phone: +19529266924. Website: https://www.dicksbarbers.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dicks-sports-barbers-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dicks-sports-barbers-edina.json",
+   "address": {
+    "streetAddress": "4404 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9221989,
+    "lon": -93.3292522
+   },
+   "phone": "+19529266924",
+   "website": "https://www.dicksbarbers.com/",
+   "opening_hours": "Mo 07:00-19:00; Tu-Th 08:00-19:00; Fr 07:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3936832222",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "doherty-staffing-solutions-edina",
+   "name": "Doherty Staffing Solutions",
+   "summary": "Doherty Staffing Solutions is a staffing agency in Edina, MN at 7625 Parklawn Avenue, Edina, MN 55435. Phone: +19528323577. Website: https://www.doherty.com/branches/edina-mn/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/doherty-staffing-solutions-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/doherty-staffing-solutions-edina.json",
+   "address": {
+    "streetAddress": "7625 Parklawn Avenue",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8649225,
+    "lon": -93.3353905
+   },
+   "phone": "+19528323577",
+   "website": "https://www.doherty.com/branches/edina-mn/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/121049817",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-cleaners-edina",
+   "name": "Edina Cleaners",
+   "summary": "Edina Cleaners is a dry cleaner in Edina, MN at 4530 France Avenue South #Suite 100, Edina, MN 55410. Phone: +19529279991. Website: https://myedinacleaners.com/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-cleaners-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-cleaners-edina.json",
+   "address": {
+    "streetAddress": "4530 France Avenue South #Suite 100",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.920667,
+    "lon": -93.3295348
+   },
+   "phone": "+19529279991",
+   "website": "https://myedinacleaners.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12125226403",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-liquor-edina-n1908446277",
+   "name": "Edina Liquor",
+   "summary": "Edina Liquor is a liquor store in Edina, MN at 5013 Vernon Avenue, Edina, MN 55436. Phone: +19529035740. Website: https://www.edinaliquor.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-liquor-edina-n1908446277/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-liquor-edina-n1908446277.json",
+   "address": {
+    "streetAddress": "5013 Vernon Avenue",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9117708,
+    "lon": -93.3541647
+   },
+   "phone": "+19529035740",
+   "website": "https://www.edinaliquor.com/",
+   "opening_hours": "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1908446277",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fidelity-investments-edina",
+   "name": "Fidelity Investments",
+   "summary": "Fidelity Investments is a financial advisor in Edina, MN at 7740 France Avenue South, Edina, MN 55435. Phone: +18005432165. Website: https://www.fidelity.com/branches/investor-center-Minneapolis-Edina-Minnesota-55435.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidelity-investments-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidelity-investments-edina.json",
+   "address": {
+    "streetAddress": "7740 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8624857,
+    "lon": -93.3293628
+   },
+   "phone": "+18005432165",
+   "website": "https://www.fidelity.com/branches/investor-center-Minneapolis-Edina-Minnesota-55435",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12750665599",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "grandview-tire-and-auto-vernon-edina",
+   "name": "Grandview Tire & Auto - Vernon",
+   "summary": "Grandview Tire & Auto - Vernon is an auto repair shop in Edina, MN at 5100 Vernon Avenue, Edina, MN 55436. Phone: +19529293115. Website: https://vernon.grandviewtireandauto.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grandview-tire-and-auto-vernon-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grandview-tire-and-auto-vernon-edina.json",
+   "address": {
+    "streetAddress": "5100 Vernon Avenue",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9119197,
+    "lon": -93.3553713
+   },
+   "phone": "+19529293115",
+   "website": "https://vernon.grandviewtireandauto.com/",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/905871851",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "heidi-brandenburg-dds-edina",
+   "name": "Heidi Brandenburg, DDS",
+   "summary": "Heidi Brandenburg, DDS is a dentist in Edina, MN at 3948 West 50th Street #Suite 201, Edina, MN 55424. Phone: +19529002077. Website: https://www.hb-dds.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heidi-brandenburg-dds-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heidi-brandenburg-dds-edina.json",
+   "address": {
+    "streetAddress": "3948 West 50th Street #Suite 201",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9127405,
+    "lon": -93.3314685
+   },
+   "phone": "+19529002077",
+   "website": "https://www.hb-dds.com/",
+   "opening_hours": "Mo-Tu 07:30-17:00; We 07:00-14:00; Th 07:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116012",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "herder-photography-edina",
+   "name": "Herder Photography",
+   "summary": "Herder Photography is a photographer in Edina, MN at 5205 West 73rd Street, Edina, MN 55439. Phone: +19528319020. Website: https://www.herderphotography.com/.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/herder-photography-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/herder-photography-edina.json",
+   "address": {
+    "streetAddress": "5205 West 73rd Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55439",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55439",
+   "geo": {
+    "lat": 44.870317,
+    "lon": -93.3556197
+   },
+   "phone": "+19528319020",
+   "website": "https://www.herderphotography.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5759852916",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "h-lsa-edina-dental-edina",
+   "name": "Hälsa Edina Dental",
+   "summary": "Hälsa Edina Dental is a dentist in Edina, MN at 3948 West 50th Street #Suite 205, Edina, MN 55424. Phone: +19529228111. Website: https://www.halsaedina.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-lsa-edina-dental-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-lsa-edina-dental-edina.json",
+   "address": {
+    "streetAddress": "3948 West 50th Street #Suite 205",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9128932,
+    "lon": -93.3313324
+   },
+   "phone": "+19529228111",
+   "website": "https://www.halsaedina.com/",
+   "opening_hours": "Mo-We 07:00-16:00; Th 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088878",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ian-inc-edina",
+   "name": "IAN Inc.",
+   "summary": "IAN Inc. is a marketing agency in Edina, MN at 3948 West 50th Street #Suite 212, Edina, MN 55424. Phone: +19529156065. Website: https://ianinc.net/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ian-inc-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ian-inc-edina.json",
+   "address": {
+    "streetAddress": "3948 West 50th Street #Suite 212",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9130214,
+    "lon": -93.331439
+   },
+   "phone": "+19529156065",
+   "website": "https://ianinc.net/",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116015",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "international-design-center-edina",
+   "name": "International Design Center",
+   "summary": "International Design Center is a furniture store in Edina, MN at 7035 Washington Avenue South, Edina, MN 55439. Phone: +16123413441. Website: https://www.idcmn.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/international-design-center-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/international-design-center-edina.json",
+   "address": {
+    "streetAddress": "7035 Washington Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55439",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55439",
+   "geo": {
+    "lat": 44.8759866,
+    "lon": -93.3979416
+   },
+   "phone": "+16123413441",
+   "website": "https://www.idcmn.com/",
+   "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6924104038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "labb-collective-edina",
+   "name": "LABB Collective",
+   "summary": "LABB Collective is a waxing salon in Edina, MN at 3941 Market Street, Edina, MN 55424. Phone: +16126055304. Website: https://labbcollective.com/.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/labb-collective-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/labb-collective-edina.json",
+   "address": {
+    "streetAddress": "3941 Market Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9132957,
+    "lon": -93.3314863
+   },
+   "phone": "+16126055304",
+   "website": "https://labbcollective.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116022",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lakes-sothebys-international-realty-edina",
+   "name": "Lakes Sotheby's International Realty",
+   "summary": "Lakes Sotheby's International Realty is a real estate agency in Edina, MN at 3946 West 50th Street, Edina, MN 55424. Phone: +16125010252. Website: https://www.joshsprague.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakes-sothebys-international-realty-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakes-sothebys-international-realty-edina.json",
+   "address": {
+    "streetAddress": "3946 West 50th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9126685,
+    "lon": -93.3312432
+   },
+   "phone": "+16125010252",
+   "website": "https://www.joshsprague.com/",
+   "opening_hours": "Mo-Su 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11942963407",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "massage-envy-edina",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Edina, MN at 7101 France Avenue South, Edina, MN 55435. Phone: +19529558228. Website: https://www.massageenvy.com/clinics/MN/Edina-.aspx.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-edina.json",
+   "address": {
+    "streetAddress": "7101 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8744771,
+    "lon": -93.3282597
+   },
+   "phone": "+19529558228",
+   "website": "https://www.massageenvy.com/clinics/MN/Edina-.aspx",
+   "opening_hours": "Mo-Su 09:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5018640762",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "nail-images-edina",
+   "name": "Nail Images",
+   "summary": "Nail Images is a nail salon in Edina, MN at 4509 France Avenue South, Edina, MN 55410. Phone: +16129295101. Website: https://nailsimageminneapolis.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-images-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-images-edina.json",
+   "address": {
+    "streetAddress": "4509 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9211014,
+    "lon": -93.328612
+   },
+   "phone": "+16129295101",
+   "website": "https://nailsimageminneapolis.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1308726160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "patisserie-margo-edina",
+   "name": "Patisserie Margo",
+   "summary": "Patisserie Margo is a bakery in Edina, MN at 4510 Valley View Road, Edina, MN 55424. Phone: +19529260548. Website: https://patisseriemargomn.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patisserie-margo-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patisserie-margo-edina.json",
+   "address": {
+    "streetAddress": "4510 Valley View Road",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.8924592,
+    "lon": -93.3401061
+   },
+   "phone": "+19529260548",
+   "website": "https://patisseriemargomn.com/",
+   "opening_hours": "Tu-Fr 07:00-14:00; Sa-Su 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8804218236",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sloanes-beauty-bar-edina",
+   "name": "Sloane's Beauty Bar",
+   "summary": "Sloane's Beauty Bar is a hair salon in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Phone: +16129203341. Website: https://www.sloanesbeautybar.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sloanes-beauty-bar-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sloanes-beauty-bar-edina.json",
+   "address": {
+    "streetAddress": "4388 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9227152,
+    "lon": -93.3292571
+   },
+   "phone": "+16129203341",
+   "website": "https://www.sloanesbeautybar.com/",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12120870725",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-yoga-rooms-edina",
+   "name": "The Yoga Rooms",
+   "summary": "The Yoga Rooms is a yoga studio in Edina, MN at 4500 France Avenue South, Edina, MN 55424. Phone: +16123513838. Website: https://www.theyogarooms.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-yoga-rooms-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-yoga-rooms-edina.json",
+   "address": {
+    "streetAddress": "4500 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9216563,
+    "lon": -93.3293063
+   },
+   "phone": "+16123513838",
+   "website": "https://www.theyogarooms.com/",
+   "opening_hours": "Mo-Su 05:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12125813311",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "breadsmith-bakery-edina",
+   "name": "Breadsmith Bakery",
+   "summary": "Breadsmith Bakery is a bakery in Edina, MN. Phone: +19529202778. Website: https://www.breadsmith.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/breadsmith-bakery-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/breadsmith-bakery-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9122136,
+    "lon": -93.330678
+   },
+   "phone": "+19529202778",
+   "website": "https://www.breadsmith.com/",
+   "opening_hours": "Mo-Fr 06:30-19:00; Sa 06:30-18:00; Su 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/829651868",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-liquor-edina",
+   "name": "Edina Liquor",
+   "summary": "Edina Liquor is a liquor store in Edina, MN. Phone: +19529035730. Website: https://edinaliquor.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-liquor-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-liquor-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9120072,
+    "lon": -93.3306444
+   },
+   "phone": "+19529035730",
+   "website": "https://edinaliquor.com/",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/829647881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-liquor-edina-n2700323304",
+   "name": "Edina Liquor",
+   "summary": "Edina Liquor is a liquor store in Edina, MN at 6755 York Avenue South, Edina, MN 55435. Phone: +19529035730. Website: https://www.edinaliquor.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-liquor-edina-n2700323304/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-liquor-edina-n2700323304.json",
+   "address": {
+    "streetAddress": "6755 York Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8804852,
+    "lon": -93.3206173
+   },
+   "phone": "+19529035730",
+   "website": "https://www.edinaliquor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2700323304",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "interlachen-dental-associates-edina",
+   "name": "Interlachen Dental Associates",
+   "summary": "Interlachen Dental Associates is a dentist in Edina, MN. Phone: +19529209579. Website: https://interlachendental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/interlachen-dental-associates-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/interlachen-dental-associates-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9109704,
+    "lon": -93.3546801
+   },
+   "phone": "+19529209579",
+   "website": "https://interlachendental.com/",
+   "opening_hours": "Mo-Th 07:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335504029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jennys-nails-edina",
+   "name": "Jenny's Nails",
+   "summary": "Jenny's Nails is a nail salon in Edina, MN. Phone: +19529201700. Website: https://jennysnailsmn.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jennys-nails-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jennys-nails-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9120306,
+    "lon": -93.3303723
+   },
+   "phone": "+19529201700",
+   "website": "https://jennysnailsmn.com/",
+   "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116018",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jerrys-printing-edina",
+   "name": "Jerry's Printing",
+   "summary": "Jerry's Printing is a printing service in Edina, MN. Phone: +19529201949. Website: https://www.jerrysprinting.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jerrys-printing-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jerrys-printing-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9109091,
+    "lon": -93.3548068
+   },
+   "phone": "+19529201949",
+   "website": "https://www.jerrysprinting.com/",
+   "opening_hours": "Mo-Fr 08:30-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335570223",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-fitness-edina",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Edina, MN at 4175 West 76th Street, Edina, MN 55435. Phone: +16122354831. Website: https://www.lafitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-edina.json",
+   "address": {
+    "streetAddress": "4175 West 76th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8648751,
+    "lon": -93.3315165
+   },
+   "phone": "+16122354831",
+   "website": "https://www.lafitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52868477",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "macys-furniture-gallery-edina",
+   "name": "Macy's Furniture Gallery",
+   "summary": "Macy's Furniture Gallery is a furniture store in Edina, MN at 7235 France Avenue South, Edina, MN 55435. Phone: +19528962160. Website: https://www.macys.com/stores/mn/edina/southdale-furniture-and-mattress-gallery_234.html.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/macys-furniture-gallery-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/macys-furniture-gallery-edina.json",
+   "address": {
+    "streetAddress": "7235 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8714778,
+    "lon": -93.3272592
+   },
+   "phone": "+19528962160",
+   "website": "https://www.macys.com/stores/mn/edina/southdale-furniture-and-mattress-gallery_234.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47586776",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orenstein-physical-therapy-minneapolis",
+   "name": "Orenstein Physical Therapy",
+   "summary": "Orenstein Physical Therapy is a physical therapy clinic in Minneapolis, MN at 4388 France Avenue South #Suite 220, Minneapolis, MN 55410. Phone: +16123331133. Website: https://www.orenstein-pt.com/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orenstein-physical-therapy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orenstein-physical-therapy-minneapolis.json",
+   "address": {
+    "streetAddress": "4388 France Avenue South #Suite 220",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9227297,
+    "lon": -93.3293895
+   },
+   "phone": "+16123331133",
+   "website": "https://www.orenstein-pt.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134674648",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pan-orthodontics-edina",
+   "name": "Pan Orthodontics",
+   "summary": "Pan Orthodontics is a dentist in Edina, MN. Phone: +19529263747. Website: https://www.panorthodontics.com/edina/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pan-orthodontics-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pan-orthodontics-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9107622,
+    "lon": -93.3548103
+   },
+   "phone": "+19529263747",
+   "website": "https://www.panorthodontics.com/edina/",
+   "opening_hours": "Mo-Th 07:00-16:00; Fr 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335479796",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "paragon-edina",
+   "name": "Paragon",
+   "summary": "Paragon is a gym in Edina, MN. Phone: +19524059765. Website: https://www.paragonpilatespt.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paragon-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paragon-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9109456,
+    "lon": -93.3545355
+   },
+   "phone": "+19524059765",
+   "website": "https://www.paragonpilatespt.com/",
+   "opening_hours": "Mo-Th 06:30-19:00; Fr,Sa 06:30-14:00; Su 10:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335479795",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "public-storage-edina",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Edina, MN at 4425 West 77th Street, Edina, MN 55435. Phone: +18006888057. Website: https://www.publicstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-edina.json",
+   "address": {
+    "streetAddress": "4425 West 77th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8626948,
+    "lon": -93.3354307
+   },
+   "phone": "+18006888057",
+   "website": "https://www.publicstorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/121049755",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "quinby-partners-edina",
+   "name": "Quinby Partners",
+   "summary": "Quinby Partners is a real estate agency in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Phone: +16122323165. Website: https://www.quinbypartners.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quinby-partners-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quinby-partners-edina.json",
+   "address": {
+    "streetAddress": "4388 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9227593,
+    "lon": -93.3293895
+   },
+   "phone": "+16122323165",
+   "website": "https://www.quinbypartners.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134674645",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shop-in-the-city-edina",
+   "name": "SHOP in the CITY",
+   "summary": "SHOP in the CITY is a gift shop in Edina, MN. Phone: +19528004178. Website: https://www.shopinthecity.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shop-in-the-city-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shop-in-the-city-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9133327,
+    "lon": -93.3303138
+   },
+   "phone": "+19528004178",
+   "website": "https://www.shopinthecity.com/",
+   "opening_hours": "Tu-Sa 11:00-17:30; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116039",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-dentists-house-of-edina-edina",
+   "name": "The Dentist's House of Edina",
+   "summary": "The Dentist's House of Edina is a dentist in Edina, MN at 3930 Sunnyside Road, Edina, MN 55424. Phone: +19529299131. Website: https://www.dentistshouse.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dentists-house-of-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dentists-house-of-edina-edina.json",
+   "address": {
+    "streetAddress": "3930 Sunnyside Road",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9214317,
+    "lon": -93.330278
+   },
+   "phone": "+19529299131",
+   "website": "https://www.dentistshouse.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/390529015",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "yogafit-edina",
+   "name": "YogaFit",
+   "summary": "YogaFit is a yoga studio in Edina, MN at 4507 France Avenue South, Edina, MN 55410. Phone: +16124441991. Website: https://www.yogafitstudios.com/studios/linden-hills.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yogafit-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yogafit-edina.json",
+   "address": {
+    "streetAddress": "4507 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9211629,
+    "lon": -93.3286114
+   },
+   "phone": "+16124441991",
+   "website": "https://www.yogafitstudios.com/studios/linden-hills",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1308726159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "banfield-pet-hospital-edina",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Edina, MN at 5103 Gus Young Lane, Edina, MN 55436. Website: https://www.banfield.com/locations/veterinarians/mn/edina/edi/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-edina.json",
+   "address": {
+    "streetAddress": "5103 Gus Young Lane",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9115144,
+    "lon": -93.3528654
+   },
+   "website": "https://www.banfield.com/locations/veterinarians/mn/edina/edi/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12272163245",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "gentle-dentistry-edina",
+   "name": "Gentle Dentistry",
+   "summary": "Gentle Dentistry is a dentist in Edina, MN at 5107 Gus Young Lane, Edina, MN 55436. Website: https://smilemn.com/edina/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gentle-dentistry-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gentle-dentistry-edina.json",
+   "address": {
+    "streetAddress": "5107 Gus Young Lane",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9112839,
+    "lon": -93.3527775
+   },
+   "website": "https://smilemn.com/edina/",
+   "opening_hours": "Mo 07:00-16:00; Tu 08:00-18:00; We 07:00-17:00; Th 07:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12272163248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "life-time-edina",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Edina, MN at 250 Southdale, Edina, MN 55435. Website: https://www.lifetime.life/life-time-locations/mn-edina-southdale.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-edina.json",
+   "address": {
+    "streetAddress": "250 Southdale",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8816674,
+    "lon": -93.3239021
+   },
+   "website": "https://www.lifetime.life/life-time-locations/mn-edina-southdale.html",
+   "opening_hours": "Mo-Su 04:00-23:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9476416317",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mulberrys-dry-cleaners-and-laundry-edina",
+   "name": "Mulberrys Dry Cleaners and Laundry",
+   "summary": "Mulberrys Dry Cleaners and Laundry is a dry cleaner in Edina, MN at 5127 Gus Young Lane, Edina, MN 55436. Website: https://www.mulberryscleaners.com/minneapolis-saint-paul/store/edina/.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mulberrys-dry-cleaners-and-laundry-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mulberrys-dry-cleaners-and-laundry-edina.json",
+   "address": {
+    "streetAddress": "5127 Gus Young Lane",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9115192,
+    "lon": -93.3532656
+   },
+   "website": "https://www.mulberryscleaners.com/minneapolis-saint-paul/store/edina/",
+   "opening_hours": "Mo-Fr 07:00-21:00; Sa 09:00-17:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12272163242",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "schweiger-dermatology-group-edina-edina",
+   "name": "Schweiger Dermatology Group – Edina",
+   "summary": "Schweiger Dermatology Group – Edina is a skin care studio in Edina, MN at 4100 West 50th Street, Edina, MN 55424. Website: https://www.schweigerderm.com/location/minnesota/edina/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/schweiger-dermatology-group-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/schweiger-dermatology-group-edina-edina.json",
+   "address": {
+    "streetAddress": "4100 West 50th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9127425,
+    "lon": -93.332209
+   },
+   "website": "https://www.schweigerderm.com/location/minnesota/edina/",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11952199135",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "snap-fitness-edina",
+   "name": "Snap Fitness",
+   "summary": "Snap Fitness is a gym in Edina, MN at 4402 France Avenue South, Edina, MN 55410. Website: https://www.snapfitness.com/us/gyms/edina-south-france-mn.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snap-fitness-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snap-fitness-edina.json",
+   "address": {
+    "streetAddress": "4402 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9222505,
+    "lon": -93.3294841
+   },
+   "website": "https://www.snapfitness.com/us/gyms/edina-south-france-mn",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/390529007",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-edina",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Edina, MN at 5021 Vernon Avenue, Edina, MN 55436. Website: https://locations.theupsstore.com/mn/edina/5021-vernon-ave.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-edina.json",
+   "address": {
+    "streetAddress": "5021 Vernon Avenue",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9116417,
+    "lon": -93.3543939
+   },
+   "website": "https://locations.theupsstore.com/mn/edina/5021-vernon-ave",
+   "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1908446285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "vet-partners-edina-edina",
+   "name": "Vet Partners Edina",
+   "summary": "Vet Partners Edina is a veterinarian in Edina, MN at 7101 France Avenue South #Suite 117, Edina, MN 55435. Website: https://myvetpartners.com/edina-2/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vet-partners-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vet-partners-edina-edina.json",
+   "address": {
+    "streetAddress": "7101 France Avenue South #Suite 117",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8746628,
+    "lon": -93.3267873
+   },
+   "website": "https://myvetpartners.com/edina-2/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810902035",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "avalon-photography-edina",
+   "name": "Avalon Photography",
+   "summary": "Avalon Photography is a photographer in Edina, MN. Phone: +19529226300. Website: https://avalonphoto.net/.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avalon-photography-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avalon-photography-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9122987,
+    "lon": -93.3305522
+   },
+   "phone": "+19529226300",
+   "website": "https://avalonphoto.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867400",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "44th-street-dental-edina",
+   "name": "44th Street Dental",
+   "summary": "44th Street Dental is a dentist in Edina, MN at 3925 West 44th Street, Edina, MN 55424. Website: https://www.44thstdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/44th-street-dental-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/44th-street-dental-edina.json",
+   "address": {
+    "streetAddress": "3925 West 44th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55424",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55424",
+   "geo": {
+    "lat": 44.9221429,
+    "lon": -93.3306567
+   },
+   "website": "https://www.44thstdental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1170470513",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "altr-edina",
+   "name": "ALTR",
+   "summary": "ALTR is a gym in Edina, MN. Website: https://www.altrfit.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/altr-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/altr-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9124263,
+    "lon": -93.3302109
+   },
+   "website": "https://www.altrfit.com/",
+   "opening_hours": "Mo-Th 05:00-19:00; Fr 05:00-18:00; Sa 07:00-12:00; Su 07:00-11:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867385",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anderson-dentalcare-edina",
+   "name": "Anderson Dentalcare",
+   "summary": "Anderson Dentalcare is a dentist in Edina, MN. Website: https://rjandersondds.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anderson-dentalcare-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anderson-dentalcare-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9120465,
+    "lon": -93.3299826
+   },
+   "website": "https://rjandersondds.com/",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867396",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "axon-movement-edina",
+   "name": "Axon Movement",
+   "summary": "Axon Movement is a massage studio in Edina, MN at 4820 West 77th Street #100, Edina, MN 55435. Website: https://www.axon-movement.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/axon-movement-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/axon-movement-edina.json",
+   "address": {
+    "streetAddress": "4820 West 77th Street #100",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8641544,
+    "lon": -93.3458522
+   },
+   "website": "https://www.axon-movement.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006863402",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "azalea-acupuncture-aesthetics-edina",
+   "name": "Azalea Acupuncture+Aesthetics",
+   "summary": "Azalea Acupuncture+Aesthetics is an acupuncture clinic in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Website: https://www.azaleampls.com/.",
+   "categories": [
+    "acupuncture"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/azalea-acupuncture-aesthetics-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/azalea-acupuncture-aesthetics-edina.json",
+   "address": {
+    "streetAddress": "4388 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9227455,
+    "lon": -93.3294209
+   },
+   "website": "https://www.azaleampls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12134674647",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bespoke-hair-artisans-edina",
+   "name": "Bespoke Hair Artisans",
+   "summary": "Bespoke Hair Artisans is a hair salon in Edina, MN. Website: https://bespokehairartisans.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bespoke-hair-artisans-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bespoke-hair-artisans-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9135596,
+    "lon": -93.3297193
+   },
+   "website": "https://bespokehairartisans.com/",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867408",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "brilliant-earth-edina",
+   "name": "Brilliant Earth",
+   "summary": "Brilliant Earth is a jewelry store in Edina, MN. Website: https://www.brilliantearth.com/stores/edina-minneapolis-mn/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brilliant-earth-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brilliant-earth-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9128031,
+    "lon": -93.3301486
+   },
+   "website": "https://www.brilliantearth.com/stores/edina-minneapolis-mn/",
+   "opening_hours": "Mo-Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867419",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "club-pilates-edina",
+   "name": "Club Pilates",
+   "summary": "Club Pilates is a pilates studio in Edina, MN. Website: https://www.clubpilates.com/location/edina.",
+   "categories": [
+    "pilates"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/club-pilates-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/club-pilates-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9130619,
+    "lon": -93.3310852
+   },
+   "website": "https://www.clubpilates.com/location/edina",
+   "opening_hours": "Mo-Th 06:00-20:00; Fr-Su 06:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867424",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "coccinella-edina",
+   "name": "Coccinella",
+   "summary": "Coccinella is a gift shop in Edina, MN at 4946 France Avenue South, Edina, MN 55410. Website: https://www.coccinellastore.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coccinella-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coccinella-edina.json",
+   "address": {
+    "streetAddress": "4946 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9128715,
+    "lon": -93.3291904
+   },
+   "website": "https://www.coccinellastore.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "diamond-body-sculpting-edina",
+   "name": "Diamond Body Sculpting",
+   "summary": "Diamond Body Sculpting is a gym in Edina, MN at 3801 West 50th Street #Suite 150A, Edina, MN 55410. Website: https://diamondbodysculpting.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diamond-body-sculpting-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diamond-body-sculpting-edina.json",
+   "address": {
+    "streetAddress": "3801 West 50th Street #Suite 150A",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9123663,
+    "lon": -93.327924
+   },
+   "website": "https://diamondbodysculpting.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867433",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "district-on-50th-salon-spa-edina",
+   "name": "District on 50th Salon + Spa",
+   "summary": "District on 50th Salon + Spa is a hair salon in Edina, MN. Website: https://www.thehairdistrict.com/locations/1-edina/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/district-on-50th-salon-spa-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/district-on-50th-salon-spa-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9127136,
+    "lon": -93.3304291
+   },
+   "website": "https://www.thehairdistrict.com/locations/1-edina/",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-dental-care-edina",
+   "name": "Edina Dental Care",
+   "summary": "Edina Dental Care is a dentist in Edina, MN. Website: https://www.edinadentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-dental-care-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-dental-care-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9121117,
+    "lon": -93.3304322
+   },
+   "website": "https://www.edinadentalcare.com/",
+   "opening_hours": "Mo 07:30-16:30; Tu 09:00-15:30; We 07:30-16:30; Th 07:00-15:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088880",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-family-chiropractic-edina",
+   "name": "Edina Family Chiropractic",
+   "summary": "Edina Family Chiropractic is a chiropractor in Edina, MN. Website: https://edinafamilychiropractic.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-family-chiropractic-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-family-chiropractic-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.912358,
+    "lon": -93.3302152
+   },
+   "website": "https://edinafamilychiropractic.com/",
+   "opening_hours": "Mo 09:00-16:30; Tu 08:00-13:00; We 12:00-17:30; Th 09:00-16:30; Fr 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088882",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hilger-face-center-edina",
+   "name": "Hilger Face Center",
+   "summary": "Hilger Face Center is a plastic surgeon in Edina, MN. Website: https://mphysicians.org/hilger.",
+   "categories": [
+    "plastic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hilger-face-center-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hilger-face-center-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.911058,
+    "lon": -93.3292634
+   },
+   "website": "https://mphysicians.org/hilger",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116050",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "human-powered-health-50th-and-france-edina",
+   "name": "Human Powered Health - 50th & France",
+   "summary": "Human Powered Health - 50th & France is a gym in Edina, MN. Website: https://humanpoweredhealth.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/human-powered-health-50th-and-france-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/human-powered-health-50th-and-france-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9121782,
+    "lon": -93.3302098
+   },
+   "website": "https://humanpoweredhealth.com/",
+   "opening_hours": "\"by appointment, Mo-Sa\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116014",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jett-beauty-jett-makeup-edina",
+   "name": "Jett Beauty - Jett Makeup",
+   "summary": "Jett Beauty - Jett Makeup is a skin care studio in Edina, MN. Website: https://jettbeauty.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jett-beauty-jett-makeup-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jett-beauty-jett-makeup-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9128038,
+    "lon": -93.3310873
+   },
+   "website": "https://jettbeauty.com/",
+   "opening_hours": "Mo,Tu,Th,Sa 09:00-17:00; We,Fr 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116019",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "laseraway-edina",
+   "name": "LaserAway",
+   "summary": "LaserAway is a skin care studio in Edina, MN. Website: https://www.laseraway.com/locations/mn/minneapolis/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/laseraway-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/laseraway-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9126644,
+    "lon": -93.3311149
+   },
+   "website": "https://www.laseraway.com/locations/mn/minneapolis/",
+   "opening_hours": "Mo 10:00-20:00; Tu,We 10:00-18:00; Th 10:00-20:00; Fr-Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116023",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lovesac-edina",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Edina, MN. Website: https://www.lovesac.com/showroomlocator/50th-and-france.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9124281,
+    "lon": -93.3301512
+   },
+   "website": "https://www.lovesac.com/showroomlocator/50th-and-france",
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116025",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mattress-firm-edina",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Edina, MN at 3240 Southdale Circle, Edina, MN 55435. Phone: +19522858393.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-edina.json",
+   "address": {
+    "streetAddress": "3240 Southdale Circle",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.882648,
+    "lon": -93.3204282
+   },
+   "phone": "+19522858393",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/51857592",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "o-brien-staley-partners-edina",
+   "name": "O’Brien-Staley Partners",
+   "summary": "O’Brien-Staley Partners is a financial advisor in Edina, MN at 5050 France Avenue South, Edina, MN 55410. Website: https://osp-group.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/o-brien-staley-partners-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/o-brien-staley-partners-edina.json",
+   "address": {
+    "streetAddress": "5050 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9110605,
+    "lon": -93.3292171
+   },
+   "website": "https://osp-group.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12148766308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "r-f-moeller-jeweler-edina",
+   "name": "R.F. Moeller Jeweler",
+   "summary": "R.F. Moeller Jeweler is a jewelry store in Edina, MN. Website: https://rfmoeller.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-f-moeller-jeweler-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-f-moeller-jeweler-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9118612,
+    "lon": -93.329187
+   },
+   "website": "https://rfmoeller.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "senti-edina",
+   "name": "SENTi",
+   "summary": "SENTi is a gift shop in Edina, MN. Website: https://shopsenti.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/senti-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/senti-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9129216,
+    "lon": -93.3301509
+   },
+   "website": "https://shopsenti.com/",
+   "opening_hours": "Tu-Sa 11:00-18:00; Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116038",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "southdale-pediatric-associates-immunization-clinic-edina",
+   "name": "Southdale Pediatric Associates Immunization Clinic",
+   "summary": "Southdale Pediatric Associates Immunization Clinic is an allergist in Edina, MN at 3955 Parklawn Avenue #110, Edina, MN 55435. Website: https://www.southdalepeds.com/locations/edina/.",
+   "categories": [
+    "allergist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southdale-pediatric-associates-immunization-clinic-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southdale-pediatric-associates-immunization-clinic-edina.json",
+   "address": {
+    "streetAddress": "3955 Parklawn Avenue #110",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8675059,
+    "lon": -93.3307447
+   },
+   "website": "https://www.southdalepeds.com/locations/edina/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12812299734",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "southdale-pediatric-associates-pediatric-and-adult-allergy-edina",
+   "name": "Southdale Pediatric Associates Pediatric & Adult Allergy",
+   "summary": "Southdale Pediatric Associates Pediatric & Adult Allergy is an allergist in Edina, MN at 3955 Parklawn Avenue #130, Edina, MN 55435. Website: https://www.southdalepeds.com/locations/edina/.",
+   "categories": [
+    "allergist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southdale-pediatric-associates-pediatric-and-adult-allergy-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southdale-pediatric-associates-pediatric-and-adult-allergy-edina.json",
+   "address": {
+    "streetAddress": "3955 Parklawn Avenue #130",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8675255,
+    "lon": -93.3308713
+   },
+   "website": "https://www.southdalepeds.com/locations/edina/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12812299735",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "southdale-pediatrics-associates-edina",
+   "name": "Southdale Pediatrics Associates",
+   "summary": "Southdale Pediatrics Associates is a pediatrician in Edina, MN at 3955 Parklawn Avenue #200, Edina, MN 55435. Website: https://www.southdalepeds.com/locations/edina/.",
+   "categories": [
+    "pediatrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southdale-pediatrics-associates-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southdale-pediatrics-associates-edina.json",
+   "address": {
+    "streetAddress": "3955 Parklawn Avenue #200",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8674407,
+    "lon": -93.3308261
+   },
+   "website": "https://www.southdalepeds.com/locations/edina/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12812299736",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-salon-by-andrea-hunt-edina",
+   "name": "The Salon By Andrea Hunt",
+   "summary": "The Salon By Andrea Hunt is a hair salon in Edina, MN. Website: https://thesalonbyandreahunt.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salon-by-andrea-hunt-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salon-by-andrea-hunt-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9130581,
+    "lon": -93.3308544
+   },
+   "website": "https://thesalonbyandreahunt.com/",
+   "opening_hours": "Mo-Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116049",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-tailors-of-edina-edina",
+   "name": "The Tailors of Edina",
+   "summary": "The Tailors of Edina is a tailor in Edina, MN. Phone: +19529208785.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-tailors-of-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-tailors-of-edina-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9104335,
+    "lon": -93.3548359
+   },
+   "phone": "+19529208785",
+   "opening_hours": "Tu-Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292234276",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "van-thomas-salon-edina",
+   "name": "Van Thomas Salon",
+   "summary": "Van Thomas Salon is a hair salon in Edina, MN. Website: https://www.vanthomassalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/van-thomas-salon-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/van-thomas-salon-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9128849,
+    "lon": -93.3310922
+   },
+   "website": "https://www.vanthomassalon.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12142678240",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ethan-allen-edina",
+   "name": "Ethan Allen",
+   "summary": "Ethan Allen is a furniture store in Edina, MN at 7101 France Avenue South #Suite 116, Edina, MN 55435.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ethan-allen-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ethan-allen-edina.json",
+   "address": {
+    "streetAddress": "7101 France Avenue South #Suite 116",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8743504,
+    "lon": -93.3271537
+   },
+   "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810902034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "50th-and-france-dental-care-edina",
+   "name": "50th and France Dental Care",
+   "summary": "50th and France Dental Care is a dentist in Edina, MN. Website: https://www.50thandfrancedentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/50th-and-france-dental-care-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/50th-and-france-dental-care-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9120534,
+    "lon": -93.3304285
+   },
+   "website": "https://www.50thandfrancedentalcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867368",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "basecamp-fitness-edina-edina",
+   "name": "Basecamp Fitness Edina",
+   "summary": "Basecamp Fitness Edina is a gym in Edina, MN. Website: https://www.basecampfitness.com/studio/edina.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/basecamp-fitness-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/basecamp-fitness-edina-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9135572,
+    "lon": -93.3315942
+   },
+   "website": "https://www.basecampfitness.com/studio/edina",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867406",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cole-harder-edina",
+   "name": "Cole Harder",
+   "summary": "Cole Harder is a staffing agency in Edina, MN. Website: https://www.coleharderinc.com/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cole-harder-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cole-harder-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9127033,
+    "lon": -93.3293124
+   },
+   "website": "https://www.coleharderinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867426",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-endodontics-edina",
+   "name": "Edina Endodontics",
+   "summary": "Edina Endodontics is a dentist in Edina, MN. Website: https://edinaendo.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-endodontics-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-endodontics-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9121244,
+    "lon": -93.3303777
+   },
+   "website": "https://edinaendo.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-orthodontics-50th-and-france-edina",
+   "name": "Edina Orthodontics - 50th & France",
+   "summary": "Edina Orthodontics - 50th & France is a dentist in Edina, MN. Website: https://www.edinaortho.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-orthodontics-50th-and-france-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-orthodontics-50th-and-france-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9122439,
+    "lon": -93.330515
+   },
+   "website": "https://www.edinaortho.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088883",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edward-jones-edina",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Edina, MN. Website: https://www.edwardjones.com/us-en/financial-advisor/darin-mastroianni.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9123118,
+    "lon": -93.3305851
+   },
+   "website": "https://www.edwardjones.com/us-en/financial-advisor/darin-mastroianni",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12142678231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "emerald-real-estate-edina",
+   "name": "Emerald Real Estate",
+   "summary": "Emerald Real Estate is a real estate agency in Edina, MN. Website: https://www.clairekillen.realtor/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/emerald-real-estate-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/emerald-real-estate-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9127586,
+    "lon": -93.3293233
+   },
+   "website": "https://www.clairekillen.realtor/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139088885",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "health-architect-edina",
+   "name": "Health Architect",
+   "summary": "Health Architect is a physical therapy clinic in Edina, MN. Website: https://healtharchitect.com/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/health-architect-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/health-architect-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9223256,
+    "lon": -93.3300163
+   },
+   "website": "https://healtharchitect.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12156919255",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "nevers-perpich-real-estate-edina",
+   "name": "Nevers | Perpich Real Estate",
+   "summary": "Nevers | Perpich Real Estate is a real estate agency in Edina, MN. Website: https://neversperpichrealestate.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nevers-perpich-real-estate-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nevers-perpich-real-estate-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9122341,
+    "lon": -93.3292301
+   },
+   "website": "https://neversperpichrealestate.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867427",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "aervita-integrative-medicine-hyperbarics-edina",
+   "name": "Aervita Integrative Medicine + Hyperbarics",
+   "summary": "Aervita Integrative Medicine + Hyperbarics is a massage studio in Edina, MN at 4820 West 77th Street #150, Edina, MN 55435.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aervita-integrative-medicine-hyperbarics-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aervita-integrative-medicine-hyperbarics-edina.json",
+   "address": {
+    "streetAddress": "4820 West 77th Street #150",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8642188,
+    "lon": -93.3461556
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006819699",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "b-sharp-hair-edina",
+   "name": "B Sharp Hair",
+   "summary": "B Sharp Hair is a hair salon in Edina, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/b-sharp-hair-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/b-sharp-hair-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9121766,
+    "lon": -93.3303884
+   },
+   "opening_hours": "Sa,Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867401",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "crossfit-eden-prairie-edina",
+   "name": "Crossfit Eden Prairie",
+   "summary": "Crossfit Eden Prairie is a gym in Edina, MN at 6883 Washington Avenue South, Edina, MN 55439.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossfit-eden-prairie-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossfit-eden-prairie-edina.json",
+   "address": {
+    "streetAddress": "6883 Washington Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55439",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55439",
+   "geo": {
+    "lat": 44.8786694,
+    "lon": -93.3986225
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8576731280",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dancexchange-edina",
+   "name": "DanceXchange",
+   "summary": "DanceXchange is a dance studio in Edina, MN at 6885 Washington Avenue South, Edina, MN 55439.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dancexchange-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dancexchange-edina.json",
+   "address": {
+    "streetAddress": "6885 Washington Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55439",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55439",
+   "geo": {
+    "lat": 44.8785502,
+    "lon": -93.3985632
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8576731281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "dr-michael-d-thompson-edina",
+   "name": "Dr. Michael D. Thompson",
+   "summary": "Dr. Michael D. Thompson is a therapy practice in Edina, MN at 5007 France Avenue South, Edina, MN 55410.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-michael-d-thompson-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-michael-d-thompson-edina.json",
+   "address": {
+    "streetAddress": "5007 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9122669,
+    "lon": -93.3287802
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12143327841",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "european-wax-center-edina",
+   "name": "European Wax Center",
+   "summary": "European Wax Center is a waxing salon in Edina, MN at 7101 France Avenue South #Suite 108, Edina, MN 55435.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/european-wax-center-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/european-wax-center-edina.json",
+   "address": {
+    "streetAddress": "7101 France Avenue South #Suite 108",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.874483,
+    "lon": -93.3277839
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810902031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-edina",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Edina, MN at 5125 Gus Young Lane, Edina, MN 55436.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-edina.json",
+   "address": {
+    "streetAddress": "5125 Gus Young Lane",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9115183,
+    "lon": -93.3531893
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12272163243",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "haute-dog-spa-edina",
+   "name": "Haute Dog Spa",
+   "summary": "Haute Dog Spa is a dog groomer in Edina, MN.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haute-dog-spa-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haute-dog-spa-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8674074,
+    "lon": -93.3265616
+   },
+   "opening_hours": "\"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449400291",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "integrative-massage-edina-edina",
+   "name": "Integrative Massage Edina",
+   "summary": "Integrative Massage Edina is a massage studio in Edina, MN at 4820 West 77th Street #150, Edina, MN 55435.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/integrative-massage-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/integrative-massage-edina-edina.json",
+   "address": {
+    "streetAddress": "4820 West 77th Street #150",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8641608,
+    "lon": -93.3460538
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006819700",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "interlachen-barber-shop-edina",
+   "name": "Interlachen Barber Shop",
+   "summary": "Interlachen Barber Shop is a barber shop in Edina, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/interlachen-barber-shop-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/interlachen-barber-shop-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9109732,
+    "lon": -93.3545367
+   },
+   "opening_hours": "\"by appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335550692",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "juut-salonspa-edina",
+   "name": "Juut Salonspa",
+   "summary": "Juut Salonspa is a hair salon in Edina, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/juut-salonspa-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/juut-salonspa-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8665998,
+    "lon": -93.3264691
+   },
+   "opening_hours": "Mo 10:00-20:00; Tu-Th 09:00-20:00; Fr,Sa 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11446922281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "la-z-boy-edina",
+   "name": "La-Z-Boy",
+   "summary": "La-Z-Boy is a furniture store in Edina, MN.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-z-boy-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-z-boy-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8661146,
+    "lon": -93.3279202
+   },
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449400286",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "orangetheory-fitness-edina",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Edina, MN at 3523 West 70th Street, Edina, MN 55435.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-edina.json",
+   "address": {
+    "streetAddress": "3523 West 70th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8754366,
+    "lon": -93.3258777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810692556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pure-barre-edina",
+   "name": "Pure Barre",
+   "summary": "Pure Barre is a gym in Edina, MN at 7101 France Avenue South, Edina, MN 55435.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pure-barre-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pure-barre-edina.json",
+   "address": {
+    "streetAddress": "7101 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8744993,
+    "lon": -93.3282361
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810902027",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "samaritan-tire-edina",
+   "name": "Samaritan Tire",
+   "summary": "Samaritan Tire is a tire shop in Edina, MN at 3230 Southdale Circle, Edina, MN 55435.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/samaritan-tire-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/samaritan-tire-edina.json",
+   "address": {
+    "streetAddress": "3230 Southdale Circle",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8820423,
+    "lon": -93.3205217
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/51857593",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "shoppe-5101-salon-and-spa-edina",
+   "name": "Shoppe 5101 Salon & Spa",
+   "summary": "Shoppe 5101 Salon & Spa is a hair salon in Edina, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shoppe-5101-salon-and-spa-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shoppe-5101-salon-and-spa-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9109643,
+    "lon": -93.3547984
+   },
+   "opening_hours": "Mo 09:00-18:00; Tu,We 08:00-20:00; Th 08:00-19:00; Fr 08:00-18:00; Sa 08:30-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2045419173",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sola-salons-edina",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Edina, MN at 3519 West 70th Street, Edina, MN 55435.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-edina.json",
+   "address": {
+    "streetAddress": "3519 West 70th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8754729,
+    "lon": -93.3256818
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12810693556",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sunrise-of-edina-edina",
+   "name": "Sunrise of Edina",
+   "summary": "Sunrise of Edina is an assisted living facility in Edina, MN at 7128 France Avenue South, Edina, MN 55435.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunrise-of-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunrise-of-edina-edina.json",
+   "address": {
+    "streetAddress": "7128 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8732719,
+    "lon": -93.3297845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1383833169",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-ups-store-edina-n11449400290",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Edina, MN.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-edina-n11449400290/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-edina-n11449400290.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8675052,
+    "lon": -93.3266174
+   },
+   "opening_hours": "Mo-Fr 08:30-18:30; Su 09:30-15:00; Sa 08:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11449400290",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "washburn-mcreavy-edina-chapel-edina",
+   "name": "Washburn-McReavy Edina Chapel",
+   "summary": "Washburn-McReavy Edina Chapel is a funeral home in Edina, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-edina-chapel-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-edina-chapel-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9119805,
+    "lon": -93.3519302
+   },
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/166549570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "west-elm-edina",
+   "name": "west elm",
+   "summary": "west elm is a furniture store in Edina, MN at West 27th Street, Edina, MN 55435.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-elm-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-elm-edina.json",
+   "address": {
+    "streetAddress": "West 27th Street",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8698552,
+    "lon": -93.3282323
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11048326846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "artistic-floral-edina",
+   "name": "Artistic Floral",
+   "summary": "Artistic Floral is a florist in Edina, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/artistic-floral-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/artistic-floral-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.892328,
+    "lon": -93.3395939
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812520529",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "burleys-hairsalon-edina",
+   "name": "Burley's Hairsalon",
+   "summary": "Burley's Hairsalon is a hair salon in Edina, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/burleys-hairsalon-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/burleys-hairsalon-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8911171,
+    "lon": -93.3370798
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/488964811",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "edina-daycare-edina",
+   "name": "Edina Daycare",
+   "summary": "Edina Daycare is a daycare in Edina, MN.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-daycare-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-daycare-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8650526,
+    "lon": -93.3198154
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13883833773",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "ellingson-and-ellingson-ltd-edina",
+   "name": "Ellingson & Ellingson, LTD.",
+   "summary": "Ellingson & Ellingson, LTD. is an accountant in Edina, MN.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ellingson-and-ellingson-ltd-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ellingson-and-ellingson-ltd-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9107653,
+    "lon": -93.3546653
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12335567663",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "envy-nails-edina",
+   "name": "Envy Nails",
+   "summary": "Envy Nails is a nail salon in Edina, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/envy-nails-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/envy-nails-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8661684,
+    "lon": -93.3266813
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11446922280",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "esse-driving-school-edina",
+   "name": "ESSE Driving School",
+   "summary": "ESSE Driving School is a driving school in Edina, MN.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/esse-driving-school-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/esse-driving-school-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8747532,
+    "lon": -93.3627145
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3840269106",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "firestone-edina",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Edina, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8831183,
+    "lon": -93.3233725
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4742396755",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "flex-fitness-edina",
+   "name": "Flex Fitness",
+   "summary": "Flex Fitness is a gym in Edina, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flex-fitness-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flex-fitness-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8674402,
+    "lon": -93.326582
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12758654148",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "focus-karate-edina",
+   "name": "Focus Karate",
+   "summary": "Focus Karate is a martial arts school in Edina, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/focus-karate-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/focus-karate-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8753577,
+    "lon": -93.362567
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3840269116",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "grandview-tire-and-auto-edina",
+   "name": "Grandview Tire and Auto",
+   "summary": "Grandview Tire and Auto is an auto repair shop in Edina, MN.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grandview-tire-and-auto-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grandview-tire-and-auto-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8758574,
+    "lon": -93.3625421
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/380704919",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "grind-edina",
+   "name": "Grind",
+   "summary": "Grind is a gym in Edina, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grind-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grind-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9135597,
+    "lon": -93.3313958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867402",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "jared-edina",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Edina, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8840113,
+    "lon": -93.3196323
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11024096061",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "little-petes-edina",
+   "name": "Little Pete's",
+   "summary": "Little Pete's is a bakery in Edina, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-petes-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-petes-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8753481,
+    "lon": -93.3624597
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3840269111",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mapeterson-edina",
+   "name": "MAPeterson",
+   "summary": "MAPeterson is a real estate agency in Edina, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mapeterson-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mapeterson-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8912373,
+    "lon": -93.3388992
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812520533",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "new-horizon-academy-edina",
+   "name": "New Horizon Academy",
+   "summary": "New Horizon Academy is a daycare in Edina, MN.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-horizon-academy-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8911214,
+    "lon": -93.3382447
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812520534",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "physical-culture-edina",
+   "name": "Physical Culture",
+   "summary": "Physical Culture is a gym in Edina, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/physical-culture-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/physical-culture-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8924306,
+    "lon": -93.339998
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812520531",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rosie-posie-edina",
+   "name": "Rosie Posie",
+   "summary": "Rosie Posie is a florist in Edina, MN.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rosie-posie-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rosie-posie-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8924008,
+    "lon": -93.3398828
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812520530",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "rustica-edina",
+   "name": "Rustica",
+   "summary": "Rustica is a bakery in Edina, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rustica-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rustica-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8818801,
+    "lon": -93.3247757
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10940612555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "southdale-eye-clinic-edina",
+   "name": "Southdale Eye Clinic",
+   "summary": "Southdale Eye Clinic is an eye care practice in Edina, MN.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southdale-eye-clinic-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southdale-eye-clinic-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8839148,
+    "lon": -93.3256104
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12288514285",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-edina",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Edina, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9049397,
+    "lon": -93.3285479
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478485142",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "studio-pilates-edina",
+   "name": "Studio Pilates",
+   "summary": "Studio Pilates is a gym in Edina, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-pilates-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-pilates-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.912113,
+    "lon": -93.3299857
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12141285386",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-waters-of-edina-edina",
+   "name": "The Waters of Edina",
+   "summary": "The Waters of Edina is an assisted living facility in Edina, MN.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-waters-of-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-waters-of-edina-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8889402,
+    "lon": -93.3713354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1328202876",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "welcyon-edina",
+   "name": "Welcyon",
+   "summary": "Welcyon is a gym in Edina, MN.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/welcyon-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/welcyon-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8916706,
+    "lon": -93.3386766
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4812520532",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "york-dental-edina",
+   "name": "York Dental",
+   "summary": "York Dental is a dentist in Edina, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/york-dental-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/york-dental-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8652659,
+    "lon": -93.3198288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13883833775",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

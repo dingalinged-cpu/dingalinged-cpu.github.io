@@ -1,0 +1,56 @@
+{
+ "slug": "pilgrim-cleaners-richfield",
+ "name": "Pilgrim Cleaners",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners richfield mn"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2901 West 66th Street",
+  "addressLocality": "Richfield",
+  "addressRegion": "MN",
+  "postalCode": "55423",
+  "addressCountry": "US"
+ },
+ "city": "Richfield",
+ "state": "MN",
+ "zip": "55423",
+ "geo": {
+  "lat": 44.8832512,
+  "lon": -93.316738
+ },
+ "phone": "+16128611697",
+ "website": "https://mypilgrimcleaners.com/",
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/311801783",
+ "osm": {
+  "type": "way",
+  "id": 311801783,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Richfield",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-richfield/",
+ "summary": "Pilgrim Cleaners is a dry cleaner in Richfield, MN at 2901 West 66th Street, Richfield, MN 55423. Phone: +16128611697. Website: https://mypilgrimcleaners.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

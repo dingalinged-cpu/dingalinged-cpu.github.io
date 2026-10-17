@@ -1,0 +1,5321 @@
+{
+ "keyword": "liquor store",
+ "slug": "liquor-store",
+ "place": "the United States",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in the United States?",
+ "matches": [
+  "liquor store in the United States",
+  "liquor store near me (the United States)",
+  "best liquor store the United States",
+  "top rated liquor store the United States",
+  "affordable liquor store the United States",
+  "emergency liquor store the United States"
+ ],
+ "answer": "The top unpaid liquor store listing for the United States is 1st Grand Avenue Liquors (a liquor store in Saint Paul, MN at 918 Grand Avenue, Saint Paul, MN 55105. Phone: +16512277039. Website: https://www.1stgrandaveliquors.com/). 167 liquor store businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "1st-grand-avenue-liquors-saint-paul",
+   "name": "1st Grand Avenue Liquors",
+   "summary": "1st Grand Avenue Liquors is a liquor store in Saint Paul, MN at 918 Grand Avenue, Saint Paul, MN 55105. Phone: +16512277039. Website: https://www.1stgrandaveliquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1st-grand-avenue-liquors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1st-grand-avenue-liquors-saint-paul.json",
+   "address": {
+    "streetAddress": "918 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9397951,
+    "lon": -93.1387522
+   },
+   "phone": "+16512277039",
+   "website": "https://www.1stgrandaveliquors.com/",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/79236553",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "dabbler-depot-saint-paul",
+   "name": "Dabbler Depot",
+   "summary": "Dabbler Depot is a liquor store in Saint Paul, MN at 1545 7th Street West #100, Saint Paul, MN 58102. Phone: +16518022112. Website: https://www.dabblerdepot.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dabbler-depot-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dabbler-depot-saint-paul.json",
+   "address": {
+    "streetAddress": "1545 7th Street West #100",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "58102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "58102",
+   "geo": {
+    "lat": 44.9182811,
+    "lon": -93.1412147
+   },
+   "phone": "+16518022112",
+   "website": "https://www.dabblerdepot.com/",
+   "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3332622366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "edina-liquor-edina-n1908446277",
+   "name": "Edina Liquor",
+   "summary": "Edina Liquor is a liquor store in Edina, MN at 5013 Vernon Avenue, Edina, MN 55436. Phone: +19529035740. Website: https://www.edinaliquor.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-liquor-edina-n1908446277/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-liquor-edina-n1908446277.json",
+   "address": {
+    "streetAddress": "5013 Vernon Avenue",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55436",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55436",
+   "geo": {
+    "lat": 44.9117708,
+    "lon": -93.3541647
+   },
+   "phone": "+19529035740",
+   "website": "https://www.edinaliquor.com/",
+   "opening_hours": "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1908446277",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "france-44-minneapolis",
+   "name": "France 44",
+   "summary": "France 44 is a liquor store in Minneapolis, MN at 4351 France Avenue South, Minneapolis, MN 55410. Phone: +16129253252. Website: https://www.france44.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/france-44-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/france-44-minneapolis.json",
+   "address": {
+    "streetAddress": "4351 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9229057,
+    "lon": -93.3286959
+   },
+   "phone": "+16129253252",
+   "website": "https://www.france44.com/",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/102079791",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "maplewood-liquor-maplewood",
+   "name": "Maplewood Liquor",
+   "summary": "Maplewood Liquor is a liquor store in Maplewood, MN at 2950 White Bear Avenue #12, Maplewood, MN 55109. Phone: +16517797920. Website: https://mgmwineandspirits.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maplewood-liquor-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maplewood-liquor-maplewood.json",
+   "address": {
+    "streetAddress": "2950 White Bear Avenue #12",
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "postalCode": "55109",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "zip": "55109",
+   "geo": {
+    "lat": 45.0297162,
+    "lon": -93.0171242
+   },
+   "phone": "+16517797920",
+   "website": "https://mgmwineandspirits.com/",
+   "opening_hours": "Mo-Sa 09:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6534119473",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "mcdonalds-liquors-minneapolis",
+   "name": "McDonald's Liquors",
+   "summary": "McDonald's Liquors is a liquor store in Minneapolis, MN at 5010 34th Avenue South, Minneapolis, MN 55417. Phone: +16127216686. Website: https://www.mcdonaldsliquorandwine.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcdonalds-liquors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcdonalds-liquors-minneapolis.json",
+   "address": {
+    "streetAddress": "5010 34th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.9120308,
+    "lon": -93.2231868
+   },
+   "phone": "+16127216686",
+   "website": "https://www.mcdonaldsliquorandwine.com/",
+   "opening_hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2128028536",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "mgm-wine-and-spirits-minneapolis",
+   "name": "MGM Wine & Spirits",
+   "summary": "MGM Wine & Spirits is a liquor store in Minneapolis, MN at 3058 Excelsior Boulevard, Minneapolis, MN 55416. Phone: +16129221130. Website: https://mgmwineandspirits.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-wine-and-spirits-minneapolis.json",
+   "address": {
+    "streetAddress": "3058 Excelsior Boulevard",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9480245,
+    "lon": -93.3222113
+   },
+   "phone": "+16129221130",
+   "website": "https://mgmwineandspirits.com/",
+   "opening_hours": "Mo-Fr 09:00-22:00; Sa 08:00-22:00; Su 08:00-22:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3230873865",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "mgm-wine-and-spirits-roseville",
+   "name": "MGM Wine & Spirits",
+   "summary": "MGM Wine & Spirits is a liquor store in Roseville, MN at 1149 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514886685. Website: https://www.mgmwineandspirits.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-wine-and-spirits-roseville.json",
+   "address": {
+    "streetAddress": "1149 Larpenteur Avenue West",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9926016,
+    "lon": -93.1484332
+   },
+   "phone": "+16514886685",
+   "website": "https://www.mgmwineandspirits.com/",
+   "opening_hours": "Mo-Fr 09:00-22:00; Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1914627267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "micks-bottle-shop-saint-paul",
+   "name": "Mick's Bottle Shop",
+   "summary": "Mick's Bottle Shop is a liquor store in Saint Paul, MN at 666 Grand Avenue, Saint Paul, MN 55105. Phone: +16512276563. Website: https://www.micksbottle.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/micks-bottle-shop-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/micks-bottle-shop-saint-paul.json",
+   "address": {
+    "streetAddress": "666 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9397443,
+    "lon": -93.1280294
+   },
+   "phone": "+16512276563",
+   "website": "https://www.micksbottle.com/",
+   "opening_hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2095784585",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "midway-liquor-store-saint-paul",
+   "name": "Midway Liquor Store",
+   "summary": "Midway Liquor Store is a liquor store in Saint Paul, MN at 1955 University Avenue, Saint Paul, MN 55104. Phone: +16516447900. Website: https://midwayliquorstore.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-liquor-store-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-liquor-store-saint-paul.json",
+   "address": {
+    "streetAddress": "1955 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9583532,
+    "lon": -93.1817271
+   },
+   "phone": "+16516447900",
+   "website": "https://midwayliquorstore.com/",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3242758102",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "sharretts-liquor-store-saint-paul",
+   "name": "Sharrett's Liquor Store",
+   "summary": "Sharrett's Liquor Store is a liquor store in Saint Paul, MN at 2389 University Avenue West, Saint Paul, MN 55114. Phone: +16516458620. Website: https://www.skolliquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sharretts-liquor-store-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sharretts-liquor-store-saint-paul.json",
+   "address": {
+    "streetAddress": "2389 University Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9642539,
+    "lon": -93.1977819
+   },
+   "phone": "+16516458620",
+   "website": "https://www.skolliquors.com/",
+   "opening_hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1624620882",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "snelling-avenue-fine-wines-saint-paul",
+   "name": "Snelling Avenue Fine Wines",
+   "summary": "Snelling Avenue Fine Wines is a liquor store in Saint Paul, MN at 500 Snelling Avenue, Saint Paul, MN 55104. Phone: +16516466171. Website: https://snellingwines.wixsite.com/index.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snelling-avenue-fine-wines-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snelling-avenue-fine-wines-saint-paul.json",
+   "address": {
+    "streetAddress": "500 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9563084,
+    "lon": -93.1667607
+   },
+   "phone": "+16516466171",
+   "website": "https://snellingwines.wixsite.com/index",
+   "opening_hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7207338601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "south-lyndale-liquor-minneapolis",
+   "name": "South Lyndale Liquor",
+   "summary": "South Lyndale Liquor is a liquor store in Minneapolis, MN at 5516 Lyndale Avenue South, Minneapolis, MN 55419. Phone: +16128275811. Website: https://southlyndale.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/south-lyndale-liquor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/south-lyndale-liquor-minneapolis.json",
+   "address": {
+    "streetAddress": "5516 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9028534,
+    "lon": -93.2886817
+   },
+   "phone": "+16128275811",
+   "website": "https://southlyndale.com/",
+   "opening_hours": "Mo-We 10:00-20:00; Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/496534848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "surdyks-liquor-and-cheese-shop-minneapolis",
+   "name": "Surdyk's Liquor & Cheese Shop",
+   "summary": "Surdyk's Liquor & Cheese Shop is a liquor store in Minneapolis, MN at 303 East Hennepin Avenue, Minneapolis, MN 55414. Phone: +16123793232. Website: https://surdyks.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/surdyks-liquor-and-cheese-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/surdyks-liquor-and-cheese-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "303 East Hennepin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9884956,
+    "lon": -93.2559084
+   },
+   "phone": "+16123793232",
+   "website": "https://surdyks.com/",
+   "opening_hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/80313506",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "the-wine-thief-and-ale-jail-saint-paul",
+   "name": "The Wine Thief & Ale Jail",
+   "summary": "The Wine Thief & Ale Jail is a liquor store in Saint Paul, MN at 1787 Saint Clair Ave, Saint Paul, MN 55105. Phone: +16516989463. Website: https://www.winethief.net/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wine-thief-and-ale-jail-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wine-thief-and-ale-jail-saint-paul.json",
+   "address": {
+    "streetAddress": "1787 Saint Clair Ave",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9344166,
+    "lon": -93.1759772
+   },
+   "phone": "+16516989463",
+   "website": "https://www.winethief.net/",
+   "opening_hours": "Mo-Th 11:00-20:00; Fr 11:00-21:00; Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/598032030",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "top-ten-liquor-saint-louis-park",
+   "name": "Top Ten Liquor",
+   "summary": "Top Ten Liquor is a liquor store in Saint Louis Park, MN at 5111 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529200750. Website: https://toptenliquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquor-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquor-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5111 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.930744,
+    "lon": -93.3464472
+   },
+   "phone": "+19529200750",
+   "website": "https://toptenliquors.com/",
+   "opening_hours": "Mo-Sa 09:00-22:00; Su 11:00-18:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1907407090",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "total-wine-bloomington",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Bloomington, MN at 4200 78th Street West, Bloomington, MN 55435. Phone: +19528356063. Website: https://www.totalwine.com/store-info/1601.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-bloomington.json",
+   "address": {
+    "streetAddress": "4200 78th Street West",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8603319,
+    "lon": -93.3315772
+   },
+   "phone": "+19528356063",
+   "website": "https://www.totalwine.com/store-info/1601",
+   "opening_hours": "Mo-Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3154921980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "total-wine-chanhassen",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Chanhassen, MN at 510 Lake Drive, Chanhassen, MN 55317. Phone: +19529346484. Website: https://www.totalwine.com/store-info/1606.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-chanhassen.json",
+   "address": {
+    "streetAddress": "510 Lake Drive",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8566308,
+    "lon": -93.5337551
+   },
+   "phone": "+19529346484",
+   "website": "https://www.totalwine.com/store-info/1606",
+   "opening_hours": "Mo-Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5584887732",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "total-wine-eagan",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Eagan, MN at 1440 Central Park Commons Drive, Eagan, MN 55121. Phone: +16514520499. Website: https://www.totalwine.com/store-info/1607.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-eagan.json",
+   "address": {
+    "streetAddress": "1440 Central Park Commons Drive",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8341786,
+    "lon": -93.1681651
+   },
+   "phone": "+16514520499",
+   "website": "https://www.totalwine.com/store-info/1607",
+   "opening_hours": "Mo-Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7128978419",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "total-wine-maple-grove",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Maple Grove, MN at 12795 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17634883300. Website: https://www.totalwine.com/store-info/1605.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-maple-grove.json",
+   "address": {
+    "streetAddress": "12795 Elm Creek Boulevard",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.0928438,
+    "lon": -93.4429254
+   },
+   "phone": "+17634883300",
+   "website": "https://www.totalwine.com/store-info/1605",
+   "opening_hours": "Mo-Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52054298",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "total-wine-saint-louis-park",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Saint Louis Park, MN at 8100 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529352265. Website: https://www.totalwine.com/store-info/minnesota-st-louis-park/1610.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8100 Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9369759,
+    "lon": -93.3827832
+   },
+   "phone": "+19529352265",
+   "website": "https://www.totalwine.com/store-info/minnesota-st-louis-park/1610",
+   "opening_hours": "Mo-Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4337455277",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "toasted-saint-paul",
+   "name": "Toasted",
+   "summary": "Toasted is a liquor store in Saint Paul, MN at 560 Como Avenue, Saint Paul, MN. Phone: +16513300619. Website: https://toastedstpaul.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/toasted-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/toasted-saint-paul.json",
+   "address": {
+    "streetAddress": "560 Como Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9687566,
+    "lon": -93.1240869
+   },
+   "phone": "+16513300619",
+   "website": "https://toastedstpaul.com/",
+   "opening_hours": "Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8165678642",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "top-10-liquors-roseville",
+   "name": "Top 10 Liquors",
+   "summary": "Top 10 Liquors is a liquor store in Roseville, MN at 1609 West County Road C, Roseville, MN. Phone: +16513401846. Website: https://toptenliquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-10-liquors-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-10-liquors-roseville.json",
+   "address": {
+    "streetAddress": "1609 West County Road C",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0226394,
+    "lon": -93.1702195
+   },
+   "phone": "+16513401846",
+   "website": "https://toptenliquors.com/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566813793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "top-valu-liquor-columbia-heights",
+   "name": "Top Valu Liquor",
+   "summary": "Top Valu Liquor is a liquor store in Columbia Heights, MN at 4950 Central Avenue Northeast, Columbia Heights, MN. Phone: +17637063819. Website: https://www.columbiaheightsmn.gov/departments/top_valu_liquor/store_locations.php.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-valu-liquor-columbia-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-valu-liquor-columbia-heights.json",
+   "address": {
+    "streetAddress": "4950 Central Avenue Northeast",
+    "addressLocality": "Columbia Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Columbia Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0585318,
+    "lon": -93.2483246
+   },
+   "phone": "+17637063819",
+   "website": "https://www.columbiaheightsmn.gov/departments/top_valu_liquor/store_locations.php",
+   "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13116545190",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "total-wine-roseville",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Roseville, MN at 2401 Fairview Avenue North #105, Roseville, MN. Phone: +16516364157. Website: https://www.totalwine.com/store-info/minnesota-roseville-rosedale/1602.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-roseville.json",
+   "address": {
+    "streetAddress": "2401 Fairview Avenue North #105",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0135972,
+    "lon": -93.1801435
+   },
+   "phone": "+16516364157",
+   "website": "https://www.totalwine.com/store-info/minnesota-roseville-rosedale/1602",
+   "opening_hours": "Su 11:00-18:00; Mo-Sa 08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12994941461",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "cheers-wine-and-spirits-bloomington",
+   "name": "Cheers Wine and Spirits",
+   "summary": "Cheers Wine and Spirits is a liquor store in Bloomington, MN at 9340 Ensign Avenue South, Bloomington, MN 55438. Phone: +19529410998. Website: https://www.cheersmn.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cheers-wine-and-spirits-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cheers-wine-and-spirits-bloomington.json",
+   "address": {
+    "streetAddress": "9340 Ensign Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55438",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55438",
+   "geo": {
+    "lat": 44.8346936,
+    "lon": -93.3963243
+   },
+   "phone": "+19529410998",
+   "website": "https://www.cheersmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1188081607",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "clocktower-wine-and-spirits-andover",
+   "name": "Clocktower Wine and Spirits",
+   "summary": "Clocktower Wine and Spirits is a liquor store in Andover, MN at 15190 Bluebird Street Northwest #109, Andover, MN 55304. Phone: +17634340116. Website: https://www.clocktowermn.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clocktower-wine-and-spirits-andover/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clocktower-wine-and-spirits-andover.json",
+   "address": {
+    "streetAddress": "15190 Bluebird Street Northwest #109",
+    "addressLocality": "Andover",
+    "addressRegion": "MN",
+    "postalCode": "55304",
+    "addressCountry": "US"
+   },
+   "city": "Andover",
+   "state": "MN",
+   "zip": "55304",
+   "geo": {
+    "lat": 45.2463195,
+    "lon": -93.3054798
+   },
+   "phone": "+17634340116",
+   "website": "https://www.clocktowermn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9471720770",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "edina-liquor-edina",
+   "name": "Edina Liquor",
+   "summary": "Edina Liquor is a liquor store in Edina, MN. Phone: +19529035730. Website: https://edinaliquor.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-liquor-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-liquor-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9120072,
+    "lon": -93.3306444
+   },
+   "phone": "+19529035730",
+   "website": "https://edinaliquor.com/",
+   "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/829647881",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "edina-liquor-edina-n2700323304",
+   "name": "Edina Liquor",
+   "summary": "Edina Liquor is a liquor store in Edina, MN at 6755 York Avenue South, Edina, MN 55435. Phone: +19529035730. Website: https://www.edinaliquor.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-liquor-edina-n2700323304/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-liquor-edina-n2700323304.json",
+   "address": {
+    "streetAddress": "6755 York Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8804852,
+    "lon": -93.3206173
+   },
+   "phone": "+19529035730",
+   "website": "https://www.edinaliquor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2700323304",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "henry-and-son-minneapolis",
+   "name": "Henry & Son",
+   "summary": "Henry & Son is a liquor store in Minneapolis, MN at 1220 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16122009517. Website: https://shophenryandson.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/henry-and-son-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/henry-and-son-minneapolis.json",
+   "address": {
+    "streetAddress": "1220 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9807974,
+    "lon": -93.2965741
+   },
+   "phone": "+16122009517",
+   "website": "https://shophenryandson.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/240869831",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "liquor-boy-wine-and-spirits-saint-louis-park",
+   "name": "Liquor Boy Wine and Spirits",
+   "summary": "Liquor Boy Wine and Spirits is a liquor store in Saint Louis Park, MN at 5620 Cedar Lake Road, Saint Louis Park, MN 55416. Phone: +19525122200. Website: https://www.liquor-boy.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-boy-wine-and-spirits-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-boy-wine-and-spirits-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5620 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.963889,
+    "lon": -93.3503312
+   },
+   "phone": "+19525122200",
+   "website": "https://www.liquor-boy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2245100362",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "merwin-wine-and-spirits-eagan",
+   "name": "Merwin Wine and Spirits",
+   "summary": "Merwin Wine and Spirits is a liquor store in Eagan, MN at 1278 Town Centre Drive #125, Eagan, MN 55123. Phone: +16516811916. Website: https://www.merwinliquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merwin-wine-and-spirits-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merwin-wine-and-spirits-eagan.json",
+   "address": {
+    "streetAddress": "1278 Town Centre Drive #125",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8303858,
+    "lon": -93.1609439
+   },
+   "phone": "+16516811916",
+   "website": "https://www.merwinliquors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1719957641",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "mobys-wine-and-spirits-saint-bonifacius",
+   "name": "Moby's Wine and Spirits",
+   "summary": "Moby's Wine and Spirits is a liquor store in Saint Bonifacius, MN at 4080 Tower Street #1070, Saint Bonifacius, MN 55375. Phone: +19524461638. Website: https://mobys-wine-and-spirits.business.site/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mobys-wine-and-spirits-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mobys-wine-and-spirits-saint-bonifacius.json",
+   "address": {
+    "streetAddress": "4080 Tower Street #1070",
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "postalCode": "55375",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "zip": "55375",
+   "geo": {
+    "lat": 44.9025455,
+    "lon": -93.7485196
+   },
+   "phone": "+19524461638",
+   "website": "https://mobys-wine-and-spirits.business.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10742711442",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "nys-liquor-centerville",
+   "name": "NY's Liquor",
+   "summary": "NY's Liquor is a liquor store in Centerville, MN at 7093 20th Avenue South, Centerville, MN 55038. Phone: +16513406989. Website: https://jpsliquorwineandbeer.business.site/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nys-liquor-centerville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nys-liquor-centerville.json",
+   "address": {
+    "streetAddress": "7093 20th Avenue South",
+    "addressLocality": "Centerville",
+    "addressRegion": "MN",
+    "postalCode": "55038",
+    "addressCountry": "US"
+   },
+   "city": "Centerville",
+   "state": "MN",
+   "zip": "55038",
+   "geo": {
+    "lat": 45.1632451,
+    "lon": -93.0414392
+   },
+   "phone": "+16513406989",
+   "website": "https://jpsliquorwineandbeer.business.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1001891131",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "oak-liquor-oakdale",
+   "name": "Oak Liquor",
+   "summary": "Oak Liquor is a liquor store in Oakdale, MN at 1801 Geneva Avenue North, Oakdale, MN 55128. Phone: +16517399739. Website: https://oak-liquor.business.site/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oak-liquor-oakdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oak-liquor-oakdale.json",
+   "address": {
+    "streetAddress": "1801 Geneva Avenue North",
+    "addressLocality": "Oakdale",
+    "addressRegion": "MN",
+    "postalCode": "55128",
+    "addressCountry": "US"
+   },
+   "city": "Oakdale",
+   "state": "MN",
+   "zip": "55128",
+   "geo": {
+    "lat": 44.9754538,
+    "lon": -92.9840193
+   },
+   "phone": "+16517399739",
+   "website": "https://oak-liquor.business.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1180104009",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "richfield-liquor-cedar-point-richfield",
+   "name": "Richfield Liquor - Cedar Point",
+   "summary": "Richfield Liquor - Cedar Point is a liquor store in Richfield, MN at 6600 Old Cedar Avenue South, Richfield, MN 55423. Phone: +16128619370. Website: https://www.richfieldmn.gov/departments/liquor_stores/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richfield-liquor-cedar-point-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-cedar-point-richfield.json",
+   "address": {
+    "streetAddress": "6600 Old Cedar Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8830941,
+    "lon": -93.2485188
+   },
+   "phone": "+16128619370",
+   "website": "https://www.richfieldmn.gov/departments/liquor_stores/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/359257416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "richfield-liquor-downtown-richfield",
+   "name": "Richfield Liquor - Downtown",
+   "summary": "Richfield Liquor - Downtown is a liquor store in Richfield, MN at 6445 Lyndale Avenue South, Richfield, MN 55423. Phone: +16128619375. Website: https://www.richfieldmn.gov/departments/liquor_stores/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richfield-liquor-downtown-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-downtown-richfield.json",
+   "address": {
+    "streetAddress": "6445 Lyndale Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8852265,
+    "lon": -93.2868656
+   },
+   "phone": "+16128619375",
+   "website": "https://www.richfieldmn.gov/departments/liquor_stores/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1155595509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "richfield-liquor-penn-central-richfield",
+   "name": "Richfield Liquor - Penn Central",
+   "summary": "Richfield Liquor - Penn Central is a liquor store in Richfield, MN at 6444 Penn Avenue South, Richfield, MN 55423. Phone: +16128619380. Website: https://www.richfieldmn.gov/departments/liquor_stores/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richfield-liquor-penn-central-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-penn-central-richfield.json",
+   "address": {
+    "streetAddress": "6444 Penn Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8856585,
+    "lon": -93.3092471
+   },
+   "phone": "+16128619380",
+   "website": "https://www.richfieldmn.gov/departments/liquor_stores/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/311805842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "richfield-liquor-shops-at-lyndale-richfield",
+   "name": "Richfield Liquor - Shops at Lyndale",
+   "summary": "Richfield Liquor - Shops at Lyndale is a liquor store in Richfield, MN at 7700 Lyndale Avenue South, Richfield, MN 55423. Phone: +16128619352. Website: https://www.richfieldmn.gov/departments/liquor_stores/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richfield-liquor-shops-at-lyndale-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-shops-at-lyndale-richfield.json",
+   "address": {
+    "streetAddress": "7700 Lyndale Avenue South",
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "postalCode": "55423",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "zip": "55423",
+   "geo": {
+    "lat": 44.8634589,
+    "lon": -93.2888992
+   },
+   "phone": "+16128619352",
+   "website": "https://www.richfieldmn.gov/departments/liquor_stores/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/99446873",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "scotts-liquors-saint-paul",
+   "name": "Scott's Liquors",
+   "summary": "Scott's Liquors is a liquor store in Saint Paul, MN at 1464 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516904434. Website: https://scottsliquor.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/scotts-liquors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/scotts-liquors-saint-paul.json",
+   "address": {
+    "streetAddress": "1464 Saint Clair Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9339255,
+    "lon": -93.1622301
+   },
+   "phone": "+16516904434",
+   "website": "https://scottsliquor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/400446671",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "solo-vino-saint-paul",
+   "name": "Solo Vino",
+   "summary": "Solo Vino is a liquor store in Saint Paul, MN at 517 Selby Avenue, Saint Paul, MN 55102. Phone: +16516029515. Website: https://www.solovinowines.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/solo-vino-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/solo-vino-saint-paul.json",
+   "address": {
+    "streetAddress": "517 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9466998,
+    "lon": -93.1220746
+   },
+   "phone": "+16516029515",
+   "website": "https://www.solovinowines.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3134015334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "thomas-liquors-saint-paul",
+   "name": "Thomas Liquors",
+   "summary": "Thomas Liquors is a liquor store in Saint Paul, MN at 1941 Grand Avenue, Saint Paul, MN 55105. Phone: +16516991860. Website: https://www.thomasliquor.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thomas-liquors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thomas-liquors-saint-paul.json",
+   "address": {
+    "streetAddress": "1941 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9403443,
+    "lon": -93.1825458
+   },
+   "phone": "+16516991860",
+   "website": "https://www.thomasliquor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/172673836",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "yarmo-liquor-store-saint-paul",
+   "name": "Yarmo Liquor Store",
+   "summary": "Yarmo Liquor Store is a liquor store in Saint Paul, MN at 2489 7th Street West, Saint Paul, MN 55116. Phone: +16516980707. Website: https://yarmoliquor.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yarmo-liquor-store-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yarmo-liquor-store-saint-paul.json",
+   "address": {
+    "streetAddress": "2489 7th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9020789,
+    "lon": -93.1713651
+   },
+   "phone": "+16516980707",
+   "website": "https://yarmoliquor.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/580367691",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "crossroads-liquor-victoria",
+   "name": "Crossroads Liquor",
+   "summary": "Crossroads Liquor is a liquor store in Victoria, MN at 7999 Victoria Drive, Victoria, MN 55386. Website: https://www.crossroadsliq.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossroads-liquor-victoria/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossroads-liquor-victoria.json",
+   "address": {
+    "streetAddress": "7999 Victoria Drive",
+    "addressLocality": "Victoria",
+    "addressRegion": "MN",
+    "postalCode": "55386",
+    "addressCountry": "US"
+   },
+   "city": "Victoria",
+   "state": "MN",
+   "zip": "55386",
+   "geo": {
+    "lat": 44.8594574,
+    "lon": -93.6608182
+   },
+   "website": "https://www.crossroadsliq.com/",
+   "opening_hours": "Mo-Sa 09:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/421207120",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "elevated-beer-wine-and-spirits-minneapolis",
+   "name": "Elevated Beer Wine & Spirits",
+   "summary": "Elevated Beer Wine & Spirits is a liquor store in Minneapolis, MN at 4135 Hiawatha Avenue, Minneapolis, MN 55406. Website: https://www.elevatedbws.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elevated-beer-wine-and-spirits-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elevated-beer-wine-and-spirits-minneapolis.json",
+   "address": {
+    "streetAddress": "4135 Hiawatha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9277216,
+    "lon": -93.2238299
+   },
+   "website": "https://www.elevatedbws.com/",
+   "opening_hours": "Mo-Sa 10:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2276471604",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "franklin-nicollet-liquor-store-minneapolis",
+   "name": "Franklin-Nicollet Liquor Store",
+   "summary": "Franklin-Nicollet Liquor Store is a liquor store in Minneapolis, MN at 2012 Nicollet Avenue, Minneapolis, MN 55404. Phone: +16128711511.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/franklin-nicollet-liquor-store-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/franklin-nicollet-liquor-store-minneapolis.json",
+   "address": {
+    "streetAddress": "2012 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9621333,
+    "lon": -93.2780361
+   },
+   "phone": "+16128711511",
+   "opening_hours": "Mo-Sa 08:00-21:45; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617420631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "hat-trick-liquors-south-saint-paul",
+   "name": "Hat Trick Liquors",
+   "summary": "Hat Trick Liquors is a liquor store in South Saint Paul, MN at 1150 Southview Boulevard, South Saint Paul, MN 55075. Phone: +16515521996.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hat-trick-liquors-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hat-trick-liquors-south-saint-paul.json",
+   "address": {
+    "streetAddress": "1150 Southview Boulevard",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8893099,
+    "lon": -93.048312
+   },
+   "phone": "+16515521996",
+   "opening_hours": "Mo-Sa 09:00-21:55",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447124503",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "hennepin-lake-beer-and-liquor-minneapolis",
+   "name": "Hennepin Lake Beer and Liquor",
+   "summary": "Hennepin Lake Beer and Liquor is a liquor store in Minneapolis, MN at 1200 West Lake Street, Minneapolis, MN 55408. Website: https://hennepinlakeliquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hennepin-lake-beer-and-liquor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hennepin-lake-beer-and-liquor-minneapolis.json",
+   "address": {
+    "streetAddress": "1200 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9485128,
+    "lon": -93.2949052
+   },
+   "website": "https://hennepinlakeliquors.com/",
+   "opening_hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 11:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/771701388",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "lake-wine-and-spirits-minneapolis",
+   "name": "Lake Wine & Spirits",
+   "summary": "Lake Wine & Spirits is a liquor store in Minneapolis, MN at 404 West Lake Street, Minneapolis, MN 55408. Website: https://lakewinespirits.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-wine-and-spirits-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-wine-and-spirits-minneapolis.json",
+   "address": {
+    "streetAddress": "404 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9486197,
+    "lon": -93.2846784
+   },
+   "website": "https://lakewinespirits.com/",
+   "opening_hours": "Su 11:00-18:00; Mo-Sa 10:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/124775833",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "merwin-liquors-falcon-heights",
+   "name": "Merwin Liquors",
+   "summary": "Merwin Liquors is a liquor store in Falcon Heights, MN. Phone: +16513137297. Website: https://www.merwinliquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merwin-liquors-falcon-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merwin-liquors-falcon-heights.json",
+   "address": {
+    "addressLocality": "Falcon Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Falcon Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9920619,
+    "lon": -93.1658576
+   },
+   "phone": "+16513137297",
+   "website": "https://www.merwinliquors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/585203512",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "east-lake-liquor-store-minneapolis",
+   "name": "East Lake Liquor Store",
+   "summary": "East Lake Liquor Store is a liquor store in Minneapolis, MN at 3916 East Lake Street, Minneapolis, MN 55406. Phone: +16127245467.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/east-lake-liquor-store-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/east-lake-liquor-store-minneapolis.json",
+   "address": {
+    "streetAddress": "3916 East Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9486343,
+    "lon": -93.2157762
+   },
+   "phone": "+16127245467",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/289418788",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "haskells-saint-paul",
+   "name": "Haskell's",
+   "summary": "Haskell's is a liquor store in Saint Paul, MN at 2221 Ford Parkway, Saint Paul, MN 55116. Website: https://www.haskells.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haskells-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haskells-saint-paul.json",
+   "address": {
+    "streetAddress": "2221 Ford Parkway",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9182042,
+    "lon": -93.1939657
+   },
+   "website": "https://www.haskells.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/683448212",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "hums-liquor-minneapolis",
+   "name": "Hum's Liquor",
+   "summary": "Hum's Liquor is a liquor store in Minneapolis, MN at 2126 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128741111.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hums-liquor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hums-liquor-minneapolis.json",
+   "address": {
+    "streetAddress": "2126 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9610633,
+    "lon": -93.2882712
+   },
+   "phone": "+16128741111",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287908892",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "liquor-barrel-crystal",
+   "name": "Liquor Barrel",
+   "summary": "Liquor Barrel is a liquor store in Crystal, MN at 2728 Douglas Drive North, Crystal, MN 55422. Phone: +17635410004.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-barrel-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-barrel-crystal.json",
+   "address": {
+    "streetAddress": "2728 Douglas Drive North",
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0080594,
+    "lon": -93.3595796
+   },
+   "phone": "+17635410004",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4529394892",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "navarre-liquors-inc-wayzata",
+   "name": "Navarre Liquors Inc",
+   "summary": "Navarre Liquors Inc is a liquor store in Wayzata, MN at 4321 Shoreline Drive, Wayzata, MN 55391. Phone: +19524718800.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/navarre-liquors-inc-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/navarre-liquors-inc-wayzata.json",
+   "address": {
+    "streetAddress": "4321 Shoreline Drive",
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "postalCode": "55391",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "zip": "55391",
+   "geo": {
+    "lat": 44.934292,
+    "lon": -93.6102817
+   },
+   "phone": "+19524718800",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12123539257",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "ombibulous-minneapolis",
+   "name": "Ombibulous",
+   "summary": "Ombibulous is a liquor store in Minneapolis, MN at 949 East Hennepin Avenue, Minneapolis, MN 55414. Website: https://ombibulousmn.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ombibulous-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ombibulous-minneapolis.json",
+   "address": {
+    "streetAddress": "949 East Hennepin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9918067,
+    "lon": -93.2400554
+   },
+   "website": "https://ombibulousmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/93677577",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "rite-liquor-saint-paul",
+   "name": "Rite Liquor",
+   "summary": "Rite Liquor is a liquor store in Saint Paul, MN at 645 Snelling Avenue South, Saint Paul, MN 55116. Phone: +16514140346.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rite-liquor-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rite-liquor-saint-paul.json",
+   "address": {
+    "streetAddress": "645 Snelling Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55116",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55116",
+   "geo": {
+    "lat": 44.9219727,
+    "lon": -93.1672846
+   },
+   "phone": "+16514140346",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1411811128",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "riverside-liquors-shakopee",
+   "name": "Riverside Liquors",
+   "summary": "Riverside Liquors is a liquor store in Shakopee, MN at 507 1st Avenue East, Shakopee, MN 55379. Phone: +19524456014.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riverside-liquors-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riverside-liquors-shakopee.json",
+   "address": {
+    "streetAddress": "507 1st Avenue East",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7996811,
+    "lon": -93.5206621
+   },
+   "phone": "+19524456014",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/965707824",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "smith-liquors-west-saint-paul",
+   "name": "Smith Liquors",
+   "summary": "Smith Liquors is a liquor store in West Saint Paul, MN at 985 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514574567.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smith-liquors-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smith-liquors-west-saint-paul.json",
+   "address": {
+    "streetAddress": "985 Smith Avenue South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9167471,
+    "lon": -93.1020438
+   },
+   "phone": "+16514574567",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7499470397",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "st-louis-park-liquor-saint-louis-park",
+   "name": "St Louis Park Liquor",
+   "summary": "St Louis Park Liquor is a liquor store in Saint Louis Park, MN at 6316 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19524263650.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-louis-park-liquor-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-louis-park-liquor-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6316 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9499239,
+    "lon": -93.3600208
+   },
+   "phone": "+19524263650",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9694435904",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "st-anthony-village-wine-and-spirits-saint-anthony",
+   "name": "St. Anthony Village Wine and Spirits",
+   "summary": "St. Anthony Village Wine and Spirits is a liquor store in Saint Anthony, MN at 2700 County Rd 88, Saint Anthony, MN 55418. Phone: +16127823451.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-anthony-village-wine-and-spirits-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-anthony-village-wine-and-spirits-saint-anthony.json",
+   "address": {
+    "streetAddress": "2700 County Rd 88",
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0165405,
+    "lon": -93.2181034
+   },
+   "phone": "+16127823451",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12542995053",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "texa-tonka-liquor-saint-louis-park",
+   "name": "Texa Tonka Liquor",
+   "summary": "Texa Tonka Liquor is a liquor store in Saint Louis Park, MN at 8240 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +19529386364.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/texa-tonka-liquor-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/texa-tonka-liquor-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8240 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9497418,
+    "lon": -93.3847627
+   },
+   "phone": "+19529386364",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/417892237",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "westwood-liquors-saint-louis-park",
+   "name": "Westwood Liquors",
+   "summary": "Westwood Liquors is a liquor store in Saint Louis Park, MN at 2304 Louisiana Avenue South, Saint Louis Park, MN 55426. Phone: +19525447878.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/westwood-liquors-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/westwood-liquors-saint-louis-park.json",
+   "address": {
+    "streetAddress": "2304 Louisiana Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9591676,
+    "lon": -93.3717466
+   },
+   "phone": "+19525447878",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1786935177",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "central-avenue-liquors-minneapolis",
+   "name": "Central Avenue Liquors",
+   "summary": "Central Avenue Liquors is a liquor store in Minneapolis, MN at 2538 Central Avenue Northeast, Minneapolis, MN 55418.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-avenue-liquors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-avenue-liquors-minneapolis.json",
+   "address": {
+    "streetAddress": "2538 Central Avenue Northeast",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.014603,
+    "lon": -93.247786
+   },
+   "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/310502459",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "eden-prairie-liquor-eden-prairie-n12022859336",
+   "name": "Eden Prairie Liquor",
+   "summary": "Eden Prairie Liquor is a liquor store in Eden Prairie, MN at 8018 Den Road, Eden Prairie, MN 55344.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eden-prairie-liquor-eden-prairie-n12022859336/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eden-prairie-liquor-eden-prairie-n12022859336.json",
+   "address": {
+    "streetAddress": "8018 Den Road",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8584731,
+    "lon": -93.4237069
+   },
+   "opening_hours": "Mo-Sa 09-00:22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12022859336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "lowry-hill-liquors-minneapolis",
+   "name": "Lowry Hill Liquors",
+   "summary": "Lowry Hill Liquors is a liquor store in Minneapolis, MN at 1924 Hennepin Avenue South, Minneapolis, MN 55403.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lowry-hill-liquors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lowry-hill-liquors-minneapolis.json",
+   "address": {
+    "streetAddress": "1924 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9634671,
+    "lon": -93.2911418
+   },
+   "opening_hours": "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/88446382",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "mgm-liquor-west-saint-paul",
+   "name": "Mgm Liquor",
+   "summary": "Mgm Liquor is a liquor store in West Saint Paul, MN at 1690 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquor-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquor-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1690 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8951096,
+    "lon": -93.0800882
+   },
+   "opening_hours": "Mo-Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/449426279",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "61-liquors-maplewood",
+   "name": "61 Liquors",
+   "summary": "61 Liquors is a liquor store in Maplewood, MN. Website: https://61liquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/61-liquors-maplewood/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/61-liquors-maplewood.json",
+   "address": {
+    "addressLocality": "Maplewood",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maplewood",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0228532,
+    "lon": -93.0487207
+   },
+   "website": "https://61liquors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9446471648",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "trader-joes-liquor-saint-louis-park",
+   "name": "Trader Joe's (Liquor)",
+   "summary": "Trader Joe's (Liquor) is a liquor store in Saint Louis Park, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trader-joes-liquor-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trader-joes-liquor-saint-louis-park.json",
+   "address": {
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9345114,
+    "lon": -93.3373723
+   },
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-18:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 5.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566621909",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "7th-st-liquor-barrel-saint-paul",
+   "name": "7th St. Liquor Barrel",
+   "summary": "7th St. Liquor Barrel is a liquor store in Saint Paul, MN at 665 7th Street West, Saint Paul, MN 55102.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/7th-st-liquor-barrel-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/7th-st-liquor-barrel-saint-paul.json",
+   "address": {
+    "streetAddress": "665 7th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9344228,
+    "lon": -93.1174725
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/197245811",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "big-discount-liquor-south-saint-paul",
+   "name": "Big Discount Liquor",
+   "summary": "Big Discount Liquor is a liquor store in South Saint Paul, MN at 333 Concord Street North, South Saint Paul, MN 55075.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-discount-liquor-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-discount-liquor-south-saint-paul.json",
+   "address": {
+    "streetAddress": "333 Concord Street North",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8959285,
+    "lon": -93.0376103
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/447027414",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "camden-liquors-minneapolis",
+   "name": "Camden Liquors",
+   "summary": "Camden Liquors is a liquor store in Minneapolis, MN at North Lyndale Avenue, Minneapolis, MN 55412.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/camden-liquors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/camden-liquors-minneapolis.json",
+   "address": {
+    "streetAddress": "North Lyndale Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55412",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55412",
+   "geo": {
+    "lat": 45.0310583,
+    "lon": -93.2884288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1018531974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "central-spirits-blaine",
+   "name": "Central Spirits",
+   "summary": "Central Spirits is a liquor store in Blaine, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/central-spirits-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/central-spirits-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1393146,
+    "lon": -93.2341274
+   },
+   "opening_hours": "Mo-Sa 08:00-22:00, Su 11:00-06:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5768689853",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "chets-liquor-mendota-heights",
+   "name": "Chet's Liquor",
+   "summary": "Chet's Liquor is a liquor store in Mendota Heights, MN at 974 Sibley Memorial Highway, Mendota Heights, MN 55118.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chets-liquor-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chets-liquor-mendota-heights.json",
+   "address": {
+    "streetAddress": "974 Sibley Memorial Highway",
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8991591,
+    "lon": -93.13777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531594244",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "chicago-lake-liquors-minneapolis",
+   "name": "Chicago Lake Liquors",
+   "summary": "Chicago Lake Liquors is a liquor store in Minneapolis, MN at 825 East Lake Street, Minneapolis, MN 55407.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chicago-lake-liquors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chicago-lake-liquors-minneapolis.json",
+   "address": {
+    "streetAddress": "825 East Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9481164,
+    "lon": -93.2616921
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/93142274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "cork-dork-minneapolis",
+   "name": "Cork Dork",
+   "summary": "Cork Dork is a liquor store in Minneapolis, MN at 4703 Cedar Avenue South, Minneapolis, MN 55407.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cork-dork-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cork-dork-minneapolis.json",
+   "address": {
+    "streetAddress": "4703 Cedar Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9177671,
+    "lon": -93.2470716
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3271280117",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "crystal-liquor-warehouse-crystal",
+   "name": "Crystal Liquor Warehouse",
+   "summary": "Crystal Liquor Warehouse is a liquor store in Crystal, MN at 6200 Bass Lake Road, Crystal, MN 55429.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crystal-liquor-warehouse-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crystal-liquor-warehouse-crystal.json",
+   "address": {
+    "streetAddress": "6200 Bass Lake Road",
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "postalCode": "55429",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "zip": "55429",
+   "geo": {
+    "lat": 45.0550542,
+    "lon": -93.3594892
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/770696224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "cub-liquor-eagan-eagan",
+   "name": "Cub Liquor - Eagan",
+   "summary": "Cub Liquor - Eagan is a liquor store in Eagan, MN at 1016 Diffley Road, Eagan, MN 55123.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cub-liquor-eagan-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cub-liquor-eagan-eagan.json",
+   "address": {
+    "streetAddress": "1016 Diffley Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8037989,
+    "lon": -93.1396971
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9464286590",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "dayton-wine-and-spirits-dayton",
+   "name": "Dayton Wine And Spirits",
+   "summary": "Dayton Wine And Spirits is a liquor store in Dayton, MN at 18640 Robinson Street, Dayton, MN 55327.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dayton-wine-and-spirits-dayton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dayton-wine-and-spirits-dayton.json",
+   "address": {
+    "streetAddress": "18640 Robinson Street",
+    "addressLocality": "Dayton",
+    "addressRegion": "MN",
+    "postalCode": "55327",
+    "addressCountry": "US"
+   },
+   "city": "Dayton",
+   "state": "MN",
+   "zip": "55327",
+   "geo": {
+    "lat": 45.2443875,
+    "lon": -93.5191066
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/566146737",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "falls-liquor-minneapolis",
+   "name": "Falls Liquor",
+   "summary": "Falls Liquor is a liquor store in Minneapolis, MN at 4604 Minnehaha Avenue, Minneapolis, MN 55406.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/falls-liquor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/falls-liquor-minneapolis.json",
+   "address": {
+    "streetAddress": "4604 Minnehaha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9193856,
+    "lon": -93.2152361
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/29100773",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "fresh-thyme-liquor-minneapolis",
+   "name": "Fresh Thyme Liquor",
+   "summary": "Fresh Thyme Liquor is a liquor store in Minneapolis, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fresh-thyme-liquor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fresh-thyme-liquor-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.971192,
+    "lon": -93.2140958
+   },
+   "opening_hours": "Mo-Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11972164385",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "g-will-liquors-champlin",
+   "name": "G-Will Liquors",
+   "summary": "G-Will Liquors is a liquor store in Champlin, MN at 12153 Champlin Drive, Champlin, MN 55316.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-will-liquors-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-will-liquors-champlin.json",
+   "address": {
+    "streetAddress": "12153 Champlin Drive",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1739311,
+    "lon": -93.3943161
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470093869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "gopher-liquor-store-minneapolis",
+   "name": "Gopher Liquor Store",
+   "summary": "Gopher Liquor Store is a liquor store in Minneapolis, MN at 335 Northeast Monroe Street, Minneapolis, MN 55413.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gopher-liquor-store-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gopher-liquor-store-minneapolis.json",
+   "address": {
+    "streetAddress": "335 Northeast Monroe Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 44.9943271,
+    "lon": -93.2519277
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509235460",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "greenway-liquor-minneapolis",
+   "name": "Greenway Liquor",
+   "summary": "Greenway Liquor is a liquor store in Minneapolis, MN at 105 West Grant Street, Minneapolis, MN 55403.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greenway-liquor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greenway-liquor-minneapolis.json",
+   "address": {
+    "streetAddress": "105 West Grant Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9694888,
+    "lon": -93.2798724
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1284960758",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "harbor-wine-and-spirits-mound",
+   "name": "Harbor Wine & Spirits",
+   "summary": "Harbor Wine & Spirits is a liquor store in Mound, MN at 2135 Commerce Boulevard, Mound, MN 55364.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harbor-wine-and-spirits-mound/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harbor-wine-and-spirits-mound.json",
+   "address": {
+    "streetAddress": "2135 Commerce Boulevard",
+    "addressLocality": "Mound",
+    "addressRegion": "MN",
+    "postalCode": "55364",
+    "addressCountry": "US"
+   },
+   "city": "Mound",
+   "state": "MN",
+   "zip": "55364",
+   "geo": {
+    "lat": 44.9386262,
+    "lon": -93.6678291
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12123499329",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "haskells-wines-minneapolis",
+   "name": "Haskell's Wines",
+   "summary": "Haskell's Wines is a liquor store in Minneapolis, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haskells-wines-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haskells-wines-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.974541,
+    "lon": -93.2732035
+   },
+   "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2093837739",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "haskells-bloomington",
+   "name": "Haskells",
+   "summary": "Haskells is a liquor store in Bloomington, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haskells-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haskells-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8238841,
+    "lon": -93.3487383
+   },
+   "opening_hours": "Mo-Th 10:00-20:00, Fr,Sa 22:00-21:00, Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1168049769",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "hy-vee-wine-and-spirits-maple-grove",
+   "name": "Hy-Vee Wine & Spirits",
+   "summary": "Hy-Vee Wine & Spirits is a liquor store in Maple Grove, MN at 18755 70th Way North, Maple Grove, MN 55311.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hy-vee-wine-and-spirits-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hy-vee-wine-and-spirits-maple-grove.json",
+   "address": {
+    "streetAddress": "18755 70th Way North",
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "postalCode": "55311",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "zip": "55311",
+   "geo": {
+    "lat": 45.0822812,
+    "lon": -93.5173635
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7167535500",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "hy-vee-wine-and-spirits-new-hope",
+   "name": "Hy-Vee Wine & Spirits",
+   "summary": "Hy-Vee Wine & Spirits is a liquor store in New Hope, MN at 8200 42nd Avenue North, New Hope, MN 55428.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hy-vee-wine-and-spirits-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hy-vee-wine-and-spirits-new-hope.json",
+   "address": {
+    "streetAddress": "8200 42nd Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "postalCode": "55428",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "zip": "55428",
+   "geo": {
+    "lat": 45.034675,
+    "lon": -93.3846205
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7167535492",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "ikes-wine-and-spirits-brooklyn-park",
+   "name": "Ike's Wine and Spirits",
+   "summary": "Ike's Wine and Spirits is a liquor store in Brooklyn Park, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ikes-wine-and-spirits-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ikes-wine-and-spirits-brooklyn-park.json",
+   "address": {
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1325525,
+    "lon": -93.3580454
+   },
+   "opening_hours": "Mo-Sa 09:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3012238573",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
+   "sponsored": false,
+   "slug": "ken-and-norms-liquor-minneapolis",
+   "name": "Ken and Norm's Liquor",
+   "summary": "Ken and Norm's Liquor is a liquor store in Minneapolis, MN at 4801 Chicago Avenue South, Minneapolis, MN 55417.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ken-and-norms-liquor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ken-and-norms-liquor-minneapolis.json",
+   "address": {
+    "streetAddress": "4801 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.915817,
+    "lon": -93.2623415
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2508927795",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "liquor-barrel-saint-paul",
+   "name": "Liquor Barrel",
+   "summary": "Liquor Barrel is a liquor store in Saint Paul, MN at 301 Wheelock Parkway East, Saint Paul, MN 55117.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-barrel-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-barrel-saint-paul.json",
+   "address": {
+    "streetAddress": "301 Wheelock Parkway East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55117",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55117",
+   "geo": {
+    "lat": 44.9909791,
+    "lon": -93.0879448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13151810774",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "liquor-depot-minneapolis",
+   "name": "Liquor Depot",
+   "summary": "Liquor Depot is a liquor store in Minneapolis, MN at 1010 Washington Avenue South, Minneapolis, MN 55415.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-depot-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-depot-minneapolis.json",
+   "address": {
+    "streetAddress": "1010 Washington Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55415",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55415",
+   "geo": {
+    "lat": 44.976073,
+    "lon": -93.2540624
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4749996821",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
+   "sponsored": false,
+   "slug": "lowertown-wine-and-spirits-saint-paul",
+   "name": "Lowertown Wine & Spirits",
+   "summary": "Lowertown Wine & Spirits is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lowertown-wine-and-spirits-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lowertown-wine-and-spirits-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9487131,
+    "lon": -93.0854257
+   },
+   "opening_hours": "Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2099049704",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "mgm-liquor-warehouse-chanhassen",
+   "name": "MGM Liquor Warehouse",
+   "summary": "MGM Liquor Warehouse is a liquor store in Chanhassen, MN at 7856 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquor-warehouse-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquor-warehouse-chanhassen.json",
+   "address": {
+    "streetAddress": "7856 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8612287,
+    "lon": -93.540112
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/682518697",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "mgm-wine-and-spirits-vadnais-heights",
+   "name": "MGM Wine & Spirits",
+   "summary": "MGM Wine & Spirits is a liquor store in Vadnais Heights, MN at 1050 Highway 96, Vadnais Heights, MN 55127.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-vadnais-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-wine-and-spirits-vadnais-heights.json",
+   "address": {
+    "streetAddress": "1050 Highway 96",
+    "addressLocality": "Vadnais Heights",
+    "addressRegion": "MN",
+    "postalCode": "55127",
+    "addressCountry": "US"
+   },
+   "city": "Vadnais Heights",
+   "state": "MN",
+   "zip": "55127",
+   "geo": {
+    "lat": 45.0778555,
+    "lon": -93.0566668
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1137118407",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "newport-liquor-newport",
+   "name": "Newport Liquor",
+   "summary": "Newport Liquor is a liquor store in Newport, MN at 1638 Hastings Avenue, Newport, MN 55055.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/newport-liquor-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/newport-liquor-newport.json",
+   "address": {
+    "streetAddress": "1638 Hastings Avenue",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.8746587,
+    "lon": -92.9998936
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/976814043",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
+   "sponsored": false,
+   "slug": "north-loop-wine-and-spirits-minneapolis",
+   "name": "North Loop Wine & Spirits",
+   "summary": "North Loop Wine & Spirits is a liquor store in Minneapolis, MN at 218 Washington Avenue North, Minneapolis, MN 55401.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-loop-wine-and-spirits-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-loop-wine-and-spirits-minneapolis.json",
+   "address": {
+    "streetAddress": "218 Washington Avenue North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.984353,
+    "lon": -93.2718851
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12754418502",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
+   "sponsored": false,
+   "slug": "park-liquors-saint-paul",
+   "name": "Park Liquors",
+   "summary": "Park Liquors is a liquor store in Saint Paul, MN at 140 Snelling Avenue, Saint Paul, MN 55104.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-liquors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-liquors-saint-paul.json",
+   "address": {
+    "streetAddress": "140 Snelling Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9456287,
+    "lon": -93.1666898
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/92636939",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
+   "sponsored": false,
+   "slug": "princetons-main-street-liquor-osseo",
+   "name": "Princeton's Main Street Liquor",
+   "summary": "Princeton's Main Street Liquor is a liquor store in Osseo, MN at 341 Central Avenue, Osseo, MN 55369.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/princetons-main-street-liquor-osseo/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/princetons-main-street-liquor-osseo.json",
+   "address": {
+    "streetAddress": "341 Central Avenue",
+    "addressLocality": "Osseo",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Osseo",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1202148,
+    "lon": -93.4023846
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762299290",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "richards-liquor-hopkins",
+   "name": "Richards Liquor",
+   "summary": "Richards Liquor is a liquor store in Hopkins, MN at 22 10th Avenue North, Hopkins, MN 55343.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richards-liquor-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richards-liquor-hopkins.json",
+   "address": {
+    "streetAddress": "22 10th Avenue North",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9254818,
+    "lon": -93.4128748
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/919821937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
+   "sponsored": false,
+   "slug": "robbinsdale-wine-and-spirits-robbinsdale",
+   "name": "Robbinsdale Wine & Spirits",
+   "summary": "Robbinsdale Wine & Spirits is a liquor store in Robbinsdale, MN at 3501 Bottineau Boulevard, Robbinsdale, MN 55422.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/robbinsdale-wine-and-spirits-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/robbinsdale-wine-and-spirits-robbinsdale.json",
+   "address": {
+    "streetAddress": "3501 Bottineau Boulevard",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0190575,
+    "lon": -93.3276
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762950319",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 103,
+   "sponsored": false,
+   "slug": "rogers-wine-and-spirits-rogers",
+   "name": "Rogers Wine & Spirits",
+   "summary": "Rogers Wine & Spirits is a liquor store in Rogers, MN at 21725 South Diamond Lake Road, Rogers, MN 55374.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rogers-wine-and-spirits-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rogers-wine-and-spirits-rogers.json",
+   "address": {
+    "streetAddress": "21725 South Diamond Lake Road",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1991292,
+    "lon": -93.5557155
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/102923688",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "southview-liquor-west-saint-paul",
+   "name": "Southview Liquor",
+   "summary": "Southview Liquor is a liquor store in West Saint Paul, MN at 1963 Robert Street South, West Saint Paul, MN 55118.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southview-liquor-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southview-liquor-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1963 Robert Street South",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8869371,
+    "lon": -93.0809984
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527084207",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "strong-liquors-minnetonka",
+   "name": "Strong Liquors",
+   "summary": "Strong Liquors is a liquor store in Minnetonka, MN at 11048 Cedar Lake Road, Minnetonka, MN 55305.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strong-liquors-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strong-liquors-minnetonka.json",
+   "address": {
+    "streetAddress": "11048 Cedar Lake Road",
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "postalCode": "55305",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "zip": "55305",
+   "geo": {
+    "lat": 44.9531837,
+    "lon": -93.4177002
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11331448609",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "the-cove-wine-and-spirits-minnetrista",
+   "name": "The Cove Wine & Spirits",
+   "summary": "The Cove Wine & Spirits is a liquor store in Minnetrista, MN at 4751 Kings Point Road, Minnetrista, MN 55331.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-cove-wine-and-spirits-minnetrista/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-cove-wine-and-spirits-minnetrista.json",
+   "address": {
+    "streetAddress": "4751 Kings Point Road",
+    "addressLocality": "Minnetrista",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Minnetrista",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8932748,
+    "lon": -93.7049234
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12123499328",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "the-liquor-store-and-more-hopkins",
+   "name": "The Liquor Store & More",
+   "summary": "The Liquor Store & More is a liquor store in Hopkins, MN at 808 Mainstreet, Hopkins, MN 55343.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-liquor-store-and-more-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-liquor-store-and-more-hopkins.json",
+   "address": {
+    "streetAddress": "808 Mainstreet",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9243042,
+    "lon": -93.4105639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8691000327",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "the-wine-shop-at-kowalskis-minneapolis",
+   "name": "The Wine Shop at Kowalski's",
+   "summary": "The Wine Shop at Kowalski's is a liquor store in Minneapolis, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wine-shop-at-kowalskis-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wine-shop-at-kowalskis-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9579977,
+    "lon": -93.2958481
+   },
+   "opening_hours": "Mo-Sa 09:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835960251",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "top-ten-liquors-minneapolis",
+   "name": "Top Ten Liquors",
+   "summary": "Top Ten Liquors is a liquor store in Minneapolis, MN at 1440 Southeast 5th Street, Minneapolis, MN 55414.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquors-minneapolis.json",
+   "address": {
+    "streetAddress": "1440 Southeast 5th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.980853,
+    "lon": -93.2338468
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11273609246",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
+   "sponsored": false,
+   "slug": "viking-liquor-new-hope",
+   "name": "Viking Liquor",
+   "summary": "Viking Liquor is a liquor store in New Hope, MN at 7141 42nd Avenue North, New Hope, MN 55428.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/viking-liquor-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/viking-liquor-new-hope.json",
+   "address": {
+    "streetAddress": "7141 42nd Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "postalCode": "55428",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "zip": "55428",
+   "geo": {
+    "lat": 45.0325356,
+    "lon": -93.3719288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/763158451",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "a-and-m-liquor-inver-grove-heights",
+   "name": "A & M Liquor",
+   "summary": "A & M Liquor is a liquor store in Inver Grove Heights, MN at 5709, Inver Grove Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-and-m-liquor-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-and-m-liquor-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "5709",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8647105,
+    "lon": -93.0404515
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217009579",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "adair-liquor-crystal",
+   "name": "Adair Liquor",
+   "summary": "Adair Liquor is a liquor store in Crystal, MN at 6001 42nd Avenue North, Crystal, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adair-liquor-crystal/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adair-liquor-crystal.json",
+   "address": {
+    "streetAddress": "6001 42nd Avenue North",
+    "addressLocality": "Crystal",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Crystal",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0320162,
+    "lon": -93.3565677
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1223321513",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "arbor-pointe-liquor-inver-grove-heights",
+   "name": "Arbor Pointe Liquor",
+   "summary": "Arbor Pointe Liquor is a liquor store in Inver Grove Heights, MN at 9084, Inver Grove Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arbor-pointe-liquor-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arbor-pointe-liquor-inver-grove-heights.json",
+   "address": {
+    "streetAddress": "9084",
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8185536,
+    "lon": -93.0416115
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13448863351",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
+   "sponsored": false,
+   "slug": "fairview-wines-and-spirits-roseville",
+   "name": "Fairview Wines & Spirits",
+   "summary": "Fairview Wines & Spirits is a liquor store in Roseville, MN at 2579 Fairview Avenue North, Roseville, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fairview-wines-and-spirits-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fairview-wines-and-spirits-roseville.json",
+   "address": {
+    "streetAddress": "2579 Fairview Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0188158,
+    "lon": -93.1778185
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1615043682",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
+   "sponsored": false,
+   "slug": "team-liquor-wine-and-spirits-coon-rapids",
+   "name": "Team Liquor Wine & Spirits",
+   "summary": "Team Liquor Wine & Spirits is a liquor store in Coon Rapids, MN at 1921 Coon Rapids Boulevard Northwest, Coon Rapids, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/team-liquor-wine-and-spirits-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/team-liquor-wine-and-spirits-coon-rapids.json",
+   "address": {
+    "streetAddress": "1921 Coon Rapids Boulevard Northwest",
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1612344,
+    "lon": -93.316434
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/745358333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
+   "sponsored": false,
+   "slug": "winnetka-liquors-new-hope",
+   "name": "Winnetka Liquors",
+   "summary": "Winnetka Liquors is a liquor store in New Hope, MN at 3544 Winnetka Avenue North, New Hope, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/winnetka-liquors-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/winnetka-liquors-new-hope.json",
+   "address": {
+    "streetAddress": "3544 Winnetka Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0210954,
+    "lon": -93.3787937
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4183839913",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 117,
+   "sponsored": false,
+   "slug": "7-8-liquors-bloomington",
+   "name": "7/8 Liquors",
+   "summary": "7/8 Liquors is a liquor store in Bloomington, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/7-8-liquors-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/7-8-liquors-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8589495,
+    "lon": -93.2791262
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/773366966",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 118,
+   "sponsored": false,
+   "slug": "ace-spirits-hopkins",
+   "name": "Ace Spirits",
+   "summary": "Ace Spirits is a liquor store in Hopkins, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ace-spirits-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ace-spirits-hopkins.json",
+   "address": {
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9236004,
+    "lon": -93.4276851
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12312160637",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
+   "sponsored": false,
+   "slug": "bacchus-shoreview",
+   "name": "Bacchus",
+   "summary": "Bacchus is a liquor store in Shoreview, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bacchus-shoreview/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bacchus-shoreview.json",
+   "address": {
+    "addressLocality": "Shoreview",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Shoreview",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0807558,
+    "lon": -93.1466504
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1773276673",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "better-values-municipal-liquor-east-anoka",
+   "name": "Better Values Municipal Liquor - East",
+   "summary": "Better Values Municipal Liquor - East is a liquor store in Anoka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/better-values-municipal-liquor-east-anoka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/better-values-municipal-liquor-east-anoka.json",
+   "address": {
+    "addressLocality": "Anoka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Anoka",
+   "state": "MN",
+   "geo": {
+    "lat": 45.18667,
+    "lon": -93.3744216
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2828174854",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
+   "sponsored": false,
+   "slug": "big-discount-liquors-eagan",
+   "name": "Big Discount Liquors",
+   "summary": "Big Discount Liquors is a liquor store in Eagan, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-discount-liquors-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-discount-liquors-eagan.json",
+   "address": {
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8154131,
+    "lon": -93.2096459
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/451016690",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 122,
+   "sponsored": false,
+   "slug": "blaize-liqour-saint-paul",
+   "name": "Blaize Liqour",
+   "summary": "Blaize Liqour is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blaize-liqour-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blaize-liqour-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9779172,
+    "lon": -93.1055596
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5760712934",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "cameron-liqour-store-inver-grove-heights",
+   "name": "Cameron Liqour Store",
+   "summary": "Cameron Liqour Store is a liquor store in Inver Grove Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cameron-liqour-store-inver-grove-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cameron-liqour-store-inver-grove-heights.json",
+   "address": {
+    "addressLocality": "Inver Grove Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Inver Grove Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547042,
+    "lon": -93.0201975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5155416707",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
+   "sponsored": false,
+   "slug": "cedar-riverside-liquor-minneapolis",
+   "name": "Cedar Riverside Liquor",
+   "summary": "Cedar Riverside Liquor is a liquor store in Minneapolis, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cedar-riverside-liquor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cedar-riverside-liquor-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.967086,
+    "lon": -93.2470739
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2386062807",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 125,
+   "sponsored": false,
+   "slug": "clocktown-liquor-new-brighton",
+   "name": "Clocktown Liquor",
+   "summary": "Clocktown Liquor is a liquor store in New Brighton, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clocktown-liquor-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clocktown-liquor-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0678328,
+    "lon": -93.2174408
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8643396151",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 126,
+   "sponsored": false,
+   "slug": "cub-discount-liquor-arden-hills",
+   "name": "Cub Discount Liquor",
+   "summary": "Cub Discount Liquor is a liquor store in Arden Hills, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cub-discount-liquor-arden-hills/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cub-discount-liquor-arden-hills.json",
+   "address": {
+    "addressLocality": "Arden Hills",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Arden Hills",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0526864,
+    "lon": -93.1483111
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1773276674",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 127,
+   "sponsored": false,
+   "slug": "cub-liquor-plymouth",
+   "name": "Cub Liquor",
+   "summary": "Cub Liquor is a liquor store in Plymouth, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cub-liquor-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cub-liquor-plymouth.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.035081,
+    "lon": -93.4099207
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7167433157",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
+   "sponsored": false,
+   "slug": "east-7th-liquor-saint-paul",
+   "name": "East 7th Liquor",
+   "summary": "East 7th Liquor is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/east-7th-liquor-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/east-7th-liquor-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9533654,
+    "lon": -93.0847037
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2846182998",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 129,
+   "sponsored": false,
+   "slug": "eden-prairie-liquor-eden-prairie",
+   "name": "Eden Prairie Liquor",
+   "summary": "Eden Prairie Liquor is a liquor store in Eden Prairie, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eden-prairie-liquor-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eden-prairie-liquor-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.864945,
+    "lon": -93.4417999
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10815379715",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 130,
+   "sponsored": false,
+   "slug": "fridley-liquors-fridley",
+   "name": "Fridley Liquors",
+   "summary": "Fridley Liquors is a liquor store in Fridley, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fridley-liquors-fridley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fridley-liquors-fridley.json",
+   "address": {
+    "addressLocality": "Fridley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Fridley",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0702196,
+    "lon": -93.2650986
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5340977373",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 131,
+   "sponsored": false,
+   "slug": "g-will-liquors-ramsey",
+   "name": "G Will Liquors",
+   "summary": "G Will Liquors is a liquor store in Ramsey, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-will-liquors-ramsey/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-will-liquors-ramsey.json",
+   "address": {
+    "addressLocality": "Ramsey",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Ramsey",
+   "state": "MN",
+   "geo": {
+    "lat": 45.249226,
+    "lon": -93.4045179
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1267779535",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 132,
+   "sponsored": false,
+   "slug": "haskells-maple-grove",
+   "name": "Haskell's",
+   "summary": "Haskell's is a liquor store in Maple Grove, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haskells-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haskells-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1364675,
+    "lon": -93.4762314
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/562024735",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 133,
+   "sponsored": false,
+   "slug": "hi-lake-liquors-minneapolis",
+   "name": "Hi Lake Liquors",
+   "summary": "Hi Lake Liquors is a liquor store in Minneapolis, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hi-lake-liquors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hi-lake-liquors-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9487365,
+    "lon": -93.2405452
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1343310473",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 134,
+   "sponsored": false,
+   "slug": "hilltop-liquors-hilltop",
+   "name": "Hilltop Liquors",
+   "summary": "Hilltop Liquors is a liquor store in Hilltop, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hilltop-liquors-hilltop/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hilltop-liquors-hilltop.json",
+   "address": {
+    "addressLocality": "Hilltop",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hilltop",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0505443,
+    "lon": -93.2482912
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11078105933",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 135,
+   "sponsored": false,
+   "slug": "international-wines-and-liquors-saint-paul",
+   "name": "International Wines and Liquors",
+   "summary": "International Wines and Liquors is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/international-wines-and-liquors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/international-wines-and-liquors-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.92022,
+    "lon": -93.1869902
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/728154094",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 136,
+   "sponsored": false,
+   "slug": "liquor-barrel-golden-valley",
+   "name": "Liquor Barrel",
+   "summary": "Liquor Barrel is a liquor store in Golden Valley, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-barrel-golden-valley/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-barrel-golden-valley.json",
+   "address": {
+    "addressLocality": "Golden Valley",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Golden Valley",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9849908,
+    "lon": -93.3811651
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6991036822",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 137,
+   "sponsored": false,
+   "slug": "liquor-barrel-mendota-heights",
+   "name": "Liquor Barrel",
+   "summary": "Liquor Barrel is a liquor store in Mendota Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-barrel-mendota-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-barrel-mendota-heights.json",
+   "address": {
+    "addressLocality": "Mendota Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Mendota Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8819201,
+    "lon": -93.1244368
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12292318413",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 138,
+   "sponsored": false,
+   "slug": "liquor-vault-saint-paul",
+   "name": "Liquor Vault",
+   "summary": "Liquor Vault is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-vault-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-vault-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9520215,
+    "lon": -93.0929061
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2846157564",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 139,
+   "sponsored": false,
+   "slug": "liquor-village-saint-paul",
+   "name": "Liquor Village",
+   "summary": "Liquor Village is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/liquor-village-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/liquor-village-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9180982,
+    "lon": -93.1974015
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/54183643",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 140,
+   "sponsored": false,
+   "slug": "lunds-and-byerlys-wines-and-spirits-minnetonka",
+   "name": "Lunds & Byerlys Wines & Spirits",
+   "summary": "Lunds & Byerlys Wines & Spirits is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lunds-and-byerlys-wines-and-spirits-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lunds-and-byerlys-wines-and-spirits-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9683797,
+    "lon": -93.4463636
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3482424393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 141,
+   "sponsored": false,
+   "slug": "marshall-liquor-saint-paul",
+   "name": "Marshall Liquor",
+   "summary": "Marshall Liquor is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marshall-liquor-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marshall-liquor-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9488045,
+    "lon": -93.1860831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/153209605",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 142,
+   "sponsored": false,
+   "slug": "mgm-bloomington",
+   "name": "MGM",
+   "summary": "MGM is a liquor store in Bloomington, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8248175,
+    "lon": -93.2879407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1584945846",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 143,
+   "sponsored": false,
+   "slug": "mgm-liquor-warehouse-blaine",
+   "name": "MGM Liquor Warehouse",
+   "summary": "MGM Liquor Warehouse is a liquor store in Blaine, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquor-warehouse-blaine/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquor-warehouse-blaine.json",
+   "address": {
+    "addressLocality": "Blaine",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Blaine",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1295229,
+    "lon": -93.2583024
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6453441262",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 144,
+   "sponsored": false,
+   "slug": "mgm-liquor-warehouse-hopkins",
+   "name": "MGM Liquor Warehouse",
+   "summary": "MGM Liquor Warehouse is a liquor store in Hopkins, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquor-warehouse-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquor-warehouse-hopkins.json",
+   "address": {
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9338978,
+    "lon": -93.4205166
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47202928",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 145,
+   "sponsored": false,
+   "slug": "mgm-liquor-warehouse-maple-grove",
+   "name": "MGM Liquor Warehouse",
+   "summary": "MGM Liquor Warehouse is a liquor store in Maple Grove, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquor-warehouse-maple-grove/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquor-warehouse-maple-grove.json",
+   "address": {
+    "addressLocality": "Maple Grove",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Maple Grove",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1281982,
+    "lon": -93.4898602
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/312981988",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 146,
+   "sponsored": false,
+   "slug": "mgm-liquors-minnetonka-minnetonka",
+   "name": "MGM Liquors Minnetonka",
+   "summary": "MGM Liquors Minnetonka is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquors-minnetonka-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquors-minnetonka-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9170414,
+    "lon": -93.5011273
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9031893898",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 147,
+   "sponsored": false,
+   "slug": "mgm-wine-and-spirits-saint-paul",
+   "name": "MGM Wine & Spirits",
+   "summary": "MGM Wine & Spirits is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-wine-and-spirits-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9501475,
+    "lon": -93.0257649
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/746275453",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 148,
+   "sponsored": false,
+   "slug": "north-american-liquors-medina",
+   "name": "North American Liquors",
+   "summary": "North American Liquors is a liquor store in Medina, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-american-liquors-medina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-american-liquors-medina.json",
+   "address": {
+    "addressLocality": "Medina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Medina",
+   "state": "MN",
+   "geo": {
+    "lat": 45.044563,
+    "lon": -93.526856
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2081580221",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 149,
+   "sponsored": false,
+   "slug": "r-c-liquors-coon-rapids",
+   "name": "R/C Liquors",
+   "summary": "R/C Liquors is a liquor store in Coon Rapids, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-c-liquors-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-c-liquors-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2063486,
+    "lon": -93.3618353
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/652952194",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 150,
+   "sponsored": false,
+   "slug": "st-paul-park-liquor-saint-paul-park",
+   "name": "St Paul Park Liquor",
+   "summary": "St Paul Park Liquor is a liquor store in Saint Paul Park, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-paul-park-liquor-saint-paul-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-paul-park-liquor-saint-paul-park.json",
+   "address": {
+    "addressLocality": "Saint Paul Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8476641,
+    "lon": -92.9988864
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603190092",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 151,
+   "sponsored": false,
+   "slug": "st-anthony-municipal-liquor-store-saint-anthony",
+   "name": "St. Anthony Municipal Liquor Store",
+   "summary": "St. Anthony Municipal Liquor Store is a liquor store in Saint Anthony, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-anthony-municipal-liquor-store-saint-anthony/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-anthony-municipal-liquor-store-saint-anthony.json",
+   "address": {
+    "addressLocality": "Saint Anthony",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Anthony",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0391515,
+    "lon": -93.2216224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/173879516",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 152,
+   "sponsored": false,
+   "slug": "st-boni-liquor-saint-bonifacius",
+   "name": "St. Boni Liquor",
+   "summary": "St. Boni Liquor is a liquor store in Saint Bonifacius, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-boni-liquor-saint-bonifacius/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-boni-liquor-saint-bonifacius.json",
+   "address": {
+    "addressLocality": "Saint Bonifacius",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Bonifacius",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9022814,
+    "lon": -93.743479
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/590636450",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 153,
+   "sponsored": false,
+   "slug": "stinson-wine-beer-and-spirits-minneapolis",
+   "name": "Stinson Wine, Beer, and Spirits",
+   "summary": "Stinson Wine, Beer, and Spirits is a liquor store in Minneapolis, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stinson-wine-beer-and-spirits-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stinson-wine-beer-and-spirits-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0062597,
+    "lon": -93.2273384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857515",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 154,
+   "sponsored": false,
+   "slug": "summit-liquor-white-bear-lake",
+   "name": "Summit Liquor",
+   "summary": "Summit Liquor is a liquor store in White Bear Lake, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/summit-liquor-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/summit-liquor-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0497398,
+    "lon": -93.0162449
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597140457",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 155,
+   "sponsored": false,
+   "slug": "the-wine-shop-minnetonka",
+   "name": "The Wine Shop",
+   "summary": "The Wine Shop is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wine-shop-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wine-shop-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9413372,
+    "lon": -93.5015936
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9032025498",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 156,
+   "sponsored": false,
+   "slug": "the-wine-store-at-kowalskis-saint-paul",
+   "name": "The Wine Store at Kowalski's",
+   "summary": "The Wine Store at Kowalski's is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wine-store-at-kowalskis-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wine-store-at-kowalskis-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9404512,
+    "lon": -93.1535139
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8781232569",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 157,
+   "sponsored": false,
+   "slug": "tonka-bottle-shop-minnetonka",
+   "name": "Tonka Bottle Shop",
+   "summary": "Tonka Bottle Shop is a liquor store in Minnetonka, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tonka-bottle-shop-minnetonka/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tonka-bottle-shop-minnetonka.json",
+   "address": {
+    "addressLocality": "Minnetonka",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minnetonka",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9424132,
+    "lon": -93.5033937
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9032025499",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 158,
+   "sponsored": false,
+   "slug": "top-ten-liquor-andover",
+   "name": "Top Ten Liquor",
+   "summary": "Top Ten Liquor is a liquor store in Andover, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquor-andover/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquor-andover.json",
+   "address": {
+    "addressLocality": "Andover",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Andover",
+   "state": "MN",
+   "geo": {
+    "lat": 45.2180544,
+    "lon": -93.3205097
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/698137990",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 159,
+   "sponsored": false,
+   "slug": "top-ten-liquors-bloomington",
+   "name": "Top Ten Liquors",
+   "summary": "Top Ten Liquors is a liquor store in Bloomington, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquors-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8594489,
+    "lon": -93.3076803
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13772798610",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 160,
+   "sponsored": false,
+   "slug": "top-ten-liquors-chanhassen",
+   "name": "Top Ten Liquors",
+   "summary": "Top Ten Liquors is a liquor store in Chanhassen, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquors-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8629277,
+    "lon": -93.5205419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/297073750",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 161,
+   "sponsored": false,
+   "slug": "top-ten-liquors-plymouth",
+   "name": "Top Ten Liquors",
+   "summary": "Top Ten Liquors is a liquor store in Plymouth, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquors-plymouth.json",
+   "address": {
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0307055,
+    "lon": -93.4468075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11212750839",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 162,
+   "sponsored": false,
+   "slug": "top-ten-liquors-vadnais-heights",
+   "name": "Top Ten Liquors",
+   "summary": "Top Ten Liquors is a liquor store in Vadnais Heights, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-vadnais-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquors-vadnais-heights.json",
+   "address": {
+    "addressLocality": "Vadnais Heights",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Vadnais Heights",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0507823,
+    "lon": -93.0632545
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/798042180",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 163,
+   "sponsored": false,
+   "slug": "volfoort-liquor-store-saint-paul",
+   "name": "Volfoort Liquor Store",
+   "summary": "Volfoort Liquor Store is a liquor store in Saint Paul, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/volfoort-liquor-store-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/volfoort-liquor-store-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9744315,
+    "lon": -93.0656903
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096336",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 164,
+   "sponsored": false,
+   "slug": "wayzata-wine-and-spirits-wayzata",
+   "name": "Wayzata Wine & Spirits",
+   "summary": "Wayzata Wine & Spirits is a liquor store in Wayzata, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wayzata-wine-and-spirits-wayzata/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wayzata-wine-and-spirits-wayzata.json",
+   "address": {
+    "addressLocality": "Wayzata",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Wayzata",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9694959,
+    "lon": -93.5091539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4117121581",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 165,
+   "sponsored": false,
+   "slug": "winestreet-north-oaks",
+   "name": "Winestreet",
+   "summary": "Winestreet is a liquor store in North Oaks, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/winestreet-north-oaks/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/winestreet-north-oaks.json",
+   "address": {
+    "addressLocality": "North Oaks",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "North Oaks",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0804725,
+    "lon": -93.1162588
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1780785420",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 166,
+   "sponsored": false,
+   "slug": "wiser-choice-liquor-coon-rapids",
+   "name": "Wiser Choice Liquor",
+   "summary": "Wiser Choice Liquor is a liquor store in Coon Rapids, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wiser-choice-liquor-coon-rapids/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wiser-choice-liquor-coon-rapids.json",
+   "address": {
+    "addressLocality": "Coon Rapids",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Coon Rapids",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1723721,
+    "lon": -93.3399704
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/744895710",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 167,
+   "sponsored": false,
+   "slug": "zipps-liquors-minneapolis",
+   "name": "Zipp's Liquors",
+   "summary": "Zipp's Liquors is a liquor store in Minneapolis, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zipps-liquors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zipps-liquors-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9630332,
+    "lon": -93.2334519
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/807630724",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

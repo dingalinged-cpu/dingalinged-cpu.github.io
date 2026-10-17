@@ -1,0 +1,53 @@
+{
+ "slug": "los-campeones-minneapolis-w1205509230",
+ "name": "Los Campeones",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1326 Quincy Street Northeast",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0014514,
+  "lon": -93.251604
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1205509230",
+ "osm": {
+  "type": "way",
+  "id": 1205509230,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "boxing"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/los-campeones-minneapolis-w1205509230/",
+ "summary": "Los Campeones is a gym in Minneapolis, MN at 1326 Quincy Street Northeast, Minneapolis, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

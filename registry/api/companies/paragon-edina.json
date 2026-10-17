@@ -1,0 +1,55 @@
+{
+ "slug": "paragon-edina",
+ "name": "Paragon",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym edina mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9109456,
+  "lon": -93.3545355
+ },
+ "phone": "+19524059765",
+ "website": "https://www.paragonpilatespt.com/",
+ "email": "info@paragonpilatespt.com",
+ "opening_hours": "Mo-Th 06:30-19:00; Fr,Sa 06:30-14:00; Su 10:00-12:00",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12335479795",
+ "osm": {
+  "type": "node",
+  "id": 12335479795,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/paragon-edina/",
+ "summary": "Paragon is a gym in Edina, MN. Phone: +19524059765. Website: https://www.paragonpilatespt.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,61 @@
+{
+ "keyword": "orthopedic surgeon woodbury mn",
+ "slug": "orthopedic-surgeon-woodbury-mn",
+ "place": "Woodbury, MN",
+ "service": "orthopedic surgeon",
+ "query": "Who are the best orthopedic surgeon providers in Woodbury, MN?",
+ "matches": [
+  "orthopedic surgeon in Woodbury, MN",
+  "orthopedic surgeon near me (Woodbury, MN)",
+  "best orthopedic surgeon Woodbury, MN",
+  "top rated orthopedic surgeon Woodbury, MN",
+  "affordable orthopedic surgeon Woodbury, MN",
+  "emergency orthopedic surgeon Woodbury, MN"
+ ],
+ "answer": "The top unpaid orthopedic surgeon listing for Woodbury, MN is Summit Orthopedics (an orthopedic surgeon in Woodbury, MN at 2090 Woodwinds Drive, Woodbury, MN 55125). 1 orthopedic surgeon businesses are listed for Woodbury, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "summit-orthopedics-woodbury",
+   "name": "Summit Orthopedics",
+   "summary": "Summit Orthopedics is an orthopedic surgeon in Woodbury, MN at 2090 Woodwinds Drive, Woodbury, MN 55125.",
+   "categories": [
+    "orthopedic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/summit-orthopedics-woodbury/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/summit-orthopedics-woodbury.json",
+   "address": {
+    "streetAddress": "2090 Woodwinds Drive",
+    "addressLocality": "Woodbury",
+    "addressRegion": "MN",
+    "postalCode": "55125",
+    "addressCountry": "US"
+   },
+   "city": "Woodbury",
+   "state": "MN",
+   "zip": "55125",
+   "geo": {
+    "lat": 44.9182695,
+    "lon": -92.9811347
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/956416289",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

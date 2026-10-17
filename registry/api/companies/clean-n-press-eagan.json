@@ -1,0 +1,58 @@
+{
+ "slug": "clean-n-press-eagan",
+ "name": "Clean 'n' Press",
+ "categories": [
+  "dry cleaners"
+ ],
+ "keywords": [
+  "dry cleaners",
+  "dry cleaners eagan mn"
+ ],
+ "services": [
+  {
+   "name": "dry cleaners",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3250 Denmark Avenue #106",
+  "addressLocality": "Eagan",
+  "addressRegion": "MN",
+  "postalCode": "55121",
+  "addressCountry": "US"
+ },
+ "city": "Eagan",
+ "state": "MN",
+ "zip": "55121",
+ "geo": {
+  "lat": 44.8374109,
+  "lon": -93.1582563
+ },
+ "phone": "+16519051330",
+ "website": "https://cleannpress.com/",
+ "email": "contactus@cleannpress.com",
+ "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00",
+ "schema_type": "DryCleaningOrLaundry",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11815370169",
+ "osm": {
+  "type": "node",
+  "id": 11815370169,
+  "tags_used": {
+   "shop": "dry_cleaning"
+  }
+ },
+ "municipality": "Eagan",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/clean-n-press-eagan/",
+ "summary": "Clean 'n' Press is a dry cleaner in Eagan, MN at 3250 Denmark Avenue #106, Eagan, MN 55121. Phone: +16519051330. Website: https://cleannpress.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

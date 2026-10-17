@@ -1,0 +1,23 @@
+Bubbly Paws is a dog groomer in Minneapolis, MN at 4737 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16126053245. Website: https://www.bubblypaws.com/minneapolis.
+
+# Bubbly Paws
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: 4737 Chicago Avenue South, Minneapolis, MN 55407
+- City: Minneapolis
+- State: MN
+- ZIP: 55407
+- Coordinates: 44.9165553, -93.262441
+- Phone: +16126053245
+- Website: https://www.bubblypaws.com/minneapolis
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bubbly-paws-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bubbly-paws-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7651142707 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

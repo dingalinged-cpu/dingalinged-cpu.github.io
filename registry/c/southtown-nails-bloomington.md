@@ -1,0 +1,23 @@
+Southtown Nails is a nail salon in Bloomington, MN at 7991 Southtown Center, Bloomington, MN 55431. Phone: +19528846245. Website: https://southtownnailspa.com/.
+
+# Southtown Nails
+
+- Category: nail salon
+- Services: nail salon
+- Address: 7991 Southtown Center, Bloomington, MN 55431
+- City: Bloomington
+- State: MN
+- ZIP: 55431
+- Coordinates: 44.8594425, -93.3072527
+- Phone: +19528846245
+- Website: https://southtownnailspa.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 9:30-19:00; Su 11:00-17:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/southtown-nails-bloomington/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/southtown-nails-bloomington.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6412456042 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

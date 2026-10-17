@@ -1,0 +1,193 @@
+{
+ "keyword": "martial arts minneapolis mn",
+ "slug": "martial-arts-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "martial arts",
+ "query": "Who are the best martial arts providers in Minneapolis, MN?",
+ "matches": [
+  "martial arts in Minneapolis, MN",
+  "martial arts near me (Minneapolis, MN)",
+  "best martial arts Minneapolis, MN",
+  "top rated martial arts Minneapolis, MN",
+  "affordable martial arts Minneapolis, MN",
+  "emergency martial arts Minneapolis, MN"
+ ],
+ "answer": "The top unpaid martial arts listing for Minneapolis, MN is Hwa Rang Do Martial Art Academy (a martial arts school in Minneapolis, MN at 5417 Nicollet Avenue, Minneapolis, MN 55419. Phone: +16128245425. Website: https://www.hwarangdominneapolis.com/). 5 martial arts businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "hwa-rang-do-martial-art-academy-minneapolis",
+   "name": "Hwa Rang Do Martial Art Academy",
+   "summary": "Hwa Rang Do Martial Art Academy is a martial arts school in Minneapolis, MN at 5417 Nicollet Avenue, Minneapolis, MN 55419. Phone: +16128245425. Website: https://www.hwarangdominneapolis.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hwa-rang-do-martial-art-academy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hwa-rang-do-martial-art-academy-minneapolis.json",
+   "address": {
+    "streetAddress": "5417 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9044721,
+    "lon": -93.2777459
+   },
+   "phone": "+16128245425",
+   "website": "https://www.hwarangdominneapolis.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241676890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "world-martial-arts-center-minneapolis",
+   "name": "World Martial Arts Center",
+   "summary": "World Martial Arts Center is a martial arts school in Minneapolis, MN at 2913 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238233. Website: https://www.wmacenter.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/world-martial-arts-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/world-martial-arts-center-minneapolis.json",
+   "address": {
+    "streetAddress": "2913 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9497916,
+    "lon": -93.2878664
+   },
+   "phone": "+16128238233",
+   "website": "https://www.wmacenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5289969415",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "minnesota-kali-group-minneapolis",
+   "name": "Minnesota Kali Group",
+   "summary": "Minnesota Kali Group is a martial arts school in Minneapolis, MN at 4532 Chicago Avenue, Minneapolis, MN. Phone: +16128216800. Website: https://www.mnkali.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-kali-group-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-kali-group-minneapolis.json",
+   "address": {
+    "streetAddress": "4532 Chicago Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9204997,
+    "lon": -93.2628818
+   },
+   "phone": "+16128216800",
+   "website": "https://www.mnkali.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3623461193",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "movement-arts-center-minneapolis",
+   "name": "Movement Arts Center",
+   "summary": "Movement Arts Center is a martial arts school in Minneapolis, MN at 2209 East Franklin Avenue, Minneapolis, MN 55404.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/movement-arts-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/movement-arts-center-minneapolis.json",
+   "address": {
+    "streetAddress": "2209 East Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.962579,
+    "lon": -93.240286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/66823281",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "national-karate-minneapolis",
+   "name": "National Karate",
+   "summary": "National Karate is a martial arts school in Minneapolis, MN at 4608 Nicollet Avenue, Minneapolis, MN 55419.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/national-karate-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/national-karate-minneapolis.json",
+   "address": {
+    "streetAddress": "4608 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9193995,
+    "lon": -93.2784625
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11227203403",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

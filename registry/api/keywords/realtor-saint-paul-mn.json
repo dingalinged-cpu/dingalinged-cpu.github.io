@@ -1,0 +1,572 @@
+{
+ "keyword": "realtor saint paul mn",
+ "slug": "realtor-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "realtor",
+ "query": "Who are the best realtor providers in Saint Paul, MN?",
+ "matches": [
+  "realtor in Saint Paul, MN",
+  "realtor near me (Saint Paul, MN)",
+  "best realtor Saint Paul, MN",
+  "top rated realtor Saint Paul, MN",
+  "affordable realtor Saint Paul, MN",
+  "emergency realtor Saint Paul, MN"
+ ],
+ "answer": "The top unpaid realtor listing for Saint Paul, MN is Coldwell Banker (a real estate agency in Saint Paul, MN at 827 Grand Avenue, Saint Paul, MN 55105. Phone: +16512279144. Website: https://www.coldwellbankerhomes.com/mn/saint-paul/office/crocus-hill/oid_4219/). 17 realtor businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "coldwell-banker-saint-paul",
+   "name": "Coldwell Banker",
+   "summary": "Coldwell Banker is a real estate agency in Saint Paul, MN at 827 Grand Avenue, Saint Paul, MN 55105. Phone: +16512279144. Website: https://www.coldwellbankerhomes.com/mn/saint-paul/office/crocus-hill/oid_4219/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coldwell-banker-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coldwell-banker-saint-paul.json",
+   "address": {
+    "streetAddress": "827 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9401559,
+    "lon": -93.1346583
+   },
+   "phone": "+16512279144",
+   "website": "https://www.coldwellbankerhomes.com/mn/saint-paul/office/crocus-hill/oid_4219/",
+   "opening_hours": "Mo-Fr 08:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/332910456",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "metroplains-management-llc-saint-paul",
+   "name": "MetroPlains Management, LLC",
+   "summary": "MetroPlains Management, LLC is a real estate agency in Saint Paul, MN at 1600 University Avenue ##212, Saint Paul, MN 55104. Phone: +16516467848. Website: https://www.metroplains.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metroplains-management-llc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metroplains-management-llc-saint-paul.json",
+   "address": {
+    "streetAddress": "1600 University Avenue ##212",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9552977,
+    "lon": -93.16807
+   },
+   "phone": "+16516467848",
+   "website": "https://www.metroplains.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7207235099",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "brkw-appraisals-inc-saint-paul",
+   "name": "BRKW Appraisals, Inc",
+   "summary": "BRKW Appraisals, Inc is a real estate agency in Saint Paul, MN at 1600 University Avenue ##314, Saint Paul, MN 55104. Phone: +16516466114. Website: https://www.brkw.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brkw-appraisals-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brkw-appraisals-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "1600 University Avenue ##314",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9553422,
+    "lon": -93.1679357
+   },
+   "phone": "+16516466114",
+   "website": "https://www.brkw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7207235100",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "suntide-commercial-realty-inc-saint-paul",
+   "name": "Suntide Commercial Realty, Inc.",
+   "summary": "Suntide Commercial Realty, Inc. is a real estate agency in Saint Paul, MN at 255o University Avenue West ##416S, Saint Paul, MN 55114. Phone: +16516030321. Website: https://suntide.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/suntide-commercial-realty-inc-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/suntide-commercial-realty-inc-saint-paul.json",
+   "address": {
+    "streetAddress": "255o University Avenue West ##416S",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9651265,
+    "lon": -93.2042885
+   },
+   "phone": "+16516030321",
+   "website": "https://suntide.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6275543779",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "delisle-realtors-saint-paul",
+   "name": "DeLisle Realtors",
+   "summary": "DeLisle Realtors is a real estate agency in Saint Paul, MN at 1146 Rice Street, Saint Paul, MN. Phone: +16514880561. Website: https://www.delislecompany.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/delisle-realtors-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/delisle-realtors-saint-paul.json",
+   "address": {
+    "streetAddress": "1146 Rice Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758345,
+    "lon": -93.1057944
+   },
+   "phone": "+16514880561",
+   "website": "https://www.delislecompany.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13035314074",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "malmberg-projects-saint-paul",
+   "name": "Malmberg Projects",
+   "summary": "Malmberg Projects is a real estate agency in Saint Paul, MN at 842 Raymond Avenue, Saint Paul, MN 55114. Website: https://www.malmbergprojects.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/malmberg-projects-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/malmberg-projects-saint-paul.json",
+   "address": {
+    "streetAddress": "842 Raymond Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9668856,
+    "lon": -93.1974612
+   },
+   "website": "https://www.malmbergprojects.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7173830869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "odd-couple-team-keller-williams-integrity-realty-saint-paul",
+   "name": "Odd Couple Team Keller Williams Integrity Realty",
+   "summary": "Odd Couple Team Keller Williams Integrity Realty is a real estate agency in Saint Paul, MN at 1460 Grand Avenue, Saint Paul, MN 55105. Website: https://www.theoddcoupleteam.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/odd-couple-team-keller-williams-integrity-realty-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/odd-couple-team-keller-williams-integrity-realty-saint-paul.json",
+   "address": {
+    "streetAddress": "1460 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398972,
+    "lon": -93.16207
+   },
+   "website": "https://www.theoddcoupleteam.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/332987926",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "re-max-results-saint-paul",
+   "name": "RE/MAX Results",
+   "summary": "RE/MAX Results is a real estate agency in Saint Paul, MN at 748 Grand Avenue, Saint Paul, MN 55105. Phone: +16512514800.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-results-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-results-saint-paul.json",
+   "address": {
+    "streetAddress": "748 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398133,
+    "lon": -93.1317477
+   },
+   "phone": "+16512514800",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1000471059",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "vibe-realty-saint-paul",
+   "name": "Vibe Realty",
+   "summary": "Vibe Realty is a real estate agency in Saint Paul, MN at 400 Selby Avenue #Suite C, Saint Paul, MN 55102. Website: https://www.vibemn.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vibe-realty-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vibe-realty-saint-paul.json",
+   "address": {
+    "streetAddress": "400 Selby Avenue #Suite C",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.946456,
+    "lon": -93.1169617
+   },
+   "website": "https://www.vibemn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7261815306",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "edina-realty-saint-paul-n8923255114",
+   "name": "Edina Realty",
+   "summary": "Edina Realty is a real estate agency in Saint Paul, MN. Phone: +16512244321.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-realty-saint-paul-n8923255114/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-realty-saint-paul-n8923255114.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9397999,
+    "lon": -93.1299684
+   },
+   "phone": "+16512244321",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8923255114",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "gmbc-property-management-saint-paul",
+   "name": "GMBC Property Management",
+   "summary": "GMBC Property Management is a real estate agency in Saint Paul, MN at 1821 University Avenue, Saint Paul, MN 55104.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gmbc-property-management-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gmbc-property-management-saint-paul.json",
+   "address": {
+    "streetAddress": "1821 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9568079,
+    "lon": -93.1765308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7202339963",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "lynden-realty-saint-paul",
+   "name": "Lynden Realty",
+   "summary": "Lynden Realty is a real estate agency in Saint Paul, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lynden-realty-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lynden-realty-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.940269,
+    "lon": -93.1366861
+   },
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13890206638",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "merck-real-estate-saint-paul",
+   "name": "Merck Real Estate",
+   "summary": "Merck Real Estate is a real estate agency in Saint Paul, MN at 1041 Grand Avenue, Saint Paul, MN 55105.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/merck-real-estate-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/merck-real-estate-saint-paul.json",
+   "address": {
+    "streetAddress": "1041 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9403731,
+    "lon": -93.1442224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8920602100",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "edina-realty-saint-paul",
+   "name": "Edina Realty",
+   "summary": "Edina Realty is a real estate agency in Saint Paul, MN at 723 Cleveland Avenue South, Saint Paul, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edina-realty-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edina-realty-saint-paul.json",
+   "address": {
+    "streetAddress": "723 Cleveland Avenue South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9194914,
+    "lon": -93.187594
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8769392793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "exit-innovation-realty-saint-paul",
+   "name": "Exit Innovation Realty",
+   "summary": "Exit Innovation Realty is a real estate agency in Saint Paul, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/exit-innovation-realty-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/exit-innovation-realty-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9122929,
+    "lon": -93.1488266
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/773059093",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "hm-metro-realty-saint-paul",
+   "name": "HM Metro Realty",
+   "summary": "HM Metro Realty is a real estate agency in Saint Paul, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hm-metro-realty-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hm-metro-realty-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9746947,
+    "lon": -93.066204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096335",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "lakes-area-realty-saint-paul",
+   "name": "Lakes Area Realty",
+   "summary": "Lakes Area Realty is a real estate agency in Saint Paul, MN.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakes-area-realty-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakes-area-realty-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485847,
+    "lon": -93.1875752
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12188442253",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

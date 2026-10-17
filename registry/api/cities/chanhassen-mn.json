@@ -1,0 +1,1836 @@
+{
+ "place": "Chanhassen, MN",
+ "slug": "chanhassen-mn",
+ "count": 56,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-chanhassen-mn.json"
+  },
+  {
+   "keyword": "auto repair chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-chanhassen-mn.json"
+  },
+  {
+   "keyword": "bike shop chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-chanhassen-mn.json"
+  },
+  {
+   "keyword": "car wash chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-chanhassen-mn.json"
+  },
+  {
+   "keyword": "chiropractor chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-chanhassen-mn.json"
+  },
+  {
+   "keyword": "dentist chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-chanhassen-mn.json"
+  },
+  {
+   "keyword": "dog groomer chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-chanhassen-mn.json"
+  },
+  {
+   "keyword": "dry cleaners chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-chanhassen-mn.json"
+  },
+  {
+   "keyword": "financial advisor chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-chanhassen-mn.json"
+  },
+  {
+   "keyword": "florist chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-chanhassen-mn.json"
+  },
+  {
+   "keyword": "furniture store chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-chanhassen-mn.json"
+  },
+  {
+   "keyword": "gift shop chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-chanhassen-mn.json"
+  },
+  {
+   "keyword": "gym chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-chanhassen-mn.json"
+  },
+  {
+   "keyword": "hair salon chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-chanhassen-mn.json"
+  },
+  {
+   "keyword": "haircut chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-chanhassen-mn.json"
+  },
+  {
+   "keyword": "insurance agency chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-chanhassen-mn.json"
+  },
+  {
+   "keyword": "insurance agent chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-chanhassen-mn.json"
+  },
+  {
+   "keyword": "insurance agents chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-chanhassen-mn.json"
+  },
+  {
+   "keyword": "lawyer chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-chanhassen-mn.json"
+  },
+  {
+   "keyword": "liquor store chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-chanhassen-mn.json"
+  },
+  {
+   "keyword": "mattress store chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-chanhassen-mn.json"
+  },
+  {
+   "keyword": "mechanic chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-chanhassen-mn.json"
+  },
+  {
+   "keyword": "music lessons chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-chanhassen-mn.json"
+  },
+  {
+   "keyword": "nail salon chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-chanhassen-mn.json"
+  },
+  {
+   "keyword": "pet store chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-chanhassen-mn.json"
+  },
+  {
+   "keyword": "physical therapy chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-chanhassen-mn.json"
+  },
+  {
+   "keyword": "printing services chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-chanhassen-mn.json"
+  },
+  {
+   "keyword": "real estate agent chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-chanhassen-mn.json"
+  },
+  {
+   "keyword": "realtor chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-chanhassen-mn.json"
+  },
+  {
+   "keyword": "tanning salon chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-chanhassen-mn.json"
+  },
+  {
+   "keyword": "therapist chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-chanhassen-mn.json"
+  },
+  {
+   "keyword": "thrift store chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-chanhassen-mn.json"
+  },
+  {
+   "keyword": "tire shop chanhassen mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-chanhassen-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "chanhassen-chiropractic-chanhassen",
+   "name": "Chanhassen Chiropractic",
+   "summary": "Chanhassen Chiropractic is a chiropractor in Chanhassen, MN at 7800 Market Boulevard, Chanhassen, MN 55317. Phone: +19529344500. Website: https://chanhassenchiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-chiropractic-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanhassen-chiropractic-chanhassen.json",
+   "address": {
+    "streetAddress": "7800 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8619231,
+    "lon": -93.5383002
+   },
+   "phone": "+19529344500",
+   "website": "https://chanhassenchiro.com/",
+   "opening_hours": "Mo,We 09:00-12:00,15:00-18:00; Tu 09:00-12:00,13:00-16:00; Th 14:00-18:00; Fr 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9909389871",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chanhassen-family-dentistry-chanhassen",
+   "name": "Chanhassen Family Dentistry",
+   "summary": "Chanhassen Family Dentistry is a dentist in Chanhassen, MN at 8116 Mallory Court, Chanhassen, MN 55317. Phone: +19524433368. Website: https://chandent.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-family-dentistry-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanhassen-family-dentistry-chanhassen.json",
+   "address": {
+    "streetAddress": "8116 Mallory Court",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.856576,
+    "lon": -93.5543361
+   },
+   "phone": "+19524433368",
+   "website": "https://chandent.com/",
+   "opening_hours": "Mo-Th 07:00-12:00, 13:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8141725494",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "discover-strength-chanhassen",
+   "name": "Discover Strength",
+   "summary": "Discover Strength is a gym in Chanhassen, MN at 18882 Lake Drive East, Chanhassen, MN 55317. Phone: +19529341204. Website: https://www.discoverstrength.com/chanhassen/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discover-strength-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discover-strength-chanhassen.json",
+   "address": {
+    "streetAddress": "18882 Lake Drive East",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8614928,
+    "lon": -93.5173418
+   },
+   "phone": "+19529341204",
+   "website": "https://www.discoverstrength.com/chanhassen/",
+   "opening_hours": "Mo-Fr 05:30-20:00; Sa 07:30-15:00; Su 07:30-15:15",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13596313901",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fidos-pantry-chanhassen",
+   "name": "Fido's Pantry",
+   "summary": "Fido's Pantry is a pet store in Chanhassen, MN at 2473 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524749383. Website: https://www.fidospantry.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fidos-pantry-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fidos-pantry-chanhassen.json",
+   "address": {
+    "streetAddress": "2473 Minnesota State Highway 7",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8902105,
+    "lon": -93.5824349
+   },
+   "phone": "+19524749383",
+   "website": "https://www.fidospantry.com/",
+   "opening_hours": "Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 12:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215303866",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "life-time-chanhassen",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Chanhassen, MN at 2901 Corporate Place, Chanhassen, MN 55317. Phone: +19523800303. Website: https://www.lifetime.life/life-time-locations/mn-chanhassen.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-chanhassen.json",
+   "address": {
+    "streetAddress": "2901 Corporate Place",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8612004,
+    "lon": -93.5948206
+   },
+   "phone": "+19523800303",
+   "website": "https://www.lifetime.life/life-time-locations/mn-chanhassen.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317433053",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "lotus-lake-gifts-and-decor-chanhassen",
+   "name": "Lotus Lake Gifts & Decor",
+   "summary": "Lotus Lake Gifts & Decor is a gift shop in Chanhassen, MN at 412 West 78th Street, Chanhassen, MN 55317. Phone: +19529343485. Website: https://lotuslakegifts.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lotus-lake-gifts-and-decor-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lotus-lake-gifts-and-decor-chanhassen.json",
+   "address": {
+    "streetAddress": "412 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.862608,
+    "lon": -93.5318096
+   },
+   "phone": "+19529343485",
+   "website": "https://lotuslakegifts.com/",
+   "opening_hours": "Mo-We, Fr-Sa 10:00-17:00; Th 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391790005",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "total-wine-chanhassen",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Chanhassen, MN at 510 Lake Drive, Chanhassen, MN 55317. Phone: +19529346484. Website: https://www.totalwine.com/store-info/1606.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-chanhassen.json",
+   "address": {
+    "streetAddress": "510 Lake Drive",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8566308,
+    "lon": -93.5337551
+   },
+   "phone": "+19529346484",
+   "website": "https://www.totalwine.com/store-info/1606",
+   "opening_hours": "Mo-Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5584887732",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "metro-dentalcare-chanhassen-chanhassen",
+   "name": "Metro Dentalcare Chanhassen",
+   "summary": "Metro Dentalcare Chanhassen is a nail salon in Chanhassen, MN at 7806 Market Boulevard, Chanhassen, MN 55317. Phone: +19529491083. Website: https://www.mdchanhassen.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-chanhassen-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-dentalcare-chanhassen-chanhassen.json",
+   "address": {
+    "streetAddress": "7806 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8618997,
+    "lon": -93.5384217
+   },
+   "phone": "+19529491083",
+   "website": "https://www.mdchanhassen.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789948",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "us-nails-chanhassen",
+   "name": "US Nails",
+   "summary": "US Nails is a nail salon in Chanhassen, MN at 2449 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524016620.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/us-nails-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/us-nails-chanhassen.json",
+   "address": {
+    "streetAddress": "2449 Minnesota State Highway 7",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8901545,
+    "lon": -93.5822583
+   },
+   "phone": "+19524016620",
+   "opening_hours": "Mo-Fr 09:30-19:30, Sa 09:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215316859",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chanhassen-groomers-chanhassen",
+   "name": "Chanhassen Groomers",
+   "summary": "Chanhassen Groomers is a pet store in Chanhassen, MN at 450 West 79th Street, Chanhassen, MN 55317. Phone: +19529345688.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-groomers-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanhassen-groomers-chanhassen.json",
+   "address": {
+    "streetAddress": "450 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8601701,
+    "lon": -93.532007
+   },
+   "phone": "+19529345688",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3823589659",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "palm-beach-tan-chanhassen",
+   "name": "Palm Beach Tan",
+   "summary": "Palm Beach Tan is a tanning salon in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317. Website: https://palmbeachtan.com/locations/MN/West-79th-Street.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-chanhassen.json",
+   "address": {
+    "streetAddress": "530 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8598862,
+    "lon": -93.5335151
+   },
+   "website": "https://palmbeachtan.com/locations/MN/West-79th-Street",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391867611",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "pet-clips-chanhassen",
+   "name": "Pet Clips",
+   "summary": "Pet Clips is a dog groomer in Chanhassen, MN at 2445 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524707848.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-clips-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-clips-chanhassen.json",
+   "address": {
+    "streetAddress": "2445 Minnesota State Highway 7",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8900828,
+    "lon": -93.5821461
+   },
+   "phone": "+19524707848",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215299481",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "stone-creek-psychiartry-chanhassen",
+   "name": "Stone Creek Psychiartry",
+   "summary": "Stone Creek Psychiartry is a therapy practice in Chanhassen, MN at 7945 Stone Creek Drive #130, Chanhassen, MN 55317. Website: https://www.stonecreekpsychiatry.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stone-creek-psychiartry-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stone-creek-psychiartry-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #130",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.86235,
+    "lon": -93.5717857
+   },
+   "website": "https://www.stonecreekpsychiatry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428568",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "valvoline-chanhassen",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Chanhassen, MN at 335 West 79th Street, Chanhassen, MN 55317. Website: https://store.vioc.com/mn/chanhassen/oil-change-010042.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-chanhassen.json",
+   "address": {
+    "streetAddress": "335 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8602531,
+    "lon": -93.5299469
+   },
+   "website": "https://store.vioc.com/mn/chanhassen/oil-change-010042.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42850388",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bp-chanhassen",
+   "name": "BP",
+   "summary": "BP is a car wash in Chanhassen, MN at 7755 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-chanhassen.json",
+   "address": {
+    "streetAddress": "7755 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8640916,
+    "lon": -93.5890887
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52255159",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "health-sense-dental-chanhassen",
+   "name": "Health Sense Dental",
+   "summary": "Health Sense Dental is a dentist in Chanhassen, MN at 6140 Lake Linden Drive #235, Chanhassen, MN 55331.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/health-sense-dental-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/health-sense-dental-chanhassen.json",
+   "address": {
+    "streetAddress": "6140 Lake Linden Drive #235",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55331",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55331",
+   "geo": {
+    "lat": 44.8923004,
+    "lon": -93.5835462
+   },
+   "opening_hours": "Mo-Th 07:00-19:00, Fr 07:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11215325078",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kwik-trip-chanhassen",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=402.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8640904,
+    "lon": -93.5776399
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=402",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/52255162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kwik-trip-chanhassen-w258506166",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=492.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen-w258506166/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-chanhassen-w258506166.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8423664,
+    "lon": -93.539362
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=492",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/258506166",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "abundant-life-chiropractic-chanhassen",
+   "name": "Abundant Life Chiropractic",
+   "summary": "Abundant Life Chiropractic is a chiropractor in Chanhassen, MN at 7945 Stone Creek Drive #120, Chanhassen, MN 55317.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abundant-life-chiropractic-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abundant-life-chiropractic-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #120",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8623596,
+    "lon": -93.5716846
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428569",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "american-family-insurance-chanhassen",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Chanhassen, MN at 7955 Stone Creek Drive #110, Chanhassen, MN 55317.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-chanhassen.json",
+   "address": {
+    "streetAddress": "7955 Stone Creek Drive #110",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8623252,
+    "lon": -93.572258
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428576",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "best-cleaners-chanhassen",
+   "name": "Best Cleaners",
+   "summary": "Best Cleaners is a dry cleaner in Chanhassen, MN at 7886 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-cleaners-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-cleaners-chanhassen.json",
+   "address": {
+    "streetAddress": "7886 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8605174,
+    "lon": -93.5400548
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789885",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "better-homes-and-gardens-chanhassen",
+   "name": "Better Homes and Gardens",
+   "summary": "Better Homes and Gardens is a real estate agency in Chanhassen, MN at 7915 Stone Creek Drive #120, Chanhassen, MN 55317.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/better-homes-and-gardens-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/better-homes-and-gardens-chanhassen.json",
+   "address": {
+    "streetAddress": "7915 Stone Creek Drive #120",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8618863,
+    "lon": -93.5720308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428581",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "bluff-creek-dental-chanhassen",
+   "name": "Bluff Creek Dental",
+   "summary": "Bluff Creek Dental is a dentist in Chanhassen, MN at 600 Market Street, Chanhassen, MN 55317.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bluff-creek-dental-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bluff-creek-dental-chanhassen.json",
+   "address": {
+    "streetAddress": "600 Market Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8608295,
+    "lon": -93.536681
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789951",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "browns-car-wash-chanhassen",
+   "name": "Brown's Car Wash",
+   "summary": "Brown's Car Wash is a car wash in Chanhassen, MN at 7903 Great Plains Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/browns-car-wash-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/browns-car-wash-chanhassen.json",
+   "address": {
+    "streetAddress": "7903 Great Plains Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8603205,
+    "lon": -93.53062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/589088945",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "browns-tire-and-auto-chanhassen",
+   "name": "Brown's Tire & Auto",
+   "summary": "Brown's Tire & Auto is an auto repair shop in Chanhassen, MN at 275 West 79th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/browns-tire-and-auto-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/browns-tire-and-auto-chanhassen.json",
+   "address": {
+    "streetAddress": "275 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8603017,
+    "lon": -93.5294762
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42850387",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "cetera-advisors-chanhassen",
+   "name": "Cetera Advisors",
+   "summary": "Cetera Advisors is a financial advisor in Chanhassen, MN at 7955 Stone Creek Drive #20, Chanhassen, MN 55317.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cetera-advisors-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cetera-advisors-chanhassen.json",
+   "address": {
+    "streetAddress": "7955 Stone Creek Drive #20",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8622194,
+    "lon": -93.5723409
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428573",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chanhassen-floral-chanhassen",
+   "name": "Chanhassen Floral",
+   "summary": "Chanhassen Floral is a florist in Chanhassen, MN at 7880 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-floral-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanhassen-floral-chanhassen.json",
+   "address": {
+    "streetAddress": "7880 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8606316,
+    "lon": -93.540062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789783",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chanhassen-vetrinary-clinic-chanhassen",
+   "name": "Chanhassen Vetrinary Clinic",
+   "summary": "Chanhassen Vetrinary Clinic is a pet store in Chanhassen, MN at 440 West 79th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-vetrinary-clinic-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanhassen-vetrinary-clinic-chanhassen.json",
+   "address": {
+    "streetAddress": "440 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8601711,
+    "lon": -93.5318341
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3823589660",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "choices-psychotherapy-chanhassen",
+   "name": "Choices Psychotherapy",
+   "summary": "Choices Psychotherapy is a therapy practice in Chanhassen, MN at 7975 Stone Creek Drive #130, Chanhassen, MN 55317.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/choices-psychotherapy-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/choices-psychotherapy-chanhassen.json",
+   "address": {
+    "streetAddress": "7975 Stone Creek Drive #130",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8619034,
+    "lon": -93.5726918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428574",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chuck-and-dons-pet-food-and-supplies-chanhassen",
+   "name": "Chuck & Don's Pet Food & Supplies",
+   "summary": "Chuck & Don's Pet Food & Supplies is a pet store in Chanhassen, MN at 7818 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chuck-and-dons-pet-food-and-supplies-chanhassen.json",
+   "address": {
+    "streetAddress": "7818 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8618997,
+    "lon": -93.5386953
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789947",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "fedex-office-chanhassen",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Chanhassen, MN at 880 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-chanhassen.json",
+   "address": {
+    "streetAddress": "880 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8628962,
+    "lon": -93.5437065
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42850152",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "furnishare-chanhassen",
+   "name": "Furnishare",
+   "summary": "Furnishare is a furniture store in Chanhassen, MN at 7890 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furnishare-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furnishare-chanhassen.json",
+   "address": {
+    "streetAddress": "7890 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8603419,
+    "lon": -93.5400117
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789886",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "great-clips-chanhassen",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Chanhassen, MN at 832 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-chanhassen.json",
+   "address": {
+    "streetAddress": "832 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8635353,
+    "lon": -93.5425573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391866937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "hour-glass-cleaners-chanhassen",
+   "name": "Hour Glass Cleaners",
+   "summary": "Hour Glass Cleaners is a dry cleaner in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hour-glass-cleaners-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hour-glass-cleaners-chanhassen.json",
+   "address": {
+    "streetAddress": "530 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8600212,
+    "lon": -93.5332056
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391867613",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "johnson-mediation-chanhassen",
+   "name": "Johnson Mediation",
+   "summary": "Johnson Mediation is a lawyer in Chanhassen, MN at 7965 Stone Creek Drive #10, Chanhassen, MN 55317.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/johnson-mediation-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/johnson-mediation-chanhassen.json",
+   "address": {
+    "streetAddress": "7965 Stone Creek Drive #10",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8622363,
+    "lon": -93.5731154
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428575",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "kids-hair-chanhassen",
+   "name": "Kid's Hair",
+   "summary": "Kid's Hair is a hair salon in Chanhassen, MN at 932 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-hair-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-hair-chanhassen.json",
+   "address": {
+    "streetAddress": "932 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8636879,
+    "lon": -93.5449299
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789751",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "macphail-chanhassen",
+   "name": "MacPhail",
+   "summary": "MacPhail is a music school in Chanhassen, MN at 470 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/macphail-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/macphail-chanhassen.json",
+   "address": {
+    "streetAddress": "470 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8623126,
+    "lon": -93.5326917
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391790003",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "master-collision-group-chanhassen",
+   "name": "Master Collision Group",
+   "summary": "Master Collision Group is an auto repair shop in Chanhassen, MN at 227 West 79th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/master-collision-group-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/master-collision-group-chanhassen.json",
+   "address": {
+    "streetAddress": "227 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8605781,
+    "lon": -93.5291218
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42850386",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mgm-liquor-warehouse-chanhassen",
+   "name": "MGM Liquor Warehouse",
+   "summary": "MGM Liquor Warehouse is a liquor store in Chanhassen, MN at 7856 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquor-warehouse-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquor-warehouse-chanhassen.json",
+   "address": {
+    "streetAddress": "7856 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8612287,
+    "lon": -93.540112
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/682518697",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "north-star-regional-mental-health-chanhassen",
+   "name": "North Star Regional Mental Health",
+   "summary": "North Star Regional Mental Health is a therapy practice in Chanhassen, MN at 7945 Stone Creek Drive #140, Chanhassen, MN 55317.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-star-regional-mental-health-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-star-regional-mental-health-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #140",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8623397,
+    "lon": -93.571906
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428567",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "northstar-regional-bridges-program-chanhassen",
+   "name": "NorthStar Regional Bridges Program",
+   "summary": "NorthStar Regional Bridges Program is a therapy practice in Chanhassen, MN at 7945 Stone Creek Drive #10, Chanhassen, MN 55317.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northstar-regional-bridges-program-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northstar-regional-bridges-program-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #10",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8622991,
+    "lon": -93.5715272
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428571",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "northstar-regional-cd-iop-chanhassen",
+   "name": "NorthStar Regional CD IOP",
+   "summary": "NorthStar Regional CD IOP is a therapy practice in Chanhassen, MN at 7945 Stone Creek Drive #30, Chanhassen, MN 55317.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northstar-regional-cd-iop-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northstar-regional-cd-iop-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #30",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.862276,
+    "lon": -93.5717756
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428572",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "re-max-advantage-chanhassen",
+   "name": "Re/Max Advantage",
+   "summary": "Re/Max Advantage is a real estate agency in Chanhassen, MN at 7811 Great Plains Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-advantage-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-advantage-chanhassen.json",
+   "address": {
+    "streetAddress": "7811 Great Plains Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8611596,
+    "lon": -93.5305709
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/100494267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "state-farm-chanhassen",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Chanhassen, MN at 7945 Stone Creek Drive #110, Chanhassen, MN 55317.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-chanhassen.json",
+   "address": {
+    "streetAddress": "7945 Stone Creek Drive #110",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8623795,
+    "lon": -93.5715711
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "stone-creek-dental-chanhassen",
+   "name": "Stone Creek Dental",
+   "summary": "Stone Creek Dental is a dentist in Chanhassen, MN at 7935 Stone Creek Drive #150, Chanhassen, MN 55317.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stone-creek-dental-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stone-creek-dental-chanhassen.json",
+   "address": {
+    "streetAddress": "7935 Stone Creek Drive #150",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8624338,
+    "lon": -93.5711177
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428577",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "supercuts-chanhassen",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Chanhassen, MN at 7884 Market Boulevard, Chanhassen, MN 55317.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-chanhassen.json",
+   "address": {
+    "streetAddress": "7884 Market Boulevard",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8605714,
+    "lon": -93.5400577
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789784",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "the-original-mattres-factory-chanhassen",
+   "name": "The Original Mattres Factory",
+   "summary": "The Original Mattres Factory is a mattress store in Chanhassen, MN at 940 West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-original-mattres-factory-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-original-mattres-factory-chanhassen.json",
+   "address": {
+    "streetAddress": "940 West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8637325,
+    "lon": -93.5451266
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6391789752",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "tires-plus-chanhassen",
+   "name": "Tires Plus",
+   "summary": "Tires Plus is a tire shop in Chanhassen, MN at 580 West 79th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tires-plus-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tires-plus-chanhassen.json",
+   "address": {
+    "streetAddress": "580 West 79th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8598457,
+    "lon": -93.5352331
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42850130",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "viverant-chanhassen",
+   "name": "Viverant",
+   "summary": "Viverant is a physical therapy clinic in Chanhassen, MN at West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/viverant-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/viverant-chanhassen.json",
+   "address": {
+    "streetAddress": "West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8644386,
+    "lon": -93.5893091
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11879522869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "wealth-guidance-chanhassen",
+   "name": "Wealth Guidance",
+   "summary": "Wealth Guidance is a financial advisor in Chanhassen, MN at 7925 Stone Creek Drive #110, Chanhassen, MN 55317.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wealth-guidance-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wealth-guidance-chanhassen.json",
+   "address": {
+    "streetAddress": "7925 Stone Creek Drive #110",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8619152,
+    "lon": -93.5716767
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6734428579",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "boco-bikes-chanhassen",
+   "name": "Boco Bikes",
+   "summary": "Boco Bikes is a bike shop in Chanhassen, MN.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boco-bikes-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boco-bikes-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8561088,
+    "lon": -93.5350166
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/40112529",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "chanhassen-dental-chanhassen",
+   "name": "Chanhassen Dental",
+   "summary": "Chanhassen Dental is a dentist in Chanhassen, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chanhassen-dental-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chanhassen-dental-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8623483,
+    "lon": -93.5341591
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/765261090",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-chanhassen",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Chanhassen, MN.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8628196,
+    "lon": -93.5225621
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/51710180",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "speedy-wash-chanhassen",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Chanhassen, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8568405,
+    "lon": -93.5962826
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12478425850",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "top-ten-liquors-chanhassen",
+   "name": "Top Ten Liquors",
+   "summary": "Top Ten Liquors is a liquor store in Chanhassen, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-ten-liquors-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8629277,
+    "lon": -93.5205419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/297073750",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "youngstedts-goodyear-chanhassen",
+   "name": "Youngstedts Goodyear",
+   "summary": "Youngstedts Goodyear is a tire shop in Chanhassen, MN.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/youngstedts-goodyear-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/youngstedts-goodyear-chanhassen.json",
+   "address": {
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8614211,
+    "lon": -93.5216423
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/42850897",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

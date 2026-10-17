@@ -1,0 +1,51 @@
+{
+ "slug": "us-storage-white-bear-lake",
+ "name": "US Storage",
+ "categories": [
+  "storage units"
+ ],
+ "keywords": [
+  "storage units",
+  "storage units white bear lake mn"
+ ],
+ "services": [
+  {
+   "name": "storage units",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "White Bear Lake",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "White Bear Lake",
+ "state": "MN",
+ "geo": {
+  "lat": 45.0385347,
+  "lon": -93.0262135
+ },
+ "schema_type": "SelfStorage",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/126160312",
+ "osm": {
+  "type": "way",
+  "id": 126160312,
+  "tags_used": {
+   "shop": "storage_rental"
+  }
+ },
+ "municipality": "White Bear Lake",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/us-storage-white-bear-lake/",
+ "summary": "US Storage is a self-storage facility in White Bear Lake, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

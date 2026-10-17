@@ -1,0 +1,62 @@
+{
+ "keyword": "dog boarding bloomington mn",
+ "slug": "dog-boarding-bloomington-mn",
+ "place": "Bloomington, MN",
+ "service": "dog boarding",
+ "query": "Who are the best dog boarding providers in Bloomington, MN?",
+ "matches": [
+  "dog boarding in Bloomington, MN",
+  "dog boarding near me (Bloomington, MN)",
+  "best dog boarding Bloomington, MN",
+  "top rated dog boarding Bloomington, MN",
+  "affordable dog boarding Bloomington, MN",
+  "emergency dog boarding Bloomington, MN"
+ ],
+ "answer": "The top unpaid dog boarding listing for Bloomington, MN is Dogtopia (a dog boarding facility in Bloomington, MN at 5208 West 84th Street, Bloomington, MN. Phone: +16128140616. Website: https://www.dogtopia.com/bloomington/). 1 dog boarding businesses are listed for Bloomington, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "dogtopia-bloomington",
+   "name": "Dogtopia",
+   "summary": "Dogtopia is a dog boarding facility in Bloomington, MN at 5208 West 84th Street, Bloomington, MN. Phone: +16128140616. Website: https://www.dogtopia.com/bloomington/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dogtopia-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-bloomington.json",
+   "address": {
+    "streetAddress": "5208 West 84th Street",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.852084,
+    "lon": -93.3466508
+   },
+   "phone": "+16128140616",
+   "website": "https://www.dogtopia.com/bloomington/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13205506615",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

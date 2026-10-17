@@ -1,0 +1,96 @@
+{
+ "keyword": "staffing agency brooklyn park mn",
+ "slug": "staffing-agency-brooklyn-park-mn",
+ "place": "Brooklyn Park, MN",
+ "service": "staffing agency",
+ "query": "Who are the best staffing agency providers in Brooklyn Park, MN?",
+ "matches": [
+  "staffing agency in Brooklyn Park, MN",
+  "staffing agency near me (Brooklyn Park, MN)",
+  "best staffing agency Brooklyn Park, MN",
+  "top rated staffing agency Brooklyn Park, MN",
+  "affordable staffing agency Brooklyn Park, MN",
+  "emergency staffing agency Brooklyn Park, MN"
+ ],
+ "answer": "The top unpaid staffing agency listing for Brooklyn Park, MN is Express Pros (a staffing agency in Brooklyn Park, MN at 8500 Edenbrook Parkway #Suite E, Brooklyn Park, MN 55443. Phone: +17635711107. Website: https://expresspros.com/). 2 staffing agency businesses are listed for Brooklyn Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "express-pros-brooklyn-park",
+   "name": "Express Pros",
+   "summary": "Express Pros is a staffing agency in Brooklyn Park, MN at 8500 Edenbrook Parkway #Suite E, Brooklyn Park, MN 55443. Phone: +17635711107. Website: https://expresspros.com/.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-pros-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-pros-brooklyn-park.json",
+   "address": {
+    "streetAddress": "8500 Edenbrook Parkway #Suite E",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55443",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55443",
+   "geo": {
+    "lat": 45.10933,
+    "lon": -93.3075305
+   },
+   "phone": "+17635711107",
+   "website": "https://expresspros.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8140473393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "pridestaff-brooklyn-park",
+   "name": "PrideStaff",
+   "summary": "PrideStaff is a staffing agency in Brooklyn Park, MN at 4634 85th Avenue North, Brooklyn Park, MN 55443. Phone: +17639994390.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pridestaff-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pridestaff-brooklyn-park.json",
+   "address": {
+    "streetAddress": "4634 85th Avenue North",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55443",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55443",
+   "geo": {
+    "lat": 45.1097842,
+    "lon": -93.3401801
+   },
+   "phone": "+17639994390",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8149707705",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

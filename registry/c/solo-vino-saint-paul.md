@@ -1,0 +1,23 @@
+Solo Vino is a liquor store in Saint Paul, MN at 517 Selby Avenue, Saint Paul, MN 55102. Phone: +16516029515. Website: https://www.solovinowines.com/.
+
+# Solo Vino
+
+- Category: liquor store
+- Services: liquor store
+- Address: 517 Selby Avenue, Saint Paul, MN 55102
+- City: Saint Paul
+- State: MN
+- ZIP: 55102
+- Coordinates: 44.9466998, -93.1220746
+- Phone: +16516029515
+- Website: https://www.solovinowines.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/solo-vino-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/solo-vino-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3134015334 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

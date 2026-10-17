@@ -1,0 +1,55 @@
+{
+ "slug": "como-park-animal-hospital-roseville",
+ "name": "Como Park Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet roseville mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "621 Larpenteur Avenue West",
+  "addressLocality": "Roseville",
+  "addressRegion": "MN",
+  "postalCode": "55113",
+  "addressCountry": "US"
+ },
+ "city": "Roseville",
+ "state": "MN",
+ "zip": "55113",
+ "geo": {
+  "lat": 44.9920929,
+  "lon": -93.1271067
+ },
+ "website": "https://www.comoparkanimalhospital.com/",
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12475233201",
+ "osm": {
+  "type": "node",
+  "id": 12475233201,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Roseville",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/como-park-animal-hospital-roseville/",
+ "summary": "Como Park Animal Hospital is a veterinarian in Roseville, MN at 621 Larpenteur Avenue West, Roseville, MN 55113. Website: https://www.comoparkanimalhospital.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

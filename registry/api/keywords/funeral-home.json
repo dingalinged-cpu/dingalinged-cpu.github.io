@@ -1,0 +1,1140 @@
+{
+ "keyword": "funeral home",
+ "slug": "funeral-home",
+ "place": "the United States",
+ "service": "funeral home",
+ "query": "Who are the best funeral home providers in the United States?",
+ "matches": [
+  "funeral home in the United States",
+  "funeral home near me (the United States)",
+  "best funeral home the United States",
+  "top rated funeral home the United States",
+  "affordable funeral home the United States",
+  "emergency funeral home the United States"
+ ],
+ "answer": "The top unpaid funeral home listing for the United States is Hodroff-Epstein Memorial Chapels (a funeral home in Minneapolis, MN at 126 East Franklin Avenue, Minneapolis, MN 55404. Phone: +16128711234. Website: https://www.hodroffepsteinmemorialchapels.com/). 35 funeral home businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "hodroff-epstein-memorial-chapels-minneapolis",
+   "name": "Hodroff-Epstein Memorial Chapels",
+   "summary": "Hodroff-Epstein Memorial Chapels is a funeral home in Minneapolis, MN at 126 East Franklin Avenue, Minneapolis, MN 55404. Phone: +16128711234. Website: https://www.hodroffepsteinmemorialchapels.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hodroff-epstein-memorial-chapels-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hodroff-epstein-memorial-chapels-minneapolis.json",
+   "address": {
+    "streetAddress": "126 East Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9629717,
+    "lon": -93.2749728
+   },
+   "phone": "+16128711234",
+   "website": "https://www.hodroffepsteinmemorialchapels.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/119006335",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "willwerscheid-funeral-homes-saint-paul",
+   "name": "Willwerscheid Funeral Homes",
+   "summary": "Willwerscheid Funeral Homes is a funeral home in Saint Paul, MN at 1167 Grand Avenue, Saint Paul, MN 55105. Phone: +16512281006. Website: https://willwerscheid.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/willwerscheid-funeral-homes-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/willwerscheid-funeral-homes-saint-paul.json",
+   "address": {
+    "streetAddress": "1167 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9403692,
+    "lon": -93.149529
+   },
+   "phone": "+16512281006",
+   "website": "https://willwerscheid.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/79236596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "ballard-sunder-funeral-and-cremation-reception-center-shakopee",
+   "name": "Ballard-Sunder Funeral and Cremation Reception Center",
+   "summary": "Ballard-Sunder Funeral and Cremation Reception Center is a funeral home in Shakopee, MN at 833 Marschall Road, Shakopee, MN 55379. Phone: +19524451202. Website: https://www.ballardsunderfuneral.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ballard-sunder-funeral-and-cremation-reception-center-shakopee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ballard-sunder-funeral-and-cremation-reception-center-shakopee.json",
+   "address": {
+    "streetAddress": "833 Marschall Road",
+    "addressLocality": "Shakopee",
+    "addressRegion": "MN",
+    "postalCode": "55379",
+    "addressCountry": "US"
+   },
+   "city": "Shakopee",
+   "state": "MN",
+   "zip": "55379",
+   "geo": {
+    "lat": 44.7910795,
+    "lon": -93.507047
+   },
+   "phone": "+19524451202",
+   "website": "https://www.ballardsunderfuneral.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/246927895",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "bradshaw-funeral-saint-paul",
+   "name": "Bradshaw Funeral",
+   "summary": "Bradshaw Funeral is a funeral home in Saint Paul, MN at 1078 Rice Street #Room BACK, Saint Paul, MN 55117. Phone: +16514891349. Website: https://www.bradshawfuneral.com/rice-street-location.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bradshaw-funeral-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bradshaw-funeral-saint-paul.json",
+   "address": {
+    "streetAddress": "1078 Rice Street #Room BACK",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55117",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55117",
+   "geo": {
+    "lat": 44.9734995,
+    "lon": -93.1056381
+   },
+   "phone": "+16514891349",
+   "website": "https://www.bradshawfuneral.com/rice-street-location",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6555480859",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "bradshaw-funeral-and-cremation-services-minneapolis",
+   "name": "Bradshaw Funeral & Cremation Services",
+   "summary": "Bradshaw Funeral & Cremation Services is a funeral home in Minneapolis, MN at 3131 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127243621. Website: https://www.bradshawfuneral.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bradshaw-funeral-and-cremation-services-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bradshaw-funeral-and-cremation-services-minneapolis.json",
+   "address": {
+    "streetAddress": "3131 Minnehaha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9459044,
+    "lon": -93.2320287
+   },
+   "phone": "+16127243621",
+   "website": "https://www.bradshawfuneral.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/319467187",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "crescent-tide-funeral-and-cremation-saint-paul",
+   "name": "Crescent Tide Funeral & Cremation",
+   "summary": "Crescent Tide Funeral & Cremation is a funeral home in Saint Paul, MN at 774 Transfer Road, Saint Paul, MN 55114. Phone: +16513158214. Website: https://www.crescenttide.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crescent-tide-funeral-and-cremation-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crescent-tide-funeral-and-cremation-saint-paul.json",
+   "address": {
+    "streetAddress": "774 Transfer Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9648228,
+    "lon": -93.1852897
+   },
+   "phone": "+16513158214",
+   "website": "https://www.crescenttide.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2602109917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "evans-nordby-funeral-homes-brooklyn-center-brooklyn-center",
+   "name": "Evans-Nordby Funeral Homes - Brooklyn Center",
+   "summary": "Evans-Nordby Funeral Homes - Brooklyn Center is a funeral home in Brooklyn Center, MN at 6000 Brooklyn Boulevard, Brooklyn Center, MN 55429. Phone: +17635333000. Website: https://www.evansnordby.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evans-nordby-funeral-homes-brooklyn-center-brooklyn-center/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evans-nordby-funeral-homes-brooklyn-center-brooklyn-center.json",
+   "address": {
+    "streetAddress": "6000 Brooklyn Boulevard",
+    "addressLocality": "Brooklyn Center",
+    "addressRegion": "MN",
+    "postalCode": "55429",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Center",
+   "state": "MN",
+   "zip": "55429",
+   "geo": {
+    "lat": 45.0642381,
+    "lon": -93.3248727
+   },
+   "phone": "+17635333000",
+   "website": "https://www.evansnordby.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6374365685",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "gearty-delmore-funeral-chapels-saint-louis-park",
+   "name": "Gearty Delmore Funeral Chapels",
+   "summary": "Gearty Delmore Funeral Chapels is a funeral home in Saint Louis Park, MN at 3960 Wooddale Avenue, Saint Louis Park, MN 55416. Phone: +19529261615. Website: https://www.gearty-delmore.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gearty-delmore-funeral-chapels-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gearty-delmore-funeral-chapels-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3960 Wooddale Avenue",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.930025,
+    "lon": -93.3479548
+   },
+   "phone": "+19529261615",
+   "website": "https://www.gearty-delmore.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1039694518",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "legacy-funeral-home-west-chapel-saint-paul",
+   "name": "Legacy Funeral Home - West Chapel",
+   "summary": "Legacy Funeral Home - West Chapel is a funeral home in Saint Paul, MN at 255 Eaton Street, Saint Paul, MN 55107. Phone: +16514914699. Website: https://www.legacyfh.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/legacy-funeral-home-west-chapel-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/legacy-funeral-home-west-chapel-saint-paul.json",
+   "address": {
+    "streetAddress": "255 Eaton Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55107",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55107",
+   "geo": {
+    "lat": 44.9343205,
+    "lon": -93.0737987
+   },
+   "phone": "+16514914699",
+   "website": "https://www.legacyfh.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6114221485",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "twin-city-monuments-saint-louis-park",
+   "name": "Twin City Monuments",
+   "summary": "Twin City Monuments is a funeral home in Saint Louis Park, MN at 4827 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529204738. Website: https://www.twincitymonumentsmn.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-city-monuments-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-city-monuments-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4827 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9483605,
+    "lon": -93.3412694
+   },
+   "phone": "+19529204738",
+   "website": "https://www.twincitymonumentsmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9494262930",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "anderson-funeral-home-saint-paul",
+   "name": "Anderson Funeral Home",
+   "summary": "Anderson Funeral Home is a funeral home in Saint Paul, MN at 1401 Arcade Street, Saint Paul, MN. Phone: +16517762761. Website: https://andersonfuneralhome.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anderson-funeral-home-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anderson-funeral-home-saint-paul.json",
+   "address": {
+    "streetAddress": "1401 Arcade Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9836629,
+    "lon": -93.0663664
+   },
+   "phone": "+16517762761",
+   "website": "https://andersonfuneralhome.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "bradshaw-funeral-home-white-bear-township",
+   "name": "Bradshaw Funeral Home",
+   "summary": "Bradshaw Funeral Home is a funeral home in White Bear Township, MN at 4600 Greenhaven Drive, White Bear Township, MN 55127. Website: https://www.bradshawfuneral.com/bradshaw--north-suburbs.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bradshaw-funeral-home-white-bear-township/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bradshaw-funeral-home-white-bear-township.json",
+   "address": {
+    "streetAddress": "4600 Greenhaven Drive",
+    "addressLocality": "White Bear Township",
+    "addressRegion": "MN",
+    "postalCode": "55127",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Township",
+   "state": "MN",
+   "zip": "55127",
+   "geo": {
+    "lat": 45.0797248,
+    "lon": -93.0715676
+   },
+   "website": "https://www.bradshawfuneral.com/bradshaw--north-suburbs",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1085733493",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "gearty-delmore-funeral-chapel-plymouth",
+   "name": "Gearty-Delmore Funeral Chapel",
+   "summary": "Gearty-Delmore Funeral Chapel is a funeral home in Plymouth, MN at 15800 37th Avenue North, Plymouth, MN 55446. Website: https://www.gearty-delmore.com/about-us/tucson-funeral-chapel.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gearty-delmore-funeral-chapel-plymouth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gearty-delmore-funeral-chapel-plymouth.json",
+   "address": {
+    "streetAddress": "15800 37th Avenue North",
+    "addressLocality": "Plymouth",
+    "addressRegion": "MN",
+    "postalCode": "55446",
+    "addressCountry": "US"
+   },
+   "city": "Plymouth",
+   "state": "MN",
+   "zip": "55446",
+   "geo": {
+    "lat": 45.0248721,
+    "lon": -93.4811354
+   },
+   "website": "https://www.gearty-delmore.com/about-us/tucson-funeral-chapel",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1234488787",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "gill-brothers-funeral-directors-minneapolis",
+   "name": "Gill Brothers Funeral Directors",
+   "summary": "Gill Brothers Funeral Directors is a funeral home in Minneapolis, MN at 5801 Lyndale Avenue South, Minneapolis, MN 55419. Website: https://www.gillbrothers.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gill-brothers-funeral-directors-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gill-brothers-funeral-directors-minneapolis.json",
+   "address": {
+    "streetAddress": "5801 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.8974641,
+    "lon": -93.2878357
+   },
+   "website": "https://www.gillbrothers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/385471477",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "glenwood-funeral-home-minneapolis",
+   "name": "Glenwood Funeral Home",
+   "summary": "Glenwood Funeral Home is a funeral home in Minneapolis, MN at 1312 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16514425112.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glenwood-funeral-home-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glenwood-funeral-home-minneapolis.json",
+   "address": {
+    "streetAddress": "1312 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9813032,
+    "lon": -93.2980194
+   },
+   "phone": "+16514425112",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/240869840",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "klecar-eagan",
+   "name": "Klecar",
+   "summary": "Klecar is a funeral home in Eagan, MN at 1580 Century Point, Eagan, MN 55121. Website: https://www.klecatskys.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/klecar-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/klecar-eagan.json",
+   "address": {
+    "streetAddress": "1580 Century Point",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55121",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55121",
+   "geo": {
+    "lat": 44.8340097,
+    "lon": -93.1818021
+   },
+   "website": "https://www.klecatskys.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9874740317",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "thurston-deshaw-funeral-home-andover",
+   "name": "Thurston DeShaw Funeral Home",
+   "summary": "Thurston DeShaw Funeral Home is a funeral home in Andover, MN at 13817 Jay Street Northwest, Andover, MN 55304. Phone: +17637677373.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thurston-deshaw-funeral-home-andover/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thurston-deshaw-funeral-home-andover.json",
+   "address": {
+    "streetAddress": "13817 Jay Street Northwest",
+    "addressLocality": "Andover",
+    "addressRegion": "MN",
+    "postalCode": "55304",
+    "addressCountry": "US"
+   },
+   "city": "Andover",
+   "state": "MN",
+   "zip": "55304",
+   "geo": {
+    "lat": 45.2221603,
+    "lon": -93.3104117
+   },
+   "phone": "+17637677373",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9054132621",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "gill-brothers-funeral-chapel-new-hope",
+   "name": "Gill Brothers Funeral Chapel",
+   "summary": "Gill Brothers Funeral Chapel is a funeral home in New Hope, MN at 7300 42nd Avenue North, New Hope, MN 55428.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gill-brothers-funeral-chapel-new-hope/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gill-brothers-funeral-chapel-new-hope.json",
+   "address": {
+    "streetAddress": "7300 42nd Avenue North",
+    "addressLocality": "New Hope",
+    "addressRegion": "MN",
+    "postalCode": "55428",
+    "addressCountry": "US"
+   },
+   "city": "New Hope",
+   "state": "MN",
+   "zip": "55428",
+   "geo": {
+    "lat": 45.033177,
+    "lon": -93.3738378
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/763158455",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "kessler-and-maguire-funeral-home-saint-paul",
+   "name": "Kessler & Maguire Funeral Home",
+   "summary": "Kessler & Maguire Funeral Home is a funeral home in Saint Paul, MN at 640 7th Street West, Saint Paul, MN 55102.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kessler-and-maguire-funeral-home-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kessler-and-maguire-funeral-home-saint-paul.json",
+   "address": {
+    "streetAddress": "640 7th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9343361,
+    "lon": -93.1165223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/243119328",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "kozlak-radulovich-funeral-chapel-minneapolis",
+   "name": "Kozlak-Radulovich Funeral Chapel",
+   "summary": "Kozlak-Radulovich Funeral Chapel is a funeral home in Minneapolis, MN at 1918 Northeast University Avenue, Minneapolis, MN 55418.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kozlak-radulovich-funeral-chapel-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kozlak-radulovich-funeral-chapel-minneapolis.json",
+   "address": {
+    "streetAddress": "1918 Northeast University Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0080537,
+    "lon": -93.2634925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/116781731",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-edina-chapel-edina",
+   "name": "Washburn-McReavy Edina Chapel",
+   "summary": "Washburn-McReavy Edina Chapel is a funeral home in Edina, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-edina-chapel-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-edina-chapel-edina.json",
+   "address": {
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9119805,
+    "lon": -93.3519302
+   },
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/166549570",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-robbinsdale-chapel-robbinsdale",
+   "name": "Washburn-McReavy Robbinsdale Chapel",
+   "summary": "Washburn-McReavy Robbinsdale Chapel is a funeral home in Robbinsdale, MN at 4239 West Broadway Avenue, Robbinsdale, MN 55422.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-robbinsdale-chapel-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-robbinsdale-chapel-robbinsdale.json",
+   "address": {
+    "streetAddress": "4239 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0320384,
+    "lon": -93.3405894
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/762945825",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-nokomis-park-funeral-chapel-minneapolis",
+   "name": "Washburn-McReavy - Nokomis Park Funeral Chapel",
+   "summary": "Washburn-McReavy - Nokomis Park Funeral Chapel is a funeral home in Minneapolis, MN at 1838 East Minnehaha Parkway, Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-nokomis-park-funeral-chapel-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-nokomis-park-funeral-chapel-minneapolis.json",
+   "address": {
+    "streetAddress": "1838 East Minnehaha Parkway",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9166079,
+    "lon": -93.2463444
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/84506738",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-welander-quest-davies-funeral-and-cremation-minneapolis",
+   "name": "Washburn-McReavy Welander Quest-Davies Funeral and Cremation",
+   "summary": "Washburn-McReavy Welander Quest-Davies Funeral and Cremation is a funeral home in Minneapolis, MN at 2301 Hennepin Avenue South, Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-welander-quest-davies-funeral-and-cremation-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-welander-quest-davies-funeral-and-cremation-minneapolis.json",
+   "address": {
+    "streetAddress": "2301 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9600506,
+    "lon": -93.2928851
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835960248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "washburn-mccreavy-minneapolis",
+   "name": "Washburn McCreavy",
+   "summary": "Washburn McCreavy is a funeral home in Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mccreavy-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mccreavy-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0170472,
+    "lon": -93.2468974
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3934354486",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "estes-funeral-chapel-and-cremation-services-minneapolis",
+   "name": "Estes Funeral Chapel and Cremation Services",
+   "summary": "Estes Funeral Chapel and Cremation Services is a funeral home in Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/estes-funeral-chapel-and-cremation-services-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/estes-funeral-chapel-and-cremation-services-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9912083,
+    "lon": -93.3086046
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/839962647",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "gearty-delmore-funeral-chapels-robbinsdale",
+   "name": "Gearty Delmore Funeral Chapels",
+   "summary": "Gearty Delmore Funeral Chapels is a funeral home in Robbinsdale, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gearty-delmore-funeral-chapels-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gearty-delmore-funeral-chapels-robbinsdale.json",
+   "address": {
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0261628,
+    "lon": -93.3326963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/760415838",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "gill-brothers-bloomington",
+   "name": "Gill Brothers",
+   "summary": "Gill Brothers is a funeral home in Bloomington, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gill-brothers-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gill-brothers-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8232911,
+    "lon": -93.2881724
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/953575252",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "kok-funeral-home-saint-paul-park",
+   "name": "KOK Funeral Home",
+   "summary": "KOK Funeral Home is a funeral home in Saint Paul Park, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kok-funeral-home-saint-paul-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kok-funeral-home-saint-paul-park.json",
+   "address": {
+    "addressLocality": "Saint Paul Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8363604,
+    "lon": -92.9892138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603184389",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "koobhmoo-saint-paul",
+   "name": "Koobhmoo",
+   "summary": "Koobhmoo is a funeral home in Saint Paul, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/koobhmoo-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/koobhmoo-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9787259,
+    "lon": -93.0663466
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096321",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "morris-nilsen-funeral-chapel-richfield",
+   "name": "Morris Nilsen Funeral Chapel",
+   "summary": "Morris Nilsen Funeral Chapel is a funeral home in Richfield, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morris-nilsen-funeral-chapel-richfield/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morris-nilsen-funeral-chapel-richfield.json",
+   "address": {
+    "addressLocality": "Richfield",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Richfield",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8842361,
+    "lon": -93.2673524
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/388547584",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "ohalloran-and-murphy-funeral-home-saint-paul",
+   "name": "O'Halloran and Murphy Funeral Home",
+   "summary": "O'Halloran and Murphy Funeral Home is a funeral home in Saint Paul, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ohalloran-and-murphy-funeral-home-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ohalloran-and-murphy-funeral-home-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9240848,
+    "lon": -93.1674869
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/102750954",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-funeral-chapel-eden-prairie",
+   "name": "Washburn McReavy Funeral Chapel",
+   "summary": "Washburn McReavy Funeral Chapel is a funeral home in Eden Prairie, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-funeral-chapel-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-funeral-chapel-eden-prairie.json",
+   "address": {
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8649576,
+    "lon": -93.4584645
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/43411573",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-crystal-lake-minneapolis",
+   "name": "Washburn-McReavy Crystal Lake",
+   "summary": "Washburn-McReavy Crystal Lake is a funeral home in Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-crystal-lake-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-crystal-lake-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0250234,
+    "lon": -93.307723
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/630740587",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "washburn-mcreavy-crystal-lake-funeral-chapel-and-cemetary-minneapolis",
+   "name": "Washburn-McReavy Crystal Lake Funeral Chapel and Cemetary",
+   "summary": "Washburn-McReavy Crystal Lake Funeral Chapel and Cemetary is a funeral home in Minneapolis, MN.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/washburn-mcreavy-crystal-lake-funeral-chapel-and-cemetary-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/washburn-mcreavy-crystal-lake-funeral-chapel-and-cemetary-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0247503,
+    "lon": -93.307861
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/630740586",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

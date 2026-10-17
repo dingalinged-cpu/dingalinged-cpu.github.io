@@ -1,0 +1,160 @@
+{
+ "keyword": "liquor store roseville mn",
+ "slug": "liquor-store-roseville-mn",
+ "place": "Roseville, MN",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in Roseville, MN?",
+ "matches": [
+  "liquor store in Roseville, MN",
+  "liquor store near me (Roseville, MN)",
+  "best liquor store Roseville, MN",
+  "top rated liquor store Roseville, MN",
+  "affordable liquor store Roseville, MN",
+  "emergency liquor store Roseville, MN"
+ ],
+ "answer": "The top unpaid liquor store listing for Roseville, MN is MGM Wine & Spirits (a liquor store in Roseville, MN at 1149 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514886685. Website: https://www.mgmwineandspirits.com/). 4 liquor store businesses are listed for Roseville, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mgm-wine-and-spirits-roseville",
+   "name": "MGM Wine & Spirits",
+   "summary": "MGM Wine & Spirits is a liquor store in Roseville, MN at 1149 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514886685. Website: https://www.mgmwineandspirits.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-wine-and-spirits-roseville.json",
+   "address": {
+    "streetAddress": "1149 Larpenteur Avenue West",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9926016,
+    "lon": -93.1484332
+   },
+   "phone": "+16514886685",
+   "website": "https://www.mgmwineandspirits.com/",
+   "opening_hours": "Mo-Fr 09:00-22:00; Sa 08:00-22:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1914627267",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "top-10-liquors-roseville",
+   "name": "Top 10 Liquors",
+   "summary": "Top 10 Liquors is a liquor store in Roseville, MN at 1609 West County Road C, Roseville, MN. Phone: +16513401846. Website: https://toptenliquors.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-10-liquors-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-10-liquors-roseville.json",
+   "address": {
+    "streetAddress": "1609 West County Road C",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0226394,
+    "lon": -93.1702195
+   },
+   "phone": "+16513401846",
+   "website": "https://toptenliquors.com/",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6566813793",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "total-wine-roseville",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Roseville, MN at 2401 Fairview Avenue North #105, Roseville, MN. Phone: +16516364157. Website: https://www.totalwine.com/store-info/minnesota-roseville-rosedale/1602.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-roseville.json",
+   "address": {
+    "streetAddress": "2401 Fairview Avenue North #105",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0135972,
+    "lon": -93.1801435
+   },
+   "phone": "+16516364157",
+   "website": "https://www.totalwine.com/store-info/minnesota-roseville-rosedale/1602",
+   "opening_hours": "Su 11:00-18:00; Mo-Sa 08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12994941461",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "fairview-wines-and-spirits-roseville",
+   "name": "Fairview Wines & Spirits",
+   "summary": "Fairview Wines & Spirits is a liquor store in Roseville, MN at 2579 Fairview Avenue North, Roseville, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fairview-wines-and-spirits-roseville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fairview-wines-and-spirits-roseville.json",
+   "address": {
+    "streetAddress": "2579 Fairview Avenue North",
+    "addressLocality": "Roseville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Roseville",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0188158,
+    "lon": -93.1778185
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1615043682",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

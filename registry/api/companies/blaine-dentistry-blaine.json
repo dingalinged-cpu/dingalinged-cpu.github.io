@@ -1,0 +1,55 @@
+{
+ "slug": "blaine-dentistry-blaine",
+ "name": "Blaine Dentistry",
+ "categories": [
+  "dentist"
+ ],
+ "keywords": [
+  "dentist",
+  "dentist blaine mn"
+ ],
+ "services": [
+  {
+   "name": "dentist",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1384 109th Avenue Northeast #200",
+  "addressLocality": "Blaine",
+  "addressRegion": "MN",
+  "postalCode": "55434",
+  "addressCountry": "US"
+ },
+ "city": "Blaine",
+ "state": "MN",
+ "zip": "55434",
+ "geo": {
+  "lat": 45.1676549,
+  "lon": -93.2358696
+ },
+ "schema_type": "Dentist",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12516572195",
+ "osm": {
+  "type": "node",
+  "id": 12516572195,
+  "tags_used": {
+   "amenity": "dentist",
+   "healthcare": "dentist"
+  }
+ },
+ "municipality": "Blaine",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/blaine-dentistry-blaine/",
+ "summary": "Blaine Dentistry is a dentist in Blaine, MN at 1384 109th Avenue Northeast #200, Blaine, MN 55434.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

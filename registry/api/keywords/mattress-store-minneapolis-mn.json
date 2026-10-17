@@ -1,0 +1,128 @@
+{
+ "keyword": "mattress store minneapolis mn",
+ "slug": "mattress-store-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "mattress store",
+ "query": "Who are the best mattress store providers in Minneapolis, MN?",
+ "matches": [
+  "mattress store in Minneapolis, MN",
+  "mattress store near me (Minneapolis, MN)",
+  "best mattress store Minneapolis, MN",
+  "top rated mattress store Minneapolis, MN",
+  "affordable mattress store Minneapolis, MN",
+  "emergency mattress store Minneapolis, MN"
+ ],
+ "answer": "The top unpaid mattress store listing for Minneapolis, MN is Mattress Firm (a mattress store in Minneapolis, MN at 1001 West Lake Street, Minneapolis, MN 55408. Phone: +16128279022. Website: https://www.mattressfirm.com/en-us/stores/mn/minneapolis/080037/). 3 mattress store businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mattress-firm-minneapolis",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Minneapolis, MN at 1001 West Lake Street, Minneapolis, MN 55408. Phone: +16128279022. Website: https://www.mattressfirm.com/en-us/stores/mn/minneapolis/080037/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-minneapolis.json",
+   "address": {
+    "streetAddress": "1001 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9480868,
+    "lon": -93.2922859
+   },
+   "phone": "+16128279022",
+   "website": "https://www.mattressfirm.com/en-us/stores/mn/minneapolis/080037/",
+   "opening_hours": "Mo-Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334193689",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "sleep-concepts-minneapolis",
+   "name": "Sleep Concepts",
+   "summary": "Sleep Concepts is a mattress store in Minneapolis, MN at 2516 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128712255.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-concepts-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-concepts-minneapolis.json",
+   "address": {
+    "streetAddress": "2516 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9567707,
+    "lon": -93.2884392
+   },
+   "phone": "+16128712255",
+   "opening_hours": "Mo-Fr 11:00-20:00; Sa-Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/122609608",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "online-mattress-showroom-minneapolis",
+   "name": "Online Mattress Showroom",
+   "summary": "Online Mattress Showroom is a mattress store in Minneapolis, MN.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/online-mattress-showroom-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/online-mattress-showroom-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9554344,
+    "lon": -93.2887837
+   },
+   "opening_hours": "Mo,Tu 11:00-14:00; We,Th 11:00-18:00; Fr 14:00-18:00; Sa,Su 11:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11492340105",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

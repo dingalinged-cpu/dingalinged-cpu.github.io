@@ -1,0 +1,583 @@
+{
+ "place": "Champlin, MN",
+ "slug": "champlin-mn",
+ "count": 17,
+ "updated": "2026-10-17",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "bike shop champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-champlin-mn.json"
+  },
+  {
+   "keyword": "car wash champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-champlin-mn.json"
+  },
+  {
+   "keyword": "daycare champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-champlin-mn.json"
+  },
+  {
+   "keyword": "dentist champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-champlin-mn.json"
+  },
+  {
+   "keyword": "gym champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-champlin-mn.json"
+  },
+  {
+   "keyword": "hair salon champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-champlin-mn.json"
+  },
+  {
+   "keyword": "haircut champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-champlin-mn.json"
+  },
+  {
+   "keyword": "liquor store champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-champlin-mn.json"
+  },
+  {
+   "keyword": "martial arts champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-champlin-mn.json"
+  },
+  {
+   "keyword": "massage champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-champlin-mn.json"
+  },
+  {
+   "keyword": "nail salon champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-champlin-mn.json"
+  },
+  {
+   "keyword": "photographer champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/photographer-champlin-mn.json"
+  },
+  {
+   "keyword": "tax preparation champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-champlin-mn.json"
+  },
+  {
+   "keyword": "tax preparer champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-champlin-mn.json"
+  },
+  {
+   "keyword": "thrift store champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-champlin-mn.json"
+  },
+  {
+   "keyword": "vet champlin mn",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-champlin-mn.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "life-time-champlin",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Champlin, MN at 11989 Champlin Drive, Champlin, MN 55316. Phone: +17635763000. Website: https://www.lifetime.life/life-time-locations/mn-champlin.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-champlin.json",
+   "address": {
+    "streetAddress": "11989 Champlin Drive",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1729617,
+    "lon": -93.39501
+   },
+   "phone": "+17635763000",
+   "website": "https://www.lifetime.life/life-time-locations/mn-champlin.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/136885646",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "little-newtons-champlin",
+   "name": "Little Newtons",
+   "summary": "Little Newtons is a daycare in Champlin, MN at 111 Dean Avenue West, Champlin, MN 55316. Phone: +17633231021. Website: https://littlenewtons.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-newtons-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-newtons-champlin.json",
+   "address": {
+    "streetAddress": "111 Dean Avenue West",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1888226,
+    "lon": -93.4000368
+   },
+   "phone": "+17633231021",
+   "website": "https://littlenewtons.com/",
+   "opening_hours": "Mo-Fr 06:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3669287879",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "project-z-media-champlin",
+   "name": "Project Z Media",
+   "summary": "Project Z Media is a photographer in Champlin, MN at 11433 Florida Avenue North, Champlin, MN 55316. Phone: +16122751482. Website: https://projectzmedia.com/.",
+   "categories": [
+    "photographer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/project-z-media-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/project-z-media-champlin.json",
+   "address": {
+    "streetAddress": "11433 Florida Avenue North",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1622555,
+    "lon": -93.3643991
+   },
+   "phone": "+16122751482",
+   "website": "https://projectzmedia.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10893943282",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sun-spa-champlin",
+   "name": "Sun Spa",
+   "summary": "Sun Spa is a massage studio in Champlin, MN at 514 Jefferson Highway North, Champlin, MN 55316. Phone: +17634329139. Website: https://sunspamn.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-spa-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-spa-champlin.json",
+   "address": {
+    "streetAddress": "514 Jefferson Highway North",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1841853,
+    "lon": -93.3932005
+   },
+   "phone": "+17634329139",
+   "website": "https://sunspamn.com/",
+   "opening_hours": "Mo-Su 09:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9377710587",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "trailhead-cycling-champlin",
+   "name": "Trailhead Cycling",
+   "summary": "Trailhead Cycling is a bike shop in Champlin, MN at 11350 Aquila Drive North, Champlin, MN 55316. Phone: +17637120312. Website: https://www.trailheadcycling.com/.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trailhead-cycling-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trailhead-cycling-champlin.json",
+   "address": {
+    "streetAddress": "11350 Aquila Drive North",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1579573,
+    "lon": -93.3891809
+   },
+   "phone": "+17637120312",
+   "website": "https://www.trailheadcycling.com/",
+   "opening_hours": "Mo-Fr 08:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5431752248",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "anytime-fitness-champlin",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Champlin, MN at 11460 Marketplace Drive, Champlin, MN 55316. Phone: +17634229236. Website: https://www.anytimefitness.com/gyms/284/champlin-mn-55316/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-champlin.json",
+   "address": {
+    "streetAddress": "11460 Marketplace Drive",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1614946,
+    "lon": -93.390021
+   },
+   "phone": "+17634229236",
+   "website": "https://www.anytimefitness.com/gyms/284/champlin-mn-55316/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8151206740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodfellas-barber-studio-champlin",
+   "name": "Goodfellas Barber Studio",
+   "summary": "Goodfellas Barber Studio is a hair salon in Champlin, MN at 518 Jefferson Highway North, Champlin, MN 55316. Phone: +17633253060.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodfellas-barber-studio-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodfellas-barber-studio-champlin.json",
+   "address": {
+    "streetAddress": "518 Jefferson Highway North",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1840267,
+    "lon": -93.3929367
+   },
+   "phone": "+17633253060",
+   "opening_hours": "Tu-Th 10:00-19:00; Fr 9:00-19:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9499571467",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "g-will-liquors-champlin",
+   "name": "G-Will Liquors",
+   "summary": "G-Will Liquors is a liquor store in Champlin, MN at 12153 Champlin Drive, Champlin, MN 55316.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-will-liquors-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-will-liquors-champlin.json",
+   "address": {
+    "streetAddress": "12153 Champlin Drive",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1739311,
+    "lon": -93.3943161
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470093869",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "goodwill-champlin",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Champlin, MN at 11910 Business Park Boulevard North, Champlin, MN 55316.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-champlin.json",
+   "address": {
+    "streetAddress": "11910 Business Park Boulevard North",
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "postalCode": "55316",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "zip": "55316",
+   "geo": {
+    "lat": 45.1705291,
+    "lon": -93.3900067
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/470094662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "block-advisors-champlin",
+   "name": "Block Advisors",
+   "summary": "Block Advisors is a tax preparation service in Champlin, MN.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/block-advisors-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/block-advisors-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1617394,
+    "lon": -93.3906132
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8151238230",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "champlin-dentistry-champlin",
+   "name": "Champlin Dentistry",
+   "summary": "Champlin Dentistry is a dentist in Champlin, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/champlin-dentistry-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/champlin-dentistry-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1588856,
+    "lon": -93.3908206
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7137228124",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "champlin-park-pet-hospital-champlin",
+   "name": "Champlin Park Pet Hospital",
+   "summary": "Champlin Park Pet Hospital is a veterinarian in Champlin, MN.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/champlin-park-pet-hospital-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/champlin-park-pet-hospital-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1525239,
+    "lon": -93.3614223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3012239854",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "karate-champlin",
+   "name": "Karate",
+   "summary": "Karate is a martial arts school in Champlin, MN.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/karate-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/karate-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1617383,
+    "lon": -93.3905046
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8151238233",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "mister-car-wash-champlin",
+   "name": "Mister Car Wash",
+   "summary": "Mister Car Wash is a car wash in Champlin, MN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mister-car-wash-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mister-car-wash-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1766932,
+    "lon": -93.3909406
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1483900354",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "sport-clips-champlin",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Champlin, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1583804,
+    "lon": -93.3908236
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7137228140",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "style-nails-champlin",
+   "name": "Style Nails",
+   "summary": "Style Nails is a nail salon in Champlin, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/style-nails-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/style-nails-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1617374,
+    "lon": -93.3904107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8151238231",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "slug": "unique-cuts-champlin",
+   "name": "Unique Cuts",
+   "summary": "Unique Cuts is a hair salon in Champlin, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/unique-cuts-champlin/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/unique-cuts-champlin.json",
+   "address": {
+    "addressLocality": "Champlin",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Champlin",
+   "state": "MN",
+   "geo": {
+    "lat": 45.1523472,
+    "lon": -93.3614239
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8150211448",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

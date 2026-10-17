@@ -1,0 +1,64 @@
+{
+ "keyword": "mattress store eagan mn",
+ "slug": "mattress-store-eagan-mn",
+ "place": "Eagan, MN",
+ "service": "mattress store",
+ "query": "Who are the best mattress store providers in Eagan, MN?",
+ "matches": [
+  "mattress store in Eagan, MN",
+  "mattress store near me (Eagan, MN)",
+  "best mattress store Eagan, MN",
+  "top rated mattress store Eagan, MN",
+  "affordable mattress store Eagan, MN",
+  "emergency mattress store Eagan, MN"
+ ],
+ "answer": "The top unpaid mattress store listing for Eagan, MN is Original Mattress Factory (a mattress store in Eagan, MN at 1454 Yankee Doodle Road, Eagan, MN 55123. Phone: +16519946994. Website: https://www.originalmattress.com/eagan-minnesota-original-mattress-factory-store). 1 mattress store businesses are listed for Eagan, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "original-mattress-factory-eagan",
+   "name": "Original Mattress Factory",
+   "summary": "Original Mattress Factory is a mattress store in Eagan, MN at 1454 Yankee Doodle Road, Eagan, MN 55123. Phone: +16519946994. Website: https://www.originalmattress.com/eagan-minnesota-original-mattress-factory-store.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/original-mattress-factory-eagan/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/original-mattress-factory-eagan.json",
+   "address": {
+    "streetAddress": "1454 Yankee Doodle Road",
+    "addressLocality": "Eagan",
+    "addressRegion": "MN",
+    "postalCode": "55123",
+    "addressCountry": "US"
+   },
+   "city": "Eagan",
+   "state": "MN",
+   "zip": "55123",
+   "geo": {
+    "lat": 44.8329171,
+    "lon": -93.1710162
+   },
+   "phone": "+16519946994",
+   "website": "https://www.originalmattress.com/eagan-minnesota-original-mattress-factory-store",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12107180046",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

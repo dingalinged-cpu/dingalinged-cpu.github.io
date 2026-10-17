@@ -1,0 +1,82 @@
+{
+ "slug": "goodyear-bloomington-auto-tire-and-glass-bloomington",
+ "name": "Goodyear Bloomington Auto, Tire & Glass",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "oil change",
+  "brake repair",
+  "windshield replacement",
+  "auto repair bloomington mn",
+  "mechanic bloomington mn",
+  "oil change bloomington mn",
+  "brake repair bloomington mn",
+  "windshield replacement bloomington mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "oil change",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "brake repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "windshield replacement",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "9331 East Bloomington Freeway",
+  "addressLocality": "Bloomington",
+  "addressRegion": "MN",
+  "postalCode": "55420",
+  "addressCountry": "US"
+ },
+ "city": "Bloomington",
+ "state": "MN",
+ "zip": "55420",
+ "geo": {
+  "lat": 44.8343912,
+  "lon": -93.2944517
+ },
+ "phone": "+19522240378",
+ "website": "https://lamettrysautotech.com/locations/bl-auto-tire/",
+ "email": "info@qualitycollisiongroup.com",
+ "opening_hours": "Mo-Fr 07:30 – 17:30",
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12520236990",
+ "osm": {
+  "type": "node",
+  "id": 12520236990,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "Bloomington",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-bloomington-auto-tire-and-glass-bloomington/",
+ "summary": "Goodyear Bloomington Auto, Tire & Glass is an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

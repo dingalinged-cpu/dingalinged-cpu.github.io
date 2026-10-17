@@ -1,0 +1,63 @@
+{
+ "keyword": "crossfit saint paul mn",
+ "slug": "crossfit-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "crossfit",
+ "query": "Who are the best crossfit providers in Saint Paul, MN?",
+ "matches": [
+  "crossfit in Saint Paul, MN",
+  "crossfit near me (Saint Paul, MN)",
+  "best crossfit Saint Paul, MN",
+  "top rated crossfit Saint Paul, MN",
+  "affordable crossfit Saint Paul, MN",
+  "emergency crossfit Saint Paul, MN"
+ ],
+ "answer": "The top unpaid crossfit listing for Saint Paul, MN is CrossFit St Paul (a CrossFit gym in Saint Paul, MN at 470 North Cleveland Avenue ##1, Saint Paul, MN 55104. Website: https://www.dorealwork.com/). 1 crossfit businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "crossfit-st-paul-saint-paul",
+   "name": "CrossFit St Paul",
+   "summary": "CrossFit St Paul is a CrossFit gym in Saint Paul, MN at 470 North Cleveland Avenue ##1, Saint Paul, MN 55104. Website: https://www.dorealwork.com/.",
+   "categories": [
+    "crossfit"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossfit-st-paul-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossfit-st-paul-saint-paul.json",
+   "address": {
+    "streetAddress": "470 North Cleveland Avenue ##1",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9550935,
+    "lon": -93.1870766
+   },
+   "website": "https://www.dorealwork.com/",
+   "opening_hours": "Mo-Fr 06:00-19:00; Sa 08:00-12:00; Su 09:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3376638254",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

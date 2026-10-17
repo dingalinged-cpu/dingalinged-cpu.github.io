@@ -1,0 +1,610 @@
+{
+ "keyword": "jewelry store minneapolis mn",
+ "slug": "jewelry-store-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "jewelry store",
+ "query": "Who are the best jewelry store providers in Minneapolis, MN?",
+ "matches": [
+  "jewelry store in Minneapolis, MN",
+  "jewelry store near me (Minneapolis, MN)",
+  "best jewelry store Minneapolis, MN",
+  "top rated jewelry store Minneapolis, MN",
+  "affordable jewelry store Minneapolis, MN",
+  "emergency jewelry store Minneapolis, MN"
+ ],
+ "answer": "The top unpaid jewelry store listing for Minneapolis, MN is Knox Jewelers (a jewelry store in Minneapolis, MN at 2921 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238752. Website: https://www.knoxjewelers.biz/). 18 jewelry store businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "knox-jewelers-minneapolis",
+   "name": "Knox Jewelers",
+   "summary": "Knox Jewelers is a jewelry store in Minneapolis, MN at 2921 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238752. Website: https://www.knoxjewelers.biz/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/knox-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/knox-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "2921 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9495898,
+    "lon": -93.2878574
+   },
+   "phone": "+16128238752",
+   "website": "https://www.knoxjewelers.biz/",
+   "opening_hours": "\"By Appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5289969416",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "lucky-jewelry-minneapolis",
+   "name": "Lucky Jewelry",
+   "summary": "Lucky Jewelry is a jewelry store in Minneapolis, MN at 2447 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128708790. Website: https://luckybrand.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lucky-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lucky-jewelry-minneapolis.json",
+   "address": {
+    "streetAddress": "2447 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9575327,
+    "lon": -93.2776728
+   },
+   "phone": "+16128708790",
+   "website": "https://luckybrand.com/",
+   "opening_hours": "11:30-16:00; Tu off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617523580",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "rock-paper-silver-minneapolis",
+   "name": "Rock Paper Silver",
+   "summary": "Rock Paper Silver is a jewelry store in Minneapolis, MN at 4816 Nicollet Avenue South, Minneapolis, MN 55419. Phone: +16123312482. Website: https://www.deirdreandcompany.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rock-paper-silver-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rock-paper-silver-minneapolis.json",
+   "address": {
+    "streetAddress": "4816 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.915458,
+    "lon": -93.2783201
+   },
+   "phone": "+16123312482",
+   "website": "https://www.deirdreandcompany.com/",
+   "opening_hours": "We 10:00-16:00; Th 11:00-16:00; Sa[3] 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13628521333",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "filigree-jewelers-minneapolis",
+   "name": "Filigree Jewelers",
+   "summary": "Filigree Jewelers is a jewelry store in Minneapolis, MN at 210 North 2nd Street, Minneapolis, MN 55401. Phone: +16124862290. Website: https://filigreejewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/filigree-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/filigree-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "210 North 2nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9848657,
+    "lon": -93.2702944
+   },
+   "phone": "+16124862290",
+   "website": "https://filigreejewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13133932914",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "diamonds-direct-minneapolis",
+   "name": "Diamonds Direct",
+   "summary": "Diamonds Direct is a jewelry store in Minneapolis, MN at 5037 France Avenue South, Minneapolis, MN 55410. Website: https://www.diamondsdirectmn.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/diamonds-direct-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/diamonds-direct-minneapolis.json",
+   "address": {
+    "streetAddress": "5037 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9114315,
+    "lon": -93.3288607
+   },
+   "website": "https://www.diamondsdirectmn.com/",
+   "opening_hours": "Tu-Fr 10:00-17:30; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/829660555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "phuoc-loc-tho-jewelry-minneapolis",
+   "name": "Phuoc-Loc-Tho Jewelry",
+   "summary": "Phuoc-Loc-Tho Jewelry is a jewelry store in Minneapolis, MN at 2510 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128796061.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/phuoc-loc-tho-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/phuoc-loc-tho-jewelry-minneapolis.json",
+   "address": {
+    "streetAddress": "2510 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9569137,
+    "lon": -93.2780643
+   },
+   "phone": "+16128796061",
+   "opening_hours": "\"By Appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617523583",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "thurston-jewelers-minneapolis",
+   "name": "Thurston Jewelers",
+   "summary": "Thurston Jewelers is a jewelry store in Minneapolis, MN at 705 West Lake Street, Minneapolis, MN 55408. Website: https://www.thurstonjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thurston-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thurston-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "705 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9482512,
+    "lon": -93.2885337
+   },
+   "website": "https://www.thurstonjewelers.com/",
+   "opening_hours": "Tu-Fr 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5292649240",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "t-lee-custom-design-jewelry-minneapolis",
+   "name": "t lee custom design jewelry",
+   "summary": "t lee custom design jewelry is a jewelry store in Minneapolis, MN at 509 1/2 Northeast 1st Avenue, Minneapolis, MN. Website: https://www.tleegold.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/t-lee-custom-design-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/t-lee-custom-design-jewelry-minneapolis.json",
+   "address": {
+    "streetAddress": "509 1/2 Northeast 1st Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.990577,
+    "lon": -93.2534315
+   },
+   "website": "https://www.tleegold.com/",
+   "opening_hours": "Tu-Sa 10:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6773414118",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "kims-jewelry-minneapolis",
+   "name": "Kim's Jewelry",
+   "summary": "Kim's Jewelry is a jewelry store in Minneapolis, MN at 2641 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128710631.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kims-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kims-jewelry-minneapolis.json",
+   "address": {
+    "streetAddress": "2641 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.954182,
+    "lon": -93.2776973
+   },
+   "phone": "+16128710631",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619841623",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "van-guilders-goldsmith-minneapolis",
+   "name": "Van Guilder's Goldsmith",
+   "summary": "Van Guilder's Goldsmith is a jewelry store in Minneapolis, MN at 4999 France Avenue South #160, Minneapolis, MN 55410. Website: https://www.vanguilders.biz/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/van-guilders-goldsmith-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/van-guilders-goldsmith-minneapolis.json",
+   "address": {
+    "streetAddress": "4999 France Avenue South #160",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9132705,
+    "lon": -93.3288992
+   },
+   "website": "https://www.vanguilders.biz/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116051",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "linden-hills-jewelers-minneapolis",
+   "name": "Linden Hills Jewelers",
+   "summary": "Linden Hills Jewelers is a jewelry store in Minneapolis, MN at 4305 Upton Avenue South, Minneapolis, MN 55410.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/linden-hills-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/linden-hills-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "4305 Upton Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9243029,
+    "lon": -93.3145303
+   },
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3532499012",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "new-gild-jewelers-minneapolis",
+   "name": "New Gild Jewelers",
+   "summary": "New Gild Jewelers is a jewelry store in Minneapolis, MN at 4300 Upton Avenue South, Minneapolis, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-gild-jewelers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-gild-jewelers-minneapolis.json",
+   "address": {
+    "streetAddress": "4300 Upton Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9245252,
+    "lon": -93.3148403
+   },
+   "opening_hours": "Tu-Fr 11:00-17:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12046904925",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "gittelson-jewlers-minneapolis",
+   "name": "Gittelson Jewlers",
+   "summary": "Gittelson Jewlers is a jewelry store in Minneapolis, MN. Website: https://gittelsonjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gittelson-jewlers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gittelson-jewlers-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9768467,
+    "lon": -93.270105
+   },
+   "website": "https://gittelsonjewelers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12862838542",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "sanchez-jewelry-minneapolis",
+   "name": "Sanchez Jewelry",
+   "summary": "Sanchez Jewelry is a jewelry store in Minneapolis, MN. Phone: +16123517047.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sanchez-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sanchez-jewelry-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9489686,
+    "lon": -93.2604768
+   },
+   "phone": "+16123517047",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11964471534",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "silber-fine-jewlery-minneapolis",
+   "name": "Silber Fine Jewlery",
+   "summary": "Silber Fine Jewlery is a jewelry store in Minneapolis, MN. Website: https://silber.diamonds/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/silber-fine-jewlery-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/silber-fine-jewlery-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.977292,
+    "lon": -93.2714469
+   },
+   "website": "https://silber.diamonds/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12862806767",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "thomas-joseph-and-sons-minneapolis",
+   "name": "Thomas Joseph & Sons",
+   "summary": "Thomas Joseph & Sons is a jewelry store in Minneapolis, MN. Website: https://thomasjosephandsons.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thomas-joseph-and-sons-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thomas-joseph-and-sons-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9742718,
+    "lon": -93.2673664
+   },
+   "website": "https://thomasjosephandsons.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12768888509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "javis-gift-shop-inc-minneapolis",
+   "name": "Javi's Gift Shop Inc.",
+   "summary": "Javi's Gift Shop Inc. is a jewelry store in Minneapolis, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/javis-gift-shop-inc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/javis-gift-shop-inc-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9481981,
+    "lon": -93.2712033
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217048193",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "ny-jewelry-minneapolis",
+   "name": "NY Jewelry",
+   "summary": "NY Jewelry is a jewelry store in Minneapolis, MN.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ny-jewelry-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ny-jewelry-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9763935,
+    "lon": -93.2721145
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5955554287",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

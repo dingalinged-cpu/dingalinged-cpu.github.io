@@ -1,0 +1,60 @@
+{
+ "slug": "upper-post-flats-fort-snelling-unorganized-territory",
+ "name": "Upper Post Flats",
+ "categories": [
+  "property management company"
+ ],
+ "keywords": [
+  "property management company",
+  "property management companies",
+  "property management company fort snelling unorganized territory mn",
+  "property management companies fort snelling unorganized territory mn"
+ ],
+ "services": [
+  {
+   "name": "property management company",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "property management companies",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "Taylor Avenue",
+  "addressLocality": "Fort Snelling Unorganized Territory",
+  "addressRegion": "MN",
+  "postalCode": "55111",
+  "addressCountry": "US"
+ },
+ "city": "Fort Snelling Unorganized Territory",
+ "state": "MN",
+ "zip": "55111",
+ "geo": {
+  "lat": 44.8870289,
+  "lon": -93.1896344
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13124302301",
+ "osm": {
+  "type": "node",
+  "id": 13124302301,
+  "tags_used": {
+   "office": "property_management"
+  }
+ },
+ "municipality": "Fort Snelling Unorganized Territory",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/upper-post-flats-fort-snelling-unorganized-territory/",
+ "summary": "Upper Post Flats is a property management company in Fort Snelling Unorganized Territory, MN at Taylor Avenue, Fort Snelling Unorganized Territory, MN 55111.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

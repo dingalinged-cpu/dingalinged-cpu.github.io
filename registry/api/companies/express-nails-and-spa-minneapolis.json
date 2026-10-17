@@ -1,0 +1,58 @@
+{
+ "slug": "express-nails-and-spa-minneapolis",
+ "name": "Express Nails & Spa",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2617 Southeast University Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55414",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55414",
+ "geo": {
+  "lat": 44.9728505,
+  "lon": -93.2192335
+ },
+ "phone": "+16123547295",
+ "website": "https://www.expressnailsmpls.com/",
+ "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 00:00-17:00",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/6334601251",
+ "osm": {
+  "type": "node",
+  "id": 6334601251,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/express-nails-and-spa-minneapolis/",
+ "summary": "Express Nails & Spa is a nail salon in Minneapolis, MN at 2617 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16123547295. Website: https://www.expressnailsmpls.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,69 @@
+{
+ "slug": "labb-collective-edina",
+ "name": "LABB Collective",
+ "categories": [
+  "waxing"
+ ],
+ "keywords": [
+  "waxing",
+  "facial",
+  "waxing edina mn",
+  "facial edina mn"
+ ],
+ "services": [
+  {
+   "name": "waxing",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "facial",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3941 Market Street",
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "postalCode": "55424",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "zip": "55424",
+ "geo": {
+  "lat": 44.9132957,
+  "lon": -93.3314863
+ },
+ "phone": "+16126055304",
+ "website": "https://labbcollective.com/",
+ "email": "hello@labbcollective.com",
+ "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 10:00-16:00",
+ "social": [
+  "https://www.facebook.com/labbcollective",
+  "https://www.instagram.com/labbcollective/"
+ ],
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12139116022",
+ "osm": {
+  "type": "node",
+  "id": 12139116022,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "eyelash;eyebrow;waxing;skin_care"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/labb-collective-edina/",
+ "summary": "LABB Collective is a waxing salon in Edina, MN at 3941 Market Street, Edina, MN 55424. Phone: +16126055304. Website: https://labbcollective.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

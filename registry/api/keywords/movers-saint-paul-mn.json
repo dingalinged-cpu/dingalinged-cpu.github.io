@@ -1,0 +1,64 @@
+{
+ "keyword": "movers saint paul mn",
+ "slug": "movers-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "movers",
+ "query": "Who are the best movers providers in Saint Paul, MN?",
+ "matches": [
+  "movers in Saint Paul, MN",
+  "movers near me (Saint Paul, MN)",
+  "best movers Saint Paul, MN",
+  "top rated movers Saint Paul, MN",
+  "affordable movers Saint Paul, MN",
+  "emergency movers Saint Paul, MN"
+ ],
+ "answer": "The top unpaid movers listing for Saint Paul, MN is College Muscle Movers (a moving company in Saint Paul, MN at 720 North Prior Avenue, Saint Paul, MN 55104. Phone: +16519174108. Website: https://collegemusclemovers.com/). 1 movers businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "college-muscle-movers-saint-paul",
+   "name": "College Muscle Movers",
+   "summary": "College Muscle Movers is a moving company in Saint Paul, MN at 720 North Prior Avenue, Saint Paul, MN 55104. Phone: +16519174108. Website: https://collegemusclemovers.com/.",
+   "categories": [
+    "movers"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/college-muscle-movers-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/college-muscle-movers-saint-paul.json",
+   "address": {
+    "streetAddress": "720 North Prior Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9624832,
+    "lon": -93.181189
+   },
+   "phone": "+16519174108",
+   "website": "https://collegemusclemovers.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7196011280",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

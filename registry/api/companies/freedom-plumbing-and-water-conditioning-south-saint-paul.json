@@ -1,0 +1,73 @@
+{
+ "slug": "freedom-plumbing-and-water-conditioning-south-saint-paul",
+ "name": "Freedom Plumbing and Water Conditioning",
+ "categories": [
+  "plumber"
+ ],
+ "keywords": [
+  "plumber",
+  "plumbers",
+  "plumbing services",
+  "plumber south saint paul mn",
+  "plumbers south saint paul mn",
+  "plumbing services south saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "plumber",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "plumbers",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "plumbing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "101 Bridgepoint Way #suite 120",
+  "addressLocality": "South Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55075",
+  "addressCountry": "US"
+ },
+ "city": "South Saint Paul",
+ "state": "MN",
+ "zip": "55075",
+ "geo": {
+  "lat": 44.8900959,
+  "lon": -93.0322928
+ },
+ "phone": "+16126998879",
+ "website": "https://freedomplumbingmidwest.com/",
+ "email": "service@freedomplumbingmidwest.com",
+ "opening_hours": "Mo-Fr 07:00-17:00",
+ "social": [
+  "https://www.facebook.com/people/Freedom-Plumbing-and-Water-Conditioning/61551871537369/?mibextid=LQQJ4d"
+ ],
+ "schema_type": "Plumber",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/11728779448",
+ "osm": {
+  "type": "node",
+  "id": 11728779448,
+  "tags_used": {
+   "craft": "plumber"
+  }
+ },
+ "municipality": "South Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/freedom-plumbing-and-water-conditioning-south-saint-paul/",
+ "summary": "Freedom Plumbing and Water Conditioning is a plumber in South Saint Paul, MN at 101 Bridgepoint Way #suite 120, South Saint Paul, MN 55075. Phone: +16126998879. Website: https://freedomplumbingmidwest.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,160 @@
+{
+ "keyword": "financial advisor minneapolis mn",
+ "slug": "financial-advisor-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "financial advisor",
+ "query": "Who are the best financial advisor providers in Minneapolis, MN?",
+ "matches": [
+  "financial advisor in Minneapolis, MN",
+  "financial advisor near me (Minneapolis, MN)",
+  "best financial advisor Minneapolis, MN",
+  "top rated financial advisor Minneapolis, MN",
+  "affordable financial advisor Minneapolis, MN",
+  "emergency financial advisor Minneapolis, MN"
+ ],
+ "answer": "The top unpaid financial advisor listing for Minneapolis, MN is Allodium Investment Consultants, LLC (a financial advisor in Minneapolis, MN at 500 South Washington Avenue ##4400, Minneapolis, MN 55415. Phone: +16122303700. Website: https://allodium.com/). 4 financial advisor businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "allodium-investment-consultants-llc-minneapolis",
+   "name": "Allodium Investment Consultants, LLC",
+   "summary": "Allodium Investment Consultants, LLC is a financial advisor in Minneapolis, MN at 500 South Washington Avenue ##4400, Minneapolis, MN 55415. Phone: +16122303700. Website: https://allodium.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allodium-investment-consultants-llc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allodium-investment-consultants-llc-minneapolis.json",
+   "address": {
+    "streetAddress": "500 South Washington Avenue ##4400",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55415",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55415",
+   "geo": {
+    "lat": 44.9787885,
+    "lon": -93.2604611
+   },
+   "phone": "+16122303700",
+   "website": "https://allodium.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9682325842",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "north-star-resource-group-minneapolis",
+   "name": "North Star Resource Group",
+   "summary": "North Star Resource Group is a financial advisor in Minneapolis, MN at 2701 Southeast University Avenue, Minneapolis, MN 55414. Phone: +16126176000. Website: https://www.northstarfinancial.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-star-resource-group-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-star-resource-group-minneapolis.json",
+   "address": {
+    "streetAddress": "2701 Southeast University Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.97245,
+    "lon": -93.2179914
+   },
+   "phone": "+16126176000",
+   "website": "https://www.northstarfinancial.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6332252025",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "stairway-partners-minneapolis",
+   "name": "Stairway Partners",
+   "summary": "Stairway Partners is a financial advisor in Minneapolis, MN at 4999 France Avenue South #260, Minneapolis, MN 55410. Website: https://www.stairwaypartners.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stairway-partners-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stairway-partners-minneapolis.json",
+   "address": {
+    "streetAddress": "4999 France Avenue South #260",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9126831,
+    "lon": -93.3286776
+   },
+   "website": "https://www.stairwaypartners.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12139116042",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "lottsa-financial-services-inc-minneapolis",
+   "name": "Lottsa Financial Services, Inc.",
+   "summary": "Lottsa Financial Services, Inc. is a financial advisor in Minneapolis, MN.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lottsa-financial-services-inc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lottsa-financial-services-inc-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9698672,
+    "lon": -93.2460454
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12920085949",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

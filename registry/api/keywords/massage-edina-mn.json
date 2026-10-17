@@ -1,0 +1,161 @@
+{
+ "keyword": "massage edina mn",
+ "slug": "massage-edina-mn",
+ "place": "Edina, MN",
+ "service": "massage",
+ "query": "Who are the best massage providers in Edina, MN?",
+ "matches": [
+  "massage in Edina, MN",
+  "massage near me (Edina, MN)",
+  "best massage Edina, MN",
+  "top rated massage Edina, MN",
+  "affordable massage Edina, MN",
+  "emergency massage Edina, MN"
+ ],
+ "answer": "The top unpaid massage listing for Edina, MN is Massage Envy (a massage studio in Edina, MN at 7101 France Avenue South, Edina, MN 55435. Phone: +19529558228. Website: https://www.massageenvy.com/clinics/MN/Edina-.aspx). 4 massage businesses are listed for Edina, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "massage-envy-edina",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Edina, MN at 7101 France Avenue South, Edina, MN 55435. Phone: +19529558228. Website: https://www.massageenvy.com/clinics/MN/Edina-.aspx.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-edina.json",
+   "address": {
+    "streetAddress": "7101 France Avenue South",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8744771,
+    "lon": -93.3282597
+   },
+   "phone": "+19529558228",
+   "website": "https://www.massageenvy.com/clinics/MN/Edina-.aspx",
+   "opening_hours": "Mo-Su 09:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5018640762",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "axon-movement-edina",
+   "name": "Axon Movement",
+   "summary": "Axon Movement is a massage studio in Edina, MN at 4820 West 77th Street #100, Edina, MN 55435. Website: https://www.axon-movement.com/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/axon-movement-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/axon-movement-edina.json",
+   "address": {
+    "streetAddress": "4820 West 77th Street #100",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8641544,
+    "lon": -93.3458522
+   },
+   "website": "https://www.axon-movement.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006863402",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "aervita-integrative-medicine-hyperbarics-edina",
+   "name": "Aervita Integrative Medicine + Hyperbarics",
+   "summary": "Aervita Integrative Medicine + Hyperbarics is a massage studio in Edina, MN at 4820 West 77th Street #150, Edina, MN 55435.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aervita-integrative-medicine-hyperbarics-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aervita-integrative-medicine-hyperbarics-edina.json",
+   "address": {
+    "streetAddress": "4820 West 77th Street #150",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8642188,
+    "lon": -93.3461556
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006819699",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "integrative-massage-edina-edina",
+   "name": "Integrative Massage Edina",
+   "summary": "Integrative Massage Edina is a massage studio in Edina, MN at 4820 West 77th Street #150, Edina, MN 55435.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/integrative-massage-edina-edina/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/integrative-massage-edina-edina.json",
+   "address": {
+    "streetAddress": "4820 West 77th Street #150",
+    "addressLocality": "Edina",
+    "addressRegion": "MN",
+    "postalCode": "55435",
+    "addressCountry": "US"
+   },
+   "city": "Edina",
+   "state": "MN",
+   "zip": "55435",
+   "geo": {
+    "lat": 44.8641608,
+    "lon": -93.3460538
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13006819700",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "milton-m-hurwitz-exercare-fitness-center-saint-paul",
+ "name": "Milton M. Hurwitz ExerCare Fitness Center",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "362 North Walnut Street",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9434043,
+  "lon": -93.1060998
+ },
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13752991061",
+ "osm": {
+  "type": "node",
+  "id": 13752991061,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/milton-m-hurwitz-exercare-fitness-center-saint-paul/",
+ "summary": "Milton M. Hurwitz ExerCare Fitness Center is a gym in Saint Paul, MN at 362 North Walnut Street, Saint Paul, MN.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

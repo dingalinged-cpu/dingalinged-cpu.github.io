@@ -1,0 +1,60 @@
+{
+ "slug": "city-auto-glass-south-saint-paul",
+ "name": "City Auto Glass",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair south saint paul mn",
+  "mechanic south saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "116 Concord Exchange South",
+  "addressLocality": "South Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55075",
+  "addressCountry": "US"
+ },
+ "city": "South Saint Paul",
+ "state": "MN",
+ "zip": "55075",
+ "geo": {
+  "lat": 44.8900553,
+  "lon": -93.0344564
+ },
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/447124068",
+ "osm": {
+  "type": "way",
+  "id": 447124068,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "South Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/city-auto-glass-south-saint-paul/",
+ "summary": "City Auto Glass is an auto repair shop in South Saint Paul, MN at 116 Concord Exchange South, South Saint Paul, MN 55075.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

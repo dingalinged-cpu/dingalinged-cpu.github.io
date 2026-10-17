@@ -1,0 +1,23 @@
+Mattress Firm is a mattress store in Eden Prairie, MN at 335 Prairie Center Drive, Eden Prairie, MN 55344. Phone: +19529950303. Website: https://www.mattressfirm.com/en-us/stores/mn/eden-prairie/080015/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 335 Prairie Center Drive, Eden Prairie, MN 55344
+- City: Eden Prairie
+- State: MN
+- ZIP: 55344
+- Coordinates: 44.8551302, -93.4197732
+- Phone: +19529950303
+- Website: https://www.mattressfirm.com/en-us/stores/mn/eden-prairie/080015/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-eden-prairie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-eden-prairie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/44994116 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

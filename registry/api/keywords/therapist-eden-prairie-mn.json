@@ -1,0 +1,59 @@
+{
+ "keyword": "therapist eden prairie mn",
+ "slug": "therapist-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "therapist",
+ "query": "Who are the best therapist providers in Eden Prairie, MN?",
+ "matches": [
+  "therapist in Eden Prairie, MN",
+  "therapist near me (Eden Prairie, MN)",
+  "best therapist Eden Prairie, MN",
+  "top rated therapist Eden Prairie, MN",
+  "affordable therapist Eden Prairie, MN",
+  "emergency therapist Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid therapist listing for Eden Prairie, MN is WW Studio (a therapy practice in Eden Prairie, MN at 8250 Commonwealth Drive, Eden Prairie, MN). 1 therapist businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "ww-studio-eden-prairie",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in Eden Prairie, MN at 8250 Commonwealth Drive, Eden Prairie, MN.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-eden-prairie.json",
+   "address": {
+    "streetAddress": "8250 Commonwealth Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8547745,
+    "lon": -93.4339202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4145440399",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

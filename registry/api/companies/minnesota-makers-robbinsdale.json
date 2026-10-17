@@ -1,0 +1,54 @@
+{
+ "slug": "minnesota-makers-robbinsdale",
+ "name": "Minnesota Makers",
+ "categories": [
+  "gift shop"
+ ],
+ "keywords": [
+  "gift shop",
+  "gift shop robbinsdale mn"
+ ],
+ "services": [
+  {
+   "name": "gift shop",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "4180 West Broadway Avenue",
+  "addressLocality": "Robbinsdale",
+  "addressRegion": "MN",
+  "postalCode": "55422",
+  "addressCountry": "US"
+ },
+ "city": "Robbinsdale",
+ "state": "MN",
+ "zip": "55422",
+ "geo": {
+  "lat": 45.0313342,
+  "lon": -93.3392123
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7129066241",
+ "osm": {
+  "type": "node",
+  "id": 7129066241,
+  "tags_used": {
+   "shop": "gift"
+  }
+ },
+ "municipality": "Robbinsdale",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-makers-robbinsdale/",
+ "summary": "Minnesota Makers is a gift shop in Robbinsdale, MN at 4180 West Broadway Avenue, Robbinsdale, MN 55422.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

@@ -1,0 +1,23 @@
+Maverick Chiropractic is a chiropractor in Wayzata, MN.
+
+# Maverick Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: Wayzata, MN
+- City: Wayzata
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9724291, -93.5012957
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/maverick-chiropractic-wayzata/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/maverick-chiropractic-wayzata.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8541854049 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

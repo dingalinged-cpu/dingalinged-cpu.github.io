@@ -1,0 +1,61 @@
+{
+ "keyword": "chiropractor burnsville mn",
+ "slug": "chiropractor-burnsville-mn",
+ "place": "Burnsville, MN",
+ "service": "chiropractor",
+ "query": "Who are the best chiropractor providers in Burnsville, MN?",
+ "matches": [
+  "chiropractor in Burnsville, MN",
+  "chiropractor near me (Burnsville, MN)",
+  "best chiropractor Burnsville, MN",
+  "top rated chiropractor Burnsville, MN",
+  "affordable chiropractor Burnsville, MN",
+  "emergency chiropractor Burnsville, MN"
+ ],
+ "answer": "The top unpaid chiropractor listing for Burnsville, MN is McCombs (a chiropractor in Burnsville, MN at 2550, Burnsville, MN. Phone: +19528464149. Website: https://www.mccombschiro.com/). 1 chiropractor businesses are listed for Burnsville, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "mccombs-burnsville",
+   "name": "McCombs",
+   "summary": "McCombs is a chiropractor in Burnsville, MN at 2550, Burnsville, MN. Phone: +19528464149. Website: https://www.mccombschiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mccombs-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mccombs-burnsville.json",
+   "address": {
+    "streetAddress": "2550",
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "geo": {
+    "lat": 44.7919735,
+    "lon": -93.2400737
+   },
+   "phone": "+19528464149",
+   "website": "https://www.mccombschiro.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12801289387",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

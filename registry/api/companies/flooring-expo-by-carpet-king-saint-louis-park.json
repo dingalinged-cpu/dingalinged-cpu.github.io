@@ -1,0 +1,56 @@
+{
+ "slug": "flooring-expo-by-carpet-king-saint-louis-park",
+ "name": "Flooring Expo by Carpet King",
+ "categories": [
+  "flooring companies"
+ ],
+ "keywords": [
+  "flooring companies",
+  "flooring companies saint louis park mn"
+ ],
+ "services": [
+  {
+   "name": "flooring companies",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "8221 State Highway 7 Service Road",
+  "addressLocality": "Saint Louis Park",
+  "addressRegion": "MN",
+  "postalCode": "55426",
+  "addressCountry": "US"
+ },
+ "city": "Saint Louis Park",
+ "state": "MN",
+ "zip": "55426",
+ "geo": {
+  "lat": 44.9353429,
+  "lon": -93.3837219
+ },
+ "phone": "+19529252344",
+ "website": "https://www.flooringexpo.com/locations/st-louis-park/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/9604315568",
+ "osm": {
+  "type": "node",
+  "id": 9604315568,
+  "tags_used": {
+   "shop": "flooring"
+  }
+ },
+ "municipality": "Saint Louis Park",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/flooring-expo-by-carpet-king-saint-louis-park/",
+ "summary": "Flooring Expo by Carpet King is a flooring company in Saint Louis Park, MN at 8221 State Highway 7 Service Road, Saint Louis Park, MN 55426. Phone: +19529252344. Website: https://www.flooringexpo.com/locations/st-louis-park/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

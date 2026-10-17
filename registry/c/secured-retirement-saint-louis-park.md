@@ -1,0 +1,23 @@
+Secured Retirement is a financial advisor in Saint Louis Park, MN at 6121 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19524603260. Website: https://securedretirements.com/.
+
+# Secured Retirement
+
+- Category: financial advisor
+- Services: financial advisor
+- Address: 6121 Excelsior Boulevard, Saint Louis Park, MN 55416
+- City: Saint Louis Park
+- State: MN
+- ZIP: 55416
+- Coordinates: 44.9275092, -93.3575602
+- Phone: +19524603260
+- Website: https://securedretirements.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/secured-retirement-saint-louis-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/secured-retirement-saint-louis-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/914286344 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,55 @@
+{
+ "slug": "mccombs-burnsville",
+ "name": "McCombs",
+ "categories": [
+  "chiropractor"
+ ],
+ "keywords": [
+  "chiropractor",
+  "chiropractor burnsville mn"
+ ],
+ "services": [
+  {
+   "name": "chiropractor",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "2550",
+  "addressLocality": "Burnsville",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Burnsville",
+ "state": "MN",
+ "geo": {
+  "lat": 44.7919735,
+  "lon": -93.2400737
+ },
+ "phone": "+19528464149",
+ "website": "https://www.mccombschiro.com/",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12801289387",
+ "osm": {
+  "type": "node",
+  "id": 12801289387,
+  "tags_used": {
+   "healthcare": "alternative",
+   "healthcare:speciality": "chiropractic"
+  }
+ },
+ "municipality": "Burnsville",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/mccombs-burnsville/",
+ "summary": "McCombs is a chiropractor in Burnsville, MN at 2550, Burnsville, MN. Phone: +19528464149. Website: https://www.mccombschiro.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

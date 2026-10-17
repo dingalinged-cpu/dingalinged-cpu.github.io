@@ -1,0 +1,62 @@
+{
+ "keyword": "hair salon newport mn",
+ "slug": "hair-salon-newport-mn",
+ "place": "Newport, MN",
+ "service": "hair salon",
+ "query": "Who are the best hair salon providers in Newport, MN?",
+ "matches": [
+  "hair salon in Newport, MN",
+  "hair salon near me (Newport, MN)",
+  "best hair salon Newport, MN",
+  "top rated hair salon Newport, MN",
+  "affordable hair salon Newport, MN",
+  "emergency hair salon Newport, MN"
+ ],
+ "answer": "The top unpaid hair salon listing for Newport, MN is Fay's Newport Style Salon (a hair salon in Newport, MN at 745 High Street #4, Newport, MN 55055. Website: https://faysnewportstylesalon.weebly.com/). 1 hair salon businesses are listed for Newport, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "fays-newport-style-salon-newport",
+   "name": "Fay's Newport Style Salon",
+   "summary": "Fay's Newport Style Salon is a hair salon in Newport, MN at 745 High Street #4, Newport, MN 55055. Website: https://faysnewportstylesalon.weebly.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fays-newport-style-salon-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fays-newport-style-salon-newport.json",
+   "address": {
+    "streetAddress": "745 High Street #4",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.875462,
+    "lon": -93.0007109
+   },
+   "website": "https://faysnewportstylesalon.weebly.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/977366471",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

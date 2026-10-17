@@ -1,0 +1,56 @@
+{
+ "slug": "the-fix-studio-minneapolis",
+ "name": "The Fix Studio",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3725 Minnehaha Avenue",
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "postalCode": "55406",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "zip": "55406",
+ "geo": {
+  "lat": 44.9350285,
+  "lon": -93.2242949
+ },
+ "phone": "+16122200215",
+ "website": "https://www.thefixstudio.com/",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/8881094341",
+ "osm": {
+  "type": "node",
+  "id": 8881094341,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-fix-studio-minneapolis/",
+ "summary": "The Fix Studio is a gym in Minneapolis, MN at 3725 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16122200215. Website: https://www.thefixstudio.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

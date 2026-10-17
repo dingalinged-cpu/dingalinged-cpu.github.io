@@ -1,0 +1,838 @@
+{
+ "keyword": "hair salon saint louis park mn",
+ "slug": "hair-salon-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "hair salon",
+ "query": "Who are the best hair salon providers in Saint Louis Park, MN?",
+ "matches": [
+  "hair salon in Saint Louis Park, MN",
+  "hair salon near me (Saint Louis Park, MN)",
+  "best hair salon Saint Louis Park, MN",
+  "top rated hair salon Saint Louis Park, MN",
+  "affordable hair salon Saint Louis Park, MN",
+  "emergency hair salon Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid hair salon listing for Saint Louis Park, MN is Great Clips (a hair salon in Saint Louis Park, MN at 8136 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529337525. Website: https://salons.greatclips.com/us/mn/st-louis-park/8136-hwy-7). 24 hair salon businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "great-clips-saint-louis-park-n2249045442",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Saint Louis Park, MN at 8136 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529337525. Website: https://salons.greatclips.com/us/mn/st-louis-park/8136-hwy-7.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-saint-louis-park-n2249045442/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-saint-louis-park-n2249045442.json",
+   "address": {
+    "streetAddress": "8136 Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9368369,
+    "lon": -93.3833528
+   },
+   "phone": "+19529337525",
+   "website": "https://salons.greatclips.com/us/mn/st-louis-park/8136-hwy-7",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-17:00; Su 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2249045442",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "hair-district-saint-louis-park",
+   "name": "Hair District",
+   "summary": "Hair District is a hair salon in Saint Louis Park, MN at 3725 Grand Way, Saint Louis Park, MN 55416. Phone: +19529296900. Website: https://www.thehairdistrict.com/st-louis-park/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-district-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-district-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3725 Grand Way",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9344552,
+    "lon": -93.3401333
+   },
+   "phone": "+19529296900",
+   "website": "https://www.thehairdistrict.com/st-louis-park/",
+   "opening_hours": "Mo-Th 09:00-20:00; Fr 10:30-18:00; Sa 09:00-16:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1907408854",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "hour-rose-salon-saint-louis-park",
+   "name": "Hour Rose Salon",
+   "summary": "Hour Rose Salon is a hair salon in Saint Louis Park, MN at 6600 West Lake Street, Saint Louis Park, MN 55426. Phone: +16122327805. Website: https://www.hourrosesalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hour-rose-salon-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hour-rose-salon-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6600 West Lake Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9407,
+    "lon": -93.3622276
+   },
+   "phone": "+16122327805",
+   "website": "https://www.hourrosesalon.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509546050",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "tillverkare-saint-louis-park",
+   "name": "Tillverkare",
+   "summary": "Tillverkare is a hair salon in Saint Louis Park, MN at 4608 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16129292381. Website: https://www.tillverkareforhair.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tillverkare-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tillverkare-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4608 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9340084,
+    "lon": -93.3384461
+   },
+   "phone": "+16129292381",
+   "website": "https://www.tillverkareforhair.com/",
+   "opening_hours": "Mo \"By appointment only\"; Tu-Th 08:00-20:00; Fr 08:00-16:00; Sa 08:00-16:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4124161394",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "barbers-in-the-park-saint-louis-park",
+   "name": "Barbers In the Park",
+   "summary": "Barbers In the Park is a hair salon in Saint Louis Park, MN at 7124 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +19529266633. Website: https://www.facebook.com/BarbersInThePark/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barbers-in-the-park-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barbers-in-the-park-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7124 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9497109,
+    "lon": -93.3705626
+   },
+   "phone": "+19529266633",
+   "website": "https://www.facebook.com/BarbersInThePark/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/611859980",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "fantastic-sams-saint-louis-park",
+   "name": "Fantastic Sams",
+   "summary": "Fantastic Sams is a hair salon in Saint Louis Park, MN at 5005 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19523450003. Website: https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-louis-park-mn.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5005 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9311348,
+    "lon": -93.3452005
+   },
+   "phone": "+19523450003",
+   "website": "https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-louis-park-mn",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2246717595",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "fantastic-sams-saint-louis-park-n9610330948",
+   "name": "Fantastic Sams",
+   "summary": "Fantastic Sams is a hair salon in Saint Louis Park, MN at 5330 Cedar Lake Road #400, Saint Louis Park, MN 55416. Phone: +19529330082. Website: https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-louis-park-mn-0.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-saint-louis-park-n9610330948/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-saint-louis-park-n9610330948.json",
+   "address": {
+    "streetAddress": "5330 Cedar Lake Road #400",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9627629,
+    "lon": -93.3480012
+   },
+   "phone": "+19529330082",
+   "website": "https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-louis-park-mn-0",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9610330948",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "great-clips-saint-louis-park",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Saint Louis Park, MN at 1650 Park Place Boulevard #103, Saint Louis Park, MN 55416. Phone: +19525448787. Website: https://salons.greatclips.com/us/mn/st-louis-park/1650-park-place-blvd.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1650 Park Place Boulevard #103",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9663431,
+    "lon": -93.3499347
+   },
+   "phone": "+19525448787",
+   "website": "https://salons.greatclips.com/us/mn/st-louis-park/1650-park-place-blvd",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1449678601",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "hair-and-makeup-by-bria-rose-saint-louis-park",
+   "name": "Hair and Makeup by Bria Rose",
+   "summary": "Hair and Makeup by Bria Rose is a hair salon in Saint Louis Park, MN at 4050 Brookside Avenue South, Saint Louis Park, MN 55416. Phone: +19524847333. Website: https://hair-and-makeup-by-bria-rose.business.site/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-and-makeup-by-bria-rose-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-and-makeup-by-bria-rose-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4050 Brookside Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.927899,
+    "lon": -93.3558958
+   },
+   "phone": "+19524847333",
+   "website": "https://hair-and-makeup-by-bria-rose.business.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9583997756",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "hair-cult-inc-saint-louis-park",
+   "name": "Hair Cult Inc",
+   "summary": "Hair Cult Inc is a hair salon in Saint Louis Park, MN at 5704 36th Street West, Saint Louis Park, MN 55416. Phone: +19524176697. Website: https://www.haircultinc.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-cult-inc-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-cult-inc-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5704 36th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9379488,
+    "lon": -93.3520319
+   },
+   "phone": "+19524176697",
+   "website": "https://www.haircultinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9591245741",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "harlowe-salon-saint-louis-park",
+   "name": "Harlowe Salon",
+   "summary": "Harlowe Salon is a hair salon in Saint Louis Park, MN at 6414 Lake Street West, Saint Louis Park, MN 55426. Phone: +16125627717. Website: https://www.harlowesalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harlowe-salon-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harlowe-salon-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6414 Lake Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9418473,
+    "lon": -93.3606048
+   },
+   "phone": "+16125627717",
+   "website": "https://www.harlowesalon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13731085902",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "loc-starz-natural-hair-saint-louis-park",
+   "name": "Loc Starz Natural Hair",
+   "summary": "Loc Starz Natural Hair is a hair salon in Saint Louis Park, MN at 6532 Lake Street West, Saint Louis Park, MN 55426. Phone: +16123774614. Website: https://minneapolis-loc-starz.business.site/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/loc-starz-natural-hair-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/loc-starz-natural-hair-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6532 Lake Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9409538,
+    "lon": -93.3618496
+   },
+   "phone": "+16123774614",
+   "website": "https://minneapolis-loc-starz.business.site/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604654527",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "londons-limited-hair-salon-saint-louis-park",
+   "name": "London's Limited Hair Salon",
+   "summary": "London's Limited Hair Salon is a hair salon in Saint Louis Park, MN at 4015 Yosemite Avenue South, Saint Louis Park, MN 55416. Phone: +19529264626. Website: https://www.londonslimited.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/londons-limited-hair-salon-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/londons-limited-hair-salon-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4015 Yosemite Avenue South",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9288133,
+    "lon": -93.3529078
+   },
+   "phone": "+19529264626",
+   "website": "https://www.londonslimited.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/914286358",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "revolution-salon-saint-louis-park",
+   "name": "Revolution Salon",
+   "summary": "Revolution Salon is a hair salon in Saint Louis Park, MN at 5600 36th Street West, Saint Louis Park, MN 55416. Phone: +16122848222. Website: https://revolutionsalonmpls.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/revolution-salon-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/revolution-salon-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5600 36th Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9379598,
+    "lon": -93.3502532
+   },
+   "phone": "+16122848222",
+   "website": "https://revolutionsalonmpls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9590892954",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "sport-clips-saint-louis-park",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Saint Louis Park, MN at 8320A Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529333536. Website: https://haircutmenstlouisparkmn.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8320A Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9372835,
+    "lon": -93.3849847
+   },
+   "phone": "+19529333536",
+   "website": "https://haircutmenstlouisparkmn.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/491835974",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "tangles-and-co-salon-saint-louis-park",
+   "name": "Tangles and Co Salon",
+   "summary": "Tangles and Co Salon is a hair salon in Saint Louis Park, MN at 6801 Wayzata Boulevard #2, Saint Louis Park, MN 55426. Phone: +19527464617. Website: https://tanglesandcosalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tangles-and-co-salon-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tangles-and-co-salon-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6801 Wayzata Boulevard #2",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9707823,
+    "lon": -93.3658612
+   },
+   "phone": "+19527464617",
+   "website": "https://tanglesandcosalon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9900659208",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "thomas-charles-salon-saint-louis-park",
+   "name": "Thomas Charles Salon",
+   "summary": "Thomas Charles Salon is a hair salon in Saint Louis Park, MN at 4008 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529254277. Website: https://thomascharlessalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thomas-charles-salon-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thomas-charles-salon-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4008 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9487253,
+    "lon": -93.3307473
+   },
+   "phone": "+19529254277",
+   "website": "https://thomascharlessalon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1015686531",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "fadesss-barber-studio-saint-louis-park",
+   "name": "Fadesss Barber Studio",
+   "summary": "Fadesss Barber Studio is a hair salon in Saint Louis Park, MN at 8005 Minnetonka Boulevard, Saint Louis Park, MN 55426. Phone: +19529354428.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fadesss-barber-studio-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fadesss-barber-studio-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8005 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.949217,
+    "lon": -93.3813426
+   },
+   "phone": "+19529354428",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9671484194",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "montes-barbers-saint-louis-park",
+   "name": "Monte's Barbers",
+   "summary": "Monte's Barbers is a hair salon in Saint Louis Park, MN at 6528 Lake Street West, Saint Louis Park, MN 55426. Phone: +19529229384.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/montes-barbers-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/montes-barbers-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6528 Lake Street West",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9410504,
+    "lon": -93.3617167
+   },
+   "phone": "+19529229384",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9604654526",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "swoon-lash-beauty-lounge-saint-louis-park",
+   "name": "Swoon Lash + Beauty Lounge",
+   "summary": "Swoon Lash + Beauty Lounge is a hair salon in Saint Louis Park, MN at 6610 West Lake Street, Saint Louis Park, MN 55426. Website: https://swoonbeautylounge.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swoon-lash-beauty-lounge-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swoon-lash-beauty-lounge-saint-louis-park.json",
+   "address": {
+    "streetAddress": "6610 West Lake Street",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9405838,
+    "lon": -93.3623219
+   },
+   "website": "https://swoonbeautylounge.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/509546052",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "a-barbers-touch-saint-louis-park",
+   "name": "A Barber's Touch",
+   "summary": "A Barber's Touch is a hair salon in Saint Louis Park, MN at 7121 Cedar Lake Road, Saint Louis Park, MN 55426.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-barbers-touch-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-barbers-touch-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7121 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9592111,
+    "lon": -93.3704766
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/702348824",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "jurgens-salon-saint-louis-park",
+   "name": "Jurgen's Salon",
+   "summary": "Jurgen's Salon is a hair salon in Saint Louis Park, MN at 4831 Minnetonka Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jurgens-salon-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jurgens-salon-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4831 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.948362,
+    "lon": -93.3413494
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9494262931",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "regis-saint-louis-park",
+   "name": "Regis",
+   "summary": "Regis is a hair salon in Saint Louis Park, MN at 8318 Minnesota State Highway 7, Saint Louis Park, MN 55426.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/regis-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/regis-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8318 Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9372056,
+    "lon": -93.384986
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/491835973",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "roosters-mens-grooming-center-saint-louis-park",
+   "name": "Roosters Men's Grooming Center",
+   "summary": "Roosters Men's Grooming Center is a hair salon in Saint Louis Park, MN at 1683 West End Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roosters-mens-grooming-center-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roosters-mens-grooming-center-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1683 West End Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9659763,
+    "lon": -93.3475567
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2150776547",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

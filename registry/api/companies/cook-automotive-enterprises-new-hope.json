@@ -1,0 +1,60 @@
+{
+ "slug": "cook-automotive-enterprises-new-hope",
+ "name": "Cook Automotive Enterprises",
+ "categories": [
+  "auto repair"
+ ],
+ "keywords": [
+  "auto repair",
+  "mechanic",
+  "auto repair new hope mn",
+  "mechanic new hope mn"
+ ],
+ "services": [
+  {
+   "name": "auto repair",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "mechanic",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "7100 42nd Avenue North",
+  "addressLocality": "New Hope",
+  "addressRegion": "MN",
+  "postalCode": "55428",
+  "addressCountry": "US"
+ },
+ "city": "New Hope",
+ "state": "MN",
+ "zip": "55428",
+ "geo": {
+  "lat": 45.0330547,
+  "lon": -93.3706528
+ },
+ "schema_type": "AutoRepair",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/763158450",
+ "osm": {
+  "type": "way",
+  "id": 763158450,
+  "tags_used": {
+   "shop": "car_repair"
+  }
+ },
+ "municipality": "New Hope",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/cook-automotive-enterprises-new-hope/",
+ "summary": "Cook Automotive Enterprises is an auto repair shop in New Hope, MN at 7100 42nd Avenue North, New Hope, MN 55428.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

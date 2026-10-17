@@ -1,0 +1,23 @@
+Head to Toe is a hair salon in Minneapolis, MN at 2445 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128710303. Website: https://locu.com/.
+
+# Head to Toe
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2445 Nicollet Avenue South, Minneapolis, MN 55404
+- City: Minneapolis
+- State: MN
+- ZIP: 55404
+- Coordinates: 44.95758, -93.2775849
+- Phone: +16128710303
+- Website: https://locu.com/
+- Email: n/a
+- Opening hours (OSM syntax): 10:00-20:00; Tu off
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/head-to-toe-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/head-to-toe-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4617523581 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

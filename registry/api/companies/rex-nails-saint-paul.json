@@ -1,0 +1,57 @@
+{
+ "slug": "rex-nails-saint-paul",
+ "name": "Rex Nails",
+ "categories": [
+  "nail salon"
+ ],
+ "keywords": [
+  "nail salon",
+  "nail salon saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "nail salon",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "298 Larpenteur Avenue East",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55117",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55117",
+ "geo": {
+  "lat": 44.991181,
+  "lon": -93.087955
+ },
+ "phone": "+16513488936",
+ "website": "https://rexnails.net/",
+ "schema_type": "NailSalon",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4553452090",
+ "osm": {
+  "type": "node",
+  "id": 4553452090,
+  "tags_used": {
+   "shop": "beauty",
+   "beauty": "nails"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/rex-nails-saint-paul/",
+ "summary": "Rex Nails is a nail salon in Saint Paul, MN at 298 Larpenteur Avenue East, Saint Paul, MN 55117. Phone: +16513488936. Website: https://rexnails.net/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

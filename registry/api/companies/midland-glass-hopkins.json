@@ -1,0 +1,54 @@
+{
+ "slug": "midland-glass-hopkins",
+ "name": "Midland Glass",
+ "categories": [
+  "window repair"
+ ],
+ "keywords": [
+  "window repair",
+  "window repair hopkins mn"
+ ],
+ "services": [
+  {
+   "name": "window repair",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "410 11th Avenue South",
+  "addressLocality": "Hopkins",
+  "addressRegion": "MN",
+  "postalCode": "55343",
+  "addressCountry": "US"
+ },
+ "city": "Hopkins",
+ "state": "MN",
+ "zip": "55343",
+ "geo": {
+  "lat": 44.9182955,
+  "lon": -93.4146879
+ },
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12099776256",
+ "osm": {
+  "type": "node",
+  "id": 12099776256,
+  "tags_used": {
+   "craft": "glaziery"
+  }
+ },
+ "municipality": "Hopkins",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/midland-glass-hopkins/",
+ "summary": "Midland Glass is a window repair service in Hopkins, MN at 410 11th Avenue South, Hopkins, MN 55343.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

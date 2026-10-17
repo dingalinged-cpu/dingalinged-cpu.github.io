@@ -1,0 +1,68 @@
+{
+ "slug": "infinity-insurance-agency-saint-michael",
+ "name": "Infinity Insurance Agency",
+ "categories": [
+  "insurance agent"
+ ],
+ "keywords": [
+  "insurance agent",
+  "insurance agency",
+  "insurance agents",
+  "insurance agent saint michael mn",
+  "insurance agency saint michael mn",
+  "insurance agents saint michael mn"
+ ],
+ "services": [
+  {
+   "name": "insurance agent",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agency",
+   "basis": "mapped from OpenStreetMap tags"
+  },
+  {
+   "name": "insurance agents",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "601 Central Avenue West",
+  "addressLocality": "Saint Michael",
+  "addressRegion": "MN",
+  "postalCode": "55376",
+  "addressCountry": "US"
+ },
+ "city": "Saint Michael",
+ "state": "MN",
+ "zip": "55376",
+ "geo": {
+  "lat": 45.207313,
+  "lon": -93.6758322
+ },
+ "phone": "+17634970722",
+ "website": "https://www.infinityinsmn.com/",
+ "schema_type": "InsuranceAgency",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12050054862",
+ "osm": {
+  "type": "node",
+  "id": 12050054862,
+  "tags_used": {
+   "office": "insurance"
+  }
+ },
+ "municipality": "Saint Michael",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-05-31",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/infinity-insurance-agency-saint-michael/",
+ "summary": "Infinity Insurance Agency is an insurance agent in Saint Michael, MN at 601 Central Avenue West, Saint Michael, MN 55376. Phone: +17634970722. Website: https://www.infinityinsmn.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

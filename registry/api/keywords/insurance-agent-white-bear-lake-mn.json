@@ -1,0 +1,119 @@
+{
+ "keyword": "insurance agent white bear lake mn",
+ "slug": "insurance-agent-white-bear-lake-mn",
+ "place": "White Bear Lake, MN",
+ "service": "insurance agent",
+ "query": "Who are the best insurance agent providers in White Bear Lake, MN?",
+ "matches": [
+  "insurance agent in White Bear Lake, MN",
+  "insurance agent near me (White Bear Lake, MN)",
+  "best insurance agent White Bear Lake, MN",
+  "top rated insurance agent White Bear Lake, MN",
+  "affordable insurance agent White Bear Lake, MN",
+  "emergency insurance agent White Bear Lake, MN"
+ ],
+ "answer": "The top unpaid insurance agent listing for White Bear Lake, MN is Gallivan Insurance Agency (an insurance agent in White Bear Lake, MN at 12493 Forest Boulevard North, White Bear Lake, MN 55110). 3 insurance agent businesses are listed for White Bear Lake, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "gallivan-insurance-agency-white-bear-lake",
+   "name": "Gallivan Insurance Agency",
+   "summary": "Gallivan Insurance Agency is an insurance agent in White Bear Lake, MN at 12493 Forest Boulevard North, White Bear Lake, MN 55110.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gallivan-insurance-agency-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gallivan-insurance-agency-white-bear-lake.json",
+   "address": {
+    "streetAddress": "12493 Forest Boulevard North",
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "postalCode": "55110",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "zip": "55110",
+   "geo": {
+    "lat": 45.1306413,
+    "lon": -93.0011748
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6516594240",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "american-family-insurance-white-bear-lake",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in White Bear Lake, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0510466,
+    "lon": -92.9840388
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597127802",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "state-farm-white-bear-lake",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in White Bear Lake, MN.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-white-bear-lake/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-white-bear-lake.json",
+   "address": {
+    "addressLocality": "White Bear Lake",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "White Bear Lake",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0505737,
+    "lon": -92.9959831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12597140438",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

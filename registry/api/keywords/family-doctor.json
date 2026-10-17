@@ -1,0 +1,502 @@
+{
+ "keyword": "family doctor",
+ "slug": "family-doctor",
+ "place": "the United States",
+ "service": "family doctor",
+ "query": "Who are the best family doctor providers in the United States?",
+ "matches": [
+  "family doctor in the United States",
+  "family doctor near me (the United States)",
+  "best family doctor the United States",
+  "top rated family doctor the United States",
+  "affordable family doctor the United States",
+  "emergency family doctor the United States"
+ ],
+ "answer": "The top unpaid family doctor listing for the United States is Action Care Community Clinic & Dental (a family medicine practice in Bloomington, MN at France Avenue South, Bloomington, MN 55431. Phone: +19526666000. Website: https://www.actioncareclinic.com/). 14 family doctor businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "action-care-community-clinic-and-dental-bloomington",
+   "name": "Action Care Community Clinic & Dental",
+   "summary": "Action Care Community Clinic & Dental is a family medicine practice in Bloomington, MN at France Avenue South, Bloomington, MN 55431. Phone: +19526666000. Website: https://www.actioncareclinic.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/action-care-community-clinic-and-dental-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/action-care-community-clinic-and-dental-bloomington.json",
+   "address": {
+    "streetAddress": "France Avenue South",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8116821,
+    "lon": -93.3324288
+   },
+   "phone": "+19526666000",
+   "website": "https://www.actioncareclinic.com/",
+   "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13783820543",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "allina-medical-clinic-minneapolis",
+   "name": "Allina Medical Clinic",
+   "summary": "Allina Medical Clinic is a family medicine practice in Minneapolis, MN at 2800 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16127754800. Website: https://account.allinahealth.org/locations/71.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allina-medical-clinic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allina-medical-clinic-minneapolis.json",
+   "address": {
+    "streetAddress": "2800 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9515183,
+    "lon": -93.2986945
+   },
+   "phone": "+16127754800",
+   "website": "https://account.allinahealth.org/locations/71",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1459256379",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "bloomington-public-health-bloomington",
+   "name": "Bloomington Public Health",
+   "summary": "Bloomington Public Health is a family medicine practice in Bloomington, MN at 1900 West Old Shakopee Road, Bloomington, MN 55431. Phone: +19525638900. Website: https://www.bloomingtonmn.gov/ph/public-health.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bloomington-public-health-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bloomington-public-health-bloomington.json",
+   "address": {
+    "streetAddress": "1900 West Old Shakopee Road",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "postalCode": "55431",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "zip": "55431",
+   "geo": {
+    "lat": 44.8225447,
+    "lon": -93.3044687
+   },
+   "phone": "+19525638900",
+   "website": "https://www.bloomingtonmn.gov/ph/public-health",
+   "opening_hours": "Mo-Fr 08:00-16:30; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/854053251",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "entira-family-clinic-west-saint-paul",
+   "name": "Entira Family Clinic",
+   "summary": "Entira Family Clinic is a family medicine practice in West Saint Paul, MN at 234 Wentworth Avenue East, West Saint Paul, MN 55118. Phone: +16514552940. Website: https://entirafamilyclinics.com/primary-care-clinics/west-st-paul/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/entira-family-clinic-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/entira-family-clinic-west-saint-paul.json",
+   "address": {
+    "streetAddress": "234 Wentworth Avenue East",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8975511,
+    "lon": -93.0742947
+   },
+   "phone": "+16514552940",
+   "website": "https://entirafamilyclinics.com/primary-care-clinics/west-st-paul/",
+   "opening_hours": "Mo, Th 07:00-17:00, Tu, We, Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6034077131",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "entira-family-clinics-saint-paul",
+   "name": "Entira Family Clinics",
+   "summary": "Entira Family Clinics is a family medicine practice in Saint Paul, MN at 1050 Larpenteur Avenue West, Saint Paul, MN 55113. Phone: +16514872831. Website: https://entirafamilyclinics.com/primary-care-clinics/como-roseville/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/entira-family-clinics-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/entira-family-clinics-saint-paul.json",
+   "address": {
+    "streetAddress": "1050 Larpenteur Avenue West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55113",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55113",
+   "geo": {
+    "lat": 44.9916416,
+    "lon": -93.1451363
+   },
+   "phone": "+16514872831",
+   "website": "https://entirafamilyclinics.com/primary-care-clinics/como-roseville/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7147762887",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "peoples-center-clinics-and-services-minneapolis",
+   "name": "People's Center Clinics & Services",
+   "summary": "People's Center Clinics & Services is a family medicine practice in Minneapolis, MN at 425 20th Avenue South, Minneapolis, MN 55454. Phone: +16123324973. Website: https://www.peoples-center.org/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peoples-center-clinics-and-services-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peoples-center-clinics-and-services-minneapolis.json",
+   "address": {
+    "streetAddress": "425 20th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55454",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55454",
+   "geo": {
+    "lat": 44.9692535,
+    "lon": -93.2437753
+   },
+   "phone": "+16123324973",
+   "website": "https://www.peoples-center.org/",
+   "opening_hours": "Mo 08:30-17:00; Tu-Th 08:30-20:00; Fr 08:30-17:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6433139167",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "healthpartners-specialty-center-401-building-saint-paul",
+   "name": "HealthPartners Specialty Center 401 Building",
+   "summary": "HealthPartners Specialty Center 401 Building is a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/healthpartners-specialty-center-401-building-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/healthpartners-specialty-center-401-building-saint-paul.json",
+   "address": {
+    "streetAddress": "401 Phalen Boulevard",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55130",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55130",
+   "geo": {
+    "lat": 44.964889,
+    "lon": -93.0844197
+   },
+   "phone": "+16512547400",
+   "website": "https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/91197963",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "north-suburban-family-physicians-clinic-lino-lakes",
+   "name": "North Suburban Family Physicians Clinic",
+   "summary": "North Suburban Family Physicians Clinic is a family medicine practice in Lino Lakes, MN at 576 Apollo Drive, Lino Lakes, MN 55014. Phone: +19529676620. Website: https://www.healthpartners.com/care/find/location/primary-care-clinics/healthpartners-north-suburban-family-physicians/lino-lakes/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-suburban-family-physicians-clinic-lino-lakes/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-suburban-family-physicians-clinic-lino-lakes.json",
+   "address": {
+    "streetAddress": "576 Apollo Drive",
+    "addressLocality": "Lino Lakes",
+    "addressRegion": "MN",
+    "postalCode": "55014",
+    "addressCountry": "US"
+   },
+   "city": "Lino Lakes",
+   "state": "MN",
+   "zip": "55014",
+   "geo": {
+    "lat": 45.1809333,
+    "lon": -93.1148029
+   },
+   "phone": "+19529676620",
+   "website": "https://www.healthpartners.com/care/find/location/primary-care-clinics/healthpartners-north-suburban-family-physicians/lino-lakes/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13968018278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "northwest-family-clinics-rogers",
+   "name": "Northwest Family Clinics",
+   "summary": "Northwest Family Clinics is a family medicine practice in Rogers, MN at 21395 John Milless Drive #Suite 100, Rogers, MN 55374. Phone: +17635046400. Website: https://www.northwestfamilyclinics.com/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/northwest-family-clinics-rogers/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/northwest-family-clinics-rogers.json",
+   "address": {
+    "streetAddress": "21395 John Milless Drive #Suite 100",
+    "addressLocality": "Rogers",
+    "addressRegion": "MN",
+    "postalCode": "55374",
+    "addressCountry": "US"
+   },
+   "city": "Rogers",
+   "state": "MN",
+   "zip": "55374",
+   "geo": {
+    "lat": 45.1920835,
+    "lon": -93.5508165
+   },
+   "phone": "+17635046400",
+   "website": "https://www.northwestfamilyclinics.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7061386957",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "indian-health-board-minneapolis",
+   "name": "Indian Health Board",
+   "summary": "Indian Health Board is a dentist in Minneapolis, MN at 1315 East 24th Street, Minneapolis, MN 55404. Website: https://indianhealthboard.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/indian-health-board-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/indian-health-board-minneapolis.json",
+   "address": {
+    "streetAddress": "1315 East 24th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9588953,
+    "lon": -93.255337
+   },
+   "website": "https://indianhealthboard.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/111560459",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "north-memorial-health-clinic-brooklyn-park",
+   "name": "North Memorial Health Clinic",
+   "summary": "North Memorial Health Clinic is a family medicine practice in Brooklyn Park, MN at 8559 Edinbrook Pkwy. #Ste. 100, Brooklyn Park, MN 55443.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-memorial-health-clinic-brooklyn-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-memorial-health-clinic-brooklyn-park.json",
+   "address": {
+    "streetAddress": "8559 Edinbrook Pkwy. #Ste. 100",
+    "addressLocality": "Brooklyn Park",
+    "addressRegion": "MN",
+    "postalCode": "55443",
+    "addressCountry": "US"
+   },
+   "city": "Brooklyn Park",
+   "state": "MN",
+   "zip": "55443",
+   "geo": {
+    "lat": 45.1103544,
+    "lon": -93.3096762
+   },
+   "opening_hours": "Mo-Fr 07:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8143276701",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "greenway-primary-care-clinic-minneapolis",
+   "name": "Greenway Primary Care Clinic",
+   "summary": "Greenway Primary Care Clinic is a family medicine practice in Minneapolis, MN at Lake Street West, Minneapolis, MN.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greenway-primary-care-clinic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greenway-primary-care-clinic-minneapolis.json",
+   "address": {
+    "streetAddress": "Lake Street West",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9489499,
+    "lon": -93.3218459
+   },
+   "opening_hours": "Mo,We,Fr 07:00-17:00; Tu,Th 08:00-18:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6701050770",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "m-health-fairview-clinic-vadnais-heights-vadnais-heights",
+   "name": "M Health Fairview Clinic - Vadnais Heights",
+   "summary": "M Health Fairview Clinic - Vadnais Heights is a family medicine practice in Vadnais Heights, MN at 480 County Highway 96, Vadnais Heights, MN 55127.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-health-fairview-clinic-vadnais-heights-vadnais-heights/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-health-fairview-clinic-vadnais-heights-vadnais-heights.json",
+   "address": {
+    "streetAddress": "480 County Highway 96",
+    "addressLocality": "Vadnais Heights",
+    "addressRegion": "MN",
+    "postalCode": "55127",
+    "addressCountry": "US"
+   },
+   "city": "Vadnais Heights",
+   "state": "MN",
+   "zip": "55127",
+   "geo": {
+    "lat": 45.078729,
+    "lon": -93.0807336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1333160062",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "park-nicollet-clinic-eden-prairie-eden-prairie",
+   "name": "Park Nicollet Clinic Eden Prairie",
+   "summary": "Park Nicollet Clinic Eden Prairie is a family medicine practice in Eden Prairie, MN at 8455 Flying Cloud Drive, Eden Prairie, MN 55344.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-nicollet-clinic-eden-prairie-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-nicollet-clinic-eden-prairie-eden-prairie.json",
+   "address": {
+    "streetAddress": "8455 Flying Cloud Drive",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8501009,
+    "lon": -93.433707
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12754668080",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

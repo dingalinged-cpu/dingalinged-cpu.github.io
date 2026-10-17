@@ -1,0 +1,648 @@
+{
+ "keyword": "bakery saint paul mn",
+ "slug": "bakery-saint-paul-mn",
+ "place": "Saint Paul, MN",
+ "service": "bakery",
+ "query": "Who are the best bakery providers in Saint Paul, MN?",
+ "matches": [
+  "bakery in Saint Paul, MN",
+  "bakery near me (Saint Paul, MN)",
+  "best bakery Saint Paul, MN",
+  "top rated bakery Saint Paul, MN",
+  "affordable bakery Saint Paul, MN",
+  "emergency bakery Saint Paul, MN"
+ ],
+ "answer": "The top unpaid bakery listing for Saint Paul, MN is Hot Hands Pie & Biscuit (a bakery in Saint Paul, MN at 272 Snelling Avenue South #Suite 100, Saint Paul, MN 55105. Phone: +16513001503. Website: https://www.hothandspie.com/). 19 bakery businesses are listed for Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "hot-hands-pie-and-biscuit-saint-paul",
+   "name": "Hot Hands Pie & Biscuit",
+   "summary": "Hot Hands Pie & Biscuit is a bakery in Saint Paul, MN at 272 Snelling Avenue South #Suite 100, Saint Paul, MN 55105. Phone: +16513001503. Website: https://www.hothandspie.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hot-hands-pie-and-biscuit-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hot-hands-pie-and-biscuit-saint-paul.json",
+   "address": {
+    "streetAddress": "272 Snelling Avenue South #Suite 100",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9333565,
+    "lon": -93.166742
+   },
+   "phone": "+16513001503",
+   "website": "https://www.hothandspie.com/",
+   "opening_hours": "Tu-Sa 08:00-15:00; Su 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7011585366",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "la-boulangerie-marguerite-saint-paul",
+   "name": "La Boulangerie Marguerite",
+   "summary": "La Boulangerie Marguerite is a bakery in Saint Paul, MN at 1279 Randolph Avenue, Saint Paul, MN 55105. Phone: +16516999292. Website: https://la-marg.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-boulangerie-marguerite-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-boulangerie-marguerite-saint-paul.json",
+   "address": {
+    "streetAddress": "1279 Randolph Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9270844,
+    "lon": -93.1541032
+   },
+   "phone": "+16516999292",
+   "website": "https://la-marg.com/",
+   "opening_hours": "Mo 06:00-12:00; Tu-Sa 06:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6616544140",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "saint-paul-flatbread-saint-paul",
+   "name": "Saint Paul Flatbread",
+   "summary": "Saint Paul Flatbread is a bakery in Saint Paul, MN at 439 Robert Street South, Saint Paul, MN 55107. Phone: +16512918700. Website: https://stpaulflatbread.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-paul-flatbread-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-paul-flatbread-saint-paul.json",
+   "address": {
+    "streetAddress": "439 Robert Street South",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55107",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55107",
+   "geo": {
+    "lat": 44.9326583,
+    "lon": -93.0810994
+   },
+   "phone": "+16512918700",
+   "website": "https://stpaulflatbread.com/",
+   "opening_hours": "Mo-Fr 09:30-18:00, Sa 9:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241060330",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "so-yen-saint-paul",
+   "name": "So Yen",
+   "summary": "So Yen is a bakery in Saint Paul, MN at 275 4th Street East, Saint Paul, MN 55101. Phone: +16512195175. Website: https://www.soyendesserts.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/so-yen-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/so-yen-saint-paul.json",
+   "address": {
+    "streetAddress": "275 4th Street East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9491896,
+    "lon": -93.0854651
+   },
+   "phone": "+16512195175",
+   "website": "https://www.soyendesserts.com/",
+   "opening_hours": "Fr-Su 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13806880201",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "wuollet-bakery-saint-paul",
+   "name": "Wuollet Bakery",
+   "summary": "Wuollet Bakery is a bakery in Saint Paul, MN at 1080 Grand Avenue, Saint Paul, MN 55105. Phone: +16512929035. Website: https://wuollet.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wuollet-bakery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wuollet-bakery-saint-paul.json",
+   "address": {
+    "streetAddress": "1080 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9398744,
+    "lon": -93.1457516
+   },
+   "phone": "+16512929035",
+   "website": "https://wuollet.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1313774047",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "brake-bread-saint-paul",
+   "name": "Brake Bread",
+   "summary": "Brake Bread is a bakery in Saint Paul, MN at 1174 7th Street West, Saint Paul, MN 55102. Phone: +16513009136.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brake-bread-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brake-bread-saint-paul.json",
+   "address": {
+    "streetAddress": "1174 7th Street West",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55102",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55102",
+   "geo": {
+    "lat": 44.9236774,
+    "lon": -93.1322323
+   },
+   "phone": "+16513009136",
+   "opening_hours": "We-Su 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13305293216",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "breadsmith-saint-paul",
+   "name": "Breadsmith",
+   "summary": "Breadsmith is a bakery in Saint Paul, MN at 1579 Grand Avenue, Saint Paul, MN 55105. Phone: +16516903224.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/breadsmith-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/breadsmith-saint-paul.json",
+   "address": {
+    "streetAddress": "1579 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9402198,
+    "lon": -93.1668006
+   },
+   "phone": "+16516903224",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1400543917",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "don-panchos-bakery-saint-paul",
+   "name": "Don Panchos Bakery",
+   "summary": "Don Panchos Bakery is a bakery in Saint Paul, MN at 140 Cesar Chavez Street, Saint Paul, MN 55107. Phone: +16512258744.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/don-panchos-bakery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/don-panchos-bakery-saint-paul.json",
+   "address": {
+    "streetAddress": "140 Cesar Chavez Street",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55107",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55107",
+   "geo": {
+    "lat": 44.9303996,
+    "lon": -93.0794916
+   },
+   "phone": "+16512258744",
+   "opening_hours": "Mo-Su 06:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1110410008",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "the-buttered-tin-saint-paul",
+   "name": "The Buttered Tin",
+   "summary": "The Buttered Tin is a bakery in Saint Paul, MN at 237 7th Street East, Saint Paul, MN 55101. Website: https://www.thebutteredtin.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-buttered-tin-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-buttered-tin-saint-paul.json",
+   "address": {
+    "streetAddress": "237 7th Street East",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55101",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55101",
+   "geo": {
+    "lat": 44.9510213,
+    "lon": -93.0889238
+   },
+   "website": "https://www.thebutteredtin.com/",
+   "opening_hours": "Mo-Su 07:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2458087334",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "trung-nam-french-bakery-saint-paul",
+   "name": "Trung Nam French Bakery",
+   "summary": "Trung Nam French Bakery is a bakery in Saint Paul, MN at 739 University Avenue, Saint Paul, MN 55104. Phone: +16512290887.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trung-nam-french-bakery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trung-nam-french-bakery-saint-paul.json",
+   "address": {
+    "streetAddress": "739 University Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.9561207,
+    "lon": -93.1310682
+   },
+   "phone": "+16512290887",
+   "opening_hours": "Mo-Sa 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/118935034",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "great-harvest-bread-co-saint-paul",
+   "name": "Great Harvest Bread Co",
+   "summary": "Great Harvest Bread Co is a bakery in Saint Paul, MN at 534 Selby Avenue, Saint Paul, MN. Phone: +16512211057.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-co-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-harvest-bread-co-saint-paul.json",
+   "address": {
+    "streetAddress": "534 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9464701,
+    "lon": -93.1226782
+   },
+   "phone": "+16512211057",
+   "opening_hours": "Sa 07:00-17:00,07:30-16:00; Su 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3134022834",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "pajai-fruit-arrangements-and-bakery-saint-paul",
+   "name": "PaJai Fruit Arrangements and Bakery",
+   "summary": "PaJai Fruit Arrangements and Bakery is a bakery in Saint Paul, MN. Phone: +16513382872. Website: https://www.pajaiarrangement.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pajai-fruit-arrangements-and-bakery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pajai-fruit-arrangements-and-bakery-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9553631,
+    "lon": -93.1305196
+   },
+   "phone": "+16513382872",
+   "website": "https://www.pajaiarrangement.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13109142310",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "sweet-sensation-saint-paul",
+   "name": "Sweet Sensation",
+   "summary": "Sweet Sensation is a bakery in Saint Paul, MN at 886 Payne Avenue, Saint Paul, MN. Phone: +16517710177.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sweet-sensation-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sweet-sensation-saint-paul.json",
+   "address": {
+    "streetAddress": "886 Payne Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9680696,
+    "lon": -93.0733986
+   },
+   "phone": "+16517710177",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12264762999",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "x2-bakery-saint-paul",
+   "name": "X2 Bakery",
+   "summary": "X2 Bakery is a bakery in Saint Paul, MN at 1830 Saint Clair Avenue, Saint Paul, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/x2-bakery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/x2-bakery-saint-paul.json",
+   "address": {
+    "streetAddress": "1830 Saint Clair Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9341547,
+    "lon": -93.1777215
+   },
+   "opening_hours": "Mo-Tu off; We-Su 07:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13290917631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "highland-cafe-and-bakery-saint-paul",
+   "name": "Highland Cafe and Bakery",
+   "summary": "Highland Cafe and Bakery is a bakery in Saint Paul, MN. Website: https://www.highlandcafeandbakery.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/highland-cafe-and-bakery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/highland-cafe-and-bakery-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9175983,
+    "lon": -93.1852516
+   },
+   "website": "https://www.highlandcafeandbakery.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/660909480",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "baking-bettys-saint-paul",
+   "name": "Baking Betty's",
+   "summary": "Baking Betty's is a bakery in Saint Paul, MN at 1700 Grand Avenue, Saint Paul, MN 55105.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baking-bettys-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baking-bettys-saint-paul.json",
+   "address": {
+    "streetAddress": "1700 Grand Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9399576,
+    "lon": -93.172354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3497689947",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "morelos-bakery-saint-paul",
+   "name": "Morelos Bakery",
+   "summary": "Morelos Bakery is a bakery in Saint Paul, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morelos-bakery-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morelos-bakery-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.978966,
+    "lon": -93.0657061
+   },
+   "opening_hours": "Mo-Su 08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/605096319",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "millys-cakes-saint-paul",
+   "name": "Milly's Cakes",
+   "summary": "Milly's Cakes is a bakery in Saint Paul, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/millys-cakes-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/millys-cakes-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9333409,
+    "lon": -93.0846283
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/486819723",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "vikings-and-goddesses-saint-paul",
+   "name": "Vikings & Goddesses",
+   "summary": "Vikings & Goddesses is a bakery in Saint Paul, MN.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vikings-and-goddesses-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vikings-and-goddesses-saint-paul.json",
+   "address": {
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482238,
+    "lon": -93.1864408
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12188404666",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

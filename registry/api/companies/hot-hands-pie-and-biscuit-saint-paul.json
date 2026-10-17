@@ -1,0 +1,57 @@
+{
+ "slug": "hot-hands-pie-and-biscuit-saint-paul",
+ "name": "Hot Hands Pie & Biscuit",
+ "categories": [
+  "bakery"
+ ],
+ "keywords": [
+  "bakery",
+  "bakery saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "bakery",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "272 Snelling Avenue South #Suite 100",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55105",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55105",
+ "geo": {
+  "lat": 44.9333565,
+  "lon": -93.166742
+ },
+ "phone": "+16513001503",
+ "website": "https://www.hothandspie.com/",
+ "opening_hours": "Tu-Sa 08:00-15:00; Su 09:00-14:00",
+ "schema_type": "Bakery",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/7011585366",
+ "osm": {
+  "type": "node",
+  "id": 7011585366,
+  "tags_used": {
+   "shop": "bakery"
+  }
+ },
+ "municipality": "Saint Paul",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/hot-hands-pie-and-biscuit-saint-paul/",
+ "summary": "Hot Hands Pie & Biscuit is a bakery in Saint Paul, MN at 272 Snelling Avenue South #Suite 100, Saint Paul, MN 55105. Phone: +16513001503. Website: https://www.hothandspie.com/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

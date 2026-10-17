@@ -1,0 +1,55 @@
+{
+ "slug": "arden-shoreview-animal-hospital-saint-paul",
+ "name": "Arden Shoreview Animal Hospital",
+ "categories": [
+  "vet"
+ ],
+ "keywords": [
+  "vet",
+  "vet arden hills mn",
+  "vet saint paul mn"
+ ],
+ "services": [
+  {
+   "name": "vet",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "1261 County Road E West",
+  "addressLocality": "Saint Paul",
+  "addressRegion": "MN",
+  "postalCode": "55112",
+  "addressCountry": "US"
+ },
+ "city": "Saint Paul",
+ "state": "MN",
+ "zip": "55112",
+ "geo": {
+  "lat": 45.0505778,
+  "lon": -93.1537501
+ },
+ "schema_type": "VeterinaryCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/1333410638",
+ "osm": {
+  "type": "way",
+  "id": 1333410638,
+  "tags_used": {
+   "amenity": "veterinary"
+  }
+ },
+ "municipality": "Arden Hills",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/arden-shoreview-animal-hospital-saint-paul/",
+ "summary": "Arden Shoreview Animal Hospital is a veterinarian in Saint Paul, MN at 1261 County Road E West, Saint Paul, MN 55112.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

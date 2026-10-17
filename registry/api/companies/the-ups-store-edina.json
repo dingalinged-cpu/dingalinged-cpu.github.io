@@ -1,0 +1,59 @@
+{
+ "slug": "the-ups-store-edina",
+ "name": "The UPS Store",
+ "categories": [
+  "printing services"
+ ],
+ "keywords": [
+  "printing services",
+  "printing services edina mn"
+ ],
+ "services": [
+  {
+   "name": "printing services",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "5021 Vernon Avenue",
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "postalCode": "55436",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "zip": "55436",
+ "geo": {
+  "lat": 44.9116417,
+  "lon": -93.3543939
+ },
+ "website": "https://locations.theupsstore.com/mn/edina/5021-vernon-ave",
+ "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 12:00-17:00",
+ "brand": "The UPS Store",
+ "wikidata": "Q7771029",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/1908446285",
+ "osm": {
+  "type": "node",
+  "id": 1908446285,
+  "tags_used": {
+   "shop": "copyshop",
+   "amenity": "post_office"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-edina/",
+ "summary": "The UPS Store is a printing service in Edina, MN at 5021 Vernon Avenue, Edina, MN 55436. Website: https://locations.theupsstore.com/mn/edina/5021-vernon-ave.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

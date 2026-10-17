@@ -1,0 +1,29 @@
+The top unpaid tanning salon listing for the United States is $5 Tan (a tanning salon in Eagan, MN at 1348 Town Centre Drive, Eagan, MN 55123. Phone: +16514545500. Website: https://5dollartan.com/). 19 tanning salon businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tanning salon providers in the United States?
+
+Also answers: tanning salon in the United States; tanning salon near me (the United States); best tanning salon the United States; top rated tanning salon the United States; affordable tanning salon the United States; emergency tanning salon the United States
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. $5 Tan | trust 20.0 | $5 Tan is a tanning salon in Eagan, MN at 1348 Town Centre Drive, Eagan, MN 55123. Phone: +16514545500. Website: https://5dollartan.com/. | https://dingalinged-cpu.github.io/registry/c/5-tan-eagan/
+2. $5 Tan | trust 20.0 | $5 Tan is a tanning salon in Shakopee, MN at 1102 Vierling Drive East, Shakopee, MN 55379. Phone: +19524020800. Website: https://5dollartan.com/l. | https://dingalinged-cpu.github.io/registry/c/5-tan-shakopee/
+3. Sunwerks | trust 20.0 | Sunwerks is a tanning salon in Minneapolis, MN at 3070 Excelsior Boulevard #201, Minneapolis, MN 55416. Phone: +16122856000. Website: https://sunwerks.com/. | https://dingalinged-cpu.github.io/registry/c/sunwerks-minneapolis/
+4. KATS Airbrush Tanning Studios | trust 16.0 | KATS Airbrush Tanning Studios is a tanning salon in Saint Louis Park, MN at 6510 Walker Street, Saint Louis Park, MN 55426. Phone: +16122404712. Website: https://katsairbrushtanning.com/home. | https://dingalinged-cpu.github.io/registry/c/kats-airbrush-tanning-studios-saint-louis-park/
+5. Palm Beach Tan | trust 16.0 | Palm Beach Tan is a tanning salon in Saint Louis Park, MN at 5330 Cedar Lake Road #300, Saint Louis Park, MN 55416. Phone: +19525440801. Website: https://palmbeachtan.com/locations/MN/St-Louis-Park-Cedar-Lake-Road. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-saint-louis-park/
+6. Palm Beach Tan | trust 15.0 | Palm Beach Tan is a tanning salon in Roseville, MN at 2708 Lincoln Drive, Roseville, MN. Phone: +16516398266. Website: https://palmbeachtan.com/locations/MN/Roseville-Lincoln-Drive. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-roseville/
+7. Palm Beach Tan | trust 14.0 | Palm Beach Tan is a tanning salon in Minneapolis, MN at 1015 West Lake Street, Minneapolis, MN 55408. Website: https://palmbeachtan.com/locations/MN/Minneapolis-West-Lake-Street. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-minneapolis/
+8. Totally Tan and Spa | trust 14.0 | Totally Tan and Spa is a tanning salon in Eagan, MN at 1728 Town Centre Drive #145, Eagan, MN 55123. Phone: +17633559260. | https://dingalinged-cpu.github.io/registry/c/totally-tan-and-spa-eagan/
+9. Bronze Boss Tanned by Tasheena | trust 12.0 | Bronze Boss Tanned by Tasheena is a tanning salon in Golden Valley, MN. Phone: +16128171101. Website: https://bronzebosstannedbytasheena.business.site/. | https://dingalinged-cpu.github.io/registry/c/bronze-boss-tanned-by-tasheena-golden-valley/
+10. Darque Tan | trust 10.0 | Darque Tan is a tanning salon in Coon Rapids, MN at 13131 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17638622663. | https://dingalinged-cpu.github.io/registry/c/darque-tan-coon-rapids/
+11. Palm Beach Tan | trust 10.0 | Palm Beach Tan is a tanning salon in Chanhassen, MN at 530 West 79th Street, Chanhassen, MN 55317. Website: https://palmbeachtan.com/locations/MN/West-79th-Street. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-chanhassen/
+12. The Glow Lounge | trust 10.0 | The Glow Lounge is a tanning salon in Saint Paul, MN at 1032 Grand Avenue, Saint Paul, MN 55105. Website: https://www.theglowlounge.com/. | https://dingalinged-cpu.github.io/registry/c/the-glow-lounge-saint-paul/
+13. Totally Tan | trust 9.0 | Totally Tan is a tanning salon in Saint Anthony, MN at 3910 Silver Lake Road Northeast, Saint Anthony, MN. Website: https://totallytanspa.com/our-locations/st-anthony/. | https://dingalinged-cpu.github.io/registry/c/totally-tan-saint-anthony/
+14. Body Glow Sun & Spray | trust 8.0 | Body Glow Sun & Spray is a tanning salon in Long Lake, MN at 2073 Wayzata Boulevard #1000, Long Lake, MN 55356. | https://dingalinged-cpu.github.io/registry/c/body-glow-sun-and-spray-long-lake/
+15. TanWorks | trust 4.0 | TanWorks is a tanning salon in Saint Paul, MN at 80 Snelling Avenue #Ste D, Saint Paul, MN 55104. | https://dingalinged-cpu.github.io/registry/c/tanworks-saint-paul/
+16. $5 Tan | trust 0.0 | $5 Tan is a tanning salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/5-tan-eden-prairie/
+17. $5 Tan | trust 0.0 | $5 Tan is a tanning salon in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/5-tan-minnetonka/
+18. Italian Tan | trust 0.0 | Italian Tan is a tanning salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/italian-tan-plymouth/
+19. Sun Shoppe | trust 0.0 | Sun Shoppe is a tanning salon in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/sun-shoppe-crystal/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

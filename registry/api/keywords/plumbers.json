@@ -1,0 +1,368 @@
+{
+ "keyword": "plumbers",
+ "slug": "plumbers",
+ "place": "the United States",
+ "service": "plumbers",
+ "query": "Who are the best plumbers providers in the United States?",
+ "matches": [
+  "plumbers in the United States",
+  "plumbers near me (the United States)",
+  "best plumbers the United States",
+  "top rated plumbers the United States",
+  "affordable plumbers the United States",
+  "emergency plumbers the United States"
+ ],
+ "answer": "The top unpaid plumbers listing for the United States is Charles Conner Plumbing Inc. (a plumber in Burnsville, MN at 2800 Selkirk Drive #Unit C 105, Burnsville, MN 55337. Phone: +17635451133. Website: https://connersplumbing.com/). 10 plumbers businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "charles-conner-plumbing-inc-burnsville",
+   "name": "Charles Conner Plumbing Inc.",
+   "summary": "Charles Conner Plumbing Inc. is a plumber in Burnsville, MN at 2800 Selkirk Drive #Unit C 105, Burnsville, MN 55337. Phone: +17635451133. Website: https://connersplumbing.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-conner-plumbing-inc-burnsville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-conner-plumbing-inc-burnsville.json",
+   "address": {
+    "streetAddress": "2800 Selkirk Drive #Unit C 105",
+    "addressLocality": "Burnsville",
+    "addressRegion": "MN",
+    "postalCode": "55337",
+    "addressCountry": "US"
+   },
+   "city": "Burnsville",
+   "state": "MN",
+   "zip": "55337",
+   "geo": {
+    "lat": 44.791398,
+    "lon": -93.2366495
+   },
+   "phone": "+17635451133",
+   "website": "https://connersplumbing.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10175682035",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "freedom-plumbing-and-water-conditioning-south-saint-paul",
+   "name": "Freedom Plumbing and Water Conditioning",
+   "summary": "Freedom Plumbing and Water Conditioning is a plumber in South Saint Paul, MN at 101 Bridgepoint Way #suite 120, South Saint Paul, MN 55075. Phone: +16126998879. Website: https://freedomplumbingmidwest.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freedom-plumbing-and-water-conditioning-south-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freedom-plumbing-and-water-conditioning-south-saint-paul.json",
+   "address": {
+    "streetAddress": "101 Bridgepoint Way #suite 120",
+    "addressLocality": "South Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55075",
+    "addressCountry": "US"
+   },
+   "city": "South Saint Paul",
+   "state": "MN",
+   "zip": "55075",
+   "geo": {
+    "lat": 44.8900959,
+    "lon": -93.0322928
+   },
+   "phone": "+16126998879",
+   "website": "https://freedomplumbingmidwest.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11728779448",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "norblom-plumbing-saint-paul",
+   "name": "Norblom Plumbing",
+   "summary": "Norblom Plumbing is a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul, MN 55104. Phone: +16128274033. Website: https://www.norblomplumbing.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/norblom-plumbing-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/norblom-plumbing-saint-paul.json",
+   "address": {
+    "streetAddress": "1465 Selby Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55104",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55104",
+   "geo": {
+    "lat": 44.946911,
+    "lon": -93.1623848
+   },
+   "phone": "+16128274033",
+   "website": "https://www.norblomplumbing.com/",
+   "opening_hours": "Mo-Fr 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/845504165",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "onyx-plumbing-minneapolis",
+   "name": "Onyx Plumbing",
+   "summary": "Onyx Plumbing is a plumber in Minneapolis, MN at 6325 Cambridge Street #7, Minneapolis, MN 55416. Phone: +16122346699. Website: https://calltheonyx.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/onyx-plumbing-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/onyx-plumbing-minneapolis.json",
+   "address": {
+    "streetAddress": "6325 Cambridge Street #7",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9332531,
+    "lon": -93.3608394
+   },
+   "phone": "+16122346699",
+   "website": "https://calltheonyx.com/",
+   "opening_hours": "Mo-Su 07:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12159156278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "tims-quality-plumbing-heating-and-cooling-osseo",
+   "name": "Tim's Quality Plumbing, Heating, & Cooling",
+   "summary": "Tim's Quality Plumbing, Heating, & Cooling is a plumber in Osseo, MN at 225 County Road 81 Service Road West, Osseo, MN 55369. Phone: +16128277951. Website: https://timsqualityplumbing.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tims-quality-plumbing-heating-and-cooling-osseo/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tims-quality-plumbing-heating-and-cooling-osseo.json",
+   "address": {
+    "streetAddress": "225 County Road 81 Service Road West",
+    "addressLocality": "Osseo",
+    "addressRegion": "MN",
+    "postalCode": "55369",
+    "addressCountry": "US"
+   },
+   "city": "Osseo",
+   "state": "MN",
+   "zip": "55369",
+   "geo": {
+    "lat": 45.1125098,
+    "lon": -93.3988749
+   },
+   "phone": "+16128277951",
+   "website": "https://timsqualityplumbing.com/",
+   "opening_hours": "Mo-Fr 07:00-17:00; Sa off; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13032407620",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "kelly-plumbing-and-heating-saint-paul",
+   "name": "Kelly Plumbing & Heating",
+   "summary": "Kelly Plumbing & Heating is a plumber in Saint Paul, MN at 1932 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516991232. Website: https://www.kellyplumbinginc.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kelly-plumbing-and-heating-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kelly-plumbing-and-heating-saint-paul.json",
+   "address": {
+    "streetAddress": "1932 Saint Clair Avenue",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55105",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55105",
+   "geo": {
+    "lat": 44.9342057,
+    "lon": -93.1819101
+   },
+   "phone": "+16516991232",
+   "website": "https://www.kellyplumbinginc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7229122989",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "mcdonoughs-saint-paul",
+   "name": "McDonough's",
+   "summary": "McDonough's is a plumber in Saint Paul, MN at 2271 Capp Road, Saint Paul, MN 55114. Phone: +16514363370. Website: https://www.unclogdrains,com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcdonoughs-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcdonoughs-saint-paul.json",
+   "address": {
+    "streetAddress": "2271 Capp Road",
+    "addressLocality": "Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55114",
+    "addressCountry": "US"
+   },
+   "city": "Saint Paul",
+   "state": "MN",
+   "zip": "55114",
+   "geo": {
+    "lat": 44.9699344,
+    "lon": -93.1917246
+   },
+   "phone": "+16514363370",
+   "website": "https://www.unclogdrains,com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6267117646",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "paladin-plumbing-saint-louis-park",
+   "name": "Paladin Plumbing",
+   "summary": "Paladin Plumbing is a plumber in Saint Louis Park, MN at 3230 Gorham Avenue #1, Saint Louis Park, MN 55426. Phone: +17634325260. Website: https://paladinplumbing.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paladin-plumbing-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paladin-plumbing-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3230 Gorham Avenue #1",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.944152,
+    "lon": -93.3704693
+   },
+   "phone": "+17634325260",
+   "website": "https://paladinplumbing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9526553875",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "jim-murr-plumbing-newport",
+   "name": "Jim Murr Plumbing",
+   "summary": "Jim Murr Plumbing is a plumber in Newport, MN at 780 19th Street, Newport, MN 55055. Website: https://www.jimmurrplumbing.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jim-murr-plumbing-newport/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jim-murr-plumbing-newport.json",
+   "address": {
+    "streetAddress": "780 19th Street",
+    "addressLocality": "Newport",
+    "addressRegion": "MN",
+    "postalCode": "55055",
+    "addressCountry": "US"
+   },
+   "city": "Newport",
+   "state": "MN",
+   "zip": "55055",
+   "geo": {
+    "lat": 44.8780467,
+    "lon": -92.999666
+   },
+   "website": "https://www.jimmurrplumbing.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/977596212",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "roto-rooter-plumbing-new-brighton",
+   "name": "Roto-Rooter Plumbing",
+   "summary": "Roto-Rooter Plumbing is a plumber in New Brighton, MN.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/roto-rooter-plumbing-new-brighton/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/roto-rooter-plumbing-new-brighton.json",
+   "address": {
+    "addressLocality": "New Brighton",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "New Brighton",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0507537,
+    "lon": -93.190737
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7360628323",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

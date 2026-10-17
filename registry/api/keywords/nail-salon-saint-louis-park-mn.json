@@ -1,0 +1,393 @@
+{
+ "keyword": "nail salon saint louis park mn",
+ "slug": "nail-salon-saint-louis-park-mn",
+ "place": "Saint Louis Park, MN",
+ "service": "nail salon",
+ "query": "Who are the best nail salon providers in Saint Louis Park, MN?",
+ "matches": [
+  "nail salon in Saint Louis Park, MN",
+  "nail salon near me (Saint Louis Park, MN)",
+  "best nail salon Saint Louis Park, MN",
+  "top rated nail salon Saint Louis Park, MN",
+  "affordable nail salon Saint Louis Park, MN",
+  "emergency nail salon Saint Louis Park, MN"
+ ],
+ "answer": "The top unpaid nail salon listing for Saint Louis Park, MN is Nail Bar & Spa (a nail salon in Saint Louis Park, MN at 5023 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19522061999. Website: https://nailbarspasaintlouispark.com/). 11 nail salon businesses are listed for Saint Louis Park, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "nail-bar-and-spa-saint-louis-park",
+   "name": "Nail Bar & Spa",
+   "summary": "Nail Bar & Spa is a nail salon in Saint Louis Park, MN at 5023 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19522061999. Website: https://nailbarspasaintlouispark.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-bar-and-spa-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-bar-and-spa-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5023 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9308969,
+    "lon": -93.3459491
+   },
+   "phone": "+19522061999",
+   "website": "https://nailbarspasaintlouispark.com/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 11:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2246717599",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "cupid-nails-saint-louis-park",
+   "name": "Cupid Nails",
+   "summary": "Cupid Nails is a nail salon in Saint Louis Park, MN at 5607 Wayzata Boulevard, Saint Louis Park, MN 55416. Phone: +19525465792. Website: https://cupidnails.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cupid-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cupid-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "5607 Wayzata Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9692157,
+    "lon": -93.3514881
+   },
+   "phone": "+19525465792",
+   "website": "https://cupidnails.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4121384390",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "dk-diamond-nails-saint-louis-park",
+   "name": "DK Diamond Nails",
+   "summary": "DK Diamond Nails is a nail salon in Saint Louis Park, MN at 7109 Cedar Lake Road, Saint Louis Park, MN 55426. Phone: +17634320095. Website: https://www.facebook.com/DKDiamondNails/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dk-diamond-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dk-diamond-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "7109 Cedar Lake Road",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9593488,
+    "lon": -93.3702493
+   },
+   "phone": "+17634320095",
+   "website": "https://www.facebook.com/DKDiamondNails/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4573747576",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "nail-ninja-saint-louis-park",
+   "name": "Nail Ninja",
+   "summary": "Nail Ninja is a nail salon in Saint Louis Park, MN at 4815 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +16123224607. Website: https://www.nailninjampls.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-ninja-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-ninja-saint-louis-park.json",
+   "address": {
+    "streetAddress": "4815 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9482929,
+    "lon": -93.340927
+   },
+   "phone": "+16123224607",
+   "website": "https://www.nailninjampls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/601130213",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "honey-nails-saint-louis-park",
+   "name": "Honey Nails",
+   "summary": "Honey Nails is a nail salon in Saint Louis Park, MN at 3916 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529200989.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/honey-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/honey-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3916 Excelsior Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9404463,
+    "lon": -93.3295917
+   },
+   "phone": "+19529200989",
+   "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-19:00; Su 11:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6701050780",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "ocean-spa-and-nails-saint-louis-park",
+   "name": "Ocean Spa & Nails",
+   "summary": "Ocean Spa & Nails is a nail salon in Saint Louis Park, MN at 3844 Grand Way, Saint Louis Park, MN 55416. Phone: +19529208698.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ocean-spa-and-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ocean-spa-and-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "3844 Grand Way",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9335973,
+    "lon": -93.3404205
+   },
+   "phone": "+19529208698",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4124161393",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "twin-city-nails-saint-louis-park",
+   "name": "Twin City Nails",
+   "summary": "Twin City Nails is a nail salon in Saint Louis Park, MN at 1650 Park Place Boulevard #104, Saint Louis Park, MN 55416. Phone: +19525440220.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-city-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-city-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1650 Park Place Boulevard #104",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9664013,
+    "lon": -93.3499362
+   },
+   "phone": "+19525440220",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9610331067",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "castle-lashes-and-nails-saint-louis-park",
+   "name": "Castle Lashes & Nails",
+   "summary": "Castle Lashes & Nails is a nail salon in Saint Louis Park, MN at 8934 Minnesota State Highway 7, Saint Louis Park, MN 55426.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castle-lashes-and-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castle-lashes-and-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8934 Minnesota State Highway 7",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9371346,
+    "lon": -93.392633
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4330096800",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "glamour-nails-saint-louis-park",
+   "name": "Glamour Nails",
+   "summary": "Glamour Nails is a nail salon in Saint Louis Park, MN at 1685 West End Boulevard, Saint Louis Park, MN 55416.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glamour-nails-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glamour-nails-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1685 West End Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55416",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55416",
+   "geo": {
+    "lat": 44.9659039,
+    "lon": -93.3475592
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2419588470",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "hairaphernalia-salon-saint-louis-park",
+   "name": "Hairaphernalia Salon",
+   "summary": "Hairaphernalia Salon is a nail salon in Saint Louis Park, MN at 8300 Minnetonka Boulevard, Saint Louis Park, MN 55426.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hairaphernalia-salon-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hairaphernalia-salon-saint-louis-park.json",
+   "address": {
+    "streetAddress": "8300 Minnetonka Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "postalCode": "55426",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "zip": "55426",
+   "geo": {
+    "lat": 44.9497674,
+    "lon": -93.3855259
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/417892236",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "sola-salons-saint-louis-park",
+   "name": "Sola Salons",
+   "summary": "Sola Salons is a nail salon in Saint Louis Park, MN at 1675 Park Place Boulevard, Saint Louis Park, MN.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salons-saint-louis-park/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-saint-louis-park.json",
+   "address": {
+    "streetAddress": "1675 Park Place Boulevard",
+    "addressLocality": "Saint Louis Park",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Saint Louis Park",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9663175,
+    "lon": -93.3490632
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13761447949",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

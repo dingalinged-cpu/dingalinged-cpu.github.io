@@ -1,0 +1,64 @@
+{
+ "keyword": "insurance agent eden prairie mn",
+ "slug": "insurance-agent-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "insurance agent",
+ "query": "Who are the best insurance agent providers in Eden Prairie, MN?",
+ "matches": [
+  "insurance agent in Eden Prairie, MN",
+  "insurance agent near me (Eden Prairie, MN)",
+  "best insurance agent Eden Prairie, MN",
+  "top rated insurance agent Eden Prairie, MN",
+  "affordable insurance agent Eden Prairie, MN",
+  "emergency insurance agent Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid insurance agent listing for Eden Prairie, MN is Stallion Insurance Group (an insurance agent in Eden Prairie, MN at 12160 Technology Drive #213, Eden Prairie, MN 55344. Phone: +16517351284. Website: https://www.stallioninsgroup.com/). 1 insurance agent businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "stallion-insurance-group-eden-prairie",
+   "name": "Stallion Insurance Group",
+   "summary": "Stallion Insurance Group is an insurance agent in Eden Prairie, MN at 12160 Technology Drive #213, Eden Prairie, MN 55344. Phone: +16517351284. Website: https://www.stallioninsgroup.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stallion-insurance-group-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stallion-insurance-group-eden-prairie.json",
+   "address": {
+    "streetAddress": "12160 Technology Drive #213",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8628758,
+    "lon": -93.4328912
+   },
+   "phone": "+16517351284",
+   "website": "https://www.stallioninsgroup.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10829488791",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

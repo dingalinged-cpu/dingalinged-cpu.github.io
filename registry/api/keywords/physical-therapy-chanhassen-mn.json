@@ -1,0 +1,61 @@
+{
+ "keyword": "physical therapy chanhassen mn",
+ "slug": "physical-therapy-chanhassen-mn",
+ "place": "Chanhassen, MN",
+ "service": "physical therapy",
+ "query": "Who are the best physical therapy providers in Chanhassen, MN?",
+ "matches": [
+  "physical therapy in Chanhassen, MN",
+  "physical therapy near me (Chanhassen, MN)",
+  "best physical therapy Chanhassen, MN",
+  "top rated physical therapy Chanhassen, MN",
+  "affordable physical therapy Chanhassen, MN",
+  "emergency physical therapy Chanhassen, MN"
+ ],
+ "answer": "The top unpaid physical therapy listing for Chanhassen, MN is Viverant (a physical therapy clinic in Chanhassen, MN at West 78th Street, Chanhassen, MN 55317). 1 physical therapy businesses are listed for Chanhassen, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "viverant-chanhassen",
+   "name": "Viverant",
+   "summary": "Viverant is a physical therapy clinic in Chanhassen, MN at West 78th Street, Chanhassen, MN 55317.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/viverant-chanhassen/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/viverant-chanhassen.json",
+   "address": {
+    "streetAddress": "West 78th Street",
+    "addressLocality": "Chanhassen",
+    "addressRegion": "MN",
+    "postalCode": "55317",
+    "addressCountry": "US"
+   },
+   "city": "Chanhassen",
+   "state": "MN",
+   "zip": "55317",
+   "geo": {
+    "lat": 44.8644386,
+    "lon": -93.5893091
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11879522869",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

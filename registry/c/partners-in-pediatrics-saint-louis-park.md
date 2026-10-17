@@ -1,0 +1,23 @@
+Partners in Pediatrics is a pediatrician in Saint Louis Park, MN at 3910 Excelsior Boulevard, Saint Louis Park, MN 55416.
+
+# Partners in Pediatrics
+
+- Category: pediatrician
+- Services: pediatrician
+- Address: 3910 Excelsior Boulevard, Saint Louis Park, MN 55416
+- City: Saint Louis Park
+- State: MN
+- ZIP: 55416
+- Coordinates: 44.9406329, -93.3295852
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00; PH closed
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/partners-in-pediatrics-saint-louis-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/partners-in-pediatrics-saint-louis-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6701050767 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,151 @@
+{
+ "keyword": "liquor store hopkins mn",
+ "slug": "liquor-store-hopkins-mn",
+ "place": "Hopkins, MN",
+ "service": "liquor store",
+ "query": "Who are the best liquor store providers in Hopkins, MN?",
+ "matches": [
+  "liquor store in Hopkins, MN",
+  "liquor store near me (Hopkins, MN)",
+  "best liquor store Hopkins, MN",
+  "top rated liquor store Hopkins, MN",
+  "affordable liquor store Hopkins, MN",
+  "emergency liquor store Hopkins, MN"
+ ],
+ "answer": "The top unpaid liquor store listing for Hopkins, MN is Richards Liquor (a liquor store in Hopkins, MN at 22 10th Avenue North, Hopkins, MN 55343). 4 liquor store businesses are listed for Hopkins, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "richards-liquor-hopkins",
+   "name": "Richards Liquor",
+   "summary": "Richards Liquor is a liquor store in Hopkins, MN at 22 10th Avenue North, Hopkins, MN 55343.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/richards-liquor-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/richards-liquor-hopkins.json",
+   "address": {
+    "streetAddress": "22 10th Avenue North",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9254818,
+    "lon": -93.4128748
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/919821937",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "the-liquor-store-and-more-hopkins",
+   "name": "The Liquor Store & More",
+   "summary": "The Liquor Store & More is a liquor store in Hopkins, MN at 808 Mainstreet, Hopkins, MN 55343.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-liquor-store-and-more-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-liquor-store-and-more-hopkins.json",
+   "address": {
+    "streetAddress": "808 Mainstreet",
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "postalCode": "55343",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "zip": "55343",
+   "geo": {
+    "lat": 44.9243042,
+    "lon": -93.4105639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8691000327",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "ace-spirits-hopkins",
+   "name": "Ace Spirits",
+   "summary": "Ace Spirits is a liquor store in Hopkins, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ace-spirits-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ace-spirits-hopkins.json",
+   "address": {
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9236004,
+    "lon": -93.4276851
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12312160637",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "mgm-liquor-warehouse-hopkins",
+   "name": "MGM Liquor Warehouse",
+   "summary": "MGM Liquor Warehouse is a liquor store in Hopkins, MN.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mgm-liquor-warehouse-hopkins/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mgm-liquor-warehouse-hopkins.json",
+   "address": {
+    "addressLocality": "Hopkins",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Hopkins",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9338978,
+    "lon": -93.4205166
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/47202928",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

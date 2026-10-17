@@ -1,0 +1,60 @@
+{
+ "keyword": "interior designer",
+ "slug": "interior-designer",
+ "place": "the United States",
+ "service": "interior designer",
+ "query": "Who are the best interior designer providers in the United States?",
+ "matches": [
+  "interior designer in the United States",
+  "interior designer near me (the United States)",
+  "best interior designer the United States",
+  "top rated interior designer the United States",
+  "affordable interior designer the United States",
+  "emergency interior designer the United States"
+ ],
+ "answer": "The top unpaid interior designer listing for the United States is Metropolis Design Group (an interior designer in Minneapolis, MN. Phone: +16127602569. Website: https://www.metropolisdesigngroup.com/). 1 interior designer businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "metropolis-design-group-minneapolis",
+   "name": "Metropolis Design Group",
+   "summary": "Metropolis Design Group is an interior designer in Minneapolis, MN. Phone: +16127602569. Website: https://www.metropolisdesigngroup.com/.",
+   "categories": [
+    "interior designer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metropolis-design-group-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metropolis-design-group-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9052363,
+    "lon": -93.2874268
+   },
+   "phone": "+16127602569",
+   "website": "https://www.metropolisdesigngroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6429527898",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

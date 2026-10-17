@@ -1,0 +1,57 @@
+{
+ "slug": "mattress-firm-edina",
+ "name": "Mattress Firm",
+ "categories": [
+  "mattress store"
+ ],
+ "keywords": [
+  "mattress store",
+  "mattress store edina mn"
+ ],
+ "services": [
+  {
+   "name": "mattress store",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3240 Southdale Circle",
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "postalCode": "55435",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "zip": "55435",
+ "geo": {
+  "lat": 44.882648,
+  "lon": -93.3204282
+ },
+ "phone": "+19522858393",
+ "brand": "Mattress Firm",
+ "wikidata": "Q6791878",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/way/51857592",
+ "osm": {
+  "type": "way",
+  "id": 51857592,
+  "tags_used": {
+   "shop": "bed"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-06-01",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-edina/",
+ "summary": "Mattress Firm is a mattress store in Edina, MN at 3240 Southdale Circle, Edina, MN 55435. Phone: +19522858393.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

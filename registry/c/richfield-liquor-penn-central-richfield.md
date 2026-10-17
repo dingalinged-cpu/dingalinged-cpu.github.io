@@ -1,0 +1,23 @@
+Richfield Liquor - Penn Central is a liquor store in Richfield, MN at 6444 Penn Avenue South, Richfield, MN 55423. Phone: +16128619380. Website: https://www.richfieldmn.gov/departments/liquor_stores/.
+
+# Richfield Liquor - Penn Central
+
+- Category: liquor store
+- Services: liquor store
+- Address: 6444 Penn Avenue South, Richfield, MN 55423
+- City: Richfield
+- State: MN
+- ZIP: 55423
+- Coordinates: 44.8856585, -93.3092471
+- Phone: +16128619380
+- Website: https://www.richfieldmn.gov/departments/liquor_stores/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/richfield-liquor-penn-central-richfield/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/richfield-liquor-penn-central-richfield.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/311805842 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,56 @@
+{
+ "slug": "club-pilates-edina",
+ "name": "Club Pilates",
+ "categories": [
+  "pilates"
+ ],
+ "keywords": [
+  "pilates",
+  "pilates edina mn"
+ ],
+ "services": [
+  {
+   "name": "pilates",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Edina",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Edina",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9130619,
+  "lon": -93.3310852
+ },
+ "website": "https://www.clubpilates.com/location/edina",
+ "opening_hours": "Mo-Th 06:00-20:00; Fr-Su 06:00-13:00",
+ "brand": "Club Pilates",
+ "wikidata": "Q109328844",
+ "schema_type": "LocalBusiness",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/12138867424",
+ "osm": {
+  "type": "node",
+  "id": 12138867424,
+  "tags_used": {
+   "leisure": "fitness_centre",
+   "sport": "pilates"
+  }
+ },
+ "municipality": "Edina",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/club-pilates-edina/",
+ "summary": "Club Pilates is a pilates studio in Edina, MN. Website: https://www.clubpilates.com/location/edina.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

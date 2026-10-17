@@ -1,0 +1,4171 @@
+{
+ "keyword": "haircut minneapolis mn",
+ "slug": "haircut-minneapolis-mn",
+ "place": "Minneapolis, MN",
+ "service": "haircut",
+ "query": "Who are the best haircut providers in Minneapolis, MN?",
+ "matches": [
+  "haircut in Minneapolis, MN",
+  "haircut near me (Minneapolis, MN)",
+  "best haircut Minneapolis, MN",
+  "top rated haircut Minneapolis, MN",
+  "affordable haircut Minneapolis, MN",
+  "emergency haircut Minneapolis, MN"
+ ],
+ "answer": "The top unpaid haircut listing for Minneapolis, MN is 1 Brett Petersen @225 barbers (a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/). 129 haircut businesses are listed for Minneapolis, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "1-brett-petersen-225-barbers-minneapolis",
+   "name": "1 Brett Petersen @225 barbers",
+   "summary": "1 Brett Petersen @225 barbers is a barber shop in Minneapolis, MN at 225 South 6th Street #280, Minneapolis, MN 55402. Phone: +16122819084. Website: https://brett-petersen.square.site/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1-brett-petersen-225-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1-brett-petersen-225-barbers-minneapolis.json",
+   "address": {
+    "streetAddress": "225 South 6th Street #280",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55402",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55402",
+   "geo": {
+    "lat": 44.9758748,
+    "lon": -93.2681639
+   },
+   "phone": "+16122819084",
+   "website": "https://brett-petersen.square.site/",
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13374666409",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "ciara-s-hair-magic-minneapolis",
+   "name": "Ciara’s Hair Magic",
+   "summary": "Ciara’s Hair Magic is a hair salon in Minneapolis, MN at 4547 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +15072000511. Website: https://ciaras-hair-magic.square.site/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ciara-s-hair-magic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ciara-s-hair-magic-minneapolis.json",
+   "address": {
+    "streetAddress": "4547 Bloomington Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9200727,
+    "lon": -93.2521616
+   },
+   "phone": "+15072000511",
+   "website": "https://ciaras-hair-magic.square.site/",
+   "opening_hours": "Tu-We 10:00-19:00; Fr-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4869038584",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "floyds-99-barbershop-minneapolis",
+   "name": "Floyd's 99 Barbershop",
+   "summary": "Floyd's 99 Barbershop is a hair salon in Minneapolis, MN at 1220 West Lake Street, Minneapolis, MN 55408. Phone: +16128222240. Website: https://www.floydsbarbershop.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floyds-99-barbershop-minneapolis.json",
+   "address": {
+    "streetAddress": "1220 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.948493,
+    "lon": -93.295561
+   },
+   "phone": "+16128222240",
+   "website": "https://www.floydsbarbershop.com/",
+   "opening_hours": "Mo-Fr 10:00-21:00; Sa 9:00-19:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/770597356",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "freshly-cut-barbers-minneapolis",
+   "name": "Freshly Cut Barbers",
+   "summary": "Freshly Cut Barbers is a barber shop in Minneapolis, MN at 4555 34th Avenue South, Minneapolis, MN 55406. Phone: +16127244677. Website: https://freshlycutbarbers.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/freshly-cut-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/freshly-cut-barbers-minneapolis.json",
+   "address": {
+    "streetAddress": "4555 34th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9199651,
+    "lon": -93.2227947
+   },
+   "phone": "+16127244677",
+   "website": "https://freshlycutbarbers.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12239156859",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "great-clips-minneapolis-n4343817369",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Minneapolis, MN at 1312 Southeast 5th Street, Minneapolis, MN 55414. Phone: +16123790430. Website: https://www.greatclips.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-minneapolis-n4343817369/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-minneapolis-n4343817369.json",
+   "address": {
+    "streetAddress": "1312 Southeast 5th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9816067,
+    "lon": -93.23573
+   },
+   "phone": "+16123790430",
+   "website": "https://www.greatclips.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4343817369",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 6,
+   "sponsored": false,
+   "slug": "hair-is-ii-minneapolis",
+   "name": "Hair Is II",
+   "summary": "Hair Is II is a hair salon in Minneapolis, MN at 2201 Nicollet Avenue, Minneapolis, MN 55404. Phone: +16128726688. Website: https://www.hairisii.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-is-ii-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-is-ii-minneapolis.json",
+   "address": {
+    "streetAddress": "2201 Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9606161,
+    "lon": -93.2775696
+   },
+   "phone": "+16128726688",
+   "website": "https://www.hairisii.com/",
+   "opening_hours": "Mo 10:30-18:00; Tu-Th 10:00-19:00; Fr,Sa 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617420642",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 7,
+   "sponsored": false,
+   "slug": "head-to-toe-minneapolis",
+   "name": "Head to Toe",
+   "summary": "Head to Toe is a hair salon in Minneapolis, MN at 2445 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128710303. Website: https://locu.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/head-to-toe-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/head-to-toe-minneapolis.json",
+   "address": {
+    "streetAddress": "2445 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.95758,
+    "lon": -93.2775849
+   },
+   "phone": "+16128710303",
+   "website": "https://locu.com/",
+   "opening_hours": "10:00-20:00; Tu off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4617523581",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 8,
+   "sponsored": false,
+   "slug": "lvs-barber-shop-minneapolis",
+   "name": "LV's Barber Shop",
+   "summary": "LV's Barber Shop is a barber shop in Minneapolis, MN at 2518 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127216551. Website: https://lvsbarbershop.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lvs-barber-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lvs-barber-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "2518 Northeast Central Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0138637,
+    "lon": -93.2475774
+   },
+   "phone": "+16127216551",
+   "website": "https://lvsbarbershop.com/",
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11261722555",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 9,
+   "sponsored": false,
+   "slug": "lyn-lake-barbershop-minneapolis",
+   "name": "Lyn-Lake Barbershop",
+   "summary": "Lyn-Lake Barbershop is a hair salon in Minneapolis, MN at 3019 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128226584. Website: https://www.lyn-lakebarbershop.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyn-lake-barbershop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyn-lake-barbershop-minneapolis.json",
+   "address": {
+    "streetAddress": "3019 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9476744,
+    "lon": -93.2879064
+   },
+   "phone": "+16128226584",
+   "website": "https://www.lyn-lakebarbershop.com/",
+   "opening_hours": "Tu-Fr 10:00-19:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5294111681",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 10,
+   "sponsored": false,
+   "slug": "nine-keys-apothecary-minneapolis",
+   "name": "Nine Keys Apothecary",
+   "summary": "Nine Keys Apothecary is a hair salon in Minneapolis, MN at 4547 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +16124058413. Website: https://www.ninekeysapothecary.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nine-keys-apothecary-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nine-keys-apothecary-minneapolis.json",
+   "address": {
+    "streetAddress": "4547 Bloomington Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9200303,
+    "lon": -93.2521632
+   },
+   "phone": "+16124058413",
+   "website": "https://www.ninekeysapothecary.com/",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11156180457",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 11,
+   "sponsored": false,
+   "slug": "salam-barber-minneapolis",
+   "name": "Salam Barber",
+   "summary": "Salam Barber is a barber shop in Minneapolis, MN at 2215 Northeast Central Avenue, Minneapolis, MN 55418. Phone: +16127813956. Website: https://salaambarber.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salam-barber-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salam-barber-minneapolis.json",
+   "address": {
+    "streetAddress": "2215 Northeast Central Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0104222,
+    "lon": -93.2471424
+   },
+   "phone": "+16127813956",
+   "website": "https://salaambarber.com/",
+   "opening_hours": "Mo-Su 10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12806837083",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 12,
+   "sponsored": false,
+   "slug": "sola-salon-studios-minneapolis",
+   "name": "Sola Salon Studios",
+   "summary": "Sola Salon Studios is a hair salon in Minneapolis, MN at 3034 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +17632589675. Website: https://www.solasalonstudios.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sola-salon-studios-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sola-salon-studios-minneapolis.json",
+   "address": {
+    "streetAddress": "3034 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9471598,
+    "lon": -93.288638
+   },
+   "phone": "+17632589675",
+   "website": "https://www.solasalonstudios.com/",
+   "opening_hours": "\"By appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/89382394",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 13,
+   "sponsored": false,
+   "slug": "the-beauty-lounge-minneapolis-minneapolis",
+   "name": "The Beauty Lounge Minneapolis",
+   "summary": "The Beauty Lounge Minneapolis is a hair salon in Minneapolis, MN at 3501 Hennepin Avenue South, Minneapolis, MN 55408. Phone: +16122279363. Website: https://mplsbeautylounge.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-beauty-lounge-minneapolis-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-beauty-lounge-minneapolis-minneapolis.json",
+   "address": {
+    "streetAddress": "3501 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9393708,
+    "lon": -93.2982412
+   },
+   "phone": "+16122279363",
+   "website": "https://mplsbeautylounge.com/",
+   "opening_hours": "Mo-Su 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8926853064",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 14,
+   "sponsored": false,
+   "slug": "the-braid-factory-minneapolis",
+   "name": "The Braid Factory",
+   "summary": "The Braid Factory is a hair salon in Minneapolis, MN at 4600 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16128242243. Website: https://www.braidfactorymn.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-braid-factory-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-braid-factory-minneapolis.json",
+   "address": {
+    "streetAddress": "4600 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9195889,
+    "lon": -93.2627836
+   },
+   "phone": "+16128242243",
+   "website": "https://www.braidfactorymn.com/",
+   "opening_hours": "Mo-Th 09:00-21:00, Fr-Sa 08:00-22:00, Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4869088162",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 15,
+   "sponsored": false,
+   "slug": "the-chair-minneapolis",
+   "name": "The Chair",
+   "summary": "The Chair is a hair salon in Minneapolis, MN at 3255 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128232900. Website: https://www.chairsalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-chair-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-chair-minneapolis.json",
+   "address": {
+    "streetAddress": "3255 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9430302,
+    "lon": -93.287887
+   },
+   "phone": "+16128232900",
+   "website": "https://www.chairsalon.com/",
+   "opening_hours": "10:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4806273394",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 16,
+   "sponsored": false,
+   "slug": "the-fade-goat-minneapolis",
+   "name": "The Fade Goat",
+   "summary": "The Fade Goat is a barber shop in Minneapolis, MN at 2329 Hennepin Avenue Bikeway #1, Minneapolis, MN 55405. Phone: +16127187704. Website: https://www.thefadegoat.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-fade-goat-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-fade-goat-minneapolis.json",
+   "address": {
+    "streetAddress": "2329 Hennepin Avenue Bikeway #1",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9592573,
+    "lon": -93.2937062
+   },
+   "phone": "+16127187704",
+   "website": "https://www.thefadegoat.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13564808278",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 17,
+   "sponsored": false,
+   "slug": "twin-cities-barber-co-minneapolis",
+   "name": "Twin Cities Barber Co",
+   "summary": "Twin Cities Barber Co is a hair salon in Minneapolis, MN at 3745 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +16123610801. Website: https://tcbarberco.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twin-cities-barber-co-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-barber-co-minneapolis.json",
+   "address": {
+    "streetAddress": "3745 Bloomington Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.934599,
+    "lon": -93.2521268
+   },
+   "phone": "+16123610801",
+   "website": "https://tcbarberco.com/",
+   "opening_hours": "Mo 10:00-18:00; Tu-Th 08:00-18:30; Fr 08:00-18:30; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13409118301",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 18,
+   "sponsored": false,
+   "slug": "bonitas-extensions-and-braids-minneapolis",
+   "name": "Bonitas Extensions and Braids",
+   "summary": "Bonitas Extensions and Braids is a hair salon in Minneapolis, MN at 2441 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16127221152. Website: https://www.bonitasextensions.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bonitas-extensions-and-braids-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bonitas-extensions-and-braids-minneapolis.json",
+   "address": {
+    "streetAddress": "2441 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9578944,
+    "lon": -93.2877835
+   },
+   "phone": "+16127221152",
+   "website": "https://www.bonitasextensions.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5288532783",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 19,
+   "sponsored": false,
+   "slug": "gorgeous-looks-salon-minneapolis",
+   "name": "Gorgeous Looks Salon",
+   "summary": "Gorgeous Looks Salon is a hair salon in Minneapolis, MN at 217 Oliver Avenue South, Minneapolis, MN 55405. Phone: +16123058172. Website: https://www.gorgeouslookssalon.net/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gorgeous-looks-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gorgeous-looks-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "217 Oliver Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.974924,
+    "lon": -93.3069344
+   },
+   "phone": "+16123058172",
+   "website": "https://www.gorgeouslookssalon.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9104267210",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 20,
+   "sponsored": false,
+   "slug": "hairetic-minneapolis",
+   "name": "Hairetic",
+   "summary": "Hairetic is a hair salon in Minneapolis, MN at 4301 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16128233928. Website: https://www.thehairetic.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hairetic-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hairetic-minneapolis.json",
+   "address": {
+    "streetAddress": "4301 Bryant Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.9248242,
+    "lon": -93.2906835
+   },
+   "phone": "+16128233928",
+   "website": "https://www.thehairetic.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287810995",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 21,
+   "sponsored": false,
+   "slug": "heart-salon-minneapolis",
+   "name": "Heart Salon",
+   "summary": "Heart Salon is a hair salon in Minneapolis, MN at 1310 Northeast 2nd Street, Minneapolis, MN 55413. Phone: +16123794022. Website: https://heartsalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heart-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heart-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "1310 Northeast 2nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0014038,
+    "lon": -93.2663769
+   },
+   "phone": "+16123794022",
+   "website": "https://heartsalon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/249994669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 22,
+   "sponsored": false,
+   "slug": "meraki-hair-lounge-minneapolis",
+   "name": "Meraki Hair Lounge",
+   "summary": "Meraki Hair Lounge is a hair salon in Minneapolis, MN at 837 Glenwood Avenue, Minneapolis, MN 55405. Phone: +19522590857. Website: https://www.merakimpls.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meraki-hair-lounge-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meraki-hair-lounge-minneapolis.json",
+   "address": {
+    "streetAddress": "837 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9797231,
+    "lon": -93.2912755
+   },
+   "phone": "+19522590857",
+   "website": "https://www.merakimpls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/987582604",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 23,
+   "sponsored": false,
+   "slug": "natural-hair-care-institute-minneapolis",
+   "name": "Natural hair care institute",
+   "summary": "Natural hair care institute is a hair salon in Minneapolis, MN. Phone: +16123535344. Website: https://www.nhci.education/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/natural-hair-care-institute-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/natural-hair-care-institute-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9496057,
+    "lon": -93.2904925
+   },
+   "phone": "+16123535344",
+   "website": "https://www.nhci.education/",
+   "opening_hours": "Mo-Th 08:30-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11117948906",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 24,
+   "sponsored": false,
+   "slug": "southside-barber-lounge-minneapolis",
+   "name": "Southside Barber Lounge",
+   "summary": "Southside Barber Lounge is a hair salon in Minneapolis, MN at 4813 Chicago Avenue South, Minneapolis, MN 55417. Phone: +16122038908. Website: https://www.southsidebarberlounge.com/48th-chicago.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southside-barber-lounge-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southside-barber-lounge-minneapolis.json",
+   "address": {
+    "streetAddress": "4813 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.9156361,
+    "lon": -93.2624329
+   },
+   "phone": "+16122038908",
+   "website": "https://www.southsidebarberlounge.com/48th-chicago",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7568292465",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 25,
+   "sponsored": false,
+   "slug": "spruce-minneapolis",
+   "name": "Spruce",
+   "summary": "Spruce is a hair salon in Minneapolis, MN at 404 Penn Avenue South, Minneapolis, MN 55405. Phone: +16125181002. Website: https://www.sprucesalonmpls.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spruce-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spruce-minneapolis.json",
+   "address": {
+    "streetAddress": "404 Penn Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9733727,
+    "lon": -93.3085264
+   },
+   "phone": "+16125181002",
+   "website": "https://www.sprucesalonmpls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9104267202",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 26,
+   "sponsored": false,
+   "slug": "studio-411-salon-minneapolis",
+   "name": "Studio 411 Salon",
+   "summary": "Studio 411 Salon is a hair salon in Minneapolis, MN at 411 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16123741477. Website: https://studio411salon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-411-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-411-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "411 Cedar Lake Road South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9732316,
+    "lon": -93.3089241
+   },
+   "phone": "+16123741477",
+   "website": "https://studio411salon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/984761596",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 27,
+   "sponsored": false,
+   "slug": "sweeney-todds-hair-salon-minneapolis",
+   "name": "Sweeney Todd's Hair Salon",
+   "summary": "Sweeney Todd's Hair Salon is a hair salon in Minneapolis, MN at 2429 Lyndale Avenue South, Minneapolis, MN 55405. Phone: +16128713636. Website: https://sweeneytodds.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sweeney-todds-hair-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sweeney-todds-hair-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "2429 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9582161,
+    "lon": -93.2877779
+   },
+   "phone": "+16128713636",
+   "website": "https://sweeneytodds.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5287946357",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 28,
+   "sponsored": false,
+   "slug": "the-talk-of-the-town-salon-minneapolis",
+   "name": "The Talk of the Town Salon",
+   "summary": "The Talk of the Town Salon is a hair salon in Minneapolis, MN at 2403 Nicollet Avenue South, Minneapolis, MN 55404. Phone: +16128727007. Website: https://ttott-mpls.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-talk-of-the-town-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-talk-of-the-town-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "2403 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55404",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55404",
+   "geo": {
+    "lat": 44.9590097,
+    "lon": -93.2776451
+   },
+   "phone": "+16128727007",
+   "website": "https://ttott-mpls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619841616",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 29,
+   "sponsored": false,
+   "slug": "craigs-como-barbershop-minneapolis",
+   "name": "Craig's Como Barbershop",
+   "summary": "Craig's Como Barbershop is a hair salon in Minneapolis, MN at 1508 Southeast Como Avenue, Minneapolis, MN. Phone: +16123311077. Website: https://comobarbershop.com/about.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/craigs-como-barbershop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/craigs-como-barbershop-minneapolis.json",
+   "address": {
+    "streetAddress": "1508 Southeast Como Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9877279,
+    "lon": -93.2299168
+   },
+   "phone": "+16123311077",
+   "website": "https://comobarbershop.com/about",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10750922762",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 30,
+   "sponsored": false,
+   "slug": "cryptid-hair-parlour-minneapolis",
+   "name": "Cryptid Hair Parlour",
+   "summary": "Cryptid Hair Parlour is a hair salon in Minneapolis, MN at 2358 Stinson Parkway, Minneapolis, MN. Phone: +16123547328. Website: https://www.cryptidhair.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cryptid-hair-parlour-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cryptid-hair-parlour-minneapolis.json",
+   "address": {
+    "streetAddress": "2358 Stinson Parkway",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0130891,
+    "lon": -93.2271492
+   },
+   "phone": "+16123547328",
+   "website": "https://www.cryptidhair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1038718417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 31,
+   "sponsored": false,
+   "slug": "the-beauty-room-minneapolis",
+   "name": "The Beauty Room",
+   "summary": "The Beauty Room is a hair salon in Minneapolis, MN at 4300 Chicago Avenue South, Minneapolis, MN. Phone: +16127244111. Website: https://www.thebeautyroommpls.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-beauty-room-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-beauty-room-minneapolis.json",
+   "address": {
+    "streetAddress": "4300 Chicago Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9249817,
+    "lon": -93.2628036
+   },
+   "phone": "+16127244111",
+   "website": "https://www.thebeautyroommpls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/795084669",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 32,
+   "sponsored": false,
+   "slug": "3e38thstbarbers-minneapolis",
+   "name": "3e38thStBarbers",
+   "summary": "3e38thStBarbers is a barber shop in Minneapolis, MN at 3 East 38th Street, Minneapolis, MN 55409. Phone: +16126954037.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/3e38thstbarbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/3e38thstbarbers-minneapolis.json",
+   "address": {
+    "streetAddress": "3 East 38th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55409",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55409",
+   "geo": {
+    "lat": 44.9340113,
+    "lon": -93.2776525
+   },
+   "phone": "+16126954037",
+   "opening_hours": "Mo,Sa 00:00-03:00; Th 00:00-15:00; Fr 12:00-15:00; Su 12:00-24:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13356794848",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 33,
+   "sponsored": false,
+   "slug": "arces-barber-studio-minneapolis",
+   "name": "Arce's Barber Studio",
+   "summary": "Arce's Barber Studio is a barber shop in Minneapolis, MN at 1406 West Lake Street, Minneapolis, MN 55408. Website: https://arcesbarberstudio.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arces-barber-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arces-barber-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "1406 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9484996,
+    "lon": -93.2975059
+   },
+   "website": "https://arcesbarberstudio.com/",
+   "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/770584900",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 34,
+   "sponsored": false,
+   "slug": "artofbarbering-minneapolis",
+   "name": "artofbarbering",
+   "summary": "artofbarbering is a barber shop in Minneapolis, MN at 150 2nd Avenue South, Minneapolis, MN 55401. Phone: +16123383588.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/artofbarbering-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/artofbarbering-minneapolis.json",
+   "address": {
+    "streetAddress": "150 2nd Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9820119,
+    "lon": -93.26494
+   },
+   "phone": "+16123383588",
+   "opening_hours": "Mo-Sa 7:30-21:00, Su 9:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13379110274",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 35,
+   "sponsored": false,
+   "slug": "floyds-99-barbershop-minneapolis-n11952215475",
+   "name": "Floyd's 99 Barbershop",
+   "summary": "Floyd's 99 Barbershop is a hair salon in Minneapolis, MN at 5051 France Avenue South, Minneapolis, MN 55410. Website: https://www.floydsbarbershop.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-minneapolis-n11952215475/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floyds-99-barbershop-minneapolis-n11952215475.json",
+   "address": {
+    "streetAddress": "5051 France Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9109951,
+    "lon": -93.3288993
+   },
+   "website": "https://www.floydsbarbershop.com/",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11952215475",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 36,
+   "sponsored": false,
+   "slug": "fox-den-salon-minneapolis",
+   "name": "Fox Den Salon",
+   "summary": "Fox Den Salon is a hair salon in Minneapolis, MN at 1221 West Lake Street #108, Minneapolis, MN 55408. Phone: +16128724556.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fox-den-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fox-den-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "1221 West Lake Street #108",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.948231,
+    "lon": -93.2955511
+   },
+   "phone": "+16128724556",
+   "opening_hours": "Mo-Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3458745643",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 37,
+   "sponsored": false,
+   "slug": "hair-district-collective-minneapolis",
+   "name": "Hair District Collective",
+   "summary": "Hair District Collective is a hair salon in Minneapolis, MN at 802 West Lake Street, Minneapolis, MN 55408. Website: https://thehairdistrict.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-district-collective-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-district-collective-minneapolis.json",
+   "address": {
+    "streetAddress": "802 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9485181,
+    "lon": -93.289774
+   },
+   "website": "https://thehairdistrict.com/",
+   "opening_hours": "Mo-Sa 08:00-18:00+",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5334143156",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 38,
+   "sponsored": false,
+   "slug": "hops-salon-minneapolis",
+   "name": "Hop's Salon",
+   "summary": "Hop's Salon is a hair salon in Minneapolis, MN at 1316 Southeast 4th Street ##9, Minneapolis, MN 55414. Phone: +16123790079.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hops-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hops-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "1316 Southeast 4th Street ##9",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9804733,
+    "lon": -93.2366259
+   },
+   "phone": "+16123790079",
+   "opening_hours": "Mo-Tu 11:00-17:00; Th-Sa 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/445101679",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 39,
+   "sponsored": false,
+   "slug": "salon-la-terre-minneapolis",
+   "name": "Salon La Terre",
+   "summary": "Salon La Terre is a hair salon in Minneapolis, MN at 3338 Hennepin Avenue South, Minneapolis, MN 55408. Website: https://www.salonlaterre.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-la-terre-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-la-terre-minneapolis.json",
+   "address": {
+    "streetAddress": "3338 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9417173,
+    "lon": -93.2985501
+   },
+   "website": "https://www.salonlaterre.com/",
+   "opening_hours": "Tu,Th,Fr 16:00-19:00; We 16:00-18:00+; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/88538773",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 40,
+   "sponsored": false,
+   "slug": "trams-hair-styling-minneapolis",
+   "name": "Tram's Hair Styling",
+   "summary": "Tram's Hair Styling is a hair salon in Minneapolis, MN at 2620 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128712491.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trams-hair-styling-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trams-hair-styling-minneapolis.json",
+   "address": {
+    "streetAddress": "2620 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9547399,
+    "lon": -93.2780498
+   },
+   "phone": "+16128712491",
+   "opening_hours": "Mo,We-Th 10:00-17:00; Fr-Su 10:30-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619562339",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 41,
+   "sponsored": false,
+   "slug": "urban-hair-co-minneapolis",
+   "name": "Urban Hair Co",
+   "summary": "Urban Hair Co is a hair salon in Minneapolis, MN at 4949 Xerxes Avenue South, Minneapolis, MN 55410. Website: https://www.markefronhair.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/urban-hair-co-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/urban-hair-co-minneapolis.json",
+   "address": {
+    "streetAddress": "4949 Xerxes Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9128409,
+    "lon": -93.3186356
+   },
+   "website": "https://www.markefronhair.com/",
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1319945445",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 42,
+   "sponsored": false,
+   "slug": "kenwood-barbers-minneapolis",
+   "name": "Kenwood Barbers",
+   "summary": "Kenwood Barbers is a hair salon in Minneapolis, MN at 1003 West Franklin Avenue, Minneapolis, MN. Phone: +16128722280.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kenwood-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kenwood-barbers-minneapolis.json",
+   "address": {
+    "streetAddress": "1003 West Franklin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9625746,
+    "lon": -93.2920633
+   },
+   "phone": "+16128722280",
+   "opening_hours": "Tu-Fr 09:00-18:00; Sa 09:00-15:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6923561681",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 43,
+   "sponsored": false,
+   "slug": "stilo-cuts-minneapolis",
+   "name": "Stilo Cuts",
+   "summary": "Stilo Cuts is a hair salon in Minneapolis, MN at 2655 Hennepin Avenue South, Minneapolis, MN. Website: https://www.stilocuts.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stilo-cuts-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stilo-cuts-minneapolis.json",
+   "address": {
+    "streetAddress": "2655 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9538725,
+    "lon": -93.2973176
+   },
+   "website": "https://www.stilocuts.com/",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6816242109",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 44,
+   "sponsored": false,
+   "slug": "uptown-curl-minneapolis",
+   "name": "Uptown Curl",
+   "summary": "Uptown Curl is a hair salon in Minneapolis, MN at 2004,2006 Hennepin Avenue South, Minneapolis, MN. Phone: +16123264792.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uptown-curl-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uptown-curl-minneapolis.json",
+   "address": {
+    "streetAddress": "2004,2006 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9624184,
+    "lon": -93.292009
+   },
+   "phone": "+16123264792",
+   "opening_hours": "Tu-Fr 10:00-20:00; Sa 09:00-17:00; Su 11:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6923582108",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 45,
+   "sponsored": false,
+   "slug": "annas-beauty-salon-minneapolis",
+   "name": "Anna's Beauty Salon",
+   "summary": "Anna's Beauty Salon is a hair salon in Minneapolis, MN at 6 East 27th Street, Minneapolis, MN 55408. Phone: +16128716388.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/annas-beauty-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/annas-beauty-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "6 East 27th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9538477,
+    "lon": -93.2774473
+   },
+   "phone": "+16128716388",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4619841629",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 46,
+   "sponsored": false,
+   "slug": "bonitas-extentions-minneapolis",
+   "name": "Bonitas Extentions",
+   "summary": "Bonitas Extentions is a hair salon in Minneapolis, MN. Phone: +16124239480.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bonitas-extentions-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bonitas-extentions-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9496369,
+    "lon": -93.2904824
+   },
+   "phone": "+16124239480",
+   "opening_hours": "Mo-Fr 10:00-17:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11117948905",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 47,
+   "sponsored": false,
+   "slug": "buzz-barbers-minneapolis",
+   "name": "Buzz Barbers",
+   "summary": "Buzz Barbers is a barber shop in Minneapolis, MN at 3507 West 44th Street, Minneapolis, MN 55410. Website: https://buzzbarbers.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buzz-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buzz-barbers-minneapolis.json",
+   "address": {
+    "streetAddress": "3507 West 44th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9230817,
+    "lon": -93.324427
+   },
+   "website": "https://buzzbarbers.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12120870750",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 48,
+   "sponsored": false,
+   "slug": "dome-salon-minneapolis",
+   "name": "DOME Salon",
+   "summary": "DOME Salon is a hair salon in Minneapolis, MN at 201 Southeast 6th Street, Minneapolis, MN 55414. Website: https://www.foryourdome.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dome-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dome-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "201 Southeast 6th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9891529,
+    "lon": -93.2505828
+   },
+   "website": "https://www.foryourdome.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9841407717",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 49,
+   "sponsored": false,
+   "slug": "emilys-beauty-salon-minneapolis",
+   "name": "Emily's Beauty Salon",
+   "summary": "Emily's Beauty Salon is a hair salon in Minneapolis, MN at 2740 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128704766.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/emilys-beauty-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/emilys-beauty-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "2740 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9527084,
+    "lon": -93.2781672
+   },
+   "phone": "+16128704766",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4624483740",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 50,
+   "sponsored": false,
+   "slug": "evolution-experience-hair-culture-minneapolis",
+   "name": "Evolution Experience Hair Culture",
+   "summary": "Evolution Experience Hair Culture is a hair salon in Minneapolis, MN at 2836 Lyndale Avenue South, Minneapolis, MN 55408. Website: https://www.evolutionhair.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evolution-experience-hair-culture-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evolution-experience-hair-culture-minneapolis.json",
+   "address": {
+    "streetAddress": "2836 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9505913,
+    "lon": -93.2883236
+   },
+   "website": "https://www.evolutionhair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5288574283",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 51,
+   "sponsored": false,
+   "slug": "hairlounge-minneapolis-minneapolis",
+   "name": "hairlounge Minneapolis",
+   "summary": "hairlounge Minneapolis is a hair salon in Minneapolis, MN at 614 West Lake Street, Minneapolis, MN 55408. Website: https://hairloungeminneapolis.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hairlounge-minneapolis-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hairlounge-minneapolis-minneapolis.json",
+   "address": {
+    "streetAddress": "614 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9485385,
+    "lon": -93.2878803
+   },
+   "website": "https://hairloungeminneapolis.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1029919530",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 52,
+   "sponsored": false,
+   "slug": "hairpolice-minneapolis",
+   "name": "HairPolice",
+   "summary": "HairPolice is a hair salon in Minneapolis, MN at 611 West Lake Street, Minneapolis, MN 55408. Website: https://www.hairpolice.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hairpolice-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hairpolice-minneapolis.json",
+   "address": {
+    "streetAddress": "611 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9481906,
+    "lon": -93.2875545
+   },
+   "website": "https://www.hairpolice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5292643312",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 53,
+   "sponsored": false,
+   "slug": "jon-english-hairspa-advanced-training-and-development-center-minneapolis",
+   "name": "Jon English Hairspa: Advanced Training & Development Center",
+   "summary": "Jon English Hairspa: Advanced Training & Development Center is a hair salon in Minneapolis, MN at 2929 Lyndale Avenue South, Minneapolis, MN 55408. Website: https://www.jonenglishproducts.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jon-english-hairspa-advanced-training-and-development-center-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jon-english-hairspa-advanced-training-and-development-center-minneapolis.json",
+   "address": {
+    "streetAddress": "2929 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.949364,
+    "lon": -93.2878041
+   },
+   "website": "https://www.jonenglishproducts.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5289969419",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 54,
+   "sponsored": false,
+   "slug": "les-beauty-salon-minneapolis",
+   "name": "Le's Beauty Salon",
+   "summary": "Le's Beauty Salon is a hair salon in Minneapolis, MN at 2724 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128714919.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/les-beauty-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/les-beauty-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "2724 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9528908,
+    "lon": -93.2785529
+   },
+   "phone": "+16128714919",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4624483737",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 55,
+   "sponsored": false,
+   "slug": "mai-hoa-beauty-salon-minneapolis",
+   "name": "Mai Hoa Beauty Salon",
+   "summary": "Mai Hoa Beauty Salon is a hair salon in Minneapolis, MN at 2747 Nicollet Avenue South, Minneapolis, MN 55408. Phone: +16128711495.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mai-hoa-beauty-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mai-hoa-beauty-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "2747 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9522095,
+    "lon": -93.277727
+   },
+   "phone": "+16128711495",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4627115926",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 56,
+   "sponsored": false,
+   "slug": "midtown-barbers-minneapolis",
+   "name": "Midtown Barbers",
+   "summary": "Midtown Barbers is a hair salon in Minneapolis, MN. Phone: +17633273043.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midtown-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midtown-barbers-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485844,
+    "lon": -93.2611163
+   },
+   "phone": "+17633273043",
+   "opening_hours": "mo0fr 10:00-19:00l sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11964470614",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 57,
+   "sponsored": false,
+   "slug": "nokomis-hair-design-minneapolis",
+   "name": "Nokomis Hair Design",
+   "summary": "Nokomis Hair Design is a hair salon in Minneapolis, MN at East 50th Street, Minneapolis, MN 55417. Phone: +16127225857.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nokomis-hair-design-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nokomis-hair-design-minneapolis.json",
+   "address": {
+    "streetAddress": "East 50th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55417",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55417",
+   "geo": {
+    "lat": 44.9128655,
+    "lon": -93.2325728
+   },
+   "phone": "+16127225857",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4852088812",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 58,
+   "sponsored": false,
+   "slug": "park-terrace-salon-minneapolis",
+   "name": "park terrace salon",
+   "summary": "park terrace salon is a hair salon in Minneapolis, MN at 4358 Zenith Avenue South, Minneapolis, MN 55410. Website: https://thinhairsolved.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-terrace-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-terrace-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "4358 Zenith Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9235983,
+    "lon": -93.3216616
+   },
+   "website": "https://thinhairsolved.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12171075668",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 59,
+   "sponsored": false,
+   "slug": "q-salon-minneapolis",
+   "name": "Q Salon",
+   "summary": "Q Salon is a hair salon in Minneapolis, MN at 2727 Nicollet Avenue South #9, Minneapolis, MN 55408. Phone: +16128701291.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/q-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/q-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "2727 Nicollet Avenue South #9",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9527354,
+    "lon": -93.2774432
+   },
+   "phone": "+16128701291",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4621509979",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 60,
+   "sponsored": false,
+   "slug": "remix-barber-and-beauty-minneapolis",
+   "name": "Remix Barber & Beauty",
+   "summary": "Remix Barber & Beauty is a hair salon in Minneapolis, MN at 219 Oliver Avenue South, Minneapolis, MN 55405. Phone: +16123772214.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/remix-barber-and-beauty-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/remix-barber-and-beauty-minneapolis.json",
+   "address": {
+    "streetAddress": "219 Oliver Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9748286,
+    "lon": -93.3069324
+   },
+   "phone": "+16123772214",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9104267211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 61,
+   "sponsored": false,
+   "slug": "riverstone-salon-spa-minneapolis",
+   "name": "Riverstone Salon Spa",
+   "summary": "Riverstone Salon Spa is a hair salon in Minneapolis, MN at 3764 Minnehaha Avenue, Minneapolis, MN 55406. Website: https://riverstonesalonspa.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riverstone-salon-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riverstone-salon-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "3764 Minnehaha Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9343766,
+    "lon": -93.2244324
+   },
+   "website": "https://riverstonesalonspa.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/147111089",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 62,
+   "sponsored": false,
+   "slug": "rolaynes-hair-design-minneapolis",
+   "name": "Rolayne's Hair Design",
+   "summary": "Rolayne's Hair Design is a hair salon in Minneapolis, MN at 408 Cedar Lake Road South, Minneapolis, MN 55405. Phone: +16122310601.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rolaynes-hair-design-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rolaynes-hair-design-minneapolis.json",
+   "address": {
+    "streetAddress": "408 Cedar Lake Road South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9737012,
+    "lon": -93.3088536
+   },
+   "phone": "+16122310601",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9101873954",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 63,
+   "sponsored": false,
+   "slug": "salon-sparrow-minneapolis",
+   "name": "Salon Sparrow",
+   "summary": "Salon Sparrow is a hair salon in Minneapolis, MN at 3306 West 44th Street, Minneapolis, MN 55410. Website: https://www.salonsparrowmpls.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-sparrow-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-sparrow-minneapolis.json",
+   "address": {
+    "streetAddress": "3306 West 44th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9234627,
+    "lon": -93.3219452
+   },
+   "website": "https://www.salonsparrowmpls.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12171075660",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 64,
+   "sponsored": false,
+   "slug": "sashair-salon-minneapolis",
+   "name": "Sashair Salon",
+   "summary": "Sashair Salon is a hair salon in Minneapolis, MN at 1904 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16125458155.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sashair-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sashair-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "1904 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9809505,
+    "lon": -93.3047638
+   },
+   "phone": "+16125458155",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/988133129",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 65,
+   "sponsored": false,
+   "slug": "shins-hair-salon-minneapolis",
+   "name": "Shin's Hair Salon",
+   "summary": "Shin's Hair Salon is a hair salon in Minneapolis, MN at 211 Southeast Oak Street, Minneapolis, MN 55414. Phone: +16123311260.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shins-hair-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shins-hair-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "211 Southeast Oak Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55414",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55414",
+   "geo": {
+    "lat": 44.9743262,
+    "lon": -93.2266945
+   },
+   "phone": "+16123311260",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6353507501",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 66,
+   "sponsored": false,
+   "slug": "squared-up-hair-minneapolis",
+   "name": "Squared Up Hair",
+   "summary": "Squared Up Hair is a hair salon in Minneapolis, MN at 1228 Northeast 2nd Street, Minneapolis, MN 55413. Website: https://squareduphair.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/squared-up-hair-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/squared-up-hair-minneapolis.json",
+   "address": {
+    "streetAddress": "1228 Northeast 2nd Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0007794,
+    "lon": -93.2663319
+   },
+   "website": "https://squareduphair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11255882264",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 67,
+   "sponsored": false,
+   "slug": "stilo-cuts-minneapolis-n12754418802",
+   "name": "Stilo Cuts",
+   "summary": "Stilo Cuts is a hair salon in Minneapolis, MN at 224 Traffic Street North, Minneapolis, MN 55401. Website: https://stilocuts.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stilo-cuts-minneapolis-n12754418802/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stilo-cuts-minneapolis-n12754418802.json",
+   "address": {
+    "streetAddress": "224 Traffic Street North",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9844624,
+    "lon": -93.2720489
+   },
+   "website": "https://stilocuts.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12754418802",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 68,
+   "sponsored": false,
+   "slug": "the-connect-hair-studio-minneapolis",
+   "name": "The Connect Hair Studio",
+   "summary": "The Connect Hair Studio is a hair salon in Minneapolis, MN at 1501 Glenwood Avenue, Minneapolis, MN 55405. Phone: +16517858275.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-connect-hair-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-connect-hair-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "1501 Glenwood Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9806353,
+    "lon": -93.2996711
+   },
+   "phone": "+16517858275",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/987862896",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 69,
+   "sponsored": false,
+   "slug": "top-chop-barber-minneapolis",
+   "name": "Top Chop Barber",
+   "summary": "Top Chop Barber is a barber shop in Minneapolis, MN at 711 West Lake Street #601, Minneapolis, MN 55408. Website: https://topchopbarber.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-chop-barber-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-chop-barber-minneapolis.json",
+   "address": {
+    "streetAddress": "711 West Lake Street #601",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.948223,
+    "lon": -93.2889159
+   },
+   "website": "https://topchopbarber.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12517078582",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 70,
+   "sponsored": false,
+   "slug": "eddies-barber-shop-minneapolis",
+   "name": "Eddie's Barber Shop",
+   "summary": "Eddie's Barber Shop is a barber shop in Minneapolis, MN at 4301 4th Avenue South, Minneapolis, MN. Phone: +16124580104.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eddies-barber-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eddies-barber-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "4301 4th Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9250023,
+    "lon": -93.2698906
+   },
+   "phone": "+16124580104",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/794281362",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 71,
+   "sponsored": false,
+   "slug": "gavin-victor-minneapolis",
+   "name": "Gavin Victor",
+   "summary": "Gavin Victor is a hair salon in Minneapolis, MN at 2827 1/2 Hennepin Avenue South, Minneapolis, MN. Website: https://www.hairloungeminneapolis.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gavin-victor-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gavin-victor-minneapolis.json",
+   "address": {
+    "streetAddress": "2827 1/2 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9510426,
+    "lon": -93.2979984
+   },
+   "website": "https://www.hairloungeminneapolis.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/118880492",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 72,
+   "sponsored": false,
+   "slug": "goodfellas-barber-studio-minneapolis",
+   "name": "Goodfellas Barber Studio",
+   "summary": "Goodfellas Barber Studio is a barber shop in Minneapolis, MN at 906 West Lake Street, Minneapolis, MN. Website: https://goodfellasbarberstudio.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodfellas-barber-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodfellas-barber-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "906 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9484982,
+    "lon": -93.2910526
+   },
+   "website": "https://goodfellasbarberstudio.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13255006959",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 73,
+   "sponsored": false,
+   "slug": "james-irving-salon-minneapolis",
+   "name": "James Irving Salon",
+   "summary": "James Irving Salon is a barber shop in Minneapolis, MN at 1608 West Lake Street, Minneapolis, MN. Phone: +16128224323.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-irving-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-irving-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "1608 West Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485168,
+    "lon": -93.3024847
+   },
+   "phone": "+16128224323",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/837149810",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 74,
+   "sponsored": false,
+   "slug": "salons-by-jc-minneapolis",
+   "name": "Salons by JC",
+   "summary": "Salons by JC is a hair salon in Minneapolis, MN at 3016 Hennepin Avenue South, Minneapolis, MN. Phone: +16122930336.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salons-by-jc-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salons-by-jc-minneapolis.json",
+   "address": {
+    "streetAddress": "3016 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9478211,
+    "lon": -93.2986695
+   },
+   "phone": "+16122930336",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/153801007",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 75,
+   "sponsored": false,
+   "slug": "twisted-hare-salon-and-spa-minneapolis",
+   "name": "Twisted Hare Salon and Spa",
+   "summary": "Twisted Hare Salon and Spa is a hair salon in Minneapolis, MN at 4805 Nicollet Avenue South, Minneapolis, MN. Website: https://thetwistedhare.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twisted-hare-salon-and-spa-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twisted-hare-salon-and-spa-minneapolis.json",
+   "address": {
+    "streetAddress": "4805 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9157929,
+    "lon": -93.2778082
+   },
+   "website": "https://thetwistedhare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4040599204",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 76,
+   "sponsored": false,
+   "slug": "faded-barbershop-uptown-minneapolis",
+   "name": "Faded Barbershop Uptown",
+   "summary": "Faded Barbershop Uptown is a hair salon in Minneapolis, MN at 2649 Lyndale Avenue South #200, Minneapolis, MN 55408.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/faded-barbershop-uptown-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/faded-barbershop-uptown-minneapolis.json",
+   "address": {
+    "streetAddress": "2649 Lyndale Avenue South #200",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9539109,
+    "lon": -93.2878196
+   },
+   "opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11342665631",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 77,
+   "sponsored": false,
+   "slug": "great-clips-minneapolis-n12955278811",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Minneapolis, MN at 4620 Nicollet Avenue South, Minneapolis, MN 55419.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-minneapolis-n12955278811/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-minneapolis-n12955278811.json",
+   "address": {
+    "streetAddress": "4620 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55419",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55419",
+   "geo": {
+    "lat": 44.9190051,
+    "lon": -93.2784932
+   },
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12955278811",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 78,
+   "sponsored": false,
+   "slug": "nomadic-oasis-barber-and-lounge-minneapolis",
+   "name": "Nomadic Oasis Barber & Lounge",
+   "summary": "Nomadic Oasis Barber & Lounge is a hair salon in Minneapolis, MN at 2525 East Franklin Avenue #100, Minneapolis, MN 55406.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nomadic-oasis-barber-and-lounge-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nomadic-oasis-barber-and-lounge-minneapolis.json",
+   "address": {
+    "streetAddress": "2525 East Franklin Avenue #100",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.962634,
+    "lon": -93.2350068
+   },
+   "opening_hours": "Tu-Sa 09:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11003407434",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 79,
+   "sponsored": false,
+   "slug": "sport-clips-minneapolis-n9565699936",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Minneapolis, MN at 1730 New Brighton Boulevard #Suite 105, Minneapolis, MN 55413.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-minneapolis-n9565699936/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-minneapolis-n9565699936.json",
+   "address": {
+    "streetAddress": "1730 New Brighton Boulevard #Suite 105",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0056117,
+    "lon": -93.2278995
+   },
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9565699936",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 80,
+   "sponsored": false,
+   "slug": "glam-house-salon-minneapolis",
+   "name": "Glam House Salon",
+   "summary": "Glam House Salon is a hair salon in Minneapolis, MN at 2659 Dupont Avenue South, Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glam-house-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glam-house-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "2659 Dupont Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9538679,
+    "lon": -93.2930169
+   },
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11115389308",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 81,
+   "sponsored": false,
+   "slug": "sport-clips-minneapolis",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Minneapolis, MN at 5440 Lyndale Avenue South, Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-minneapolis.json",
+   "address": {
+    "streetAddress": "5440 Lyndale Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9035828,
+    "lon": -93.2885862
+   },
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6429527890",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 82,
+   "sponsored": false,
+   "slug": "avant-minneapolis",
+   "name": "Avant",
+   "summary": "Avant is a hair salon in Minneapolis, MN. Website: https://avanthair.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/avant-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/avant-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9764569,
+    "lon": -93.2760746
+   },
+   "website": "https://avanthair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13265533200",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 83,
+   "sponsored": false,
+   "slug": "curl-power-salon-minneapolis",
+   "name": "Curl Power Salon",
+   "summary": "Curl Power Salon is a hair salon in Minneapolis, MN. Website: https://www.curlpowersalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/curl-power-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/curl-power-salon-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9121476,
+    "lon": -93.327527
+   },
+   "website": "https://www.curlpowersalon.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12138867430",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 84,
+   "sponsored": false,
+   "slug": "madison-and-co-salons-minneapolis",
+   "name": "Madison & Co. Salons",
+   "summary": "Madison & Co. Salons is a hair salon in Minneapolis, MN. Website: https://www.madisonandcompany.org/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/madison-and-co-salons-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/madison-and-co-salons-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9772839,
+    "lon": -93.2685184
+   },
+   "website": "https://www.madisonandcompany.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13030049624",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 85,
+   "sponsored": false,
+   "slug": "conjure-hair-collective-minneapolis",
+   "name": "Conjure Hair Collective",
+   "summary": "Conjure Hair Collective is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/conjure-hair-collective-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/conjure-hair-collective-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482327,
+    "lon": -93.2900673
+   },
+   "opening_hours": "\"By appointment only\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11026179809",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 86,
+   "sponsored": false,
+   "slug": "defy-hair-minneapolis",
+   "name": "Defy Hair",
+   "summary": "Defy Hair is a hair salon in Minneapolis, MN at 515 West Lake Street #D, Minneapolis, MN 55408.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/defy-hair-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/defy-hair-minneapolis.json",
+   "address": {
+    "streetAddress": "515 West Lake Street #D",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9480064,
+    "lon": -93.2863449
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626235422",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 87,
+   "sponsored": false,
+   "slug": "floyds-99-barbershop-minneapolis-n13823736879",
+   "name": "Floyd's 99 Barbershop",
+   "summary": "Floyd's 99 Barbershop is a hair salon in Minneapolis, MN at 424 North Washington Avenue #109, Minneapolis, MN 55401.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-minneapolis-n13823736879/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floyds-99-barbershop-minneapolis-n13823736879.json",
+   "address": {
+    "streetAddress": "424 North Washington Avenue #109",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55401",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55401",
+   "geo": {
+    "lat": 44.9860431,
+    "lon": -93.2742468
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13823736879",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 88,
+   "sponsored": false,
+   "slug": "glenns-barber-shop-minneapolis",
+   "name": "Glenn's Barber Shop",
+   "summary": "Glenn's Barber Shop is a hair salon in Minneapolis, MN at 814 West 36th Street, Minneapolis, MN 55408.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glenns-barber-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glenns-barber-shop-minneapolis.json",
+   "address": {
+    "streetAddress": "814 West 36th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55408",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55408",
+   "geo": {
+    "lat": 44.9378665,
+    "lon": -93.290183
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1749104844",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 89,
+   "sponsored": false,
+   "slug": "hair-fair-ltd-minneapolis",
+   "name": "Hair Fair Ltd.",
+   "summary": "Hair Fair Ltd. is a hair salon in Minneapolis, MN at 3858 North Thomas Avenue, Minneapolis, MN 55412.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-fair-ltd-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-fair-ltd-minneapolis.json",
+   "address": {
+    "streetAddress": "3858 North Thomas Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55412",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55412",
+   "geo": {
+    "lat": 45.0257088,
+    "lon": -93.3132396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11347302031",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 90,
+   "sponsored": false,
+   "slug": "house-of-beaut-atout-minneapolis",
+   "name": "House of Beauté Atout",
+   "summary": "House of Beauté Atout is a hair salon in Minneapolis, MN at 2329 Hennepin Avenue South, Minneapolis, MN 55405.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/house-of-beaut-atout-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/house-of-beaut-atout-minneapolis.json",
+   "address": {
+    "streetAddress": "2329 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55405",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55405",
+   "geo": {
+    "lat": 44.9592913,
+    "lon": -93.2936885
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8755988732",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 91,
+   "sponsored": false,
+   "slug": "jungle-red-minneapolis",
+   "name": "Jungle Red",
+   "summary": "Jungle Red is a hair salon in Minneapolis, MN at 1362 LaSalle Avenue, Minneapolis, MN 55403.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jungle-red-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jungle-red-minneapolis.json",
+   "address": {
+    "streetAddress": "1362 LaSalle Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55403",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55403",
+   "geo": {
+    "lat": 44.9693019,
+    "lon": -93.2797528
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/265230951",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 92,
+   "sponsored": false,
+   "slug": "marvins-barber-shop-and-beauty-store-minneapolis",
+   "name": "Marvin's Barber Shop & Beauty Store",
+   "summary": "Marvin's Barber Shop & Beauty Store is a barber shop in Minneapolis, MN at 2415 Northeast Central Avenue, Minneapolis, MN 55418.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marvins-barber-shop-and-beauty-store-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marvins-barber-shop-and-beauty-store-minneapolis.json",
+   "address": {
+    "streetAddress": "2415 Northeast Central Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55418",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55418",
+   "geo": {
+    "lat": 45.0127852,
+    "lon": -93.2471291
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4011393292",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 93,
+   "sponsored": false,
+   "slug": "oromia-barber-minneapolis",
+   "name": "Oromia Barber",
+   "summary": "Oromia Barber is a hair salon in Minneapolis, MN at East Lake Street, Minneapolis, MN 55406.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oromia-barber-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oromia-barber-minneapolis.json",
+   "address": {
+    "streetAddress": "East Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55406",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55406",
+   "geo": {
+    "lat": 44.9482316,
+    "lon": -93.2286007
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626364860",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 94,
+   "sponsored": false,
+   "slug": "reflections-barbershop-minneapolis",
+   "name": "Reflections Barbershop",
+   "summary": "Reflections Barbershop is a hair salon in Minneapolis, MN at 3862 North Thomas Avenue, Minneapolis, MN 55412.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reflections-barbershop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reflections-barbershop-minneapolis.json",
+   "address": {
+    "streetAddress": "3862 North Thomas Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55412",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55412",
+   "geo": {
+    "lat": 45.025791,
+    "lon": -93.3132407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11347302029",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 95,
+   "sponsored": false,
+   "slug": "salon-45-minneapolis",
+   "name": "Salon 45",
+   "summary": "Salon 45 is a hair salon in Minneapolis, MN at 4551 Bloomington Avenue South, Minneapolis, MN 55407.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-45-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-45-minneapolis.json",
+   "address": {
+    "streetAddress": "4551 Bloomington Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9199795,
+    "lon": -93.2521651
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11156180456",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 96,
+   "sponsored": false,
+   "slug": "sport-clips-minneapolis-n6701050782",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-minneapolis-n6701050782/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-minneapolis-n6701050782.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9463911,
+    "lon": -93.3222089
+   },
+   "opening_hours": "Mo-Th 10:00-20:00; Fr 10:00-19:00; Sa 09:00-18:00; Su 10:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6701050782",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 97,
+   "sponsored": false,
+   "slug": "the-barber-sharp-minneapolis",
+   "name": "The Barber Sharp",
+   "summary": "The Barber Sharp is a hair salon in Minneapolis, MN at 349 Northeast 13th Avenue, Minneapolis, MN 55413.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-barber-sharp-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-barber-sharp-minneapolis.json",
+   "address": {
+    "streetAddress": "349 Northeast 13th Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55413",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55413",
+   "geo": {
+    "lat": 45.0010247,
+    "lon": -93.2620823
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11358657762",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 98,
+   "sponsored": false,
+   "slug": "urban-touch-barbers-minneapolis",
+   "name": "Urban Touch Barbers",
+   "summary": "Urban Touch Barbers is a hair salon in Minneapolis, MN at 1401 East 38th Street, Minneapolis, MN 55407.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/urban-touch-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/urban-touch-barbers-minneapolis.json",
+   "address": {
+    "streetAddress": "1401 East 38th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55407",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55407",
+   "geo": {
+    "lat": 44.9339968,
+    "lon": -93.2547262
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/200093211",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 99,
+   "sponsored": false,
+   "slug": "bishops-cuts-color-minneapolis",
+   "name": "Bishops Cuts/Color",
+   "summary": "Bishops Cuts/Color is a hair salon in Minneapolis, MN at 312 East Hennepin Avenue, Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bishops-cuts-color-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bishops-cuts-color-minneapolis.json",
+   "address": {
+    "streetAddress": "312 East Hennepin Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9880883,
+    "lon": -93.2555575
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1087602096",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 100,
+   "sponsored": false,
+   "slug": "cornerman-cuts-minneapolis",
+   "name": "Cornerman Cuts",
+   "summary": "Cornerman Cuts is a barber shop in Minneapolis, MN at 3801 East 38th Street, Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cornerman-cuts-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cornerman-cuts-minneapolis.json",
+   "address": {
+    "streetAddress": "3801 East 38th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9340592,
+    "lon": -93.2700186
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7461679405",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 101,
+   "sponsored": false,
+   "slug": "gilda-minneapolis",
+   "name": "Gilda",
+   "summary": "Gilda is a hair salon in Minneapolis, MN at 4008 East Lake Street, Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gilda-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gilda-minneapolis.json",
+   "address": {
+    "streetAddress": "4008 East Lake Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485182,
+    "lon": -93.2148496
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13626364847",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 102,
+   "sponsored": false,
+   "slug": "luxe-hair-lounge-minneapolis",
+   "name": "Luxe Hair Lounge",
+   "summary": "Luxe Hair Lounge is a hair salon in Minneapolis, MN at 2815 Hennepin Avenue South, Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luxe-hair-lounge-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luxe-hair-lounge-minneapolis.json",
+   "address": {
+    "streetAddress": "2815 Hennepin Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9513592,
+    "lon": -93.2980761
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6502874515",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 103,
+   "sponsored": false,
+   "slug": "nafisas-studio-minneapolis",
+   "name": "Nafisa's Studio",
+   "summary": "Nafisa's Studio is a hair salon in Minneapolis, MN at Nicollet Avenue, Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nafisas-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nafisas-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "Nicollet Avenue",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9619837,
+    "lon": -93.2780205
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11027009417",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 104,
+   "sponsored": false,
+   "slug": "pompadour-salon-minneapolis",
+   "name": "Pompadour Salon",
+   "summary": "Pompadour Salon is a hair salon in Minneapolis, MN at 3743 Nicollet Avenue South, Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pompadour-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pompadour-salon-minneapolis.json",
+   "address": {
+    "streetAddress": "3743 Nicollet Avenue South",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9345262,
+    "lon": -93.2777446
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13310370965",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 105,
+   "sponsored": false,
+   "slug": "the-familia-hair-studio-minneapolis",
+   "name": "The Familia Hair Studio",
+   "summary": "The Familia Hair Studio is a hair salon in Minneapolis, MN at 21 East 26th Street, Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-familia-hair-studio-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-familia-hair-studio-minneapolis.json",
+   "address": {
+    "streetAddress": "21 East 26th Street",
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9554065,
+    "lon": -93.2769808
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11045663224",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 106,
+   "sponsored": false,
+   "slug": "cindy-barber-shop-minneapolis",
+   "name": "Cindy Barber Shop",
+   "summary": "Cindy Barber Shop is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cindy-barber-shop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cindy-barber-shop-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "postalCode": "55410",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "zip": "55410",
+   "geo": {
+    "lat": 44.9047469,
+    "lon": -93.3088761
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11010618884",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 107,
+   "sponsored": false,
+   "slug": "225-barbers-minneapolis",
+   "name": "225 Barbers",
+   "summary": "225 Barbers is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/225-barbers-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/225-barbers-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758865,
+    "lon": -93.2681503
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13189788425",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 108,
+   "sponsored": false,
+   "slug": "above-the-gym-minneapolis",
+   "name": "Above the Gym",
+   "summary": "Above the Gym is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/above-the-gym-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/above-the-gym-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9626223,
+    "lon": -93.2319786
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11003389662",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 109,
+   "sponsored": false,
+   "slug": "ace-of-fades-minneapolis",
+   "name": "Ace of Fades",
+   "summary": "Ace of Fades is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ace-of-fades-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ace-of-fades-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9909507,
+    "lon": -93.2513264
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13064574766",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 110,
+   "sponsored": false,
+   "slug": "akways-sports-barbershop-minneapolis",
+   "name": "Akways Sports Barbershop",
+   "summary": "Akways Sports Barbershop is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/akways-sports-barbershop-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/akways-sports-barbershop-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9477684,
+    "lon": -93.2879059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12517078587",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 111,
+   "sponsored": false,
+   "slug": "andrew-beauty-salon-minneapolis",
+   "name": "Andrew Beauty Salon",
+   "summary": "Andrew Beauty Salon is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/andrew-beauty-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/andrew-beauty-salon-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482205,
+    "lon": -93.2737502
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12286168486",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 112,
+   "sponsored": false,
+   "slug": "appearances-salon-minneapolis",
+   "name": "Appearances Salon",
+   "summary": "Appearances Salon is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/appearances-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/appearances-salon-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9753007,
+    "lon": -93.2727755
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410756391",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 113,
+   "sponsored": false,
+   "slug": "barbers-on-bryant-minneapolis",
+   "name": "Barbers on Bryant",
+   "summary": "Barbers on Bryant is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/barbers-on-bryant-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/barbers-on-bryant-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.949421,
+    "lon": -93.2907991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11117890191",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 114,
+   "sponsored": false,
+   "slug": "buzzs-minneapolis",
+   "name": "Buzz's",
+   "summary": "Buzz's is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buzzs-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buzzs-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9267736,
+    "lon": -93.2326848
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/639465550",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 115,
+   "sponsored": false,
+   "slug": "ceci-and-hawa-african-hair-braiding-minneapolis",
+   "name": "Ceci & Hawa African Hair Braiding",
+   "summary": "Ceci & Hawa African Hair Braiding is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ceci-and-hawa-african-hair-braiding-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ceci-and-hawa-african-hair-braiding-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0124956,
+    "lon": -93.294155
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12859727745",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 116,
+   "sponsored": false,
+   "slug": "cost-cutters-minneapolis",
+   "name": "Cost Cutters",
+   "summary": "Cost Cutters is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cost-cutters-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cost-cutters-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9875327,
+    "lon": -93.2545983
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627415957",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 117,
+   "sponsored": false,
+   "slug": "eclipse-beauty-salon-minneapolis",
+   "name": "Eclipse Beauty Salon",
+   "summary": "Eclipse Beauty Salon is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eclipse-beauty-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eclipse-beauty-salon-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9486025,
+    "lon": -93.2542787
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12175209567",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 118,
+   "sponsored": false,
+   "slug": "feature-cut-barber-minneapolis",
+   "name": "Feature Cut Barber",
+   "summary": "Feature Cut Barber is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/feature-cut-barber-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/feature-cut-barber-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9751122,
+    "lon": -93.2721996
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410756376",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 119,
+   "sponsored": false,
+   "slug": "fm-barber-and-braiding-minneapolis",
+   "name": "FM Barber and Braiding",
+   "summary": "FM Barber and Braiding is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fm-barber-and-braiding-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fm-barber-and-braiding-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9626288,
+    "lon": -93.2370384
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12869967160",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 120,
+   "sponsored": false,
+   "slug": "gent-minneapolis",
+   "name": "Gent",
+   "summary": "Gent is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gent-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gent-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9758775,
+    "lon": -93.2739199
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5955554302",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 121,
+   "sponsored": false,
+   "slug": "great-clips-minneapolis",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0062639,
+    "lon": -93.227703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/923857563",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 122,
+   "sponsored": false,
+   "slug": "haja-salon-minneapolis",
+   "name": "Haja Salon",
+   "summary": "Haja Salon is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/haja-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/haja-salon-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 45.0355996,
+    "lon": -93.3081396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12376744256",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 123,
+   "sponsored": false,
+   "slug": "hildas-hair-hut-minneapolis",
+   "name": "Hilda's Hair Hut",
+   "summary": "Hilda's Hair Hut is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hildas-hair-hut-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hildas-hair-hut-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9271871,
+    "lon": -93.247508
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3233745626",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 124,
+   "sponsored": false,
+   "slug": "meye-salon-minneapolis",
+   "name": "Meye Salon",
+   "summary": "Meye Salon is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meye-salon-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meye-salon-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9750882,
+    "lon": -93.273134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13410756383",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 125,
+   "sponsored": false,
+   "slug": "milagros-minneapolis",
+   "name": "Milagro's",
+   "summary": "Milagro's is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/milagros-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/milagros-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9482031,
+    "lon": -93.2697875
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12217042592",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 126,
+   "sponsored": false,
+   "slug": "milagros-minneapolis-n12286163036",
+   "name": "Milagro's",
+   "summary": "Milagro's is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/milagros-minneapolis-n12286163036/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/milagros-minneapolis-n12286163036.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9481614,
+    "lon": -93.2726915
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12286163036",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 127,
+   "sponsored": false,
+   "slug": "minnesota-school-of-barbering-minneapolis",
+   "name": "Minnesota School of Barbering",
+   "summary": "Minnesota School of Barbering is a barber shop in Minneapolis, MN.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-school-of-barbering-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-school-of-barbering-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9481861,
+    "lon": -93.2196694
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12209231047",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 128,
+   "sponsored": false,
+   "slug": "quality-cut-barbershop-lounge-minneapolis",
+   "name": "Quality Cut Barbershop Lounge",
+   "summary": "Quality Cut Barbershop Lounge is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quality-cut-barbershop-lounge-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quality-cut-barbershop-lounge-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9485114,
+    "lon": -93.2582469
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12288649549",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 129,
+   "sponsored": false,
+   "slug": "twisted-hare-minneapolis",
+   "name": "Twisted Hare",
+   "summary": "Twisted Hare is a hair salon in Minneapolis, MN.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/twisted-hare-minneapolis/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/twisted-hare-minneapolis.json",
+   "address": {
+    "addressLocality": "Minneapolis",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Minneapolis",
+   "state": "MN",
+   "geo": {
+    "lat": 44.9412271,
+    "lon": -93.2777511
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5431508539",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

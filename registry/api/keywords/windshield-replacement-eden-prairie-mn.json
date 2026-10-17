@@ -1,0 +1,62 @@
+{
+ "keyword": "windshield replacement eden prairie mn",
+ "slug": "windshield-replacement-eden-prairie-mn",
+ "place": "Eden Prairie, MN",
+ "service": "windshield replacement",
+ "query": "Who are the best windshield replacement providers in Eden Prairie, MN?",
+ "matches": [
+  "windshield replacement in Eden Prairie, MN",
+  "windshield replacement near me (Eden Prairie, MN)",
+  "best windshield replacement Eden Prairie, MN",
+  "top rated windshield replacement Eden Prairie, MN",
+  "affordable windshield replacement Eden Prairie, MN",
+  "emergency windshield replacement Eden Prairie, MN"
+ ],
+ "answer": "The top unpaid windshield replacement listing for Eden Prairie, MN is Safelite AutoGlass (an auto repair shop in Eden Prairie, MN at 8453 Joiner Way, Eden Prairie, MN 55344). 1 windshield replacement businesses are listed for Eden Prairie, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "safelite-autoglass-eden-prairie",
+   "name": "Safelite AutoGlass",
+   "summary": "Safelite AutoGlass is an auto repair shop in Eden Prairie, MN at 8453 Joiner Way, Eden Prairie, MN 55344.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-eden-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/safelite-autoglass-eden-prairie.json",
+   "address": {
+    "streetAddress": "8453 Joiner Way",
+    "addressLocality": "Eden Prairie",
+    "addressRegion": "MN",
+    "postalCode": "55344",
+    "addressCountry": "US"
+   },
+   "city": "Eden Prairie",
+   "state": "MN",
+   "zip": "55344",
+   "geo": {
+    "lat": 44.8504757,
+    "lon": -93.4319311
+   },
+   "opening_hours": "Mo-Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5307606067",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "keyword": "dentist robbinsdale mn",
+ "slug": "dentist-robbinsdale-mn",
+ "place": "Robbinsdale, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in Robbinsdale, MN?",
+ "matches": [
+  "dentist in Robbinsdale, MN",
+  "dentist near me (Robbinsdale, MN)",
+  "best dentist Robbinsdale, MN",
+  "top rated dentist Robbinsdale, MN",
+  "affordable dentist Robbinsdale, MN",
+  "emergency dentist Robbinsdale, MN"
+ ],
+ "answer": "The top unpaid dentist listing for Robbinsdale, MN is Crystal Lake Dental Care (a dentist in Robbinsdale, MN at 3925 37th Avenue North, Robbinsdale, MN 55422. Phone: +17635888426. Website: https://www.crystallakedentalcare.com/). 4 dentist businesses are listed for Robbinsdale, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "crystal-lake-dental-care-robbinsdale",
+   "name": "Crystal Lake Dental Care",
+   "summary": "Crystal Lake Dental Care is a dentist in Robbinsdale, MN at 3925 37th Avenue North, Robbinsdale, MN 55422. Phone: +17635888426. Website: https://www.crystallakedentalcare.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crystal-lake-dental-care-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crystal-lake-dental-care-robbinsdale.json",
+   "address": {
+    "streetAddress": "3925 37th Avenue North",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.022343,
+    "lon": -93.329394
+   },
+   "phone": "+17635888426",
+   "website": "https://www.crystallakedentalcare.com/",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1236974632",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "the-dental-suite-robbinsdale",
+   "name": "The Dental Suite",
+   "summary": "The Dental Suite is a dentist in Robbinsdale, MN at 4930 42nd Avenue North, Robbinsdale, MN 55422. Phone: +17635374531. Website: https://www.thedentalsuitemn.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dental-suite-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dental-suite-robbinsdale.json",
+   "address": {
+    "streetAddress": "4930 42nd Avenue North",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.0315964,
+    "lon": -93.3427373
+   },
+   "phone": "+17635374531",
+   "website": "https://www.thedentalsuitemn.com/",
+   "opening_hours": "Mo-Th 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1220408471",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "robbinsdale-dental-care-robbinsdale",
+   "name": "Robbinsdale Dental Care",
+   "summary": "Robbinsdale Dental Care is a dentist in Robbinsdale, MN at 3920 West Broadway Avenue, Robbinsdale, MN 55422. Phone: +17635355555.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/robbinsdale-dental-care-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/robbinsdale-dental-care-robbinsdale.json",
+   "address": {
+    "streetAddress": "3920 West Broadway Avenue",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.026752,
+    "lon": -93.33345
+   },
+   "phone": "+17635355555",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1220338509",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "minnesota-dental-group-robbinsdale",
+   "name": "Minnesota Dental Group",
+   "summary": "Minnesota Dental Group is a dentist in Robbinsdale, MN at 4125 Lakeland Avenue North ##200, Robbinsdale, MN 55422.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minnesota-dental-group-robbinsdale/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minnesota-dental-group-robbinsdale.json",
+   "address": {
+    "streetAddress": "4125 Lakeland Avenue North ##200",
+    "addressLocality": "Robbinsdale",
+    "addressRegion": "MN",
+    "postalCode": "55422",
+    "addressCountry": "US"
+   },
+   "city": "Robbinsdale",
+   "state": "MN",
+   "zip": "55422",
+   "geo": {
+    "lat": 45.030719,
+    "lon": -93.3375973
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7129231770",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

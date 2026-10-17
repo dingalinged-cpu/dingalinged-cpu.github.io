@@ -1,0 +1,52 @@
+{
+ "slug": "kinderberry-hill-minneapolis",
+ "name": "Kinderberry Hill",
+ "categories": [
+  "daycare"
+ ],
+ "keywords": [
+  "daycare",
+  "daycare minneapolis mn"
+ ],
+ "services": [
+  {
+   "name": "daycare",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "addressLocality": "Minneapolis",
+  "addressRegion": "MN",
+  "addressCountry": "US"
+ },
+ "city": "Minneapolis",
+ "state": "MN",
+ "geo": {
+  "lat": 44.9784113,
+  "lon": -93.2712636
+ },
+ "website": "https://www.kinderberryhill.com/schools/minneapolis/",
+ "schema_type": "ChildCare",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/13451748992",
+ "osm": {
+  "type": "node",
+  "id": 13451748992,
+  "tags_used": {
+   "amenity": "childcare"
+  }
+ },
+ "municipality": "Minneapolis",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-24",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/kinderberry-hill-minneapolis/",
+ "summary": "Kinderberry Hill is a daycare in Minneapolis, MN. Website: https://www.kinderberryhill.com/schools/minneapolis/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

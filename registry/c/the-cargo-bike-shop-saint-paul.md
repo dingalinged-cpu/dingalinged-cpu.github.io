@@ -1,0 +1,23 @@
+The Cargo Bike Shop is a bike shop in Saint Paul, MN at 1592 Selby Avenue, Saint Paul, MN 55104. Phone: +16082475847. Website: https://www.thecargobikeshop.com/.
+
+# The Cargo Bike Shop
+
+- Category: bike shop
+- Services: bike shop
+- Address: 1592 Selby Avenue, Saint Paul, MN 55104
+- City: Saint Paul
+- State: MN
+- ZIP: 55104
+- Coordinates: 44.9463993, -93.1677174
+- Phone: +16082475847
+- Website: https://www.thecargobikeshop.com/
+- Email: info@thecargobikeshop.com
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-cargo-bike-shop-saint-paul/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-cargo-bike-shop-saint-paul.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/170151056 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

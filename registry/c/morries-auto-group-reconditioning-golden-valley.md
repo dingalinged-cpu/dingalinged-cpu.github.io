@@ -1,0 +1,23 @@
+Morrie's Auto Group Reconditioning is an auto repair shop in Golden Valley, MN at 700 Colorado Avenue South, Golden Valley, MN 55416.
+
+# Morrie's Auto Group Reconditioning
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 700 Colorado Avenue South, Golden Valley, MN 55416
+- City: Golden Valley
+- State: MN
+- ZIP: 55416
+- Coordinates: 44.9734669, -93.359802
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/morries-auto-group-reconditioning-golden-valley/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/morries-auto-group-reconditioning-golden-valley.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/44970394 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

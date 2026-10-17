@@ -1,0 +1,190 @@
+{
+ "keyword": "dentist west saint paul mn",
+ "slug": "dentist-west-saint-paul-mn",
+ "place": "West Saint Paul, MN",
+ "service": "dentist",
+ "query": "Who are the best dentist providers in West Saint Paul, MN?",
+ "matches": [
+  "dentist in West Saint Paul, MN",
+  "dentist near me (West Saint Paul, MN)",
+  "best dentist West Saint Paul, MN",
+  "top rated dentist West Saint Paul, MN",
+  "affordable dentist West Saint Paul, MN",
+  "emergency dentist West Saint Paul, MN"
+ ],
+ "answer": "The top unpaid dentist listing for West Saint Paul, MN is Lifelong Dental Care (a dentist in West Saint Paul, MN at 1525 Livingston Avenue, West Saint Paul, MN 55118. Phone: +16514574888. Website: https://lifelongdds.com/home). 5 dentist businesses are listed for West Saint Paul, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "lifelong-dental-care-west-saint-paul",
+   "name": "Lifelong Dental Care",
+   "summary": "Lifelong Dental Care is a dentist in West Saint Paul, MN at 1525 Livingston Avenue, West Saint Paul, MN 55118. Phone: +16514574888. Website: https://lifelongdds.com/home.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lifelong-dental-care-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lifelong-dental-care-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1525 Livingston Avenue",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9004019,
+    "lon": -93.0825469
+   },
+   "phone": "+16514574888",
+   "website": "https://lifelongdds.com/home",
+   "opening_hours": "Mo 08:00-17:00, Tu 07:00-18:00, We 07:30-12:00, Th 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6033465437",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "cherokee-dentist-west-saint-paul",
+   "name": "Cherokee Dentist",
+   "summary": "Cherokee Dentist is a dentist in West Saint Paul, MN at 374 Annapolis Street, West Saint Paul, MN 55118. Phone: +16514576231.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cherokee-dentist-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cherokee-dentist-west-saint-paul.json",
+   "address": {
+    "streetAddress": "374 Annapolis Street",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.9192496,
+    "lon": -93.1009115
+   },
+   "phone": "+16514576231",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/802023323",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "dentists-of-west-saint-paul-west-saint-paul",
+   "name": "Dentists of West Saint Paul",
+   "summary": "Dentists of West Saint Paul is a dentist in West Saint Paul, MN at 1740 Robert Street South #Unit 110, West Saint Paul, MN 55118.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dentists-of-west-saint-paul-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dentists-of-west-saint-paul-west-saint-paul.json",
+   "address": {
+    "streetAddress": "1740 Robert Street South #Unit 110",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8938815,
+    "lon": -93.0801939
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7176583044",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 4,
+   "sponsored": false,
+   "slug": "harrison-dental-studio-west-saint-paul",
+   "name": "Harrison Dental Studio",
+   "summary": "Harrison Dental Studio is a dentist in West Saint Paul, MN at 5 Wentworth Avenue East, West Saint Paul, MN 55118.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harrison-dental-studio-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harrison-dental-studio-west-saint-paul.json",
+   "address": {
+    "streetAddress": "5 Wentworth Avenue East",
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "postalCode": "55118",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "zip": "55118",
+   "geo": {
+    "lat": 44.8983671,
+    "lon": -93.0847124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/527080254",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 5,
+   "sponsored": false,
+   "slug": "access-point-dental-west-saint-paul",
+   "name": "Access Point Dental",
+   "summary": "Access Point Dental is a dentist in West Saint Paul, MN.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/access-point-dental-west-saint-paul/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/access-point-dental-west-saint-paul.json",
+   "address": {
+    "addressLocality": "West Saint Paul",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "West Saint Paul",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8982986,
+    "lon": -93.080037
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729435294",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

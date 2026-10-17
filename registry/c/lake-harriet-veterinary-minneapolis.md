@@ -1,0 +1,23 @@
+Lake Harriet Veterinary is a veterinarian in Minneapolis, MN at 4249 Bryant Avenue South, Minneapolis, MN 55419. Phone: +18128221545. Website: https://lakeharrietvet.com/.
+
+# Lake Harriet Veterinary
+
+- Category: vet
+- Services: vet
+- Address: 4249 Bryant Avenue South, Minneapolis, MN 55419
+- City: Minneapolis
+- State: MN
+- ZIP: 55419
+- Coordinates: 44.9252482, -93.2906583
+- Phone: +18128221545
+- Website: https://lakeharrietvet.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-We,Fr 07:30-18:00; PH off; Sa 08:00-12:00; Th 07:30-18:00
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-harriet-veterinary-minneapolis/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-harriet-veterinary-minneapolis.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2359061273 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

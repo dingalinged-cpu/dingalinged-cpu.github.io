@@ -1,0 +1,23 @@
+US Cleaners is a dry cleaner in Minneapolis, MN.
+
+# US Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: Minneapolis, MN
+- City: Minneapolis
+- State: MN
+- ZIP: n/a
+- Coordinates: 44.9626296, -93.2370932
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-17
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/us-cleaners-minneapolis-n12869967159/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/us-cleaners-minneapolis-n12869967159.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12869967159 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

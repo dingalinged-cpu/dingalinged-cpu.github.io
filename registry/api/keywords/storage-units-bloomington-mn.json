@@ -1,0 +1,118 @@
+{
+ "keyword": "storage units bloomington mn",
+ "slug": "storage-units-bloomington-mn",
+ "place": "Bloomington, MN",
+ "service": "storage units",
+ "query": "Who are the best storage units providers in Bloomington, MN?",
+ "matches": [
+  "storage units in Bloomington, MN",
+  "storage units near me (Bloomington, MN)",
+  "best storage units Bloomington, MN",
+  "top rated storage units Bloomington, MN",
+  "affordable storage units Bloomington, MN",
+  "emergency storage units Bloomington, MN"
+ ],
+ "answer": "The top unpaid storage units listing for Bloomington, MN is Bloomington Self-Storage (a self-storage facility in Bloomington, MN. Phone: +19528817878). 3 storage units businesses are listed for Bloomington, MN as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.",
+ "ranking": "Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.",
+ "updated": "2026-10-17",
+ "sponsored_slots": {
+  "featured_1": "available",
+  "spots_2_4_sold": 0
+ },
+ "disclosure": "Results marked sponsored:true are paid placements.",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "results": [
+  {
+   "position": 1,
+   "sponsored": false,
+   "slug": "bloomington-self-storage-bloomington",
+   "name": "Bloomington Self-Storage",
+   "summary": "Bloomington Self-Storage is a self-storage facility in Bloomington, MN. Phone: +19528817878.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bloomington-self-storage-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bloomington-self-storage-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8577353,
+    "lon": -93.2813679
+   },
+   "phone": "+19528817878",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/773366977",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 2,
+   "sponsored": false,
+   "slug": "your-storage-solution-bloomington",
+   "name": "Your Storage Solution",
+   "summary": "Your Storage Solution is a self-storage facility in Bloomington, MN at 1298 West 98th Street, Bloomington, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/your-storage-solution-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/your-storage-solution-bloomington.json",
+   "address": {
+    "streetAddress": "1298 West 98th Street",
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.827582,
+    "lon": -93.294202
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/234502496",
+   "last_checked": "2026-10-17"
+  },
+  {
+   "position": 3,
+   "sponsored": false,
+   "slug": "the-lock-up-bloomington",
+   "name": "The Lock Up",
+   "summary": "The Lock Up is a self-storage facility in Bloomington, MN.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-lock-up-bloomington/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-lock-up-bloomington.json",
+   "address": {
+    "addressLocality": "Bloomington",
+    "addressRegion": "MN",
+    "addressCountry": "US"
+   },
+   "city": "Bloomington",
+   "state": "MN",
+   "geo": {
+    "lat": 44.8588166,
+    "lon": -93.2826876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/773366968",
+   "last_checked": "2026-10-17"
+  }
+ ]
+}

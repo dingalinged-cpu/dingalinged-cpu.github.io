@@ -1,0 +1,58 @@
+{
+ "slug": "anytime-fitness-new-hope",
+ "name": "Anytime Fitness",
+ "categories": [
+  "gym"
+ ],
+ "keywords": [
+  "gym",
+  "gym new hope mn"
+ ],
+ "services": [
+  {
+   "name": "gym",
+   "basis": "mapped from OpenStreetMap tags"
+  }
+ ],
+ "address": {
+  "streetAddress": "3540 Winnetka Avenue North",
+  "addressLocality": "New Hope",
+  "addressRegion": "MN",
+  "postalCode": "55427",
+  "addressCountry": "US"
+ },
+ "city": "New Hope",
+ "state": "MN",
+ "zip": "55427",
+ "geo": {
+  "lat": 45.0210935,
+  "lon": -93.3789399
+ },
+ "phone": "+17632089489",
+ "website": "https://www.anytimefitness.com/gyms/2914/new-hope-mn-55427/",
+ "brand": "Anytime Fitness",
+ "wikidata": "Q4778364",
+ "schema_type": "ExerciseGym",
+ "source": "OpenStreetMap",
+ "license": "ODbL-1.0",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "source_url": "https://www.openstreetmap.org/node/4183839907",
+ "osm": {
+  "type": "node",
+  "id": 4183839907,
+  "tags_used": {
+   "leisure": "fitness_centre"
+  }
+ },
+ "municipality": "New Hope",
+ "seed_metro": "twin-cities",
+ "source_snapshot": "2026-07-15",
+ "last_checked": "2026-10-17",
+ "last_updated": "2026-10-17",
+ "verified": false,
+ "claimable": true,
+ "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-new-hope/",
+ "summary": "Anytime Fitness is a gym in New Hope, MN at 3540 Winnetka Avenue North, New Hope, MN 55427. Phone: +17632089489. Website: https://www.anytimefitness.com/gyms/2914/new-hope-mn-55427/.",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

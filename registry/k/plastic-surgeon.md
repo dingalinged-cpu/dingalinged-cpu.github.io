@@ -1,0 +1,18 @@
+The top unpaid plastic surgeon listing for the United States is Ace Beauty & Wellness (a plastic surgeon in Minneapolis, MN at 1620 West Lake Street, Minneapolis, MN. Phone: +16125402745. Website: https://acebeautyandwellness.com/). 8 plastic surgeon businesses are listed for the United States as of 2026-10-17, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best plastic surgeon providers in the United States?
+
+Also answers: plastic surgeon in the United States; plastic surgeon near me (the United States); best plastic surgeon the United States; top rated plastic surgeon the United States; affordable plastic surgeon the United States; emergency plastic surgeon the United States
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Ace Beauty & Wellness | trust 19.0 | Ace Beauty & Wellness is a plastic surgeon in Minneapolis, MN at 1620 West Lake Street, Minneapolis, MN. Phone: +16125402745. Website: https://acebeautyandwellness.com/. | https://dingalinged-cpu.github.io/registry/c/ace-beauty-and-wellness-minneapolis/
+2. HealthPartners Specialty Center 401 Building | trust 16.0 | HealthPartners Specialty Center 401 Building is a family medicine practice in Saint Paul, MN at 401 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/401-specialty-center/. | https://dingalinged-cpu.github.io/registry/c/healthpartners-specialty-center-401-building-saint-paul/
+3. Light Rx Face and Body | trust 16.0 | Light Rx Face and Body is a plastic surgeon in Maple Grove, MN at 11720 Elm Creek Boulevard #Building A, Suite 140, Maple Grove, MN 55369. Phone: +19524446518. Website: https://www.lightrx.com/maple-grove/. | https://dingalinged-cpu.github.io/registry/c/light-rx-face-and-body-maple-grove/
+4. Afzal Clinics | trust 10.0 | Afzal Clinics is a plastic surgeon in Fridley, MN at 7362 University Avenue Northeast #Suite 201, Fridley, MN 55432. Website: https://afzalclinics.com/. | https://dingalinged-cpu.github.io/registry/c/afzal-clinics-fridley/
+5. Hilger Face Center | trust 10.0 | Hilger Face Center is a plastic surgeon in Edina, MN. Website: https://mphysicians.org/hilger. | https://dingalinged-cpu.github.io/registry/c/hilger-face-center-edina/
+6. Park Nicolet Specialty Center | trust 8.0 | Park Nicolet Specialty Center is a plastic surgeon in Saint Louis Park, MN at 5400 Excelsior Boulevard, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/park-nicolet-specialty-center-saint-louis-park/
+7. Facial Plastic Surgery: Edward Szachowicz, MD | trust 6.0 | Facial Plastic Surgery: Edward Szachowicz, MD is a plastic surgeon in Minneapolis, MN. Website: https://www.facialplasticsurgery.com/. | https://dingalinged-cpu.github.io/registry/c/facial-plastic-surgery-edward-szachowicz-md-minneapolis/
+8. Omni Cosmetic | trust 3.0 | Omni Cosmetic is a plastic surgeon in Wayzata, MN at 935 Glenbrook Road North, Wayzata, MN. | https://dingalinged-cpu.github.io/registry/c/omni-cosmetic-wayzata/
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
