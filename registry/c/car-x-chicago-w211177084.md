@@ -13,6 +13,7 @@ Car-X is an auto repair shop in Chicago, IL at 7424 South Stony Island Avenue, C
 - Website: https://www.carx.com/Chicago/7424-S-Stony-Island-Ave/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

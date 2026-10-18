@@ -13,6 +13,7 @@ Hickory Creek Family Dentistry is a dentist in New Lenox, IL at 561 East Lincoln
 - Website: https://www.hickorycreekfamilydentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

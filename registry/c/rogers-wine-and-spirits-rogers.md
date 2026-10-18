@@ -13,6 +13,7 @@ Rogers Wine & Spirits is a liquor store in Rogers, MN at 21725 South Diamond Lak
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

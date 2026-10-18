@@ -13,6 +13,7 @@ Firestone is an auto repair shop in The Colony, TX at 5283 Sam Rayburn Tollway, 
 - Website: https://local.firestonecompleteautocare.com/texas/the-colony/5283-state-highway-121/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-17:00; May Mo[-1] 07:00-17:00
+- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

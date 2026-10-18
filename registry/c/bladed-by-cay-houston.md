@@ -13,6 +13,7 @@ Bladed By Cay is a barber shop in Houston, TX at 14617 South Main Street, Housto
 - Website: https://bladed-by-cay.square.site/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-We 10:00-16:00; Th-Sa 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

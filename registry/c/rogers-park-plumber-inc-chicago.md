@@ -13,6 +13,7 @@ Rogers Park Plumber Inc. is a plumber in Chicago, IL at 7537 North Oakley Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 52.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

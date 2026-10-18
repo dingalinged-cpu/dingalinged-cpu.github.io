@@ -1,0 +1,418 @@
+{
+ "place": "Avondale Estates, GA",
+ "slug": "avondale-estates-ga",
+ "count": 12,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "bakery avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "dog groomer avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "florist avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "furniture store avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "gift shop avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "heating and air avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "hvac repair avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "liquor store avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "martial arts avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "mechanic avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-avondale-estates-ga.json"
+  },
+  {
+   "keyword": "thrift store avondale estates ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-avondale-estates-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "ace-and-a-hvac-heating-and-ac-repair-decatur",
+   "name": "Ace & A HVAC, Heating & AC Repair",
+   "summary": "Ace & A HVAC, Heating & AC Repair is a HVAC contractor in Decatur, GA at 2768 East College Avenue, Decatur, GA 30030. Phone: +14049915940. Website: https://www.aceanda.com/services/air-conditioning/air-conditioning-repair/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ace-and-a-hvac-heating-and-ac-repair-decatur/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ace-and-a-hvac-heating-and-ac-repair-decatur.json",
+   "address": {
+    "streetAddress": "2768 East College Avenue",
+    "addressLocality": "Decatur",
+    "addressRegion": "GA",
+    "postalCode": "30030",
+    "addressCountry": "US"
+   },
+   "city": "Decatur",
+   "state": "GA",
+   "zip": "30030",
+   "geo": {
+    "lat": 33.7753249,
+    "lon": -84.2766379
+   },
+   "phone": "+14049915940",
+   "website": "https://www.aceanda.com/services/air-conditioning/air-conditioning-repair/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12982356672",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "daisy-day-florist-avondale-estates",
+   "name": "Daisy Day Florist",
+   "summary": "Daisy Day Florist is a florist in Avondale Estates, GA at 8 North Clarendon Avenue, Avondale Estates, GA 30002. Phone: +14045004192. Website: https://daisydayfloristga.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/daisy-day-florist-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/daisy-day-florist-avondale-estates.json",
+   "address": {
+    "streetAddress": "8 North Clarendon Avenue",
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "postalCode": "30002",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "zip": "30002",
+   "geo": {
+    "lat": 33.77689,
+    "lon": -84.2675641
+   },
+   "phone": "+14045004192",
+   "website": "https://daisydayfloristga.com/",
+   "opening_hours": "Tu-Fr 10:00-17:00; Sa-Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13587046871",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "second-life-upscale-resale-avondale-estates",
+   "name": "Second Life Upscale Resale",
+   "summary": "Second Life Upscale Resale is a thrift store in Avondale Estates, GA at 1 N Clarendon Ave, Avondale Estates, GA 30002. Phone: +16789745671. Website: https://www.secondlifeatlanta.org/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/second-life-upscale-resale-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/second-life-upscale-resale-avondale-estates.json",
+   "address": {
+    "streetAddress": "1 N Clarendon Ave",
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "postalCode": "30002",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "zip": "30002",
+   "geo": {
+    "lat": 33.7768058,
+    "lon": -84.2670181
+   },
+   "phone": "+16789745671",
+   "website": "https://www.secondlifeatlanta.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/864676596",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "finders-keepers-consignment-furniture-and-decor-decatur",
+   "name": "Finders Keepers Consignment Furniture & Decor",
+   "summary": "Finders Keepers Consignment Furniture & Decor is a furniture store in Decatur, GA at 2853 East College Avenue, Decatur, GA 30030. Website: https://fkconsign.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/finders-keepers-consignment-furniture-and-decor-decatur/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/finders-keepers-consignment-furniture-and-decor-decatur.json",
+   "address": {
+    "streetAddress": "2853 East College Avenue",
+    "addressLocality": "Decatur",
+    "addressRegion": "GA",
+    "postalCode": "30030",
+    "addressCountry": "US"
+   },
+   "city": "Decatur",
+   "state": "GA",
+   "zip": "30030",
+   "geo": {
+    "lat": 33.7747516,
+    "lon": -84.2732568
+   },
+   "website": "https://fkconsign.com/",
+   "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7105460733",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-beer-growler-avondale-estates",
+   "name": "The Beer Growler",
+   "summary": "The Beer Growler is a liquor store in Avondale Estates, GA at 38A North Avondale Road, Avondale Estates, GA 30002.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-beer-growler-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-beer-growler-avondale-estates.json",
+   "address": {
+    "streetAddress": "38A North Avondale Road",
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "postalCode": "30002",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "zip": "30002",
+   "geo": {
+    "lat": 33.7758276,
+    "lon": -84.2713655
+   },
+   "opening_hours": "Mo 16:00+; Tu-Th 11:00-21:00; Fr-Sa 11:00-23:00; Su 12:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1104944110",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eds-auto-services-avondale-estates",
+   "name": "Ed's Auto Services",
+   "summary": "Ed's Auto Services is an auto repair shop in Avondale Estates, GA at 2816 Franklin Street, Avondale Estates, GA 30002.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eds-auto-services-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eds-auto-services-avondale-estates.json",
+   "address": {
+    "streetAddress": "2816 Franklin Street",
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "postalCode": "30002",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "zip": "30002",
+   "geo": {
+    "lat": 33.776423,
+    "lon": -84.2748178
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/105272172",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-yankee-clipper-avondale-estates",
+   "name": "The Yankee Clipper",
+   "summary": "The Yankee Clipper is a dog groomer in Avondale Estates, GA at 2 Pine Street, Avondale Estates, GA 30002.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-yankee-clipper-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-yankee-clipper-avondale-estates.json",
+   "address": {
+    "streetAddress": "2 Pine Street",
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "postalCode": "30002",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "zip": "30002",
+   "geo": {
+    "lat": 33.775721,
+    "lon": -84.2731431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7105460738",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aikido-center-of-atlanta-avondale-estates",
+   "name": "Aikido Center of Atlanta",
+   "summary": "Aikido Center of Atlanta is a martial arts school in Avondale Estates, GA.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aikido-center-of-atlanta-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aikido-center-of-atlanta-avondale-estates.json",
+   "address": {
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7767077,
+    "lon": -84.2686979
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11298850783",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "decatur-auto-tech-avondale-estates",
+   "name": "Decatur Auto Tech",
+   "summary": "Decatur Auto Tech is an auto repair shop in Avondale Estates, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/decatur-auto-tech-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/decatur-auto-tech-avondale-estates.json",
+   "address": {
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "geo": {
+    "lat": 33.774669,
+    "lon": -84.2781187
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11298850808",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "galette-avondale-estates",
+   "name": "Galette",
+   "summary": "Galette is a bakery in Avondale Estates, GA.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/galette-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/galette-avondale-estates.json",
+   "address": {
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7763295,
+    "lon": -84.2679706
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13089226732",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "garage-door-studio-avondale-estates",
+   "name": "Garage Door Studio",
+   "summary": "Garage Door Studio is a gift shop in Avondale Estates, GA.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garage-door-studio-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garage-door-studio-avondale-estates.json",
+   "address": {
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7764688,
+    "lon": -84.2675352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7105460719",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jax-package-avondale-estates",
+   "name": "Jax Package",
+   "summary": "Jax Package is a liquor store in Avondale Estates, GA.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jax-package-avondale-estates/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jax-package-avondale-estates.json",
+   "address": {
+    "addressLocality": "Avondale Estates",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Avondale Estates",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7753086,
+    "lon": -84.2769902
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7105460725",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

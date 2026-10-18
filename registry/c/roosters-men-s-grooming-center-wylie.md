@@ -13,6 +13,7 @@ Roosters Men’s Grooming Center is a hair salon in Wylie, TX at 809 Woodbridge 
 - Website: https://www.roostersmgc.com/locations/nearme/haircut/tx/wylie/kroger/13245
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00
+- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

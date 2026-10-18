@@ -13,6 +13,7 @@ Momentum BMW is an used car dealer in Houston, TX at 9570 Southwest Freeway, Hou
 - Website: https://www.momentumbmw.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

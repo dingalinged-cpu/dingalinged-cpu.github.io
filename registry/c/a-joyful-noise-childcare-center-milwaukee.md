@@ -13,6 +13,7 @@ A Joyful Noise Childcare Center is a daycare in Milwaukee, WI at 9700,9706,9720 
 - Website: https://www.ajoyfulnoisechildcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-00:00; Sa 06:00-18:00
+- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

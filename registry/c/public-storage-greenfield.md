@@ -13,6 +13,7 @@ Public Storage is a self-storage facility in Greenfield, WI at 4750 South 108th 
 - Website: https://www.publicstorage.com/self-storage-wi-greenfield/1285.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-21:00
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

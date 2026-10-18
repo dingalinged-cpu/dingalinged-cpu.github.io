@@ -13,6 +13,7 @@ Dr Gloria Lopez Franco, DDS is a dentist in Saint Paul, MN at 120 Snelling Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-18:00; Tu-We 09:00-18:00; Th 08:00-17:00; Fr 08:00-12:00
+- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Orthodontics - David C Dueval, DDS, MS is a dentist in Maplewood, MN at 2480 Whi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

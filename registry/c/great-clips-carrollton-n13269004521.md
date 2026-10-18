@@ -13,6 +13,7 @@ Great Clips is a hair salon in Carrollton, TX at 4009 Old Denton Road #116, Carr
 - Website: https://salons.greatclips.com/us/tx/carrollton/4009-old-denton-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Planet Fitness is a gym in Crestwood, IL at 4917 Cal Sag Road, Crestwood, IL 604
 - Website: https://www.planetfitness.com/gyms/crestwood-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 46.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Victory Vintage is a thrift store in Minneapolis, MN at 3505 West 44th Street, M
 - Website: https://www.shopvictory.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Sa 11:00-16:00
+- Registry Score: 59.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

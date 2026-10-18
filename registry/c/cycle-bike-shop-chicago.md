@@ -13,6 +13,7 @@ Cycle Bike Shop is a bike shop in Chicago, IL at 2130 South Halsted Street, Chic
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
+- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

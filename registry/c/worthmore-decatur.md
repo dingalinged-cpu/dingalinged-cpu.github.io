@@ -1,0 +1,24 @@
+Worthmore is a jewelry store in Decatur, GA at 117, Decatur, GA. Website: https://www.worthmorejewelers.com/.
+
+# Worthmore
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 117, Decatur, GA
+- City: Decatur
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.7749325, -84.2958182
+- Phone: n/a
+- Website: https://www.worthmorejewelers.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/worthmore-decatur/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/worthmore-decatur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/544530641 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

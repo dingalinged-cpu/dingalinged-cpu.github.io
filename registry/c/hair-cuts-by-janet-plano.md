@@ -13,6 +13,7 @@ Hair Cuts By Janet is a hair salon in Plano, TX at 3921 West Park Boulevard #150
 - Website: https://haircuts-by-janet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 14:00-18:00; Tu-Sa 09:30-18:00
+- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

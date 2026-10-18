@@ -1,0 +1,459 @@
+{
+ "place": "Douglas County, GA",
+ "slug": "douglas-county-ga",
+ "count": 14,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-douglas-county-ga.json"
+  },
+  {
+   "keyword": "car wash douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-douglas-county-ga.json"
+  },
+  {
+   "keyword": "daycare douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-douglas-county-ga.json"
+  },
+  {
+   "keyword": "gym douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-douglas-county-ga.json"
+  },
+  {
+   "keyword": "hair salon douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-douglas-county-ga.json"
+  },
+  {
+   "keyword": "haircut douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-douglas-county-ga.json"
+  },
+  {
+   "keyword": "insurance agency douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-douglas-county-ga.json"
+  },
+  {
+   "keyword": "insurance agent douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-douglas-county-ga.json"
+  },
+  {
+   "keyword": "insurance agents douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-douglas-county-ga.json"
+  },
+  {
+   "keyword": "mechanic douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-douglas-county-ga.json"
+  },
+  {
+   "keyword": "podiatrist douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/podiatrist-douglas-county-ga.json"
+  },
+  {
+   "keyword": "preschool douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-douglas-county-ga.json"
+  },
+  {
+   "keyword": "storage units douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-douglas-county-ga.json"
+  },
+  {
+   "keyword": "thrift store douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-douglas-county-ga.json"
+  },
+  {
+   "keyword": "used cars for sale douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-douglas-county-ga.json"
+  },
+  {
+   "keyword": "vet douglas county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-douglas-county-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "riverstones-academy-douglas-county",
+   "name": "Riverstones Academy",
+   "summary": "Riverstones Academy is a daycare in Douglas County, GA at 4773 Chapel Hill Road, Douglas County, GA. Website: https://www.riverstonesacademy.com/douglasville.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riverstones-academy-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riverstones-academy-douglas-county.json",
+   "address": {
+    "streetAddress": "4773 Chapel Hill Road",
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6758817,
+    "lon": -84.7187404
+   },
+   "website": "https://www.riverstonesacademy.com/douglasville",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1452619005",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carmax-douglas-county",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Douglas County, GA. Website: https://www.carmax.com/stores/7243.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7858895,
+    "lon": -84.610024
+   },
+   "website": "https://www.carmax.com/stores/7243",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010684887",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "atlanta-cheer-academy-douglas-county",
+   "name": "Atlanta Cheer Academy",
+   "summary": "Atlanta Cheer Academy is a gym in Douglas County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlanta-cheer-academy-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlanta-cheer-academy-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.763153,
+    "lon": -84.7204745
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010673850",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bp-douglas-county",
+   "name": "BP",
+   "summary": "BP is a car wash in Douglas County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7796169,
+    "lon": -84.608181
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/562439855",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "classic-hair-salon-douglas-county",
+   "name": "Classic Hair Salon",
+   "summary": "Classic Hair Salon is a hair salon in Douglas County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/classic-hair-salon-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/classic-hair-salon-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7136686,
+    "lon": -84.7702701
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9324714035",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cuttin-edge-douglas-county",
+   "name": "Cuttin' Edge",
+   "summary": "Cuttin' Edge is a hair salon in Douglas County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cuttin-edge-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cuttin-edge-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6927099,
+    "lon": -84.7962938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3763981285",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "georgia-blue-douglas-county",
+   "name": "Georgia Blue",
+   "summary": "Georgia Blue is a podiatrist in Douglas County, GA.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/georgia-blue-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/georgia-blue-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7135778,
+    "lon": -84.7702682
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9324714036",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "green-acres-preschool-douglas-county",
+   "name": "Green Acres Preschool",
+   "summary": "Green Acres Preschool is a preschool in Douglas County, GA.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/green-acres-preschool-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/green-acres-preschool-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6865584,
+    "lon": -84.8008391
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3763981290",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hwy-5-animal-hospital-douglas-county",
+   "name": "Hwy 5 Animal Hospital",
+   "summary": "Hwy 5 Animal Hospital is a veterinarian in Douglas County, GA.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hwy-5-animal-hospital-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hwy-5-animal-hospital-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7150561,
+    "lon": -84.7672156
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/318944586",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "life-storage-douglas-county",
+   "name": "Life Storage",
+   "summary": "Life Storage is a self-storage facility in Douglas County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-storage-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-storage-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7969075,
+    "lon": -84.6463336
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9346023047",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midas-douglas-county",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Douglas County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.791327,
+    "lon": -84.6267575
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010685539",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "starz-preschool-douglas-county",
+   "name": "Starz Preschool",
+   "summary": "Starz Preschool is a preschool in Douglas County, GA.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/starz-preschool-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/starz-preschool-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.713694,
+    "lon": -84.7689753
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9324714028",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-douglas-county",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Douglas County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7132634,
+    "lon": -84.7704026
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/318944590",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "value-village-douglas-county",
+   "name": "Value Village",
+   "summary": "Value Village is a thrift store in Douglas County, GA.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/value-village-douglas-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/value-village-douglas-county.json",
+   "address": {
+    "addressLocality": "Douglas County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Douglas County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.7191605,
+    "lon": -84.763771
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010666386",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

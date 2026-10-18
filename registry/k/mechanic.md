@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for the United States is A Plus Transmission Specialists (an auto repair shop in Rosenberg, TX at 27857 Southwest Freeway, Rosenberg, TX 77471. Phone: +12812020023. Website: https://aplustransmissions.com/locations/houston/rosenberg/). 2429 mechanic businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for the United States is 24 Hr Tire Shop/Roadside Assistance (an auto repair shop in Smyrna, GA at 1075 Windy Hill Road Southeast, Smyrna, GA 30080. Phone: +16784038005. Website: https://www.24hoursroadassistance.com/). 3097 mechanic businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in the United States?
 
@@ -6,82 +6,93 @@ Also answers: mechanic in the United States; mechanic near me (the United States
 
 Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
 
-1. A Plus Transmission Specialists | trust 20.0 | A Plus Transmission Specialists is an auto repair shop in Rosenberg, TX at 27857 Southwest Freeway, Rosenberg, TX 77471. Phone: +12812020023. Website: https://aplustransmissions.com/locations/houston/rosenberg/. | https://dingalinged-cpu.github.io/registry/c/a-plus-transmission-specialists-rosenberg/
-2. A&A Auto Care | trust 20.0 | A&A Auto Care is an auto repair shop in South Saint Paul, MN at 1201 5th Avenue South, South Saint Paul, MN 55075. Phone: +16513749536. Website: https://aandaautocare.com/. | https://dingalinged-cpu.github.io/registry/c/a-and-a-auto-care-south-saint-paul/
-3. A&A Auto Glass Discounters & Body Shop | trust 20.0 | A&A Auto Glass Discounters & Body Shop is an auto repair shop in Houston, TX at 2011 Gessner Road, Houston, TX 77080. Phone: +17139849006. Website: https://autoglassdiscounter.com/. | https://dingalinged-cpu.github.io/registry/c/a-and-a-auto-glass-discounters-and-body-shop-houston/
-4. A1 Tires and Wheels | trust 20.0 | A1 Tires and Wheels is an auto repair shop in Dallas, TX at 1224 East Ledbetter Drive, Dallas, TX 75216. Phone: +12143741744. Website: https://a1tires-wheels.com/. | https://dingalinged-cpu.github.io/registry/c/a1-tires-and-wheels-dallas/
-5. Able Auto Glass | trust 20.0 | Able Auto Glass is an auto repair shop in Houston, TX at 2403 Naomi Street #10, Houston, TX 77054. Phone: +17133838055. Website: https://www.ableautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/able-auto-glass-houston/
-6. Alamo Doors & Gates | trust 20.0 | Alamo Doors & Gates is an auto repair shop in Arlington, TX at 300 South Bowen Road, Arlington, TX 76013. Phone: +18172652563. Website: https://www.alamodoor.com/. | https://dingalinged-cpu.github.io/registry/c/alamo-doors-and-gates-arlington/
-7. Albeik Auto Service | trust 20.0 | Albeik Auto Service is an auto repair shop in Milwaukee, WI at 5101 West North Avenue, Milwaukee, WI 53208. Phone: +14148004134. Website: https://www.napaonline.com/en/autocare/?facilityId=1351500. | https://dingalinged-cpu.github.io/registry/c/albeik-auto-service-milwaukee/
-8. All About Autos | trust 20.0 | All About Autos is an auto repair shop in Hurst, TX at 1261 West Hurst Blvd, Hurst, TX 76053. Phone: +18172842288. Website: https://www.allaboutautosdfw.net/. | https://dingalinged-cpu.github.io/registry/c/all-about-autos-hurst/
-9. All Star Muffler & Brake | trust 20.0 | All Star Muffler & Brake is an auto repair shop in Conroe, TX at 3900 FM 1488, Conroe, TX 77384. Phone: +19363215617. Website: https://www.allstarmufflerbrake.com/. | https://dingalinged-cpu.github.io/registry/c/all-star-muffler-and-brake-conroe/
-10. Allstar Glass Corporation | trust 20.0 | Allstar Glass Corporation is an auto repair shop in Houston, TX at 5138 North Highway 6, Houston, TX 77084. Phone: +12815757575. Website: https://allstar-glass.com/. | https://dingalinged-cpu.github.io/registry/c/allstar-glass-corporation-houston/
-11. America's Xtreme Auto | trust 20.0 | America's Xtreme Auto is an auto repair shop in Houston, TX at 7200 Gulf Freeway, Houston, TX 77017. Phone: +18325530010. Website: https://www.axautostx.com/. | https://dingalinged-cpu.github.io/registry/c/americas-xtreme-auto-houston/
-12. AMI Auto Glass | trust 20.0 | AMI Auto Glass is an auto repair shop in Hurst, TX at 1501 West Hurst Blvd #A, Hurst, TX 76053. Phone: +18175900704. Website: https://amiautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/ami-auto-glass-hurst/
-13. Andy & George's Auto Service Center | trust 20.0 | Andy & George's Auto Service Center is an auto repair shop in Bloomington, MN at 521 West 90th Street, Bloomington, MN 55420. Phone: +19528844675. Website: https://andyandgeorgesautoservice.com/. | https://dingalinged-cpu.github.io/registry/c/andy-and-georges-auto-service-center-bloomington/
-14. Aqualux Auto Spa | trust 20.0 | Aqualux Auto Spa is an auto repair shop in Glenview, IL at 1822 Pickwick Avenue, Glenview, IL 60026. Phone: +18479042160. Website: https://www.aqualuxautospa.com/. | https://dingalinged-cpu.github.io/registry/c/aqualux-auto-spa-glenview/
-15. Atlas Auto Glass | trust 20.0 | Atlas Auto Glass is an auto repair shop in Houston, TX at 11033 Tower Oaks Boulevard, Houston, TX 77065. Phone: +17135200726. Website: https://atlasautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-glass-houston/
-16. Atlas Auto Glass | trust 20.0 | Atlas Auto Glass is an auto repair shop in Houston, TX at 8070 Moline Street, Houston, TX 77087. Phone: +17136401844. Website: https://atlasautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-glass-houston-n13727422208/
-17. Atlas Auto Glass | trust 20.0 | Atlas Auto Glass is an auto repair shop in Houston, TX at 505 Fairview Street, Houston, TX 77006. Phone: +17135201844. Website: https://atlasautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-glass-houston-n13727426457/
-18. Atlas Auto Glass | trust 20.0 | Atlas Auto Glass is an auto repair shop in Houston, TX at 1712 West Dallas Street, Houston, TX 77019. Phone: +17136581754. Website: https://atlasautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-glass-houston-n13727944706/
-19. Auto Cave LLC | trust 20.0 | Auto Cave LLC is an auto repair shop in Milwaukee, WI at 9838 West Appleton Avenue, Milwaukee, WI 53225. Phone: +14148037245. Website: https://autocavellc.com/. | https://dingalinged-cpu.github.io/registry/c/auto-cave-llc-milwaukee/
-20. Auto Check | trust 20.0 | Auto Check is an auto repair shop in Houston, TX at 13423 Briar Forest Drive, Houston, TX 77077. Phone: +12814977700. Website: https://autocheck.net/. | https://dingalinged-cpu.github.io/registry/c/auto-check-houston/
-21. Automatic Transmission Design, Inc. | trust 20.0 | Automatic Transmission Design, Inc. is an auto repair shop in Village of Germantown, WI at W140N10145 Fond du Lac Avenue, Village of Germantown, WI 53022. Phone: +12622517777. Website: https://www.autotransdesign.com/. | https://dingalinged-cpu.github.io/registry/c/automatic-transmission-design-inc-village-of-germantown/
-22. Automotive Repair Center | trust 20.0 | Automotive Repair Center is an auto repair shop in Shakopee, MN at 936 1st Avenue East, Shakopee, MN 55379. Phone: +19524457776. Website: https://affordablecarrepair.biz/. | https://dingalinged-cpu.github.io/registry/c/automotive-repair-center-shakopee/
-23. AutoTint Houston | trust 20.0 | AutoTint Houston is an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/. | https://dingalinged-cpu.github.io/registry/c/autotint-houston-humble/
-24. B&L Auto Body | trust 20.0 | B&L Auto Body is an auto repair shop in Naperville, IL at 1340 West Ogden Avenue, Naperville, IL 60563. Phone: +16303550865. Website: https://www.blautobodynaperville.com/. | https://dingalinged-cpu.github.io/registry/c/b-and-l-auto-body-naperville/
-25. Barebones Auto & Diesel Repar | trust 20.0 | Barebones Auto & Diesel Repar is an auto repair shop in Denton, TX at 3826 Market Street, Denton, TX 76209. Phone: +14696447100. Website: https://wwwbarebonesautodenton.com/. | https://dingalinged-cpu.github.io/registry/c/barebones-auto-and-diesel-repar-denton/
-26. Bengal Automotive | trust 20.0 | Bengal Automotive is an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bengal-automotive-dallas/
-27. Benjamin's Automotive | trust 20.0 | Benjamin's Automotive is an auto repair shop in Seabrook, TX at 2830 East NASA Parkway, Seabrook, TX 77586. Phone: +12812919823. Website: https://benjaminsautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/benjamins-automotive-seabrook/
-28. Bennett Coachworks | trust 20.0 | Bennett Coachworks is an auto repair shop in Milwaukee, WI at 1500 North Vel R. Phillips Avenue, Milwaukee, WI 53212. Phone: +14142982068. Website: https://www.hotrodbuilders.com/. | https://dingalinged-cpu.github.io/registry/c/bennett-coachworks-milwaukee/
-29. Bloomington Collision Center | trust 20.0 | Bloomington Collision Center is an auto repair shop in Bloomington, MN at 9735 Humboldt Avenue South, Bloomington, MN 55431. Phone: +19528886656. Website: https://www.bloomingtoncollisioncenter.com/. | https://dingalinged-cpu.github.io/registry/c/bloomington-collision-center-bloomington/
-30. Blue Diamond Auto Glass | trust 20.0 | Blue Diamond Auto Glass is an auto repair shop in Houston, TX at 9850 Westpark Drive, Houston, TX 77063. Phone: +18327732220. Website: https://bluediamondautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/blue-diamond-auto-glass-houston/
-31. Bluemound Automotive, Inc. | trust 20.0 | Bluemound Automotive, Inc. is an auto repair shop in Wauwatosa, WI at 6000 West Bluemound Road, Wauwatosa, WI 53213. Phone: +14142581000. Website: https://www.bluemoundautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bluemound-automotive-inc-wauwatosa/
-32. BLVD Autoworks | trust 20.0 | BLVD Autoworks is an auto repair shop in Saint Anthony, MN at 2801 Kenzie Terr, Saint Anthony, MN 55418. Phone: +16127895148. Website: https://www.blvdautoworks.com/. | https://dingalinged-cpu.github.io/registry/c/blvd-autoworks-saint-anthony/
-33. Bob Carter's Auto Body Inc | trust 20.0 | Bob Carter's Auto Body Inc is an auto repair shop in Downers Grove, IL at 4309 Fairview Avenue, Downers Grove, IL 60515. Phone: +16308523578. Website: https://bobcartersautobody.com/. | https://dingalinged-cpu.github.io/registry/c/bob-carters-auto-body-inc-downers-grove/
-34. Brake Check | trust 20.0 | Brake Check is an auto repair shop in Spring, TX at 5913 FM 2920, Spring, TX 77388. Phone: +12815286554. Website: https://brakecheck.com/spring-fm-2920-rd-kuykendahl-rd-550. | https://dingalinged-cpu.github.io/registry/c/brake-check-spring/
-35. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Allen, TX at 1711 North Greenville Avenue, Allen, TX 75002. Phone: +14695513411. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-allen/
-36. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Carrollton, TX at 1961 East Frankford Road, Carrollton, TX 75007. Phone: +19724928025. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-carrollton/
-37. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Frisco, TX at 16151 Eldorado Parkway #200, Frisco, TX 75035. Phone: +12144915787. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-frisco/
-38. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Frisco, TX at 9049 Preston Vineyard Drive, Frisco, TX 75035. Phone: +14696339717. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-frisco-w554350720/
-39. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Lewisville, TX at 1544 West Main Street, Lewisville, TX 75067. Phone: +12142228044. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-lewisville/
-40. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Little Elm, TX at 26585 East University Drive, Little Elm, TX 76227. Phone: +19404405510. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-little-elm/
-41. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Little Elm, TX at 2201 Fm 423, Little Elm, TX 75068. Phone: +14698885043. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-little-elm-n5649897882/
-42. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in McKinney, TX at 2225 West University Drive, McKinney, TX 75071. Phone: +12144915080. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-mckinney/
-43. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Plano, TX at 3304 Coit Road, Plano, TX 75023. Phone: +19725199777. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-plano/
-44. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Plano, TX at 8620 Ohio Drive, Plano, TX 75024. Phone: +19723776599. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-plano-w259565916/
-45. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Prosper, TX at 5010 West University Drive, Prosper, TX 75078. Phone: +14697154700. Website: https://www.brakesplus.com/stores/prosper/tx/0313/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-prosper/
-46. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Roanoke, TX at 1665 North US Highway 377, Roanoke, TX 76262. Phone: +16823630510. Website: https://www.brakesplus.com/stores/roanoke/tx/0333/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-roanoke/
-47. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Rowlett, TX at 4902 Rowlett Road, Rowlett, TX 75088. Phone: +19724127075. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-rowlett/
-48. Bridgeview Auto Center | trust 20.0 | Bridgeview Auto Center is an auto repair shop in Bridgeview, IL at 9059 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085983155. Website: https://www.bridgeviewautocenter.com/. | https://dingalinged-cpu.github.io/registry/c/bridgeview-auto-center-bridgeview/
-49. Busse Automotive And Detail Center | trust 20.0 | Busse Automotive And Detail Center is an auto repair shop in Mount Prospect, IL at 113 East Prospect Avenue, Mount Prospect, IL 60056. Phone: +18472531634. Website: https://busseautocare.com/. | https://dingalinged-cpu.github.io/registry/c/busse-automotive-and-detail-center-mount-prospect/
-50. C&T Auto Services | trust 20.0 | C&T Auto Services is an auto repair shop in Chicago, IL at 9200 South Stony Island Avenue, Chicago, IL 60617. Phone: +17734373082. Website: https://candtautoservices.com/. | https://dingalinged-cpu.github.io/registry/c/c-and-t-auto-services-chicago/
+1. 24 Hr Tire Shop/Roadside Assistance | trust 20.0 | 24 Hr Tire Shop/Roadside Assistance is an auto repair shop in Smyrna, GA at 1075 Windy Hill Road Southeast, Smyrna, GA 30080. Phone: +16784038005. Website: https://www.24hoursroadassistance.com/. | https://dingalinged-cpu.github.io/registry/c/24-hr-tire-shop-roadside-assistance-smyrna/
+2. A Plus Transmission Specialists | trust 20.0 | A Plus Transmission Specialists is an auto repair shop in Rosenberg, TX at 27857 Southwest Freeway, Rosenberg, TX 77471. Phone: +12812020023. Website: https://aplustransmissions.com/locations/houston/rosenberg/. | https://dingalinged-cpu.github.io/registry/c/a-plus-transmission-specialists-rosenberg/
+3. A&A Auto Care | trust 20.0 | A&A Auto Care is an auto repair shop in South Saint Paul, MN at 1201 5th Avenue South, South Saint Paul, MN 55075. Phone: +16513749536. Website: https://aandaautocare.com/. | https://dingalinged-cpu.github.io/registry/c/a-and-a-auto-care-south-saint-paul/
+4. A&A Auto Glass Discounters & Body Shop | trust 20.0 | A&A Auto Glass Discounters & Body Shop is an auto repair shop in Houston, TX at 2011 Gessner Road, Houston, TX 77080. Phone: +17139849006. Website: https://autoglassdiscounter.com/. | https://dingalinged-cpu.github.io/registry/c/a-and-a-auto-glass-discounters-and-body-shop-houston/
+5. A&R Auto and Emission LLC | trust 20.0 | A&R Auto and Emission LLC is an auto repair shop in Stonecrest, GA at 3207 Garden Glade Lane, Stonecrest, GA 30038. Phone: +16785981082. Website: https://anrautoandemissions.com/services. | https://dingalinged-cpu.github.io/registry/c/a-and-r-auto-and-emission-llc-stonecrest/
+6. A1 Tires and Wheels | trust 20.0 | A1 Tires and Wheels is an auto repair shop in Dallas, TX at 1224 East Ledbetter Drive, Dallas, TX 75216. Phone: +12143741744. Website: https://a1tires-wheels.com/. | https://dingalinged-cpu.github.io/registry/c/a1-tires-and-wheels-dallas/
+7. AAA East Cobb Service Center | trust 20.0 | AAA East Cobb Service Center is an auto repair shop in Marietta, GA at 1197 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17705655700. Website: https://autoclubsouth.aaa.com/Branches/Branch.aspx?branchid=053. | https://dingalinged-cpu.github.io/registry/c/aaa-east-cobb-service-center-marietta/
+8. AAMCO Transmission | trust 20.0 | AAMCO Transmission is an auto repair shop in Marietta, GA at 1702 Cobb Parkway South, Marietta, GA 30060. Phone: +16783834715. Website: https://www.aamcomarietta-cobbparkway.com/. | https://dingalinged-cpu.github.io/registry/c/aamco-transmission-marietta/
+9. Able Auto Glass | trust 20.0 | Able Auto Glass is an auto repair shop in Houston, TX at 2403 Naomi Street #10, Houston, TX 77054. Phone: +17133838055. Website: https://www.ableautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/able-auto-glass-houston/
+10. ABRA Auto Body & Glass | trust 20.0 | ABRA Auto Body & Glass is an auto repair shop in Marietta, GA at 1770 Cobb Parkway South, Marietta, GA 30060. Phone: +17709561134. Website: https://www.abraauto.com/abra-auto-location/auto-body-and-glass-repair-shop-marietta-cobb-parkway-ga/. | https://dingalinged-cpu.github.io/registry/c/abra-auto-body-and-glass-marietta/
+11. Alamo Doors & Gates | trust 20.0 | Alamo Doors & Gates is an auto repair shop in Arlington, TX at 300 South Bowen Road, Arlington, TX 76013. Phone: +18172652563. Website: https://www.alamodoor.com/. | https://dingalinged-cpu.github.io/registry/c/alamo-doors-and-gates-arlington/
+12. Albeik Auto Service | trust 20.0 | Albeik Auto Service is an auto repair shop in Milwaukee, WI at 5101 West North Avenue, Milwaukee, WI 53208. Phone: +14148004134. Website: https://www.napaonline.com/en/autocare/?facilityId=1351500. | https://dingalinged-cpu.github.io/registry/c/albeik-auto-service-milwaukee/
+13. All About Autos | trust 20.0 | All About Autos is an auto repair shop in Hurst, TX at 1261 West Hurst Blvd, Hurst, TX 76053. Phone: +18172842288. Website: https://www.allaboutautosdfw.net/. | https://dingalinged-cpu.github.io/registry/c/all-about-autos-hurst/
+14. All Star Muffler & Brake | trust 20.0 | All Star Muffler & Brake is an auto repair shop in Conroe, TX at 3900 FM 1488, Conroe, TX 77384. Phone: +19363215617. Website: https://www.allstarmufflerbrake.com/. | https://dingalinged-cpu.github.io/registry/c/all-star-muffler-and-brake-conroe/
+15. Allstar Glass Corporation | trust 20.0 | Allstar Glass Corporation is an auto repair shop in Houston, TX at 5138 North Highway 6, Houston, TX 77084. Phone: +12815757575. Website: https://allstar-glass.com/. | https://dingalinged-cpu.github.io/registry/c/allstar-glass-corporation-houston/
+16. America's Xtreme Auto | trust 20.0 | America's Xtreme Auto is an auto repair shop in Houston, TX at 7200 Gulf Freeway, Houston, TX 77017. Phone: +18325530010. Website: https://www.axautostx.com/. | https://dingalinged-cpu.github.io/registry/c/americas-xtreme-auto-houston/
+17. AMI Auto Glass | trust 20.0 | AMI Auto Glass is an auto repair shop in Hurst, TX at 1501 West Hurst Blvd #A, Hurst, TX 76053. Phone: +18175900704. Website: https://amiautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/ami-auto-glass-hurst/
+18. Andy & George's Auto Service Center | trust 20.0 | Andy & George's Auto Service Center is an auto repair shop in Bloomington, MN at 521 West 90th Street, Bloomington, MN 55420. Phone: +19528844675. Website: https://andyandgeorgesautoservice.com/. | https://dingalinged-cpu.github.io/registry/c/andy-and-georges-auto-service-center-bloomington/
+19. Anthem Automotive | trust 20.0 | Anthem Automotive is an auto repair shop in Atlanta, GA at 2163 Piedmont Road Northeast, Atlanta, GA 30324. Phone: +14047937503. Website: https://www.anthemauto.com/. | https://dingalinged-cpu.github.io/registry/c/anthem-automotive-atlanta/
+20. Apex | trust 20.0 | Apex is an auto repair shop in Madison, WI at 3029 Milwaukee Street, Madison, WI 53714. Phone: +16084425000. Website: https://apexautoshop.net/. | https://dingalinged-cpu.github.io/registry/c/apex-madison/
+21. Aqualux Auto Spa | trust 20.0 | Aqualux Auto Spa is an auto repair shop in Glenview, IL at 1822 Pickwick Avenue, Glenview, IL 60026. Phone: +18479042160. Website: https://www.aqualuxautospa.com/. | https://dingalinged-cpu.github.io/registry/c/aqualux-auto-spa-glenview/
+22. Atlanta Luxury Window Tinting | trust 20.0 | Atlanta Luxury Window Tinting is an auto repair shop in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +16782450748. Website: https://www.atlantaluxurywindowtinting.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-luxury-window-tinting-atlanta/
+23. Atlas Auto Glass | trust 20.0 | Atlas Auto Glass is an auto repair shop in Houston, TX at 11033 Tower Oaks Boulevard, Houston, TX 77065. Phone: +17135200726. Website: https://atlasautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-glass-houston/
+24. Atlas Auto Glass | trust 20.0 | Atlas Auto Glass is an auto repair shop in Houston, TX at 8070 Moline Street, Houston, TX 77087. Phone: +17136401844. Website: https://atlasautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-glass-houston-n13727422208/
+25. Atlas Auto Glass | trust 20.0 | Atlas Auto Glass is an auto repair shop in Houston, TX at 505 Fairview Street, Houston, TX 77006. Phone: +17135201844. Website: https://atlasautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-glass-houston-n13727426457/
+26. Atlas Auto Glass | trust 20.0 | Atlas Auto Glass is an auto repair shop in Houston, TX at 1712 West Dallas Street, Houston, TX 77019. Phone: +17136581754. Website: https://atlasautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-glass-houston-n13727944706/
+27. Auto Cave LLC | trust 20.0 | Auto Cave LLC is an auto repair shop in Milwaukee, WI at 9838 West Appleton Avenue, Milwaukee, WI 53225. Phone: +14148037245. Website: https://autocavellc.com/. | https://dingalinged-cpu.github.io/registry/c/auto-cave-llc-milwaukee/
+28. Auto Check | trust 20.0 | Auto Check is an auto repair shop in Houston, TX at 13423 Briar Forest Drive, Houston, TX 77077. Phone: +12814977700. Website: https://autocheck.net/. | https://dingalinged-cpu.github.io/registry/c/auto-check-houston/
+29. Automatic Transmission Design, Inc. | trust 20.0 | Automatic Transmission Design, Inc. is an auto repair shop in Village of Germantown, WI at W140N10145 Fond du Lac Avenue, Village of Germantown, WI 53022. Phone: +12622517777. Website: https://www.autotransdesign.com/. | https://dingalinged-cpu.github.io/registry/c/automatic-transmission-design-inc-village-of-germantown/
+30. Automotive Repair Center | trust 20.0 | Automotive Repair Center is an auto repair shop in Shakopee, MN at 936 1st Avenue East, Shakopee, MN 55379. Phone: +19524457776. Website: https://affordablecarrepair.biz/. | https://dingalinged-cpu.github.io/registry/c/automotive-repair-center-shakopee/
+31. AutoTint Houston | trust 20.0 | AutoTint Houston is an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/. | https://dingalinged-cpu.github.io/registry/c/autotint-houston-humble/
+32. B&L Auto Body | trust 20.0 | B&L Auto Body is an auto repair shop in Naperville, IL at 1340 West Ogden Avenue, Naperville, IL 60563. Phone: +16303550865. Website: https://www.blautobodynaperville.com/. | https://dingalinged-cpu.github.io/registry/c/b-and-l-auto-body-naperville/
+33. Badger Truck Services, LLC | trust 20.0 | Badger Truck Services, LLC is an auto repair shop in Fall River, WI at 181 Quality Court, Fall River, WI 53932. Phone: +19204846860. Website: https://www.badgerlogistics.com/services/truck-service-center. | https://dingalinged-cpu.github.io/registry/c/badger-truck-services-llc-fall-river/
+34. Ball Body Shop | trust 20.0 | Ball Body Shop is an auto repair shop in Middleton, WI at 2225 Eagle Drive, Middleton, WI 53562. Phone: +16088315944. Website: https://www.smarttoyota.com/Ball-Body-Shop.html. | https://dingalinged-cpu.github.io/registry/c/ball-body-shop-middleton/
+35. Barebones Auto & Diesel Repar | trust 20.0 | Barebones Auto & Diesel Repar is an auto repair shop in Denton, TX at 3826 Market Street, Denton, TX 76209. Phone: +14696447100. Website: https://wwwbarebonesautodenton.com/. | https://dingalinged-cpu.github.io/registry/c/barebones-auto-and-diesel-repar-denton/
+36. Bengal Automotive | trust 20.0 | Bengal Automotive is an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bengal-automotive-dallas/
+37. Benjamin's Automotive | trust 20.0 | Benjamin's Automotive is an auto repair shop in Seabrook, TX at 2830 East NASA Parkway, Seabrook, TX 77586. Phone: +12812919823. Website: https://benjaminsautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/benjamins-automotive-seabrook/
+38. Bennett Coachworks | trust 20.0 | Bennett Coachworks is an auto repair shop in Milwaukee, WI at 1500 North Vel R. Phillips Avenue, Milwaukee, WI 53212. Phone: +14142982068. Website: https://www.hotrodbuilders.com/. | https://dingalinged-cpu.github.io/registry/c/bennett-coachworks-milwaukee/
+39. Bennett's Auto Repair | trust 20.0 | Bennett's Auto Repair is an auto repair shop in Middleton, WI at 2229 Eagle Drive, Middleton, WI 53562. Phone: +16088315933. Website: https://www.bennettsautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/bennetts-auto-repair-middleton/
+40. Bloomington Collision Center | trust 20.0 | Bloomington Collision Center is an auto repair shop in Bloomington, MN at 9735 Humboldt Avenue South, Bloomington, MN 55431. Phone: +19528886656. Website: https://www.bloomingtoncollisioncenter.com/. | https://dingalinged-cpu.github.io/registry/c/bloomington-collision-center-bloomington/
+41. Blue Diamond Auto Glass | trust 20.0 | Blue Diamond Auto Glass is an auto repair shop in Houston, TX at 9850 Westpark Drive, Houston, TX 77063. Phone: +18327732220. Website: https://bluediamondautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/blue-diamond-auto-glass-houston/
+42. Blue Ridge Automotive | trust 20.0 | Blue Ridge Automotive is an auto repair shop in Chamblee, GA at 3733 North Peachtree Road, Chamblee, GA 30341. Phone: +17702168474. Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/. | https://dingalinged-cpu.github.io/registry/c/blue-ridge-automotive-chamblee/
+43. Blue Ridge Automotive | trust 20.0 | Blue Ridge Automotive is an auto repair shop in Decatur, GA at 803 Church Street, Decatur, GA 30030. Phone: +14045499424. Website: https://blueridgeauto.co/. | https://dingalinged-cpu.github.io/registry/c/blue-ridge-automotive-decatur/
+44. Bluemound Automotive, Inc. | trust 20.0 | Bluemound Automotive, Inc. is an auto repair shop in Wauwatosa, WI at 6000 West Bluemound Road, Wauwatosa, WI 53213. Phone: +14142581000. Website: https://www.bluemoundautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bluemound-automotive-inc-wauwatosa/
+45. BLVD Autoworks | trust 20.0 | BLVD Autoworks is an auto repair shop in Saint Anthony, MN at 2801 Kenzie Terr, Saint Anthony, MN 55418. Phone: +16127895148. Website: https://www.blvdautoworks.com/. | https://dingalinged-cpu.github.io/registry/c/blvd-autoworks-saint-anthony/
+46. Bob Carter's Auto Body Inc | trust 20.0 | Bob Carter's Auto Body Inc is an auto repair shop in Downers Grove, IL at 4309 Fairview Avenue, Downers Grove, IL 60515. Phone: +16308523578. Website: https://bobcartersautobody.com/. | https://dingalinged-cpu.github.io/registry/c/bob-carters-auto-body-inc-downers-grove/
+47. Brake Check | trust 20.0 | Brake Check is an auto repair shop in Spring, TX at 5913 FM 2920, Spring, TX 77388. Phone: +12815286554. Website: https://brakecheck.com/spring-fm-2920-rd-kuykendahl-rd-550. | https://dingalinged-cpu.github.io/registry/c/brake-check-spring/
+48. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Allen, TX at 1711 North Greenville Avenue, Allen, TX 75002. Phone: +14695513411. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-allen/
+49. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Carrollton, TX at 1961 East Frankford Road, Carrollton, TX 75007. Phone: +19724928025. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-carrollton/
+50. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Frisco, TX at 16151 Eldorado Parkway #200, Frisco, TX 75035. Phone: +12144915787. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-frisco/
 
-## More mechanic listings (2429 total; top 50 unpaid shown)
+## More mechanic listings (3097 total; top 50 unpaid shown)
 - Houston, TX: 213 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-houston-tx/
 - Chicago, IL: 169 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-il/
 - Dallas, TX: 122 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-dallas-tx/
 - Milwaukee, WI: 101 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-milwaukee-wi/
 - Harris County, TX: 86 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-harris-county-tx/
+- Marietta, GA: 77 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-marietta-ga/
+- Cobb County, GA: 74 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-cobb-county-ga/
 - Minneapolis, MN: 70 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-minneapolis-mn/
 - Saint Paul, MN: 64 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-paul-mn/
+- Madison, WI: 59 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-madison-wi/
 - Mesquite, TX: 56 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mesquite-tx/
+- Atlanta, GA: 46 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-atlanta-ga/
 - Plano, TX: 41 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-plano-tx/
 - Denton, TX: 38 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-denton-tx/
 - Lewisville, TX: 31 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lewisville-tx/
 - Naperville, IL: 28 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-naperville-il/
+- Douglasville, GA: 28 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-douglasville-ga/
+- Gwinnett County, GA: 27 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-gwinnett-county-ga/
 - Frisco, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-frisco-tx/
 - Mckinney, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mckinney-tx/
 - Gary, IN: 24 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-gary-in/
+- Kennesaw, GA: 23 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-kennesaw-ga/
+- Dekalb County, GA: 22 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-dekalb-county-ga/
 - Arlington, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-arlington-tx/
 - Irving, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-irving-tx/
+- Roswell, GA: 21 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-roswell-ga/
 - Humble, TX: 20 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-humble-tx/
 - Carrollton, TX: 20 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-carrollton-tx/
+- Lilburn, GA: 20 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lilburn-ga/
 - Brookfield, IL: 19 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-brookfield-il/
 - Evanston, IL: 18 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-evanston-il/
 - Waxahachie, TX: 17 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-waxahachie-tx/
 - Garland, TX: 17 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-garland-tx/
 - Countryside, IL: 17 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-countryside-il/
+- Forest Park, GA: 17 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-forest-park-ga/
 - Katy, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-katy-tx/
 - Richardson, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-richardson-tx/
 - Magnolia, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-magnolia-tx/
@@ -92,15 +103,21 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Hurst, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-hurst-tx/
 - Rockwall, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-rockwall-tx/
 - Des Plaines, IL: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-des-plaines-il/
+- Clayton County, GA: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-clayton-county-ga/
 - Racine, WI: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-racine-wi/
 - Lombard, IL: 13 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lombard-il/
+- Smyrna, GA: 13 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-smyrna-ga/
+- Woodstock, GA: 13 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-woodstock-ga/
 - Golden Valley, MN: 13 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-golden-valley-mn/
+- Tucker, GA: 12 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-tucker-ga/
 - Saint Louis Park, MN: 12 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-louis-park-mn/
 - Flower Mound, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-flower-mound-tx/
 - North Richland Hills, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-north-richland-hills-tx/
 - Pearland, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-pearland-tx/
 - Palatine, IL: 10 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-palatine-il/
 - Orland Park, IL: 10 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-orland-park-il/
+- Forsyth County, GA: 10 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-forsyth-county-ga/
+- Chamblee, GA: 10 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-chamblee-ga/
 - Bloomington, MN: 10 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-bloomington-mn/
 - West Allis, WI: 10 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-west-allis-wi/
 - Rosenberg, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-rosenberg-tx/
@@ -108,6 +125,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Roanoke, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-roanoke-tx/
 - Oak Lawn, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-oak-lawn-il/
 - West Saint Paul, MN: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-west-saint-paul-mn/
+- Sun Prairie, WI: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sun-prairie-wi/
 - Conroe, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-conroe-tx/
 - Addison, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-addison-tx/
 - Grapevine, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-grapevine-tx/
@@ -118,6 +136,8 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Oak Park, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-oak-park-il/
 - Lyons, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lyons-il/
 - Niles, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-niles-il/
+- Decatur, GA: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-decatur-ga/
+- Alpharetta, GA: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-alpharetta-ga/
 - Shakopee, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-shakopee-mn/
 - Eden Prairie, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-eden-prairie-mn/
 - Montgomery County, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-montgomery-county-tx/
@@ -130,6 +150,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Homewood, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-homewood-il/
 - Mokena, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mokena-il/
 - Morton Grove, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-morton-grove-il/
+- Sandy Springs, GA: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sandy-springs-ga/
 - Maple Grove, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-maple-grove-mn/
 - Roseville, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-roseville-mn/
 - Newport, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-newport-mn/
@@ -149,8 +170,11 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Crestwood, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-crestwood-il/
 - Romeoville, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-romeoville-il/
 - Melrose Park, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-melrose-park-il/
+- Doraville, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-doraville-ga/
+- Acworth, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-acworth-ga/
 - Saint Paul Park, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-paul-park-mn/
 - Merrillville, IN: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-merrillville-in/
+- Middleton, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-middleton-wi/
 - West Bend, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-west-bend-wi/
 - Burlington, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-burlington-wi/
 - Mount Pleasant, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mount-pleasant-wi/
@@ -168,11 +192,18 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Lisle, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lisle-il/
 - Wheeling, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-wheeling-il/
 - Wauconda, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-wauconda-il/
+- Suwanee, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-suwanee-ga/
+- Henry County, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-henry-county-ga/
+- Jonesboro, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-jonesboro-ga/
+- Fayetteville, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fayetteville-ga/
+- Mableton, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mableton-ga/
+- Hiram, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-hiram-ga/
 - Saint Anthony, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-anthony-mn/
 - New Brighton, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-new-brighton-mn/
 - New Hope, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-new-hope-mn/
 - Hopkins, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-hopkins-mn/
 - Wauwatosa, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-wauwatosa-wi/
+- Waunakee, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-waunakee-wi/
 - Greenfield, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-greenfield-wi/
 - Alvarado, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-alvarado-tx/
 - Seabrook, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-seabrook-tx/
@@ -185,6 +216,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Cicero, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-cicero-il/
 - Bridgeview, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-bridgeview-il/
 - Hanover Park, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-hanover-park-il/
+- Dupage County, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-dupage-county-il/
 - Highland Park, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-highland-park-il/
 - Carol Stream, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-carol-stream-il/
 - Chicago Ridge, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-ridge-il/
@@ -192,6 +224,12 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - South Holland, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-south-holland-il/
 - Wilmette, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-wilmette-il/
 - Barrington, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-barrington-il/
+- Mcdonough, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mcdonough-ga/
+- Clarkston, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-clarkston-ga/
+- Coweta County, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-coweta-county-ga/
+- Stone Mountain, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-stone-mountain-ga/
+- Duluth, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-duluth-ga/
+- Cherokee County, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-cherokee-county-ga/
 - Minnetonka, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-minnetonka-mn/
 - Maplewood, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-maplewood-mn/
 - Saint Bonifacius, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-bonifacius-mn/
@@ -199,8 +237,10 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Blaine, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-blaine-mn/
 - White Bear Lake, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-white-bear-lake-mn/
 - Franklin, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-franklin-wi/
+- Stoughton, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-stoughton-wi/
 - Slinger, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-slinger-wi/
 - Brookfield, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-brookfield-wi/
+- Fitchburg, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fitchburg-wi/
 - Menomonee Falls, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-menomonee-falls-wi/
 - Mequon, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mequon-wi/
 - Town Of Dover, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-dover-wi/
@@ -231,6 +271,11 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - La Grange Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-la-grange-park-il/
 - Matteson, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-matteson-il/
 - Mundelein, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mundelein-il/
+- Morrow, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-morrow-ga/
+- Peachtree Corners, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-peachtree-corners-ga/
+- Paulding County, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-paulding-county-ga/
+- Union City, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-union-city-ga/
+- Norcross, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-norcross-ga/
 - South Saint Paul, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-south-saint-paul-mn/
 - Rogers, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-rogers-mn/
 - Fridley, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fridley-mn/
@@ -242,14 +287,17 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Richfield, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-richfield-mn/
 - Coon Rapids, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-coon-rapids-mn/
 - Edina, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-edina-mn/
+- Town Of Burke, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-burke-wi/
 - Sussex, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sussex-wi/
 - Sturtevant, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sturtevant-wi/
 - Sunnyvale, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sunnyvale-tx/
 - Fulshear, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fulshear-tx/
 - Manvel, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-manvel-tx/
 - Balch Springs, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-balch-springs-tx/
+- Collin County, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-collin-county-tx/
 - Missouri City, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-missouri-city-tx/
 - Stafford, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-stafford-tx/
+- Denton County, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-denton-county-tx/
 - Desoto, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-desoto-tx/
 - Mansfield, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mansfield-tx/
 - Farmersville, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-farmersville-tx/
@@ -271,6 +319,14 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Burbank, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-burbank-il/
 - Calumet City, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-calumet-city-il/
 - Markham, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-markham-il/
+- Stonecrest, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-stonecrest-ga/
+- Lake City, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lake-city-ga/
+- Avondale Estates, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-avondale-estates-ga/
+- Milton, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-milton-ga/
+- Sugar Hill, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sugar-hill-ga/
+- Stockbridge, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-stockbridge-ga/
+- Lovejoy, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lovejoy-ga/
+- College Park, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-college-park-ga/
 - Crystal, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-crystal-mn/
 - Robbinsdale, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-robbinsdale-mn/
 - Brooklyn Center, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-brooklyn-center-mn/
@@ -283,7 +339,13 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Union Grove, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-union-grove-wi/
 - Village Of Pewaukee, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-village-of-pewaukee-wi/
 - Village Of Waukesha, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-village-of-waukesha-wi/
+- Village Of Cross Plains, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-village-of-cross-plains-wi/
+- Town Of Cottage Grove, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-cottage-grove-wi/
+- New Glarus, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-new-glarus-wi/
 - Shorewood, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-shorewood-wi/
+- Evansville, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-evansville-wi/
+- Town Of Springdale, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-springdale-wi/
+- Verona, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-verona-wi/
 - Pasadena, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-pasadena-tx/
 - Palmer, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-palmer-tx/
 - Richland Hills, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-richland-hills-tx/
@@ -294,6 +356,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Caddo Mills, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-caddo-mills-tx/
 - Coppell, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-coppell-tx/
 - Sealy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sealy-tx/
+- Dallas County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-dallas-county-tx/
 - Jersey Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-jersey-village-tx/
 - Midlothian, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-midlothian-tx/
 - Nevada, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-nevada-tx/
@@ -301,6 +364,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Lavon, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lavon-tx/
 - Southlake, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-southlake-tx/
 - Alvin, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-alvin-tx/
+- Ellis County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-ellis-county-tx/
 - Fort Worth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fort-worth-tx/
 - Cut And Shoot, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-cut-and-shoot-tx/
 - Santa Fe, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-santa-fe-tx/
@@ -352,6 +416,15 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Blue Island, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-blue-island-il/
 - Lyons Township, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lyons-township-il/
 - Hazel Crest, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-hazel-crest-il/
+- Lake County, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lake-county-il/
+- Austell, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-austell-ga/
+- Dallas, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-dallas-ga/
+- Riverdale, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-riverdale-ga/
+- Lawrenceville, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lawrenceville-ga/
+- Johns Creek, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-johns-creek-ga/
+- Douglas County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-douglas-county-ga/
+- Brookhaven, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-brookhaven-ga/
+- Tyrone, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-tyrone-ga/
 - Lino Lakes, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lino-lakes-mn/
 - Greenfield, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-greenfield-mn/
 - Saint Michael, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-michael-mn/
@@ -374,17 +447,27 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Griffith, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-griffith-in/
 - Schererville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-schererville-in/
 - Village Of Germantown, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-village-of-germantown-wi/
+- Oregon, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-oregon-wi/
+- Fall River, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fall-river-wi/
 - Cedarburg, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-cedarburg-wi/
+- Sauk City, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sauk-city-wi/
+- Belleville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-belleville-wi/
 - Butler, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-butler-wi/
 - New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-new-berlin-wi/
+- Deforest, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-deforest-wi/
 - Caledonia, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-caledonia-wi/
 - Muskego, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-muskego-wi/
+- Mcfarland, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mcfarland-wi/
 - Cudahy, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-cudahy-wi/
+- Blooming Grove, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-blooming-grove-wi/
+- Monona, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-monona-wi/
 - Bayside, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-bayside-wi/
 - Village Of Raymond, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-village-of-raymond-wi/
+- Town Of Albany, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-albany-wi/
 - Town Of Waterford, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-waterford-wi/
 - Town Of Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-brookfield-wi/
 - South Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-south-milwaukee-wi/
+- Mazomanie, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mazomanie-wi/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -392,7 +475,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2429
+- Registry businesses competing: 3097
 - Equivalent Google Ads cost per month: ~$160,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

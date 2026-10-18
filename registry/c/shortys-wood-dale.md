@@ -13,6 +13,7 @@ Shorty's is a caterer in Wood Dale, IL at 123 Irving Park Road, Wood Dale, IL 60
 - Website: https://www.shortyswooddale.com/
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-21:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

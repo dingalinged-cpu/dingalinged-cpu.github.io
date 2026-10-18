@@ -13,6 +13,7 @@ CareNow is an urgent care clinic in Cypress, TX at 9110 Barker Cypress Road, Cyp
 - Website: https://www.carenow.com/locations/houston/cypress/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-20:00; Su 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Costco Tire Center is a tire shop in Frisco, TX at 11220 Dallas Parkway, Frisco,
 - Website: https://www.costco.com/warehouse-locations/frisco-tx-1097.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00
+- Registry Score: 48.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Dry Clean Super Center is a dry cleaner in Richmond, TX at 1812 Fm 359, Richmond
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

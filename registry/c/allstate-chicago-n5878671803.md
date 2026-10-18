@@ -13,6 +13,7 @@ Allstate is an insurance agent in Chicago, IL at 2101 West 95th Street #1, Chica
 - Website: https://www.allstate.com/joshuamercer
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

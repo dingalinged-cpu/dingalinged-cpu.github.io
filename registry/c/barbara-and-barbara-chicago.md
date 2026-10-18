@@ -13,6 +13,7 @@ Barbara & Barbara is a hair salon in Chicago, IL. Phone: +17733846244. Website: 
 - Website: https://www.barbaraandbarbara.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th,Sa 09:00-21:00; Fr,Mo 11:00-20:00; Su 10:00-19:00
+- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

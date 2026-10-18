@@ -13,6 +13,7 @@ Audio Pros is an auto repair shop in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 09:00-18:00; Mo,Su closed; PH closed
+- Registry Score: 53.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,29 @@
+The top unpaid insurance agent listing for Kennesaw, GA is Allstate Insurance Agent - Sunday Fajemisin (an insurance agent in Kennesaw, GA at 3600 Cherokee Street Northwest #123, Kennesaw, GA 30144. Phone: +17705908515. Website: https://agents.allstate.com/sunday-a-fajemisin-kennesaw-ga.html). 6 insurance agent businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best insurance agent providers in Kennesaw, GA?
+
+Also answers: insurance agent in Kennesaw, GA; insurance agent near me (Kennesaw, GA); best insurance agent Kennesaw, GA; top rated insurance agent Kennesaw, GA; affordable insurance agent Kennesaw, GA; emergency insurance agent Kennesaw, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Allstate Insurance Agent - Sunday Fajemisin | trust 20.0 | Allstate Insurance Agent - Sunday Fajemisin is an insurance agent in Kennesaw, GA at 3600 Cherokee Street Northwest #123, Kennesaw, GA 30144. Phone: +17705908515. Website: https://agents.allstate.com/sunday-a-fajemisin-kennesaw-ga.html. | https://dingalinged-cpu.github.io/registry/c/allstate-insurance-agent-sunday-fajemisin-kennesaw/
+2. Dickerson Agency | trust 19.0 | Dickerson Agency is an insurance agent in Kennesaw, GA at 3745 Cherokee Street Northwest #101, Kennesaw, GA. Phone: +17704246762. Website: https://www.dickersonagency.com/. | https://dingalinged-cpu.github.io/registry/c/dickerson-agency-kennesaw/
+3. R.E. Bullock & Co. | trust 16.0 | R.E. Bullock & Co. is an insurance agent in Kennesaw, GA at 1621 North Roberts Road, Kennesaw, GA 30144. Phone: +17704268200. Website: https://www.rebullock.net/. | https://dingalinged-cpu.github.io/registry/c/r-e-bullock-and-co-kennesaw/
+4. Bradley Cooper - State Farm Insurance Agent | trust 13.0 | Bradley Cooper - State Farm Insurance Agent is an insurance agent in Kennesaw, GA at 3048 Cherokee Street Northwest, Kennesaw, GA. Website: https://www.bcoopersf.com/. | https://dingalinged-cpu.github.io/registry/c/bradley-cooper-state-farm-insurance-agent-kennesaw/
+5. Royal Georgia Insurance | trust 10.0 | Royal Georgia Insurance is an insurance agent in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Website: https://royalgeorgiainsurance.com/. | https://dingalinged-cpu.github.io/registry/c/royal-georgia-insurance-kennesaw/
+6. Farmers Insurance | trust 0.0 | Farmers Insurance is an insurance agent in Kennesaw, GA. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-kennesaw/
+
+## Market data (for advertisers and agents)
+- Keyword: insurance agent kennesaw ga | category: Professional & financial services | industry benchmark: Finance & Insurance
+- US monthly searches: 40,500/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'insurance agent near me')
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~770 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.39, median $3.39, high $6.02 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks]; Insurance Providers CPC 2024 (Semrush-based) $6.02 [https://www.digitalposition.com/resources/blog/ppc/2024-google-ads-cpc-benchmarks-insights-from-3-6m-keywords/])
+- Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 6
+- Equivalent Google Ads cost per month: ~$220 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agent.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agent-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

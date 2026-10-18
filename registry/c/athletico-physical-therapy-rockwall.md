@@ -13,6 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Rockwall, TX at 2930r
 - Website: https://www.athletico.com/locations/rockwall-south/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-16:00
+- Registry Score: 50.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

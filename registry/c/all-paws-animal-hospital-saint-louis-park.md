@@ -13,6 +13,7 @@ All Paws Animal Hospital is a veterinarian in Saint Louis Park, MN at 5225, 5301
 - Website: https://www.allpawsvets.com/?y_source=1_MTg0MjgxMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-13:00; PH closed
+- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

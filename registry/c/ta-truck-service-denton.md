@@ -13,6 +13,7 @@ TA Truck Service is an auto repair shop in Denton, TX at 6420 North Interstate 3
 - Website: https://www.ta-petro.com/location/tx/ta-denton
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 53.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

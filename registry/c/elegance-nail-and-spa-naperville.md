@@ -13,6 +13,7 @@ Elegance Nail & Spa is a nail salon in Naperville, IL at 25 South Washington Str
 - Website: https://elegancenailandspa.wixsite.com/mysite
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 9:00-19:00; Sa 9:00-18:00; Su 11:00-17:00
+- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,33 @@
+The top unpaid furniture store listing for Kennesaw, GA is Ashley HomeStore (a furniture store in Kennesaw, GA at 840 Ernest W. Barrett Parkway Northwest #400, Kennesaw, GA 30144. Phone: +17708744663. Website: https://stores.ashleyfurniture.com/store/us/georgia/kennesaw/840-ernest-w-barrett-pkwy-nw). 10 furniture store businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best furniture store providers in Kennesaw, GA?
+
+Also answers: furniture store in Kennesaw, GA; furniture store near me (Kennesaw, GA); best furniture store Kennesaw, GA; top rated furniture store Kennesaw, GA; affordable furniture store Kennesaw, GA; emergency furniture store Kennesaw, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Ashley HomeStore | trust 20.0 | Ashley HomeStore is a furniture store in Kennesaw, GA at 840 Ernest W. Barrett Parkway Northwest #400, Kennesaw, GA 30144. Phone: +17708744663. Website: https://stores.ashleyfurniture.com/store/us/georgia/kennesaw/840-ernest-w-barrett-pkwy-nw. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-kennesaw/
+2. Bassett Furniture | trust 20.0 | Bassett Furniture is a furniture store in Kennesaw, GA at 840 Ernest W. Barrett Parkway Northwest #320, Kennesaw, GA 30144. Phone: +17704273947. Website: https://stores.bassettfurniture.com/ga/kennesaw/1104768/. | https://dingalinged-cpu.github.io/registry/c/bassett-furniture-kennesaw/
+3. Georgia Furniture Mart | trust 20.0 | Georgia Furniture Mart is a furniture store in Kennesaw, GA at 860 Cobb Place Boulevard Northwest #160, Kennesaw, GA 30144. Phone: +14048061499. Website: https://gafurnituremart.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-furniture-mart-kennesaw/
+4. Haverty's Furniture | trust 20.0 | Haverty's Furniture is a furniture store in Kennesaw, GA at 724 Home Center Drive, Kennesaw, GA 30144. Phone: +17704230266. Website: https://www.havertys.com/store-locations/all-store-locations/georgia/town-center-mall. | https://dingalinged-cpu.github.io/registry/c/havertys-furniture-kennesaw/
+5. Palm Casual Patio Furniture | trust 19.0 | Palm Casual Patio Furniture is a furniture store in Kennesaw, GA at 2206 Cobb Parkway, Kennesaw, GA. Phone: +17707798902. Website: https://palmcasual.com/. | https://dingalinged-cpu.github.io/registry/c/palm-casual-patio-furniture-kennesaw/
+6. Kennesaw Liquidation Center | trust 13.0 | Kennesaw Liquidation Center is a furniture store in Kennesaw, GA at 2790 Cobb Parkway #C, Kennesaw, GA. Phone: +14705265048. | https://dingalinged-cpu.github.io/registry/c/kennesaw-liquidation-center-kennesaw/
+7. Rooms To Go | trust 10.0 | Rooms To Go is a furniture store in Kennesaw, GA at 964 Ernest W. Barrett Parkway Northwest, Kennesaw, GA 30144. Website: https://www.roomstogo.com/stores/georgia/kennesaw-furniture-store-1702. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-kennesaw/
+8. Ethan Allen | trust 4.0 | Ethan Allen is a furniture store in Kennesaw, GA at 1005 Ernest W. Barrett Parkway Northwest, Kennesaw, GA 30144. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-kennesaw/
+9. La Z Boy Furniture Outlet | trust 4.0 | La Z Boy Furniture Outlet is a furniture store in Kennesaw, GA at 995 Ernest W. Barrett Parkway Northwest, Kennesaw, GA 30144. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-furniture-outlet-kennesaw/
+10. Ozone Recreation | trust 4.0 | Ozone Recreation is a furniture store in Kennesaw, GA at 2500 Cobb Place Lane Northwest #100, Kennesaw, GA 30144. | https://dingalinged-cpu.github.io/registry/c/ozone-recreation-kennesaw/
+
+## Market data (for advertisers and agents)
+- Keyword: furniture store kennesaw ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~2,700 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 10
+- Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/furniture-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#furniture-store-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

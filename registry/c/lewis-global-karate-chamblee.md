@@ -1,0 +1,24 @@
+Lewis Global Karate is a martial arts school in Chamblee, GA at 5522 New Peachtree Road #103, Chamblee, GA 30341. Phone: +17702201876.
+
+# Lewis Global Karate
+
+- Category: martial arts
+- Services: martial arts
+- Address: 5522 New Peachtree Road #103, Chamblee, GA 30341
+- City: Chamblee
+- State: GA
+- ZIP: 30341
+- Coordinates: 33.8936974, -84.2965488
+- Phone: +17702201876
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lewis-global-karate-chamblee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lewis-global-karate-chamblee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10313814124 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

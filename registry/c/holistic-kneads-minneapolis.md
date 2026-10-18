@@ -13,6 +13,7 @@ Holistic Kneads is a massage studio in Minneapolis, MN at 3609 Bryant Avenue Sou
 - Website: https://www.holistickneads.net/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment only"
+- Registry Score: 65.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Royal Massage Parlor is a massage studio in Milwaukee, WI at 7511 West Oklahoma 
 - Website: https://royalmassageparlor.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:30
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

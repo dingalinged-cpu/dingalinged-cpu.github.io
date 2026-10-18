@@ -13,6 +13,7 @@ Columbia Auto Repair is an auto repair shop in Dallas, TX at 113 North Collett A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:30-18:30
+- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

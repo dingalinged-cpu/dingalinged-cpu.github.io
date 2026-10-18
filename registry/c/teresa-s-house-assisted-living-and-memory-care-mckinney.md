@@ -13,6 +13,7 @@ Teresa’s House Assisted Living & Memory Care is an assisted living facility in
 - Website: https://www.teresashouse.com/mckinney-community/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 64.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

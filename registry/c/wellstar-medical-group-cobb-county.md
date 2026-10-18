@@ -1,0 +1,24 @@
+Wellstar Medical Group is a family medicine practice in Cobb County, GA at Paces Ferry Road Southeast #460, Cobb County, GA. Phone: +16785564950.
+
+# Wellstar Medical Group
+
+- Category: family doctor
+- Services: family doctor, primary care physician
+- Address: Paces Ferry Road Southeast #460, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.8654396, -84.4683764
+- Phone: +16785564950
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/wellstar-medical-group-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wellstar-medical-group-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6434309555 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

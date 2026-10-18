@@ -13,6 +13,7 @@ Future Nails is a nail salon in Greenfield, WI at 7485 West Layton Avenue, Green
 - Website: https://futurenailsgreenfi.wixsite.com/website
 - Email: futurenailsgreenfield@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

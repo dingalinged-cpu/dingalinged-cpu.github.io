@@ -13,6 +13,7 @@ America's Xtreme Auto is an auto repair shop in Houston, TX at 7200 Gulf Freeway
 - Website: https://www.axautostx.com/
 - Email: htx@axautos.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

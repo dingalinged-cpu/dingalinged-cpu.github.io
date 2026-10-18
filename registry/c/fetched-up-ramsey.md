@@ -13,6 +13,7 @@ Fetched-Up is a pet store in Ramsey, MN at 6111 T.H 10 Service Road #300, Ramsey
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00
+- Registry Score: 56.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Clara Bella Salon is a hair salon in Milwaukee, WI at 1707 West Mitchell Street,
 - Website: n/a
 - Email: clarabellasalon21@gmail.com
 - Opening hours (OSM syntax): Tu-Th 10:00-18:00; Fr,Sa 10:00-19:00; Mo,Su off
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Insurance Navy Brokers is an insurance agent in Dallas, TX at 2292 S Buckner Blv
 - Website: https://www.insurancenavy.com/locations/tx/dallas/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00
+- Registry Score: 51.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Kyriaki Ades D.M.D General Dentistry is a dentist in Chicago, IL at 5456 North M
 - Website: n/a
 - Email: drkyriakiades@gmail.com
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr,Sa 10:00-19:00, We,Su closed
+- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

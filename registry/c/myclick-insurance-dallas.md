@@ -13,6 +13,7 @@ MyClick Insurance is an insurance agent in Dallas, TX at 4514 Cole Avenue #600, 
 - Website: https://www.myclickinsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa-Su 10:00-16:00
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

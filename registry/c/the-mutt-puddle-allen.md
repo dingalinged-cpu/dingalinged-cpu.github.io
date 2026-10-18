@@ -13,6 +13,7 @@ The Mutt Puddle is a dog groomer in Allen, TX at 190 East Stacy Road #1612, Alle
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Sa 09:00-17:00; Su 10:00-17:00
+- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

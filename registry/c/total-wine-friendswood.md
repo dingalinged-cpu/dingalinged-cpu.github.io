@@ -13,6 +13,7 @@ Total Wine is a liquor store in Friendswood, TX at 18740 Gulf Freeway, Friendswo
 - Website: https://www.totalwine.com/store-info/515
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

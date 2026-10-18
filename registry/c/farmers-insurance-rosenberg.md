@@ -13,6 +13,7 @@ Farmers Insurance is an insurance agent in Rosenberg, TX at 4130 FM 762 #450, Ro
 - Website: https://www.farmersagent.com/bsisco
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

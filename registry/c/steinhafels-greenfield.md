@@ -13,6 +13,7 @@ Steinhafels is a furniture store in Greenfield, WI at 8880 West Sura Lane, Green
 - Website: https://www.steinhafels.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-18:00
+- Registry Score: 46.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

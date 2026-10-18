@@ -13,6 +13,7 @@ Dog-Gone Lovely is a pet store in West Allis, WI at 11076 West National Avenue, 
 - Website: https://doggonelovely.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 07:30-16:00; Sa 07:30-15:00
+- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

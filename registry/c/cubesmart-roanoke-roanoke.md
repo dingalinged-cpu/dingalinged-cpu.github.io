@@ -13,6 +13,7 @@ CubeSmart - Roanoke is a self-storage facility in Roanoke, TX at 1201 North US H
 - Website: https://www.cubesmart.com/texas-self-storage/roanoke-self-storage/211.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 09:30-18:00; Sa 08:30-17:00; Su off; Tu off
+- Registry Score: 55.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

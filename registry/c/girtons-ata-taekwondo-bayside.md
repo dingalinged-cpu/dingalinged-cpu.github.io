@@ -13,6 +13,7 @@ Girtons ATA Taekwondo is a martial arts school in Bayside, WI at 333 West Brown 
 - Website: https://girtonsatastrong.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 16:00-19:00; Tu,Th 10:00-11:30, 16:00-19:30; Su 09:00-11:30
+- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

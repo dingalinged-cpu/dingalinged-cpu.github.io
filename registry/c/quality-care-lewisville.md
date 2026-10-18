@@ -13,6 +13,7 @@ Quality Care is a family medicine practice in Lewisville, TX. Phone: +1972956057
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su closed; PH closed
+- Registry Score: 54.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

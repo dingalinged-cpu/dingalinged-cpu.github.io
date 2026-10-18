@@ -13,6 +13,7 @@ Champion Insurance Services, Inc. is an insurance agent in Saint Paul, MN at 821
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-17:00; Tu-We 09:00-18:00; Th-Fr 09:00-17:00; Sa 12:00-15:00
+- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

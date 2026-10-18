@@ -13,6 +13,7 @@ Montes Law PLLC. is a lawyer in Colleyville, TX at 3930 Glade Road #108-326, Col
 - Website: https://monteslaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
+- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

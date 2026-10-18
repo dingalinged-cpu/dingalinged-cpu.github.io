@@ -13,6 +13,7 @@ Specialized Truck and Auto is an auto repair shop in Humble, TX at 15520 Lee Rd 
 - Website: https://specializedtruckandauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

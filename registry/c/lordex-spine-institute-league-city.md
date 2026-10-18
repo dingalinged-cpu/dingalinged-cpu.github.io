@@ -13,6 +13,7 @@ Lordex Spine Institute is a chiropractor in League City, TX at 212 South Gulf Fr
 - Website: https://lsilc.com/
 - Email: info@lordexspineinstitute.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

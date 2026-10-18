@@ -13,6 +13,7 @@ Mitchell Chiropractic is a chiropractor in Naperville, IL at 1220 West Ogden Ave
 - Website: https://www.bmitchellchiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We, Fr 08:00-12:00, 14:00-19:00; Tu, Th 09:00-12:00, 14:00-18:00
+- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

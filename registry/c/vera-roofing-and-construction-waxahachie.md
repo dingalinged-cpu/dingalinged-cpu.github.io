@@ -13,6 +13,7 @@ Vera Roofing And Construction is a roofer in Waxahachie, TX at 1408 West Jeffers
 - Website: https://veraroofingandconstruction.com/
 - Email: manuel@veraroofingandconstruction.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

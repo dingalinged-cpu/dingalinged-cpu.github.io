@@ -13,6 +13,7 @@ Fantastic Sams is a hair salon in Naperville, IL at 8 West Gartner Road #136, Na
 - Website: https://www.fantasticsams.com/about/regions/chicago-il/fantastic-sams-naperville-il
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Tu,Th 09:00-20:00; Sa 09:00-16:00; Su 10:00-15:00
+- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

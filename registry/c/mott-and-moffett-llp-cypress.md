@@ -13,6 +13,7 @@ Mott & Moffett LLP is a lawyer in Cypress, TX at 14150 Huffmeister Road #200-082
 - Website: https://www.injurylawtx.com/cypress-personal-injury-lawyer
 - Email: info@injurylawtx.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

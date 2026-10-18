@@ -13,6 +13,7 @@ Gold's Gym is a gym in Magnolia, TX at 6511 FM 1488, Magnolia, TX 77354.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

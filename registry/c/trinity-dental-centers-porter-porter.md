@@ -13,6 +13,7 @@ Trinity Dental Centers Porter is a dentist in Porter, TX at 23762 US-59, Porter,
 - Website: https://www.trinitydentalcenters.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 09:00-17:00, Fr 09:00-15:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

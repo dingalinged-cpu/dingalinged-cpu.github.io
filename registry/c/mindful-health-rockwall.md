@@ -13,6 +13,7 @@ Mindful Health is a physical therapy clinic in Rockwall, TX at 406 North Goliad 
 - Website: https://mindful.health/rockwall/
 - Email: care@mindful.health
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

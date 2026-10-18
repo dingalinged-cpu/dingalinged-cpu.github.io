@@ -13,6 +13,7 @@ Pamper Nails is a nail salon in Fairview, TX at 431 East Stacy Road #103, Fairvi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

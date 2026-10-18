@@ -13,6 +13,7 @@ Extra Space Storage is a self-storage facility in Merrillville, IN at 7189 Taft 
 - Website: https://www.extraspace.com/storage/facilities/us/indiana/merrillville/6112/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

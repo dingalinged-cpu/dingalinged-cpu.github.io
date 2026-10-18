@@ -13,6 +13,7 @@ Amazing Touch Dental is a dentist in Dolton, IL at 1021 East Sibley Boulevard #2
 - Website: https://amazingtouchdental-il.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-19:00; Tu 10:00-20:00; Th,Fr 11:00-20:00
+- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

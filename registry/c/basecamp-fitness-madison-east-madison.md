@@ -1,0 +1,24 @@
+Basecamp Fitness Madison (East) is a gym in Madison, WI at 4704 East Washington Avenue, Madison, WI 53704. Phone: +16089604000.
+
+# Basecamp Fitness Madison (East)
+
+- Category: gym
+- Services: gym
+- Address: 4704 East Washington Avenue, Madison, WI 53704
+- City: Madison
+- State: WI
+- ZIP: 53704
+- Coordinates: 43.1314902, -89.3044758
+- Phone: +16089604000
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/basecamp-fitness-madison-east-madison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/basecamp-fitness-madison-east-madison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10294143630 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

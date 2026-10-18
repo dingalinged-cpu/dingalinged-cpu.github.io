@@ -13,6 +13,7 @@ Open Minds Fusion Studio is a yoga studio in Minneapolis, MN at 515 West Lake St
 - Website: https://www.openmindsfusionstudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 54.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

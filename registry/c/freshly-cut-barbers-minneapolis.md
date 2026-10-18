@@ -13,6 +13,7 @@ Freshly Cut Barbers is a barber shop in Minneapolis, MN at 4555 34th Avenue Sout
 - Website: https://freshlycutbarbers.com/
 - Email: freshlycut@yahoo.com
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 09:00-16:00
+- Registry Score: 68.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

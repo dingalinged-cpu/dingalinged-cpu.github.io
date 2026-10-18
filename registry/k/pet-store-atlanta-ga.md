@@ -1,0 +1,43 @@
+The top unpaid pet store listing for Atlanta, GA is Petco (a pet store in Atlanta, GA at 3756 Roswell Road #B, Atlanta, GA 30342. Phone: +14048419733. Website: https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1567.html). 20 pet store businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best pet store providers in Atlanta, GA?
+
+Also answers: pet store in Atlanta, GA; pet store near me (Atlanta, GA); best pet store Atlanta, GA; top rated pet store Atlanta, GA; affordable pet store Atlanta, GA; emergency pet store Atlanta, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Petco | trust 20.0 | Petco is a pet store in Atlanta, GA at 3756 Roswell Road #B, Atlanta, GA 30342. Phone: +14048419733. Website: https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1567.html. | https://dingalinged-cpu.github.io/registry/c/petco-atlanta/
+2. Petco | trust 20.0 | Petco is a pet store in Atlanta, GA at 2020 Howell Mill Road #3, Atlanta, GA 30318. Phone: +14043515591. Website: https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-5504.html. | https://dingalinged-cpu.github.io/registry/c/petco-atlanta-n12245151628/
+3. Petco | trust 20.0 | Petco is a pet store in Atlanta, GA at 2955 Cobb Parkway South #410, Atlanta, GA 30339. Phone: +17709529701. Website: https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1554.html. | https://dingalinged-cpu.github.io/registry/c/petco-atlanta-w320121518/
+4. PetSmart | trust 20.0 | PetSmart is a pet store in Atlanta, GA at 650 Ponce De Leon Avenue Northeast, Atlanta, GA 30308. Phone: +14048722363. Website: https://stores.petsmart.com/ga/atlanta/midtown-atlanta/dog-training. | https://dingalinged-cpu.github.io/registry/c/petsmart-atlanta/
+5. PetSmart | trust 20.0 | PetSmart is a pet store in Atlanta, GA at 128 Perimeter Center West, Atlanta, GA 30346. Phone: +17704810043. Website: https://www.petsmart.com/stores/us/ga/atlanta-store0290.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-atlanta-n12079155841/
+6. PetSmart | trust 20.0 | PetSmart is a pet store in Atlanta, GA at 1801 Howell Mill Road Northwest #30, Atlanta, GA 30318. Phone: +14043529746. Website: https://www.petsmart.com/stores/us/ga/atlanta-store1571.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-atlanta-n12245118329/
+7. PetSmart | trust 20.0 | PetSmart is a pet store in Atlanta, GA at 3221 Peachtree Road, Atlanta, GA 30305. Phone: +14042660402. Website: https://www.petsmart.com/stores/us/ga/atlanta-store0287.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-atlanta-n6264291308/
+8. Red Bandanna Pet Food | trust 20.0 | Red Bandanna Pet Food is a pet store in Atlanta, GA at 3524 Northside Parkway Northwest, Atlanta, GA 30327. Phone: +14042311333. Website: https://www.redbandannapetfood.com/. | https://dingalinged-cpu.github.io/registry/c/red-bandanna-pet-food-atlanta/
+9. The Whole Dog Market | trust 20.0 | The Whole Dog Market is a pet store in Atlanta, GA at 3300 Cobb Parkway South, Atlanta, GA 30339. Phone: +17706440900. Website: https://vinings.thewholedogmarket.com/. | https://dingalinged-cpu.github.io/registry/c/the-whole-dog-market-atlanta/
+10. Wild Birds Unlimited | trust 20.0 | Wild Birds Unlimited is a pet store in Atlanta, GA at 2980 Cobb Parkway South, Atlanta, GA 30339. Phone: +17704332676. Website: https://vinings.wbu.com/. | https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-atlanta/
+11. The Whole Dog Market | trust 19.0 | The Whole Dog Market is a pet store in Atlanta, GA at 931 Monroe Drive Northeast #113B, Atlanta, GA. Phone: +14045492727. Website: https://www.thewholedogmarket.com/piedmont-park-atlanta. | https://dingalinged-cpu.github.io/registry/c/the-whole-dog-market-atlanta-n11261587611/
+12. Fur Side Pet Grooming | trust 10.0 | Fur Side Pet Grooming is a pet store in Atlanta, GA at 481A Flat Shoals Avenue Southeast, Atlanta, GA 30316. Website: https://www.fursidepetgrooming.com/. | https://dingalinged-cpu.github.io/registry/c/fur-side-pet-grooming-atlanta/
+13. Park Pet Supply | trust 10.0 | Park Pet Supply is a pet store in Atlanta, GA at 479A Flat Shoals Avenue Southeast, Atlanta, GA 30316. Website: https://www.parkpetsupply.com/. | https://dingalinged-cpu.github.io/registry/c/park-pet-supply-atlanta/
+14. Hollywood Feed | trust 8.0 | Hollywood Feed is a pet store in Atlanta, GA at 5001 Peachtree Boulevard, Atlanta, GA 30341. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-atlanta/
+15. PetCo | trust 7.0 | PetCo is a pet store in Atlanta, GA at 1267 Caroline Street Northeast, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/petco-atlanta-w158941958/
+16. Canine House of Style | trust 4.0 | Canine House of Style is a pet store in Atlanta, GA at 2206 Cheshire Bridge Road, Atlanta, GA 30324. | https://dingalinged-cpu.github.io/registry/c/canine-house-of-style-atlanta/
+17. Uptown Pups | trust 4.0 | Uptown Pups is a pet store in Atlanta, GA at 2355 Cumberland Parkway Southeast #30, Atlanta, GA 30339. | https://dingalinged-cpu.github.io/registry/c/uptown-pups-atlanta/
+18. Glamour Paws | trust 0.0 | Glamour Paws is a pet store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/glamour-paws-atlanta/
+19. Hollywood Feed | trust 0.0 | Hollywood Feed is a pet store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-atlanta-n11544205285/
+20. Pet Supermarket | trust 0.0 | Pet Supermarket is a pet store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/pet-supermarket-atlanta/
+
+## Market data (for advertisers and agents)
+- Keyword: pet store atlanta ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~2,700 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 20
+- Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store-atlanta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

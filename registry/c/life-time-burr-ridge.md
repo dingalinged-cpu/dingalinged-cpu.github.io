@@ -13,6 +13,7 @@ Life Time is a gym in Burr Ridge, IL at 601 Burr Ridge Parkway, Burr Ridge, IL 6
 - Website: https://www.lifetime.life/life-time-locations/il-burr-ridge.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 04:00-00:00; Sa-Su 05:00-22:00
+- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

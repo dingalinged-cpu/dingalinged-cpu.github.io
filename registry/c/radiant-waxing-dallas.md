@@ -13,6 +13,7 @@ Radiant Waxing is a waxing salon in Dallas, TX at 3858 Oak Lawn Avenue #Suite 41
 - Website: https://www.radiantwaxing.com/tx-dallas-turtle-creek/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-16:00
+- Registry Score: 65.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

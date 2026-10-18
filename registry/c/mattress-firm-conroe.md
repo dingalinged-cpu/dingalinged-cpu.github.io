@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Conroe, TX at 2956 IH 45 North #300, Conroe
 - Website: https://www.mattressfirm.com/en-us/stores/tx/conroe/001053/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

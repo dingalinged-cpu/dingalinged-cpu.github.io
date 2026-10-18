@@ -1,0 +1,24 @@
+The Goddard School is a daycare in Sandy Springs, GA.
+
+# The Goddard School
+
+- Category: daycare
+- Services: daycare
+- Address: Sandy Springs, GA
+- City: Sandy Springs
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.9288957, -84.3787319
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-goddard-school-sandy-springs/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-goddard-school-sandy-springs.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13274356866 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

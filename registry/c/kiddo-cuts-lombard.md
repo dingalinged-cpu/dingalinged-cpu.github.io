@@ -13,6 +13,7 @@ Kiddo Cuts is a hair salon in Lombard, IL at 157H Yorktown Shopping Center Rd, L
 - Website: https://kiddocuts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-20:00; Su 09:00-18:00
+- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

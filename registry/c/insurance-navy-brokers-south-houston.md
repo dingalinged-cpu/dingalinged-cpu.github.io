@@ -13,6 +13,7 @@ Insurance Navy Brokers is an insurance agent in South Houston, TX at 61 Spencer 
 - Website: https://www.insurancenavy.com/locations/tx/south-houston/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ National Sign & Design is a printing service in West Allis, WI at 11082 West Nat
 - Website: https://ntlsign.com/
 - Email: email@ntlsign.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa-Su closed
+- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

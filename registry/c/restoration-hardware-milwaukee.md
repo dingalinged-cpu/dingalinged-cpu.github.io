@@ -13,6 +13,7 @@ Restoration Hardware is a furniture store in Milwaukee, WI at 224 East Chicago S
 - Website: https://www.restorationhardware.com/store-locations/store.jsp?storeId=619
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-18:00; Mo-Sa 10:00-19:00
+- Registry Score: 54/100 (confidence: medium) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

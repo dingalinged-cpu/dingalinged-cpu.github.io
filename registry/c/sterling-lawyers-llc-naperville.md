@@ -13,6 +13,7 @@ Sterling Lawyers, LLC is a lawyer in Naperville, IL at 400 East Diehl Road ##200
 - Website: https://www.sterlinglawyers.com/illinois/locations/naperville/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 49.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

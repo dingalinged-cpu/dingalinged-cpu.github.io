@@ -13,6 +13,7 @@ Little Spurs Pediatric is a pediatrician in Dallas, TX at 2330 Gus Thomasson Roa
 - Website: https://littlespurspedi.com/location/casa-view/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

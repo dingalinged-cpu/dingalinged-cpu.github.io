@@ -13,6 +13,7 @@ Kimistry by Kimberly is a tailor in Milwaukee, WI at 3624 West North Avenue, Mil
 - Website: https://www.kimistryk.com/
 - Email: info@KimistryK.com
 - Opening hours (OSM syntax): Tu-Fr 16:30-20:00; Mo,Sa "By Appointment"; Su off
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

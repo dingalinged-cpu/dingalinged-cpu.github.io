@@ -13,6 +13,7 @@ Howard Brown Health at Thresholds South is a family medicine practice in Chicago
 - Website: https://howardbrown.org/clinic_location/thresholds-south/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-16:30, Tu 10:00-18:30, We-Fr 09:00-16:30
+- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

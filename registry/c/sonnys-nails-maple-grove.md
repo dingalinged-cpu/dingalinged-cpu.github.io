@@ -13,6 +13,7 @@ Sonny's Nails is a nail salon in Maple Grove, MN at 13660 Grove Drive North, Map
 - Website: https://www.sonnynailsmaplegrove.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:30-18:00;Su 11:00-17:00
+- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

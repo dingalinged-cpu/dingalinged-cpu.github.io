@@ -13,6 +13,7 @@ The Medallion is an assisted living facility in Houston, TX at 6262 North Braesw
 - Website: https://www.sevenacres.org/the-medallion-assisted-living-residence/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

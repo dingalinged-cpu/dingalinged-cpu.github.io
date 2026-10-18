@@ -13,6 +13,7 @@ Meineke is an auto repair shop in Crestwood, IL at 13845 Cicero Avenue, Crestwoo
 - Website: https://www.meineke.com/locations/il/crestwood-2913/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+The Hills at East Cobb Leasing Center is a property management company in Cobb County, GA. Website: https://www.thehillsateastcobbapartments.com/.
+
+# The Hills at East Cobb Leasing Center
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.9109002, -84.4857243
+- Phone: n/a
+- Website: https://www.thehillsateastcobbapartments.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-hills-at-east-cobb-leasing-center-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-hills-at-east-cobb-leasing-center-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/300066824 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,466 @@
+{
+ "place": "Lawrenceville, GA",
+ "slug": "lawrenceville-ga",
+ "count": 12,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "chiropractor lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "daycare lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "dentist lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "gym lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "insurance agency lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "insurance agent lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "insurance agents lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "mechanic lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "plumber lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "plumbers lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "plumbing services lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "printing services lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "tattoo shop lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "tax preparation lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "tax preparer lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-lawrenceville-ga.json"
+  },
+  {
+   "keyword": "tire shop lawrenceville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-lawrenceville-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "drain-genie-plumbing-and-drains-lawrenceville",
+   "name": "Drain Genie Plumbing & Drains",
+   "summary": "Drain Genie Plumbing & Drains is a plumber in Lawrenceville, GA at 2490 Waterford Park Drive, Lawrenceville, GA 30044. Phone: +14044843003. Website: https://draingenie.net/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/drain-genie-plumbing-and-drains-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/drain-genie-plumbing-and-drains-lawrenceville.json",
+   "address": {
+    "streetAddress": "2490 Waterford Park Drive",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30044",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30044",
+   "geo": {
+    "lat": 33.9479614,
+    "lon": -84.0734048
+   },
+   "phone": "+14044843003",
+   "website": "https://draingenie.net/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13357437983",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-lawrenceville",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Lawrenceville, GA at 1422 Pleasant Hill Road, Lawrenceville, GA 30044. Phone: +17709310026. Website: https://www.expressoil.com/stores/lawrenceville/ga/1829/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-lawrenceville.json",
+   "address": {
+    "streetAddress": "1422 Pleasant Hill Road",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30044",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30044",
+   "geo": {
+    "lat": 33.9399742,
+    "lon": -84.1210752
+   },
+   "phone": "+17709310026",
+   "website": "https://www.expressoil.com/stores/lawrenceville/ga/1829/",
+   "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6522268844",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grease-monkey-lawrenceville",
+   "name": "Grease Monkey",
+   "summary": "Grease Monkey is an auto repair shop in Lawrenceville, GA at 910 Herrington Road, Lawrenceville, GA 30044. Phone: +16783761000. Website: https://www.greasemonkeyauto.com/locations/us/ga/lawrenceville/910-herrington-road.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grease-monkey-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grease-monkey-lawrenceville.json",
+   "address": {
+    "streetAddress": "910 Herrington Road",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30044",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30044",
+   "geo": {
+    "lat": 33.9406447,
+    "lon": -84.0814772
+   },
+   "phone": "+16783761000",
+   "website": "https://www.greasemonkeyauto.com/locations/us/ga/lawrenceville/910-herrington-road",
+   "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11183067632",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "insurancehub-lawrenceville",
+   "name": "InsuranceHub",
+   "summary": "InsuranceHub is an insurance agent in Lawrenceville, GA at 1720 Lakes Parkway, Lawrenceville, GA 30043. Phone: +17704971200. Website: https://insurancehub.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/insurancehub-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/insurancehub-lawrenceville.json",
+   "address": {
+    "streetAddress": "1720 Lakes Parkway",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30043",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30043",
+   "geo": {
+    "lat": 33.9630302,
+    "lon": -84.058044
+   },
+   "phone": "+17704971200",
+   "website": "https://insurancehub.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6360216015",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "life-time-lawrenceville",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Lawrenceville, GA at 1823 North Brown Road, Lawrenceville, GA 30043. Phone: +16782262099. Website: https://www.lifetime.life/life-time-locations/ga-lawrenceville-sugarloaf.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-lawrenceville.json",
+   "address": {
+    "streetAddress": "1823 North Brown Road",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30043",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30043",
+   "geo": {
+    "lat": 33.9857653,
+    "lon": -84.0831459
+   },
+   "phone": "+16782262099",
+   "website": "https://www.lifetime.life/life-time-locations/ga-lawrenceville-sugarloaf.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/251668263",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "golden-kidz-child-care-center-lawrenceville",
+   "name": "Golden Kidz Child Care Center",
+   "summary": "Golden Kidz Child Care Center is a daycare in Lawrenceville, GA at 3004 River Drive, Lawrenceville, GA 30044. Phone: +16783445464. Website: https://goldenkidzchildcarecenter.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golden-kidz-child-care-center-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golden-kidz-child-care-center-lawrenceville.json",
+   "address": {
+    "streetAddress": "3004 River Drive",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30044",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30044",
+   "geo": {
+    "lat": 33.8869214,
+    "lon": -84.0620694
+   },
+   "phone": "+16783445464",
+   "website": "https://goldenkidzchildcarecenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/807280938",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-lawrenceville",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Lawrenceville, GA at 1455 Pleasant Hill Rd #Ste 206, Lawrenceville, GA 30044. Phone: +17706863207. Website: https://locations.theupsstore.com/ga/lawrenceville/1455-pleasant-hill-rd.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-lawrenceville.json",
+   "address": {
+    "streetAddress": "1455 Pleasant Hill Rd #Ste 206",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30044",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30044",
+   "geo": {
+    "lat": 33.9390971,
+    "lon": -84.1224909
+   },
+   "phone": "+17706863207",
+   "website": "https://locations.theupsstore.com/ga/lawrenceville/1455-pleasant-hill-rd",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13731349438",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "optima-dental-lawrenceville",
+   "name": "Optima Dental",
+   "summary": "Optima Dental is a dentist in Lawrenceville, GA at 1790 Atkinson Road #b, Lawrenceville, GA 30043. Website: https://www.optimafamilydentist.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/optima-dental-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/optima-dental-lawrenceville.json",
+   "address": {
+    "streetAddress": "1790 Atkinson Road #b",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30043",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30043",
+   "geo": {
+    "lat": 33.9730317,
+    "lon": -84.0774507
+   },
+   "website": "https://www.optimafamilydentist.com/",
+   "opening_hours": "Mo-Th 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13255811967",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "infinity-tax-and-accounting-services-inc-lawrenceville",
+   "name": "Infinity Tax & Accounting Services Inc.",
+   "summary": "Infinity Tax & Accounting Services Inc. is a tax preparation service in Lawrenceville, GA at Old Norcross Road, Lawrenceville, GA 30046. Phone: +17702773830.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/infinity-tax-and-accounting-services-inc-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/infinity-tax-and-accounting-services-inc-lawrenceville.json",
+   "address": {
+    "streetAddress": "Old Norcross Road",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30046",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30046",
+   "geo": {
+    "lat": 33.9525023,
+    "lon": -84.0497757
+   },
+   "phone": "+17702773830",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486905890",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lawrenceville-dentistry-lawrenceville",
+   "name": "Lawrenceville Dentistry",
+   "summary": "Lawrenceville Dentistry is a dentist in Lawrenceville, GA at 1455 Pleasant Hill Road, Lawrenceville, GA 30044. Website: https://lawrencevilledentistry.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lawrenceville-dentistry-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lawrenceville-dentistry-lawrenceville.json",
+   "address": {
+    "streetAddress": "1455 Pleasant Hill Road",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30044",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30044",
+   "geo": {
+    "lat": 33.9397021,
+    "lon": -84.1229862
+   },
+   "website": "https://lawrencevilledentistry.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392444806",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "magick-dragon-tattoo-lawrenceville",
+   "name": "Magick Dragon Tattoo",
+   "summary": "Magick Dragon Tattoo is a tattoo shop in Lawrenceville, GA at 4785 Sugarloaf Parkway, Lawrenceville, GA 30046. Phone: +16785184415.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magick-dragon-tattoo-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magick-dragon-tattoo-lawrenceville.json",
+   "address": {
+    "streetAddress": "4785 Sugarloaf Parkway",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30046",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30046",
+   "geo": {
+    "lat": 33.9520208,
+    "lon": -84.0500147
+   },
+   "phone": "+16785184415",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486905884",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lilburn-sports-and-family-wellness-lawrenceville",
+   "name": "Lilburn Sports & Family Wellness",
+   "summary": "Lilburn Sports & Family Wellness is a chiropractor in Lawrenceville, GA at 3035 Five Forks Trickum Road Southwest ##7, Lawrenceville, GA 30047.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lilburn-sports-and-family-wellness-lawrenceville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lilburn-sports-and-family-wellness-lawrenceville.json",
+   "address": {
+    "streetAddress": "3035 Five Forks Trickum Road Southwest ##7",
+    "addressLocality": "Lawrenceville",
+    "addressRegion": "GA",
+    "postalCode": "30047",
+    "addressCountry": "US"
+   },
+   "city": "Lawrenceville",
+   "state": "GA",
+   "zip": "30047",
+   "geo": {
+    "lat": 33.8862291,
+    "lon": -84.0615279
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814211",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

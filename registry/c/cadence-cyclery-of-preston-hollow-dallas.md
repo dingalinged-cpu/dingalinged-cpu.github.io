@@ -13,6 +13,7 @@ Cadence Cyclery of Preston Hollow is a bike shop in Dallas, TX at 3850 West Nort
 - Website: https://www.cadencecyclery.com/about/preston-hollow-tx-pg257.htm
 - Email: n/a
 - Opening hours (OSM syntax): Mo 12:00-18:00; Tu,We 12:00-19:00; Th,Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00
+- Registry Score: 58.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

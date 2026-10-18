@@ -13,6 +13,7 @@ Block Advisors is a tax preparation service in Elmwood Park, IL at 7234 North Av
 - Website: https://www.blockadvisors.com/tax-office-near-me/illinois/elmwood-park/12703/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

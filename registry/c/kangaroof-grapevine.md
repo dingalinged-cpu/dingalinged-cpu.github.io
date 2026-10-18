@@ -13,6 +13,7 @@ KangaRoof is a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine
 - Website: https://callkangaroofdfw.com/
 - Email: info@callkangaroof.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

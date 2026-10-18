@@ -13,6 +13,7 @@ Brilliant Dental Care is a dentist in Houston, TX at 4000 Washington, Ave #201, 
 - Website: https://brilliantdentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-16:30; We 07:30-15:30; Th 08:00-16:30; Fr 08:00-15:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

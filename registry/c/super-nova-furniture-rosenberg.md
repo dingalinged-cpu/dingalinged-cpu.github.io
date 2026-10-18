@@ -13,6 +13,7 @@ Super Nova Furniture is a furniture store in Rosenberg, TX at 24974 Commercial D
 - Website: https://www.supernovafurniture.com/
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-21:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

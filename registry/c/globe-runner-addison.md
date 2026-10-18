@@ -13,6 +13,7 @@ Globe Runner is a marketing agency in Addison, TX at 4900 Airport Parkway #Unit 
 - Website: https://globerunner.com/
 - Email: info@globerunner.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

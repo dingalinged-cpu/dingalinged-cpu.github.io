@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Greenfield, WI at 4842 South 76th Street, G
 - Website: https://www.mattressfirm.com/en-us/stores/wi/greenfield/059006/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 10:00-18:00
+- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

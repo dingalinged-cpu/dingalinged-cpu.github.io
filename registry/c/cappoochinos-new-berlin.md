@@ -13,6 +13,7 @@ Cappoochino's is a dog groomer in New Berlin, WI at 3640 South Moorland Road, Ne
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:30-16:00; Tu 09:30-19:00; Th 09:30-19:00; Fr 09:30-16:00; Sa 09:30-15:00
+- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

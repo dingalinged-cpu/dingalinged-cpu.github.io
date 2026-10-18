@@ -13,6 +13,7 @@ Lee's Barbershop is a hair salon in Naperville, IL at 1010 North Washington Stre
 - Website: https://lees64barbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Tu, Th, Fr 09:30-17:00; We, Su off; Sa 09:00-16:00
+- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

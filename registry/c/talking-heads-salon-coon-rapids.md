@@ -13,6 +13,7 @@ Talking Heads Salon is a hair salon in Coon Rapids, MN at 11427 Hanson Boulevard
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 13:00-21:00; Tu,We 11:00-18:00; Fr 09:00-17:00; Sa 09:00-16:00
+- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

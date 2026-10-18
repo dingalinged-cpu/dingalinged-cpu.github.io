@@ -13,6 +13,7 @@ Plaza Fine Jewelry is a jewelry store in Dallas, TX at 600 North Pearl Street #H
 - Website: https://www.yelp.com/biz/plaza-fine-jewelry-inc-dallas
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:30-19:00; Sa 12:00-17:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

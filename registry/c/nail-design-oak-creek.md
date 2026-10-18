@@ -13,6 +13,7 @@ Nail Design is a nail salon in Oak Creek, WI at 8880 South Howell Avenue #500, O
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 10:00-18:30; Su 11:00-16:00
+- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

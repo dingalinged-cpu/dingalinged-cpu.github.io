@@ -13,6 +13,7 @@ It's a Dog's Life is a dog boarding facility in Greenfield, WI at 4501 South 76t
 - Website: https://itsadogslifemilwaukee.com/
 - Email: ddorcey@att.net
 - Opening hours (OSM syntax): Mo-Fr 05:30-18:30; Sa,Su off
+- Registry Score: 61.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

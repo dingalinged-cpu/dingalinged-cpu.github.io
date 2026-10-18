@@ -13,6 +13,7 @@ Alpha Motors is an used car dealer in Chicago, IL at 2622 North Cicero Avenue, C
 - Website: https://www.alphamotorschicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
+- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Spring Physical Therapy is a physical therapy clinic in Spring, TX at 19510 Kuyk
 - Website: https://www.springphysicaltherapytx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 07:45-12:00,14:00-18:00; Tu 07:45-12:00,14:00-17:00; Th 07:45-12:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

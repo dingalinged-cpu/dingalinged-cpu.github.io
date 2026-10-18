@@ -13,6 +13,7 @@ Sapphire Family Dentistry is a dentist in Katy, TX at 25805 Katy Freeway #100, K
 - Website: https://www.sapphiredentistrykaty.com/
 - Email: katy@sapphirefamilydentistry.com
 - Opening hours (OSM syntax): Mo 10:00-19:00; Tu-Th 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

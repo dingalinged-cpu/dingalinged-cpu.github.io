@@ -13,6 +13,7 @@ Cornerstone Children's Learning Center is a preschool in Chicago, IL at 1111 Nor
 - Website: https://cornerstonechildrenslearningcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
+- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

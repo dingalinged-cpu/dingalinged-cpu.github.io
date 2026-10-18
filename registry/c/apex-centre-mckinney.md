@@ -13,6 +13,7 @@ Apex Centre is a yoga studio in McKinney, TX at 3003 Alma Road, McKinney, TX 750
 - Website: https://www.mckinneytexas.org/1315/Apex-Centre
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 04:30-22:00, Fr 04:30-21:00, Sa 07:00-19:00, Su 10:00-18:00
+- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,58 @@
+Keyword market for Lilburn, GA: 41 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Atlanta-Sandy Springs-Roswell, GA metro (US volume x population share).
+
+# Top keywords in Lilburn, GA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash lilburn ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-lilburn-ga/
+2. dentist lilburn ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/dentist-lilburn-ga/
+3. gym lilburn ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-lilburn-ga/
+4. hair salon lilburn ga | searches/mo 28,000 (est) | CPC $0.55 | value $15,000 | Google Ads equiv $880/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/hair-salon-lilburn-ga/
+5. plumber lilburn ga | searches/mo 16,000 (est) | CPC $12.04 | value $190,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumber-lilburn-ga/
+6. mechanic lilburn ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 20 | https://dingalinged-cpu.github.io/registry/k/mechanic-lilburn-ga/
+7. tire shop lilburn ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-lilburn-ga/
+8. haircut lilburn ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/haircut-lilburn-ga/
+9. auto repair lilburn ga | searches/mo 5,700 (est) | CPC $4.35 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 20 | https://dingalinged-cpu.github.io/registry/k/auto-repair-lilburn-ga/
+10. dog boarding lilburn ga | searches/mo 4,700 (est) | CPC $4.06 | value $19,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-lilburn-ga/
+11. locksmith lilburn ga | searches/mo 4,700 (est) | CPC $8.33 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-lilburn-ga/
+12. car inspection lilburn ga | searches/mo 1,700 (est) | CPC $4.35 | value $7,400 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-inspection-lilburn-ga/
+13. insurance agency lilburn ga | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-lilburn-ga/
+14. attorney lilburn ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-lilburn-ga/
+15. tax preparation lilburn ga | searches/mo 1,400 (est) | CPC $3.25 | value $4,600 | Google Ads equiv $380/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tax-preparation-lilburn-ga/
+
+## By CPC
+1. plumbing services lilburn ga | searches/mo 940 (est) | CPC $13.90 | value $13,000 | Google Ads equiv $830/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumbing-services-lilburn-ga/
+2. plumber lilburn ga | searches/mo 16,000 (est) | CPC $12.04 | value $190,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumber-lilburn-ga/
+3. attorney lilburn ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-lilburn-ga/
+4. lawyer lilburn ga | searches/mo 940 (est) | CPC $9.87 | value $9,300 | Google Ads equiv $550/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-lilburn-ga/
+5. window repair lilburn ga | searches/mo 760 (est) | CPC $8.76 | value $6,700 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/window-repair-lilburn-ga/
+6. concrete contractor lilburn ga | searches/mo 760 (est) | CPC $8.33 | value $6,300 | Google Ads equiv $400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/concrete-contractor-lilburn-ga/
+7. flooring companies lilburn ga | searches/mo 340 (est) | CPC $8.33 | value $2,800 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-lilburn-ga/
+8. locksmith lilburn ga | searches/mo 4,700 (est) | CPC $8.33 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-lilburn-ga/
+9. plumbers lilburn ga | searches/mo 68.00 (est) | CPC $8.33 | value $570 | Google Ads equiv $36.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumbers-lilburn-ga/
+10. storage units lilburn ga | searches/mo 4,200 (est) | CPC $8.33 | value $35,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/storage-units-lilburn-ga/
+11. accounting services lilburn ga | searches/mo 230 (est) | CPC $5.87 | value $1,400 | Google Ads equiv $76.00/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/accounting-services-lilburn-ga/
+12. staffing agency lilburn ga | searches/mo 2,700 (est) | CPC $5.87 | value $16,000 | Google Ads equiv $900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/staffing-agency-lilburn-ga/
+13. tax preparer lilburn ga | searches/mo 1,100 (est) | CPC $5.87 | value $6,500 | Google Ads equiv $360/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-lilburn-ga/
+14. general contractor lilburn ga | searches/mo 340 (est) | CPC $5.31 | value $1,800 | Google Ads equiv $120/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/general-contractor-lilburn-ga/
+15. accountant lilburn ga | searches/mo 630 (est) | CPC $5.23 | value $3,300 | Google Ads equiv $190/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/accountant-lilburn-ga/
+
+## By value (searches x CPC)
+1. plumber lilburn ga | searches/mo 16,000 (est) | CPC $12.04 | value $190,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumber-lilburn-ga/
+2. dentist lilburn ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/dentist-lilburn-ga/
+3. car wash lilburn ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-lilburn-ga/
+4. gym lilburn ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-lilburn-ga/
+5. mechanic lilburn ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 20 | https://dingalinged-cpu.github.io/registry/k/mechanic-lilburn-ga/
+6. tire shop lilburn ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-lilburn-ga/
+7. locksmith lilburn ga | searches/mo 4,700 (est) | CPC $8.33 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-lilburn-ga/
+8. haircut lilburn ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/haircut-lilburn-ga/
+9. auto repair lilburn ga | searches/mo 5,700 (est) | CPC $4.35 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 20 | https://dingalinged-cpu.github.io/registry/k/auto-repair-lilburn-ga/
+10. dog boarding lilburn ga | searches/mo 4,700 (est) | CPC $4.06 | value $19,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-lilburn-ga/
+11. hair salon lilburn ga | searches/mo 28,000 (est) | CPC $0.55 | value $15,000 | Google Ads equiv $880/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/hair-salon-lilburn-ga/
+12. attorney lilburn ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-lilburn-ga/
+13. plumbing services lilburn ga | searches/mo 940 (est) | CPC $13.90 | value $13,000 | Google Ads equiv $830/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumbing-services-lilburn-ga/
+14. lawyer lilburn ga | searches/mo 940 (est) | CPC $9.87 | value $9,300 | Google Ads equiv $550/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-lilburn-ga/
+15. car inspection lilburn ga | searches/mo 1,700 (est) | CPC $4.35 | value $7,400 | Google Ads equiv $410/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-inspection-lilburn-ga/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

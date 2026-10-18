@@ -13,6 +13,7 @@ Milwaukee Bicycle Collective is a bike shop in Milwaukee, WI at 2930 West Clybou
 - Website: https://www.bikecollective.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 17:30-20:30; Sa 11:00-14:00; PH off
+- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

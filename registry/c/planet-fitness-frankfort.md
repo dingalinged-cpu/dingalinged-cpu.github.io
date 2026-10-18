@@ -13,6 +13,7 @@ Planet Fitness is a gym in Frankfort, IL at 20825 South La Grange Road, Frankfor
 - Website: https://www.planetfitness.com/gyms/frankfort-il
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 00:00-24:00; Fr 12:00-22:00; Sa 07:00-19:00; Su 07:00-00:00
+- Registry Score: 53.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

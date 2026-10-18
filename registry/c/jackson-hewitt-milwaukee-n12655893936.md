@@ -13,6 +13,7 @@ Jackson Hewitt is a tax preparation service in Milwaukee, WI at 6502 West Capito
 - Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/wi/milwaukee/6502-west-capitol-dr/10712
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 10:00-19:00; Tu,Th-Sa 10:00-18:00; Su 11:00-16:00
+- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

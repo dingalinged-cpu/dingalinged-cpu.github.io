@@ -13,6 +13,7 @@ Barber's Company is a barber shop in West Milwaukee, WI at 5303 West Greenfield 
 - Website: https://www.barberscompanyllc.com/
 - Email: barberscompanyllc@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su off
+- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

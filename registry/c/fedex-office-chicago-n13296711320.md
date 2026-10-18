@@ -13,6 +13,7 @@ FedEx Office is a printing service in Chicago, IL at 106 North Carpenter Street,
 - Website: https://local.fedex.com/en-us/il/chicago/office-0299
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 10:00-18:00
+- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ The UPS Store is a printing service in Dallas, TX at 14999 Preston Road #112, Da
 - Website: https://locations.theupsstore.com/tx/dallas/14999-preston-rd
 - Email: n/a
 - Opening hours (OSM syntax): No-Fr 08:00-20:00; Sa 10:00-17:00; Su 12:00-17:00
+- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

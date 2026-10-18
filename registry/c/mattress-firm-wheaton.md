@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Wheaton, IL at 22 Danada Square West, Wheat
 - Website: https://www.mattressfirm.com/en-us/stores/il/wheaton/119168/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

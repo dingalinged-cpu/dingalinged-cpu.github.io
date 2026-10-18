@@ -13,6 +13,7 @@ Must$ellItNow is a thrift store in Dallas, TX. Website: https://www.mustsellitno
 - Website: https://www.mustsellitnow.com/
 - Email: sales@mustsellitnow.com
 - Opening hours (OSM syntax): "Mondays, Wednesdays, Fridays; By appointment."
+- Registry Score: 56.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

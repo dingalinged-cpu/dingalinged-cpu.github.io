@@ -13,6 +13,7 @@ Hair District is a hair salon in Saint Louis Park, MN at 3725 Grand Way, Saint L
 - Website: https://www.thehairdistrict.com/st-louis-park/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 10:30-18:00; Sa 09:00-16:00; PH closed
+- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

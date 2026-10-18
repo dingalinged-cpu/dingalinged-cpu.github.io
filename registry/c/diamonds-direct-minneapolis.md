@@ -13,6 +13,7 @@ Diamonds Direct is a jewelry store in Minneapolis, MN at 5037 France Avenue Sout
 - Website: https://www.diamondsdirectmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-17:30; Sa 10:00-16:00
+- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

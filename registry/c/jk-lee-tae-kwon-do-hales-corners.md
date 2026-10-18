@@ -13,6 +13,7 @@ JK Lee Tae Kwon Do is a martial arts school in Hales Corners, WI at 5301 South 1
 - Website: https://jkleeblackbelt.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 15:30-20:30, Tu,Th 11:30-20:30, Fr 16:30-20:00, sa 08:30-13:00
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

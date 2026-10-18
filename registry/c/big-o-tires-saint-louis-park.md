@@ -13,6 +13,7 @@ Big O Tires is a tire shop in Saint Louis Park, MN at 7001 Lake Street West, Sai
 - Website: https://www.bigotires.com/location/MN-St.%20Louis%20Park-55426/023018?y_source=1_ODgyNDYzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Gorjana is a jewelry store in Naperville, IL at 35 South Washington Street #138,
 - Website: https://www.gorjana.com/pages/jewelry-store-naperville-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

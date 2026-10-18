@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in New Caney, TX at 12029 North Grand Parkway 
 - Website: https://www.mattressfirm.com/en-us/stores/tx/new-caney/001208/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

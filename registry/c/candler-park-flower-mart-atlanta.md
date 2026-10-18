@@ -1,0 +1,24 @@
+Candler Park Flower Mart is a florist in Atlanta, GA at 1395 McLendon Avenue, Atlanta, GA 30307. Website: https://www.candlerparkflowers.com/.
+
+# Candler Park Flower Mart
+
+- Category: florist
+- Services: florist
+- Address: 1395 McLendon Avenue, Atlanta, GA 30307
+- City: Atlanta
+- State: GA
+- ZIP: 30307
+- Coordinates: 33.7647575, -84.3418708
+- Phone: n/a
+- Website: https://www.candlerparkflowers.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/candler-park-flower-mart-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/candler-park-flower-mart-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/1165370728 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

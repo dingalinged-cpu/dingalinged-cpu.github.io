@@ -13,6 +13,7 @@ SunCloud Health is an addiction treatment center in Chicago, IL at 1840 North Cl
 - Website: https://suncloudhealth.com/
 - Email: info@suncloudhealth.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

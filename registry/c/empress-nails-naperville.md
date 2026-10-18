@@ -13,6 +13,7 @@ Empress Nails is a nail salon in Naperville, IL at 152 West Gartner Road #118, N
 - Website: https://www.facebook.com/pg/Empress-Nails-630-428-0650-201795906520244
 - Email: empressnails1@gmail.com
 - Opening hours (OSM syntax): 11:00-17:00
+- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

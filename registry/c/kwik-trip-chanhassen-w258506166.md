@@ -13,6 +13,7 @@ Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/loc
 - Website: https://www.kwiktrip.com/locator/store?id=492
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 46.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+2313 Parmenter St, Middleton, WI 53562 is a dog groomer in Middleton, WI at 2313l Parmenter Street, Middleton, WI 53563.
+
+# 2313 Parmenter St, Middleton, WI 53562
+
+- Category: dog groomer
+- Services: dog groomer
+- Address: 2313l Parmenter Street, Middleton, WI 53563
+- City: Middleton
+- State: WI
+- ZIP: 53563
+- Coordinates: 43.100522, -89.5112046
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/2313-parmenter-st-middleton-wi-53562-middleton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/2313-parmenter-st-middleton-wi-53562-middleton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/14031463001 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

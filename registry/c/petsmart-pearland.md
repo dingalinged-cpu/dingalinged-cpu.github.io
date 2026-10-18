@@ -13,6 +13,7 @@ PetSmart is a pet store in Pearland, TX at 3119 Silverlake Village Drive, Pearla
 - Website: https://www.petsmart.com/stores/us/tx/pearland-store1121.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

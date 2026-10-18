@@ -13,6 +13,7 @@ LaRon Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #806, 
 - Website: https://www.laronjewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 09:30-16:30; We-Fr 09:00-16:30, Sa 10:30-13:30
+- Registry Score: 65.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

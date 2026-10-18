@@ -1,0 +1,24 @@
+A-Highway 92 Storage is a self-storage facility in Dallas, GA at 3874 Hiram Acworth Highway, Dallas, GA 30157. Phone: +17704437410. Website: https://www.dallasselfstoragefacility.com/.
+
+# A-Highway 92 Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 3874 Hiram Acworth Highway, Dallas, GA 30157
+- City: Dallas
+- State: GA
+- ZIP: 30157
+- Coordinates: 33.9437054, -84.7355721
+- Phone: +17704437410
+- Website: https://www.dallasselfstoragefacility.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/a-highway-92-storage-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-highway-92-storage-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1147707827 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

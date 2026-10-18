@@ -13,6 +13,7 @@ SNAP is a veterinarian in Houston, TX at 1801 Durham Drive #1A, Houston, TX 7700
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th-Fr 10:00-18:00; PH closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

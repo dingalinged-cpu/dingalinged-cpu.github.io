@@ -13,6 +13,7 @@ Coleman Dental is a dentist in Houston, TX at 7575 San Felipe Street #135, Houst
 - Website: https://cosmeticdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Sa-Su off; Mo 08:00-17:00; Tu 07:00-15:00; We 08:00-16:00; Th 07:00-15:00 || "by appointment on Fridays"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

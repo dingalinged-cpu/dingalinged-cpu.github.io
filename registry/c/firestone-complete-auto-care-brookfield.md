@@ -13,6 +13,7 @@ Firestone Complete Auto Care is an auto repair shop in Brookfield, WI at 95 N Mo
 - Website: https://firestonecompleteautocare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00
+- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

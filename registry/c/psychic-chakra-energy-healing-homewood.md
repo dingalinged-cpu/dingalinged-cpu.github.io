@@ -13,6 +13,7 @@ Psychic Chakra Energy Healing is a therapy practice in Homewood, IL at 1800 Ridg
 - Website: https://psychicchakraenergyhealer.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

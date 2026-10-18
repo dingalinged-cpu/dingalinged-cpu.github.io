@@ -13,6 +13,7 @@ Hallmark is a gift shop in Mequon, WI at 10932 North Port Washington Road, Mequo
 - Website: https://stores.hallmark.com/wi/mequon/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Lewisville Chiropractic is a chiropractor in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-18:00; Tu,Th 14:30-18:00; PH closed; Sa 09:00-12:00 open "First and third Saturday of the month."
+- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Wood Floors of Dallas is a flooring company in Lewisville, TX at 159 West Main S
 - Website: https://www.woodfloordallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su,PH off
+- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

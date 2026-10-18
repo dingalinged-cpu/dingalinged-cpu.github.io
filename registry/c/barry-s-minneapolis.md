@@ -13,6 +13,7 @@ Barry’s is a gym in Minneapolis, MN at 701 North Washington Avenue, Minneapoli
 - Website: https://www.barrys.com/studio/minneapolis
 - Email: minneapolis@barrys.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-19:00; Su 08:00-14:00; Sa 07:00-13:00
+- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

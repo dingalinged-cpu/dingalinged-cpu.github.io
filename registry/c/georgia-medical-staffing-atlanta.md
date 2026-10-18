@@ -1,0 +1,24 @@
+Georgia Medical Staffing is a staffing agency in Atlanta, GA at 648 Cleburne Terrace NE, Atlanta, GA 30306. Phone: +14046203523. Website: https://www.1stoprecruiting.com/georgia-medical-staffing-agency.
+
+# Georgia Medical Staffing
+
+- Category: staffing agency
+- Services: staffing agency
+- Address: 648 Cleburne Terrace NE, Atlanta, GA 30306
+- City: Atlanta
+- State: GA
+- ZIP: 30306
+- Coordinates: 33.7719518, -84.3539393
+- Phone: +14046203523
+- Website: https://www.1stoprecruiting.com/georgia-medical-staffing-agency
+- Email: info@1stoprecruiting.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa,Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/georgia-medical-staffing-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/georgia-medical-staffing-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12098012197 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

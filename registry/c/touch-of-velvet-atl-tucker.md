@@ -1,0 +1,24 @@
+Touch of Velvet ATL is a bakery in Tucker, GA at 1927 Lakeside Parkway, Tucker, GA 30084. Phone: +14707813811. Website: https://www.touchofvelvetatl.com/.
+
+# Touch of Velvet ATL
+
+- Category: bakery
+- Services: bakery
+- Address: 1927 Lakeside Parkway, Tucker, GA 30084
+- City: Tucker
+- State: GA
+- ZIP: 30084
+- Coordinates: 33.8393495, -84.2386344
+- Phone: +14707813811
+- Website: https://www.touchofvelvetatl.com/
+- Email: cakeorder@touchofvelvetatl.com
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/touch-of-velvet-atl-tucker/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/touch-of-velvet-atl-tucker.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13393074367 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

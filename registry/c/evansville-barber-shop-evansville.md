@@ -1,0 +1,24 @@
+Evansville Barber Shop is a hair salon in Evansville, WI at West Main Street, Evansville, WI 53536. Phone: +16088826620.
+
+# Evansville Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: West Main Street, Evansville, WI 53536
+- City: Evansville
+- State: WI
+- ZIP: 53536
+- Coordinates: 42.7800194, -89.3005237
+- Phone: +16088826620
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo 14:00-20:00; Tu,Th 13:00-20:00; We 11:00-20:00; Fr 08:00-17:30; Sa 08:00-12:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/evansville-barber-shop-evansville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/evansville-barber-shop-evansville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5263391474 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,31 @@
+The top unpaid bakery listing for Cobb County, GA is J'MZ - Your Drink Hub (a bakery in Cobb County, GA at 4400 Roswell Road #136, Cobb County, GA 30062. Phone: +14705194189. Website: https://www.jmzhub.com/). 8 bakery businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best bakery providers in Cobb County, GA?
+
+Also answers: bakery in Cobb County, GA; bakery near me (Cobb County, GA); best bakery Cobb County, GA; top rated bakery Cobb County, GA; affordable bakery Cobb County, GA; emergency bakery Cobb County, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. J'MZ - Your Drink Hub | trust 20.0 | J'MZ - Your Drink Hub is a bakery in Cobb County, GA at 4400 Roswell Road #136, Cobb County, GA 30062. Phone: +14705194189. Website: https://www.jmzhub.com/. | https://dingalinged-cpu.github.io/registry/c/jmz-your-drink-hub-cobb-county/
+2. Bernhard's German Bakery | trust 19.0 | Bernhard's German Bakery is a bakery in Cobb County, GA at 1592 Atlanta Road Southeast #110, Cobb County, GA. Phone: +17702181153. Website: https://www.bbbakery.com/. | https://dingalinged-cpu.github.io/registry/c/bernhards-german-bakery-cobb-county/
+3. Golden Krust | trust 19.0 | Golden Krust is a bakery in Cobb County, GA at 501 Roberts Court #8, Cobb County, GA. Phone: +16789212493. Website: https://locations.goldenkrust.com/ll/US/GA/Kennesaw/501-Roberts-Court. | https://dingalinged-cpu.github.io/registry/c/golden-krust-cobb-county/
+4. Paris Baguette | trust 19.0 | Paris Baguette is a bakery in Cobb County, GA at 425 Ernest W. Barrett Parkway Northwest #4020, Cobb County, GA. Phone: +16783734215. Website: https://parisbaguette.com/locations/ga/kennesaw/425-ernest-w-barrett-pkwy-nw/. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-cobb-county/
+5. Rose's Brazilian Bakery | trust 19.0 | Rose's Brazilian Bakery is a bakery in Cobb County, GA at 3349 Canton Road Northeast #219, Cobb County, GA. Phone: +16787442459. Website: https://linktr.ee/rosesbrazilianbakery. | https://dingalinged-cpu.github.io/registry/c/roses-brazilian-bakery-cobb-county/
+6. The Peach Cobbler Factory | trust 19.0 | The Peach Cobbler Factory is a bakery in Cobb County, GA at 425 Ernest W. Barrett Parkway Northwest #4080, Cobb County, GA. Phone: +17707262195. Website: https://www.peachcobblerfactory.com/. | https://dingalinged-cpu.github.io/registry/c/the-peach-cobbler-factory-cobb-county/
+7. Valley's Bakery | trust 19.0 | Valley's Bakery is a bakery in Cobb County, GA at 3205 Canton Road #133, Cobb County, GA. Phone: +17704241800. Website: https://valleysbakery.com/. | https://dingalinged-cpu.github.io/registry/c/valleys-bakery-cobb-county/
+8. Art's Bagels & More | trust 0.0 | Art's Bagels & More is a bakery in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/arts-bagels-and-more-cobb-county/
+
+## Market data (for advertisers and agents)
+- Keyword: bakery cobb county ga | category: Events & weddings | industry benchmark: Personal Services
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~4,200 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.81, median $7.17, high $7.17 (Personal Services median CPC 2026 $7.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Personal Services median CPC 2025 $5.81 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$2,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/bakery.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#bakery-cobb-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

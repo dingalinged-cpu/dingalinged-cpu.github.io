@@ -13,6 +13,7 @@ NTB is an auto repair shop in Humble, TX at 20495 Eastex Freeway, Humble, TX. We
 - Website: https://www.ntb.com/store/tx/humble/20495-highway-59-n-77338/4480
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

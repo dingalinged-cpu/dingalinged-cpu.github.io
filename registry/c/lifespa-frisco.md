@@ -13,6 +13,7 @@ LifeSpa is a massage studio in Frisco, TX at 4900 Throne Hall Dr, Frisco, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu-Th 09:00-19:00; Fr-Sa 09:00-17:00; Su off
+- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

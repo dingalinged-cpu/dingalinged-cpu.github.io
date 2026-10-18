@@ -13,6 +13,7 @@ Bob's Lawn & Landscape is a landscaping company in Shakopee, MN at 406 1st Avenu
 - Website: https://www.bobslawnandlandscaping.net/
 - Email: bobnagel@usfamily.net
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

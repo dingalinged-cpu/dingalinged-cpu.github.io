@@ -13,6 +13,7 @@ Bogart's Doughnut Co. is a bakery in Minneapolis, MN at 904 West 36th Street, Mi
 - Website: https://www.bogartsdoughnutco.com/
 - Email: hello@bogartsdoughnutco.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-15:00; Sa,Su 07:30-15:00
+- Registry Score: 66.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ The Pilates Vault is a gym in Minneapolis, MN at 4420 Drew Avenue South, Minneap
 - Website: https://thepilatesvaultmpls.com/
 - Email: adrienne@thepilatesvaultmpls.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

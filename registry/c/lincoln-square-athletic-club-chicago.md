@@ -13,6 +13,7 @@ Lincoln Square Athletic Club is a gym in Chicago, IL at 4662 North Lincoln Avenu
 - Website: https://www.chicagoathleticclubs.com/locations/lincoln-square/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:30-21:00; Sa-Su 07:00-19:00; Fr 05:30-20:00
+- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

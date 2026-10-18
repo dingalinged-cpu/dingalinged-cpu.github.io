@@ -13,6 +13,7 @@ Rent-A-Center is a furniture store in Chicago, IL at 7131 South Jeffery Boulevar
 - Website: https://locations.rentacenter.com/illinois/chicago/7131-s-jeffery-blvd-ste-h/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

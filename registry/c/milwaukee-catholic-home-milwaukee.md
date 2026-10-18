@@ -13,6 +13,7 @@ Milwaukee Catholic Home is an assisted living facility in Milwaukee, WI at 2330 
 - Website: https://www.milwaukeecatholichome.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

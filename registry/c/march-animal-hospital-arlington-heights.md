@@ -13,6 +13,7 @@ March Animal Hospital is a veterinarian in Arlington Heights, IL at 1000 East Ce
 - Website: https://www.marchanimalhospital.com/
 - Email: csrs.mah@gmail.com
 - Opening hours (OSM syntax): Mo, Th 09:00-20:00; Tu-We, Fr 09:00-18:00; Sa 09:00-14:00
+- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

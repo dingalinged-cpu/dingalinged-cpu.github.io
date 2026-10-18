@@ -13,6 +13,7 @@ Bertha Alyce Early Childhood School is a daycare in Houston, TX at 5601 South Br
 - Website: https://www.erjcchouston.org/bertha-alyce-early-childhood-school/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Farmers Insurance - David Mugg is an insurance agent in Saint Michael, MN at 400
 - Website: https://agents.farmers.com/mn/saint-michael/david-mugg/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa-Su off
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

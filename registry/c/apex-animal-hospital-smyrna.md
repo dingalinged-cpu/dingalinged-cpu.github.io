@@ -1,0 +1,24 @@
+Apex Animal Hospital is a veterinarian in Smyrna, GA.
+
+# Apex Animal Hospital
+
+- Category: vet
+- Services: vet
+- Address: Smyrna, GA
+- City: Smyrna
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.8592092, -84.5158393
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/apex-animal-hospital-smyrna/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/apex-animal-hospital-smyrna.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11840214978 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

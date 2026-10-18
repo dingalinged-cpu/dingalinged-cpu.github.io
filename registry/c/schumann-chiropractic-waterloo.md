@@ -1,0 +1,24 @@
+Schumann Chiropractic is a chiropractor in Waterloo, WI.
+
+# Schumann Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: Waterloo, WI
+- City: Waterloo
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.1836885, -88.9912027
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/schumann-chiropractic-waterloo/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/schumann-chiropractic-waterloo.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13198309926 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

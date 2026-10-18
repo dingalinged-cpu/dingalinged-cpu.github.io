@@ -13,6 +13,7 @@ Clear Lake Movers Inc is a moving company in League City, TX at 303 Velvet St, L
 - Website: https://clearlakemovers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

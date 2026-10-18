@@ -13,6 +13,7 @@ Meineke is an auto repair shop in Naperville, IL at 1580 West Ogden Avenue #130,
 - Website: https://www.meineke.com/locations/il/naperville-1982/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-16:00; Su off
+- Registry Score: 53.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

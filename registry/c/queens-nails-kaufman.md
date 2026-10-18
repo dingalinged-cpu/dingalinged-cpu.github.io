@@ -13,6 +13,7 @@ Queen's Nails is a nail salon in Kaufman, TX at 102 South Old Rail Road #C, Kauf
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su off
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

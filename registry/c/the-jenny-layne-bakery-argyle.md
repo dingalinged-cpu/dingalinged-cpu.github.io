@@ -13,6 +13,7 @@ The Jenny Layne Bakery is a bakery in Argyle, TX at 815 Stonecrest Rd, Argyle, T
 - Website: https://www.jennylaynebakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Fr 09:00-18:00; Sa 09:00-14:00
+- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

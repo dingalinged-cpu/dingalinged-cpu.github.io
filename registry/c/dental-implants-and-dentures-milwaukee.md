@@ -13,6 +13,7 @@ Dental Implants & Dentures is a dentist in Milwaukee, WI at 6015 West Forest Hom
 - Website: https://www.affordabledentures.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:45-16:00
+- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

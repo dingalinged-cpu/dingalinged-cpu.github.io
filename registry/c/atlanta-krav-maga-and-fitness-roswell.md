@@ -1,0 +1,24 @@
+Atlanta Krav Maga and Fitness is a martial arts school in Roswell, GA.
+
+# Atlanta Krav Maga and Fitness
+
+- Category: martial arts
+- Services: martial arts
+- Address: Roswell, GA
+- City: Roswell
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0177594, -84.3095749
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/atlanta-krav-maga-and-fitness-roswell/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/atlanta-krav-maga-and-fitness-roswell.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7832887062 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

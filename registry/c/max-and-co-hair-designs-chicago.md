@@ -13,6 +13,7 @@ Max & Co Hair Designs is a hair salon in Chicago, IL at 1453 East Hyde Park Boul
 - Website: https://max-co-hair-design.edan.io/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 08:00-18:30; Mo 08:30-18:30; Su 09:00-16:30
+- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

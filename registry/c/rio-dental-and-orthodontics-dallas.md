@@ -13,6 +13,7 @@ Rio Dental & Orthodontics is a dentist in Dallas, TX at 9310 East R L Thornton F
 - Website: https://www.riodentalgroup.com/dallas-office/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:30-18:00; Fr 09:00-17:00; Sa 09:00-15:00
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

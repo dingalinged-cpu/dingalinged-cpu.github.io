@@ -13,6 +13,7 @@ FM Beverage is a liquor store in Flower Mound, TX at 601 Cross Timbers Road #110
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 06:00-23:00; Fr-Sa 06:00-24:00; Su 09:00-22:00; PH off
+- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

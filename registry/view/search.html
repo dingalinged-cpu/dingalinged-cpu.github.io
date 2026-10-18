@@ -44,7 +44,7 @@ fetch("kw/n.json").then(function(r){return r.json()}).then(function(d){N=d;L=new
   ["dentist minneapolis","personal injury lawyer","plumber near me","roofing contractor texas"].forEach(function(s){var b=document.createElement("button");b.className="chip";b.textContent=s;b.onclick=function(){q.value=s;go(s)};$("ex").appendChild(b)});
   var u=new URLSearchParams(location.search).get("q")||decodeURIComponent((location.hash||"").slice(1)).replace(/-/g," ");if(u){q.value=u;go(u)}
 }).catch(function(){out.innerHTML='<div class="card">The keyword index did not load. Please reload the page.</div>'});
-function S(id,src){if(!src||!src[id])return"";var s=src[id];return' <a href="'+esc(s[1])+'" rel="noopener nofollow" target="_blank">'+esc(s[0])+(s[3]&&s[3]!==s[0]?" ("+esc(s[3])+")":"")+'</a>'+(s[2]?", as of "+esc(s[2]):"")}
+function S(id,src){if(!src||!src[id])return"";var s=src[id];return' Source: <a href="'+esc(s[1])+'" rel="noopener nofollow" target="_blank" title="'+esc(s[3]||s[0])+'">'+esc(s[0])+'</a>'+(s[2]?", as of "+esc(s[2]):"")+"."}
 function render(query,p,e,src,G){
   var v=KW.pickVariant(e,p.place),row=v.row,key=v.key,label=e?query:"";
   var place=key.indexOf("|")>0?T_(key.split("|")[0])+", "+key.split("|")[1].toUpperCase():key?key.toUpperCase()+" (statewide)":"United States";
@@ -56,6 +56,7 @@ function render(query,p,e,src,G){
   var ig=p.place&&p.place.ignored&&p.place.ignored.length?p.place.ignored.join(" "):"", nt=v.note||"";
   if(ig&&!p.place.city){nt='We don\u2019t have a local estimate for \u201c'+ig+'\u201d yet; showing '+(key?place:"US national")+' figures.'+(key?"":" Add a nearby large city for a local estimate.")}
   else if(ig){nt=(nt?nt+" ":"")+'Words not used in the lookup: \u201c'+ig+'\u201d.'}
+  if(!nt&&/\bnear( me)?\b|\bnearby\b/.test(p.raw||"")&&!key)nt="\u201cNear me\u201d searches are counted in the US figures for \u201c"+p.base+"\u201d. Add a city or state for a local estimate.";
   if(nt)h+='<div class="note">'+esc(nt)+'</div>';
   h+='<div class="grid">';
   h+='<div class="m"><div class="l">US monthly searches'+(V[1]?est:pub)+'</div><div class="v">'+f(V[0])+'</div><div class="u">'+(V[1]&&V[6]!=null?"likely range "+f(V[6])+"&ndash;"+f(V[7]):"per month, United States")+'</div></div>';

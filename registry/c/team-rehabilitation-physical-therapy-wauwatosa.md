@@ -13,6 +13,7 @@ Team Rehabilitation Physical Therapy is a physical therapy clinic in Wauwatosa, 
 - Website: https://team-rehab.com/location/wauwatosa-wisconsin-physical-therapy/
 - Email: n/a
 - Opening hours (OSM syntax): mo-th 07:00-19:00, fr 07:00-17:00
+- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

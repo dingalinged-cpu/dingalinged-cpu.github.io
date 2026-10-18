@@ -13,6 +13,7 @@ Purloin Studio Fine Art & Gifts is a gift shop in Menomonee Falls, WI at N88 W16
 - Website: https://purloinstudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

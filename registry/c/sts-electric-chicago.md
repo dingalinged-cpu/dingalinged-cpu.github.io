@@ -13,6 +13,7 @@ STS Electric is an electrician in Chicago, IL at 939 West North Avenue #746, Chi
 - Website: https://stselectric.com/
 - Email: service@stselectric.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

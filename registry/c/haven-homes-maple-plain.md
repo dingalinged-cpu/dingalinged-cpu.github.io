@@ -13,6 +13,7 @@ Haven Homes is an assisted living facility in Maple Plain, MN at 4848 Gateway Bo
 - Website: https://www.havenhomesseniorliving.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

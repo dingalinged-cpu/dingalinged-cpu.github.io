@@ -13,6 +13,7 @@ Invisible Ink Tattoo Removeal is a tattoo shop in Saint Louis Park, MN at 4616 E
 - Website: https://removery.com/tattoo-removal/locations/mn/minneapolis/?y_source=1_MTY2NjUyNjItNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:30-18:30; Sa 09:00-15:00; PH closed
+- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

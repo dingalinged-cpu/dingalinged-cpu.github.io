@@ -13,6 +13,7 @@ The Barry Company is a real estate agency in Milwaukee, WI. Phone: +14142711870.
 - Website: https://barrycre.com/
 - Email: clitza@barrycre.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

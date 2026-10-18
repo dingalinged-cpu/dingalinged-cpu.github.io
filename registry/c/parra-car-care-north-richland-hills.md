@@ -13,6 +13,7 @@ Parra Car Care is an auto repair shop in North Richland Hills, TX at 7700 Davis 
 - Website: https://parracarcare.com/north-richland-hills/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30
+- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

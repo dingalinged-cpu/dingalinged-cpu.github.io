@@ -1,0 +1,24 @@
+Drybar is a hair salon in Atlanta, GA at 60 11th Street Northeast #3B, Atlanta, GA. Phone: +14049210813. Website: https://www.drybarshops.com/service/locator/detail/?slug=midtown-atlanta.
+
+# Drybar
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 60 11th Street Northeast #3B, Atlanta, GA
+- City: Atlanta
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.783427, -84.3851212
+- Phone: +14049210813
+- Website: https://www.drybarshops.com/service/locator/detail/?slug=midtown-atlanta
+- Email: n/a
+- Opening hours (OSM syntax): Mo 08:00-15:00; Tu-Fr 07:00-19:00; Sa 08:00-19:00; Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/drybar-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/drybar-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13136829384 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

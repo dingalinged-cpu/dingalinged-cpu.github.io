@@ -13,6 +13,7 @@ CMIT Solutions of Richardson is an IT support company in Richardson, TX at 3400 
 - Website: https://cmitsolutions.com/richardson/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

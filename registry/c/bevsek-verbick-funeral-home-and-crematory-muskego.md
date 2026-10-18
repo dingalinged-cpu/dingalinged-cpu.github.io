@@ -13,6 +13,7 @@ Bevsek-Verbick Funeral Home and Crematory is a funeral home in Muskego, WI at W1
 - Website: https://www.bvfh.net/pages/funeral-home-cremations-muskego-wi
 - Email: bvfh@sbcglobal.net
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

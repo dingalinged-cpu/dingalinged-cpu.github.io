@@ -13,6 +13,7 @@ Eckert Hyundai is an used car dealer in Denton, TX at 4011 South Interstate 35E,
 - Website: https://www.eckerthyundai.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

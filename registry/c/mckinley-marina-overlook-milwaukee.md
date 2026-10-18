@@ -13,6 +13,7 @@ McKinley Marina Overlook is an event venue in Milwaukee, WI at 1600 North Lincol
 - Website: https://county.milwaukee.gov/Upto60People9026/McKinleyMarinaOverlook.htm
 - Email: n/a
 - Opening hours (OSM syntax): May 1-Sep 30 10:00-19:00
+- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Foster's Automotive Service is an auto repair shop in Houston, TX at 3909 Polk S
 - Website: https://fostersautomotiveservice.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

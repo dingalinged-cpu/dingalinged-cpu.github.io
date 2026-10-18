@@ -13,6 +13,7 @@ Sanctuary Men's Spa is a waxing salon in Chicago, IL at 4554 North Broadway, Chi
 - Website: https://adriani-divino.square.site/
 - Email: sanctuaryspachicago@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 10:00-22:00; Su 13:00-22:00
+- Registry Score: 65.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

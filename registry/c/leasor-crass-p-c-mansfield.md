@@ -13,6 +13,7 @@ Leasor Crass, P.C. is a lawyer in Mansfield, TX at 302 West Broad Street, Mansfi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

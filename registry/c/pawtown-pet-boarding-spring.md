@@ -13,6 +13,7 @@ Pawtown Pet Boarding is a dog groomer in Spring, TX at 2447 FM 2920, Spring, TX 
 - Website: https://www.pawtown.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa-Su 10:00-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

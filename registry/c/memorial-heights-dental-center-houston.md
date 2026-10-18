@@ -13,6 +13,7 @@ Memorial Heights Dental Center is a dentist in Houston, TX at 920 Studemont Stre
 - Website: https://www.ddsforyou.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:30-17:00, Fr 08:30-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

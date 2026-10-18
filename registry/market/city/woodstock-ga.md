@@ -1,0 +1,58 @@
+Keyword market for Woodstock, GA: 66 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Atlanta-Sandy Springs-Roswell, GA metro (US volume x population share).
+
+# Top keywords in Woodstock, GA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage woodstock ga | searches/mo 95,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $440,000 | Google Ads equiv $25,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/massage-woodstock-ga/
+2. car wash woodstock ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-woodstock-ga/
+3. dentist woodstock ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/dentist-woodstock-ga/
+4. gym woodstock ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 11 | https://dingalinged-cpu.github.io/registry/k/gym-woodstock-ga/
+5. oil change woodstock ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/oil-change-woodstock-ga/
+6. hair salon woodstock ga | searches/mo 28,000 (est) | CPC $0.55 | value $15,000 | Google Ads equiv $880/mo | our featured min $50/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/hair-salon-woodstock-ga/
+7. nail salon woodstock ga | searches/mo 19,000 (est) | CPC $0.61 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 12 | https://dingalinged-cpu.github.io/registry/k/nail-salon-woodstock-ga/
+8. mechanic woodstock ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 13 | https://dingalinged-cpu.github.io/registry/k/mechanic-woodstock-ga/
+9. tire shop woodstock ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/tire-shop-woodstock-ga/
+10. vet woodstock ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/vet-woodstock-ga/
+11. dog groomer woodstock ga | searches/mo 8,500 (est) | CPC $4.06 | value $35,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-woodstock-ga/
+12. haircut woodstock ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/haircut-woodstock-ga/
+13. auto repair woodstock ga | searches/mo 5,700 (est) | CPC $4.35 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 13 | https://dingalinged-cpu.github.io/registry/k/auto-repair-woodstock-ga/
+14. pilates woodstock ga | searches/mo 5,700 (est) | CPC $6.17 | value $35,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-woodstock-ga/
+15. chiropractor woodstock ga | searches/mo 4,700 (est) | CPC $4.76 | value $22,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-woodstock-ga/
+
+## By CPC
+1. roofing contractor woodstock ga | searches/mo 2,600 (est) | CPC $11.79 | value $31,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-woodstock-ga/
+2. roofer woodstock ga | searches/mo 940 (est) | CPC $10.70 | value $10,000 | Google Ads equiv $640/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofer-woodstock-ga/
+3. attorney woodstock ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/attorney-woodstock-ga/
+4. lawyer woodstock ga | searches/mo 940 (est) | CPC $9.87 | value $9,300 | Google Ads equiv $550/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/lawyer-woodstock-ga/
+5. landscaping woodstock ga | searches/mo 3,800 (est) | CPC $8.76 | value $33,000 | Google Ads equiv $2,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/landscaping-woodstock-ga/
+6. window replacement woodstock ga | searches/mo 4,200 (est) | CPC $8.76 | value $37,000 | Google Ads equiv $2,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/window-replacement-woodstock-ga/
+7. flooring companies woodstock ga | searches/mo 340 (est) | CPC $8.33 | value $2,800 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-woodstock-ga/
+8. storage units woodstock ga | searches/mo 4,200 (est) | CPC $8.33 | value $35,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/storage-units-woodstock-ga/
+9. bakery woodstock ga | searches/mo 4,200 (est) | CPC $7.17 | value $30,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/bakery-woodstock-ga/
+10. event venues woodstock ga | searches/mo 4,200 (est) | CPC $7.17 | value $30,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/event-venues-woodstock-ga/
+11. florist woodstock ga | searches/mo 4,200 (est) | CPC $7.17 | value $30,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/florist-woodstock-ga/
+12. martial arts woodstock ga | searches/mo 5,700 (est) | CPC $6.17 | value $35,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/martial-arts-woodstock-ga/
+13. pilates woodstock ga | searches/mo 5,700 (est) | CPC $6.17 | value $35,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-woodstock-ga/
+14. tax preparer woodstock ga | searches/mo 1,100 (est) | CPC $5.87 | value $6,500 | Google Ads equiv $360/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-woodstock-ga/
+15. daycare woodstock ga | searches/mo 4,200 (est) | CPC $4.81 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-woodstock-ga/
+
+## By value (searches x CPC)
+1. massage woodstock ga | searches/mo 95,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $440,000 | Google Ads equiv $25,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/massage-woodstock-ga/
+2. dentist woodstock ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/dentist-woodstock-ga/
+3. car wash woodstock ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-woodstock-ga/
+4. oil change woodstock ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/oil-change-woodstock-ga/
+5. gym woodstock ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 11 | https://dingalinged-cpu.github.io/registry/k/gym-woodstock-ga/
+6. mechanic woodstock ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 13 | https://dingalinged-cpu.github.io/registry/k/mechanic-woodstock-ga/
+7. tire shop woodstock ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/tire-shop-woodstock-ga/
+8. vet woodstock ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/vet-woodstock-ga/
+9. dog groomer woodstock ga | searches/mo 8,500 (est) | CPC $4.06 | value $35,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-woodstock-ga/
+10. pilates woodstock ga | searches/mo 5,700 (est) | CPC $6.17 | value $35,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pilates-woodstock-ga/
+11. landscaping woodstock ga | searches/mo 3,800 (est) | CPC $8.76 | value $33,000 | Google Ads equiv $2,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/landscaping-woodstock-ga/
+12. haircut woodstock ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/haircut-woodstock-ga/
+13. roofing contractor woodstock ga | searches/mo 2,600 (est) | CPC $11.79 | value $31,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-woodstock-ga/
+14. auto repair woodstock ga | searches/mo 5,700 (est) | CPC $4.35 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 13 | https://dingalinged-cpu.github.io/registry/k/auto-repair-woodstock-ga/
+15. chiropractor woodstock ga | searches/mo 4,700 (est) | CPC $4.76 | value $22,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-woodstock-ga/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

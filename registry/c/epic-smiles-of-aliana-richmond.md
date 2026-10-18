@@ -13,6 +13,7 @@ Epic Smiles of Aliana is a dentist in Richmond, TX at 18440 West Airport Bouleva
 - Website: https://www.myepicsmiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-13:00,14:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

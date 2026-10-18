@@ -13,6 +13,7 @@ Soft Touch Dental is a dentist in Downers Grove, IL at 6311 Woodward Avenue, Dow
 - Website: https://softtouchdentaldg.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 09:00-17:00; Tu, We 11:00-19:00; Fr 09:00-16:00; Sa 09:00-15:00; Su off
+- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

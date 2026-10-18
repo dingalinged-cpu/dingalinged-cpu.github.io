@@ -13,6 +13,7 @@ Glassworks Houston is a window repair service in Spring, TX at 26618 Prairie Str
 - Website: https://www.glassworkshoustontx.com/
 - Email: glassworks.tx@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

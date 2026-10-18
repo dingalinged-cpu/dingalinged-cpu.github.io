@@ -13,6 +13,7 @@ Mequon Auto Tech is an auto repair shop in Mequon, WI. Website: https://mequon-a
 - Website: https://mequon-auto-tech.edan.io/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

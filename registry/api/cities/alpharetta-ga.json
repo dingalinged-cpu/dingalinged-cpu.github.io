@@ -1,0 +1,5071 @@
+{
+ "place": "Alpharetta, GA",
+ "slug": "alpharetta-ga",
+ "count": 162,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-alpharetta-ga.json"
+  },
+  {
+   "keyword": "attorney alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-alpharetta-ga.json"
+  },
+  {
+   "keyword": "auto repair alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-alpharetta-ga.json"
+  },
+  {
+   "keyword": "bakery alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-alpharetta-ga.json"
+  },
+  {
+   "keyword": "barber shop alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-alpharetta-ga.json"
+  },
+  {
+   "keyword": "car wash alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-alpharetta-ga.json"
+  },
+  {
+   "keyword": "chiropractor alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-alpharetta-ga.json"
+  },
+  {
+   "keyword": "daycare alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-alpharetta-ga.json"
+  },
+  {
+   "keyword": "dentist alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-alpharetta-ga.json"
+  },
+  {
+   "keyword": "dog boarding alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-alpharetta-ga.json"
+  },
+  {
+   "keyword": "dog groomer alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-alpharetta-ga.json"
+  },
+  {
+   "keyword": "dry cleaners alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-alpharetta-ga.json"
+  },
+  {
+   "keyword": "electrician alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/electrician-alpharetta-ga.json"
+  },
+  {
+   "keyword": "event venues alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-alpharetta-ga.json"
+  },
+  {
+   "keyword": "facial alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-alpharetta-ga.json"
+  },
+  {
+   "keyword": "financial advisor alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-alpharetta-ga.json"
+  },
+  {
+   "keyword": "flooring companies alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-alpharetta-ga.json"
+  },
+  {
+   "keyword": "florist alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-alpharetta-ga.json"
+  },
+  {
+   "keyword": "furniture store alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-alpharetta-ga.json"
+  },
+  {
+   "keyword": "gift shop alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-alpharetta-ga.json"
+  },
+  {
+   "keyword": "gym alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-alpharetta-ga.json"
+  },
+  {
+   "keyword": "hair salon alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-alpharetta-ga.json"
+  },
+  {
+   "keyword": "haircut alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-alpharetta-ga.json"
+  },
+  {
+   "keyword": "insurance agency alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-alpharetta-ga.json"
+  },
+  {
+   "keyword": "insurance agent alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-alpharetta-ga.json"
+  },
+  {
+   "keyword": "insurance agents alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-alpharetta-ga.json"
+  },
+  {
+   "keyword": "it support alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-alpharetta-ga.json"
+  },
+  {
+   "keyword": "jewelry store alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-alpharetta-ga.json"
+  },
+  {
+   "keyword": "lawyer alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-alpharetta-ga.json"
+  },
+  {
+   "keyword": "liquor store alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-alpharetta-ga.json"
+  },
+  {
+   "keyword": "marketing agency alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/marketing-agency-alpharetta-ga.json"
+  },
+  {
+   "keyword": "martial arts alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-alpharetta-ga.json"
+  },
+  {
+   "keyword": "massage alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-alpharetta-ga.json"
+  },
+  {
+   "keyword": "mattress store alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-alpharetta-ga.json"
+  },
+  {
+   "keyword": "mechanic alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-alpharetta-ga.json"
+  },
+  {
+   "keyword": "music lessons alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/music-lessons-alpharetta-ga.json"
+  },
+  {
+   "keyword": "nail salon alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-alpharetta-ga.json"
+  },
+  {
+   "keyword": "ob gyn alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/ob-gyn-alpharetta-ga.json"
+  },
+  {
+   "keyword": "orthopedic surgeon alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/orthopedic-surgeon-alpharetta-ga.json"
+  },
+  {
+   "keyword": "pet store alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-alpharetta-ga.json"
+  },
+  {
+   "keyword": "physical therapy alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-alpharetta-ga.json"
+  },
+  {
+   "keyword": "pilates alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pilates-alpharetta-ga.json"
+  },
+  {
+   "keyword": "plastic surgeon alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plastic-surgeon-alpharetta-ga.json"
+  },
+  {
+   "keyword": "plumber alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-alpharetta-ga.json"
+  },
+  {
+   "keyword": "plumbers alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-alpharetta-ga.json"
+  },
+  {
+   "keyword": "plumbing services alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-alpharetta-ga.json"
+  },
+  {
+   "keyword": "preschool alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-alpharetta-ga.json"
+  },
+  {
+   "keyword": "printing services alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-alpharetta-ga.json"
+  },
+  {
+   "keyword": "real estate agent alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-alpharetta-ga.json"
+  },
+  {
+   "keyword": "realtor alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-alpharetta-ga.json"
+  },
+  {
+   "keyword": "shoe repair alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/shoe-repair-alpharetta-ga.json"
+  },
+  {
+   "keyword": "spa alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/spa-alpharetta-ga.json"
+  },
+  {
+   "keyword": "storage units alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-alpharetta-ga.json"
+  },
+  {
+   "keyword": "tailor alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-alpharetta-ga.json"
+  },
+  {
+   "keyword": "tanning salon alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-alpharetta-ga.json"
+  },
+  {
+   "keyword": "tattoo shop alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-alpharetta-ga.json"
+  },
+  {
+   "keyword": "therapist alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-alpharetta-ga.json"
+  },
+  {
+   "keyword": "tire shop alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-alpharetta-ga.json"
+  },
+  {
+   "keyword": "used cars for sale alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-alpharetta-ga.json"
+  },
+  {
+   "keyword": "vet alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-alpharetta-ga.json"
+  },
+  {
+   "keyword": "waxing alpharetta ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-alpharetta-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "all-pets-emergency-and-referral-center-alpharetta",
+   "name": "All Pets Emergency & Referral Center",
+   "summary": "All Pets Emergency & Referral Center is a veterinarian in Alpharetta, GA at 6460 Atlanta Highway, Alpharetta, GA 30004. Phone: +16783662500. Website: https://aperc.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-pets-emergency-and-referral-center-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-pets-emergency-and-referral-center-alpharetta.json",
+   "address": {
+    "streetAddress": "6460 Atlanta Highway",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30004",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30004",
+   "geo": {
+    "lat": 34.1281712,
+    "lon": -84.2565455
+   },
+   "phone": "+16783662500",
+   "website": "https://aperc.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/741683783",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-alpharetta",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16789961700. Website: https://agents.allstate.com/dorcelin-bazil-alpharetta-ga.html.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-alpharetta.json",
+   "address": {
+    "streetAddress": "11875 Jones Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0700092,
+    "lon": -84.2044958
+   },
+   "phone": "+16789961700",
+   "website": "https://agents.allstate.com/dorcelin-bazil-alpharetta-ga.html",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382799594",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alpha-lan-med-spa-alpharetta",
+   "name": "Alpha Lan Med Spa",
+   "summary": "Alpha Lan Med Spa is a skin care studio in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785875575. Website: https://alphalanmedspaga.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpha-lan-med-spa-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpha-lan-med-spa-alpharetta.json",
+   "address": {
+    "streetAddress": "11895 Jones Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0702459,
+    "lon": -84.2035938
+   },
+   "phone": "+16785875575",
+   "website": "https://alphalanmedspaga.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 10:30-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382799601",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alpha-omega-obgyn-alpharetta",
+   "name": "Alpha Omega OBGYN",
+   "summary": "Alpha Omega OBGYN is an OB-GYN practice in Alpharetta, GA at 3400 Old Milton Parkway #Bldg. C Suite 475, Alpharetta, GA 30005. Phone: +14705547870. Website: https://alphaomegaobgyn.com/.",
+   "categories": [
+    "ob gyn"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpha-omega-obgyn-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpha-omega-obgyn-alpharetta.json",
+   "address": {
+    "streetAddress": "3400 Old Milton Parkway #Bldg. C Suite 475",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0696618,
+    "lon": -84.2627916
+   },
+   "phone": "+14705547870",
+   "website": "https://alphaomegaobgyn.com/",
+   "opening_hours": "Mo-Fr 08:00-16:00; Sa, Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8417900659",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "centennial-motors-alpharetta",
+   "name": "Centennial Motors",
+   "summary": "Centennial Motors is an auto repair shop in Alpharetta, GA at 2965 B Holcomb Bridge Road #Unit B1, Alpharetta, GA 30022. Phone: +17705948070. Website: https://www.centennialmotorsatl.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/centennial-motors-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/centennial-motors-alpharetta.json",
+   "address": {
+    "streetAddress": "2965 B Holcomb Bridge Road #Unit B1",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9883657,
+    "lon": -84.2750118
+   },
+   "phone": "+17705948070",
+   "website": "https://www.centennialmotorsatl.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9788743455",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crabapple-martial-arts-academy-alpharetta",
+   "name": "Crabapple Martial Arts Academy",
+   "summary": "Crabapple Martial Arts Academy is a martial arts school in Alpharetta, GA at 12315 Crabapple Road, Alpharetta, GA 30004. Phone: +17706450930. Website: https://www.crabapplemartialarts.com/.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crabapple-martial-arts-academy-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crabapple-martial-arts-academy-alpharetta.json",
+   "address": {
+    "streetAddress": "12315 Crabapple Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30004",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30004",
+   "geo": {
+    "lat": 34.0823383,
+    "lon": -84.3553034
+   },
+   "phone": "+17706450930",
+   "website": "https://www.crabapplemartialarts.com/",
+   "opening_hours": "Mo-Th 14:00-20:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11371474637",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "digital-scientists-alpharetta",
+   "name": "Digital Scientists",
+   "summary": "Digital Scientists is an IT support company in Alpharetta, GA at 21 South Main Street, Alpharetta, GA 30009. Phone: +14046543855. Website: https://digitalscientists.com/.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/digital-scientists-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/digital-scientists-alpharetta.json",
+   "address": {
+    "streetAddress": "21 South Main Street",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.0749884,
+    "lon": -84.294842
+   },
+   "phone": "+14046543855",
+   "website": "https://digitalscientists.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9225506736",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-alpharetta",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Alpharetta, GA at 11720 Haynes Bridge Road, Alpharetta, GA 30009. Phone: +17707527522. Website: https://www.expressoil.com/stores/alpharetta/ga/1339/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-alpharetta.json",
+   "address": {
+    "streetAddress": "11720 Haynes Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.0674625,
+    "lon": -84.2940283
+   },
+   "phone": "+17707527522",
+   "website": "https://www.expressoil.com/stores/alpharetta/ga/1339/",
+   "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5918673819",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-alpharetta-n6522268867",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Alpharetta, GA at 12470 Crabapple Road, Alpharetta, GA 30004. Phone: +17707529111. Website: https://www.expressoil.com/stores/alpharetta/ga/1337/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-alpharetta-n6522268867/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-alpharetta-n6522268867.json",
+   "address": {
+    "streetAddress": "12470 Crabapple Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30004",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30004",
+   "geo": {
+    "lat": 34.0858417,
+    "lon": -84.3551912
+   },
+   "phone": "+17707529111",
+   "website": "https://www.expressoil.com/stores/alpharetta/ga/1337/",
+   "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6522268867",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-alpharetta-w667057649",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Alpharetta, GA at 830 North Main Street, Alpharetta, GA 30009. Phone: +16786916351. Website: https://www.expressoil.com/stores/alpharetta/ga/1320/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-alpharetta-w667057649/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-alpharetta-w667057649.json",
+   "address": {
+    "streetAddress": "830 North Main Street",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.093021,
+    "lon": -84.2815355
+   },
+   "phone": "+16786916351",
+   "website": "https://www.expressoil.com/stores/alpharetta/ga/1320/",
+   "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/667057649",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-alpharetta",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Alpharetta, GA at 2860 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17709984700. Website: https://www.extraspace.com/storage/facilities/us/georgia/alpharetta/500888/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-alpharetta.json",
+   "address": {
+    "streetAddress": "2860 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9897903,
+    "lon": -84.2774333
+   },
+   "phone": "+17709984700",
+   "website": "https://www.extraspace.com/storage/facilities/us/georgia/alpharetta/500888/",
+   "opening_hours": "Mo-Fr 09:30-18:00, Sa 09:00-17:30 open \"Office and Gate\"; Mo-Su 06:00-22:00 open \"Storage Gate\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/11480866",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "five-daughters-bakery-alpharetta",
+   "name": "Five Daughters Bakery",
+   "summary": "Five Daughters Bakery is a bakery in Alpharetta, GA at 200 Avalon Boulevard #200, Alpharetta, GA 30009. Phone: +17706522878. Website: https://fivedaughtersbakery.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-daughters-bakery-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-daughters-bakery-alpharetta.json",
+   "address": {
+    "streetAddress": "200 Avalon Boulevard #200",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.0707862,
+    "lon": -84.2771684
+   },
+   "phone": "+17706522878",
+   "website": "https://fivedaughtersbakery.com/",
+   "opening_hours": "Mo-Sa 08:00-21:00, su 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5369166837",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "g-kennedy-mcleod-jr-attorney-at-law-alpharetta",
+   "name": "G. Kennedy McLeod, Jr. - Attorney At Law",
+   "summary": "G. Kennedy McLeod, Jr. - Attorney At Law is a lawyer in Alpharetta, GA at 11175 Cicero Dr, #100, Alpharetta, GA 30022. Phone: +16786466787. Website: https://mcleodgalaw.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-kennedy-mcleod-jr-attorney-at-law-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-kennedy-mcleod-jr-attorney-at-law-alpharetta.json",
+   "address": {
+    "streetAddress": "11175 Cicero Dr, #100",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0513911,
+    "lon": -84.2783447
+   },
+   "phone": "+16786466787",
+   "website": "https://mcleodgalaw.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11634507911",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "georgia-plumbers-24-7-alpharetta",
+   "name": "Georgia Plumbers 24/7",
+   "summary": "Georgia Plumbers 24/7 is a plumber in Alpharetta, GA at 12850 Highway 9 North #600-126, Alpharetta, GA 30004. Phone: +16786280474. Website: https://georgiaplumbers247.com/.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/georgia-plumbers-24-7-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/georgia-plumbers-24-7-alpharetta.json",
+   "address": {
+    "streetAddress": "12850 Highway 9 North #600-126",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30004",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30004",
+   "geo": {
+    "lat": 34.0963517,
+    "lon": -84.2782041
+   },
+   "phone": "+16786280474",
+   "website": "https://georgiaplumbers247.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7016779775",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "joyful-praise-academy-alpharetta",
+   "name": "Joyful Praise Academy",
+   "summary": "Joyful Praise Academy is a daycare in Alpharetta, GA at 2965 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705948300. Website: https://jpcacademy.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joyful-praise-academy-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joyful-praise-academy-alpharetta.json",
+   "address": {
+    "streetAddress": "2965 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9877081,
+    "lon": -84.2758973
+   },
+   "phone": "+17705948300",
+   "website": "https://jpcacademy.com/",
+   "opening_hours": "Mo-Fr 07:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/352450813",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ktw-hardwood-floor-refinishing-and-installation-alpharetta",
+   "name": "KTW Hardwood Floor Refinishing & Installation",
+   "summary": "KTW Hardwood Floor Refinishing & Installation is a flooring company in Alpharetta, GA at 230 Holcombe Hill Lane, Alpharetta, GA 30004. Phone: +14704471497. Website: https://ktwhardwoodflooring.com/.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ktw-hardwood-floor-refinishing-and-installation-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ktw-hardwood-floor-refinishing-and-installation-alpharetta.json",
+   "address": {
+    "streetAddress": "230 Holcombe Hill Lane",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30004",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30004",
+   "geo": {
+    "lat": 34.1161876,
+    "lon": -84.3285345
+   },
+   "phone": "+14704471497",
+   "website": "https://ktwhardwoodflooring.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9710605184",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "life-time-alpharetta",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Alpharetta, GA at 855 North Point Parkway, Alpharetta, GA 30005. Phone: +17706649696. Website: https://www.lifetime.life/life-time-locations/ga-alpharetta.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-alpharetta.json",
+   "address": {
+    "streetAddress": "855 North Point Parkway",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0798701,
+    "lon": -84.2623852
+   },
+   "phone": "+17706649696",
+   "website": "https://www.lifetime.life/life-time-locations/ga-alpharetta.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/387410712",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "meer-electric-alpharetta",
+   "name": "Meer Electric",
+   "summary": "Meer Electric is an electrician in Alpharetta, GA at 405 Tidwell Drive, Alpharetta, GA 30004. Phone: +17709938028. Website: https://meerelectric.com/.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meer-electric-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meer-electric-alpharetta.json",
+   "address": {
+    "streetAddress": "405 Tidwell Drive",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30004",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30004",
+   "geo": {
+    "lat": 34.1064815,
+    "lon": -84.2429447
+   },
+   "phone": "+17709938028",
+   "website": "https://meerelectric.com/",
+   "opening_hours": "Mo-Fr 07:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9748956823",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mega-nails-and-spa-alpharetta",
+   "name": "Mega Nails & Spa",
+   "summary": "Mega Nails & Spa is a nail salon in Alpharetta, GA at 8560 Holcomb Bridge Road #125, Alpharetta, GA 30022. Phone: +14705458888. Website: https://www.meganailsroswell.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mega-nails-and-spa-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mega-nails-and-spa-alpharetta.json",
+   "address": {
+    "streetAddress": "8560 Holcomb Bridge Road #125",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9872816,
+    "lon": -84.2739988
+   },
+   "phone": "+14705458888",
+   "website": "https://www.meganailsroswell.com/",
+   "opening_hours": "Mo-Sa 09:30-19:30; Su 11:00-17:00; PH unknown",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7947152328",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midway-animal-hospital-alpharetta",
+   "name": "Midway Animal Hospital",
+   "summary": "Midway Animal Hospital is a veterinarian in Alpharetta, GA at 6785 Atlanta Highway, Alpharetta, GA 30004. Phone: +17704752003. Website: https://midwayvets.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-animal-hospital-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-animal-hospital-alpharetta.json",
+   "address": {
+    "streetAddress": "6785 Atlanta Highway",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30004",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30004",
+   "geo": {
+    "lat": 34.1268125,
+    "lon": -84.2585722
+   },
+   "phone": "+17704752003",
+   "website": "https://midwayvets.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/741683786",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mill-creek-animal-hospital-alpharetta",
+   "name": "Mill Creek Animal Hospital",
+   "summary": "Mill Creek Animal Hospital is a veterinarian in Alpharetta, GA at 10100 Jones Bridge Road, Alpharetta, GA 30022. Phone: +17707400330. Website: https://www.millcreekvet.net/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mill-creek-animal-hospital-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mill-creek-animal-hospital-alpharetta.json",
+   "address": {
+    "streetAddress": "10100 Jones Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0281433,
+    "lon": -84.2508959
+   },
+   "phone": "+17707400330",
+   "website": "https://www.millcreekvet.net/",
+   "opening_hours": "Mo 07:30-19:00; Tu-Fr 07:30-18:00; Sa 08:30-12:30; PH unknown",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/846843675",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "old-school-barbershop-alpharetta",
+   "name": "Old School Barbershop",
+   "summary": "Old School Barbershop is a hair salon in Alpharetta, GA at 2850 Holcomb Bridge Road #110, Alpharetta, GA 30022. Phone: +17709989007. Website: https://www.oldschool-barbershop.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/old-school-barbershop-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/old-school-barbershop-alpharetta.json",
+   "address": {
+    "streetAddress": "2850 Holcomb Bridge Road #110",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9910782,
+    "lon": -84.2782018
+   },
+   "phone": "+17709989007",
+   "website": "https://www.oldschool-barbershop.com/",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7793061604",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-johns-creek",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Johns Creek, GA at 6370 North Point Parkway, Johns Creek, GA 30022. Phone: +17703438511. Website: https://www.petsmart.com/stores/us/ga/alpharetta-store0289.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-johns-creek/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-johns-creek.json",
+   "address": {
+    "streetAddress": "6370 North Point Parkway",
+    "addressLocality": "Johns Creek",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Johns Creek",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0443332,
+    "lon": -84.2908664
+   },
+   "phone": "+17703438511",
+   "website": "https://www.petsmart.com/stores/us/ga/alpharetta-store0289.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/274500607",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rali-auto-alpharetta",
+   "name": "Rali Auto",
+   "summary": "Rali Auto is an auto repair shop in Alpharetta, GA at 4435 State Bridge Way, Alpharetta, GA 30005. Phone: +16786157473. Website: https://raliauto.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rali-auto-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rali-auto-alpharetta.json",
+   "address": {
+    "streetAddress": "4435 State Bridge Way",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0577889,
+    "lon": -84.2313946
+   },
+   "phone": "+16786157473",
+   "website": "https://raliauto.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/926416312",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "royal-liquor-alpharetta",
+   "name": "Royal Liquor",
+   "summary": "Royal Liquor is a liquor store in Alpharetta, GA at 4305 State Bridge Road, Alpharetta, GA 30022. Phone: +17704423800. Website: https://www.royalliquorstore.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royal-liquor-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royal-liquor-alpharetta.json",
+   "address": {
+    "streetAddress": "4305 State Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0576972,
+    "lon": -84.2356016
+   },
+   "phone": "+17704423800",
+   "website": "https://www.royalliquorstore.com/",
+   "opening_hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 12:30-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10007509765",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spaulding-injury-law-alpharetta",
+   "name": "Spaulding Injury Law",
+   "summary": "Spaulding Injury Law is a lawyer in Alpharetta, GA at 44 Milton Avenue ##132, Alpharetta, GA 30009. Phone: +14703751131. Website: https://www.spauldinginjurylaw.com/alpharetta/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spaulding-injury-law-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spaulding-injury-law-alpharetta.json",
+   "address": {
+    "streetAddress": "44 Milton Avenue ##132",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.075499,
+    "lon": -84.2959885
+   },
+   "phone": "+14703751131",
+   "website": "https://www.spauldinginjurylaw.com/alpharetta/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7856751277",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "strong-performance-chiropractic-alpharetta",
+   "name": "Strong Performance Chiropractic",
+   "summary": "Strong Performance Chiropractic is a chiropractor in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17703600044. Website: https://www.spcatl.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strong-performance-chiropractic-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strong-performance-chiropractic-alpharetta.json",
+   "address": {
+    "streetAddress": "11875 Jones Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0701512,
+    "lon": -84.2042797
+   },
+   "phone": "+17703600044",
+   "website": "https://www.spcatl.com/",
+   "opening_hours": "Mo, We 09:00-17:00; Fr 09:00-13:00; Tu, Sa \"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382799598",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "structural-based-therapy-alpharetta",
+   "name": "Structural Based Therapy",
+   "summary": "Structural Based Therapy is a chiropractor in Alpharetta, GA at 3719 Old Alabama Road #400, Alpharetta, GA 30022. Phone: +16784694133. Website: https://structuralbasedtherapy.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/structural-based-therapy-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/structural-based-therapy-alpharetta.json",
+   "address": {
+    "streetAddress": "3719 Old Alabama Road #400",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0232816,
+    "lon": -84.2509845
+   },
+   "phone": "+16784694133",
+   "website": "https://structuralbasedtherapy.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off; PH unknown",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/361362788",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "superior-autohaus-inc-alpharetta",
+   "name": "Superior Autohaus, Inc.",
+   "summary": "Superior Autohaus, Inc. is an auto repair shop in Alpharetta, GA at 2965 B Holcomb Bridge Road #Suite B3, Alpharetta, GA 30022. Phone: +17709937004. Website: https://superiorautohausatl.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/superior-autohaus-inc-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/superior-autohaus-inc-alpharetta.json",
+   "address": {
+    "streetAddress": "2965 B Holcomb Bridge Road #Suite B3",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9881583,
+    "lon": -84.2752859
+   },
+   "phone": "+17709937004",
+   "website": "https://superiorautohausatl.com/",
+   "opening_hours": "Mo-Fr 08:30-17:00; Sa 09:00-14:00; \"By appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9788743453",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-fuzzy-dawg-pet-salon-alpharetta",
+   "name": "The Fuzzy Dawg Pet Salon",
+   "summary": "The Fuzzy Dawg Pet Salon is a dog groomer in Alpharetta, GA at 8465 Holcomb Bridge Road #160, Alpharetta, GA 30022. Phone: +17709933294. Website: https://www.thefuzzydawg.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-fuzzy-dawg-pet-salon-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-fuzzy-dawg-pet-salon-alpharetta.json",
+   "address": {
+    "streetAddress": "8465 Holcomb Bridge Road #160",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9876248,
+    "lon": -84.2697788
+   },
+   "phone": "+17709933294",
+   "website": "https://www.thefuzzydawg.com/",
+   "opening_hours": "Mo-Fr \"by appointment\"; Sa-Su closed; PH unknown",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7947152361",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-millard-law-firm-alpharetta",
+   "name": "The Millard Law Firm",
+   "summary": "The Millard Law Firm is a lawyer in Alpharetta, GA at 318 Maxwell Road #Suite 600, Alpharetta, GA 30009. Phone: +16783199500. Website: https://themillardlawfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-millard-law-firm-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-millard-law-firm-alpharetta.json",
+   "address": {
+    "streetAddress": "318 Maxwell Road #Suite 600",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.0671189,
+    "lon": -84.3005863
+   },
+   "phone": "+16783199500",
+   "website": "https://themillardlawfirm.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10880232261",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-swan-center-for-plastic-surgery-alpharetta",
+   "name": "The Swan Center for Plastic Surgery",
+   "summary": "The Swan Center for Plastic Surgery is a plastic surgeon in Alpharetta, GA at 4165 Old Milton Parkway #Suite 200 East, Alpharetta, GA 30005. Phone: +17706670904. Website: https://www.swancenteratlanta.com/.",
+   "categories": [
+    "plastic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-swan-center-for-plastic-surgery-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-swan-center-for-plastic-surgery-alpharetta.json",
+   "address": {
+    "streetAddress": "4165 Old Milton Parkway #Suite 200 East",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0590555,
+    "lon": -84.2385493
+   },
+   "phone": "+17706670904",
+   "website": "https://www.swancenteratlanta.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10841382145",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-william-b-hare-company-alpharetta",
+   "name": "The William B. Hare Company",
+   "summary": "The William B. Hare Company is a real estate agency in Alpharetta, GA at 8525 Driver Circle, Alpharetta, GA 30022. Phone: +16784440101. Website: https://thewilliambharecompany.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-william-b-hare-company-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-william-b-hare-company-alpharetta.json",
+   "address": {
+    "streetAddress": "8525 Driver Circle",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9896438,
+    "lon": -84.2625169
+   },
+   "phone": "+16784440101",
+   "website": "https://thewilliambharecompany.com/",
+   "opening_hours": "Mo-Fr 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9914458626",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-wine-store-alpharetta",
+   "name": "The Wine Store",
+   "summary": "The Wine Store is a liquor store in Alpharetta, GA at 8455 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17706411900. Website: https://www.thewinestoreinc.com/.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wine-store-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wine-store-alpharetta.json",
+   "address": {
+    "streetAddress": "8455 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.985944,
+    "lon": -84.2693936
+   },
+   "phone": "+17706411900",
+   "website": "https://www.thewinestoreinc.com/",
+   "opening_hours": "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 12:30-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/361505143",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "total-joint-specialists-alpharetta-alpharetta",
+   "name": "Total Joint Specialists - Alpharetta",
+   "summary": "Total Joint Specialists - Alpharetta is an orthopedic surgeon in Alpharetta, GA at 3400 Old Milton Pkwy, Building C, Suite 290, Alpharetta, GA 30005. Phone: +17702926500. Website: https://www.totaljointspecialists.com/locations/alpharetta.",
+   "categories": [
+    "orthopedic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-joint-specialists-alpharetta-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-joint-specialists-alpharetta-alpharetta.json",
+   "address": {
+    "streetAddress": "3400 Old Milton Pkwy, Building C, Suite 290",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0695396,
+    "lon": -84.2627156
+   },
+   "phone": "+17702926500",
+   "website": "https://www.totaljointspecialists.com/locations/alpharetta",
+   "opening_hours": "Mo-Fr 07:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12334304436",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "total-joint-specialists-crabapple-alpharetta",
+   "name": "Total Joint Specialists - Crabapple",
+   "summary": "Total Joint Specialists - Crabapple is an orthopedic surgeon in Alpharetta, GA at 875 Mayfield Rd, Building B, Suite 200, Alpharetta, GA 30009. Phone: +17707219050. Website: https://www.totaljointspecialists.com/locations/crabapple.",
+   "categories": [
+    "orthopedic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-joint-specialists-crabapple-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-joint-specialists-crabapple-alpharetta.json",
+   "address": {
+    "streetAddress": "875 Mayfield Rd, Building B, Suite 200",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.0905722,
+    "lon": -84.33578
+   },
+   "phone": "+17707219050",
+   "website": "https://www.totaljointspecialists.com/locations/crabapple",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12367122843",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "total-wine-alpharetta",
+   "name": "Total Wine",
+   "summary": "Total Wine is a liquor store in Alpharetta, GA at 6290 North Point Parkway, Alpharetta, GA 30022. Phone: +17707720694. Website: https://www.totalwine.com/store-info/801.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-wine-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-wine-alpharetta.json",
+   "address": {
+    "streetAddress": "6290 North Point Parkway",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0448939,
+    "lon": -84.2893328
+   },
+   "phone": "+17707720694",
+   "website": "https://www.totalwine.com/store-info/801",
+   "opening_hours": "Mo-Th 09:00-22:00; Fr,Sa 09:00-23:00; Su 12:30-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10027912419",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "west-elm-alpharetta",
+   "name": "west elm",
+   "summary": "west elm is a furniture store in Alpharetta, GA at 6160 Avalon Boulevard, Alpharetta, GA 30004. Phone: +16782485547. Website: https://www.westelm.com/stores/us-ga-alpharetta-avalon/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-elm-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-elm-alpharetta.json",
+   "address": {
+    "streetAddress": "6160 Avalon Boulevard",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30004",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30004",
+   "geo": {
+    "lat": 34.0706824,
+    "lon": -84.2752889
+   },
+   "phone": "+16782485547",
+   "website": "https://www.westelm.com/stores/us-ga-alpharetta-avalon/",
+   "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-21:00; Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5369193225",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "windward-animal-hospital-alpharetta",
+   "name": "Windward Animal Hospital",
+   "summary": "Windward Animal Hospital is a veterinarian in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17705697298. Website: https://windwardanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/windward-animal-hospital-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/windward-animal-hospital-alpharetta.json",
+   "address": {
+    "streetAddress": "11895 Jones Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.070297,
+    "lon": -84.2035611
+   },
+   "phone": "+17705697298",
+   "website": "https://windwardanimalhospital.com/",
+   "opening_hours": "Mo-Tu 08:00-18:00; We 08:00-17:00; Th-Fr 08:00-18:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4331011289",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woltin-family-chiropractic-alpharetta",
+   "name": "Woltin Family Chiropractic",
+   "summary": "Woltin Family Chiropractic is a chiropractor in Alpharetta, GA at 131 Roswell Street #B101, Alpharetta, GA 30009. Phone: +17705218999. Website: https://www.woltin.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woltin-family-chiropractic-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woltin-family-chiropractic-alpharetta.json",
+   "address": {
+    "streetAddress": "131 Roswell Street #B101",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.0721877,
+    "lon": -84.2993726
+   },
+   "phone": "+17705218999",
+   "website": "https://www.woltin.com/",
+   "opening_hours": "Mo 13:00-19:00; Tu,Th,Su off; We 10:00-18:00; Fr 10:00-15:00; Sa 10:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6075801565",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kendra-scott-alpharetta",
+   "name": "Kendra Scott",
+   "summary": "Kendra Scott is a jewelry store in Alpharetta, GA at 3150 Avalon Boulevard, Alpharetta, GA. Phone: +16783923886. Website: https://www.kendrascott.com/stores/directory/store?StoreID=265017.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kendra-scott-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kendra-scott-alpharetta.json",
+   "address": {
+    "streetAddress": "3150 Avalon Boulevard",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0709852,
+    "lon": -84.2771312
+   },
+   "phone": "+16783923886",
+   "website": "https://www.kendrascott.com/stores/directory/store?StoreID=265017",
+   "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12577129102",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "van-michael-salon-alpharetta",
+   "name": "Van Michael Salon",
+   "summary": "Van Michael Salon is a hair salon in Alpharetta, GA at 3155 Avalon Boulevard, Alpharetta, GA. Phone: +16789873678. Website: https://www.vanmichael.com/locations/avalon/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/van-michael-salon-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/van-michael-salon-alpharetta.json",
+   "address": {
+    "streetAddress": "3155 Avalon Boulevard",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0709845,
+    "lon": -84.27706
+   },
+   "phone": "+16789873678",
+   "website": "https://www.vanmichael.com/locations/avalon/",
+   "opening_hours": "Mo 09:00-19:00; Tu-Sa 08:00-21:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12577129101",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "webb-bridge-animal-hospital-alpharetta",
+   "name": "Webb Bridge Animal Hospital",
+   "summary": "Webb Bridge Animal Hospital is a veterinarian in Alpharetta, GA at 3593 Webb Bridge Road, Alpharetta, GA. Phone: +17707510524. Website: https://webbbridgeanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/webb-bridge-animal-hospital-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/webb-bridge-animal-hospital-alpharetta.json",
+   "address": {
+    "streetAddress": "3593 Webb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0764981,
+    "lon": -84.2463271
+   },
+   "phone": "+17707510524",
+   "website": "https://webbbridgeanimalhospital.com/",
+   "opening_hours": "Mo 08:00-18:00; Tu 08:30-17:00; We 08:00-18:00; Fr 08:30-17:00; Sa 08:30-16:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12102929210",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ace-dental-care-llc-alpharetta",
+   "name": "Ace Dental Care, LLC",
+   "summary": "Ace Dental Care, LLC is a dentist in Alpharetta, GA at 3450 Old Milton Parkway #110, Alpharetta, GA 30005. Phone: +16785621555. Website: https://www.acefamilydental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ace-dental-care-llc-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ace-dental-care-llc-alpharetta.json",
+   "address": {
+    "streetAddress": "3450 Old Milton Parkway #110",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0680438,
+    "lon": -84.2604208
+   },
+   "phone": "+16785621555",
+   "website": "https://www.acefamilydental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/412859129",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-fitness-alpharetta",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Alpharetta, GA at 8465 Holcomb Bridge Road #1000, Alpharetta, GA 30022. Phone: +16785856609. Website: https://www.anytimefitness.com/gyms/4047/alpharetta-ga-30022/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-alpharetta.json",
+   "address": {
+    "streetAddress": "8465 Holcomb Bridge Road #1000",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9878113,
+    "lon": -84.2702128
+   },
+   "phone": "+16785856609",
+   "website": "https://www.anytimefitness.com/gyms/4047/alpharetta-ga-30022/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7947152357",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "arte-doro-diamonds-alpharetta",
+   "name": "Arte d'Oro Diamonds",
+   "summary": "Arte d'Oro Diamonds is a jewelry store in Alpharetta, GA at 8400 Holcomb Bridge Road #420, Alpharetta, GA 30022. Phone: +14047495222. Website: https://www.artedorodiamondsinc.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arte-doro-diamonds-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arte-doro-diamonds-alpharetta.json",
+   "address": {
+    "streetAddress": "8400 Holcomb Bridge Road #420",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.985582,
+    "lon": -84.2708428
+   },
+   "phone": "+14047495222",
+   "website": "https://www.artedorodiamondsinc.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7947152375",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ashley-homestore-alpharetta",
+   "name": "Ashley HomeStore",
+   "summary": "Ashley HomeStore is a furniture store in Alpharetta, GA at 5980 North Point Parkway, Alpharetta, GA 30022. Phone: +14702861602. Website: https://stores.ashleyfurniture.com/store/us/georgia/alpharetta/7710000109/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ashley-homestore-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ashley-homestore-alpharetta.json",
+   "address": {
+    "streetAddress": "5980 North Point Parkway",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0481731,
+    "lon": -84.284668
+   },
+   "phone": "+14702861602",
+   "website": "https://stores.ashleyfurniture.com/store/us/georgia/alpharetta/7710000109/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/833549988",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "canada-tire-company-alpharetta",
+   "name": "Canada Tire Company",
+   "summary": "Canada Tire Company is a tire shop in Alpharetta, GA at 2965 B Holcomb Bridge Road #Suite B2, Alpharetta, GA 30022. Phone: +17705527511. Website: https://www.canadatireco.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canada-tire-company-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canada-tire-company-alpharetta.json",
+   "address": {
+    "streetAddress": "2965 B Holcomb Bridge Road #Suite B2",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9882544,
+    "lon": -84.275149
+   },
+   "phone": "+17705527511",
+   "website": "https://www.canadatireco.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9788743454",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "holcomb-auto-alpharetta",
+   "name": "Holcomb Auto",
+   "summary": "Holcomb Auto is an auto repair shop in Alpharetta, GA at 2965 B Holcomb Bridge Road #Suite B6, Alpharetta, GA 30022. Phone: +17706407087. Website: https://www.holcombauto.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holcomb-auto-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holcomb-auto-alpharetta.json",
+   "address": {
+    "streetAddress": "2965 B Holcomb Bridge Road #Suite B6",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9880406,
+    "lon": -84.2754412
+   },
+   "phone": "+17706407087",
+   "website": "https://www.holcombauto.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9788743452",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ideal-premier-ss-motors-alpharetta",
+   "name": "Ideal Premier SS Motors",
+   "summary": "Ideal Premier SS Motors is an used car dealer in Alpharetta, GA at 3000 Marconi Drive, Alpharetta, GA 30005. Phone: +14702169109. Website: https://idealpremier-ssmotors.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ideal-premier-ss-motors-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ideal-premier-ss-motors-alpharetta.json",
+   "address": {
+    "streetAddress": "3000 Marconi Drive",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0855409,
+    "lon": -84.2452469
+   },
+   "phone": "+14702169109",
+   "website": "https://idealpremier-ssmotors.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13643835141",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "james-avery-jewelry-alpharetta",
+   "name": "James Avery Jewelry",
+   "summary": "James Avery Jewelry is a jewelry store in Alpharetta, GA at 1000 North Point Circle, Space 1188, Alpharetta, GA 30022. Phone: +17705949993. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=705.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/james-avery-jewelry-alpharetta.json",
+   "address": {
+    "streetAddress": "1000 North Point Circle, Space 1188",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0473919,
+    "lon": -84.2958697
+   },
+   "phone": "+17705949993",
+   "website": "https://www.jamesavery.com/custserv/store_details.jsp?storeId=705",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4253905683",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-alpharetta",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Alpharetta, GA at 2965 A Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705941988. Website: https://www.jiffylube.com/locations/ga/alpharetta/1060.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-alpharetta.json",
+   "address": {
+    "streetAddress": "2965 A Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9885358,
+    "lon": -84.274872
+   },
+   "phone": "+17705941988",
+   "website": "https://www.jiffylube.com/locations/ga/alpharetta/1060",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/352451647",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "little-creek-academy-alpharetta",
+   "name": "Little Creek Academy",
+   "summary": "Little Creek Academy is a preschool in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17707534449. Website: https://www.littlecreekacademy.com/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/little-creek-academy-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/little-creek-academy-alpharetta.json",
+   "address": {
+    "streetAddress": "11875 Jones Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.069911,
+    "lon": -84.2046371
+   },
+   "phone": "+17707534449",
+   "website": "https://www.littlecreekacademy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382799590",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "m-wealth-group-alpharetta",
+   "name": "M Wealth Group",
+   "summary": "M Wealth Group is a financial advisor in Alpharetta, GA at 11180 State Bridge Road #206, Alpharetta, GA 30022. Phone: +16788660787. Website: https://mwealthgroup.com/.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-wealth-group-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-wealth-group-alpharetta.json",
+   "address": {
+    "streetAddress": "11180 State Bridge Road #206",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0516311,
+    "lon": -84.2296924
+   },
+   "phone": "+16788660787",
+   "website": "https://mwealthgroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11292966148",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "makas-hair-studio-and-barbershop-alpharetta",
+   "name": "MAKAS Hair Studio and Barbershop",
+   "summary": "MAKAS Hair Studio and Barbershop is a hair salon in Alpharetta, GA. Phone: +16319925606. Website: https://www.makashairstudio.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/makas-hair-studio-and-barbershop-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/makas-hair-studio-and-barbershop-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.066993,
+    "lon": -84.2612006
+   },
+   "phone": "+16319925606",
+   "website": "https://www.makashairstudio.com/",
+   "opening_hours": "Mo-Su 09:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13721928965",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "puppy-haven-alpharetta",
+   "name": "Puppy Haven",
+   "summary": "Puppy Haven is a dog boarding facility in Alpharetta, GA at 2854 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +14048858788. Website: https://www.puppyhavenatl.com/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/puppy-haven-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/puppy-haven-alpharetta.json",
+   "address": {
+    "streetAddress": "2854 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.990848,
+    "lon": -84.2779142
+   },
+   "phone": "+14048858788",
+   "website": "https://www.puppyhavenatl.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/352451762",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quest-center-alpharetta",
+   "name": "Quest Center",
+   "summary": "Quest Center is a gym in Alpharetta, GA at 8470 Holcomb Bridge Road #140, Alpharetta, GA 30022. Phone: +16784619337. Website: https://questcntr.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quest-center-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quest-center-alpharetta.json",
+   "address": {
+    "streetAddress": "8470 Holcomb Bridge Road #140",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9849211,
+    "lon": -84.2714649
+   },
+   "phone": "+16784619337",
+   "website": "https://questcntr.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7966875347",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "redkore-fitness-alpharetta",
+   "name": "RedKore Fitness",
+   "summary": "RedKore Fitness is a gym in Alpharetta, GA at 10700 State Bridge Road, Alpharetta, GA 30022. Phone: +16783190003. Website: https://redkorefitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/redkore-fitness-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/redkore-fitness-alpharetta.json",
+   "address": {
+    "streetAddress": "10700 State Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0413613,
+    "lon": -84.2206819
+   },
+   "phone": "+16783190003",
+   "website": "https://redkorefitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8033579715",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sensational-baskets-alpharetta",
+   "name": "Sensational Baskets",
+   "summary": "Sensational Baskets is a gift shop in Alpharetta, GA at 2662 Holcomb Bridge Road #212, Alpharetta, GA 30022. Phone: +18003962260. Website: https://www.sensationalbaskets.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sensational-baskets-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sensational-baskets-alpharetta.json",
+   "address": {
+    "streetAddress": "2662 Holcomb Bridge Road #212",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9975841,
+    "lon": -84.2837842
+   },
+   "phone": "+18003962260",
+   "website": "https://www.sensationalbaskets.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7857407758",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "simply-beautiful-and-co-alpharetta",
+   "name": "Simply Beautiful & Co",
+   "summary": "Simply Beautiful & Co is a nail salon in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16783663385. Website: https://simplybeautifulco.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/simply-beautiful-and-co-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/simply-beautiful-and-co-alpharetta.json",
+   "address": {
+    "streetAddress": "11895 Jones Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0701899,
+    "lon": -84.2037092
+   },
+   "phone": "+16783663385",
+   "website": "https://simplybeautifulco.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382799600",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "strongside-johns-creek-alpharetta",
+   "name": "STRONGSIDE Johns Creek",
+   "summary": "STRONGSIDE Johns Creek is a gym in Alpharetta, GA at 8560 Holcomb Bridge Road #118, Alpharetta, GA 30022. Phone: +16787350563. Website: https://the-strongside.com/locations/strongside-johns-creek/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/strongside-johns-creek-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/strongside-johns-creek-alpharetta.json",
+   "address": {
+    "streetAddress": "8560 Holcomb Bridge Road #118",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9869248,
+    "lon": -84.2735171
+   },
+   "phone": "+16787350563",
+   "website": "https://the-strongside.com/locations/strongside-johns-creek/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7824660097",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "solidcore-alpharetta",
+   "name": "Solidcore",
+   "summary": "Solidcore is a pilates studio in Alpharetta, GA at 5199 Avalon Boulevard, Alpharetta, GA. Phone: +17706920685. Website: https://solidcore.co/ga/atlanta/avalon/.",
+   "categories": [
+    "pilates"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/solidcore-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/solidcore-alpharetta.json",
+   "address": {
+    "streetAddress": "5199 Avalon Boulevard",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0712007,
+    "lon": -84.2751954
+   },
+   "phone": "+17706920685",
+   "website": "https://solidcore.co/ga/atlanta/avalon/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12581357327",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elevation-autism-center-alpharetta",
+   "name": "Elevation Autism Center",
+   "summary": "Elevation Autism Center is a therapy practice in Alpharetta, GA at 11560 Great Oaks Way STE 300, Alpharetta, GA 30022. Website: https://elevationautism.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elevation-autism-center-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elevation-autism-center-alpharetta.json",
+   "address": {
+    "streetAddress": "11560 Great Oaks Way STE 300",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.0597446,
+    "lon": -84.2747592
+   },
+   "website": "https://elevationautism.com/",
+   "opening_hours": "Mo-Fr 08:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12589684608",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "touch-of-sun-alpharetta",
+   "name": "touch of sun",
+   "summary": "touch of sun is a tanning salon in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785660466.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/touch-of-sun-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/touch-of-sun-alpharetta.json",
+   "address": {
+    "streetAddress": "11875 Jones Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.07006,
+    "lon": -84.2043347
+   },
+   "phone": "+16785660466",
+   "opening_hours": "Mo-Th 09:00-21:00; Fr-Sa 09:00-20:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382799596",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "visiting-angels-senior-home-care-alpharetta",
+   "name": "Visiting Angels Senior Home Care",
+   "summary": "Visiting Angels Senior Home Care is an assisted living facility in Alpharetta, GA at 11775 Northfall Ln #207, Alpharetta, GA 30009. Website: https://www.visitingangels.com/alpharetta/home.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/visiting-angels-senior-home-care-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/visiting-angels-senior-home-care-alpharetta.json",
+   "address": {
+    "streetAddress": "11775 Northfall Ln #207",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.0665037,
+    "lon": -84.3069999
+   },
+   "website": "https://www.visitingangels.com/alpharetta/home",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12696220696",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-fitness-alpharetta",
+   "name": "Hair Fitness",
+   "summary": "Hair Fitness is a hair salon in Alpharetta, GA. Phone: +17706647883. Website: https://hairfitnessga.net/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-fitness-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-fitness-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0699243,
+    "lon": -84.2949095
+   },
+   "phone": "+17706647883",
+   "website": "https://hairfitnessga.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4605705173",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "5-star-nails-alpharetta",
+   "name": "5 Star Nails",
+   "summary": "5 Star Nails is a nail salon in Alpharetta, GA at 8465 Holcomb Bridge Road #120, Alpharetta, GA 30022. Phone: +17706491404.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/5-star-nails-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/5-star-nails-alpharetta.json",
+   "address": {
+    "streetAddress": "8465 Holcomb Bridge Road #120",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9877137,
+    "lon": -84.2699613
+   },
+   "phone": "+17706491404",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7947152359",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "atria-north-point-alpharetta",
+   "name": "Atria North Point",
+   "summary": "Atria North Point is an assisted living facility in Alpharetta, GA at 100 Somerby Drive, Alpharetta, GA 30009. Website: https://www.atriaseniorliving.com/retirement-communities/atria-north-point-alpharetta-ga/apartments.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atria-north-point-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atria-north-point-alpharetta.json",
+   "address": {
+    "streetAddress": "100 Somerby Drive",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.0504932,
+    "lon": -84.3064732
+   },
+   "website": "https://www.atriaseniorliving.com/retirement-communities/atria-north-point-alpharetta-ga/apartments",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1314434342",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-max-alpharetta",
+   "name": "Hair Max",
+   "summary": "Hair Max is a hair salon in Alpharetta, GA. Phone: +17703469455.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-max-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-max-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0923657,
+    "lon": -84.2416339
+   },
+   "phone": "+17703469455",
+   "opening_hours": "10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5729206188",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "addington-place-of-alpharetta-alpharetta",
+   "name": "Addington Place of Alpharetta",
+   "summary": "Addington Place of Alpharetta is an assisted living facility in Alpharetta, GA at 762 North Main Street, Alpharetta, GA. Phone: +16783193000.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/addington-place-of-alpharetta-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/addington-place-of-alpharetta-alpharetta.json",
+   "address": {
+    "streetAddress": "762 North Main Street",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0928249,
+    "lon": -84.2844859
+   },
+   "phone": "+16783193000",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12253725875",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "classic-cleaners-alpharetta",
+   "name": "Classic Cleaners",
+   "summary": "Classic Cleaners is a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/classic-cleaners-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/classic-cleaners-alpharetta.json",
+   "address": {
+    "streetAddress": "11875 Jones Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0698103,
+    "lon": -84.2047629
+   },
+   "opening_hours": "Mo-Fr 07:00-18:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11382799592",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-backyard-alpharetta",
+   "name": "American Backyard",
+   "summary": "American Backyard is a furniture store in Alpharetta, GA. Website: https://www.americanbackyard.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-backyard-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-backyard-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0521404,
+    "lon": -84.2833813
+   },
+   "website": "https://www.americanbackyard.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/274372834",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-performance-alpharetta",
+   "name": "Sport Performance",
+   "summary": "Sport Performance is a gym in Alpharetta, GA. Website: https://www.teamexos.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-performance-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-performance-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0752924,
+    "lon": -84.2612202
+   },
+   "website": "https://www.teamexos.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7848283078",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-alpharetta",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Alpharetta, GA. Website: https://store.vioc.com/ga/alpharetta/oil-change-040154.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0651548,
+    "lon": -84.2533247
+   },
+   "website": "https://store.vioc.com/ga/alpharetta/oil-change-040154.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1014326780",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "arhaus-alpharetta",
+   "name": "Arhaus",
+   "summary": "Arhaus is a furniture store in Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arhaus-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arhaus-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0690753,
+    "lon": -84.2756735
+   },
+   "opening_hours": "Mo-Sa 11:00-19:00; Su 00:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11300878157",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "benchmark-physical-therapy-alpharetta",
+   "name": "Benchmark Physical Therapy",
+   "summary": "Benchmark Physical Therapy is a physical therapy clinic in Alpharetta, GA at 2850 Holcomb Bridge Road #120, Alpharetta, GA 30022.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benchmark-physical-therapy-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benchmark-physical-therapy-alpharetta.json",
+   "address": {
+    "streetAddress": "2850 Holcomb Bridge Road #120",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.991104,
+    "lon": -84.2782573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7793061606",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "blue-rose-promotions-alpharetta",
+   "name": "Blue Rose Promotions",
+   "summary": "Blue Rose Promotions is a marketing agency in Alpharetta, GA at 2662 Holcomb Bridge Road #200, Alpharetta, GA 30022.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blue-rose-promotions-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blue-rose-promotions-alpharetta.json",
+   "address": {
+    "streetAddress": "2662 Holcomb Bridge Road #200",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.997812,
+    "lon": -84.2838392
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7857407764",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "carrington-academy-alpharetta",
+   "name": "Carrington Academy",
+   "summary": "Carrington Academy is a daycare in Alpharetta, GA at 6670 Shiloh Road, Alpharetta, GA 30005.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carrington-academy-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carrington-academy-alpharetta.json",
+   "address": {
+    "streetAddress": "6670 Shiloh Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.1064449,
+    "lon": -84.2164777
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/684640663",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crate-and-barrel-alpharetta",
+   "name": "Crate & Barrel",
+   "summary": "Crate & Barrel is a furniture store in Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crate-and-barrel-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0710056,
+    "lon": -84.2786443
+   },
+   "opening_hours": "Mo-Sa 20:00-10:00, Su 18:00-10:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5369166877",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-alpharetta-w352451204",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Alpharetta, GA at 8485 Holcomb Bridge Road, Alpharetta, GA 30022.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-alpharetta-w352451204/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-alpharetta-w352451204.json",
+   "address": {
+    "streetAddress": "8485 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9888104,
+    "lon": -84.2728415
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/352451204",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-impressions-alpharetta",
+   "name": "Hair Impressions",
+   "summary": "Hair Impressions is a hair salon in Alpharetta, GA at 8465 Holcomb Bridge Road #110, Alpharetta, GA 30022.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-impressions-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-impressions-alpharetta.json",
+   "address": {
+    "streetAddress": "8465 Holcomb Bridge Road #110",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9877508,
+    "lon": -84.2700618
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7947152358",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "happy-feet-nails-and-spa-alpharetta",
+   "name": "Happy Feet Nails And Spa",
+   "summary": "Happy Feet Nails And Spa is a nail salon in Alpharetta, GA at 2850 Holcomb Bridge Road #150, Alpharetta, GA 30022.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/happy-feet-nails-and-spa-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/happy-feet-nails-and-spa-alpharetta.json",
+   "address": {
+    "streetAddress": "2850 Holcomb Bridge Road #150",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9912115,
+    "lon": -84.2784729
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7793061605",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kids-r-kids-alpharetta",
+   "name": "Kids 'R' Kids",
+   "summary": "Kids 'R' Kids is a daycare in Alpharetta, GA at 4780 West Morton Road, Alpharetta, GA 30022.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-r-kids-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-r-kids-alpharetta.json",
+   "address": {
+    "streetAddress": "4780 West Morton Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.041368,
+    "lon": -84.2227827
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/562382820",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mr-cleans-car-wash-alpharetta",
+   "name": "Mr Clean's Car Wash",
+   "summary": "Mr Clean's Car Wash is a car wash in Alpharetta, GA at 2925 Holcomb Bridge Road, Alpharetta, GA 30022.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mr-cleans-car-wash-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mr-cleans-car-wash-alpharetta.json",
+   "address": {
+    "streetAddress": "2925 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9895857,
+    "lon": -84.2763252
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1042387064",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-medplus-alpharetta",
+   "name": "Pet MedPlus",
+   "summary": "Pet MedPlus is a veterinarian in Alpharetta, GA at 2848 Holcomb Bridge Road, Alpharetta, GA 30022.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-medplus-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-medplus-alpharetta.json",
+   "address": {
+    "streetAddress": "2848 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9906046,
+    "lon": -84.2790881
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/352451712",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prestige-dry-cleaners-alpharetta",
+   "name": "Prestige Dry Cleaners",
+   "summary": "Prestige Dry Cleaners is a dry cleaner in Alpharetta, GA at 2850 Holcomb Bridge Road #100, Alpharetta, GA 30022.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prestige-dry-cleaners-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prestige-dry-cleaners-alpharetta.json",
+   "address": {
+    "streetAddress": "2850 Holcomb Bridge Road #100",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9910536,
+    "lon": -84.2781513
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7793061607",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "progress-residential-alpharetta",
+   "name": "Progress Residential",
+   "summary": "Progress Residential is a real estate agency in Alpharetta, GA at 118 Holcomb Bridge Road, Alpharetta, GA 30022.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/progress-residential-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/progress-residential-alpharetta.json",
+   "address": {
+    "streetAddress": "118 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9982915,
+    "lon": -84.2839568
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7857407772",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "safeway-insurance-company-of-georgia-alpharetta",
+   "name": "Safeway Insurance Company of Georgia",
+   "summary": "Safeway Insurance Company of Georgia is an insurance agent in Alpharetta, GA at 1165 Sanctuary Parkway #200, Alpharetta, GA 30009.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/safeway-insurance-company-of-georgia-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/safeway-insurance-company-of-georgia-alpharetta.json",
+   "address": {
+    "streetAddress": "1165 Sanctuary Parkway #200",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30009",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30009",
+   "geo": {
+    "lat": 34.0452172,
+    "lon": -84.3115865
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6924900228",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "signature-nails-alpharetta",
+   "name": "Signature Nails",
+   "summary": "Signature Nails is a nail salon in Alpharetta, GA at 2610 Holcomb Bridge Road #100, Alpharetta, GA 30022.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/signature-nails-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/signature-nails-alpharetta.json",
+   "address": {
+    "streetAddress": "2610 Holcomb Bridge Road #100",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 34.001198,
+    "lon": -84.2833625
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/842305250",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-alpharetta",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Alpharetta, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0571977,
+    "lon": -84.2341963
+   },
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12180901643",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tao-spa-alpharetta",
+   "name": "Tao Spa",
+   "summary": "Tao Spa is a spa in Alpharetta, GA at 2850 Holcomb Bridge Road #130, Alpharetta, GA 30022.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tao-spa-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tao-spa-alpharetta.json",
+   "address": {
+    "streetAddress": "2850 Holcomb Bridge Road #130",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9911385,
+    "lon": -84.2783266
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7793061603",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-goddard-school-alpharetta",
+   "name": "The Goddard School",
+   "summary": "The Goddard School is a preschool in Alpharetta, GA at 2710 Holcomb Bridge Road, Alpharetta, GA 30022.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-goddard-school-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-goddard-school-alpharetta.json",
+   "address": {
+    "streetAddress": "2710 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9938699,
+    "lon": -84.2818431
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/355227876",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-metropolitan-club-alpharetta",
+   "name": "The Metropolitan Club",
+   "summary": "The Metropolitan Club is an event venue in Alpharetta, GA at 3895 Windward Parkway, Alpharetta, GA 30005.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-metropolitan-club-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-metropolitan-club-alpharetta.json",
+   "address": {
+    "streetAddress": "3895 Windward Parkway",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30005",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30005",
+   "geo": {
+    "lat": 34.0884963,
+    "lon": -84.2533928
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/39083770",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "u-haul-alpharetta",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Alpharetta, GA at 2840 Holcomb Bridge Road, Alpharetta, GA 30022.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-alpharetta.json",
+   "address": {
+    "streetAddress": "2840 Holcomb Bridge Road",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9915679,
+    "lon": -84.2795309
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/352451760",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "winton-chiropractic-alpharetta",
+   "name": "Winton Chiropractic",
+   "summary": "Winton Chiropractic is a chiropractor in Alpharetta, GA at 8465 Holcomb Bridge Road #680, Alpharetta, GA 30022.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/winton-chiropractic-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/winton-chiropractic-alpharetta.json",
+   "address": {
+    "streetAddress": "8465 Holcomb Bridge Road #680",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "postalCode": "30022",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "zip": "30022",
+   "geo": {
+    "lat": 33.9878933,
+    "lon": -84.2704362
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7947152355",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ethan-allen-alpharetta",
+   "name": "Ethan Allen",
+   "summary": "Ethan Allen is a furniture store in Alpharetta, GA at 6751 North Point Parkway, Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ethan-allen-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ethan-allen-alpharetta.json",
+   "address": {
+    "streetAddress": "6751 North Point Parkway",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0448835,
+    "lon": -84.2975079
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/49134866",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "havertys-alpharetta",
+   "name": "Havertys",
+   "summary": "Havertys is a furniture store in Alpharetta, GA at 6731 North Point Parkway, Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/havertys-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/havertys-alpharetta.json",
+   "address": {
+    "streetAddress": "6731 North Point Parkway",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0450529,
+    "lon": -84.2966585
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/49134865",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "verizon-corporate-office-alpharetta",
+   "name": "Verizon Corporate Office",
+   "summary": "Verizon Corporate Office is an IT support company in Alpharetta, GA at 5055 North Point Parkway, Alpharetta, GA.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/verizon-corporate-office-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/verizon-corporate-office-alpharetta.json",
+   "address": {
+    "streetAddress": "5055 North Point Parkway",
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0555287,
+    "lon": -84.277318
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13278567164",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-time-wine-and-spirits-alpharetta",
+   "name": "All Time Wine and Spirits",
+   "summary": "All Time Wine and Spirits is a liquor store in Alpharetta, GA.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-time-wine-and-spirits-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-time-wine-and-spirits-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0888958,
+    "lon": -84.2664708
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13110835317",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-backyard-alpharetta-w274500609",
+   "name": "American Backyard",
+   "summary": "American Backyard is a furniture store in Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-backyard-alpharetta-w274500609/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-backyard-alpharetta-w274500609.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0467174,
+    "lon": -84.2919904
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/274500609",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aspen-dental-alpharetta",
+   "name": "Aspen Dental",
+   "summary": "Aspen Dental is a dentist in Alpharetta, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aspen-dental-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aspen-dental-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0486349,
+    "lon": -84.287893
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11229975754",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "atlanta-center-for-dental-health-alpharetta",
+   "name": "Atlanta Center For Dental Health",
+   "summary": "Atlanta Center For Dental Health is a dentist in Alpharetta, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlanta-center-for-dental-health-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlanta-center-for-dental-health-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0528098,
+    "lon": -84.2860115
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11845373964",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "atlanta-divorce-law-group-alpharetta",
+   "name": "Atlanta Divorce Law Group",
+   "summary": "Atlanta Divorce Law Group is a lawyer in Alpharetta, GA.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlanta-divorce-law-group-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlanta-divorce-law-group-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0907202,
+    "lon": -84.2656894
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13110804399",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "be-u-hair-salon-alpharetta",
+   "name": "Be U Hair Salon",
+   "summary": "Be U Hair Salon is a hair salon in Alpharetta, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/be-u-hair-salon-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/be-u-hair-salon-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0704282,
+    "lon": -84.2930021
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10069624968",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "boardroom-salon-alpharetta",
+   "name": "Boardroom Salon",
+   "summary": "Boardroom Salon is a hair salon in Alpharetta, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boardroom-salon-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boardroom-salon-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0710116,
+    "lon": -84.2744601
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12581357331",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brow-art-23-alpharetta",
+   "name": "Brow Art 23",
+   "summary": "Brow Art 23 is a skin care studio in Alpharetta, GA.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brow-art-23-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brow-art-23-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0476732,
+    "lon": -84.2955023
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12466157909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "charles-schwab-alpharetta",
+   "name": "Charles Schwab",
+   "summary": "Charles Schwab is a financial advisor in Alpharetta, GA.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/charles-schwab-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/charles-schwab-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0684163,
+    "lon": -84.2771677
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289566949",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chau-s-tailor-alpharetta",
+   "name": "Chau’s Tailor",
+   "summary": "Chau’s Tailor is a tailor in Alpharetta, GA.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chau-s-tailor-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chau-s-tailor-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0704803,
+    "lon": -84.2949005
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10226749600",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "childrens-healthcare-of-atlanta-alpharetta",
+   "name": "Children's Healthcare of Atlanta",
+   "summary": "Children's Healthcare of Atlanta is a physical therapy clinic in Alpharetta, GA.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/childrens-healthcare-of-atlanta-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/childrens-healthcare-of-atlanta-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0752283,
+    "lon": -84.2613516
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7795616677",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "club-pilates-alpharetta",
+   "name": "Club Pilates",
+   "summary": "Club Pilates is a pilates studio in Alpharetta, GA.",
+   "categories": [
+    "pilates"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/club-pilates-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/club-pilates-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0715735,
+    "lon": -84.2734114
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12581357321",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-alpharetta",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Alpharetta, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0882044,
+    "lon": -84.2639433
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289625224",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "drybar-alpharetta",
+   "name": "Drybar",
+   "summary": "Drybar is a hair salon in Alpharetta, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/drybar-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/drybar-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0705677,
+    "lon": -84.2773975
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12577109574",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "einstein-alpharetta",
+   "name": "Einstein",
+   "summary": "Einstein is a bakery in Alpharetta, GA.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/einstein-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/einstein-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0877078,
+    "lon": -84.2673427
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2938250530",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-alpharetta-w667342392",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Alpharetta, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-alpharetta-w667342392/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-alpharetta-w667342392.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0912105,
+    "lon": -84.2816993
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/667342392",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fedex-office-alpharetta",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Alpharetta, GA.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0874162,
+    "lon": -84.270107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4359427092",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fedex-office-alpharetta-n7993772714",
+   "name": "FedEx Office",
+   "summary": "FedEx Office is a printing service in Alpharetta, GA.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fedex-office-alpharetta-n7993772714/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-alpharetta-n7993772714.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0407074,
+    "lon": -84.3176454
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7993772714",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "franco-hair-studio-alpharetta",
+   "name": "Franco Hair Studio",
+   "summary": "Franco Hair Studio is a hair salon in Alpharetta, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/franco-hair-studio-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/franco-hair-studio-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.087932,
+    "lon": -84.2664388
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13110835313",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gorjana-alpharetta",
+   "name": "Gorjana",
+   "summary": "Gorjana is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gorjana-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gorjana-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0705596,
+    "lon": -84.277023
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12577109570",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-alpharetta",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Alpharetta, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0960354,
+    "lon": -84.2785307
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9457538797",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-harvest-bread-company-alpharetta",
+   "name": "Great Harvest Bread Company",
+   "summary": "Great Harvest Bread Company is a bakery in Alpharetta, GA.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-company-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-harvest-bread-company-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.096169,
+    "lon": -84.280535
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9457538759",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hand-and-stone-massage-and-facial-spa-alpharetta",
+   "name": "Hand & Stone Massage and Facial Spa",
+   "summary": "Hand & Stone Massage and Facial Spa is a massage studio in Alpharetta, GA.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hand-and-stone-massage-and-facial-spa-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0959993,
+    "lon": -84.2787797
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9457538799",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hotworx-alpharetta",
+   "name": "Hotworx",
+   "summary": "Hotworx is a gym in Alpharetta, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hotworx-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hotworx-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0929287,
+    "lon": -84.2800326
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11289658368",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "inspired-living-at-alpharetta-alpharetta",
+   "name": "Inspired Living at Alpharetta",
+   "summary": "Inspired Living at Alpharetta is an assisted living facility in Alpharetta, GA.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/inspired-living-at-alpharetta-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/inspired-living-at-alpharetta-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0657552,
+    "lon": -84.2710924
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12624288576",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jared-alpharetta",
+   "name": "Jared",
+   "summary": "Jared is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jared-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jared-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0466337,
+    "lon": -84.2894569
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/274500622",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kay-jewelers-alpharetta",
+   "name": "Kay Jewelers",
+   "summary": "Kay Jewelers is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-jewelers-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-jewelers-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0487114,
+    "lon": -84.2931599
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12177392477",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "legacy-lenthz-alpharetta",
+   "name": "Legacy Lenthz",
+   "summary": "Legacy Lenthz is a hair salon in Alpharetta, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/legacy-lenthz-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/legacy-lenthz-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0877506,
+    "lon": -84.26727
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13110835305",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lina-art-studio-alpharetta",
+   "name": "Lina Art Studio",
+   "summary": "Lina Art Studio is a tattoo shop in Alpharetta, GA.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lina-art-studio-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lina-art-studio-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0877698,
+    "lon": -84.2669676
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13110835306",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lovesac-alpharetta",
+   "name": "LoveSac",
+   "summary": "LoveSac is a furniture store in Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lovesac-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lovesac-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0705751,
+    "lon": -84.2772062
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12577109572",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lux-nail-lounge-alpharetta",
+   "name": "Lux Nail Lounge",
+   "summary": "Lux Nail Lounge is a nail salon in Alpharetta, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lux-nail-lounge-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lux-nail-lounge-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.07032,
+    "lon": -84.2787568
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12582204041",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lyly-s-luxe-nail-salon-alpharetta",
+   "name": "Lyly’s Luxe Nail Salon",
+   "summary": "Lyly’s Luxe Nail Salon is a nail salon in Alpharetta, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lyly-s-luxe-nail-salon-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lyly-s-luxe-nail-salon-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0704222,
+    "lon": -84.2928967
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10102320390",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "makers-market-alpharetta",
+   "name": "Makers Market",
+   "summary": "Makers Market is a gift shop in Alpharetta, GA.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/makers-market-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/makers-market-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.071236,
+    "lon": -84.2767435
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12577109597",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mammoth-alpharetta",
+   "name": "Mammoth",
+   "summary": "Mammoth is a car wash in Alpharetta, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mammoth-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mammoth-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0705921,
+    "lon": -84.295681
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13633928317",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-envy-alpharetta",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Alpharetta, GA.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0886199,
+    "lon": -84.2670536
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13110835316",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-alpharetta",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Alpharetta, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0406198,
+    "lon": -84.3239095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/333002420",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mayors-alpharetta",
+   "name": "Mayors",
+   "summary": "Mayors is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mayors-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mayors-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0709279,
+    "lon": -84.2757385
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12577109575",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midas-alpharetta",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Alpharetta, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0815907,
+    "lon": -84.2955396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5368445448",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "north-point-shoe-repair-alpharetta",
+   "name": "North Point Shoe Repair",
+   "summary": "North Point Shoe Repair is a shoe repair in Alpharetta, GA.",
+   "categories": [
+    "shoe repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-point-shoe-repair-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-point-shoe-repair-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0486539,
+    "lon": -84.2932477
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12177392479",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pandora-alpharetta",
+   "name": "Pandora",
+   "summary": "Pandora is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pandora-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pandora-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0486256,
+    "lon": -84.293207
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12177392472",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pavillion-nail-lounge-alpharetta",
+   "name": "Pavillion Nail Lounge",
+   "summary": "Pavillion Nail Lounge is a nail salon in Alpharetta, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pavillion-nail-lounge-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pavillion-nail-lounge-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0420232,
+    "lon": -84.3059499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7827926111",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "personal-touch-alpharetta",
+   "name": "Personal Touch",
+   "summary": "Personal Touch is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/personal-touch-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/personal-touch-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0486385,
+    "lon": -84.2953984
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12466157905",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "piano-academy-alpharetta",
+   "name": "Piano Academy",
+   "summary": "Piano Academy is a music school in Alpharetta, GA.",
+   "categories": [
+    "music lessons"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/piano-academy-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/piano-academy-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0616522,
+    "lon": -84.224833
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9374698182",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pop-up-corner-alpharetta",
+   "name": "Pop-Up Corner",
+   "summary": "Pop-Up Corner is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pop-up-corner-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pop-up-corner-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0483107,
+    "lon": -84.2953573
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13092921522",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pottery-barn-alpharetta",
+   "name": "Pottery Barn",
+   "summary": "Pottery Barn is a furniture store in Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pottery-barn-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pottery-barn-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0705482,
+    "lon": -84.2735035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12581357320",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-alpharetta",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Alpharetta, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0655778,
+    "lon": -84.30896
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/196942919",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "reesha-barbers-alpharetta",
+   "name": "Reesha Barbers",
+   "summary": "Reesha Barbers is a barber shop in Alpharetta, GA.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reesha-barbers-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reesha-barbers-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.087604,
+    "lon": -84.2658925
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13110835302",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rogers-florist-alpharetta",
+   "name": "Rogers Florist",
+   "summary": "Rogers Florist is a florist in Alpharetta, GA.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rogers-florist-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rogers-florist-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0698653,
+    "lon": -84.2948958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11229958491",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rooms-to-go-alpharetta",
+   "name": "Rooms To Go",
+   "summary": "Rooms To Go is a furniture store in Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rooms-to-go-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rooms-to-go-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0451995,
+    "lon": -84.2958052
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/49134864",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rooms-to-go-alpharetta-w833549989",
+   "name": "Rooms To Go",
+   "summary": "Rooms To Go is a furniture store in Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rooms-to-go-alpharetta-w833549989/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rooms-to-go-alpharetta-w833549989.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0478029,
+    "lon": -84.2853439
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/833549989",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sabri-guven-fine-jewelry-alpharetta",
+   "name": "Sabri Guven Fine Jewelry",
+   "summary": "Sabri Guven Fine Jewelry is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sabri-guven-fine-jewelry-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sabri-guven-fine-jewelry-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0704209,
+    "lon": -84.2931057
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10069624967",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salons-by-jc-alpharetta",
+   "name": "Salons By JC",
+   "summary": "Salons By JC is a hair salon in Alpharetta, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salons-by-jc-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salons-by-jc-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0697743,
+    "lon": -84.2949364
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10226749602",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shane-co-alpharetta",
+   "name": "Shane Co.",
+   "summary": "Shane Co. is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shane-co-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shane-co-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0501453,
+    "lon": -84.285533
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/49196809",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sleep-number-alpharetta",
+   "name": "Sleep Number",
+   "summary": "Sleep Number is a mattress store in Alpharetta, GA.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-number-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0471214,
+    "lon": -84.2887008
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13358215711",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spencers-alpharetta",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Alpharetta, GA.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0483266,
+    "lon": -84.2938049
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11753721984",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tempur-pedic-alpharetta",
+   "name": "Tempur-Pedic",
+   "summary": "Tempur-Pedic is a mattress store in Alpharetta, GA.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tempur-pedic-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tempur-pedic-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0702173,
+    "lon": -84.2787516
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12582204042",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-shade-store-alpharetta",
+   "name": "The Shade Store",
+   "summary": "The Shade Store is a furniture store in Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-shade-store-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-shade-store-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0487955,
+    "lon": -84.287371
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13332395268",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-alpharetta",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Alpharetta, GA.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0960493,
+    "lon": -84.2772974
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9457538762",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-alpharetta-n10226749605",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Alpharetta, GA.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-alpharetta-n10226749605/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-alpharetta-n10226749605.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0703898,
+    "lon": -84.294904
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10226749605",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "titancorp-alpharetta",
+   "name": "TitanCorp",
+   "summary": "TitanCorp is a real estate agency in Alpharetta, GA.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/titancorp-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/titancorp-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0897686,
+    "lon": -84.2659172
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13110804396",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "visual-comfort-and-co-alpharetta",
+   "name": "Visual Comfort & Co.",
+   "summary": "Visual Comfort & Co. is a furniture store in Alpharetta, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/visual-comfort-and-co-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/visual-comfort-and-co-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0487611,
+    "lon": -84.2875308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12549764717",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wow-floral-design-studio-alpharetta",
+   "name": "Wow Floral Design Studio",
+   "summary": "Wow Floral Design Studio is a florist in Alpharetta, GA.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wow-floral-design-studio-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wow-floral-design-studio-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0704172,
+    "lon": -84.2927673
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10069624966",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "youfit-alpharetta",
+   "name": "YouFit",
+   "summary": "YouFit is a gym in Alpharetta, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/youfit-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/youfit-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0519983,
+    "lon": -84.2824993
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/274372836",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zales-alpharetta",
+   "name": "Zales",
+   "summary": "Zales is a jewelry store in Alpharetta, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zales-alpharetta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zales-alpharetta.json",
+   "address": {
+    "addressLocality": "Alpharetta",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Alpharetta",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0483543,
+    "lon": -84.2936486
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12177392478",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

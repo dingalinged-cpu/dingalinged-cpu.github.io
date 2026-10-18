@@ -13,6 +13,7 @@ Lakeside Dental is a dentist in North Barrington, IL at 106 South Wynstone Park 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 07:00-16:00; Th 07:00-17:00
+- Registry Score: 57.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

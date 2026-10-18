@@ -1,0 +1,24 @@
+Veal Dental Care of Dunwoody is a dentist in Dunwoody, GA at 1867 Independence Square #104, Dunwoody, GA 30338.
+
+# Veal Dental Care of Dunwoody
+
+- Category: dentist
+- Services: dentist
+- Address: 1867 Independence Square #104, Dunwoody, GA 30338
+- City: Dunwoody
+- State: GA
+- ZIP: 30338
+- Coordinates: 33.9304478, -84.3126048
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/veal-dental-care-of-dunwoody-dunwoody/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/veal-dental-care-of-dunwoody-dunwoody.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13205467597 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

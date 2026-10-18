@@ -13,6 +13,7 @@ Lara's Hair Salon is a hair salon in Forney, TX at 1102 Ranch Road #200, Forney,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 54.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

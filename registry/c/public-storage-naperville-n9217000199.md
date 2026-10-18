@@ -13,6 +13,7 @@ Public Storage is a self-storage facility in Naperville, IL at 2433 South Washin
 - Website: https://www.publicstorage.com/self-storage-il-naperville/1451
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

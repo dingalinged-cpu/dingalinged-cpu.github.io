@@ -13,6 +13,7 @@ Pearle Vision is an eye care practice in Irving, TX at 2913 North Belt Line Road
 - Website: https://pearlevision.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr-Sa 10:00-16:00
+- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

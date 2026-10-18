@@ -13,6 +13,7 @@ Lucid Private Offices is a coworking space in Dallas, TX at 8080 North Central E
 - Website: https://www.lucidprivateoffices.com/texas/dallas/8080-n-central-expressway/
 - Email: Workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Registry Score: 55.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

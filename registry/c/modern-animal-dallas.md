@@ -13,6 +13,7 @@ Modern Animal is a veterinarian in Dallas, TX at 6465 East Mockingbird Lane #310
 - Website: https://www.modernanimal.com/locations/dallas-fort-worth/lakewood
 - Email: hello@modernanimal.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

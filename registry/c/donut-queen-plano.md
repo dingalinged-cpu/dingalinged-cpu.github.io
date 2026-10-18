@@ -13,6 +13,7 @@ Donut Queen is a bakery in Plano, TX at West Plano Parkway #112, Plano, TX. Phon
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo[1,3] 05:00-12:00; Tu-Su 05:00-12:00
+- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

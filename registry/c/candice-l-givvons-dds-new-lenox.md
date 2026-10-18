@@ -13,6 +13,7 @@ Candice L. Givvons, DDS is a dentist in New Lenox, IL at 2449 East Joliet Highwa
 - Website: https://www.doctorgibbons.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

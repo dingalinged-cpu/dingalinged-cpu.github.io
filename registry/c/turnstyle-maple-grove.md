@@ -13,6 +13,7 @@ TurnStyle is a thrift store in Maple Grove, MN at 13744 83rd Way North, Maple Gr
 - Website: https://www.turnstyleconsign.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 12:00-18:00
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

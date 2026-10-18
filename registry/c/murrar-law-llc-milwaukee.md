@@ -13,6 +13,7 @@ Murrar Law, LLC is a lawyer in Milwaukee, WI at 610 West Lincoln Avenue #Suite 2
 - Website: https://murrarlaw.com/
 - Email: info@morhvisas.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

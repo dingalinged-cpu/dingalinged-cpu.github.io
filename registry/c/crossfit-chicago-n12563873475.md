@@ -13,6 +13,7 @@ CrossFit is a gym in Chicago, IL at 4317 West Irving Park Road, Chicago, IL 6064
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 41.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

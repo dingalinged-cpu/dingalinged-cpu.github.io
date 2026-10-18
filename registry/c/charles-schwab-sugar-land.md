@@ -13,6 +13,7 @@ Charles Schwab is a financial advisor in Sugar Land, TX at 1865 State Highway 6 
 - Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1218
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa-Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

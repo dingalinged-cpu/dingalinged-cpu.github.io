@@ -13,6 +13,7 @@ Houston Overhead Garage Door LLC is a window installer in Houston, TX at 6021 Ya
 - Website: https://houstonoverheadgaragedoorllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

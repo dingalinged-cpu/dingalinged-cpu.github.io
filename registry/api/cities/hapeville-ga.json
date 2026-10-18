@@ -1,0 +1,241 @@
+{
+ "place": "Hapeville, GA",
+ "slug": "hapeville-ga",
+ "count": 7,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "bakery hapeville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-hapeville-ga.json"
+  },
+  {
+   "keyword": "funeral home hapeville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-hapeville-ga.json"
+  },
+  {
+   "keyword": "hair salon hapeville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-hapeville-ga.json"
+  },
+  {
+   "keyword": "haircut hapeville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-hapeville-ga.json"
+  },
+  {
+   "keyword": "liquor store hapeville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-hapeville-ga.json"
+  },
+  {
+   "keyword": "storage units hapeville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-hapeville-ga.json"
+  },
+  {
+   "keyword": "yoga classes hapeville ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-hapeville-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "donehoo-lewis-funeral-home-hapeville",
+   "name": "Donehoo-Lewis Funeral Home",
+   "summary": "Donehoo-Lewis Funeral Home is a funeral home in Hapeville, GA at 736 South Central Avenue, Hapeville, GA 30354. Phone: +14047612171. Website: https://donehoo-lewisfuneralhome.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/donehoo-lewis-funeral-home-hapeville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/donehoo-lewis-funeral-home-hapeville.json",
+   "address": {
+    "streetAddress": "736 South Central Avenue",
+    "addressLocality": "Hapeville",
+    "addressRegion": "GA",
+    "postalCode": "30354",
+    "addressCountry": "US"
+   },
+   "city": "Hapeville",
+   "state": "GA",
+   "zip": "30354",
+   "geo": {
+    "lat": 33.6608224,
+    "lon": -84.4135862
+   },
+   "phone": "+14047612171",
+   "website": "https://donehoo-lewisfuneralhome.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12832805334",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "beer-girl-growlers-and-bottleshop-hapeville",
+   "name": "Beer Girl Growlers & Bottleshop",
+   "summary": "Beer Girl Growlers & Bottleshop is a liquor store in Hapeville, GA at 587 North Central Avenue, Hapeville, GA 30354.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beer-girl-growlers-and-bottleshop-hapeville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beer-girl-growlers-and-bottleshop-hapeville.json",
+   "address": {
+    "streetAddress": "587 North Central Avenue",
+    "addressLocality": "Hapeville",
+    "addressRegion": "GA",
+    "postalCode": "30354",
+    "addressCountry": "US"
+   },
+   "city": "Hapeville",
+   "state": "GA",
+   "zip": "30354",
+   "geo": {
+    "lat": 33.6586843,
+    "lon": -84.4083667
+   },
+   "opening_hours": "Tu-Sa 11:00-20:00, Su 13:00-18:00, Mo closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3655689426",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "buttersweet-hapeville",
+   "name": "Buttersweet",
+   "summary": "Buttersweet is a bakery in Hapeville, GA.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/buttersweet-hapeville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/buttersweet-hapeville.json",
+   "address": {
+    "addressLocality": "Hapeville",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Hapeville",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6592997,
+    "lon": -84.4094215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6298095437",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crest-liquor-hapeville",
+   "name": "Crest Liquor",
+   "summary": "Crest Liquor is a liquor store in Hapeville, GA.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crest-liquor-hapeville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crest-liquor-hapeville.json",
+   "address": {
+    "addressLocality": "Hapeville",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Hapeville",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6544222,
+    "lon": -84.4006968
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/279405498",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-hapeville",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Hapeville, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-hapeville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-hapeville.json",
+   "address": {
+    "addressLocality": "Hapeville",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Hapeville",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6674422,
+    "lon": -84.4177931
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/993285369",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "randys-hapeville",
+   "name": "Randy's",
+   "summary": "Randy's is a hair salon in Hapeville, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/randys-hapeville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/randys-hapeville.json",
+   "address": {
+    "addressLocality": "Hapeville",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Hapeville",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6590792,
+    "lon": -84.4203254
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/648457285",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sanskrit-moon-hapeville",
+   "name": "Sanskrit Moon",
+   "summary": "Sanskrit Moon is a yoga studio in Hapeville, GA.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sanskrit-moon-hapeville/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sanskrit-moon-hapeville.json",
+   "address": {
+    "addressLocality": "Hapeville",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Hapeville",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6585732,
+    "lon": -84.408195
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6298095434",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

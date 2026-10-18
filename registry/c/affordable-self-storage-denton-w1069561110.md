@@ -13,6 +13,7 @@ Affordable Self Storage is a self-storage facility in Denton, TX at 518 Smith St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 49.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

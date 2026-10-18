@@ -13,6 +13,7 @@ JOY Macarons is a bakery in Allen, TX at 908 Watters Creek Boulevard, Allen, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00, Su 12:00-21:00
+- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

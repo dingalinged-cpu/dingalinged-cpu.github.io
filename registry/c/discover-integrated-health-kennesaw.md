@@ -1,0 +1,24 @@
+Discover Integrated Health is a physical therapy clinic in Kennesaw, GA at 3940 Cherokee Street Northwest #402, Kennesaw, GA. Phone: +17704239010. Website: https://discoverrehab.com/.
+
+# Discover Integrated Health
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 3940 Cherokee Street Northwest #402, Kennesaw, GA
+- City: Kennesaw
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0488771, -84.5965752
+- Phone: +17704239010
+- Website: https://discoverrehab.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo,We-Fr 09:00-13:00,15:00-18:00; Tu,Su off; Sa 09:00-12:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/discover-integrated-health-kennesaw/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/discover-integrated-health-kennesaw.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13269270953 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

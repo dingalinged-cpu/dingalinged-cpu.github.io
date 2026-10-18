@@ -1,0 +1,58 @@
+Keyword market for Marietta, GA: 103 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Atlanta-Sandy Springs-Roswell, GA metro (US volume x population share).
+
+# Top keywords in Marietta, GA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage marietta ga | searches/mo 95,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $440,000 | Google Ads equiv $25,000/mo | our featured min $50/mo | registry competitors 12 | https://dingalinged-cpu.github.io/registry/k/massage-marietta-ga/
+2. urgent care marietta ga | searches/mo 52,000 (est) | CPC $4.76 | value $250,000 | Google Ads equiv $17,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/urgent-care-marietta-ga/
+3. car wash marietta ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 15 | https://dingalinged-cpu.github.io/registry/k/car-wash-marietta-ga/
+4. dentist marietta ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 25 | https://dingalinged-cpu.github.io/registry/k/dentist-marietta-ga/
+5. gym marietta ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 23 | https://dingalinged-cpu.github.io/registry/k/gym-marietta-ga/
+6. oil change marietta ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/oil-change-marietta-ga/
+7. hair salon marietta ga | searches/mo 28,000 (est) | CPC $0.55 | value $15,000 | Google Ads equiv $880/mo | our featured min $50/mo | registry competitors 38 | https://dingalinged-cpu.github.io/registry/k/hair-salon-marietta-ga/
+8. nail salon marietta ga | searches/mo 19,000 (est) | CPC $0.61 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 17 | https://dingalinged-cpu.github.io/registry/k/nail-salon-marietta-ga/
+9. plumber marietta ga | searches/mo 16,000 (est) | CPC $12.04 | value $190,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/plumber-marietta-ga/
+10. barber shop marietta ga | searches/mo 13,000 (est) | CPC $0.70 | value $9,100 | Google Ads equiv $520/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-marietta-ga/
+11. mechanic marietta ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 77 | https://dingalinged-cpu.github.io/registry/k/mechanic-marietta-ga/
+12. tire shop marietta ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/tire-shop-marietta-ga/
+13. vet marietta ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 15 | https://dingalinged-cpu.github.io/registry/k/vet-marietta-ga/
+14. dog groomer marietta ga | searches/mo 8,500 (est) | CPC $4.06 | value $35,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-marietta-ga/
+15. haircut marietta ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 39 | https://dingalinged-cpu.github.io/registry/k/haircut-marietta-ga/
+
+## By CPC
+1. hvac repair marietta ga | searches/mo 1,400 (est) | CPC $17.76 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-marietta-ga/
+2. plumbing services marietta ga | searches/mo 940 (est) | CPC $13.90 | value $13,000 | Google Ads equiv $830/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/plumbing-services-marietta-ga/
+3. painters marietta ga | searches/mo 1,100 (est) | CPC $13.74 | value $15,000 | Google Ads equiv $960/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/painters-marietta-ga/
+4. moving company marietta ga | searches/mo 3,800 (est) | CPC $12.41 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-marietta-ga/
+5. electrician marietta ga | searches/mo 4,700 (est) | CPC $12.18 | value $57,000 | Google Ads equiv $3,600/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/electrician-marietta-ga/
+6. plumber marietta ga | searches/mo 16,000 (est) | CPC $12.04 | value $190,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/plumber-marietta-ga/
+7. roofing contractor marietta ga | searches/mo 2,600 (est) | CPC $11.79 | value $31,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-marietta-ga/
+8. roofer marietta ga | searches/mo 940 (est) | CPC $10.70 | value $10,000 | Google Ads equiv $640/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/roofer-marietta-ga/
+9. attorney marietta ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/attorney-marietta-ga/
+10. lawyer marietta ga | searches/mo 940 (est) | CPC $9.87 | value $9,300 | Google Ads equiv $550/mo | our featured min $100/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/lawyer-marietta-ga/
+11. landscaping marietta ga | searches/mo 3,800 (est) | CPC $8.76 | value $33,000 | Google Ads equiv $2,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/landscaping-marietta-ga/
+12. window repair marietta ga | searches/mo 760 (est) | CPC $8.76 | value $6,700 | Google Ads equiv $420/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/window-repair-marietta-ga/
+13. window replacement marietta ga | searches/mo 4,200 (est) | CPC $8.76 | value $37,000 | Google Ads equiv $2,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/window-replacement-marietta-ga/
+14. exterminator marietta ga | searches/mo 2,600 (est) | CPC $8.33 | value $22,000 | Google Ads equiv $1,400/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/exterminator-marietta-ga/
+15. flooring companies marietta ga | searches/mo 340 (est) | CPC $8.33 | value $2,800 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-marietta-ga/
+
+## By value (searches x CPC)
+1. massage marietta ga | searches/mo 95,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $440,000 | Google Ads equiv $25,000/mo | our featured min $50/mo | registry competitors 12 | https://dingalinged-cpu.github.io/registry/k/massage-marietta-ga/
+2. urgent care marietta ga | searches/mo 52,000 (est) | CPC $4.76 | value $250,000 | Google Ads equiv $17,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/urgent-care-marietta-ga/
+3. plumber marietta ga | searches/mo 16,000 (est) | CPC $12.04 | value $190,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/plumber-marietta-ga/
+4. dentist marietta ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 25 | https://dingalinged-cpu.github.io/registry/k/dentist-marietta-ga/
+5. car wash marietta ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 15 | https://dingalinged-cpu.github.io/registry/k/car-wash-marietta-ga/
+6. oil change marietta ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/oil-change-marietta-ga/
+7. gym marietta ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 23 | https://dingalinged-cpu.github.io/registry/k/gym-marietta-ga/
+8. electrician marietta ga | searches/mo 4,700 (est) | CPC $12.18 | value $57,000 | Google Ads equiv $3,600/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/electrician-marietta-ga/
+9. mechanic marietta ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 77 | https://dingalinged-cpu.github.io/registry/k/mechanic-marietta-ga/
+10. movers marietta ga | searches/mo 5,700 (est) | CPC $8.23 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-marietta-ga/
+11. moving company marietta ga | searches/mo 3,800 (est) | CPC $12.41 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-marietta-ga/
+12. tire shop marietta ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/tire-shop-marietta-ga/
+13. vet marietta ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 15 | https://dingalinged-cpu.github.io/registry/k/vet-marietta-ga/
+14. dog groomer marietta ga | searches/mo 8,500 (est) | CPC $4.06 | value $35,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-marietta-ga/
+15. landscaping marietta ga | searches/mo 3,800 (est) | CPC $8.76 | value $33,000 | Google Ads equiv $2,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/landscaping-marietta-ga/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

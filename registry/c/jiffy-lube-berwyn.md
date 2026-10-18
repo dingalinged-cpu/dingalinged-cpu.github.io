@@ -13,6 +13,7 @@ Jiffy Lube is an auto repair shop in Berwyn, IL at 6930 West Cermak Road, Berwyn
 - Website: https://www.jiffylube.com/locations/il/berwyn/279
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

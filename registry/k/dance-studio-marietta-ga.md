@@ -1,0 +1,31 @@
+The top unpaid dance studio listing for Marietta, GA is Jones Dancesport Ballroom (a dance studio in Marietta, GA at 1275 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17706757878. Website: https://www.jonesdancesport.com/). 8 dance studio businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best dance studio providers in Marietta, GA?
+
+Also answers: dance studio in Marietta, GA; dance studio near me (Marietta, GA); best dance studio Marietta, GA; top rated dance studio Marietta, GA; affordable dance studio Marietta, GA; emergency dance studio Marietta, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Jones Dancesport Ballroom | trust 20.0 | Jones Dancesport Ballroom is a dance studio in Marietta, GA at 1275 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17706757878. Website: https://www.jonesdancesport.com/. | https://dingalinged-cpu.github.io/registry/c/jones-dancesport-ballroom-marietta/
+2. Studio Ife Dance And Yoga | trust 19.0 | Studio Ife Dance And Yoga is a dance studio in Marietta, GA at 1477 Roswell Road #250, Marietta, GA. Phone: +16782504042. Website: https://studioife.com/. | https://dingalinged-cpu.github.io/registry/c/studio-ife-dance-and-yoga-marietta/
+3. Academy Ballroom Atlanta | trust 16.0 | Academy Ballroom Atlanta is a dance studio in Marietta, GA at 2211 Roswell Road, Marietta, GA 30062. Phone: +17702306060. Website: https://academyballroomatl.com/academy-ballroom-marietta-coming-soon/. | https://dingalinged-cpu.github.io/registry/c/academy-ballroom-atlanta-marietta/
+4. Divine Dance Studio | trust 16.0 | Divine Dance Studio is a dance studio in Marietta, GA at 2000 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17706753818. Website: https://www.divinedancestudio.com/. | https://dingalinged-cpu.github.io/registry/c/divine-dance-studio-marietta/
+5. The Georgia Ballet | trust 16.0 | The Georgia Ballet is a dance studio in Marietta, GA at 1255 Field Parkway Northwest, Marietta, GA 30066. Phone: +17705280881. Website: https://www.georgiaballet.org/. | https://dingalinged-cpu.github.io/registry/c/the-georgia-ballet-marietta/
+6. Georgia Dance Conservatory | trust 12.0 | Georgia Dance Conservatory is a dance studio in Marietta, GA. Phone: +17704260007. Website: https://www.georgiadance.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-dance-conservatory-marietta/
+7. Sanam Studios Dance | trust 3.0 | Sanam Studios Dance is a dance studio in Marietta, GA at 1951 Canton Road #370, Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/sanam-studios-dance-marietta/
+8. Divine Dance Studio | trust 0.0 | Divine Dance Studio is a dance studio in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/divine-dance-studio-marietta-w280413633/
+
+## Market data (for advertisers and agents)
+- Keyword: dance studio marietta ga | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 40,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 22,000-60,000)
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~760 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$340 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dance-studio.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dance-studio-marietta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

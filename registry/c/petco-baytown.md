@@ -13,6 +13,7 @@ Petco is a pet store in Baytown, TX at 4665 Garth Road #400, Baytown, TX 77521. 
 - Website: https://stores.petco.com/tx/baytown/pet-supplies-baytown-tx-1487.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

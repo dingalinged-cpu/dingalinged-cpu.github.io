@@ -13,6 +13,7 @@ Prime Cut Hair Designs is a hair salon in Houston, TX at 6060 Richmond Avenue #2
 - Website: https://primecuthairdesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-16:00; Sa 09:00-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

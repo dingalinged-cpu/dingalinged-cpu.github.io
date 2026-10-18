@@ -13,6 +13,7 @@ Petco is a pet store in Saint Francis, WI at 4698 South Whitnall Avenue #2, Sain
 - Website: https://stores.petco.com/wi/st-francis/pet-supplies-st-francis-wi-1698.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+- Registry Score: 49.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

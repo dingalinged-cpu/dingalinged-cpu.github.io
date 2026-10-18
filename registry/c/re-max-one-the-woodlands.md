@@ -13,6 +13,7 @@ RE/MAX ONE is a real estate agency in The Woodlands, TX. Website: https://one-an
 - Website: https://one-and-spring-the-woodlands-tx.remax.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

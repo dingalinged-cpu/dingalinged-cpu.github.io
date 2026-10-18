@@ -13,6 +13,7 @@ ARC Chiropractic is a chiropractor in Buffalo Grove, IL at 1176 McHenry Road, Bu
 - Website: https://www.zocdoc.com/professional/john-cress-dc-327467?LocIdent=lo_JLouWcXqPUinbyG_kmxgYh
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 7:00-19:00; Sa 7:00-15:00; Su 8:00-15:00
+- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

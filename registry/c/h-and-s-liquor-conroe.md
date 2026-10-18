@@ -13,6 +13,7 @@ H&S Liquor is a liquor store in Conroe, TX at 1900 North Frazier Street #A, Conr
 - Website: n/a
 - Email: hsliquor61@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

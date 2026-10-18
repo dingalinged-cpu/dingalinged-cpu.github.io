@@ -13,6 +13,7 @@ Smile Time Dentistry - DeSoto is a dentist in DeSoto, TX at 2801 Duke of Glouces
 - Website: https://www.smiletimedentistry.com/
 - Email: smiletimedentistrydesoto@gmail.com
 - Opening hours (OSM syntax): Mo 08:30-17:00; Tu 10:00-19:00; We 08:30-13:00; Th 08:30-17:00
+- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

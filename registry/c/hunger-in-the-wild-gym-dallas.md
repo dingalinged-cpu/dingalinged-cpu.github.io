@@ -13,6 +13,7 @@ Hunger in the Wild Gym is a gym in Dallas, TX at 1350 Manufacturing Street #204,
 - Website: https://hungerinthewild.com/
 - Email: info@hungerinthewild.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

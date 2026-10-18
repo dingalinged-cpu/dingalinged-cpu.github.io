@@ -13,6 +13,7 @@ Legacy Funeral Home - West Chapel is a funeral home in Saint Paul, MN at 255 Eat
 - Website: https://www.legacyfh.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

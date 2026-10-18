@@ -13,6 +13,7 @@ The Chill Brothers is a HVAC contractor in Spring, TX at 6465 FM 2920, Spring, T
 - Website: https://thechillbrothers.com/
 - Email: hello@thechillbrothers.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

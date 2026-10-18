@@ -13,6 +13,7 @@ Shine Chiropractic is a chiropractor in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 08:00-12:00,14:00-18:00; Th,Sa-Su closed; PH closed
+- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

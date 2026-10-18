@@ -13,6 +13,7 @@ The Bar Method Southlake is a yoga studio in Southlake, TX at 2211 East Southlak
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:30-20:00; Fr 05:30-13:30; Sa 08:15-13:00
+- Registry Score: 59.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

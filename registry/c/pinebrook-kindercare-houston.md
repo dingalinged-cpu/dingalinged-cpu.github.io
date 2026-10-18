@@ -13,6 +13,7 @@ Pinebrook KinderCare is a daycare in Houston, TX at 4422 Clear Lake City Bouleva
 - Website: https://www.kindercare.com/our-centers/houston/tx/000584/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

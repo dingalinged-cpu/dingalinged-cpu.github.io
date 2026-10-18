@@ -13,6 +13,7 @@ UFC Gym is a gym in Chicago, IL at 3519 North Clark Street #C201, Chicago, IL 60
 - Website: https://www.ufcgym.com/locations/chicago-wrigleyville/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

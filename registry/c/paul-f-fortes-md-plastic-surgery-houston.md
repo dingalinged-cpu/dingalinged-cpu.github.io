@@ -13,6 +13,7 @@ Paul F. Fortes MD Plastic Surgery is a plastic surgeon in Houston, TX at 12727 K
 - Website: https://fortesmd.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-16:00, Fr 09:00-15:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

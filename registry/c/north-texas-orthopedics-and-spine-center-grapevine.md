@@ -13,6 +13,7 @@ North Texas Orthopedics & Spine Center is an orthopedic surgeon in Grapevine, TX
 - Website: https://www.ntxortho.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-16:00
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

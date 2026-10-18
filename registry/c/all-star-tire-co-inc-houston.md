@@ -13,6 +13,7 @@ All-Star Tire Co., Inc. is a tire shop in Houston, TX at 619C Broadway Street, H
 - Website: https://all-startire.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

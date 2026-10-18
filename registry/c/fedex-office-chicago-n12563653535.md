@@ -13,6 +13,7 @@ FedEx Office is a printing service in Chicago, IL at 540 North Michigan Avenue, 
 - Website: https://local.fedex.com/en-us/il/chicago/office-3637
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

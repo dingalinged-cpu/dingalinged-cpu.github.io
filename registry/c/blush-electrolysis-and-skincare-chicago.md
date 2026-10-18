@@ -13,6 +13,7 @@ Blush Electrolysis & Skincare is a skin care studio in Chicago, IL at 2445 West 
 - Website: https://www.blushinc.net/
 - Email: blush@sbcglobal.net
 - Opening hours (OSM syntax): Mo 10:00-20:00; Tu-Th 09:00-20:00; Fr 08:00-15:00; Sa 08:00-17:00; Su 08:30-13:00
+- Registry Score: 66.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

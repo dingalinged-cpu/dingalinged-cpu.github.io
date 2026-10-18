@@ -13,6 +13,7 @@ Circle D Transmission is an auto repair shop in Houston, TX at 13706 Hempstead R
 - Website: https://circledtrans.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

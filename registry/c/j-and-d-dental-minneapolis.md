@@ -13,6 +13,7 @@ J&D Dental is a dentist in Minneapolis, MN at 109 South 7th Street #133, Minneap
 - Website: https://www.jandddental.com/
 - Email: info@jandddental.com
 - Opening hours (OSM syntax): Mo-We 07:00-17:00; Th 07:00-15:30
+- Registry Score: 64/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

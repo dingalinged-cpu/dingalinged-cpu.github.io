@@ -13,6 +13,7 @@ The Learning Experience - Cypress Northpointe is a daycare in Cypress, TX at 179
 - Website: https://thelearningexperience.com/centers/cypress-northpointe/
 - Email: cypress-northpointe@tlechildcare.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Liberty Tax is a tax preparation service in Hales Corners, WI at 5307 South 108t
 - Website: https://www.libertytax.com/income-tax-preparation-locations/wisconsin/hales-corners/16367
 - Email: office16367@libertytax.com
 - Opening hours (OSM syntax): we 10:00-18:00
+- Registry Score: 52.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

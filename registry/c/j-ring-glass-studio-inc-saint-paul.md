@@ -13,6 +13,7 @@ J Ring Glass Studio, Inc. is a window repair service in Saint Paul, MN at 1902 M
 - Website: https://www.jringglass.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:30; Sa 10:00-14:00
+- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Primary Care Simplified – Dr. Rachael McCracken, D.O. is a family medicine pra
 - Website: https://primarycaresimplified.com/
 - Email: hello@primarycaresimplified.com
 - Opening hours (OSM syntax): Mo-We,Fr 09:00-17:00; Th 12:00-17:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

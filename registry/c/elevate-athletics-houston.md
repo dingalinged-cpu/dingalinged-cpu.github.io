@@ -13,6 +13,7 @@ Elevate Athletics is a gym in Houston, TX at 5909B Beverly Hill Street, Houston,
 - Website: https://www.elevate-athletics.com/
 - Email: info@elevate-athletics.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

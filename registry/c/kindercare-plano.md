@@ -13,6 +13,7 @@ KinderCare is a preschool in Plano, TX at 6900 Preston Meadow Drive, Plano, TX 7
 - Website: https://www.kindercare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
+- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

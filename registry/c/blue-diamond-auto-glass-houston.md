@@ -13,6 +13,7 @@ Blue Diamond Auto Glass is an auto repair shop in Houston, TX at 9850 Westpark D
 - Website: https://bluediamondautoglass.com/
 - Email: info@bluediamondautoglass.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

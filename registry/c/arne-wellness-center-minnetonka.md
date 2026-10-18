@@ -13,6 +13,7 @@ Arne Wellness Center is a chiropractor in Minnetonka, MN at 13911 Ridgedale Driv
 - Website: https://www.arnewellness.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 11:00-19:00; Fr-Sa 08:00-14:00
+- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

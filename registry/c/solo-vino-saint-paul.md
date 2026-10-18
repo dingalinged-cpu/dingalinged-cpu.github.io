@@ -13,6 +13,7 @@ Solo Vino is a liquor store in Saint Paul, MN at 517 Selby Avenue, Saint Paul, M
 - Website: https://www.solovinowines.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

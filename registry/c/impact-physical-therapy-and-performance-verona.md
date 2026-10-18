@@ -1,0 +1,24 @@
+Impact Physical Therapy & Performance is a physical therapy clinic in Verona, WI at 1155 Clarity Street #Suite 201, Verona, WI 53593. Phone: +16082845287. Website: https://www.impactptmsn.com/.
+
+# Impact Physical Therapy & Performance
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 1155 Clarity Street #Suite 201, Verona, WI 53593
+- City: Verona
+- State: WI
+- ZIP: 53593
+- Coordinates: 42.9749562, -89.5048306
+- Phone: +16082845287
+- Website: https://www.impactptmsn.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/impact-physical-therapy-and-performance-verona/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/impact-physical-therapy-and-performance-verona.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9203105402 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

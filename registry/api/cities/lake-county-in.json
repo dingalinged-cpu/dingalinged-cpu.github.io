@@ -1,0 +1,45 @@
+{
+ "place": "Lake County, IN",
+ "slug": "lake-county-in",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "car wash lake county in",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-lake-county-in.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "speedy-wash-lake-county",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Lake County, IN.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-lake-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-lake-county.json",
+   "address": {
+    "addressLocality": "Lake County",
+    "addressRegion": "IN",
+    "addressCountry": "US"
+   },
+   "city": "Lake County",
+   "state": "IN",
+   "geo": {
+    "lat": 41.4360638,
+    "lon": -87.5165155
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1364848839",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

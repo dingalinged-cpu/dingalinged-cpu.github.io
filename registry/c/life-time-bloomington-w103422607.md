@@ -13,6 +13,7 @@ Life Time is a gym in Bloomington, MN at 5250 West 84th Street, Bloomington, MN 
 - Website: https://www.lifetime.life/life-time-locations/mn-bloomington-north.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

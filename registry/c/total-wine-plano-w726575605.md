@@ -13,6 +13,7 @@ Total Wine is a liquor store in Plano, TX at 8700 Preston Road #113, Plano, TX 7
 - Website: https://www.totalwine.com/store-info/506
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

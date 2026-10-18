@@ -1,0 +1,58 @@
+Keyword market for Roswell, GA: 78 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Atlanta-Sandy Springs-Roswell, GA metro (US volume x population share).
+
+# Top keywords in Roswell, GA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage roswell ga | searches/mo 95,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $440,000 | Google Ads equiv $25,000/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/massage-roswell-ga/
+2. car wash roswell ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/car-wash-roswell-ga/
+3. dentist roswell ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/dentist-roswell-ga/
+4. gym roswell ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 18 | https://dingalinged-cpu.github.io/registry/k/gym-roswell-ga/
+5. oil change roswell ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-roswell-ga/
+6. hair salon roswell ga | searches/mo 28,000 (est) | CPC $0.55 | value $15,000 | Google Ads equiv $880/mo | our featured min $50/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/hair-salon-roswell-ga/
+7. nail salon roswell ga | searches/mo 19,000 (est) | CPC $0.61 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/nail-salon-roswell-ga/
+8. plumber roswell ga | searches/mo 16,000 (est) | CPC $12.04 | value $190,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumber-roswell-ga/
+9. mechanic roswell ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 21 | https://dingalinged-cpu.github.io/registry/k/mechanic-roswell-ga/
+10. tire shop roswell ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/tire-shop-roswell-ga/
+11. vet roswell ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/vet-roswell-ga/
+12. dog groomer roswell ga | searches/mo 8,500 (est) | CPC $4.06 | value $35,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-roswell-ga/
+13. haircut roswell ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/haircut-roswell-ga/
+14. auto repair roswell ga | searches/mo 5,700 (est) | CPC $4.35 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 21 | https://dingalinged-cpu.github.io/registry/k/auto-repair-roswell-ga/
+15. chiropractor roswell ga | searches/mo 4,700 (est) | CPC $4.76 | value $22,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/chiropractor-roswell-ga/
+
+## By CPC
+1. hvac repair roswell ga | searches/mo 1,400 (est) | CPC $17.76 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-roswell-ga/
+2. plumbing services roswell ga | searches/mo 940 (est) | CPC $13.90 | value $13,000 | Google Ads equiv $830/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumbing-services-roswell-ga/
+3. painters roswell ga | searches/mo 1,100 (est) | CPC $13.74 | value $15,000 | Google Ads equiv $960/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/painters-roswell-ga/
+4. plumber roswell ga | searches/mo 16,000 (est) | CPC $12.04 | value $190,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumber-roswell-ga/
+5. attorney roswell ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/attorney-roswell-ga/
+6. lawyer roswell ga | searches/mo 940 (est) | CPC $9.87 | value $9,300 | Google Ads equiv $550/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/lawyer-roswell-ga/
+7. landscaping roswell ga | searches/mo 3,800 (est) | CPC $8.76 | value $33,000 | Google Ads equiv $2,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/landscaping-roswell-ga/
+8. architect roswell ga | searches/mo 760 (est) | CPC $8.33 | value $6,300 | Google Ads equiv $400/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/architect-roswell-ga/
+9. heating and air roswell ga | searches/mo 68.00 (est) | CPC $8.33 | value $570 | Google Ads equiv $36.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-roswell-ga/
+10. locksmith roswell ga | searches/mo 4,700 (est) | CPC $8.33 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-roswell-ga/
+11. plumbers roswell ga | searches/mo 68.00 (est) | CPC $8.33 | value $570 | Google Ads equiv $36.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumbers-roswell-ga/
+12. storage units roswell ga | searches/mo 4,200 (est) | CPC $8.33 | value $35,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/storage-units-roswell-ga/
+13. bakery roswell ga | searches/mo 4,200 (est) | CPC $7.17 | value $30,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/bakery-roswell-ga/
+14. event venues roswell ga | searches/mo 4,200 (est) | CPC $7.17 | value $30,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/event-venues-roswell-ga/
+15. florist roswell ga | searches/mo 4,200 (est) | CPC $7.17 | value $30,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-roswell-ga/
+
+## By value (searches x CPC)
+1. massage roswell ga | searches/mo 95,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $440,000 | Google Ads equiv $25,000/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/massage-roswell-ga/
+2. plumber roswell ga | searches/mo 16,000 (est) | CPC $12.04 | value $190,000 | Google Ads equiv $12,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/plumber-roswell-ga/
+3. dentist roswell ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 9 | https://dingalinged-cpu.github.io/registry/k/dentist-roswell-ga/
+4. car wash roswell ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/car-wash-roswell-ga/
+5. oil change roswell ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-roswell-ga/
+6. gym roswell ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 18 | https://dingalinged-cpu.github.io/registry/k/gym-roswell-ga/
+7. mechanic roswell ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 21 | https://dingalinged-cpu.github.io/registry/k/mechanic-roswell-ga/
+8. tire shop roswell ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/tire-shop-roswell-ga/
+9. vet roswell ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/vet-roswell-ga/
+10. locksmith roswell ga | searches/mo 4,700 (est) | CPC $8.33 | value $39,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-roswell-ga/
+11. dog groomer roswell ga | searches/mo 8,500 (est) | CPC $4.06 | value $35,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-roswell-ga/
+12. landscaping roswell ga | searches/mo 3,800 (est) | CPC $8.76 | value $33,000 | Google Ads equiv $2,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/landscaping-roswell-ga/
+13. haircut roswell ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 14 | https://dingalinged-cpu.github.io/registry/k/haircut-roswell-ga/
+14. auto repair roswell ga | searches/mo 5,700 (est) | CPC $4.35 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 21 | https://dingalinged-cpu.github.io/registry/k/auto-repair-roswell-ga/
+15. hvac repair roswell ga | searches/mo 1,400 (est) | CPC $17.76 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-roswell-ga/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

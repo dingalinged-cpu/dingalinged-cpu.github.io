@@ -13,6 +13,7 @@ Spec's is a liquor store in Sachse, TX at 4205 President George Bush Highway, Sa
 - Website: https://specsonline.com/liquor-stores/dallas/sachse-gwb/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su off; Dec 25 off; Jan 01 off; Nov Th[4] off; PH "https://specsonline.com/liquor-stores/dallas/sachse-gwb/"
+- Registry Score: 51.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

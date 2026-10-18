@@ -1,0 +1,24 @@
+Ellestad Camacho Funeral Home is a funeral home in Black Earth, WI at 1710 Center Street, Black Earth, WI 53515.
+
+# Ellestad Camacho Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: 1710 Center Street, Black Earth, WI 53515
+- City: Black Earth
+- State: WI
+- ZIP: 53515
+- Coordinates: 43.1331202, -89.7469901
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ellestad-camacho-funeral-home-black-earth/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ellestad-camacho-funeral-home-black-earth.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3833385363 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

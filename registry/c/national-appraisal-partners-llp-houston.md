@@ -13,6 +13,7 @@ National Appraisal Partners LLP is a real estate agency in Houston, TX at 3203 E
 - Website: https://www.napllp.com/
 - Email: info@napllp.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

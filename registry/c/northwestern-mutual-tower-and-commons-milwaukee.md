@@ -13,6 +13,7 @@ Northwestern Mutual Tower and Commons is an insurance agent in Milwaukee, WI at 
 - Website: https://www.northwesternmutual.com/about-us/what-we-believe/we-believe-in-milwaukee/building-the-future
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

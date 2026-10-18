@@ -13,6 +13,7 @@ Barbers is a hair salon in Woodridge, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 09:30-19:00; Su,Mo off
+- Registry Score: 54.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

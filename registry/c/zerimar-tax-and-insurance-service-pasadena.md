@@ -13,6 +13,7 @@ Zerimar Tax & Insurance Service is an insurance agent in Pasadena, TX at 301 Vis
 - Website: https://www.zerimartax.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

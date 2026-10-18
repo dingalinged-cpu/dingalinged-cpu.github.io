@@ -13,6 +13,7 @@ Yucheng Foot Spa is a massage studio in Naperville, IL at 1017 West Ogden Avenue
 - Website: https://yuchengspa.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:30-21:30
+- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Plumbers Local 68 is a plumber in Houston, TX at 502 Link Road, Houston, TX 7700
 - Website: https://www.plu68.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

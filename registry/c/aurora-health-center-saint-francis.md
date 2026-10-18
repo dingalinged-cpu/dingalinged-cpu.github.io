@@ -13,6 +13,7 @@ Aurora Health Center is a chiropractor in Saint Francis, WI at 2000 East Layton 
 - Website: https://care.aurorahealthcare.org/locations/aurora-health-center-st-francis
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Essential Information Technologies is an IT support company in Pearland, TX at 3
 - Website: https://essential-it.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ FedEx Office is a printing service in Wauwatosa, WI at 829 North Mayfair Road, W
 - Website: https://local.fedex.com/en-us/wi/milwaukee/office-0436?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT
 - Email: usa0436@fedex.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00, Sa 09:00-18:00, Su 12:00-18:00
+- Registry Score: 51/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

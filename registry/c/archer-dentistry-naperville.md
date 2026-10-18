@@ -13,6 +13,7 @@ Archer Dentistry is a dentist in Naperville, IL at 1568 West Ogden Avenue #108, 
 - Website: https://www.archerdentistrynaperville.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

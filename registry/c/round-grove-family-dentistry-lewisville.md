@@ -13,6 +13,7 @@ Round Grove Family Dentistry is a dentist in Lewisville, TX. Phone: +14697022560
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th-Sa 09:00-19:00, Sa 09:00-18:00
+- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

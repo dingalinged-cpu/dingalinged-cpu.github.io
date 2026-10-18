@@ -1,0 +1,24 @@
+Kiwi Salon Hair Color & Design Specialists is a hair salon in Cobb County, GA at 3768 Canton Road Northeast, Cobb County, GA. Phone: +17709248010. Website: https://m.facebook.com/people/Kiwi-Salon-Hair-Color-Design-Specialists/100054644581470/.
+
+# Kiwi Salon Hair Color & Design Specialists
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3768 Canton Road Northeast, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0433987, -84.5288647
+- Phone: +17709248010
+- Website: https://m.facebook.com/people/Kiwi-Salon-Hair-Color-Design-Specialists/100054644581470/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-17:00; Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/kiwi-salon-hair-color-and-design-specialists-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kiwi-salon-hair-color-and-design-specialists-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10817221573 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

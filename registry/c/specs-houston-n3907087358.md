@@ -13,6 +13,7 @@ Spec's is a liquor store in Houston, TX at 5130 Richmond Avenue, Houston, TX 770
 - Website: https://specsonline.com/location/galleria/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

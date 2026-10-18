@@ -13,6 +13,7 @@ Near North Animal Hospital is a veterinarian in Chicago, IL at 1207 North Wells 
 - Website: https://www.nearnorthanimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-19:30; We 08:00-18:00; Th 08:00-19:30; Fr 08:00-18:00; Sa 08:00-16:00
+- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

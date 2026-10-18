@@ -13,6 +13,7 @@ MAC Speed & Strength is a gym in Plano, TX at 3645 Dallas Parkway #599, Plano, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

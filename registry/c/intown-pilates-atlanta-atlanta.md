@@ -1,0 +1,24 @@
+Intown Pilates Atlanta is a pilates studio in Atlanta, GA at 550 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +14045752333.
+
+# Intown Pilates Atlanta
+
+- Category: pilates
+- Services: pilates
+- Address: 550 Amsterdam Avenue Northeast, Atlanta, GA
+- City: Atlanta
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.7888777, -84.3697638
+- Phone: +14045752333
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/intown-pilates-atlanta-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/intown-pilates-atlanta-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13472662104 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

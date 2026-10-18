@@ -1,0 +1,58 @@
+Keyword market for Acworth, GA: 42 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Atlanta-Sandy Springs-Roswell, GA metro (US volume x population share).
+
+# Top keywords in Acworth, GA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage acworth ga | searches/mo 95,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $440,000 | Google Ads equiv $25,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/massage-acworth-ga/
+2. car wash acworth ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-acworth-ga/
+3. dentist acworth ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-acworth-ga/
+4. hair salon acworth ga | searches/mo 28,000 (est) | CPC $0.55 | value $15,000 | Google Ads equiv $880/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/hair-salon-acworth-ga/
+5. nail salon acworth ga | searches/mo 19,000 (est) | CPC $0.61 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/nail-salon-acworth-ga/
+6. mechanic acworth ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/mechanic-acworth-ga/
+7. tire shop acworth ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-acworth-ga/
+8. vet acworth ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-acworth-ga/
+9. haircut acworth ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-acworth-ga/
+10. auto repair acworth ga | searches/mo 5,700 (est) | CPC $4.35 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/auto-repair-acworth-ga/
+11. chiropractor acworth ga | searches/mo 4,700 (est) | CPC $4.76 | value $22,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-acworth-ga/
+12. dog boarding acworth ga | searches/mo 4,700 (est) | CPC $4.06 | value $19,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-acworth-ga/
+13. financial advisor acworth ga | searches/mo 4,700 (est) | CPC $3.39 | value $16,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-acworth-ga/
+14. real estate agent acworth ga | searches/mo 3,800 (est) | CPC $3.61 | value $14,000 | Google Ads equiv $1,100/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-acworth-ga/
+15. roofing contractor acworth ga | searches/mo 2,600 (est) | CPC $11.79 | value $31,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-acworth-ga/
+
+## By CPC
+1. hvac repair acworth ga | searches/mo 1,400 (est) | CPC $17.76 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-acworth-ga/
+2. roofing contractor acworth ga | searches/mo 2,600 (est) | CPC $11.79 | value $31,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-acworth-ga/
+3. roofer acworth ga | searches/mo 940 (est) | CPC $10.70 | value $10,000 | Google Ads equiv $640/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofer-acworth-ga/
+4. attorney acworth ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-acworth-ga/
+5. lawyer acworth ga | searches/mo 940 (est) | CPC $9.87 | value $9,300 | Google Ads equiv $550/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-acworth-ga/
+6. heating and air acworth ga | searches/mo 68.00 (est) | CPC $8.33 | value $570 | Google Ads equiv $36.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/heating-and-air-acworth-ga/
+7. storage units acworth ga | searches/mo 4,200 (est) | CPC $8.33 | value $35,000 | Google Ads equiv $2,200/mo | our featured min $50/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/storage-units-acworth-ga/
+8. event venues acworth ga | searches/mo 4,200 (est) | CPC $7.17 | value $30,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/event-venues-acworth-ga/
+9. dance studio acworth ga | searches/mo 760 (est) | CPC $6.17 | value $4,700 | Google Ads equiv $340/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dance-studio-acworth-ga/
+10. martial arts acworth ga | searches/mo 5,700 (est) | CPC $6.17 | value $35,000 | Google Ads equiv $2,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/martial-arts-acworth-ga/
+11. tax preparer acworth ga | searches/mo 1,100 (est) | CPC $5.87 | value $6,500 | Google Ads equiv $360/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-acworth-ga/
+12. preschool acworth ga | searches/mo 4,200 (est) | CPC $4.81 | value $20,000 | Google Ads equiv $1,200/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/preschool-acworth-ga/
+13. chiropractor acworth ga | searches/mo 4,700 (est) | CPC $4.76 | value $22,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-acworth-ga/
+14. family doctor acworth ga | searches/mo 630 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/family-doctor-acworth-ga/
+15. orthopedic surgeon acworth ga | searches/mo 630 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/orthopedic-surgeon-acworth-ga/
+
+## By value (searches x CPC)
+1. massage acworth ga | searches/mo 95,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $440,000 | Google Ads equiv $25,000/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/massage-acworth-ga/
+2. dentist acworth ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-acworth-ga/
+3. car wash acworth ga | searches/mo 35,000 (est) | CPC $4.35 | value $150,000 | Google Ads equiv $8,500/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/car-wash-acworth-ga/
+4. mechanic acworth ga | searches/mo 13,000 (est) | CPC $4.35 | value $57,000 | Google Ads equiv $3,100/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/mechanic-acworth-ga/
+5. tire shop acworth ga | searches/mo 10,000 (est) | CPC $4.35 | value $44,000 | Google Ads equiv $2,400/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/tire-shop-acworth-ga/
+6. vet acworth ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-acworth-ga/
+7. haircut acworth ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-acworth-ga/
+8. roofing contractor acworth ga | searches/mo 2,600 (est) | CPC $11.79 | value $31,000 | Google Ads equiv $2,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/roofing-contractor-acworth-ga/
+9. auto repair acworth ga | searches/mo 5,700 (est) | CPC $4.35 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/auto-repair-acworth-ga/
+10. hvac repair acworth ga | searches/mo 1,400 (est) | CPC $17.76 | value $25,000 | Google Ads equiv $1,600/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/hvac-repair-acworth-ga/
+11. chiropractor acworth ga | searches/mo 4,700 (est) | CPC $4.76 | value $22,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/chiropractor-acworth-ga/
+12. dog boarding acworth ga | searches/mo 4,700 (est) | CPC $4.06 | value $19,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-acworth-ga/
+13. financial advisor acworth ga | searches/mo 4,700 (est) | CPC $3.39 | value $16,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-acworth-ga/
+14. hair salon acworth ga | searches/mo 28,000 (est) | CPC $0.55 | value $15,000 | Google Ads equiv $880/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/hair-salon-acworth-ga/
+15. attorney acworth ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-acworth-ga/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

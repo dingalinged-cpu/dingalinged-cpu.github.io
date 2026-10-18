@@ -13,6 +13,7 @@ Fellow Advertising Agency is a marketing agency in Minneapolis, MN at 718 West 3
 - Website: https://www.fellowinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Airrosti is a physical therapy clinic in Katy, TX at 24022 Cinco Village Center 
 - Website: https://www.airrosti.com/location/Texas/CINCO/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment only"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

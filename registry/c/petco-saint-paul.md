@@ -13,6 +13,7 @@ Petco is a pet store in Saint Paul, MN at 2277 Ford Parkway, Saint Paul, MN 5511
 - Website: https://stores.petco.com/mn/st-paul/pet-supplies-st-paul-mn-626.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Registry Score: 50.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

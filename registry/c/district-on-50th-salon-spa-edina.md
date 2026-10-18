@@ -13,6 +13,7 @@ District on 50th Salon + Spa is a hair salon in Edina, MN. Website: https://www.
 - Website: https://www.thehairdistrict.com/locations/1-edina/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
+- Registry Score: 58.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

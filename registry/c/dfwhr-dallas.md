@@ -13,6 +13,7 @@ dfwHR is a staffing agency in Dallas, TX at 2001 Ross Avenue #Suite 700-161, Dal
 - Website: https://www.dfwhr.com/
 - Email: info@dfwhr.com
 - Opening hours (OSM syntax): Mo-Th 08:00-18:00, Fr 08:00-15:00
+- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

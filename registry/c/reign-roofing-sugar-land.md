@@ -13,6 +13,7 @@ Reign Roofing is a roofer in Sugar Land, TX at 19901 Southwest Freeway Frontage 
 - Website: https://www.reignroof.com/
 - Email: connor@reignroof.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

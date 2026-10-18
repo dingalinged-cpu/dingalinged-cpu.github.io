@@ -13,6 +13,7 @@ NTB is an auto repair shop in Katy, TX at 20211 Katy Freeway, Katy, TX. Website:
 - Website: https://www.ntb.com/store/tx/katy/20211-katy-fwy-77450/4485
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

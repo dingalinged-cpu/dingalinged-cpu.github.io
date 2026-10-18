@@ -13,6 +13,7 @@ Epic Chiropractic is a chiropractor in Plano, TX at 5000 Legacy Drive #310, Plan
 - Website: https://www.epicchiro.net/
 - Email: plano@epicchiro.net
 - Opening hours (OSM syntax): Mo,We,Th 08:30-14:30,15:30-18:30; Tu 08:30-11:00,15:30-18:30
+- Registry Score: 65.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

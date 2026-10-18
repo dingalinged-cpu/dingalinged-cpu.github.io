@@ -13,6 +13,7 @@ Total Wine is a liquor store in Bloomington, MN at 4200 78th Street West, Bloomi
 - Website: https://www.totalwine.com/store-info/1601
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-22:00; Su 11:00-18:00
+- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

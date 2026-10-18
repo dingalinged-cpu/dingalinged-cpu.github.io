@@ -13,6 +13,7 @@ Movement The Hill is a yoga studio in Dallas, TX at 8021 Walnut Hill Lane, Dalla
 - Website: https://movementgyms.com/the-hill/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-23:00; Sa 08:00-20:00; Su 08:00-18:00
+- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

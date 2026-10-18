@@ -13,6 +13,7 @@ The Astor Hotel Ballroom is an event venue in Milwaukee, WI. Phone: +14142834808
 - Website: https://astormilwaukee.wixsite.com/astor
 - Email: sales@theastorhotel.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

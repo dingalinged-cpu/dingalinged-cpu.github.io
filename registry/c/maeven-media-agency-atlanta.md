@@ -1,0 +1,24 @@
+Maeven Media Agency is a marketing agency in Atlanta, GA at 600 West Peachtree Street Northwest #1700, Atlanta, GA. Phone: +18888931089.
+
+# Maeven Media Agency
+
+- Category: marketing agency
+- Services: marketing agency
+- Address: 600 West Peachtree Street Northwest #1700, Atlanta, GA
+- City: Atlanta
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.7706955, -84.3880263
+- Phone: +18888931089
+- Website: n/a
+- Email: Info@maevenmediaagency.com
+- Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/maeven-media-agency-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/maeven-media-agency-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13806674780 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

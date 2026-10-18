@@ -13,6 +13,7 @@ A Promise of Hope Childcare is a daycare in Milwaukee, WI at 5330 West Lisbon Av
 - Website: https://www.wekeptourpromise.com/childcare
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-19:30; Sa,Su off
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

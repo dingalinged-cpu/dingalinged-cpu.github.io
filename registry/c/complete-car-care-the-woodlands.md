@@ -13,6 +13,7 @@ Complete Car Care is an auto repair shop in The Woodlands, TX at 8181 Kuykendahl
 - Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

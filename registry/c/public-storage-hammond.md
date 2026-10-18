@@ -13,6 +13,7 @@ Public Storage is a self-storage facility in Hammond, IN at 4015 Calumet Avenue,
 - Website: https://www.publicstorage.com/self-storage-in-hammond/1259.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

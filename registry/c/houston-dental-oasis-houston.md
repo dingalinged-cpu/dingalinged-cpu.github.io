@@ -13,6 +13,7 @@ Houston Dental Oasis is a dentist in Houston, TX at 3004 Yale Street #500, Houst
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00; Tu,Th 09:00-17:00; We 09:00-18:00; Fr 08:00-18:00; Sa 09:00-12:00 "by appointment"; PH closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

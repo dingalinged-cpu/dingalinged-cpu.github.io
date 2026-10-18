@@ -13,6 +13,7 @@ Comfort Dental Studio is a dentist in Chicago, IL at 1370 East 53rd Street, Chic
 - Website: https://www.comfortteeth.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

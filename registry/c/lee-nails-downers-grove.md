@@ -13,6 +13,7 @@ Lee Nails is a nail salon in Downers Grove, IL at 2005 West 63rd Street, Downers
 - Website: https://lee-nails-beauty-salon.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Sa 10:00-18:00; Su 11:00-17:00
+- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Law Office of Juan Tijerina is a lawyer in Arlington, TX at 1714 South Cooper St
 - Website: https://tijerinalaw.com/
 - Email: JT@TIJERINALAW.COM
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-12:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

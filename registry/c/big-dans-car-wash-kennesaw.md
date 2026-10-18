@@ -1,0 +1,24 @@
+Big Dan's Car Wash is a car wash in Kennesaw, GA at 3150 Blue Springs Road, Kennesaw, GA 30144. Phone: +17707623748. Website: https://bigdanscarwash.com/.
+
+# Big Dan's Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 3150 Blue Springs Road, Kennesaw, GA 30144
+- City: Kennesaw
+- State: GA
+- ZIP: 30144
+- Coordinates: 34.0299346, -84.6491736
+- Phone: +17707623748
+- Website: https://bigdanscarwash.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 07:30-19:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/big-dans-car-wash-kennesaw/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/big-dans-car-wash-kennesaw.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1377000178 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

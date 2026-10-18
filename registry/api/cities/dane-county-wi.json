@@ -1,0 +1,45 @@
+{
+ "place": "Dane County, WI",
+ "slug": "dane-county-wi",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "funeral home dane county wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-dane-county-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "winn-cress-funeral-home-dane-county",
+   "name": "Winn-Cress Funeral Home",
+   "summary": "Winn-Cress Funeral Home is a funeral home in Dane County, WI.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/winn-cress-funeral-home-dane-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/winn-cress-funeral-home-dane-county.json",
+   "address": {
+    "addressLocality": "Dane County",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Dane County",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1731941,
+    "lon": -89.462971
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/678803793",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

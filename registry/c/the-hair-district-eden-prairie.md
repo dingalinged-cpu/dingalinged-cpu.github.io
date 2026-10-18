@@ -13,6 +13,7 @@ The Hair District is a hair salon in Eden Prairie, MN at 12573 Castlemoor Drive,
 - Website: https://www.thehairdistrict.com/
 - Email: n/a
 - Opening hours (OSM syntax): "By appointment"
+- Registry Score: 67.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

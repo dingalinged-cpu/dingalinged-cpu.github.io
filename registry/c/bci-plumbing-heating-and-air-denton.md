@@ -13,6 +13,7 @@ BCI Plumbing, Heating and Air is a HVAC contractor in Denton, TX at 400 East Oak
 - Website: https://www.bcimechanical.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
+- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

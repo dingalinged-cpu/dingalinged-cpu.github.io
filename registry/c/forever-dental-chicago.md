@@ -13,6 +13,7 @@ Forever Dental is a dentist in Chicago, IL at 4450 South Archer Avenue, Chicago,
 - Website: https://dentistschicago.com/dentist/il/chicago/4450-s-archer-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-18:00; Tu, We 07:30-18:00; Th 07:30-19:00; Fr 07:30-13:00; Sa 08:00-13:00
+- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

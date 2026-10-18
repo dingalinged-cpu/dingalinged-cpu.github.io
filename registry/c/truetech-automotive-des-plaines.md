@@ -13,6 +13,7 @@ TrueTech Automotive is an auto repair shop in Des Plaines, IL at 797 1st Ave, De
 - Website: https://www.truetechauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Anytime Fitness is a gym in Munster, IN at 821 Main Street, Munster, IN 46321. P
 - Website: https://www.anytimefitness.com/gyms/4195/munster-in-46321/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

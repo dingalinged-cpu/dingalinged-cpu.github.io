@@ -13,6 +13,7 @@ Diehl Auto Repair is an auto repair shop in Downers Grove, IL at 660 Ogden Avenu
 - Website: https://www.diehlautorepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:30; PH closed
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

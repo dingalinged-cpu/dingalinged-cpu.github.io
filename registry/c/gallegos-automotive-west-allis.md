@@ -13,6 +13,7 @@ Gallegos Automotive is an auto repair shop in West Allis, WI at 7606 West Greenf
 - Website: n/a
 - Email: Gallegosautomotive@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su off
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

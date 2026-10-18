@@ -13,6 +13,7 @@ Carriage Glass & Detail is a car wash in Houston, TX at 900 Richmond Avenue, Hou
 - Website: https://carriageglass.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

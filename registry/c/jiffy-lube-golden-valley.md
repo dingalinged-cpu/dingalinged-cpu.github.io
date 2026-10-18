@@ -13,6 +13,7 @@ Jiffy Lube is an auto repair shop in Golden Valley, MN at 6925 Market Street, Go
 - Website: https://www.jiffylube.com/locations/mn/golden-valley/2005
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

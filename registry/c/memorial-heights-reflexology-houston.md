@@ -13,6 +13,7 @@ Memorial Heights Reflexology is a massage studio in Houston, TX at 920 Studemont
 - Website: https://memorialheightsreflexology.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-21:00, Fr-Su 10:00-21:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

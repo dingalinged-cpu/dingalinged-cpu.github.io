@@ -13,6 +13,7 @@ Behavioral Innovations is an occupational therapist in The Woodlands, TX at 8101
 - Website: https://behavioral-innovations.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

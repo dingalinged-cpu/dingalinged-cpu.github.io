@@ -13,6 +13,7 @@ Sutera Spa is a skin care studio in Flower Mound, TX. Phone: +19728995300. Websi
 - Website: https://www.suteraspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr-Sa 09:00-18:00; Tu,Th 09:00-20:00; Su 13:00-18:00
+- Registry Score: 58.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

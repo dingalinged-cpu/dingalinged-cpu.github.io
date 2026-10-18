@@ -13,6 +13,7 @@ Mighty Oak Chiropractic is a chiropractor in Saint Paul, MN at 2233 Energy Park 
 - Website: https://www.mightyoak.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-19:00; Tu 11:00-18:00; We closed; Th 09:30-18:00; Fr 09:30-13:00; Sa-Su closed
+- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

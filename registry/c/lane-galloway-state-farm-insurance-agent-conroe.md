@@ -13,6 +13,7 @@ Lane Galloway - State Farm Insurance Agent is an insurance agent in Conroe, TX a
 - Website: https://www.lanegalloway.com/
 - Email: lane@lanegalloway.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa-Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

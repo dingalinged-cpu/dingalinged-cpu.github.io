@@ -13,6 +13,7 @@ Air Source 1 Heating & Air Conditioning is a HVAC contractor in Frankfort, IL at
 - Website: https://as1air.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

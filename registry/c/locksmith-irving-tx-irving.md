@@ -13,6 +13,7 @@ Locksmith Irving TX is a locksmith in Irving, TX at 136 East Irving Boulevard, I
 - Website: https://www.irvinglocksmithtx.com/
 - Email: jessyk@Irvinglocksmithtx.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

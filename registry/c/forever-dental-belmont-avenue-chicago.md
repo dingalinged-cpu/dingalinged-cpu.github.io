@@ -13,6 +13,7 @@ Forever Dental - Belmont Avenue is a dentist in Chicago, IL at 5738 West Belmont
 - Website: https://dentistschicago.com/dentist/il/chicago/5738-w-belmont-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-16:00; Tu 08:00-14:00; We 09:00-18:00; Th 10:00-18:00; Fr-Su off
+- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

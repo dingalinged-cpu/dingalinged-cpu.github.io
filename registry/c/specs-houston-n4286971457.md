@@ -13,6 +13,7 @@ Spec's is a liquor store in Houston, TX at 1420 Kingwood Drive, Houston, TX 7733
 - Website: https://specsonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

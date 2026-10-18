@@ -13,6 +13,7 @@ Massage Cult Bodywork is a massage studio in Barrington, IL at 525 West Old Nort
 - Website: https://www.massagecult.com/
 - Email: contact@massagecult.com
 - Opening hours (OSM syntax): Tu-Sa 16:00-19:00
+- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

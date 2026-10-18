@@ -13,6 +13,7 @@ Farmers Insurance is an insurance agent in Wauconda, IL. Phone: +18475265020. We
 - Website: https://agents.farmers.com/il/wauconda/kevin-kirwan
 - Email: kkirwan@farmersagent.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa "by appointment"
+- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

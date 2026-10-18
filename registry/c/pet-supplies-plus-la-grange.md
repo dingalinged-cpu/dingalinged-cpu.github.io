@@ -13,6 +13,7 @@ Pet Supplies Plus is a pet store in La Grange, IL at 15 North La Grange Road, La
 - Website: https://www.petsuppliesplus.com/store/il/la-grange/4457-la-grange/4457
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
+- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ VCA Animal Hospital is a veterinarian in Rockwall, TX at 3010 Ridge Road, Rockwa
 - Website: https://vcahospitals.com/ridge-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-12:00
+- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

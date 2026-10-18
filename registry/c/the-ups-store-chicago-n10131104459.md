@@ -13,6 +13,7 @@ The UPS Store is a printing service in Chicago, IL at 1507 East 53rd Street, Chi
 - Website: https://locations.theupsstore.com/il/chicago/1507-e-53rd-st
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:30; Sa 09:00-17:00; Su 10:00-14:00
+- Registry Score: 50.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

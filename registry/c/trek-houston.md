@@ -13,6 +13,7 @@ Trek is a bike shop in Houston, TX at 2422 Bay Area Boulevard, Houston, TX 77058
 - Website: https://www.trekbikes.com/us/en_US/retail/clear_lake/
 - Email: clearlake@bikebarn.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

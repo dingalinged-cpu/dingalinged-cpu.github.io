@@ -13,6 +13,7 @@ Hardik Patel: Allstate Insurance is an insurance agent in Sugar Land, TX at 830 
 - Website: https://agents.allstate.com/hardik-patel-sugar-land-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa "by appointment only"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

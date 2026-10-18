@@ -13,6 +13,7 @@ PostNet is a printing service in Roanoke, TX at 1224 North US Highway 377 #Suite
 - Website: https://locations.postnet.com/tx/roanoke/1224-us-377
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:30; Sa 09:00-15:00
+- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

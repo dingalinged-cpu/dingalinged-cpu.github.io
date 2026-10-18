@@ -13,6 +13,7 @@ Pet Supplies Plus is a pet store in Oak Lawn, IL at 8717 South Ridgeland Avenue,
 - Website: https://www.petsuppliesplus.com/Store/IL/Oak-Lawn/Oak-Lawn/4101
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 42.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

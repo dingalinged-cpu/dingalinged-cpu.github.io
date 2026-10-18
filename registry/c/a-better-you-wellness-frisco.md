@@ -13,6 +13,7 @@ A Better You Wellness is a therapy practice in Frisco, TX at 5300 Town and Count
 - Website: https://abetteryouwellnessus.com/
 - Email: info@abetteryouwellnessus.com
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 16:00-22:00; We 16:00-18:00; Sa 08:00-12:00; Su 14:00-20:00
+- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

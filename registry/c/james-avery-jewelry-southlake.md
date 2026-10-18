@@ -13,6 +13,7 @@ James Avery Jewelry is a jewelry store in Southlake, TX at 1451 Main Street, Sou
 - Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=692
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

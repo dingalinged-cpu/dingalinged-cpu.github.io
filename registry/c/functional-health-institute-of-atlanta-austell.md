@@ -1,0 +1,24 @@
+Functional Health Institute of Atlanta is a chiropractor in Austell, GA at 2809 Veterans Memorial Highway Southwest, Austell, GA 30168. Phone: +17709482525. Website: https://drgatchadc.com/index.html.
+
+# Functional Health Institute of Atlanta
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 2809 Veterans Memorial Highway Southwest, Austell, GA 30168
+- City: Austell
+- State: GA
+- ZIP: 30168
+- Coordinates: 33.8123391, -84.6356524
+- Phone: +17709482525
+- Website: https://drgatchadc.com/index.html
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/functional-health-institute-of-atlanta-austell/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/functional-health-institute-of-atlanta-austell.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7178527511 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

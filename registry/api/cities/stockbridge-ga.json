@@ -1,0 +1,478 @@
+{
+ "place": "Stockbridge, GA",
+ "slug": "stockbridge-ga",
+ "count": 14,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-stockbridge-ga.json"
+  },
+  {
+   "keyword": "boutique stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/boutique-stockbridge-ga.json"
+  },
+  {
+   "keyword": "dentist stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-stockbridge-ga.json"
+  },
+  {
+   "keyword": "heating and air stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-stockbridge-ga.json"
+  },
+  {
+   "keyword": "hvac repair stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-stockbridge-ga.json"
+  },
+  {
+   "keyword": "insurance agency stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-stockbridge-ga.json"
+  },
+  {
+   "keyword": "insurance agent stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-stockbridge-ga.json"
+  },
+  {
+   "keyword": "insurance agents stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-stockbridge-ga.json"
+  },
+  {
+   "keyword": "liquor store stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-stockbridge-ga.json"
+  },
+  {
+   "keyword": "mechanic stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-stockbridge-ga.json"
+  },
+  {
+   "keyword": "storage units stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-stockbridge-ga.json"
+  },
+  {
+   "keyword": "tire shop stockbridge ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-stockbridge-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "a-plus-heating-cooling-plumbing-and-septic-stockbridge",
+   "name": "A Plus Heating Cooling, Plumbing & Septic",
+   "summary": "A Plus Heating Cooling, Plumbing & Septic is a HVAC contractor in Stockbridge, GA at 1446 Fairview Road, Stockbridge, GA 30281. Phone: +14043998744. Website: https://aplusga.net/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-plus-heating-cooling-plumbing-and-septic-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-plus-heating-cooling-plumbing-and-septic-stockbridge.json",
+   "address": {
+    "streetAddress": "1446 Fairview Road",
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "postalCode": "30281",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "zip": "30281",
+   "geo": {
+    "lat": 33.6057904,
+    "lon": -84.1965671
+   },
+   "phone": "+14043998744",
+   "website": "https://aplusga.net/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9933897803",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elegance-boutique-stockbridge",
+   "name": "Elegance Boutique",
+   "summary": "Elegance Boutique is a boutique in Stockbridge, GA at 5035 North Henry Boulevard, Stockbridge, GA 30281. Phone: +16787915966. Website: https://eleganceboutiquega.com/.",
+   "categories": [
+    "boutique"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elegance-boutique-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elegance-boutique-stockbridge.json",
+   "address": {
+    "streetAddress": "5035 North Henry Boulevard",
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "postalCode": "30281",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "zip": "30281",
+   "geo": {
+    "lat": 33.5440257,
+    "lon": -84.2427134
+   },
+   "phone": "+16787915966",
+   "website": "https://eleganceboutiquega.com/",
+   "opening_hours": "Tu-We 10:00-18:00; Th-Sa 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5883932501",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-stockbridge",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Stockbridge, GA at 1479 Hudson Bridge Road, Stockbridge, GA 30281. Phone: +17705068250. Website: https://www.expressoil.com/stores/stockbridge/ga/1545/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-stockbridge.json",
+   "address": {
+    "streetAddress": "1479 Hudson Bridge Road",
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "postalCode": "30281",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "zip": "30281",
+   "geo": {
+    "lat": 33.5034777,
+    "lon": -84.2371244
+   },
+   "phone": "+17705068250",
+   "website": "https://www.expressoil.com/stores/stockbridge/ga/1545/",
+   "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6522268859",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "a-and-h-heating-and-air-conditioning-stockbridge",
+   "name": "A&H Heating And Air Conditioning",
+   "summary": "A&H Heating And Air Conditioning is a HVAC contractor in Stockbridge, GA at 81 Brooks Drive, Stockbridge, GA 30281. Phone: +17703357832. Website: https://www.ahheatingair.com/stockbridge-hvac-company/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-and-h-heating-and-air-conditioning-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-and-h-heating-and-air-conditioning-stockbridge.json",
+   "address": {
+    "streetAddress": "81 Brooks Drive",
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "postalCode": "30281",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "zip": "30281",
+   "geo": {
+    "lat": 33.5876988,
+    "lon": -84.1634043
+   },
+   "phone": "+17703357832",
+   "website": "https://www.ahheatingair.com/stockbridge-hvac-company/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5740378204",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eagles-landing-bottle-shoppe-stockbridge",
+   "name": "Eagle's Landing Bottle Shoppe",
+   "summary": "Eagle's Landing Bottle Shoppe is a liquor store in Stockbridge, GA at 100 Eagles Landing Parkway, Stockbridge, GA 30281. Phone: +17705075093.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eagles-landing-bottle-shoppe-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eagles-landing-bottle-shoppe-stockbridge.json",
+   "address": {
+    "streetAddress": "100 Eagles Landing Parkway",
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "postalCode": "30281",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "zip": "30281",
+   "geo": {
+    "lat": 33.5189741,
+    "lon": -84.1921401
+   },
+   "phone": "+17705075093",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12219323775",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mavis-discount-tire-stockbridge",
+   "name": "Mavis Discount Tire",
+   "summary": "Mavis Discount Tire is a tire shop in Stockbridge, GA at 840 Eagles Landing Parkway, Stockbridge, GA 30281. Phone: +17705204178.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-discount-tire-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-discount-tire-stockbridge.json",
+   "address": {
+    "streetAddress": "840 Eagles Landing Parkway",
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "postalCode": "30281",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "zip": "30281",
+   "geo": {
+    "lat": 33.5134055,
+    "lon": -84.2167764
+   },
+   "phone": "+17705204178",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12219356442",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stockbridge-dental-stockbridge",
+   "name": "Stockbridge Dental",
+   "summary": "Stockbridge Dental is a dentist in Stockbridge, GA at 350 Country Club Drive #E, Stockbridge, GA 30281.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stockbridge-dental-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stockbridge-dental-stockbridge.json",
+   "address": {
+    "streetAddress": "350 Country Club Drive #E",
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "postalCode": "30281",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "zip": "30281",
+   "geo": {
+    "lat": 33.5094135,
+    "lon": -84.2198362
+   },
+   "opening_hours": "Monday 8 AM - 5 PM Tuesday 8 AM - 5 PM Wednesday 8 AM - 5 PM Thursday 8 AM - 5 PM Friday  Closed Saturday Closed Sunday  Closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12194819317",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rad-orthodontics-stockbridge",
+   "name": "Rad Orthodontics",
+   "summary": "Rad Orthodontics is a dentist in Stockbridge, GA at 125 Eagles Pointe Parkway #220, Stockbridge, GA 30281.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rad-orthodontics-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rad-orthodontics-stockbridge.json",
+   "address": {
+    "streetAddress": "125 Eagles Pointe Parkway #220",
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "postalCode": "30281",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "zip": "30281",
+   "geo": {
+    "lat": 33.5074328,
+    "lon": -84.2253328
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13039548440",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-stockbridge",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Stockbridge, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-stockbridge.json",
+   "address": {
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5545451,
+    "lon": -84.2605009
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5680183600",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-stockbridge",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Stockbridge, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-stockbridge.json",
+   "address": {
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5041917,
+    "lon": -84.2343579
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6544425781",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-stockbridge-n13956626514",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Stockbridge, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-stockbridge-n13956626514/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-stockbridge-n13956626514.json",
+   "address": {
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5491846,
+    "lon": -84.2516905
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13956626514",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "j-and-j-bottle-shop-stockbridge",
+   "name": "J & J Bottle Shop",
+   "summary": "J & J Bottle Shop is a liquor store in Stockbridge, GA.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-and-j-bottle-shop-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-and-j-bottle-shop-stockbridge.json",
+   "address": {
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5040392,
+    "lon": -84.2385939
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3736556927",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-stockbridge",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Stockbridge, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-stockbridge.json",
+   "address": {
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "geo": {
+    "lat": 33.551398,
+    "lon": -84.257736
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/949866524",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pep-boys-stockbridge",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Stockbridge, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-stockbridge/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-stockbridge.json",
+   "address": {
+    "addressLocality": "Stockbridge",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Stockbridge",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5484928,
+    "lon": -84.2519177
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/641332068",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

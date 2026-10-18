@@ -13,6 +13,7 @@ Central Bark Doggy Day Care is a dog boarding facility in Milwaukee, WI at 333 N
 - Website: https://centralbarkmkewestside.com/
 - Email: westmke@centralbarkusa.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

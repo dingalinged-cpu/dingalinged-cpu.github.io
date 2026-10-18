@@ -13,6 +13,7 @@ Basecamp Fitness is a gym in Chicago, IL at 944 West Madison Street, Chicago, IL
 - Website: https://www.basecampfitness.com/studio/chicago
 - Email: westloopil@basecampfitness.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

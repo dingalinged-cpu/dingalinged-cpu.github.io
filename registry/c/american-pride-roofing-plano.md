@@ -13,6 +13,7 @@ American Pride Roofing is a roofer in Plano, TX at 5055 W. Park Blvd. ##400, Pla
 - Website: https://americanprideroofing.com/plano-tx-roofing-company/
 - Email: Plano@AmericanPrideRoofing.com
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00
+- Registry Score: 53.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

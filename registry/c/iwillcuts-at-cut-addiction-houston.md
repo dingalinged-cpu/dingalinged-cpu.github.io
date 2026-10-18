@@ -13,6 +13,7 @@ Iwillcuts at Cut Addiction is a barber shop in Houston, TX at 2002 North Fry Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-18:00; We 10:00-19:00; Th 09:00-18:00; Fr-Sa 09:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ True Dental is a dentist in Milwaukee, WI at 613 North 36th Street #100, Milwauk
 - Website: https://www.truedentalwi.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

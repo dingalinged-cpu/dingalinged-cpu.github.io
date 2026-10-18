@@ -13,6 +13,7 @@ Kôr Fitness and Performance - KFP CrossFit is a gym in Newport, MN at 862 12th 
 - Website: https://korfitnessandperformance.com/
 - Email: admin@korfitnessandperformance.com
 - Opening hours (OSM syntax): Monday and Wednesday 5:15-7:15am, 8-10:30am, 12-1pm, 3-7pm Tuesday and Thursday 5:15-7:15am, 9:30-10:30am, 12-1pm 3-7pm Friday 5:15-7:15am, 8-10:30am, 12-1pm 4-6pm
+- Registry Score: 64.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

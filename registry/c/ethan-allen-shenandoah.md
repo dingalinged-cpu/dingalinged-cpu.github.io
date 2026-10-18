@@ -13,6 +13,7 @@ Ethan Allen is a furniture store in Shenandoah, TX at I-45, Shenandoah, TX. Phon
 - Website: https://www.ethanallen.com/on/demandware.store/Sites-ethanallen-us-Site/en_US/Stores-Details?StoreID=870
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+iRelax Spa is a massage studio in Smyrna, GA at 2429 Cobb Parkway South, Smyrna, GA 30080. Phone: +17709559347. Website: https://crc-day-spa.business.site/.
+
+# iRelax Spa
+
+- Category: massage
+- Services: massage
+- Address: 2429 Cobb Parkway South, Smyrna, GA 30080
+- City: Smyrna
+- State: GA
+- ZIP: 30080
+- Coordinates: 33.8935338, -84.4768626
+- Phone: +17709559347
+- Website: https://crc-day-spa.business.site/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 10:00-21:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/irelax-spa-smyrna/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/irelax-spa-smyrna.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6397479338 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

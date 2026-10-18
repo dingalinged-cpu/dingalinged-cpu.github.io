@@ -13,6 +13,7 @@ Munday Architects is an architect in Sugar Land, TX at 16525 Lexington Boulevard
 - Website: https://www.mundayarchitects.com/
 - Email: hmunday@mundayarchitects.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

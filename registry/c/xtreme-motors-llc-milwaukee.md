@@ -13,6 +13,7 @@ Xtreme Motors LLC is an used car dealer in Milwaukee, WI at 3505 South 76th Stre
 - Website: https://www.xtrememotorswi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-17:00; Sa 10:00-15:00; Su off
+- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Farmers Insurance is an insurance agent in Tomball, TX at 12422 Spring Cypress R
 - Website: https://agents.farmers.com/tx/tomball/laurel-jonas
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa-Su "by appointment"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

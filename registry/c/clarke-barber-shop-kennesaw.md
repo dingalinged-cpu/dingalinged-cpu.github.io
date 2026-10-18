@@ -1,0 +1,24 @@
+Clarke Barber Shop is a hair salon in Kennesaw, GA at 2770 Cobb Parkway #400, Kennesaw, GA. Phone: +17707263647. Website: https://www.clarkeshavecompany.com/barber-spa.
+
+# Clarke Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2770 Cobb Parkway #400, Kennesaw, GA
+- City: Kennesaw
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0215464, -84.6223168
+- Phone: +17707263647
+- Website: https://www.clarkeshavecompany.com/barber-spa
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Fr 11:00-06:00; Sa 09:00-05:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/clarke-barber-shop-kennesaw/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/clarke-barber-shop-kennesaw.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12081599189 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

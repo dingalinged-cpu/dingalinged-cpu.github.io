@@ -13,6 +13,7 @@ Northwest Family Clinics is a family medicine practice in Rogers, MN at 21395 Jo
 - Website: https://www.northwestfamilyclinics.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

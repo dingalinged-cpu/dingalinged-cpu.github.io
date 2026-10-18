@@ -13,6 +13,7 @@ Gardner Employment Law is a lawyer in Houston, TX at 2100 West Loop South #1125,
 - Website: https://gardneremploymentlaw.com/
 - Email: Barbara@GardnerEmploymentLaw.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

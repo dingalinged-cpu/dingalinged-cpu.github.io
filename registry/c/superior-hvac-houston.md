@@ -13,6 +13,7 @@ Superior HVAC is a HVAC contractor in Houston, TX at 1919 Decatur Street, Housto
 - Website: https://www.superiorhvactexas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

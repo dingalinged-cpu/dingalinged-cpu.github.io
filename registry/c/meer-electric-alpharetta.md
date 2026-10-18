@@ -1,0 +1,24 @@
+Meer Electric is an electrician in Alpharetta, GA at 405 Tidwell Drive, Alpharetta, GA 30004. Phone: +17709938028. Website: https://meerelectric.com/.
+
+# Meer Electric
+
+- Category: electrician
+- Services: electrician
+- Address: 405 Tidwell Drive, Alpharetta, GA 30004
+- City: Alpharetta
+- State: GA
+- ZIP: 30004
+- Coordinates: 34.1064815, -84.2429447
+- Phone: +17709938028
+- Website: https://meerelectric.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:30-17:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/meer-electric-alpharetta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/meer-electric-alpharetta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9748956823 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,6 +13,7 @@ Pearl Dentisry is a dentist in Houston, TX at 1919 Taylor Street #A4, Houston, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 07:00-15:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

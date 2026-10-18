@@ -13,6 +13,7 @@ Leopard Storage is a self-storage facility in Lucas, TX at 2205 Estates Parkway,
 - Website: https://www.myleopardstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

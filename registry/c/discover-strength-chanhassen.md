@@ -13,6 +13,7 @@ Discover Strength is a gym in Chanhassen, MN at 18882 Lake Drive East, Chanhasse
 - Website: https://www.discoverstrength.com/chanhassen/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-20:00; Sa 07:30-15:00; Su 07:30-15:15
+- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

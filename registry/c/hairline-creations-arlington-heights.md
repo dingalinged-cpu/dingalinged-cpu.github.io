@@ -13,6 +13,7 @@ Hairline Creations is a hair salon in Arlington Heights, IL at 656 East Golf Roa
 - Website: https://www.hairlinecreations.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 10:00-20:00; We 10:00-18:00; Fr 09:00-16:00; Sa 08:30-16:00
+- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

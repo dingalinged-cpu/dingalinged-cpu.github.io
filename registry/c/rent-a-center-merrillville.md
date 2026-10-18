@@ -13,6 +13,7 @@ Rent-A-Center is a furniture store in Merrillville, IN at 6122 Broadway, Merrill
 - Website: https://locations.rentacenter.com/location/1462/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Koncepts of Barbering is a barber shop in Houston, TX at 2617 West Holcombe Boul
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 13:00-20:00; Th 10:00-17:00; Fr 07:00-14:00; Su 12:00-16:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

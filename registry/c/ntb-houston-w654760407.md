@@ -13,6 +13,7 @@ NTB is an auto repair shop in Houston, TX. Website: https://www.ntb.com/store/tx
 - Website: https://www.ntb.com/store/tx/houston/11100-katy-fwy-77043/4473
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

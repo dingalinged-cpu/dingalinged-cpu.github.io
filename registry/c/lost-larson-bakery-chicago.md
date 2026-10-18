@@ -13,6 +13,7 @@ Lost Larson Bakery is a bakery in Chicago, IL at 5318 North Clark Street, Chicag
 - Website: https://www.lostlarson.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Su 7:00-15:00
+- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Curtis Culwell Center is an event venue in Garland, TX at 4999 Naaman Forest Bou
 - Website: https://www.curtisculwellcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

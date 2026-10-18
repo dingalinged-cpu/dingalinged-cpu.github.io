@@ -13,6 +13,7 @@ Dong Tin Jewelry is a jewelry store in Houston, TX at 11209 Suite C30 Bellaire B
 - Website: n/a
 - Email: dongtin9999@gmail.com
 - Opening hours (OSM syntax): We-Mo 10:30-18:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

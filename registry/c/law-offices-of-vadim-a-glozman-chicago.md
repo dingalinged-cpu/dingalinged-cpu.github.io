@@ -13,6 +13,7 @@ Law Offices of Vadim A. Glozman is a lawyer in Chicago, IL at 53 West Jackson Bo
 - Website: https://www.glozmanlaw.com/
 - Email: info@glozmanlaw.com
 - Opening hours (OSM syntax): Mo-Su 08:00-19:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

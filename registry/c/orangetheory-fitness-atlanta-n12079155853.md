@@ -1,0 +1,24 @@
+Orangetheory Fitness is a gym in Atlanta, GA at 4260 Peachtree Road Northeast, Atlanta, GA 30319. Phone: +14047728120.
+
+# Orangetheory Fitness
+
+- Category: gym
+- Services: gym
+- Address: 4260 Peachtree Road Northeast, Atlanta, GA 30319
+- City: Atlanta
+- State: GA
+- ZIP: 30319
+- Coordinates: 33.8676033, -84.3358841
+- Phone: +14047728120
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-atlanta-n12079155853/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-atlanta-n12079155853.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12079155853 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

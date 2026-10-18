@@ -13,6 +13,7 @@ Charles Cabinet Co is a furniture store in Roseville, MN at 3090 Cleveland Avenu
 - Website: https://www.charlescabinetco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

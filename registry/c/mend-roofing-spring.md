@@ -13,6 +13,7 @@ Mend Roofing is a roofer in Spring, TX at 24624 Interstate 45 North #200, Spring
 - Website: https://mendroofing.com/spring/
 - Email: zach@mendroofing.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

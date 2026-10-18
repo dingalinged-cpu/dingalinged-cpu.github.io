@@ -98,12 +98,15 @@
   function grams(s) { s = "  " + s + " "; var g = {}; for (var i = 0; i < s.length - 2; i++) g[s.substr(i, 3)] = 1; return g; }
   function dice(a, b) { var ga = grams(a), gb = grams(b), n = 0, x = 0, y = 0, k; for (k in ga) { x++; if (gb[k]) n++; } for (k in gb) y++; return 2 * n / (x + y || 1); }
   Lookup.prototype.closest = function (query, n) {
-    var q = toks(query, true).filter(function (w) { return !FILLER[w]; }), qs = q.join(" ");
+    var all = toks(query, true), pl = this.matchPlace(all), drop = {};
+    if (pl.city) toks(pl.city, true).forEach(function (w) { drop[w] = 1; });
+    if (pl.state) { drop[pl.state] = 1; toks(STATES[pl.state], true).forEach(function (w) { drop[w] = 1; }); }
+    var q = all.filter(function (w) { return !FILLER[w] && !drop[w]; }), qs = q.join(" ");
     if (!qs) return [];
     return this.bases.map(function (b) {
-      var hit = 0; q.forEach(function (w) { if (b.c.indexOf(w) >= 0) hit += 1; else if (w.length > 2 && b.c.some(function (t) { return t.indexOf(w) === 0 || w.indexOf(t) === 0 && t.length > 3; })) hit += 0.6; });
+      var hit = 0; q.forEach(function (w) { if (b.c.indexOf(w) >= 0) hit += 1; else if (w.length > 2 && b.c.some(function (t) { return t.indexOf(w) === 0 || (w.indexOf(t) === 0 && t.length >= w.length - 1); })) hit += 0.6; });
       var best = 0; q.forEach(function (w) { b.c.forEach(function (t) { var d = dice(w, t); if (d > best) best = d; }); });
-      return { base: b.name, sc: hit / Math.max(q.length, 1) + 0.5 * dice(qs, b.c.join(" ")) + 0.3 * best };
+      return { base: b.name, sc: hit / Math.max(q.length, 1) + 0.5 * dice(qs, b.c.join(" ")) + 0.6 * (best > 0.45 ? best : 0) - 0.02 * Math.max(0, b.c.length - q.length) };
     }).filter(function (x) { return x.sc > 0.35; }).sort(function (a, b) { return b.sc - a.sc || a.base.length - b.base.length; }).slice(0, n || 6).map(function (x) { return x.base; });
   };
   // typeahead suggestions (strings)

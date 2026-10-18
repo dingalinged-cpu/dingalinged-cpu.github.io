@@ -13,6 +13,7 @@ Fidelity Investments is a financial advisor in Sugar Land, TX. Website: https://
 - Website: https://www.fidelity.com/branches/investor-center-sugar-land-texas-77478
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

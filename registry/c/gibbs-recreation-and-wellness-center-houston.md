@@ -13,6 +13,7 @@ Gibbs Recreation and Wellness Center is a gym in Houston, TX. Phone: +1713348405
 - Website: https://recreation.rice.edu/
 - Email: ricerec@rice.edu
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

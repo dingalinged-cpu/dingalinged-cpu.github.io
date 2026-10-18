@@ -13,6 +13,7 @@ Bubble Kids Dental is a dentist in Rosenberg, TX at 2320 B F Terry Boulevard #10
 - Website: https://bubblekidsdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-16:00; PH closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

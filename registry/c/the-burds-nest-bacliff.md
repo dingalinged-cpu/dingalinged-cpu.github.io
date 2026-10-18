@@ -13,6 +13,7 @@ The Burds Nest is a thrift store in Bacliff, TX at 430 Grand Avenue, Bacliff, TX
 - Website: https://www.theburdsnest.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

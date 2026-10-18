@@ -13,6 +13,7 @@ Purnell Insurance Agency: Allstate Insurance is an insurance agent in Garland, T
 - Website: https://agents.allstate.com/terrence-purnell-carrollton-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-16:00
+- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

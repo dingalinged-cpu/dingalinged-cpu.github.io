@@ -13,6 +13,7 @@ Ale's Hair Salon is a hair salon in Cypress, TX at 13802 Fleur de Lis Boulevard 
 - Website: https://cypresshairstylist.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

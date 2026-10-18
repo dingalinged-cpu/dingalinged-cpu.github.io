@@ -13,6 +13,7 @@ LABB Collective is a waxing salon in Edina, MN at 3941 Market Street, Edina, MN 
 - Website: https://labbcollective.com/
 - Email: hello@labbcollective.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa-Su 10:00-16:00
+- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

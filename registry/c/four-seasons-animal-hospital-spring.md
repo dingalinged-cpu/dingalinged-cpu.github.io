@@ -13,6 +13,7 @@ Four Seasons Animal Hospital is a veterinarian in Spring, TX at 3730 FM 2920 #11
 - Website: https://vcahospitals.com/four-seasons
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:30; Sa 09:00-14:00; Su closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

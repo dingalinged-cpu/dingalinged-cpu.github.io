@@ -13,6 +13,7 @@ LIndy Cleaners is a dry cleaner in Oak Park, IL at 127 South Oak Park Avenue, Oa
 - Website: https://lindycleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:88-18:00; Sa 10:00-15:00
+- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,2977 @@
+{
+ "place": "Sun Prairie, WI",
+ "slug": "sun-prairie-wi",
+ "count": 102,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "auto repair sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "bike shop sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "car wash sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "chiropractor sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "dance studio sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "dentist sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "driving school sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/driving-school-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "dry cleaners sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "eye doctor sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "financial advisor sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "florist sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "furniture store sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "gym sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "hair salon sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "haircut sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "insurance agency sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "insurance agent sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "insurance agents sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "jewelry store sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "liquor store sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "massage sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "mattress store sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "mechanic sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "nail salon sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "oil change sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "pet store sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "printing services sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "real estate agent sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "realtor sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "spa sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/spa-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "tanning salon sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "therapist sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "thrift store sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "tire shop sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "vet sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "waxing sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "window replacement sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-replacement-sun-prairie-wi.json"
+  },
+  {
+   "keyword": "yoga classes sun prairie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-sun-prairie-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "bodyscapes-salon-and-beauty-spa-sun-prairie",
+   "name": "Bodyscapes Salon & Beauty Spa",
+   "summary": "Bodyscapes Salon & Beauty Spa is a spa in Sun Prairie, WI at 2541 Smith's Crossing, Sun Prairie, WI 53590. Phone: +16085717659. Website: https://bodyscapes-salon-beauty-spa.square.site/.",
+   "categories": [
+    "spa"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bodyscapes-salon-and-beauty-spa-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bodyscapes-salon-and-beauty-spa-sun-prairie.json",
+   "address": {
+    "streetAddress": "2541 Smith's Crossing",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "postalCode": "53590",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "zip": "53590",
+   "geo": {
+    "lat": 43.1615383,
+    "lon": -89.2614708
+   },
+   "phone": "+16085717659",
+   "website": "https://bodyscapes-salon-beauty-spa.square.site/",
+   "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9916761167",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-sun-prairie",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Sun Prairie, WI at 610 Spring Street, Sun Prairie, WI. Phone: +16084532119. Website: https://www.jiffylube.com/locations/wi/sun-prairie/4132.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-sun-prairie.json",
+   "address": {
+    "streetAddress": "610 Spring Street",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1714164,
+    "lon": -89.2637959
+   },
+   "phone": "+16084532119",
+   "website": "https://www.jiffylube.com/locations/wi/sun-prairie/4132",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; PH closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1240255298",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "infinity-martial-arts-sun-prairie",
+   "name": "Infinity Martial Arts",
+   "summary": "Infinity Martial Arts is a gym in Sun Prairie, WI at 1620 North Bristol Street, Sun Prairie, WI 53590. Phone: +16083185166. Website: https://infinityma.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/infinity-martial-arts-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/infinity-martial-arts-sun-prairie.json",
+   "address": {
+    "streetAddress": "1620 North Bristol Street",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "postalCode": "53590",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "zip": "53590",
+   "geo": {
+    "lat": 43.2031351,
+    "lon": -89.2112178
+   },
+   "phone": "+16083185166",
+   "website": "https://infinityma.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13146042601",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-sun-prairie",
+   "name": "Mattress Firm",
+   "summary": "Mattress Firm is a mattress store in Sun Prairie, WI at 485 South Legacy Way, Sun Prairie, WI 53590. Phone: +16084724131. Website: https://www.mattressfirm.com/en-us/stores/wi/sun-prairie/111010/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-sun-prairie.json",
+   "address": {
+    "streetAddress": "485 South Legacy Way",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "postalCode": "53590",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "zip": "53590",
+   "geo": {
+    "lat": 43.1697286,
+    "lon": -89.270227
+   },
+   "phone": "+16084724131",
+   "website": "https://www.mattressfirm.com/en-us/stores/wi/sun-prairie/111010/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7290836221",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "noble-choice-chiropractice-sun-prairie",
+   "name": "Noble Choice Chiropractice",
+   "summary": "Noble Choice Chiropractice is a chiropractor in Sun Prairie, WI at 3120 Edmonton Drive #100, Sun Prairie, WI. Phone: +16083185300. Website: https://mynoblechoice.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/noble-choice-chiropractice-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/noble-choice-chiropractice-sun-prairie.json",
+   "address": {
+    "streetAddress": "3120 Edmonton Drive #100",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1886099,
+    "lon": -89.2780229
+   },
+   "phone": "+16083185300",
+   "website": "https://mynoblechoice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13283527502",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "orangetheory-fitness-sun-prairie",
+   "name": "Orangetheory Fitness",
+   "summary": "Orangetheory Fitness is a gym in Sun Prairie, WI at 1261 Cabela Drive, Sun Prairie, WI 53590. Phone: +16082345671.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-sun-prairie.json",
+   "address": {
+    "streetAddress": "1261 Cabela Drive",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "postalCode": "53590",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "zip": "53590",
+   "geo": {
+    "lat": 43.1655377,
+    "lon": -89.2711074
+   },
+   "phone": "+16082345671",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8975102412",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-sun-prairie",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Sun Prairie, WI. Website: https://www.kwiktrip.com/locator/store?id=393.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1802654,
+    "lon": -89.2341179
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=393",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/441891330",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-sun-prairie-w504572987",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Sun Prairie, WI. Website: https://www.kwiktrip.com/locator/store?id=496.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-sun-prairie-w504572987/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-sun-prairie-w504572987.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1841393,
+    "lon": -89.2639521
+   },
+   "website": "https://www.kwiktrip.com/locator/store?id=496",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/504572987",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ager-chiropractic-wellness-center-sun-prairie",
+   "name": "Ager Chiropractic Wellness Center",
+   "summary": "Ager Chiropractic Wellness Center is a chiropractor in Sun Prairie, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ager-chiropractic-wellness-center-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ager-chiropractic-wellness-center-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1818509,
+    "lon": -89.228704
+   },
+   "opening_hours": "Mo,Th 08:00-12:30,14:30-17:30; Tu,Fr 07:00-11:00; We 08:00-12:30,14:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573544",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-nails-sun-prairie",
+   "name": "All Nails",
+   "summary": "All Nails is a nail salon in Sun Prairie, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-nails-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-nails-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.181552,
+    "lon": -89.2297159
+   },
+   "opening_hours": "\"by appointment\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12297335995",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-fitness-sun-prairie",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Sun Prairie, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1868255,
+    "lon": -89.2548681
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14018396123",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cannery-wine-and-spirits-sun-prairie",
+   "name": "Cannery Wine & Spirits",
+   "summary": "Cannery Wine & Spirits is a liquor store in Sun Prairie, WI.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cannery-wine-and-spirits-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cannery-wine-and-spirits-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1808279,
+    "lon": -89.2315829
+   },
+   "opening_hours": "Mo-Su 09:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12297401211",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chiro-one-wellness-centers-sun-prairie",
+   "name": "Chiro One Wellness Centers",
+   "summary": "Chiro One Wellness Centers is a chiropractor in Sun Prairie, WI at 695 South Grand Avenue #103, Sun Prairie, WI 53590.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-centers-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chiro-one-wellness-centers-sun-prairie.json",
+   "address": {
+    "streetAddress": "695 South Grand Avenue #103",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "postalCode": "53590",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "zip": "53590",
+   "geo": {
+    "lat": 43.1690685,
+    "lon": -89.2655995
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9631578962",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cost-cutters-sun-prairie-n7486573522",
+   "name": "Cost Cutters",
+   "summary": "Cost Cutters is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cost-cutters-sun-prairie-n7486573522/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cost-cutters-sun-prairie-n7486573522.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1793745,
+    "lon": -89.2363921
+   },
+   "opening_hours": "Mo-Fr 09:00-21:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573522",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-sun-prairie-w421522129",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Sun Prairie, WI at 240 East Main Street, Sun Prairie, WI 53590.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-sun-prairie-w421522129/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-sun-prairie-w421522129.json",
+   "address": {
+    "streetAddress": "240 East Main Street",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "postalCode": "53590",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "zip": "53590",
+   "geo": {
+    "lat": 43.1832658,
+    "lon": -89.2113813
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/421522129",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forever-yours-jewelry-inc-sun-prairie",
+   "name": "Forever Yours Jewelry Inc.",
+   "summary": "Forever Yours Jewelry Inc. is a jewelry store in Sun Prairie, WI.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forever-yours-jewelry-inc-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forever-yours-jewelry-inc-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1829504,
+    "lon": -89.2122888
+   },
+   "opening_hours": "Tu,We,Fr 10:00-16:00; Th 10:00-17:00; Sa 10:00-13:00; Su,Mo off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271854772",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "forward-dental-sun-prairie",
+   "name": "Forward Dental",
+   "summary": "Forward Dental is a dentist in Sun Prairie, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/forward-dental-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/forward-dental-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1856352,
+    "lon": -89.2640352
+   },
+   "opening_hours": "Mo 10:00-19:00; Tu,We 08:00-17:00; Th 07:00-16:00; Fr-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12313097017",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-sun-prairie",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Sun Prairie, WI.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1747509,
+    "lon": -89.2491481
+   },
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573497",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "k-nails-sun-prairie",
+   "name": "K Nails",
+   "summary": "K Nails is a nail salon in Sun Prairie, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/k-nails-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/k-nails-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.174267,
+    "lon": -89.2487662
+   },
+   "opening_hours": "Mo-Fr 11:00-19:00; Sa,Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573500",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "klinke-cleaners-sun-prairie",
+   "name": "Klinke Cleaners",
+   "summary": "Klinke Cleaners is a dry cleaner in Sun Prairie, WI.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/klinke-cleaners-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/klinke-cleaners-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1854663,
+    "lon": -89.2640381
+   },
+   "opening_hours": "Mo-Su 00:00-00:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752967473",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "l-a-tan-sun-prairie",
+   "name": "L.A. Tan",
+   "summary": "L.A. Tan is a tanning salon in Sun Prairie, WI.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-tan-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-tan-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1742621,
+    "lon": -89.2489248
+   },
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573499",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "meineke-sun-prairie",
+   "name": "Meineke",
+   "summary": "Meineke is an auto repair shop in Sun Prairie, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/meineke-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/meineke-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1850826,
+    "lon": -89.2620484
+   },
+   "opening_hours": "Mo-Fr 07:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12313075539",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prairie-town-laundry-and-dry-cleaners-sun-prairie",
+   "name": "Prairie Town Laundry & Dry Cleaners",
+   "summary": "Prairie Town Laundry & Dry Cleaners is a dry cleaner in Sun Prairie, WI.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-town-laundry-and-dry-cleaners-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-town-laundry-and-dry-cleaners-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.18278,
+    "lon": -89.2212837
+   },
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277159271",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "saint-vincent-de-paul-thrift-store-sun-prairie",
+   "name": "Saint Vincent de Paul Thrift Store",
+   "summary": "Saint Vincent de Paul Thrift Store is a thrift store in Sun Prairie, WI.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/saint-vincent-de-paul-thrift-store-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1812841,
+    "lon": -89.2307231
+   },
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573536",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sun-city-cyclery-and-skates-sun-prairie",
+   "name": "Sun City Cyclery & Skates",
+   "summary": "Sun City Cyclery & Skates is a bike shop in Sun Prairie, WI.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-city-cyclery-and-skates-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-city-cyclery-and-skates-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1829042,
+    "lon": -89.2116633
+   },
+   "opening_hours": "Tu-Th 10:00-18:00; Fr 10:00-17:00; Sa 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271818571",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-sun-prairie",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Sun Prairie, WI.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.179396,
+    "lon": -89.233954
+   },
+   "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573532",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-perspective-sun-prairie",
+   "name": "New Perspective",
+   "summary": "New Perspective is an assisted living facility in Sun Prairie, WI at 222 South Bristol Street, Sun Prairie, WI.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-perspective-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-perspective-sun-prairie.json",
+   "address": {
+    "streetAddress": "222 South Bristol Street",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.180499,
+    "lon": -89.2146558
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/591381239",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-sun-prairie",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Sun Prairie, WI at 2325 Spice Lane, Sun Prairie, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-sun-prairie.json",
+   "address": {
+    "streetAddress": "2325 Spice Lane",
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1748987,
+    "lon": -89.2549484
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1358694006",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "10twenty-salon-sun-prairie",
+   "name": "10Twenty Salon",
+   "summary": "10Twenty Salon is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/10twenty-salon-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/10twenty-salon-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1796327,
+    "lon": -89.2356679
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573525",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-family-insurance-sun-prairie",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Sun Prairie, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1691599,
+    "lon": -89.2656
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9631578963",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-family-insurance-sun-prairie-n12277161207",
+   "name": "American Family Insurance",
+   "summary": "American Family Insurance is an insurance agent in Sun Prairie, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-sun-prairie-n12277161207/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-sun-prairie-n12277161207.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1831604,
+    "lon": -89.2228057
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277161207",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bs-jewelers-sun-prairie",
+   "name": "B's Jewelers",
+   "summary": "B's Jewelers is a jewelry store in Sun Prairie, WI.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bs-jewelers-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bs-jewelers-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1828547,
+    "lon": -89.2206064
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277135667",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "badger-wash-sun-prairie",
+   "name": "Badger Wash",
+   "summary": "Badger Wash is a car wash in Sun Prairie, WI.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/badger-wash-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/badger-wash-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1812567,
+    "lon": -89.2261749
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277174302",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bakke-chiropractic-clinic-sun-prairie",
+   "name": "Bakke Chiropractic Clinic",
+   "summary": "Bakke Chiropractic Clinic is a chiropractor in Sun Prairie, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bakke-chiropractic-clinic-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bakke-chiropractic-clinic-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1817544,
+    "lon": -89.2253055
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277159618",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "baldwin-eye-care-sun-prairie",
+   "name": "Baldwin Eye Care",
+   "summary": "Baldwin Eye Care is an eye care practice in Sun Prairie, WI.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/baldwin-eye-care-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/baldwin-eye-care-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1772469,
+    "lon": -89.2425265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573509",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bens-auto-service-sun-prairie",
+   "name": "Ben's Auto Service",
+   "summary": "Ben's Auto Service is an auto repair shop in Sun Prairie, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bens-auto-service-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bens-auto-service-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1830895,
+    "lon": -89.2162173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4395865300",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "blush-nail-boutique-sun-prairie",
+   "name": "Blush Nail Boutique",
+   "summary": "Blush Nail Boutique is a nail salon in Sun Prairie, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blush-nail-boutique-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blush-nail-boutique-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1665003,
+    "lon": -89.2697991
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288097",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "broadway-tire-and-auto-sun-prairie",
+   "name": "Broadway Tire and Auto",
+   "summary": "Broadway Tire and Auto is a tire shop in Sun Prairie, WI.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/broadway-tire-and-auto-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/broadway-tire-and-auto-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1748965,
+    "lon": -89.2445398
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573507",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "century-21-sun-prairie",
+   "name": "Century 21",
+   "summary": "Century 21 is a real estate agency in Sun Prairie, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/century-21-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/century-21-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1692033,
+    "lon": -89.265524
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9631578965",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "christian-brothers-automotive-sun-prairie",
+   "name": "Christian Brothers Automotive",
+   "summary": "Christian Brothers Automotive is an auto repair shop in Sun Prairie, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christian-brothers-automotive-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1866003,
+    "lon": -89.26083
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1539545545",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "clements-vision-care-sun-prairie",
+   "name": "Clements Vision Care",
+   "summary": "Clements Vision Care is an eye care practice in Sun Prairie, WI.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clements-vision-care-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clements-vision-care-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1670534,
+    "lon": -89.2695447
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8975124750",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cost-cutters-sun-prairie",
+   "name": "Cost Cutters",
+   "summary": "Cost Cutters is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cost-cutters-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cost-cutters-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1730163,
+    "lon": -89.2658789
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7485565397",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "designer-nails-sun-prairie",
+   "name": "Designer Nails",
+   "summary": "Designer Nails is a nail salon in Sun Prairie, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/designer-nails-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/designer-nails-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1833818,
+    "lon": -89.2122912
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271866076",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dnl-professional-driving-school-sun-prairie",
+   "name": "DNL Professional Driving School",
+   "summary": "DNL Professional Driving School is a driving school in Sun Prairie, WI.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dnl-professional-driving-school-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dnl-professional-driving-school-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1794752,
+    "lon": -89.238266
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/683282522",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dragonfly-hot-yoga-sun-prairie",
+   "name": "Dragonfly Hot Yoga",
+   "summary": "Dragonfly Hot Yoga is a yoga studio in Sun Prairie, WI.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dragonfly-hot-yoga-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dragonfly-hot-yoga-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.168122,
+    "lon": -89.2701397
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288095",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-sun-prairie",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Sun Prairie, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1824678,
+    "lon": -89.2102226
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271812570",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-sun-prairie-n12313088999",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Sun Prairie, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-sun-prairie-n12313088999/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-sun-prairie-n12313088999.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1850625,
+    "lon": -89.2628746
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12313088999",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elements-massage-sun-prairie",
+   "name": "Elements Massage",
+   "summary": "Elements Massage is a massage studio in Sun Prairie, WI.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elements-massage-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elements-massage-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1664885,
+    "lon": -89.2696945
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288099",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elite-chiropractic-sun-prairie",
+   "name": "Elite Chiropractic",
+   "summary": "Elite Chiropractic is a chiropractor in Sun Prairie, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-chiropractic-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-chiropractic-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1671235,
+    "lon": -89.2695176
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8975124751",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "first-choice-dental-sun-prairie",
+   "name": "First Choice Dental",
+   "summary": "First Choice Dental is a dentist in Sun Prairie, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-choice-dental-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-choice-dental-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1776855,
+    "lon": -89.2643783
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288108",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fit-body-boot-camp-sun-prairie",
+   "name": "Fit Body Boot Camp",
+   "summary": "Fit Body Boot Camp is a gym in Sun Prairie, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fit-body-boot-camp-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fit-body-boot-camp-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1782722,
+    "lon": -89.2377493
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573520",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "friesen-chiropractic-sun-prairie",
+   "name": "Friesen Chiropractic",
+   "summary": "Friesen Chiropractic is a chiropractor in Sun Prairie, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/friesen-chiropractic-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/friesen-chiropractic-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1828433,
+    "lon": -89.2209394
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277145770",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fusion-dance-academy-sun-prairie",
+   "name": "Fusion Dance Academy",
+   "summary": "Fusion Dance Academy is a dance studio in Sun Prairie, WI.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fusion-dance-academy-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fusion-dance-academy-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1829679,
+    "lon": -89.2123755
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271835150",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-sun-prairie",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1665548,
+    "lon": -89.2698184
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288096",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-excellence-sun-prairie",
+   "name": "Hair Excellence",
+   "summary": "Hair Excellence is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-excellence-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-excellence-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1866439,
+    "lon": -89.258158
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288114",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hairadise-salon-sun-prairie",
+   "name": "Hairadise Salon",
+   "summary": "Hairadise Salon is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hairadise-salon-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hairadise-salon-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1803309,
+    "lon": -89.2311752
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573534",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "harvest-ciropractic-sun-prairie",
+   "name": "Harvest Ciropractic",
+   "summary": "Harvest Ciropractic is a chiropractor in Sun Prairie, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/harvest-ciropractic-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/harvest-ciropractic-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1764804,
+    "lon": -89.2655746
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288106",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "heads-up-hair-salon-sun-prairie",
+   "name": "Heads Up Hair Salon",
+   "summary": "Heads Up Hair Salon is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heads-up-hair-salon-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heads-up-hair-salon-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1783908,
+    "lon": -89.237754
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573519",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hometeam4u-sun-prairie",
+   "name": "HOMETEAM4U",
+   "summary": "HOMETEAM4U is a real estate agency in Sun Prairie, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hometeam4u-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hometeam4u-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1818592,
+    "lon": -89.2249224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277136485",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lindsay-windows-sun-prairie",
+   "name": "Lindsay Windows",
+   "summary": "Lindsay Windows is a window installer in Sun Prairie, WI.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lindsay-windows-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lindsay-windows-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1813157,
+    "lon": -89.2249506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277127098",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lsm-chiropractic-sun-prairie",
+   "name": "LSM Chiropractic",
+   "summary": "LSM Chiropractic is a chiropractor in Sun Prairie, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lsm-chiropractic-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1776305,
+    "lon": -89.2413358
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573510",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "m-d-motors-sun-prairie",
+   "name": "M-D Motors",
+   "summary": "M-D Motors is an auto repair shop in Sun Prairie, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-d-motors-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-d-motors-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1836356,
+    "lon": -89.2170221
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277152160",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-sun-prairie",
+   "name": "Massage",
+   "summary": "Massage is a massage studio in Sun Prairie, WI.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1815182,
+    "lon": -89.2297996
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12297376482",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mcv-salon-sun-prairie",
+   "name": "MCV Salon",
+   "summary": "MCV Salon is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcv-salon-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcv-salon-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1827188,
+    "lon": -89.2101816
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271818569",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midas-sun-prairie",
+   "name": "Midas",
+   "summary": "Midas is an auto repair shop in Sun Prairie, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midas-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midas-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1785699,
+    "lon": -89.2370475
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/683283062",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mounds-pet-food-warehouse-sun-prairie",
+   "name": "Mounds Pet Food Warehouse",
+   "summary": "Mounds Pet Food Warehouse is a pet store in Sun Prairie, WI.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mounds-pet-food-warehouse-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mounds-pet-food-warehouse-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1866671,
+    "lon": -89.259513
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752967474",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mr-splash-car-wash-sun-prairie",
+   "name": "Mr. Splash Car Wash",
+   "summary": "Mr. Splash Car Wash is a car wash in Sun Prairie, WI.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mr-splash-car-wash-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mr-splash-car-wash-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1721074,
+    "lon": -89.2637876
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/969461001",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nailiphoria-sun-prairie",
+   "name": "Nailiphoria",
+   "summary": "Nailiphoria is a nail salon in Sun Prairie, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nailiphoria-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nailiphoria-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1774039,
+    "lon": -89.2402407
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573513",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "omnia-salon-sun-prairie",
+   "name": "Omnia Salon",
+   "summary": "Omnia Salon is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/omnia-salon-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/omnia-salon-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1808238,
+    "lon": -89.229641
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573535",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "orange-shoe-personal-fitness-sun-prairie",
+   "name": "Orange Shoe Personal Fitness",
+   "summary": "Orange Shoe Personal Fitness is a gym in Sun Prairie, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/orange-shoe-personal-fitness-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/orange-shoe-personal-fitness-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1772101,
+    "lon": -89.2654574
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12549211906",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "paramount-performance-sun-prairie",
+   "name": "Paramount Performance",
+   "summary": "Paramount Performance is a gym in Sun Prairie, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paramount-performance-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paramount-performance-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1826345,
+    "lon": -89.2097738
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271854738",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "patio-pleasures-sun-prairie",
+   "name": "Patio Pleasures",
+   "summary": "Patio Pleasures is a furniture store in Sun Prairie, WI.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/patio-pleasures-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/patio-pleasures-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1831301,
+    "lon": -89.223173
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277161206",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "peaceful-hands-sun-prairie",
+   "name": "Peaceful Hands",
+   "summary": "Peaceful Hands is a massage studio in Sun Prairie, WI.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peaceful-hands-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peaceful-hands-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1828361,
+    "lon": -89.2210113
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277152158",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "peak-performance-chiropractic-and-rehab-sun-prairie",
+   "name": "Peak Performance Chiropractic & Rehab",
+   "summary": "Peak Performance Chiropractic & Rehab is a chiropractor in Sun Prairie, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peak-performance-chiropractic-and-rehab-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peak-performance-chiropractic-and-rehab-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1832181,
+    "lon": -89.2113011
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271854910",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prairie-chiropractic-sun-prairie",
+   "name": "Prairie Chiropractic",
+   "summary": "Prairie Chiropractic is a chiropractor in Sun Prairie, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-chiropractic-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-chiropractic-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1821826,
+    "lon": -89.2260603
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277136195",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prairie-counseling-services-sun-prairie",
+   "name": "Prairie Counseling Services",
+   "summary": "Prairie Counseling Services is a therapy practice in Sun Prairie, WI.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-counseling-services-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-counseling-services-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1791754,
+    "lon": -89.2377732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573521",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prairie-grove-othodontics-sun-prairie",
+   "name": "Prairie Grove Othodontics",
+   "summary": "Prairie Grove Othodontics is a dentist in Sun Prairie, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-grove-othodontics-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-grove-othodontics-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1866982,
+    "lon": -89.2585707
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288113",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prairie-jewelers-sun-prairie",
+   "name": "Prairie Jewelers",
+   "summary": "Prairie Jewelers is a jewelry store in Sun Prairie, WI.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-jewelers-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-jewelers-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1816557,
+    "lon": -89.2293395
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573539",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prairie-lakes-dental-sun-prairie",
+   "name": "Prairie Lakes Dental",
+   "summary": "Prairie Lakes Dental is a dentist in Sun Prairie, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-lakes-dental-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-lakes-dental-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1689507,
+    "lon": -89.2682939
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288102",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prairie-sun-massage-sun-prairie",
+   "name": "Prairie Sun Massage",
+   "summary": "Prairie Sun Massage is a massage studio in Sun Prairie, WI.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-sun-massage-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-sun-massage-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1881995,
+    "lon": -89.2267886
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12729942319",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "prairie-veterinary-associates-sun-prairie",
+   "name": "Prairie Veterinary Associates",
+   "summary": "Prairie Veterinary Associates is a veterinarian in Sun Prairie, WI.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/prairie-veterinary-associates-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/prairie-veterinary-associates-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1866883,
+    "lon": -89.258821
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288112",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pro-health-ciropractic-sun-prairie",
+   "name": "Pro Health Ciropractic",
+   "summary": "Pro Health Ciropractic is a chiropractor in Sun Prairie, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-health-ciropractic-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-health-ciropractic-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.17709,
+    "lon": -89.2431482
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573508",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "restaino-realtors-sun-prairie",
+   "name": "Restaino Realtors",
+   "summary": "Restaino Realtors is a real estate agency in Sun Prairie, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/restaino-realtors-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/restaino-realtors-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1850675,
+    "lon": -89.2627276
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12313100233",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "riah-hair-sun-prairie",
+   "name": "Riah Hair",
+   "summary": "Riah Hair is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/riah-hair-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/riah-hair-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.176942,
+    "lon": -89.2654741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288109",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "running-diva-mom-sun-prairie",
+   "name": "Running Diva Mom",
+   "summary": "Running Diva Mom is a gym in Sun Prairie, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/running-diva-mom-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/running-diva-mom-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1825417,
+    "lon": -89.2102486
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271860503",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shopko-optical-sun-prairie",
+   "name": "Shopko Optical",
+   "summary": "Shopko Optical is an eye care practice in Sun Prairie, WI.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shopko-optical-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shopko-optical-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1770073,
+    "lon": -89.265461
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12549211813",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-sun-prairie",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1674256,
+    "lon": -89.270703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288091",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-sun-prairie",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Sun Prairie, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1829224,
+    "lon": -89.211743
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271842567",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stretchlab-sun-prairie",
+   "name": "StretchLab",
+   "summary": "StretchLab is a gym in Sun Prairie, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stretchlab-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stretchlab-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1868462,
+    "lon": -89.2552685
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14018396125",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "studio-7-hair-sun-prairie",
+   "name": "Studio 7 Hair",
+   "summary": "Studio 7 Hair is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-7-hair-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-7-hair-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1822542,
+    "lon": -89.2260921
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7893867812",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "studio-d-salon-sun-prairie",
+   "name": "Studio D Salon",
+   "summary": "Studio D Salon is a hair salon in Sun Prairie, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-d-salon-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-d-salon-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.181202,
+    "lon": -89.2278129
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12297391679",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "suite-nails-sun-prairie",
+   "name": "Suite Nails",
+   "summary": "Suite Nails is a nail salon in Sun Prairie, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/suite-nails-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/suite-nails-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1829284,
+    "lon": -89.2122162
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271842579",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sun-prairie-flowers-sun-prairie",
+   "name": "Sun Prairie Flowers",
+   "summary": "Sun Prairie Flowers is a florist in Sun Prairie, WI.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-prairie-flowers-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-prairie-flowers-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1828654,
+    "lon": -89.2113048
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271851265",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sun-prairie-senior-living-sun-prairie",
+   "name": "Sun Prairie Senior Living",
+   "summary": "Sun Prairie Senior Living is an assisted living facility in Sun Prairie, WI.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-prairie-senior-living-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-prairie-senior-living-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1841002,
+    "lon": -89.2160695
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277149206",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sun-prairie-spa-and-nails-sun-prairie",
+   "name": "Sun Prairie Spa & Nails",
+   "summary": "Sun Prairie Spa & Nails is a nail salon in Sun Prairie, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-prairie-spa-and-nails-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-prairie-spa-and-nails-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.177098,
+    "lon": -89.2654732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288107",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "syverson-automotive-sun-prairie",
+   "name": "Syverson Automotive",
+   "summary": "Syverson Automotive is an auto repair shop in Sun Prairie, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/syverson-automotive-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/syverson-automotive-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1818125,
+    "lon": -89.2141812
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12277159875",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "take-5-oil-change-sun-prairie",
+   "name": "Take 5 Oil Change",
+   "summary": "Take 5 Oil Change is an auto repair shop in Sun Prairie, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1758612,
+    "lon": -89.2454231
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/683374581",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-wire-basket-sun-prairie",
+   "name": "The Wire Basket",
+   "summary": "The Wire Basket is a thrift store in Sun Prairie, WI.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-wire-basket-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-wire-basket-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1828712,
+    "lon": -89.2114308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12271863315",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waxing-the-city-sun-prairie",
+   "name": "Waxing the City",
+   "summary": "Waxing the City is a waxing salon in Sun Prairie, WI.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waxing-the-city-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waxing-the-city-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1679538,
+    "lon": -89.2687905
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288100",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "west-prairie-dental-sun-prairie",
+   "name": "West Prairie Dental",
+   "summary": "West Prairie Dental is a dentist in Sun Prairie, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-prairie-dental-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-prairie-dental-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.185539,
+    "lon": -89.2659985
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486288111",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wisconsin-dental-solutions-sun-prairie",
+   "name": "Wisconsin Dental Solutions",
+   "summary": "Wisconsin Dental Solutions is a dentist in Sun Prairie, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wisconsin-dental-solutions-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wisconsin-dental-solutions-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1801158,
+    "lon": -89.2344073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573529",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wright-vision-care-sun-prairie",
+   "name": "Wright Vision Care",
+   "summary": "Wright Vision Care is an eye care practice in Sun Prairie, WI.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wright-vision-care-sun-prairie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wright-vision-care-sun-prairie.json",
+   "address": {
+    "addressLocality": "Sun Prairie",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sun Prairie",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1783245,
+    "lon": -89.2382657
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7486573517",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

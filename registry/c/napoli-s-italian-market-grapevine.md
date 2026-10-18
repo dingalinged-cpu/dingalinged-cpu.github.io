@@ -13,6 +13,7 @@ Napoli’s Italian Market is a bakery in Grapevine, TX at 309 S Main St, Grapevi
 - Website: https://napolisgrapevine.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

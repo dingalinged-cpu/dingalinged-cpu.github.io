@@ -1,0 +1,24 @@
+Orangetheory Fitness is a gym in Sun Prairie, WI at 1261 Cabela Drive, Sun Prairie, WI 53590. Phone: +16082345671.
+
+# Orangetheory Fitness
+
+- Category: gym
+- Services: gym
+- Address: 1261 Cabela Drive, Sun Prairie, WI 53590
+- City: Sun Prairie
+- State: WI
+- ZIP: 53590
+- Coordinates: 43.1655377, -89.2711074
+- Phone: +16082345671
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-sun-prairie/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-sun-prairie.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8975102412 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

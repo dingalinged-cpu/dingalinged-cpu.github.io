@@ -13,6 +13,7 @@ UMA Martial Arts is a martial arts school in Harris County, TX. Phone: +12812132
 - Website: https://uma-usa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

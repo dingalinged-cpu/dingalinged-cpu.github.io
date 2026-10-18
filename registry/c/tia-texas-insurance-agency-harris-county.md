@@ -13,6 +13,7 @@ TIA- Texas Insurance Agency is an insurance agent in Harris County, TX at 13370 
 - Website: https://gettia.com/texas-insurance-agency-1015/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

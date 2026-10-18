@@ -1,0 +1,24 @@
+Sessions Stand And Brasserie is an event venue in Marietta, GA at 397 North Sessions Street Northwest, Marietta, GA. Website: https://sessions-stand.com/.
+
+# Sessions Stand And Brasserie
+
+- Category: event venues
+- Services: event venues
+- Address: 397 North Sessions Street Northwest, Marietta, GA
+- City: Marietta
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.9612493, -84.5530457
+- Phone: n/a
+- Website: https://sessions-stand.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Tu 07:00-17:00; We-Th 07:00-20:00; Fr 07:00-21:00; Sa 07:30-21:00; Su 07:30-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sessions-stand-and-brasserie-marietta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sessions-stand-and-brasserie-marietta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1529950164 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

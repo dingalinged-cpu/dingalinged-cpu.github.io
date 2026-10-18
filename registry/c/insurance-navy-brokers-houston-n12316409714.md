@@ -13,6 +13,7 @@ Insurance Navy Brokers is an insurance agent in Houston, TX at 8619 Richmond Ave
 - Website: https://www.insurancenavy.com/locations/tx/houston-2/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

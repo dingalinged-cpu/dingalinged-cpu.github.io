@@ -13,6 +13,7 @@ Shaw Orthodontics is a dentist in Rockwall, TX at 3018 Ridge Road #110, Rockwall
 - Website: https://shawsmiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

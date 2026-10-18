@@ -13,6 +13,7 @@ Old Town School of Folk Music is a music school in Chicago, IL at 4544 North Lin
 - Website: https://www.oldtownschool.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

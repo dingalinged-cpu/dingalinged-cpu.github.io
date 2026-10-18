@@ -13,6 +13,7 @@ Planet Fitness is a gym in Frisco, TX at 11501 Custer Road #104, Frisco, TX. Pho
 - Website: https://planetfitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 00:00-24:00; Fr 00:00-22:00; Sa-Su 07:00-19:00
+- Registry Score: 52.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

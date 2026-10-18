@@ -13,6 +13,7 @@ Sugar Land Veterinary Clinic is a veterinarian in Sugar Land, TX at 400 Promenad
 - Website: https://www.sugarlandvetclinic.com/
 - Email: info@sugarland.vet
 - Opening hours (OSM syntax): Mo-We 07:30-18:00; Th 09:30-18:00; Fr 07:30-18:00; Sa off; Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

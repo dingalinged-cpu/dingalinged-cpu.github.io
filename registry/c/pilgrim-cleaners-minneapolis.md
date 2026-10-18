@@ -13,6 +13,7 @@ Pilgrim Cleaners is a dry cleaner in Minneapolis, MN at 2925 Dupont Avenue South
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-16:00
+- Registry Score: 46.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

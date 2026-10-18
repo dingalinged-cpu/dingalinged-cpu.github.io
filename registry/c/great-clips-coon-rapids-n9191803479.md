@@ -13,6 +13,7 @@ Great Clips is a hair salon in Coon Rapids, MN at 2032 Northdale Boulevard North
 - Website: https://salons.greatclips.com/us/mn/coon-rapids/2032-northdale-blvd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-15:00; Su 10:00-16:00
+- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Public Storage is a self-storage facility in Grand Prairie, TX at 1401 North Sta
 - Website: https://www.publicstorage.com/texas/self-storage-grand-prairie-tx/75050-self-storage/882?PID=PSLocalSearch&CID=1341&CHID=LL
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30, Sa-Su 09:30-17:00
+- Registry Score: 53.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

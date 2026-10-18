@@ -13,6 +13,7 @@ Twinkle Star Dance Academy is a dance studio in Plano, TX at 3400 Preston Road #
 - Website: https://twinklestardancers.com/plano
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Nail Images is a nail salon in Edina, MN at 4509 France Avenue South, Edina, MN 
 - Website: https://nailsimageminneapolis.com/
 - Email: ldp1969@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 12:00-18:00
+- Registry Score: 65.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

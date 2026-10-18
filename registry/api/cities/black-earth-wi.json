@@ -1,0 +1,155 @@
+{
+ "place": "Black Earth, WI",
+ "slug": "black-earth-wi",
+ "count": 4,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant black earth wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-black-earth-wi.json"
+  },
+  {
+   "keyword": "accounting services black earth wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-black-earth-wi.json"
+  },
+  {
+   "keyword": "attorney black earth wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-black-earth-wi.json"
+  },
+  {
+   "keyword": "dentist black earth wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-black-earth-wi.json"
+  },
+  {
+   "keyword": "funeral home black earth wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-black-earth-wi.json"
+  },
+  {
+   "keyword": "lawyer black earth wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-black-earth-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "ellestad-camacho-funeral-home-black-earth",
+   "name": "Ellestad Camacho Funeral Home",
+   "summary": "Ellestad Camacho Funeral Home is a funeral home in Black Earth, WI at 1710 Center Street, Black Earth, WI 53515.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ellestad-camacho-funeral-home-black-earth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ellestad-camacho-funeral-home-black-earth.json",
+   "address": {
+    "streetAddress": "1710 Center Street",
+    "addressLocality": "Black Earth",
+    "addressRegion": "WI",
+    "postalCode": "53515",
+    "addressCountry": "US"
+   },
+   "city": "Black Earth",
+   "state": "WI",
+   "zip": "53515",
+   "geo": {
+    "lat": 43.1331202,
+    "lon": -89.7469901
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3833385363",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "millonzi-law-llc-black-earth",
+   "name": "Millonzi Law LLC",
+   "summary": "Millonzi Law LLC is a lawyer in Black Earth, WI at 1104 Mills Street, Black Earth, WI 53515.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/millonzi-law-llc-black-earth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/millonzi-law-llc-black-earth.json",
+   "address": {
+    "streetAddress": "1104 Mills Street",
+    "addressLocality": "Black Earth",
+    "addressRegion": "WI",
+    "postalCode": "53515",
+    "addressCountry": "US"
+   },
+   "city": "Black Earth",
+   "state": "WI",
+   "zip": "53515",
+   "geo": {
+    "lat": 43.1389392,
+    "lon": -89.7482329
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3833356583",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "village-family-dental-black-earth",
+   "name": "Village Family Dental",
+   "summary": "Village Family Dental is a dentist in Black Earth, WI at 1209 Mills Street, Black Earth, WI 53515.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-family-dental-black-earth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-family-dental-black-earth.json",
+   "address": {
+    "streetAddress": "1209 Mills Street",
+    "addressLocality": "Black Earth",
+    "addressRegion": "WI",
+    "postalCode": "53515",
+    "addressCountry": "US"
+   },
+   "city": "Black Earth",
+   "state": "WI",
+   "zip": "53515",
+   "geo": {
+    "lat": 43.1379567,
+    "lon": -89.7476964
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3833356584",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "breuning-cpa-black-earth",
+   "name": "Breuning CPA",
+   "summary": "Breuning CPA is an accountant in Black Earth, WI.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/breuning-cpa-black-earth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/breuning-cpa-black-earth.json",
+   "address": {
+    "addressLocality": "Black Earth",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Black Earth",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1388309,
+    "lon": -89.7482072
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11040527556",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

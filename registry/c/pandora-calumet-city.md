@@ -13,6 +13,7 @@ Pandora is a jewelry store in Calumet City, IL at 1 River Oaks Center Drive, Cal
 - Website: https://stores.pandora.net/en-us/il/calumetcity/pandora-jewelry-us9a240200.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

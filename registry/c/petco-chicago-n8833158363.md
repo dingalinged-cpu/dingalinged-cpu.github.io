@@ -13,6 +13,7 @@ Petco is a pet store in Chicago, IL at 611 West Roosevelt Road, Chicago, IL 6060
 - Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1989.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

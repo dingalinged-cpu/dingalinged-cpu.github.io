@@ -1,0 +1,24 @@
+Buckhead Primary and Urgent Care Clinic is a family medicine practice in Atlanta, GA at 1891 Howell Mill Road Northwest #A, Atlanta, GA. Phone: +14705444278. Website: https://buckheadprimarycare.com/.
+
+# Buckhead Primary and Urgent Care Clinic
+
+- Category: family doctor
+- Services: family doctor, primary care physician
+- Address: 1891 Howell Mill Road Northwest #A, Atlanta, GA
+- City: Atlanta
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.8067694, -84.4125927
+- Phone: +14705444278
+- Website: https://buckheadprimarycare.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-16:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/buckhead-primary-and-urgent-care-clinic-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/buckhead-primary-and-urgent-care-clinic-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13062596546 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

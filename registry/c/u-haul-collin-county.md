@@ -1,0 +1,24 @@
+U-Haul is a self-storage facility in Collin County, TX at 10057 West University Drive, Collin County, TX.
+
+# U-Haul
+
+- Category: storage units
+- Services: storage units
+- Address: 10057 West University Drive, Collin County, TX
+- City: Collin County
+- State: TX
+- ZIP: n/a
+- Coordinates: 33.2178277, -96.7456072
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-collin-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-collin-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13609760382 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

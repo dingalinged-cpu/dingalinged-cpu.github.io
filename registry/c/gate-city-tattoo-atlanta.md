@@ -1,0 +1,24 @@
+Gate City Tattoo is a tattoo shop in Atlanta, GA at 1188 Glenwood Avenue Southeast, Atlanta, GA 30316. Phone: +16787053152. Website: https://www.gatecitytattoo.com/.
+
+# Gate City Tattoo
+
+- Category: tattoo shop
+- Services: tattoo shop
+- Address: 1188 Glenwood Avenue Southeast, Atlanta, GA 30316
+- City: Atlanta
+- State: GA
+- ZIP: 30316
+- Coordinates: 33.7402836, -84.3486306
+- Phone: +16787053152
+- Website: https://www.gatecitytattoo.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 12:00-20:00; Fr-Su 12:00-22:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/gate-city-tattoo-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gate-city-tattoo-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13604399101 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

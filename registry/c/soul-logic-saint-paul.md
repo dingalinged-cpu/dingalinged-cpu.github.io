@@ -13,6 +13,7 @@ Soul Logic is an architect in Saint Paul, MN at 856 Raymond Avenue #G, Saint Pau
 - Website: https://soullogicmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Sa 12:00-16:00
+- Registry Score: 55.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

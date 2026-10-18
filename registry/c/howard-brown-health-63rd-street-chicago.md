@@ -13,6 +13,7 @@ Howard Brown Health 63rd Street is a family medicine practice in Chicago, IL at 
 - Website: https://howardbrown.org/clinic_location/63rd-street/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-17:00, Tu 10:00-17:00, We-Th 09:00-19:00, Fr 09:00-05:00
+- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,48 @@
+{
+ "place": "Town Of Blue Mounds, WI",
+ "slug": "town-of-blue-mounds-wi",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "event venues town of blue mounds wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-town-of-blue-mounds-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "the-eloise-mount-horeb",
+   "name": "The Eloise",
+   "summary": "The Eloise is an event venue in Mount Horeb, WI at 2212 County Highway JG, Mount Horeb, WI 53572.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-eloise-mount-horeb/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-eloise-mount-horeb.json",
+   "address": {
+    "streetAddress": "2212 County Highway JG",
+    "addressLocality": "Mount Horeb",
+    "addressRegion": "WI",
+    "postalCode": "53572",
+    "addressCountry": "US"
+   },
+   "city": "Mount Horeb",
+   "state": "WI",
+   "zip": "53572",
+   "geo": {
+    "lat": 42.9770478,
+    "lon": -89.7295639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1067543976",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

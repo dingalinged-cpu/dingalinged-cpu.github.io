@@ -13,6 +13,7 @@ Kwik Kar Willow Bend is an auto repair shop in Plano, TX at 2208 Midway Road, Pl
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 10:00-16:00
+- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

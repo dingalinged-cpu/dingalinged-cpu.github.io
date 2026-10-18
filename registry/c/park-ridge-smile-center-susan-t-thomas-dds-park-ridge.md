@@ -13,6 +13,7 @@ Park Ridge Smile Center: Susan T. Thomas, DDS is a dentist in Park Ridge, IL at 
 - Website: https://www.parkridgesmilecenter.com/
 - Email: parkridgesmile@gmail.com
 - Opening hours (OSM syntax): Mo, Tu, Th, Fr 09:00-17:00; We 07:00-14:00; Sa 08:00-14:00
+- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ H&R Block is a tax preparation service in East Chicago, IN at 4739 Indianapolis 
 - Website: https://www.hrblock.com/local-tax-offices/indiana/east-chicago/4739-indianapolis-blvd/14537/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

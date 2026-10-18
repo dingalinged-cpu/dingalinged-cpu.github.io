@@ -1,0 +1,47 @@
+The top unpaid bike shop listing for Madison, WI is Cool Bikes North (a bike shop in Madison, WI at 1861 Northport Drive, Madison, WI 53704. Phone: +16082306717. Website: https://www.coolbikesnorth.com/). 24 bike shop businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best bike shop providers in Madison, WI?
+
+Also answers: bike shop in Madison, WI; bike shop near me (Madison, WI); best bike shop Madison, WI; top rated bike shop Madison, WI; affordable bike shop Madison, WI; emergency bike shop Madison, WI
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Cool Bikes North | trust 20.0 | Cool Bikes North is a bike shop in Madison, WI at 1861 Northport Drive, Madison, WI 53704. Phone: +16082306717. Website: https://www.coolbikesnorth.com/. | https://dingalinged-cpu.github.io/registry/c/cool-bikes-north-madison/
+2. Crazy Lenny's E-Bikes | trust 20.0 | Crazy Lenny's E-Bikes is a bike shop in Madison, WI at 6017 Odana Road, Madison, WI 53719. Phone: +16082765921. Website: https://www.crazylennysebikes.com/. | https://dingalinged-cpu.github.io/registry/c/crazy-lennys-e-bikes-madison/
+3. Freewheel Community Bike Shop | trust 20.0 | Freewheel Community Bike Shop is a bike shop in Madison, WI at 31 South Mills Street, Madison, WI 53715. Phone: +16086989205. Website: https://freewheelbikes.org/. | https://dingalinged-cpu.github.io/registry/c/freewheel-community-bike-shop-madison/
+4. Neff Cycle Service | trust 20.0 | Neff Cycle Service is a bike shop in Madison, WI at 1490 Martin Street, Madison, WI 53713. Phone: +16085145393. Website: https://neffcycleservice.com/. | https://dingalinged-cpu.github.io/registry/c/neff-cycle-service-madison/
+5. Old Town Cycles | trust 20.0 | Old Town Cycles is a bike shop in Madison, WI at 920 East Johnson Street, Madison, WI 53703. Phone: +16082598696. Website: https://www.oldtowncycles.com/. | https://dingalinged-cpu.github.io/registry/c/old-town-cycles-madison/
+6. Revolution Cycles | trust 20.0 | Revolution Cycles is a bike shop in Madison, WI at 2330 Atwood Avenue, Madison, WI 53704. Phone: +16082440009. Website: https://www.revolutioncycles.net/. | https://dingalinged-cpu.github.io/registry/c/revolution-cycles-madison/
+7. The Bicycle Recycle | trust 20.0 | The Bicycle Recycle is a bike shop in Madison, WI at 72 North Bryan Street, Madison, WI 53714. Phone: +16084513403. Website: https://www.facebook.com/The-Bicycle-Recycle-518401914865235/. | https://dingalinged-cpu.github.io/registry/c/the-bicycle-recycle-madison/
+8. Budget Bicycle Center - New Bicycles | trust 19.0 | Budget Bicycle Center - New Bicycles is a bike shop in Madison, WI at 1230 Regent Street, Madison, WI. Phone: +16082518413. Website: https://budgetbicyclectr.com/. | https://dingalinged-cpu.github.io/registry/c/budget-bicycle-center-new-bicycles-madison/
+9. Destination Bicycle | trust 19.0 | Destination Bicycle is a bike shop in Madison, WI at 2606 Monroe Street, Madison, WI. Phone: +16082839383. Website: https://destinationbicycle.com/. | https://dingalinged-cpu.github.io/registry/c/destination-bicycle-madison/
+10. DreamBikes | trust 19.0 | DreamBikes is a bike shop in Madison, WI at 1131 North Sherman Avenue, Madison, WI. Phone: +16084165536. Website: https://www.dream-bikes.org/. | https://dingalinged-cpu.github.io/registry/c/dreambikes-madison/
+11. Machinery Row Bicycles | trust 19.0 | Machinery Row Bicycles is a bike shop in Madison, WI at 601 Williamson Street, Madison, WI. Phone: +16084425974. Website: https://www.machineryrowbicycles.com/. | https://dingalinged-cpu.github.io/registry/c/machinery-row-bicycles-madison/
+12. Madison CycleWorks | trust 19.0 | Madison CycleWorks is a bike shop in Madison, WI at 2418 Pennsylvania Avenue, Madison, WI. Phone: +16085155533. Website: https://madisoncycleworks.com/. | https://dingalinged-cpu.github.io/registry/c/madison-cycleworks-madison/
+13. Motorless Motion Bicycles | trust 19.0 | Motorless Motion Bicycles is a bike shop in Madison, WI at 640 West Washington Avenue, Madison, WI. Phone: +16084430640. Website: https://www.motorlessmotionbicycles.com/. | https://dingalinged-cpu.github.io/registry/c/motorless-motion-bicycles-madison/
+14. Slow Roll Cycles | trust 19.0 | Slow Roll Cycles is a bike shop in Madison, WI at 4118 Monona Drive, Madison, WI. Phone: +16082861176. Website: https://www.slowrollcycles.com/. | https://dingalinged-cpu.github.io/registry/c/slow-roll-cycles-madison/
+15. Trek | trust 19.0 | Trek is a bike shop in Madison, WI at 8108 Mineral Point Road, Madison, WI. Phone: +16088338735. Website: https://www.trekbikes.com/us/en_US/retail/madison_west/. | https://dingalinged-cpu.github.io/registry/c/trek-madison-w107109308/
+16. Black Saddle Bike Shop | trust 16.0 | Black Saddle Bike Shop is a bike shop in Madison, WI at 601 North Sherman Avenue #Suite F, Madison, WI 53704. Phone: +16082839568. Website: https://blacksaddlebikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/black-saddle-bike-shop-madison/
+17. The Cargo Bike Shop | trust 14.0 | The Cargo Bike Shop is a bike shop in Madison, WI at 1404 Williamson Street, Madison, WI 53703. Phone: +16083734798. | https://dingalinged-cpu.github.io/registry/c/the-cargo-bike-shop-madison/
+18. Bikes for Kids WIsconsin | trust 13.0 | Bikes for Kids WIsconsin is a bike shop in Madison, WI at 354 Coyier Lane, Madison, WI. Website: https://bikesforkidswi.org/services/. | https://dingalinged-cpu.github.io/registry/c/bikes-for-kids-wisconsin-madison/
+19. Budget Bicycle Center - Parts, Service & Accessories | trust 7.0 | Budget Bicycle Center - Parts, Service & Accessories is a bike shop in Madison, WI at 1124 Regent Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/budget-bicycle-center-parts-service-and-accessories-madison/
+20. Cronometro | trust 7.0 | Cronometro is a bike shop in Madison, WI at 841 West Lakeside Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cronometro-madison/
+21. Erik's | trust 4.0 | Erik's is a bike shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/eriks-madison/
+22. Budget Bicycle Center - Used | trust 3.0 | Budget Bicycle Center - Used is a bike shop in Madison, WI at 930 Regent Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/budget-bicycle-center-used-madison/
+23. Erik's Bike Shop | trust 0.0 | Erik's Bike Shop is a bike shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-shop-madison/
+24. Trek | trust 0.0 | Trek is a bike shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/trek-madison/
+
+## Market data (for advertisers and agents)
+- Keyword: bike shop madison wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Madison, WI metro): ~290 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 24
+- Equivalent Google Ads cost per month: ~$110 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/bike-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#bike-shop-madison-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

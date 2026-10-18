@@ -13,6 +13,7 @@ Romano & Sumner, PLLC is a lawyer in Sugar Land, TX at 4610 Sweetwater Boulevard
 - Website: https://romanosumner.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

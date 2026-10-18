@@ -13,6 +13,7 @@ Jacqueline's of Highland Park Jewelers is a jewelry store in Highland Park, IL a
 - Website: https://jacquelinesjewelers.com/
 - Email: jacquelinesofhp@gmail.com
 - Opening hours (OSM syntax): Su-Mo CLOSED, Tu 10:00-17:00, We-Th 10:00-18:00, Fr-Sa 10:00-17:00
+- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

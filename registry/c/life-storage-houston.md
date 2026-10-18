@@ -13,6 +13,7 @@ Life Storage is a self-storage facility in Houston, TX at 3106 Old Spanish Trail
 - Website: https://www.lifestorage.com/storage-units/texas/houston/77054/8230-in-houston/
 - Email: selfstorage@lifestorage.com
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 12:00-16:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

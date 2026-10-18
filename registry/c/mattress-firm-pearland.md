@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Pearland, TX at 2680 Pearland Parkway #150,
 - Website: https://www.mattressfirm.com/en-us/stores/tx/pearland/001148/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

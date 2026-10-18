@@ -13,6 +13,7 @@ Dogtopia is a dog boarding facility in Saint Paul, MN at 2418 University Avenue 
 - Website: https://www.dogtopia.com/minnesota-st-paul-university-ave/
 - Email: universityave@dogtopia.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

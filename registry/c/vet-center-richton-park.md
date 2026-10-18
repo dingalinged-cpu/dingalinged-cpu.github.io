@@ -13,6 +13,7 @@ Vet Center is a therapy practice in Richton Park, IL at 4511 Sauk Trail, Richton
 - Website: https://www.va.gov/richton-park-vet-center/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 43.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

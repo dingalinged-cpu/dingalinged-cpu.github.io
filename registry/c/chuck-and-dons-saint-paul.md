@@ -13,6 +13,7 @@ Chuck & Don's is a pet store in Saint Paul, MN at 282 East 6th Street, Saint Pau
 - Website: https://chuckanddons.com/stores/view/index/id/034/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

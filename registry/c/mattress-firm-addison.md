@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Addison, IL at 1008 North Rowhling Road #40
 - Website: https://www.mattressfirm.com/en-us/stores/il/addison/119016/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

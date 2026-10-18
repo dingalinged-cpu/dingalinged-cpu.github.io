@@ -13,6 +13,7 @@ Healthy Foot Care Massage is a massage studio in Southlake, TX at 2140 East Sout
 - Website: https://www.healthyfootcaresouthlake.com/
 - Email: healthyfootcarellc@gmail.com
 - Opening hours (OSM syntax): Mo-Su 09:30-21:30
+- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

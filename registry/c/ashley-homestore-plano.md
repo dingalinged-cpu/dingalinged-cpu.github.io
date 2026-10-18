@@ -13,6 +13,7 @@ Ashley HomeStore is a furniture store in Plano, TX at 1201 North Central Express
 - Website: https://stores.ashleyfurniture.com/store/us/texas/plano/7710000436/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,48 @@
+{
+ "place": "Chattahoochee Hills, GA",
+ "slug": "chattahoochee-hills-ga",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "bike shop chattahoochee hills ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-chattahoochee-hills-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "pro-bike-repair-palmetto",
+   "name": "Pro Bike Repair",
+   "summary": "Pro Bike Repair is a bike shop in Palmetto, GA at 9222 Selborne Lane #A, Palmetto, GA 30268.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-bike-repair-palmetto/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-bike-repair-palmetto.json",
+   "address": {
+    "streetAddress": "9222 Selborne Lane #A",
+    "addressLocality": "Palmetto",
+    "addressRegion": "GA",
+    "postalCode": "30268",
+    "addressCountry": "US"
+   },
+   "city": "Palmetto",
+   "state": "GA",
+   "zip": "30268",
+   "geo": {
+    "lat": 33.5203993,
+    "lon": -84.7359064
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9173950125",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

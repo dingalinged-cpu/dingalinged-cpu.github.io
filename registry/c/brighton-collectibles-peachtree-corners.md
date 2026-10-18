@@ -1,0 +1,24 @@
+Brighton Collectibles is a gift shop in Peachtree Corners, GA.
+
+# Brighton Collectibles
+
+- Category: gift shop
+- Services: gift shop
+- Address: Peachtree Corners, GA
+- City: Peachtree Corners
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.9824548, -84.2167561
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/brighton-collectibles-peachtree-corners/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brighton-collectibles-peachtree-corners.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4594531162 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

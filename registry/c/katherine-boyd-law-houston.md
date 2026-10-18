@@ -13,6 +13,7 @@ Katherine Boyd Law is a lawyer in Houston, TX at 950 Echo Lane #200, Houston, TX
 - Website: https://katherineboydlaw.com/
 - Email: kboyd@steedbarkerlaw.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

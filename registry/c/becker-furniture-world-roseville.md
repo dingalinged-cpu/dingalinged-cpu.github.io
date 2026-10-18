@@ -13,6 +13,7 @@ Becker Furniture World is a furniture store in Roseville, MN. Website: https://w
 - Website: https://www.beckerfurnitureworld.com/stores/roseville-minnesota/51670/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
+- Registry Score: 56.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

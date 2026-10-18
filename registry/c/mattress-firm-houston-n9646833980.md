@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Houston, TX at 9762 Katy Freeway #600, Hous
 - Website: https://stores.mattressfirm.com/tx/houston/mattress-stores-houston-tx-5509.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-20:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

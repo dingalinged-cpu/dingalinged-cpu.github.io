@@ -13,6 +13,7 @@ St. James 1868 is an event venue in Milwaukee, WI at 833 West Wisconsin Avenue, 
 - Website: https://stjames1868.com/
 - Email: events@stjames1868.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 66.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

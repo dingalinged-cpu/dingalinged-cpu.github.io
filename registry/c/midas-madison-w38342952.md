@@ -1,0 +1,24 @@
+Midas is an auto repair shop in Madison, WI.
+
+# Midas
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Madison, WI
+- City: Madison
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.07753, -89.4703502
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/midas-madison-w38342952/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/midas-madison-w38342952.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/38342952 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

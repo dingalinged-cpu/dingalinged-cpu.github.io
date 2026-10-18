@@ -1,0 +1,24 @@
+Reesha Barber Shop is a hair salon in Cobb County, GA at 3460 Sandy Plains Road #640, Cobb County, GA. Phone: +17708885500. Website: https://www.reeshabarbers.com/barber-shop-marietta-ga.
+
+# Reesha Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 3460 Sandy Plains Road #640, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0336849, -84.4633162
+- Phone: +17708885500
+- Website: https://www.reeshabarbers.com/barber-shop-marietta-ga
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 08:00-17:00; Su 10:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/reesha-barber-shop-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/reesha-barber-shop-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12193579573 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,0 +1,84 @@
+{
+ "place": "Sauk City, WI",
+ "slug": "sauk-city-wi",
+ "count": 2,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair sauk city wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-sauk-city-wi.json"
+  },
+  {
+   "keyword": "mechanic sauk city wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-sauk-city-wi.json"
+  },
+  {
+   "keyword": "real estate agent sauk city wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-sauk-city-wi.json"
+  },
+  {
+   "keyword": "realtor sauk city wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-sauk-city-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "cenex-quick-lube-tires-service-sauk-city",
+   "name": "Cenex Quick Lube, Tires, Service",
+   "summary": "Cenex Quick Lube, Tires, Service is an auto repair shop in Sauk City, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cenex-quick-lube-tires-service-sauk-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cenex-quick-lube-tires-service-sauk-city.json",
+   "address": {
+    "addressLocality": "Sauk City",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sauk City",
+   "state": "WI",
+   "geo": {
+    "lat": 43.2715755,
+    "lon": -89.7327007
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1478629479",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nexthome-elite-real-estate-sauk-city",
+   "name": "NextHome Elite Real Estate",
+   "summary": "NextHome Elite Real Estate is a real estate agency in Sauk City, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nexthome-elite-real-estate-sauk-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nexthome-elite-real-estate-sauk-city.json",
+   "address": {
+    "addressLocality": "Sauk City",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Sauk City",
+   "state": "WI",
+   "geo": {
+    "lat": 43.2701875,
+    "lon": -89.7223639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7988336871",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

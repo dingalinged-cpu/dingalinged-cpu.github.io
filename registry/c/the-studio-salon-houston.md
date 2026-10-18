@@ -13,6 +13,7 @@ The Studio Salon is a hair salon in Houston, TX at 1568 Kingwood Drive, Houston,
 - Website: https://www.kingwoodhairsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 10:00-19:00; We 10:00-17:00; Th 10:00-19:00; Fr 10:00-17:00; Sa 10:00-16:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

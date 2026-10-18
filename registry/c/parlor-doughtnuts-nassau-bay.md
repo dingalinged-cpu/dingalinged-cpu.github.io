@@ -13,6 +13,7 @@ Parlor Doughtnuts is a bakery in Nassau Bay, TX at 1850 East NASA Parkway, Nassa
 - Website: https://parlordoughnuts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

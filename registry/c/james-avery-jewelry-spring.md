@@ -13,6 +13,7 @@ James Avery Jewelry is a jewelry store in Spring, TX at 6615 North Grand Parkway
 - Website: https://www.jamesavery.com/store_locations/james-avery-at-grand-parkway-marketplace-in-spring
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

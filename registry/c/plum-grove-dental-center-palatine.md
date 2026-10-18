@@ -13,6 +13,7 @@ Plum Grove Dental Center is a dentist in Palatine, IL. Phone: +18473594700. Webs
 - Website: https://plumgrovedental.com/
 - Email: info@plumgrovedental.com
 - Opening hours (OSM syntax): Mo,We-Fr 08:00-17:00; Tu 12:00-20:00; Sa 08:00-12:00 "alternating Saturdays"
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

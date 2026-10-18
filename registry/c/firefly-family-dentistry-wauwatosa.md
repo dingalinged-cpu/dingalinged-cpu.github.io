@@ -13,6 +13,7 @@ Firefly Family Dentistry is a dentist in Wauwatosa, WI at 6535 West North Avenue
 - Website: https://www.fireflydentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 08:00-17:00; We 07:30-16:30; Th 08:00-17:00; Fr-Su off
+- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

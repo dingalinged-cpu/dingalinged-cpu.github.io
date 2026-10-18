@@ -13,6 +13,7 @@ Simply Sharp is a barber shop in Plano, TX at 3131 Custer Road #193, Plano, TX 7
 - Website: https://simply-sharp-llc.square.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Fr 09:00-20:00; Sa 08:00-20:00; Su 11:00-16:00
+- Registry Score: 64.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

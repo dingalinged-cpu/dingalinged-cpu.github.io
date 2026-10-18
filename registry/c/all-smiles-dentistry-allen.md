@@ -13,6 +13,7 @@ All Smiles Dentistry is a dentist in Allen, TX at 604 West Bethany Drive #210, A
 - Website: https://www.allsmilesdentistryallen.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 07:00-16:00; We 12:00-19:00; Fr 10:00-15:00
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

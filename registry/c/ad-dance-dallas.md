@@ -13,6 +13,7 @@ AD Dance is a dance studio in Dallas, TX at 718 North Buckner Boulevard #138, Da
 - Website: https://theamericandanceacademy.com/school-dance/ad-dance
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ FedEx Office is a printing service in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 12:00-18:00; Mo-Fr 07:30-21:00; Sa 08:00-18:00
+- Registry Score: 42.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

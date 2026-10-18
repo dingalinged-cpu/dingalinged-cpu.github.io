@@ -13,6 +13,7 @@ Texas Children's Pediatrics - Grand Avenue Parkway is a pediatrician in Sugar La
 - Website: https://www.texaschildrens.org/locations/texas-childrens-pediatrics/grand-parkway
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

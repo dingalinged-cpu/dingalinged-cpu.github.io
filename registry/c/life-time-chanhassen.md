@@ -13,6 +13,7 @@ Life Time is a gym in Chanhassen, MN at 2901 Corporate Place, Chanhassen, MN 553
 - Website: https://www.lifetime.life/life-time-locations/mn-chanhassen.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

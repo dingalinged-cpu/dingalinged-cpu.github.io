@@ -13,6 +13,7 @@ Primrose School of Spring-Klein is a preschool in spring, TX at 22003 Bridgeston
 - Website: https://www.primroseschools.com/schools/spring-klein/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

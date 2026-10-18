@@ -13,6 +13,7 @@ Sugaring NYC is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77441. Phone:
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-19:00, Sa 09:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

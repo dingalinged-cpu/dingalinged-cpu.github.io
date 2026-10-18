@@ -13,6 +13,7 @@ Jackson Hewitt is a tax preparation service in Chicago, IL at 3937 West North Av
 - Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/il/chicago/3934-w-north-ave/12787
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

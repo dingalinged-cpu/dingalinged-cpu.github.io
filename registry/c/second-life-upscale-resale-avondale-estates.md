@@ -1,0 +1,24 @@
+Second Life Upscale Resale is a thrift store in Avondale Estates, GA at 1 N Clarendon Ave, Avondale Estates, GA 30002. Phone: +16789745671. Website: https://www.secondlifeatlanta.org/.
+
+# Second Life Upscale Resale
+
+- Category: thrift store
+- Services: thrift store
+- Address: 1 N Clarendon Ave, Avondale Estates, GA 30002
+- City: Avondale Estates
+- State: GA
+- ZIP: 30002
+- Coordinates: 33.7768058, -84.2670181
+- Phone: +16789745671
+- Website: https://www.secondlifeatlanta.org/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/second-life-upscale-resale-avondale-estates/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/second-life-upscale-resale-avondale-estates.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/864676596 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

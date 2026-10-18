@@ -13,6 +13,7 @@ LZ Foot Spa is a spa in Frisco, TX at 7151 Preston Road #421D, Frisco, TX 75034.
 - Website: https://www.lzfootspa.business/home
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 54.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

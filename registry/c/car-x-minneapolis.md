@@ -13,6 +13,7 @@ Car-X is an auto repair shop in Minneapolis, MN at 3021 East Lake Street, Minnea
 - Website: https://www.carx.com/minneapolis/3021-e-lake-st-closed/?y_source=1_Njg3NjM0My03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU%3D
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

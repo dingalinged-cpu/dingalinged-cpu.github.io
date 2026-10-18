@@ -13,6 +13,7 @@ Smelling the Difference, LLC is a therapy practice in Chicago, IL at 1325 South 
 - Website: https://www.mtdintl.com/
 - Email: info@mtdintl.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 09:00-19:00
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

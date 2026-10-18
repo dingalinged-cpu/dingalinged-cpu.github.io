@@ -1,0 +1,24 @@
+Great Clips is a hair salon in Cobb County, GA at 4651 Woodstock Road #204, Cobb County, GA. Phone: +17705520054. Website: https://salons.greatclips.com/us/ga/roswell/4651-woodstock-rd.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 4651 Woodstock Road #204, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0618619, -84.4224335
+- Phone: +17705520054
+- Website: https://salons.greatclips.com/us/ga/roswell/4651-woodstock-rd
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-cobb-county-n12217404202/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-cobb-county-n12217404202.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12217404202 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

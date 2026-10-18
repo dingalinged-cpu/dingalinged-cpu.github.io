@@ -13,6 +13,7 @@ Jiu Jitsu Tech is a martial arts school in Corinth, TX at 7650 South Interstate 
 - Website: https://www.jiujitsutech.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

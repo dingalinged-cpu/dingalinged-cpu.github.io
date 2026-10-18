@@ -13,6 +13,7 @@ Second City Eye Care is an eye care practice in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu,Th 10:00-19:00; We 09:00-14:00; Fr 09:00-17:00
+- Registry Score: 52.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

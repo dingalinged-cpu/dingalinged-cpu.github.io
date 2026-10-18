@@ -1,0 +1,515 @@
+{
+ "place": "Powder Springs, GA",
+ "slug": "powder-springs-ga",
+ "count": 16,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "bike shop powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-powder-springs-ga.json"
+  },
+  {
+   "keyword": "dentist powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-powder-springs-ga.json"
+  },
+  {
+   "keyword": "dog groomer powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-powder-springs-ga.json"
+  },
+  {
+   "keyword": "event venues powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-powder-springs-ga.json"
+  },
+  {
+   "keyword": "gym powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-powder-springs-ga.json"
+  },
+  {
+   "keyword": "hair salon powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-powder-springs-ga.json"
+  },
+  {
+   "keyword": "haircut powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-powder-springs-ga.json"
+  },
+  {
+   "keyword": "liquor store powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-powder-springs-ga.json"
+  },
+  {
+   "keyword": "preschool powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-powder-springs-ga.json"
+  },
+  {
+   "keyword": "storage units powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-powder-springs-ga.json"
+  },
+  {
+   "keyword": "tax preparation powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-powder-springs-ga.json"
+  },
+  {
+   "keyword": "tax preparer powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-powder-springs-ga.json"
+  },
+  {
+   "keyword": "therapist powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-powder-springs-ga.json"
+  },
+  {
+   "keyword": "tire shop powder springs ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-powder-springs-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "bar-talk-with-jay-powder-springs",
+   "name": "Bar Talk with Jay",
+   "summary": "Bar Talk with Jay is a therapy practice in Powder Springs, GA at Brittany Drive, Powder Springs, GA 30127. Phone: +17702867526. Website: https://bartalkwithjay.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bar-talk-with-jay-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bar-talk-with-jay-powder-springs.json",
+   "address": {
+    "streetAddress": "Brittany Drive",
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "postalCode": "30127",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "zip": "30127",
+   "geo": {
+    "lat": 33.8456649,
+    "lon": -84.6730962
+   },
+   "phone": "+17702867526",
+   "website": "https://bartalkwithjay.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11268986924",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "boneshaker-bicycles-powder-springs",
+   "name": "Boneshaker Bicycles",
+   "summary": "Boneshaker Bicycles is a bike shop in Powder Springs, GA at 3401 Florence Road, Powder Springs, GA 30127.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boneshaker-bicycles-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boneshaker-bicycles-powder-springs.json",
+   "address": {
+    "streetAddress": "3401 Florence Road",
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "postalCode": "30127",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "zip": "30127",
+   "geo": {
+    "lat": 33.870368,
+    "lon": -84.7016524
+   },
+   "opening_hours": "Tu-Fr 11:00-18:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4512978641",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "george-e-ford-center-powder-springs",
+   "name": "George E Ford Center",
+   "summary": "George E Ford Center is an event venue in Powder Springs, GA at 4181 Atlanta Street, Powder Springs, GA 30127.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/george-e-ford-center-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/george-e-ford-center-powder-springs.json",
+   "address": {
+    "streetAddress": "4181 Atlanta Street",
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "postalCode": "30127",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "zip": "30127",
+   "geo": {
+    "lat": 33.8567329,
+    "lon": -84.6761136
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12569598680",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1-stop-package-powder-springs",
+   "name": "1 Stop Package",
+   "summary": "1 Stop Package is a liquor store in Powder Springs, GA.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1-stop-package-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1-stop-package-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8634661,
+    "lon": -84.6736962
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9366743930",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-fitness-powder-springs",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Powder Springs, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.864599,
+    "lon": -84.6751588
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9366743923",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coast-dental-powder-springs",
+   "name": "Coast Dental",
+   "summary": "Coast Dental is a dentist in Powder Springs, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coast-dental-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coast-dental-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.864491,
+    "lon": -84.674906
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9366743925",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "due-west-orthodontics-powder-springs",
+   "name": "Due West Orthodontics",
+   "summary": "Due West Orthodontics is a dentist in Powder Springs, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/due-west-orthodontics-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/due-west-orthodontics-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8628845,
+    "lon": -84.6738513
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/386539217",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-powder-springs",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Powder Springs, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8657345,
+    "lon": -84.6803075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010604567",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grace-christian-academy-gynmasium-powder-springs",
+   "name": "Grace Christian Academy Gynmasium",
+   "summary": "Grace Christian Academy Gynmasium is a gym in Powder Springs, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grace-christian-academy-gynmasium-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grace-christian-academy-gynmasium-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.878433,
+    "lon": -84.717008
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6053632545",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grace-christian-kindergarten-powder-springs",
+   "name": "Grace Christian Kindergarten",
+   "summary": "Grace Christian Kindergarten is a preschool in Powder Springs, GA.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grace-christian-kindergarten-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grace-christian-kindergarten-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8779301,
+    "lon": -84.7153373
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/415335764",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grace-place-preschool-powder-springs",
+   "name": "Grace Place Preschool",
+   "summary": "Grace Place Preschool is a preschool in Powder Springs, GA.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grace-place-preschool-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grace-place-preschool-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8783605,
+    "lon": -84.7165284
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/415333308",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-powder-springs",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Powder Springs, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8637002,
+    "lon": -84.6736992
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9366743933",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-powder-springs",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Powder Springs, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8640101,
+    "lon": -84.6736913
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9366743929",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "powder-springs-storage-powder-springs",
+   "name": "Powder Springs Storage",
+   "summary": "Powder Springs Storage is a self-storage facility in Powder Springs, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/powder-springs-storage-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/powder-springs-storage-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8597139,
+    "lon": -84.6620524
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9366743940",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spa-wags-powder-springs",
+   "name": "Spa Wags",
+   "summary": "Spa Wags is a dog groomer in Powder Springs, GA.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spa-wags-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spa-wags-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8584163,
+    "lon": -84.6774137
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/923616303",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tires-plus-powder-springs",
+   "name": "Tires Plus",
+   "summary": "Tires Plus is a tire shop in Powder Springs, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tires-plus-powder-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tires-plus-powder-springs.json",
+   "address": {
+    "addressLocality": "Powder Springs",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Powder Springs",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8639454,
+    "lon": -84.6776262
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/386539221",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

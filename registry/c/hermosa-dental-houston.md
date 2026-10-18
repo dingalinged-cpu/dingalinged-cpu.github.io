@@ -13,6 +13,7 @@ Hermosa Dental is a dentist in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 10:00-18:00; Tu,Th 10:00-19:00; We off; Sa 10:00-14:00; Su "by appointment"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

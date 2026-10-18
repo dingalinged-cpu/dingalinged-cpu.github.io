@@ -13,6 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 557 So
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 07:00-19:00; We 07:00-18:30; Fr 07:00-17:00
+- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

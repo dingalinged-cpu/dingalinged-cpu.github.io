@@ -13,6 +13,7 @@ Trusted Wrench is an auto repair shop in Shakopee, MN at 104 Market Street North
 - Website: https://www.midas.com/minneapolis/store.aspx?shopnum=2163&dmanum=576001
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
+- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

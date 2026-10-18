@@ -13,6 +13,7 @@ Waxing the City is a waxing salon in Wylie, TX at 3400 FM 544 #Suite 630, Wylie,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 41.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

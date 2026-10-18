@@ -13,6 +13,7 @@ Icon Nails is a nail salon in Lino Lakes, MN at 7114 Otter Lake Road #110, Lino 
 - Website: https://iconnailsmn.com/
 - Email: iconnailsmn@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 10:00-17:00; Su 11:00-16:00
+- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

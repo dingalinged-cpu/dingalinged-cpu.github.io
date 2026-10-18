@@ -13,6 +13,7 @@ Village Valet is a dry cleaner in Milwaukee, WI at 3200 West North Avenue, Milwa
 - Website: https://villagevalets.com/
 - Email: info@villagevalets.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

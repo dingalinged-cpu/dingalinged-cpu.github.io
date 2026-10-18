@@ -13,6 +13,7 @@ Diamond Nails & Spa is a nail salon in Coppell, TX. Phone: +14697026464.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:00-19:00; PH closed
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Bird's Eye View Tattoo is a tattoo shop in Slinger, WI at 425B East Washington S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-20:00
+- Registry Score: 54.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

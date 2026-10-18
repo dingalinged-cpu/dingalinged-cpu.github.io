@@ -1,0 +1,24 @@
+Long Tire & Brake is an auto repair shop in Cobb County, GA at 4625 Canton Road Northeast, Cobb County, GA. Phone: +17709264385. Website: https://www.longtireandbrake.com/.
+
+# Long Tire & Brake
+
+- Category: auto repair
+- Services: auto repair, mechanic, brake repair, tire shop
+- Address: 4625 Canton Road Northeast, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0641436, -84.5217712
+- Phone: +17709264385
+- Website: https://www.longtireandbrake.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/long-tire-and-brake-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/long-tire-and-brake-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13196220137 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

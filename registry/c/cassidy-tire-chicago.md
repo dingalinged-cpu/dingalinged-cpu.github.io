@@ -13,6 +13,7 @@ Cassidy Tire is a tire shop in Chicago, IL at 1950 West Carroll Avenue, Chicago,
 - Website: https://www.cassidytire.com/stores/view/15138/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-17:00; Sa 07:00-12:00
+- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

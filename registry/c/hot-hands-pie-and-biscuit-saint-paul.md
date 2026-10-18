@@ -13,6 +13,7 @@ Hot Hands Pie & Biscuit is a bakery in Saint Paul, MN at 272 Snelling Avenue Sou
 - Website: https://www.hothandspie.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 08:00-15:00; Su 09:00-14:00
+- Registry Score: 66.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Studio Red Hair Design is a hair salon in Homer Glen, IL at 14203 South Bell Roa
 - Website: https://www.studioredhairdesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

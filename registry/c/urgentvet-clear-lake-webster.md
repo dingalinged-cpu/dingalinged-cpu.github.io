@@ -13,6 +13,7 @@ UrgentVet - Clear Lake is a veterinarian in Webster, TX at 931 West Bay Area Bou
 - Website: https://urgentvet.com/location/clear-lake-webster-tx/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 15:00-23:00; Sa,Su 10:00-20:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Serene Smiles Dentistry is a dentist in Lewisville, TX at West Round Grove Road 
 - Website: https://www.serenesmilestx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00; We,Th 08:00-17:00; Fr 07:00-16:00
+- Registry Score: 66.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

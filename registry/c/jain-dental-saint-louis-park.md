@@ -13,6 +13,7 @@ Jain Dental is a dentist in Saint Louis Park, MN at 4600 Excelsior Boulevard, Sa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Th 07:15-16:30; Tu 12:00-19:00; Fr 08:00-12:00; PH closed
+- Registry Score: 57.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ BlackHorse Roofing & Construction LLC is a roofer in Tomball, TX at 24445 Tombal
 - Website: https://blackhorseroofingandconstruction.com/
 - Email: blackhorse713@outlook.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

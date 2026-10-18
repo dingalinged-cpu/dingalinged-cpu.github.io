@@ -13,6 +13,7 @@ Garcia CPA, PC is an accountant in Plano, TX at 101 East Park Boulevard #413, Pl
 - Website: https://www.cpa-in-dallas.com/
 - Email: julio@cpa-in-dallas.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

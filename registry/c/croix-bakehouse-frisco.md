@@ -13,6 +13,7 @@ Croix Bakehouse is a bakery in Frisco, TX at 5355 Dallas Parkway #610, Frisco, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu off; We-Su 07:30-14:00
+- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

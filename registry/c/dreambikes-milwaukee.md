@@ -13,6 +13,7 @@ DreamBikes is a bike shop in Milwaukee, WI at 2021A North Doctor Martin Luther K
 - Website: https://dream-bikes.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 00:00-18:00; Sa 10:00-16:00
+- Registry Score: 60.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

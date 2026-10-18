@@ -13,6 +13,7 @@ Big Brand Tire & Service is a tire shop in Aubrey, TX at 26779 US Highway 380 Ea
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 40.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

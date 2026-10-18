@@ -13,6 +13,7 @@ The Bread Pedalers is a bakery in West Allis, WI at 1436 South 92nd Street, West
 - Website: https://www.thebreadpedalers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu off; We 07:00-14:00; Th-Fr 07:00-14:00, 17:00-21:00; Sa-Su 08:00-13:00
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

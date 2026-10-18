@@ -13,6 +13,7 @@ Cat Care Clinic is a veterinarian in Milwaukee, WI. Phone: +14142722287. Website
 - Website: https://www.catdoctor98.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 07:30-19:00; Tu,Th-Fr 07:30-18:00; Sa 08:00-12:00
+- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

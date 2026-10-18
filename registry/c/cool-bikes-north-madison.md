@@ -1,0 +1,24 @@
+Cool Bikes North is a bike shop in Madison, WI at 1861 Northport Drive, Madison, WI 53704. Phone: +16082306717. Website: https://www.coolbikesnorth.com/.
+
+# Cool Bikes North
+
+- Category: bike shop
+- Services: bike shop
+- Address: 1861 Northport Drive, Madison, WI 53704
+- City: Madison
+- State: WI
+- ZIP: 53704
+- Coordinates: 43.1289078, -89.3601062
+- Phone: +16082306717
+- Website: https://www.coolbikesnorth.com/
+- Email: n/a
+- Opening hours (OSM syntax): Tu-Fr 10:00-17:00; Sa 11:00-15:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/cool-bikes-north-madison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cool-bikes-north-madison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12530067001 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

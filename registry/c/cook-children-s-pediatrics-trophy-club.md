@@ -13,6 +13,7 @@ Cook Children’s Pediatrics is a pediatrician in Trophy Club, TX at 2550 Bobcat
 - Website: https://locations.cookchildrens.org/tx/trophy-club/2550-bobcat-boulevard
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
+- Registry Score: 54.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

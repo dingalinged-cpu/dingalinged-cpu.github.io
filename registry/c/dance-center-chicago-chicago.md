@@ -13,6 +13,7 @@ Dance Center Chicago is a dance studio in Chicago, IL at 3868 North Lincoln Aven
 - Website: https://www.dancecenterchicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 00:00-24:00; Fr-Su 10:00-16:00
+- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Public Storage is a self-storage facility in Houston, TX at 8555 Larkwood Drive,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa,Su 09:30-17:00; PH 08:00-08:05
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

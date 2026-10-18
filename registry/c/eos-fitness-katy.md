@@ -13,6 +13,7 @@ EOS Fitness is a gym in Katy, TX at 1719 Spring Green Boulevard, Katy, TX 77494.
 - Website: https://eosfitness.com/gym/katy-spring-green-blvd-fm-1463/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

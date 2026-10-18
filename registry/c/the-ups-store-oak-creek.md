@@ -13,6 +13,7 @@ The UPS Store is a printing service in Oak Creek, WI at 6508 South 27th Street #
 - Website: n/a
 - Email: store4714@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 09:00-15:00; Su 10:00-15:00
+- Registry Score: 48.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

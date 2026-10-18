@@ -13,6 +13,7 @@ European Wax Center is a waxing salon in Vernon Hills, IL at 901 North Milwaukee
 - Website: https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 41.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

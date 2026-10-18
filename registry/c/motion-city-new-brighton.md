@@ -13,6 +13,7 @@ Motion City is a martial arts school in New Brighton, MN at 550 County Road D We
 - Website: https://motioncitybjj.com/
 - Email: info@motioncitybjj.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

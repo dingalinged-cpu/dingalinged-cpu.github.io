@@ -1,0 +1,24 @@
+Lizzie The Baker is a bakery in Cherokee County, GA at 204 Trickum Hills Lane, Cherokee County, GA. Phone: +14708155228. Website: https://www.lizziethebaker.com/.
+
+# Lizzie The Baker
+
+- Category: bakery
+- Services: bakery
+- Address: 204 Trickum Hills Lane, Cherokee County, GA
+- City: Cherokee County
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0804879, -84.4889529
+- Phone: +14708155228
+- Website: https://www.lizziethebaker.com/
+- Email: lizzie@lizziethebaker.com
+- Opening hours (OSM syntax): "by appointment"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lizzie-the-baker-cherokee-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lizzie-the-baker-cherokee-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13818216874 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

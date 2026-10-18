@@ -13,6 +13,7 @@ Kids 'R' Kids is a daycare in Spring, TX at 20621 Kuykendahl Road, Spring, TX 77
 - Website: https://kidsrkids.com/spring/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

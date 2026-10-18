@@ -13,6 +13,7 @@ BIMS, Inc. is a HVAC contractor in Euless, TX at 1114 South Airport Circle #120,
 - Website: https://bellomyims.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-09:00
+- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

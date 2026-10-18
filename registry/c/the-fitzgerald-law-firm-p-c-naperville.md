@@ -13,6 +13,7 @@ The Fitzgerald Law Firm P.C. is a lawyer in Naperville, IL at 1220 Iroquois Aven
 - Website: https://www.fitzgeraldlawpc.com/
 - Email: dan@fitzgeraldlawpc.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 53.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

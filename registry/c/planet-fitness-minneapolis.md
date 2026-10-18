@@ -13,6 +13,7 @@ Planet Fitness is a gym in Minneapolis, MN at 2852 26th Avenue South, Minneapoli
 - Website: https://www.planetfitness.com/gyms/minneapolis-minnehaha-mn
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-22:00, Fr 05:00-21:00, Sa-Su 06:00-20:00
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

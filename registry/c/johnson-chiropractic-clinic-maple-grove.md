@@ -13,6 +13,7 @@ Johnson Chiropractic Clinic is a chiropractor in Maple Grove, MN at 13700 83rd W
 - Website: https://www.johnsonchiroclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 07:00-17:00;Tu 14:00-18:00;Th 08:00-18:00;Fr 07:00-11:00
+- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

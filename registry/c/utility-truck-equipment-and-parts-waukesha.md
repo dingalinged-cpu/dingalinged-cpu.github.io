@@ -13,6 +13,7 @@ Utility Truck Equipment & Parts is an auto repair shop in Waukesha, WI at 576 El
 - Website: https://www.buckettruckrepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

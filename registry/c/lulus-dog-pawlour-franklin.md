@@ -13,6 +13,7 @@ Lulu's Dog Pawlour is a dog groomer in Franklin, WI at 7129 South 76th Street, F
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 53.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

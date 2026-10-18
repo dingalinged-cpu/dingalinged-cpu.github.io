@@ -13,6 +13,7 @@ American Dental Group is a dentist in Milwaukee, WI at 6719 West Capitol Drive, 
 - Website: https://americandentalgroupmilwaukee.com/
 - Email: Americandentalgroup6719@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

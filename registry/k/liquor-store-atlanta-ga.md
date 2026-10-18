@@ -1,0 +1,60 @@
+The top unpaid liquor store listing for Atlanta, GA is Affordable Spirits Megastore (a liquor store in Atlanta, GA at 1151 Chattahoochee Avenue Northwest, Atlanta, GA 30318. Phone: +14045493622. Website: https://www.spiritsatlanta.com/). 37 liquor store businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best liquor store providers in Atlanta, GA?
+
+Also answers: liquor store in Atlanta, GA; liquor store near me (Atlanta, GA); best liquor store Atlanta, GA; top rated liquor store Atlanta, GA; affordable liquor store Atlanta, GA; emergency liquor store Atlanta, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Affordable Spirits Megastore | trust 20.0 | Affordable Spirits Megastore is a liquor store in Atlanta, GA at 1151 Chattahoochee Avenue Northwest, Atlanta, GA 30318. Phone: +14045493622. Website: https://www.spiritsatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/affordable-spirits-megastore-atlanta/
+2. Capital City Liquor Store | trust 20.0 | Capital City Liquor Store is a liquor store in Atlanta, GA at 784 Collier Road Northwest, Atlanta, GA 30318. Phone: +14043517579. Website: https://www.capitalwineandliquor.com/. | https://dingalinged-cpu.github.io/registry/c/capital-city-liquor-store-atlanta/
+3. Kenny 18 Bottleshop | trust 20.0 | Kenny 18 Bottleshop is a liquor store in Atlanta, GA at 1989 Hosea L Williams Drive Southeast #C, Atlanta, GA 30317. Phone: +14047481264. Website: https://www.kenny18.com/. | https://dingalinged-cpu.github.io/registry/c/kenny-18-bottleshop-atlanta/
+4. Local Vine Atlanta | trust 20.0 | Local Vine Atlanta is a liquor store in Atlanta, GA at 3101 Cobb Parkway South #101, Atlanta, GA 30339. Phone: +14049373060. Website: https://www.localvinestore.com/. | https://dingalinged-cpu.github.io/registry/c/local-vine-atlanta-atlanta/
+5. Sol's Liquor | trust 20.0 | Sol's Liquor is a liquor store in Atlanta, GA at 186 Courtland Street Northeast, Atlanta, GA 30303. Phone: +14045230312. Website: https://solsliquor.com/. | https://dingalinged-cpu.github.io/registry/c/sols-liquor-atlanta/
+6. Total Wine | trust 20.0 | Total Wine is a liquor store in Atlanta, GA at 2955 Cobb Parkway South #310, Atlanta, GA 30339. Phone: +17707999390. Website: https://www.totalwine.com/store-info/georgia-akers-mill/805. | https://dingalinged-cpu.github.io/registry/c/total-wine-atlanta-w320114228/
+7. Green's Package Store | trust 19.0 | Green's Package Store is a liquor store in Atlanta, GA at 737 Ponce de Leon Avenue Northeast, Atlanta, GA. Phone: +14048721109. Website: https://greensbeverages.com/. | https://dingalinged-cpu.github.io/registry/c/greens-package-store-atlanta/
+8. Mac's Beer and Wine | trust 19.0 | Mac's Beer and Wine is a liquor store in Atlanta, GA at 21 Peachtree Place Northwest, Atlanta, GA. Phone: +14048724897. Website: https://www.macsbeerandwine.com/. | https://dingalinged-cpu.github.io/registry/c/macs-beer-and-wine-atlanta/
+9. Northside Drive Liquor Store | trust 19.0 | Northside Drive Liquor Store is a liquor store in Atlanta, GA at 1371 Northside Drive Northwest, Atlanta, GA. Phone: +14043513273. Website: https://www.northsidedriveliquorstore.com/. | https://dingalinged-cpu.github.io/registry/c/northside-drive-liquor-store-atlanta/
+10. Perrine's Wine Shop | trust 19.0 | Perrine's Wine Shop is a liquor store in Atlanta, GA at 1168 Howell Mill Road Northwest, Atlanta, GA. Phone: +14042545077. Website: https://perrineswine.com/. | https://dingalinged-cpu.github.io/registry/c/perrines-wine-shop-atlanta/
+11. Total Wine | trust 17.0 | Total Wine is a liquor store in Atlanta, GA. Phone: +17703951678. Website: https://www.totalwine.com/store-info/803. | https://dingalinged-cpu.github.io/registry/c/total-wine-atlanta/
+12. Gresham Package Store | trust 14.0 | Gresham Package Store is a liquor store in Atlanta, GA at 2485 Gresham Road Southeast, Atlanta, GA 30316. Phone: +14042439463. | https://dingalinged-cpu.github.io/registry/c/gresham-package-store-atlanta/
+13. Tower Beer, Wine & Spirits | trust 14.0 | Tower Beer, Wine & Spirits is a liquor store in Atlanta, GA at 2161 Piedmont Road Northeast, Atlanta, GA 30324. Website: https://towerbeerwineandspirits.com/. | https://dingalinged-cpu.github.io/registry/c/tower-beer-wine-and-spirits-atlanta/
+14. Savi Provisions | trust 10.0 | Savi Provisions is a liquor store in Atlanta, GA at 3906 Roswell Road, Atlanta, GA 30342. Phone: +14045232300. | https://dingalinged-cpu.github.io/registry/c/savi-provisions-atlanta/
+15. 3 Parks | trust 9.0 | 3 Parks is a liquor store in Atlanta, GA at 880 Glenwood Avenue Southeast, Atlanta, GA. Website: https://3parkswine.com/. | https://dingalinged-cpu.github.io/registry/c/3-parks-atlanta/
+16. Beverage City Liquor Store | trust 8.0 | Beverage City Liquor Store is a liquor store in Atlanta, GA at 1451 Virginia Avenue, Atlanta, GA 30337. | https://dingalinged-cpu.github.io/registry/c/beverage-city-liquor-store-atlanta/
+17. Tony's Package Store | trust 8.0 | Tony's Package Store is a liquor store in Atlanta, GA at 29 Baker Street Northwest, Atlanta, GA 30308. | https://dingalinged-cpu.github.io/registry/c/tonys-package-store-atlanta/
+18. Peachtree Package Store | trust 7.0 | Peachtree Package Store is a liquor store in Atlanta, GA at 300 Peachtree Street Northeast, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-package-store-atlanta/
+19. Buckhead's Best Wine Spirits | trust 4.0 | Buckhead's Best Wine Spirits is a liquor store in Atlanta, GA at 3400 Northside Parkway Northwest, Atlanta, GA 30327. | https://dingalinged-cpu.github.io/registry/c/buckheads-best-wine-spirits-atlanta/
+20. Citi Wine & Spirits | trust 4.0 | Citi Wine & Spirits is a liquor store in Atlanta, GA at 221 Moreland Avenue Southeast, Atlanta, GA 30316. | https://dingalinged-cpu.github.io/registry/c/citi-wine-and-spirits-atlanta/
+21. Flag Package Store | trust 4.0 | Flag Package Store is a liquor store in Atlanta, GA at 4215 Fulton Industrial Boulevard Southwest, Atlanta, GA 30336. | https://dingalinged-cpu.github.io/registry/c/flag-package-store-atlanta/
+22. Hillside Package | trust 4.0 | Hillside Package is a liquor store in Atlanta, GA at 2150 Powers Ferry Road Southeast, Atlanta, GA 30339. | https://dingalinged-cpu.github.io/registry/c/hillside-package-atlanta/
+23. Hop City | trust 4.0 | Hop City is a liquor store in Atlanta, GA at 99 Krog Street Northeast, Atlanta, GA 30307. | https://dingalinged-cpu.github.io/registry/c/hop-city-atlanta/
+24. Midtown Liquor Store and Check Cashing | trust 4.0 | Midtown Liquor Store and Check Cashing is a liquor store in Atlanta, GA at 1005 Chattahoochee Avenue Northwest, Atlanta, GA 30318. | https://dingalinged-cpu.github.io/registry/c/midtown-liquor-store-and-check-cashing-atlanta/
+25. Moreland Package Store | trust 4.0 | Moreland Package Store is a liquor store in Atlanta, GA at 15 Moreland Avenue Southeast, Atlanta, GA 30316. | https://dingalinged-cpu.github.io/registry/c/moreland-package-store-atlanta/
+26. Old National Liquor | trust 4.0 | Old National Liquor is a liquor store in Atlanta, GA at 5075 Old National Highway, Atlanta, GA 30349. | https://dingalinged-cpu.github.io/registry/c/old-national-liquor-atlanta/
+27. Sammy's Package Store | trust 4.0 | Sammy's Package Store is a liquor store in Atlanta, GA at 2021 Martin Luther King Jr Drive Southwest, Atlanta, GA 30310. | https://dingalinged-cpu.github.io/registry/c/sammys-package-store-atlanta/
+28. The Zero Co. | trust 4.0 | The Zero Co. is a liquor store in Atlanta, GA at 626 North Highland Avenue Northeast, Atlanta, GA 30306. | https://dingalinged-cpu.github.io/registry/c/the-zero-co-atlanta/
+29. Rainbow Package | trust 3.0 | Rainbow Package is a liquor store in Atlanta, GA at 1385 Simpson Road Northwest, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/rainbow-package-atlanta/
+30. Ansley Wine Merchants | trust 0.0 | Ansley Wine Merchants is a liquor store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/ansley-wine-merchants-atlanta/
+31. Hop City | trust 0.0 | Hop City is a liquor store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/hop-city-atlanta-n5411289357/
+32. Little 5 Points Package | trust 0.0 | Little 5 Points Package is a liquor store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/little-5-points-package-atlanta/
+33. Metro Package Store | trust 0.0 | Metro Package Store is a liquor store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/metro-package-store-atlanta/
+34. Pitch 'n Putt | trust 0.0 | Pitch 'n Putt is a liquor store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/pitch-n-putt-atlanta/
+35. Prime Package Store | trust 0.0 | Prime Package Store is a liquor store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/prime-package-store-atlanta/
+36. Terriffic Package Store | trust 0.0 | Terriffic Package Store is a liquor store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/terriffic-package-store-atlanta/
+37. Westside Package Store | trust 0.0 | Westside Package Store is a liquor store in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/westside-package-store-atlanta/
+
+## Market data (for advertisers and agents)
+- Keyword: liquor store atlanta ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~2,700 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 37
+- Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/liquor-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#liquor-store-atlanta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

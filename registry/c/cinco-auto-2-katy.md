@@ -13,6 +13,7 @@ Cinco Auto 2 is an auto repair shop in Katy, TX at 5341 Farm to Market 1463, Kat
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00, Sa 08:30-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

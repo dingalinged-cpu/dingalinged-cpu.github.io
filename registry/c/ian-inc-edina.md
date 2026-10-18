@@ -13,6 +13,7 @@ IAN Inc. is a marketing agency in Edina, MN at 3948 West 50th Street #Suite 212,
 - Website: https://ianinc.net/
 - Email: info@ianinc.net
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Registry Score: 66.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

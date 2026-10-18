@@ -13,6 +13,7 @@ Third Coast HVAC, AC & Furnace Repair is a HVAC contractor in Brookfield, WI at 
 - Website: https://thirdcoast-hvac.com/
 - Email: info@thirdcoast-hvac.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

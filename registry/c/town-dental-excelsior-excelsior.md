@@ -13,6 +13,7 @@ Town Dental - Excelsior is a dentist in Excelsior, MN at 425 2nd Street, Excelsi
 - Website: https://town-dental.com/locations/excelsior/
 - Email: info@town-dental.com
 - Opening hours (OSM syntax): Mo 08:00-17:00, Tu 07:00-16:00, We 07:00-16:00, Th 08:00-17:00, Fr closed, Sa closed, Su closed
+- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

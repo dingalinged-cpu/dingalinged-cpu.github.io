@@ -13,6 +13,7 @@ Sterling Lawyers, LLC is a lawyer in Mequon, WI at 11019 North Towne Square Road
 - Website: https://www.sterlinglawyers.com/wisconsin/locations/mequon/
 - Email: office@sterlinglawyers.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

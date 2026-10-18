@@ -13,6 +13,7 @@ National Tire and Battery is an auto repair shop in Dallas, TX. Website: https:/
 - Website: https://www.ntb.com/store/tx/dallas/8030-president-george-bush-tpk-75252/4451
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-18:00; Th 08:00-20:30; Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00
+- Registry Score: 49.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

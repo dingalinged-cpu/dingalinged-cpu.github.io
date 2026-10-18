@@ -13,6 +13,7 @@ spenga is a gym in Webster, TX at 1507 West Bay Area Boulevard #B, Webster, TX 7
 - Website: https://websterbaybrook.spenga.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

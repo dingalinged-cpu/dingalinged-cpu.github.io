@@ -13,6 +13,7 @@ Hughes & Cozad Orthodontics is a dentist in Spring, TX at 2827 Waterbend Cove #3
 - Website: https://hughescozadortho.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

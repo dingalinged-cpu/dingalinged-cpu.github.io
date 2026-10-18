@@ -13,6 +13,7 @@ Patina is a gift shop in Saint Paul, MN at 1581 Selby Avenue, Saint Paul, MN 551
 - Website: https://patinastores.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-21:00; Su 11:00-18:00
+- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

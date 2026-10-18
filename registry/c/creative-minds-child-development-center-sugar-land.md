@@ -13,6 +13,7 @@ Creative Minds Child Development Center is a daycare in Sugar Land, TX at 9920 H
 - Website: https://www.creativemindscdc.com/
 - Email: creativemindscdc@yahoo.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

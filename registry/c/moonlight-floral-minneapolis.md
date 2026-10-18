@@ -13,6 +13,7 @@ Moonlight Floral is a florist in Minneapolis, MN at 2424 Nicollet Avenue South, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-14:00
+- Registry Score: 57.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

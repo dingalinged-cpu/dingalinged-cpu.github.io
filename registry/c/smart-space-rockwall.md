@@ -13,6 +13,7 @@ Smart Space is a self-storage facility in Rockwall, TX at 1705 South John King B
 - Website: https://www.advantagestorage.net/storage-locations/tx/rockwall/1705-john-king-blvd/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

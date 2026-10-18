@@ -1,0 +1,24 @@
+Mobil Tires is an auto repair shop in Evansville, WI at 110 East Church Street, Evansville, WI 53536.
+
+# Mobil Tires
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 110 East Church Street, Evansville, WI 53536
+- City: Evansville
+- State: WI
+- ZIP: 53536
+- Coordinates: 42.7793227, -89.2973433
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mobil-tires-evansville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mobil-tires-evansville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/294456020 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

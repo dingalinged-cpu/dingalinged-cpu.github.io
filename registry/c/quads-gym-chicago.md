@@ -13,6 +13,7 @@ Quads Gym is a gym in Chicago, IL at 3727 North Broadway, Chicago, IL 60613. Pho
 - Website: https://www.quadsgym.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-22:00; Sa 06:00-20:00; Su 09:00-20:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

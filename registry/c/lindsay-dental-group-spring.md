@@ -13,6 +13,7 @@ Lindsay Dental Group is a dentist in Spring, TX at 22331 Gosling Road, Spring, T
 - Website: https://www.lindsaydentalgroup.com/
 - Email: lindsaydentalgroup@yahoo.com
 - Opening hours (OSM syntax): Mo-Th 08:30-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

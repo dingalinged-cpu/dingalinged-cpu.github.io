@@ -13,6 +13,7 @@ Bobby's Bike Hike is a bike shop in Chicago, IL at 540 North Lake Shore Drive, C
 - Website: https://www.bobbysbikehike.com/
 - Email: n/a
 - Opening hours (OSM syntax): Jun-Aug 08:30-18:30; Sep-Oct 09:00-18:00 "please call"; Nov-Feb 09:00-17:00 "please call"; Mar-May 09:00-18:00 "please call"
+- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

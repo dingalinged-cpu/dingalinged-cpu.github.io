@@ -13,6 +13,7 @@ Guys Grooming Shop is a hair salon in Rosenberg, TX at 4122 FM 762 #108, Rosenbe
 - Website: https://www.guysgroomingshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

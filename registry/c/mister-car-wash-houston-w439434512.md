@@ -13,6 +13,7 @@ Mister Car Wash is a car wash in Houston, TX at 3522 Washington Avenue, Houston,
 - Website: https://mistercarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-19:00, Su 08:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

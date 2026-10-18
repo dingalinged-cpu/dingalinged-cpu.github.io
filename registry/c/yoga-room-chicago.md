@@ -13,6 +13,7 @@ Yoga Room is a yoga studio in Chicago, IL. Website: https://www.flychicago.com/o
 - Website: https://www.flychicago.com/ohare/ServicesAmenities/amenities/Pages/yoga.aspx
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-22:00
+- Registry Score: 56.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

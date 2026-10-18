@@ -13,6 +13,7 @@ Public Storage is a self-storage facility in Edina, MN at 4425 West 77th Street,
 - Website: https://www.publicstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

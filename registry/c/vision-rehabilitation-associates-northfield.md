@@ -13,6 +13,7 @@ Vision Rehabilitation Associates is an eye care practice in Northfield, IL at 19
 - Website: https://visionrehabassociates.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

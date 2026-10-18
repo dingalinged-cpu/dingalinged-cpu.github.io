@@ -13,6 +13,7 @@ Hot Breads is a bakery in Houston, TX at 5700a Hillcroft Avenue, Houston, TX 770
 - Website: https://www.houstonhotbreads.com/home.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:30-20:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

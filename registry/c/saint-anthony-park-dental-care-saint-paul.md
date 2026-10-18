@@ -13,6 +13,7 @@ Saint Anthony Park Dental Care is a dentist in Saint Paul, MN at 2278 Como Avenu
 - Website: https://www.sapdentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

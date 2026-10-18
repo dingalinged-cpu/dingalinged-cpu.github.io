@@ -13,6 +13,7 @@ Planetary Cycles is a bike shop in Houston, TX at 8715 West Loop South #B, Houst
 - Website: https://www.planetarycycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-17:00; Sa 10:00-16:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

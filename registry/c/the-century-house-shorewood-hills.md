@@ -1,0 +1,24 @@
+The Century House is a furniture store in Shorewood Hills, WI at 3420 University Avenue, Shorewood Hills, WI.
+
+# The Century House
+
+- Category: furniture store
+- Services: furniture store
+- Address: 3420 University Avenue, Shorewood Hills, WI
+- City: Shorewood Hills
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0758327, -89.4462135
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-century-house-shorewood-hills/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-century-house-shorewood-hills.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4458215553 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

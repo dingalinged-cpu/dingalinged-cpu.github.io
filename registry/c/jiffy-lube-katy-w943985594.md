@@ -13,6 +13,7 @@ Jiffy Lube is an auto repair shop in Katy, TX at 4817 FM 1463, Katy, TX 77494. P
 - Website: https://www.jiffylube.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

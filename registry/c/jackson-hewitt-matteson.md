@@ -13,6 +13,7 @@ Jackson Hewitt is a tax preparation service in Matteson, IL at 4065 Lincoln High
 - Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/il/matteson/4065-west-211th-st/11971
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

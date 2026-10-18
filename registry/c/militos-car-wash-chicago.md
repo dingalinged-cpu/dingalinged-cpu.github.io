@@ -13,6 +13,7 @@ Milito's Car Wash is a car wash in Chicago, IL at 1112 West Fullerton Avenue, Ch
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

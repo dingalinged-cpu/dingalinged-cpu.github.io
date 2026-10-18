@@ -1,0 +1,24 @@
+Steinhafels Mattress and Bedding Store is a mattress store in Madison, WI at 7333 Mineral Point Road, Madison, WI 53717. Website: https://www.steinhafels.com/locations/west-towne-mattress.
+
+# Steinhafels Mattress and Bedding Store
+
+- Category: mattress store
+- Services: mattress store
+- Address: 7333 Mineral Point Road, Madison, WI 53717
+- City: Madison
+- State: WI
+- ZIP: 53717
+- Coordinates: 43.0591699, -89.5089655
+- Phone: n/a
+- Website: https://www.steinhafels.com/locations/west-towne-mattress
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/steinhafels-mattress-and-bedding-store-madison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/steinhafels-mattress-and-bedding-store-madison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/62166418 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

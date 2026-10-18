@@ -13,6 +13,7 @@ Pottery Barn is a furniture store in Chicago, IL at 1000 West North Avenue, Chic
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+- Registry Score: 47.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

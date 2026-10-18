@@ -13,6 +13,7 @@ State Farm is an insurance agent in Humble, TX at 1420 FM 1960 Bypass Road East 
 - Website: https://jcroberson.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

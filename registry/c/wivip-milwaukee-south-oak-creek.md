@@ -13,6 +13,7 @@ WIVIP Milwaukee South is a vehicle inspection station in Oak Creek, WI at 9300 S
 - Website: https://www.wisconsinvip2.org/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 09:00-18:00; Su-Mo off; PH off
+- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

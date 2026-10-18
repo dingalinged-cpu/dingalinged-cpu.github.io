@@ -13,6 +13,7 @@ Planet Fitness is a gym in Arlington, TX at 5425 South Cooper Street, Arlington,
 - Website: https://www.planetfitness.com/gyms/arlington-south-tx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

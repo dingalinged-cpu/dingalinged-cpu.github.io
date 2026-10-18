@@ -13,6 +13,7 @@ Hollywood Feed is a pet store in Richardson, TX at 1415 East Renner Road #200, R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:30
+- Registry Score: 44.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

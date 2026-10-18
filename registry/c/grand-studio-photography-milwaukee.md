@@ -13,6 +13,7 @@ Grand Studio Photography is a photographer in Milwaukee, WI at 539 West Historic
 - Website: n/a
 - Email: ts.matos22@hotmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

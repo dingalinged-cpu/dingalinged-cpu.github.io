@@ -13,6 +13,7 @@ Shalom Kosher Bakery is a bakery in Buffalo Grove, IL at 1165 Arlington Heights 
 - Website: https://www.shalombakerybg.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 8:00-12:00; Th 8:00-12:00; Fr 7:00-12:00; Su 8:00-12:00
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

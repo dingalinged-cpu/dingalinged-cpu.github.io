@@ -13,6 +13,7 @@ Anytime Fitness is a gym in Eagan, MN at 1981 Silver Bell Road #1800, Eagan, MN 
 - Website: https://www.anytimefitness.com/gyms/1265/eagan-mn-55122/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

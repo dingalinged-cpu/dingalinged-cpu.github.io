@@ -13,6 +13,7 @@ James D. Geer, DDS, Inc. is a dentist in Tomball, TX at 1013 West Main Street, T
 - Website: https://www.tomballdentist.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

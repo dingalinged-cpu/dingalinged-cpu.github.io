@@ -1,0 +1,37 @@
+The top unpaid attorney listing for Marietta, GA is Cohen & Sinowski, P.C. (a lawyer in Marietta, GA at 30 Trammell Street Southwest, Marietta, GA 30064. Phone: +14043518888. Website: https://www.cohensinowski.com/). 14 attorney businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best attorney providers in Marietta, GA?
+
+Also answers: attorney in Marietta, GA; attorney near me (Marietta, GA); best attorney Marietta, GA; top rated attorney Marietta, GA; affordable attorney Marietta, GA; emergency attorney Marietta, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Cohen & Sinowski, P.C. | trust 20.0 | Cohen & Sinowski, P.C. is a lawyer in Marietta, GA at 30 Trammell Street Southwest, Marietta, GA 30064. Phone: +14043518888. Website: https://www.cohensinowski.com/. | https://dingalinged-cpu.github.io/registry/c/cohen-and-sinowski-p-c-marietta/
+2. Debbie Crosby Pelerose P.C. | trust 20.0 | Debbie Crosby Pelerose P.C. is a lawyer in Marietta, GA at 170 Anderson Street Southeast, Marietta, GA 30060. Phone: +17707940204. Website: https://peleroselawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/debbie-crosby-pelerose-p-c-marietta/
+3. Eric N. Welch & Associates | trust 20.0 | Eric N. Welch & Associates is a lawyer in Marietta, GA at 115, Marietta, GA 30061. Phone: +17702186200. Website: https://welchfim.net/. | https://dingalinged-cpu.github.io/registry/c/eric-n-welch-and-associates-marietta/
+4. Law Offices of Matthew C. Hines, Injury Accident Lawyers - Marietta | trust 20.0 | Law Offices of Matthew C. Hines, Injury Accident Lawyers - Marietta is a lawyer in Marietta, GA at 639 Powder Springs Street #D, Marietta, GA 30069. Phone: +16786794076. Website: https://hineslaw.org/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-matthew-c-hines-injury-accident-lawyers-marietta-marietta/
+5. Morgan & Morgan | trust 20.0 | Morgan & Morgan is a lawyer in Marietta, GA at 1350 Church Street Extension Northeast #Suite 300, Marietta, GA 30060. Phone: +17705767699. Website: https://www.forthepeople.com/office-locations/georgia/marietta/. | https://dingalinged-cpu.github.io/registry/c/morgan-and-morgan-marietta/
+6. The Auto Accident Attorneys Group | trust 20.0 | The Auto Accident Attorneys Group is a lawyer in Marietta, GA at 1454 Johnson Ferry Road Northeast, Marietta, GA 30062. Phone: +14046000941. Website: https://theaaagroup.com/. | https://dingalinged-cpu.github.io/registry/c/the-auto-accident-attorneys-group-marietta/
+7. The Mazloom Law Firm, LLC | trust 20.0 | The Mazloom Law Firm, LLC is a lawyer in Marietta, GA at 250 Lawrence St NE, Marietta, GA 30060. Phone: +17705909837. Website: https://mazilaw.com/. | https://dingalinged-cpu.github.io/registry/c/the-mazloom-law-firm-llc-marietta/
+8. Kirkland Anthony, Attorney At Law | trust 17.0 | Kirkland Anthony, Attorney At Law is a lawyer in Marietta, GA. Phone: +17704286380. Website: https://www.akirkland.com/. | https://dingalinged-cpu.github.io/registry/c/kirkland-anthony-attorney-at-law-marietta/
+9. Frye Law Group | trust 16.0 | Frye Law Group is a lawyer in Marietta, GA at 170 Anderson Street, Marietta, GA 30060. Phone: +17709199525. Website: https://www.fryelawgroup.com/. | https://dingalinged-cpu.github.io/registry/c/frye-law-group-marietta/
+10. The Manely Firm P.C. - All Family Law | trust 15.0 | The Manely Firm P.C. - All Family Law is a lawyer in Marietta, GA at 211 Roswell Street, Marietta, GA. Phone: +18666878561. Website: https://www.allfamilylaw.com/marietta-georgia-and-international-family-law-attorneys-office/. | https://dingalinged-cpu.github.io/registry/c/the-manely-firm-p-c-all-family-law-marietta/
+11. Dr. Dale Atlanta Pain Specialists | trust 14.0 | Dr. Dale Atlanta Pain Specialists is a lawyer in Marietta, GA at 2900 Delk Road Southeast #550, Marietta, GA 30067. Website: https://www.drdale.net/. | https://dingalinged-cpu.github.io/registry/c/dr-dale-atlanta-pain-specialists-marietta/
+12. Legal Aid of Cobb County | trust 14.0 | Legal Aid of Cobb County is a lawyer in Marietta, GA at 30 South Park Square, Marietta, GA 30060. Phone: +17705282565. | https://dingalinged-cpu.github.io/registry/c/legal-aid-of-cobb-county-marietta/
+13. Harris & Bunch | trust 4.0 | Harris & Bunch is a lawyer in Marietta, GA at 142 South Park Square, Marietta, GA 30060. | https://dingalinged-cpu.github.io/registry/c/harris-and-bunch-marietta/
+14. Sandy E Scott | trust 4.0 | Sandy E Scott is a lawyer in Marietta, GA at 21 Atlanta Street Southeast, Marietta, GA 30060. | https://dingalinged-cpu.github.io/registry/c/sandy-e-scott-marietta/
+
+## Market data (for advertisers and agents)
+- Keyword: attorney marietta ga | category: professional_legal | industry benchmark: Attorneys & Legal Services
+- US monthly searches: 74,000/mo (cited; Cited US monthly search volume (via research source); as of 2026; phrase 'attorney near me')
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~1,400 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $8.58, median $9.87, high $9.87 (Attorneys & Legal Services median CPC 2026 $9.87 [https://www.localiq.com/blog/search-advertising-benchmarks]; Attorneys & Legal Services median CPC 2025 $8.58 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 14
+- Equivalent Google Ads cost per month: ~$820 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/attorney.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#attorney-marietta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

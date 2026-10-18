@@ -13,6 +13,7 @@ Uptown Dental is a dentist in Cedar Hill, TX at 642 Uptown Boulevard #160, Cedar
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:30-13:00,14:00-17:00; Tu 08:30-13:00,14:00-16:00; We 08:30-13:00,14:00-17:00; Th 08:30-14:00
+- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

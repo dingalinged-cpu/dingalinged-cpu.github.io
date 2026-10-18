@@ -13,6 +13,7 @@ Rent-A-Center is a furniture store in Conroe, TX at 1408 North Loop 336 West #A,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

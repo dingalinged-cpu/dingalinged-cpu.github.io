@@ -13,6 +13,7 @@ Therapy Partners of North Texas is a physical therapy clinic in North Richland H
 - Website: https://therapypartnerspt.com/location/therapy-partners-of-north-texas-north-richland-hills-keller/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ S1 Furniture is a furniture store in Milwaukee, WI at 5510 West North Avenue, Mi
 - Website: https://www.s1-furniture.com/
 - Email: s1000s100s10@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:30-19:30; Su 12:00-17:00
+- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

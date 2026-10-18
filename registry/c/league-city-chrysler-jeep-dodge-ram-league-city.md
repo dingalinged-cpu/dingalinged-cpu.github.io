@@ -13,6 +13,7 @@ League City Chrysler Jeep Dodge RAM is an used car dealer in League City, TX at 
 - Website: n/a
 - Email: customercare@leaguecityjeep.com
 - Opening hours (OSM syntax): Mo-Sa 08:30-20:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

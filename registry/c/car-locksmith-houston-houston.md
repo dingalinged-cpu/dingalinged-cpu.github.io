@@ -13,6 +13,7 @@ Car Locksmith Houston is a locksmith in Houston, TX at 7238 Granite Terrace Ln, 
 - Website: https://www.carlocksmithouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 12:00-23:45
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

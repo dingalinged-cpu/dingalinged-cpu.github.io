@@ -13,6 +13,7 @@ Delta Sonic Car Wash is a car wash in Melrose Park, IL at 8490 North Avenue, Mel
 - Website: https://deltasoniccarwash.com/location/melrose-park-il/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

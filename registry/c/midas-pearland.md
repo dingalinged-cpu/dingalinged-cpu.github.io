@@ -13,6 +13,7 @@ Midas is an auto repair shop in Pearland, TX at 4401 West Broadway Street, Pearl
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

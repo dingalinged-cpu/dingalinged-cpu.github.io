@@ -13,6 +13,7 @@ Drybar is a hair salon in Houston, TX at 2519 Amherst Street, Houston, TX 77005.
 - Website: https://www.drybarshops.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

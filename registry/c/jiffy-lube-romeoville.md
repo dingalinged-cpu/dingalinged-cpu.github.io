@@ -13,6 +13,7 @@ Jiffy Lube is an auto repair shop in Romeoville, IL at 653 Independence Boulevar
 - Website: https://www.jiffylube.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

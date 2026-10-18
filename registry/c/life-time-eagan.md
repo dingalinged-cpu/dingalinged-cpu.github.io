@@ -13,6 +13,7 @@ Life Time is a gym in Eagan, MN at 1565 Thomas Center Drive, Eagan, MN 55122. Ph
 - Website: https://www.lifetime.life/life-time-locations/mn-eagan.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

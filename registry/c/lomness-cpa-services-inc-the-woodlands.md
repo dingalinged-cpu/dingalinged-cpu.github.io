@@ -13,6 +13,7 @@ Lomness CPA Services, Inc. is an accountant in The Woodlands, TX at 8505 Technol
 - Website: https://www.lomnesscpa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

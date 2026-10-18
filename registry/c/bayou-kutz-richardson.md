@@ -13,6 +13,7 @@ Bayou Kutz is a barber shop in Richardson, TX at 1300 Campbell Road #110, Richar
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-13:30,17:30-20:00; Sa 09:00-12:00,13:30-16:00
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

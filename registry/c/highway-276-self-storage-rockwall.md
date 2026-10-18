@@ -13,6 +13,7 @@ Highway 276 Self Storage is a self-storage facility in Rockwall, TX at 2690 Stat
 - Website: https://www.hwy276selfstorage.com/hwy-276-self-storage
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

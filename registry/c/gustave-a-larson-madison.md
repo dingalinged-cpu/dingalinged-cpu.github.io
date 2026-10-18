@@ -1,0 +1,24 @@
+Gustave A Larson is a HVAC contractor in Madison, WI at 4537 Pflaum Road, Madison, WI 53718. Phone: +16082213301. Website: https://www.galarson.com/locations.
+
+# Gustave A Larson
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 4537 Pflaum Road, Madison, WI 53718
+- City: Madison
+- State: WI
+- ZIP: 53718
+- Coordinates: 43.0620875, -89.3025666
+- Phone: +16082213301
+- Website: https://www.galarson.com/locations
+- Email: larson.madison@galarson.com
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/gustave-a-larson-madison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gustave-a-larson-madison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/589481653 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

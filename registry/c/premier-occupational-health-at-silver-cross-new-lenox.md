@@ -13,6 +13,7 @@ Premier Occupational Health at Silver Cross is a family medicine practice in New
 - Website: https://www.silvercross.org/locations/profile/occupational-health/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
+- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

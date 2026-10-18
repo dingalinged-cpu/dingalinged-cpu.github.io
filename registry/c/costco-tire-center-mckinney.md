@@ -13,6 +13,7 @@ Costco Tire Center is a tire shop in McKinney, TX at 3650 West University Drive,
 - Website: https://www.costco.com/w/-/tx/mckinney/1284
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00
+- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

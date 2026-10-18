@@ -13,6 +13,7 @@ The Academy at Craigs Ranch is a daycare in McKinney, TX at 6101 Stacy Road, McK
 - Website: https://academyatcraigranch.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
+- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Asurion Tech Repair & Solutions is a phone repair shop in Berwyn, IL at 7044 Wes
 - Website: https://www.asurion.com/repairs/tech/locations/berwyn/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
+- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

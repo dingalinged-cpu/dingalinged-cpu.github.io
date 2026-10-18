@@ -13,6 +13,7 @@ AmeriPro Roofing is a roofer in Downers Grove, IL at 3041 Woodcreek Dr, Downers 
 - Website: https://ameriproroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mon-Fri: 8:30 AM-5:00 PM
+- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

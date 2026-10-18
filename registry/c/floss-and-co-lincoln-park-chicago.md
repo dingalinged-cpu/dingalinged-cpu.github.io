@@ -13,6 +13,7 @@ Floss & Co. - Lincoln Park is a dentist in Chicago, IL at 1439 West Fullerton Av
 - Website: https://flossandcompany.com/locations/lincoln-park/
 - Email: n/a
 - Opening hours (OSM syntax): Mon: 10:00 AM – 6:00 PM; Tues-Thurs: 10:00 AM – 7:00 PM; Fri, Sun: 10:00 AM – 4:00 PM; Sat: 8:00 AM – 1:00 PM
+- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

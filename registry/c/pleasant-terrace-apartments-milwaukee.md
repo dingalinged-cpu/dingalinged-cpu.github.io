@@ -13,6 +13,7 @@ Pleasant Terrace Apartments is an assisted living facility in Milwaukee, WI at 1
 - Website: https://pleasantterraceapartments.com/
 - Email: info@pleasantterraceapartments.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 65.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

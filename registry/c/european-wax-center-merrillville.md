@@ -13,6 +13,7 @@ European Wax Center is a waxing salon in Merrillville, IN at 1675 East 80th Aven
 - Website: https://locations.waxcenter.com/in/merrillville/merrillville-merrillville-plaza-1012.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 41.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

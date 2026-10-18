@@ -13,6 +13,7 @@ Tara Arseven Photography is a photographer in Dallas, TX at 1409 Botham Jean Bou
 - Website: https://taraarseven.com/
 - Email: hello@taraarseven.com
 - Opening hours (OSM syntax): We-Su 10:00-19:00
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

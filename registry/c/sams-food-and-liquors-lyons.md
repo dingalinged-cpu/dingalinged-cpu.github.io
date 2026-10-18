@@ -13,6 +13,7 @@ Sam's Food & Liquors is a liquor store in Lyons, IL. Website: https://www.facebo
 - Website: https://www.facebook.com/Sams-Food-Liquors-107278105997636/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 53.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Centrum Health is a family medicine practice in Dallas, TX. Website: https://www
 - Website: https://www.centrumhealth.com/location/centrum-health-n-central-expy
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su off
+- Registry Score: 53/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

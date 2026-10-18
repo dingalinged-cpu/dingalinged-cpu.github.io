@@ -13,6 +13,7 @@ Results Roofing is a roofer in Carrollton, TX at 2828 E Trinity Mls Rd #212, Car
 - Website: https://resultsroofing.com/
 - Email: contact@results-roofing.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

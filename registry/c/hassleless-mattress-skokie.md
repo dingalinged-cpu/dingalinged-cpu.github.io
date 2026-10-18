@@ -13,6 +13,7 @@ HassleLess Mattress is a mattress store in Skokie, IL at 9300 Skokie Boulevard, 
 - Website: https://www.hassleless.com/locations/skokie-mattress-showroom
 - Email: answersnow@hassleless.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

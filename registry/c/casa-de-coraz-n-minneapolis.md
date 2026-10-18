@@ -13,6 +13,7 @@ Casa de Corazón is a daycare in Minneapolis, MN. Website: https://casaearlylear
 - Website: https://casaearlylearning.com/location/edina-mn-5oth-france/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 42.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

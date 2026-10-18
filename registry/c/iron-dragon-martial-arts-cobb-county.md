@@ -1,0 +1,24 @@
+Iron Dragon Martial Arts is a martial arts school in Cobb County, GA at 3372 Canton Road Northeast #138, Cobb County, GA. Phone: +16783540605. Website: https://www.irondragonmartialarts.com/.
+
+# Iron Dragon Martial Arts
+
+- Category: martial arts
+- Services: martial arts
+- Address: 3372 Canton Road Northeast #138, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0339733, -84.5263985
+- Phone: +16783540605
+- Website: https://www.irondragonmartialarts.com/
+- Email: irondragonma.ga@gmail.com
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/iron-dragon-martial-arts-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/iron-dragon-martial-arts-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10817129457 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

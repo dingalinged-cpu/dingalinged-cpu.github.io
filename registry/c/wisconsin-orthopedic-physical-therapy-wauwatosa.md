@@ -13,6 +13,7 @@ Wisconsin Orthopedic Physical Therapy is a physical therapy clinic in Wauwatosa,
 - Website: https://www.wiscopt.com/
 - Email: info@wiscopt.com
 - Opening hours (OSM syntax): Mo,We,Th 06:30-19:00; Tu 06:30-18:45; Fr 06:30-11:00; Sa-Su off
+- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

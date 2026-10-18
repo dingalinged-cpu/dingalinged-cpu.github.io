@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Saint Louis Park, MN at 8456 Minnesota Stat
 - Website: https://stores.mattressfirm.com/mn/st-louispark/mattress-stores-st.-louis-park-mn-7001.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

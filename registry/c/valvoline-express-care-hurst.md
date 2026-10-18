@@ -13,6 +13,7 @@ Valvoline Express Care is an auto repair shop in Hurst, TX at 709 Melbourne Road
 - Website: https://locations.expresscare.com/tx/hurst/0000681208/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-16:00
+- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

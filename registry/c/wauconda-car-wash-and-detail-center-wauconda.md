@@ -13,6 +13,7 @@ Wauconda Car Wash & Detail Center is a car wash in Wauconda, IL. Phone: +1847526
 - Website: https://www.waucondacarcare.com/car-wash
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-16:00
+- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

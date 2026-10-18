@@ -13,6 +13,7 @@ MorningStar's Treasure Chest is a thrift store in New Lenox, IL at 2571 Lincoln 
 - Website: https://morningstarmission.org/thrift-stores/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

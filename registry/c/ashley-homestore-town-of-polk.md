@@ -13,6 +13,7 @@ Ashley HomeStore is a furniture store in Town of Polk, WI at 2515 Cabela Way, To
 - Website: https://stores.ashleyfurniture.com/store/us/wisconsin/richfield/7710000495/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

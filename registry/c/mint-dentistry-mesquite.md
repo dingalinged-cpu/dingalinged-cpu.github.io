@@ -13,6 +13,7 @@ MINT Dentistry is a dentist in Mesquite, TX at 2520 US Highway 80, Mesquite, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 44.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

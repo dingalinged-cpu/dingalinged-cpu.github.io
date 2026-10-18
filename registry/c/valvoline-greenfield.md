@@ -13,6 +13,7 @@ Valvoline is an auto repair shop in Greenfield, WI at 4839 South 27th Street, Gr
 - Website: https://store.vioc.com/wi/greenfield/oil-change-gr0063.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

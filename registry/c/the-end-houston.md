@@ -13,6 +13,7 @@ The End is an event venue in Houston, TX at 7124 Lawndale Street, Houston, TX 77
 - Website: https://theendhtx.com/
 - Email: booking.theendhtx@gmail.com
 - Opening hours (OSM syntax): Mo-Su 19:00-02:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

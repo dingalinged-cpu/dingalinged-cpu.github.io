@@ -13,6 +13,7 @@ Joy Cleaners is a dry cleaner in Wauwatosa, WI at 9122 West North Avenue, Wauwat
 - Website: https://www.joycleaners.net/
 - Email: JoyCleanerss@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su off
+- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

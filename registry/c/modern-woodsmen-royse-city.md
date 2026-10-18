@@ -13,6 +13,7 @@ Modern Woodsmen is a financial advisor in Royse City, TX at 118 East Main Street
 - Website: https://reps.modernwoodmen.org/rjohnson/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

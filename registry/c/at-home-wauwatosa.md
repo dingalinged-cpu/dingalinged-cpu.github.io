@@ -13,6 +13,7 @@ At Home is a furniture store in Wauwatosa, WI at 3201 North Mayfair Road, Wauwat
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-22:00; Su 09:00-21:00
+- Registry Score: 56/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Racine Dental Group, S.C. is a dentist in Racine, WI at 1101 South Airline Road,
 - Website: https://www.racinedentalgroup.com/
 - Email: info@racinedentalgroup.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

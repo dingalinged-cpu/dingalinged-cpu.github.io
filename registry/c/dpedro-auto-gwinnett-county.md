@@ -1,0 +1,24 @@
+D'Pedro Auto is an auto repair shop in Gwinnett County, GA.
+
+# D'Pedro Auto
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Gwinnett County, GA
+- City: Gwinnett County
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.8917146, -84.1124223
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dpedro-auto-gwinnett-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dpedro-auto-gwinnett-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/809266178 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

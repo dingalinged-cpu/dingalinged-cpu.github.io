@@ -13,6 +13,7 @@ Drake & Collopy, P.C is a lawyer in Chicago, IL at 20 North Clark Street #3300, 
 - Website: https://www.drakecollopy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00, Sa 08:00-15:30
+- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

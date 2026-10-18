@@ -13,6 +13,7 @@ Alfa Flower & Wedding Shop is a florist in Wauwatosa, WI at 7001 W North Ave, Wa
 - Website: https://alfaflowershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su off
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

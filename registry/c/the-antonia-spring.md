@@ -13,6 +13,7 @@ The Antonia is an event venue in Spring, TX at 4134 Spring Cypress Road, Spring,
 - Website: https://theantoniavenue.com/
 - Email: info@theantoniavenue.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

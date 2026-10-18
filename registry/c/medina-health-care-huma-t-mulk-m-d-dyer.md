@@ -13,6 +13,7 @@ Medina Health Care - Huma T. Mulk M.D. is a family medicine practice in Dyer, IN
 - Website: https://drhumatmulk.com/
 - Email: medinahealthcare@hotmail.com
 - Opening hours (OSM syntax): Mo & We 09:00-17:00, Sa 09:00-15:00, Su, Tu, Th, Fr CLOSED
+- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

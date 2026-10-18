@@ -1,0 +1,24 @@
+ZEBRADOG is a graphic designer in Madison, WI at 1249 Williamson Street, Madison, WI 53703. Phone: +16082578400. Website: https://www.zebradog.com/.
+
+# ZEBRADOG
+
+- Category: graphic designer
+- Services: graphic designer
+- Address: 1249 Williamson Street, Madison, WI 53703
+- City: Madison
+- State: WI
+- ZIP: 53703
+- Coordinates: 43.084187, -89.362645
+- Phone: +16082578400
+- Website: https://www.zebradog.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/zebradog-madison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/zebradog-madison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/255915765 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

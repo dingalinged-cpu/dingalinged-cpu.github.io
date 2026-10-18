@@ -1,0 +1,24 @@
+Emmy's Academy is a preschool in Marietta, GA at 2877 Johnson Ferry Road Northeast, Marietta, GA 30062. Phone: +16785093669. Website: https://emmysacademy.com/.
+
+# Emmy's Academy
+
+- Category: preschool
+- Services: preschool
+- Address: 2877 Johnson Ferry Road Northeast, Marietta, GA 30062
+- City: Marietta
+- State: GA
+- ZIP: 30062
+- Coordinates: 34.0203823, -84.4284721
+- Phone: +16785093669
+- Website: https://emmysacademy.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/emmys-academy-marietta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/emmys-academy-marietta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/930753883 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

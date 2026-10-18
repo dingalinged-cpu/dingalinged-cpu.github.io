@@ -13,6 +13,7 @@ NTB is an auto repair shop in The Colony, TX at 4811 Highway 121, The Colony, TX
 - Website: https://www.ntb.com/store/tx/the-colony/4811-state-highway-121-75056/4516
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

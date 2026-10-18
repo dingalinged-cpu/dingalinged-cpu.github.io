@@ -13,6 +13,7 @@ Himalayan Yoga & Meditation is a yoga studio in Milwaukee, WI at 5000 West Vliet
 - Website: https://www.himalayanyogamilwaukee.org/
 - Email: hym@himalayanyogamilwaukee.org
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Anytime Fitness is a gym in West Allis, WI at 2229 South 108th Street, West Alli
 - Website: https://www.anytimefitness.com/gyms/4835/west-allis-wi-53227/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

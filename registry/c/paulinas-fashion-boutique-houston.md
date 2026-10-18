@@ -13,6 +13,7 @@ Paulina's Fashion Boutique is a boutique in Houston, TX at 7640 Airline Drive #K
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

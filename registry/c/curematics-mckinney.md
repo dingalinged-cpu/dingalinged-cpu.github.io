@@ -13,6 +13,7 @@ Curematics is an IT support company in McKinney, TX at 101 West Louisiana Street
 - Website: https://curematics.solutions/
 - Email: admin@curematics.com
 - Opening hours (OSM syntax): Mo-Fr 17:00-22:00; Sa 10:00-20:00; Su 10:00-17:00 "by appointment only"
+- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Life Time is a gym in Humble, TX at 20515 Lake Houston Parkway, Humble, TX 77346
 - Website: https://www.lifetime.life/life-time-locations/tx-humble-kingwood.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 04:30-23:00; Fr 04:30-21:00; Sa-Su 07:00-20:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

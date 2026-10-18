@@ -13,6 +13,7 @@ The Bellbird Bakeshop is a bakery in La Grange, IL at 15 West Harris Avenue, La 
 - Website: https://thebellbirdbakeshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Su 08:00-15:00
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Stadium Floors is a flooring company in Arlington, TX at 1701 South Cooper Stree
 - Website: https://www.stadiumfloorstx.com/
 - Email: #stadiumfloors1@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 09:00-18:00
+- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

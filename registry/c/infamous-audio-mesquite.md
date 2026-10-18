@@ -13,6 +13,7 @@ Infamous Audio is an auto repair shop in Mesquite, TX at 1616 Range Drive #106, 
 - Website: n/a
 - Email: infamousaudiotx@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00
+- Registry Score: 65.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

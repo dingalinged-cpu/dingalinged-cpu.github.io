@@ -13,6 +13,7 @@ Uptown Cheapskate is a thrift store in Dallas, TX at 5400 East Mockingbird Lane 
 - Website: https://www.uptowncheapskate.com/local-thrift-stores/texas/universitypark/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

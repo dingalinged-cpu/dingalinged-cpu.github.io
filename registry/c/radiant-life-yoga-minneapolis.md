@@ -13,6 +13,7 @@ Radiant Life Yoga is a yoga studio in Minneapolis, MN at 2657 Dupont Avenue Sout
 - Website: https://www.radiantlifeyoga.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 18:00-19:15; Sa 08:00-08:45,17:00-18:15; Su 17:00-18:15
+- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

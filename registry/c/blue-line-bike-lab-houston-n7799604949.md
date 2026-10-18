@@ -13,6 +13,7 @@ Blue Line Bike Lab is a bike shop in Houston, TX at 1504 Yale Street, Houston, T
 - Website: https://www.bluelinebikelab.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 11:00-19:00; Sa 10:00-19:00; Su 10:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

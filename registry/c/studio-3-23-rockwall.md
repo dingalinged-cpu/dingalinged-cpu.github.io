@@ -13,6 +13,7 @@ Studio 3:23 is a dance studio in Rockwall, TX at 811 East Yellow Jacket Lane, Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

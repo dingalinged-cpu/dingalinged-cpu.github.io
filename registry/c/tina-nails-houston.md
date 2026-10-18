@@ -13,6 +13,7 @@ Tina Nails is a nail salon in Houston, TX at 1245 Kingwood Drive, Houston, TX 77
 - Website: https://tinanailskingwood.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

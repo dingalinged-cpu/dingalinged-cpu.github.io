@@ -13,6 +13,7 @@ Bacon Roofing is a roofer in Rowlett, TX at 8126 Lakeview Parkway #13, Rowlett, 
 - Website: https://baconroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

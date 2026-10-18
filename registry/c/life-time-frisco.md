@@ -13,6 +13,7 @@ Life Time is a yoga studio in Frisco, TX at 4900 Throne Hall Dr, Frisco, TX. Pho
 - Website: https://www.lifetime.life/locations/tx/frisco.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 04:00-24:00; Sa-Su 05:00-23:00
+- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

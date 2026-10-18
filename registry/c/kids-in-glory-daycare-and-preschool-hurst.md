@@ -13,6 +13,7 @@ Kids In Glory Daycare & Preschool is a daycare in Hurst, TX. Phone: +18172820909
 - Website: https://kidsinglorydaycare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

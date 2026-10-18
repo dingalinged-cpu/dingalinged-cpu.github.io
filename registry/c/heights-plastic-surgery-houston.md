@@ -13,6 +13,7 @@ Heights Plastic Surgery is a plastic surgeon in Houston, TX at 2813 West T C Jes
 - Website: https://heightsplasticsurgeryhouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:30-15:00; Sa,Su closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ National Tire and Battery is an auto repair shop in Sachse, TX at 5420 State Hig
 - Website: https://www.ntb.com/store/tx/sachse/5420-highway-78-75048/4512
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Stock Preschool is a preschool in Chicago, IL at 7507 West Birchwood Avenue, Chi
 - Website: https://www.stock.cps.edu/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

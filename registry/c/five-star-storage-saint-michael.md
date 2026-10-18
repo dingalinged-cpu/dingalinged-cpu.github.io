@@ -13,6 +13,7 @@ Five Star Storage is a self-storage facility in Saint Michael, MN at 5358 Quam A
 - Website: https://www.fivestarstorage.biz/locations/minnesota/saint-michael/five-star-storage-5358-quam-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-18:00
+- Registry Score: 53.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

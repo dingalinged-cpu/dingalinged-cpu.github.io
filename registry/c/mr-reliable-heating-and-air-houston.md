@@ -13,6 +13,7 @@ Mr. Reliable Heating & Air is a HVAC contractor in Houston, TX at 1729 Brittmoor
 - Website: https://www.callmrreliable.com/
 - Email: drew@callmrreliable.com
 - Opening hours (OSM syntax): Mo-Su 07:00-22:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

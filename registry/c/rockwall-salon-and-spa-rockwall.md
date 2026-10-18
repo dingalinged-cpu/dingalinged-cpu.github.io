@@ -13,6 +13,7 @@ Rockwall Salon & Spa is a nail salon in Rockwall, TX at 983 East Interstate 30 #
 - Website: https://rockwallsalonandspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:30
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

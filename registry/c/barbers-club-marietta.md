@@ -1,0 +1,24 @@
+Barber's Club is a hair salon in Marietta, GA at 279 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +16789784977. Website: https://www.barbersclubs.com/.
+
+# Barber's Club
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 279 Powers Ferry Road Southeast, Marietta, GA 30067
+- City: Marietta
+- State: GA
+- ZIP: 30067
+- Coordinates: 33.9447773, -84.4974556
+- Phone: +16789784977
+- Website: https://www.barbersclubs.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo 12:00-19:00; Tu-Sa 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/barbers-club-marietta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/barbers-club-marietta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10731872215 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

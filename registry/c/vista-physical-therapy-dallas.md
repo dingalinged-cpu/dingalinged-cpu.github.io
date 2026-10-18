@@ -13,6 +13,7 @@ Vista Physical Therapy is a physical therapy clinic in Dallas, TX at 11661 Prest
 - Website: https://www.prnpt.com/locations/188/vista-physical-therapy-dallas-preston-hollow/dallas/location-details
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa-Su off
+- Registry Score: 54.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

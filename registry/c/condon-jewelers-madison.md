@@ -1,0 +1,24 @@
+Condon Jewelers is a jewelry store in Madison, WI at 4114 East Washington Avenue Frontage Road, Madison, WI. Phone: +16082413406. Website: https://www.condonjeweler.com/.
+
+# Condon Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 4114 East Washington Avenue Frontage Road, Madison, WI
+- City: Madison
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.1253197, -89.3132371
+- Phone: +16082413406
+- Website: https://www.condonjeweler.com/
+- Email: condons@inxpress.net
+- Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-18:00; PH closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/condon-jewelers-madison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/condon-jewelers-madison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8694926159 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

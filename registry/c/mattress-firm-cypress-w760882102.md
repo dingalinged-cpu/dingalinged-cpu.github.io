@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Cypress, TX at 25944 Highway 290, Cypress, 
 - Website: https://www.mattressfirm.com/en-us/stores/tx/cypress/001078/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

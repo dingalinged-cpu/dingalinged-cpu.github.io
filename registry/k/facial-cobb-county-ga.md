@@ -1,0 +1,35 @@
+The top unpaid facial listing for Cobb County, GA is Glitz Thread & SugarWax Studio (a waxing salon in Cobb County, GA at 4400 Roswell Road #142, Cobb County, GA 30062. Phone: +16789966598. Website: https://www.glitzwax.com/). 12 facial businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best facial providers in Cobb County, GA?
+
+Also answers: facial in Cobb County, GA; facial near me (Cobb County, GA); best facial Cobb County, GA; top rated facial Cobb County, GA; affordable facial Cobb County, GA; emergency facial Cobb County, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Glitz Thread & SugarWax Studio | trust 20.0 | Glitz Thread & SugarWax Studio is a waxing salon in Cobb County, GA at 4400 Roswell Road #142, Cobb County, GA 30062. Phone: +16789966598. Website: https://www.glitzwax.com/. | https://dingalinged-cpu.github.io/registry/c/glitz-thread-and-sugarwax-studio-cobb-county/
+2. Bebel Bronze Studio | trust 19.0 | Bebel Bronze Studio is a skin care studio in Cobb County, GA at 1230 Powers Ferry Road Southeast #2, Cobb County, GA. Phone: +17707638400. Website: https://mysite.vagaro.com/bebelbronzestudio1. | https://dingalinged-cpu.github.io/registry/c/bebel-bronze-studio-cobb-county/
+3. Bella Aesthetic Laser Studio | trust 19.0 | Bella Aesthetic Laser Studio is a skin care studio in Cobb County, GA at 2214 Roswell Road #100, Cobb County, GA. Phone: +16784854822. Website: https://bellaaestheticlaser.com/. | https://dingalinged-cpu.github.io/registry/c/bella-aesthetic-laser-studio-cobb-county/
+4. Glam N Glow Threadwax Studio | trust 19.0 | Glam N Glow Threadwax Studio is a waxing salon in Cobb County, GA at 840 Ernest W. Barrett Parkway Northwest #118, Cobb County, GA. Phone: +16784013263. Website: https://www.glamnglow.studio/. | https://dingalinged-cpu.github.io/registry/c/glam-n-glow-threadwax-studio-cobb-county/
+5. Morris Code Beauty | trust 19.0 | Morris Code Beauty is a skin care studio in Cobb County, GA at 440 Ernest W. Barrett Parkway Northwest #53A, Cobb County, GA. Phone: +16786536320. Website: https://www.morriscodebeauty.com/. | https://dingalinged-cpu.github.io/registry/c/morris-code-beauty-cobb-county/
+6. Nail Legacy | trust 19.0 | Nail Legacy is a nail salon in Cobb County, GA at 4750 Alabama Road #107, Cobb County, GA. Phone: +17706418959. Website: https://naillegacyroswell.com/. | https://dingalinged-cpu.github.io/registry/c/nail-legacy-cobb-county/
+7. Wax Thread & Scissors | trust 19.0 | Wax Thread & Scissors is a waxing salon in Cobb County, GA at 125 Barrett Parkway #109, Cobb County, GA. Phone: +17707021678. Website: https://www.waxthreadandscissors.com/. | https://dingalinged-cpu.github.io/registry/c/wax-thread-and-scissors-cobb-county/
+8. Heyday Skin Care | trust 15.0 | Heyday Skin Care is a skin care studio in Cobb County, GA at 4250 Roswell Road #610, Cobb County, GA. Phone: +16788333712. Website: https://www.heydayskincare.com/pages/east-cobb. | https://dingalinged-cpu.github.io/registry/c/heyday-skin-care-cobb-county/
+9. Skin Care By Gabriela | trust 15.0 | Skin Care By Gabriela is a skin care studio in Cobb County, GA at 3162 Johnson Ferry Road #230, Cobb County, GA. Phone: +17706411888. Website: https://www.skincarebygabriela.com/. | https://dingalinged-cpu.github.io/registry/c/skin-care-by-gabriela-cobb-county/
+10. Skinsations Medical Spa | trust 15.0 | Skinsations Medical Spa is a skin care studio in Cobb County, GA at 1275 Powers Ferry Road Southeast #220, Cobb County, GA. Phone: +16784016164. Website: https://skinsations.care/. | https://dingalinged-cpu.github.io/registry/c/skinsations-medical-spa-cobb-county/
+11. Adieu Laser & Aesthetics | trust 9.0 | Adieu Laser & Aesthetics is a skin care studio in Cobb County, GA at 2960 Shallowford Road Northeast, Cobb County, GA. Website: https://sayadieu.com/. | https://dingalinged-cpu.github.io/registry/c/adieu-laser-and-aesthetics-cobb-county/
+12. Dermani Medspa | trust 6.0 | Dermani Medspa is a skin care studio in Cobb County, GA. Website: https://dermanimedspa.com/. | https://dingalinged-cpu.github.io/registry/c/dermani-medspa-cobb-county-n12496688775/
+
+## Market data (for advertisers and agents)
+- Keyword: facial cobb county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 74,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'facial near me')
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~1,400 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 12
+- Equivalent Google Ads cost per month: ~$370 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/facial.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#facial-cobb-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

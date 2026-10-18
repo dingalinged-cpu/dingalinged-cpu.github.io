@@ -13,6 +13,7 @@ Chez Bloom is a florist in Minneapolis, MN at 4310 Bryant Avenue South, Minneapo
 - Website: https://www.chezbloom.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Nature Preschool is a preschool in Bayside, WI. Phone: +14143522880. Website: ht
 - Website: https://www.schlitzaudubon.org/learn/nature-preschool/
 - Email: llukas@schlitzaudubon.org
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
+- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

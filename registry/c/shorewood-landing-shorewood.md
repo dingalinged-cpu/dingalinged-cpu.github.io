@@ -13,6 +13,7 @@ Shorewood Landing is an assisted living facility in Shorewood, MN at 6000 Chaska
 - Website: https://preshomes.org/living-options/find-a-community/shorewood-landing/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

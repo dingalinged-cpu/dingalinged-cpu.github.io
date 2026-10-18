@@ -13,6 +13,7 @@ West Metro Auction and Equipment is a thrift store in Loretto, MN at 200 North M
 - Website: https://www.westmetroauction.com/
 - Email: sales@westmetroauction.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
+- Registry Score: 67.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

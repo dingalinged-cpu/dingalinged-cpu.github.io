@@ -13,6 +13,7 @@ Z Indian Beauty Salon is a waxing salon in Coppell, TX. Phone: +14694532222.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su closed; PH closed
+- Registry Score: 58.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Aspen Dental is a dentist in Lewisville, TX at 717 Hebron Parkway #100, Lewisvil
 - Website: https://www.aspendental.com/dentist/tx/lewisville/717-hebron-pkwy-ste-100/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 07:30-17:00; We 07:30-16:30; Th 08:00-18:30; Fr 08:00-13:00; Sa-Su off
+- Registry Score: 53.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

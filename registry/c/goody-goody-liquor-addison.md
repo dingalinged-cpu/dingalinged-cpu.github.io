@@ -13,6 +13,7 @@ Goody Goody Liquor is a liquor store in Addison, TX at 14851 Inwood Road, Addiso
 - Website: https://www.goodygoody.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

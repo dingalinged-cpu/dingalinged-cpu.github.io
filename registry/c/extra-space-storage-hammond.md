@@ -13,6 +13,7 @@ Extra Space Storage is a self-storage facility in Hammond, IN at 6641 Columbia A
 - Website: https://www.extraspace.com/storage/facilities/us/indiana/hammond/2046/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

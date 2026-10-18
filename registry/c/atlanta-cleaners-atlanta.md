@@ -1,0 +1,24 @@
+Atlanta Cleaners is a dry cleaner in Atlanta, GA at 201 Mitchell Street Southwest, Atlanta, GA 30303.
+
+# Atlanta Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 201 Mitchell Street Southwest, Atlanta, GA 30303
+- City: Atlanta
+- State: GA
+- ZIP: 30303
+- Coordinates: 33.7518117, -84.3943782
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/atlanta-cleaners-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/atlanta-cleaners-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11766670643 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

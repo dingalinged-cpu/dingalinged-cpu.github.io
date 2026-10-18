@@ -13,6 +13,7 @@ The UPS Store is a printing service in Frisco, TX at 5999 Custer Road #110, Fris
 - Website: https://locations.theupsstore.com/tx/frisco/5999-custer-rd
 - Email: store6600@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:30, Sa 09:00-17:00
+- Registry Score: 52.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

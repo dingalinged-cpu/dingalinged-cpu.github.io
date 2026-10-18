@@ -13,6 +13,7 @@ By the Yard, Inc. is a furniture store in Maple Grove, MN at 8046 Wedgewood Lane
 - Website: https://bytheyard.net/
 - Email: n/a
 - Opening hours (OSM syntax): Monday - Friday: 10:00 AM – 6:00 PM, Saturday: 9:00 AM – 4:00 PM, Sunday: Closed
+- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

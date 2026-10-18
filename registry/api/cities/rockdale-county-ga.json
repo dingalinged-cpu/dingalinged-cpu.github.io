@@ -1,0 +1,45 @@
+{
+ "place": "Rockdale County, GA",
+ "slug": "rockdale-county-ga",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "storage units rockdale county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-rockdale-county-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "securcare-self-storage-rockdale-county",
+   "name": "Securcare Self Storage",
+   "summary": "Securcare Self Storage is a self-storage facility in Rockdale County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/securcare-self-storage-rockdale-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/securcare-self-storage-rockdale-county.json",
+   "address": {
+    "addressLocality": "Rockdale County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Rockdale County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6769904,
+    "lon": -84.0583863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10301360196",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

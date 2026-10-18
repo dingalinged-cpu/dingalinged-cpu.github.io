@@ -13,6 +13,7 @@ Adambomb Gallerie is a tattoo shop in Milwaukee, WI at 2028 North Doctor Martin 
 - Website: https://www.adambombgallerie.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-21:00
+- Registry Score: 61.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

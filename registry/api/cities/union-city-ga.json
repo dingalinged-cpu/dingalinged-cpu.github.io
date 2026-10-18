@@ -1,0 +1,347 @@
+{
+ "place": "Union City, GA",
+ "slug": "union-city-ga",
+ "count": 10,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair union city ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-union-city-ga.json"
+  },
+  {
+   "keyword": "barber shop union city ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-union-city-ga.json"
+  },
+  {
+   "keyword": "hair salon union city ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-union-city-ga.json"
+  },
+  {
+   "keyword": "haircut union city ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-union-city-ga.json"
+  },
+  {
+   "keyword": "mechanic union city ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-union-city-ga.json"
+  },
+  {
+   "keyword": "staffing agency union city ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-union-city-ga.json"
+  },
+  {
+   "keyword": "urgent care union city ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/urgent-care-union-city-ga.json"
+  },
+  {
+   "keyword": "used cars for sale union city ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-union-city-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "above-the-bar-barbershop-union-city",
+   "name": "Above The Bar Barbershop",
+   "summary": "Above The Bar Barbershop is a barber shop in Union City, GA at 6641 Roosevelt Highway #B, Union City, GA 30291. Phone: +17706263289. Website: https://www.abovethebarbarbershop.com/.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/above-the-bar-barbershop-union-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/above-the-bar-barbershop-union-city.json",
+   "address": {
+    "streetAddress": "6641 Roosevelt Highway #B",
+    "addressLocality": "Union City",
+    "addressRegion": "GA",
+    "postalCode": "30291",
+    "addressCountry": "US"
+   },
+   "city": "Union City",
+   "state": "GA",
+   "zip": "30291",
+   "geo": {
+    "lat": 33.578358,
+    "lon": -84.558779
+   },
+   "phone": "+17706263289",
+   "website": "https://www.abovethebarbarbershop.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13641005707",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "official-sam-salon-atlanta",
+   "name": "Official Sam Salon",
+   "summary": "Official Sam Salon is a hair salon in Atlanta, GA at 5851 Buffington Road #G, Atlanta, GA 30349. Phone: +14704767843. Website: https://www.officialsamsalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/official-sam-salon-atlanta/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/official-sam-salon-atlanta.json",
+   "address": {
+    "streetAddress": "5851 Buffington Road #G",
+    "addressLocality": "Atlanta",
+    "addressRegion": "GA",
+    "postalCode": "30349",
+    "addressCountry": "US"
+   },
+   "city": "Atlanta",
+   "state": "GA",
+   "zip": "30349",
+   "geo": {
+    "lat": 33.5970153,
+    "lon": -84.4987063
+   },
+   "phone": "+14704767843",
+   "website": "https://www.officialsamsalon.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13433574012",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "peopleready-union-city",
+   "name": "PeopleReady",
+   "summary": "PeopleReady is a staffing agency in Union City, GA at 6810 Shannon Parkway #A1, Union City, GA 30291. Phone: +17703060416.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peopleready-union-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peopleready-union-city.json",
+   "address": {
+    "streetAddress": "6810 Shannon Parkway #A1",
+    "addressLocality": "Union City",
+    "addressRegion": "GA",
+    "postalCode": "30291",
+    "addressCountry": "US"
+   },
+   "city": "Union City",
+   "state": "GA",
+   "zip": "30291",
+   "geo": {
+    "lat": 33.5696384,
+    "lon": -84.5385287
+   },
+   "phone": "+17703060416",
+   "opening_hours": "Mo-Fr 05:30-18:00; Sa 06:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11982679010",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dior-and-daughter-union-city",
+   "name": "Dior & Daughter",
+   "summary": "Dior & Daughter is a hair salon in Union City, GA at 6810 Shannon Parkway #B1, Union City, GA. Phone: +14047404758.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dior-and-daughter-union-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dior-and-daughter-union-city.json",
+   "address": {
+    "streetAddress": "6810 Shannon Parkway #B1",
+    "addressLocality": "Union City",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Union City",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5696497,
+    "lon": -84.538632
+   },
+   "phone": "+14047404758",
+   "opening_hours": "Mo-Sa 09:30-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11982679008",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bmvw-cars-union-city",
+   "name": "BMVW Cars",
+   "summary": "BMVW Cars is an used car dealer in Union City, GA. Phone: +17709699999. Website: https://bmw.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bmvw-cars-union-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bmvw-cars-union-city.json",
+   "address": {
+    "addressLocality": "Union City",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Union City",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5703756,
+    "lon": -84.5382825
+   },
+   "phone": "+17709699999",
+   "website": "https://bmw.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11982679006",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-masters-union-city",
+   "name": "All Masters",
+   "summary": "All Masters is a hair salon in Union City, GA at 6810 Shannon Parkway #1C, Union City, GA 30291.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-masters-union-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-masters-union-city.json",
+   "address": {
+    "streetAddress": "6810 Shannon Parkway #1C",
+    "addressLocality": "Union City",
+    "addressRegion": "GA",
+    "postalCode": "30291",
+    "addressCountry": "US"
+   },
+   "city": "Union City",
+   "state": "GA",
+   "zip": "30291",
+   "geo": {
+    "lat": 33.5696477,
+    "lon": -84.5387271
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11982679009",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-union-city",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Union City, GA at 4599 Jonesboro Road, Union City, GA 30291.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-union-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-union-city.json",
+   "address": {
+    "streetAddress": "4599 Jonesboro Road",
+    "addressLocality": "Union City",
+    "addressRegion": "GA",
+    "postalCode": "30291",
+    "addressCountry": "US"
+   },
+   "city": "Union City",
+   "state": "GA",
+   "zip": "30291",
+   "geo": {
+    "lat": 33.5681318,
+    "lon": -84.53626
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/299023963",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jiffy-lube-union-city",
+   "name": "Jiffy Lube",
+   "summary": "Jiffy Lube is an auto repair shop in Union City, GA at 4620 Jonesboro Road, Union City, GA 30291.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jiffy-lube-union-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-union-city.json",
+   "address": {
+    "streetAddress": "4620 Jonesboro Road",
+    "addressLocality": "Union City",
+    "addressRegion": "GA",
+    "postalCode": "30291",
+    "addressCountry": "US"
+   },
+   "city": "Union City",
+   "state": "GA",
+   "zip": "30291",
+   "geo": {
+    "lat": 33.567849,
+    "lon": -84.5382326
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/299023968",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ntb-union-city",
+   "name": "NTB",
+   "summary": "NTB is an auto repair shop in Union City, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ntb-union-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ntb-union-city.json",
+   "address": {
+    "addressLocality": "Union City",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Union City",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5705848,
+    "lon": -84.5435849
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/894727616",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "uc-urgent-care-union-city",
+   "name": "UC Urgent Care",
+   "summary": "UC Urgent Care is an urgent care clinic in Union City, GA.",
+   "categories": [
+    "urgent care"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/uc-urgent-care-union-city/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/uc-urgent-care-union-city.json",
+   "address": {
+    "addressLocality": "Union City",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Union City",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5704471,
+    "lon": -84.5386135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11982679005",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

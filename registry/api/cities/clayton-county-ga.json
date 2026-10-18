@@ -1,0 +1,2539 @@
+{
+ "place": "Clayton County, GA",
+ "slug": "clayton-county-ga",
+ "count": 89,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-clayton-county-ga.json"
+  },
+  {
+   "keyword": "bakery clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-clayton-county-ga.json"
+  },
+  {
+   "keyword": "business consultant clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-clayton-county-ga.json"
+  },
+  {
+   "keyword": "car wash clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-clayton-county-ga.json"
+  },
+  {
+   "keyword": "daycare clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-clayton-county-ga.json"
+  },
+  {
+   "keyword": "driving school clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/driving-school-clayton-county-ga.json"
+  },
+  {
+   "keyword": "dry cleaners clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-clayton-county-ga.json"
+  },
+  {
+   "keyword": "event venues clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-clayton-county-ga.json"
+  },
+  {
+   "keyword": "florist clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-clayton-county-ga.json"
+  },
+  {
+   "keyword": "funeral home clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-clayton-county-ga.json"
+  },
+  {
+   "keyword": "furniture store clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-clayton-county-ga.json"
+  },
+  {
+   "keyword": "gift shop clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-clayton-county-ga.json"
+  },
+  {
+   "keyword": "gym clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-clayton-county-ga.json"
+  },
+  {
+   "keyword": "hair salon clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-clayton-county-ga.json"
+  },
+  {
+   "keyword": "haircut clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-clayton-county-ga.json"
+  },
+  {
+   "keyword": "insurance agency clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-clayton-county-ga.json"
+  },
+  {
+   "keyword": "insurance agent clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-clayton-county-ga.json"
+  },
+  {
+   "keyword": "insurance agents clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-clayton-county-ga.json"
+  },
+  {
+   "keyword": "jewelry store clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-clayton-county-ga.json"
+  },
+  {
+   "keyword": "mattress store clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-clayton-county-ga.json"
+  },
+  {
+   "keyword": "mechanic clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-clayton-county-ga.json"
+  },
+  {
+   "keyword": "nail salon clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-clayton-county-ga.json"
+  },
+  {
+   "keyword": "oil change clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-clayton-county-ga.json"
+  },
+  {
+   "keyword": "preschool clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-clayton-county-ga.json"
+  },
+  {
+   "keyword": "storage units clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-clayton-county-ga.json"
+  },
+  {
+   "keyword": "tax preparation clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-clayton-county-ga.json"
+  },
+  {
+   "keyword": "tax preparer clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-clayton-county-ga.json"
+  },
+  {
+   "keyword": "thrift store clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-clayton-county-ga.json"
+  },
+  {
+   "keyword": "tire shop clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-clayton-county-ga.json"
+  },
+  {
+   "keyword": "used cars for sale clayton county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-clayton-county-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "carmax-clayton-county",
+   "name": "CarMax",
+   "summary": "CarMax is an used car dealer in Clayton County, GA. Website: https://www.carmax.com/stores/7117.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/carmax-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/carmax-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5496655,
+    "lon": -84.2898783
+   },
+   "website": "https://www.carmax.com/stores/7117",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/964700649",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "valvoline-clayton-county",
+   "name": "Valvoline",
+   "summary": "Valvoline is an auto repair shop in Clayton County, GA. Website: https://store.vioc.com/ga/jonesboro/oil-change-040167.html.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/valvoline-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/valvoline-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5333245,
+    "lon": -84.36357
+   },
+   "website": "https://store.vioc.com/ga/jonesboro/oil-change-040167.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258854",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "adult-day-care-center-clayton-county",
+   "name": "Adult Day Care Center",
+   "summary": "Adult Day Care Center is a daycare in Clayton County, GA.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/adult-day-care-center-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/adult-day-care-center-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5923195,
+    "lon": -84.3763895
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968834368",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-clayton-county",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Clayton County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5814015,
+    "lon": -84.3793481
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8967697210",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "amigos-tire-clayton-county",
+   "name": "Amigos Tire",
+   "summary": "Amigos Tire is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amigos-tire-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amigos-tire-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5430263,
+    "lon": -84.3652165
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258890",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "arcadia-kids-club-clayton-county",
+   "name": "Arcadia Kids Club",
+   "summary": "Arcadia Kids Club is a daycare in Clayton County, GA.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arcadia-kids-club-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arcadia-kids-club-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5373407,
+    "lon": -84.360746
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017926",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "atl-shops-by-hudson-clayton-county",
+   "name": "ATL Shops by Hudson",
+   "summary": "ATL Shops by Hudson is a gift shop in Clayton County, GA.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atl-shops-by-hudson-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atl-shops-by-hudson-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.642616,
+    "lon": -84.4359914
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3441662013",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bijoux-terner-clayton-county",
+   "name": "Bijoux Terner",
+   "summary": "Bijoux Terner is a gift shop in Clayton County, GA.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bijoux-terner-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bijoux-terner-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6394116,
+    "lon": -84.4327149
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8946496099",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bracketts-ratchet-auto-service-clayton-county",
+   "name": "Bracketts Ratchet Auto Service",
+   "summary": "Bracketts Ratchet Auto Service is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bracketts-ratchet-auto-service-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bracketts-ratchet-auto-service-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5616975,
+    "lon": -84.34571
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/847330117",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brannen-law-group-clayton-county",
+   "name": "Brannen Law Group",
+   "summary": "Brannen Law Group is a business consultant in Clayton County, GA.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brannen-law-group-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brannen-law-group-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5609033,
+    "lon": -84.3460226
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960246796",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brookstone-clayton-county",
+   "name": "Brookstone",
+   "summary": "Brookstone is a gift shop in Clayton County, GA.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookstone-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookstone-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6388318,
+    "lon": -84.4197741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4946431722",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-collision-clayton-county",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.568302,
+    "lon": -84.3175365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/949889295",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "celebrity-lounge-and-event-center-clayton-county",
+   "name": "Celebrity Lounge and Event Center",
+   "summary": "Celebrity Lounge and Event Center is an event venue in Clayton County, GA.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/celebrity-lounge-and-event-center-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/celebrity-lounge-and-event-center-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4707174,
+    "lon": -84.3375717
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10756202517",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chan-and-bay-clayton-county",
+   "name": "Chan & Bay",
+   "summary": "Chan & Bay is a nail salon in Clayton County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chan-and-bay-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chan-and-bay-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5642079,
+    "lon": -84.32481
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250139",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chan-and-bay-nail-spa-clayton-county",
+   "name": "Chan & Bay Nail Spa",
+   "summary": "Chan & Bay Nail Spa is a nail salon in Clayton County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chan-and-bay-nail-spa-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chan-and-bay-nail-spa-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4716007,
+    "lon": -84.3380646
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10756202514",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "clayton-collision-center-clayton-county",
+   "name": "Clayton Collision Center",
+   "summary": "Clayton Collision Center is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clayton-collision-center-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clayton-collision-center-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5519417,
+    "lon": -84.3694792
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968505306",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "d-and-b-outlet-tires-and-wheels-clayton-county",
+   "name": "D&B Outlet Tires & Wheels",
+   "summary": "D&B Outlet Tires & Wheels is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/d-and-b-outlet-tires-and-wheels-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/d-and-b-outlet-tires-and-wheels-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5381413,
+    "lon": -84.3516577
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/494402489",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "darby-furniture-clayton-county",
+   "name": "Darby Furniture",
+   "summary": "Darby Furniture is a furniture store in Clayton County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/darby-furniture-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/darby-furniture-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5547275,
+    "lon": -84.37134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968160704",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "debsdoing-taxes-clayton-county",
+   "name": "Debsdoing Taxes",
+   "summary": "Debsdoing Taxes is a tax preparation service in Clayton County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/debsdoing-taxes-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/debsdoing-taxes-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5374703,
+    "lon": -84.3608046
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017928",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "drivetime-clayton-county",
+   "name": "DriveTime",
+   "summary": "DriveTime is an used car dealer in Clayton County, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/drivetime-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/drivetime-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5578098,
+    "lon": -84.345227
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/949892623",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dry-clean-clayton-county",
+   "name": "Dry Clean",
+   "summary": "Dry Clean is a dry cleaner in Clayton County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dry-clean-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dry-clean-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5813749,
+    "lon": -84.3793918
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8967697211",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elite-taxes-clayton-county",
+   "name": "Elite Taxes",
+   "summary": "Elite Taxes is a tax preparation service in Clayton County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-taxes-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-taxes-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5634488,
+    "lon": -84.3442454
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960246808",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ellis-wester-clayton-county",
+   "name": "Ellis Wester",
+   "summary": "Ellis Wester is an insurance agent in Clayton County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ellis-wester-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ellis-wester-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5576557,
+    "lon": -84.3703531
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250252",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-clayton-county",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Clayton County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5268687,
+    "lon": -84.3651982
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017749",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-clayton-county-w1416884908",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Clayton County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-clayton-county-w1416884908/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-clayton-county-w1416884908.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5468816,
+    "lon": -84.4135615
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1416884908",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-clayton-county-w949888269",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Clayton County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-clayton-county-w949888269/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-clayton-county-w949888269.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5564795,
+    "lon": -84.2974695
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/949888269",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-clayton-county-w968402153",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Clayton County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-clayton-county-w968402153/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-clayton-county-w968402153.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5442802,
+    "lon": -84.3483528
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968402153",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-clayton-county-w968505292",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Clayton County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-clayton-county-w968505292/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-clayton-county-w968505292.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5659426,
+    "lon": -84.346243
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968505292",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-clayton-county",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5717357,
+    "lon": -84.3571334
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/847324131",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "floyd-s-lee-grading-clayton-county",
+   "name": "Floyd S. Lee Grading",
+   "summary": "Floyd S. Lee Grading is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/floyd-s-lee-grading-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/floyd-s-lee-grading-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.597482,
+    "lon": -84.3789625
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/847342352",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ford-stewart-funeral-home-inc-clayton-county",
+   "name": "Ford-Stewart Funeral Home Inc",
+   "summary": "Ford-Stewart Funeral Home Inc is a funeral home in Clayton County, GA.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ford-stewart-funeral-home-inc-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ford-stewart-funeral-home-inc-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.537919,
+    "lon": -84.324621
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1000145178",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fuerza-latina-insurance-clayton-county",
+   "name": "Fuerza Latina Insurance",
+   "summary": "Fuerza Latina Insurance is an insurance agent in Clayton County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fuerza-latina-insurance-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fuerza-latina-insurance-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5740315,
+    "lon": -84.3723645
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/847340168",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-clayton-county",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Clayton County, GA.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5388056,
+    "lon": -84.3630416
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017955",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodyear-clayton-county",
+   "name": "Goodyear",
+   "summary": "Goodyear is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodyear-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodyear-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.553317,
+    "lon": -84.2641665
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/949865242",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-clayton-county",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Clayton County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4493933,
+    "lon": -84.3270829
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9178575938",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "headz-up-barbershop-clayton-county",
+   "name": "Headz Up Barbershop",
+   "summary": "Headz Up Barbershop is a hair salon in Clayton County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/headz-up-barbershop-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/headz-up-barbershop-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5374044,
+    "lon": -84.3607842
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017927",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hectors-tires-clayton-county",
+   "name": "Hectors Tires",
+   "summary": "Hectors Tires is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hectors-tires-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hectors-tires-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5272846,
+    "lon": -84.3638521
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258846",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "heritage-collison-center-clayton-county",
+   "name": "Heritage Collison Center",
+   "summary": "Heritage Collison Center is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heritage-collison-center-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heritage-collison-center-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.559208,
+    "lon": -84.3482035
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/949892638",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hitone-fitness-clayton-county",
+   "name": "HiTone Fitness",
+   "summary": "HiTone Fitness is a gym in Clayton County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hitone-fitness-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hitone-fitness-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4269621,
+    "lon": -84.4006998
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1150828555",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hometown-carwash-clayton-county",
+   "name": "Hometown CarWash",
+   "summary": "Hometown CarWash is a car wash in Clayton County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hometown-carwash-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hometown-carwash-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5152718,
+    "lon": -84.3633632
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258806",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hurst-auto-service-clayton-county",
+   "name": "Hurst Auto Service",
+   "summary": "Hurst Auto Service is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hurst-auto-service-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hurst-auto-service-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5632377,
+    "lon": -84.3443087
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960246806",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "klutch-atl-barbershop-clayton-county",
+   "name": "Klutch ATL Barbershop",
+   "summary": "Klutch ATL Barbershop is a hair salon in Clayton County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/klutch-atl-barbershop-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/klutch-atl-barbershop-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4725803,
+    "lon": -84.3383715
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10756202509",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "l-a-insurance-clayton-county",
+   "name": "L.A. Insurance",
+   "summary": "L.A. Insurance is an insurance agent in Clayton County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/l-a-insurance-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/l-a-insurance-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5725507,
+    "lon": -84.3726619
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250368",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-petite-clayton-county",
+   "name": "La Petite",
+   "summary": "La Petite is a preschool in Clayton County, GA.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-petite-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-petite-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.485778,
+    "lon": -84.3416628
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968230312",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lake-city-auto-sales-clayton-county",
+   "name": "Lake City Auto Sales",
+   "summary": "Lake City Auto Sales is an used car dealer in Clayton County, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-city-auto-sales-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-city-auto-sales-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5912344,
+    "lon": -84.3765656
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/969127855",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "landmark-collision-center-clayton-county",
+   "name": "Landmark Collision Center",
+   "summary": "Landmark Collision Center is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/landmark-collision-center-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/landmark-collision-center-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5781882,
+    "lon": -84.372654
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968505334",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "larrys-new-used-tires-clayton-county",
+   "name": "Larry's New/Used Tires",
+   "summary": "Larry's New/Used Tires is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/larrys-new-used-tires-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/larrys-new-used-tires-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4865758,
+    "lon": -84.3398143
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968230311",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "las-potosina-clayton-county",
+   "name": "Las Potosina",
+   "summary": "Las Potosina is a bakery in Clayton County, GA.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/las-potosina-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/las-potosina-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5948354,
+    "lon": -84.3779201
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8967697238",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "m-and-b-nails-clayton-county",
+   "name": "M&B Nails",
+   "summary": "M&B Nails is a nail salon in Clayton County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/m-and-b-nails-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/m-and-b-nails-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4493048,
+    "lon": -84.3270628
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9178575940",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "matress-outlet-clayton-county",
+   "name": "Matress Outlet",
+   "summary": "Matress Outlet is a mattress store in Clayton County, GA.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/matress-outlet-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/matress-outlet-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5801075,
+    "lon": -84.3740635
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968832266",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-clayton-county",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5632495,
+    "lon": -84.323819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/847329052",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-clayton-county-w1373366857",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-clayton-county-w1373366857/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-clayton-county-w1373366857.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6342369,
+    "lon": -84.2889502
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1373366857",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midway-tax-clayton-county",
+   "name": "Midway Tax",
+   "summary": "Midway Tax is a tax preparation service in Clayton County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midway-tax-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midway-tax-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5762345,
+    "lon": -84.3717329
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9177911846",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ni-auto-service-clayton-county",
+   "name": "NI Auto Service",
+   "summary": "NI Auto Service is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ni-auto-service-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ni-auto-service-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.537711,
+    "lon": -84.3517995
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968164499",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oui-school-clayton-county",
+   "name": "OUI School",
+   "summary": "OUI School is a driving school in Clayton County, GA.",
+   "categories": [
+    "driving school"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oui-school-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oui-school-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5590658,
+    "lon": -84.370744
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250273",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "paradise-auto-clayton-county",
+   "name": "Paradise Auto",
+   "summary": "Paradise Auto is an used car dealer in Clayton County, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/paradise-auto-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/paradise-auto-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5479735,
+    "lon": -84.3703835
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968161264",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "peachtree-gold-exchange-clayton-county",
+   "name": "Peachtree Gold Exchange",
+   "summary": "Peachtree Gold Exchange is a jewelry store in Clayton County, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peachtree-gold-exchange-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peachtree-gold-exchange-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.574712,
+    "lon": -84.372417
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/847340170",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pep-boys-clayton-county",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5354843,
+    "lon": -84.365091
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258857",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-clayton-county",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Clayton County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5365127,
+    "lon": -84.3668234
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017908",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-clayton-county-w949866495",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Clayton County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-clayton-county-w949866495/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-clayton-county-w949866495.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5553216,
+    "lon": -84.2660516
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/949866495",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "precise-tax-service-clayton-county",
+   "name": "Precise Tax Service",
+   "summary": "Precise Tax Service is a tax preparation service in Clayton County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/precise-tax-service-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/precise-tax-service-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5577552,
+    "lon": -84.370356
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250253",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-clayton-county",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Clayton County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5501358,
+    "lon": -84.3492534
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960246753",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-clayton-county-n8960250310",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Clayton County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-clayton-county-n8960250310/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-clayton-county-n8960250310.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5653456,
+    "lon": -84.3697033
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250310",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-clayton-county-w847342542",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Clayton County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-clayton-county-w847342542/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-clayton-county-w847342542.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5917585,
+    "lon": -84.377466
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/847342542",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "r-and-h-motors-clayton-county",
+   "name": "R&H Motors",
+   "summary": "R&H Motors is an used car dealer in Clayton County, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-and-h-motors-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-and-h-motors-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5628242,
+    "lon": -84.3707333
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968505319",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "racing-tires-clayton-county",
+   "name": "Racing Tires",
+   "summary": "Racing Tires is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/racing-tires-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/racing-tires-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5451641,
+    "lon": -84.3696523
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258895",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rent-a-center-clayton-county",
+   "name": "Rent-A-Center",
+   "summary": "Rent-A-Center is a furniture store in Clayton County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rent-a-center-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rent-a-center-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5387877,
+    "lon": -84.36386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017956",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rimtyme-clayton-county",
+   "name": "RimTyme",
+   "summary": "RimTyme is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rimtyme-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rimtyme-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.547124,
+    "lon": -84.370341
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968161497",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rooms-to-go-clayton-county",
+   "name": "Rooms To Go",
+   "summary": "Rooms To Go is a furniture store in Clayton County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rooms-to-go-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rooms-to-go-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6084155,
+    "lon": -84.394046
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/847342340",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "royality-tax-service-clayton-county",
+   "name": "Royality Tax Service",
+   "summary": "Royality Tax Service is a tax preparation service in Clayton County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/royality-tax-service-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/royality-tax-service-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5792746,
+    "lon": -84.3751255
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250391",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-clayton-county",
+   "name": "Salon",
+   "summary": "Salon is a nail salon in Clayton County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4707332,
+    "lon": -84.3379059
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10756202520",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-clayton-county-n11085606695",
+   "name": "Salon",
+   "summary": "Salon is a hair salon in Clayton County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-clayton-county-n11085606695/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-clayton-county-n11085606695.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4271627,
+    "lon": -84.4009123
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11085606695",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "smiley-muffler-clayton-county",
+   "name": "Smiley Muffler",
+   "summary": "Smiley Muffler is an auto repair shop in Clayton County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smiley-muffler-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smiley-muffler-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5535645,
+    "lon": -84.3710805
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968160692",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "somos-tires-clayton-county",
+   "name": "Somo's Tires",
+   "summary": "Somo's Tires is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/somos-tires-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/somos-tires-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5473802,
+    "lon": -84.3701548
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968161202",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "southern-tire-mart-clayton-county",
+   "name": "Southern Tire Mart",
+   "summary": "Southern Tire Mart is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southern-tire-mart-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southern-tire-mart-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.588751,
+    "lon": -84.3790365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968832793",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spa-nails-clayton-county",
+   "name": "Spa Nails",
+   "summary": "Spa Nails is a nail salon in Clayton County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spa-nails-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spa-nails-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5726123,
+    "lon": -84.3726582
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250369",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "star-nails-clayton-county",
+   "name": "Star Nails",
+   "summary": "Star Nails is a nail salon in Clayton County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/star-nails-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/star-nails-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4707297,
+    "lon": -84.3378051
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10756202519",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "swarovski-clayton-county",
+   "name": "Swarovski",
+   "summary": "Swarovski is a jewelry store in Clayton County, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swarovski-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swarovski-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.640716,
+    "lon": -84.4295213
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3839586396",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tara-florist-clayton-county",
+   "name": "Tara Florist",
+   "summary": "Tara Florist is a florist in Clayton County, GA.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tara-florist-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tara-florist-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5371941,
+    "lon": -84.3606746
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017924",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "taxman-clayton-county",
+   "name": "Taxman",
+   "summary": "Taxman is a tax preparation service in Clayton County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/taxman-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/taxman-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4708551,
+    "lon": -84.3368247
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8948476846",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-braid-bar-clayton-county",
+   "name": "The Braid Bar",
+   "summary": "The Braid Bar is a hair salon in Clayton County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-braid-bar-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-braid-bar-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5622306,
+    "lon": -84.3706645
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968505318",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thrive-hair-salon-clayton-county",
+   "name": "Thrive Hair Salon",
+   "summary": "Thrive Hair Salon is a hair salon in Clayton County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrive-hair-salon-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrive-hair-salon-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5575429,
+    "lon": -84.3703488
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250250",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tiremax-clayton-county",
+   "name": "Tiremax",
+   "summary": "Tiremax is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiremax-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiremax-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5630688,
+    "lon": -84.344334
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960246805",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tiremaxx-clayton-county",
+   "name": "Tiremaxx",
+   "summary": "Tiremaxx is a tire shop in Clayton County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiremaxx-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiremaxx-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5839069,
+    "lon": -84.3769411
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968832806",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "us-auto-sales-clayton-county",
+   "name": "US Auto Sales",
+   "summary": "US Auto Sales is an used car dealer in Clayton County, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/us-auto-sales-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/us-auto-sales-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5423556,
+    "lon": -84.3663358
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258889",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "usa-insurance-clayton-county",
+   "name": "USA Insurance",
+   "summary": "USA Insurance is an insurance agent in Clayton County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/usa-insurance-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/usa-insurance-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5589713,
+    "lon": -84.3707478
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8960250271",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "velox-clayton-county",
+   "name": "Velox",
+   "summary": "Velox is an insurance agent in Clayton County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/velox-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/velox-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.6299345,
+    "lon": -84.3864004
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/950215616",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "virgin-hair-clayton-county",
+   "name": "Virgin Hair",
+   "summary": "Virgin Hair is a hair salon in Clayton County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/virgin-hair-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/virgin-hair-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4707408,
+    "lon": -84.3379686
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10756202521",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "workout-anytime-clayton-county",
+   "name": "Workout Anytime",
+   "summary": "Workout Anytime is a gym in Clayton County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/workout-anytime-clayton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/workout-anytime-clayton-county.json",
+   "address": {
+    "addressLocality": "Clayton County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Clayton County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4727284,
+    "lon": -84.3385199
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10756202511",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

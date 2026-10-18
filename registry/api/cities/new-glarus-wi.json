@@ -1,0 +1,795 @@
+{
+ "place": "New Glarus, WI",
+ "slug": "new-glarus-wi",
+ "count": 23,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-new-glarus-wi.json"
+  },
+  {
+   "keyword": "auto repair new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-new-glarus-wi.json"
+  },
+  {
+   "keyword": "bakery new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-new-glarus-wi.json"
+  },
+  {
+   "keyword": "car wash new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-new-glarus-wi.json"
+  },
+  {
+   "keyword": "chiropractor new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-new-glarus-wi.json"
+  },
+  {
+   "keyword": "daycare new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-new-glarus-wi.json"
+  },
+  {
+   "keyword": "funeral home new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-new-glarus-wi.json"
+  },
+  {
+   "keyword": "gift shop new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-new-glarus-wi.json"
+  },
+  {
+   "keyword": "insurance agency new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-new-glarus-wi.json"
+  },
+  {
+   "keyword": "insurance agent new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-new-glarus-wi.json"
+  },
+  {
+   "keyword": "insurance agents new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-new-glarus-wi.json"
+  },
+  {
+   "keyword": "mechanic new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-new-glarus-wi.json"
+  },
+  {
+   "keyword": "pet store new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-new-glarus-wi.json"
+  },
+  {
+   "keyword": "tailor new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-new-glarus-wi.json"
+  },
+  {
+   "keyword": "tattoo shop new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-new-glarus-wi.json"
+  },
+  {
+   "keyword": "used cars for sale new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-new-glarus-wi.json"
+  },
+  {
+   "keyword": "vet new glarus wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-new-glarus-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "rusty-raven-new-glarus",
+   "name": "Rusty Raven",
+   "summary": "Rusty Raven is a gift shop in New Glarus, WI at 500 1st Street, New Glarus, WI 53574. Phone: +16086362023. Website: https://www.rustyraven.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rusty-raven-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rusty-raven-new-glarus.json",
+   "address": {
+    "streetAddress": "500 1st Street",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8152874,
+    "lon": -89.6337783
+   },
+   "phone": "+16086362023",
+   "website": "https://www.rustyraven.com/",
+   "opening_hours": "Mo-Su 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2498974949",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "art-and-soul-new-glarus",
+   "name": "Art & Soul",
+   "summary": "Art & Soul is a tattoo shop in New Glarus, WI at 412 2nd Street, New Glarus, WI 53574. Phone: +16085272727. Website: https://www.tattoowisconsin.com/.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/art-and-soul-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/art-and-soul-new-glarus.json",
+   "address": {
+    "streetAddress": "412 2nd Street",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8159929,
+    "lon": -89.6348618
+   },
+   "phone": "+16085272727",
+   "website": "https://www.tattoowisconsin.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/224200438",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bramble-patch-new-glarus",
+   "name": "Bramble Patch",
+   "summary": "Bramble Patch is a gift shop in New Glarus, WI at 102 5th Avenue, New Glarus, WI 53574. Phone: +16085274878. Website: https://www.thebramblepatch.biz/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bramble-patch-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bramble-patch-new-glarus.json",
+   "address": {
+    "streetAddress": "102 5th Avenue",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8155974,
+    "lon": -89.6341612
+   },
+   "phone": "+16085274878",
+   "website": "https://www.thebramblepatch.biz/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/39017162",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brandis-bridal-galleria-new-glarus",
+   "name": "Brandi's Bridal Galleria",
+   "summary": "Brandi's Bridal Galleria is a tailor in New Glarus, WI at 12 14th Avenue, New Glarus, WI 53574. Phone: +16085274436. Website: https://brandisbridal.com/.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brandis-bridal-galleria-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brandis-bridal-galleria-new-glarus.json",
+   "address": {
+    "streetAddress": "12 14th Avenue",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8071442,
+    "lon": -89.6322804
+   },
+   "phone": "+16085274436",
+   "website": "https://brandisbridal.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/406320551",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "judds-auto-body-new-glarus",
+   "name": "Judd's Auto Body",
+   "summary": "Judd's Auto Body is an auto repair shop in New Glarus, WI at 1412 State Highway 69, New Glarus, WI 53574. Phone: +16085276350. Website: https://juddsautobody.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/judds-auto-body-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/judds-auto-body-new-glarus.json",
+   "address": {
+    "streetAddress": "1412 State Highway 69",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8056572,
+    "lon": -89.6312588
+   },
+   "phone": "+16085276350",
+   "website": "https://juddsautobody.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/368212124",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lsm-chiropractic-new-glarus",
+   "name": "LSM Chiropractic",
+   "summary": "LSM Chiropractic is a chiropractor in New Glarus, WI at 700 State Highway 69, New Glarus, WI 53574. Phone: +16085272715. Website: https://www.lsmchiro.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lsm-chiropractic-new-glarus.json",
+   "address": {
+    "streetAddress": "700 State Highway 69",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8128825,
+    "lon": -89.6308767
+   },
+   "phone": "+16085272715",
+   "website": "https://www.lsmchiro.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/27082131",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-glarus-bakery-new-glarus",
+   "name": "New Glarus Bakery",
+   "summary": "New Glarus Bakery is a bakery in New Glarus, WI at 534 1st Street, New Glarus, WI 53574. Phone: +16085272916. Website: https://newglarusbakery.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-glarus-bakery-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-glarus-bakery-new-glarus.json",
+   "address": {
+    "streetAddress": "534 1st Street",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8148735,
+    "lon": -89.6337376
+   },
+   "phone": "+16085272916",
+   "website": "https://newglarusbakery.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/1194989261",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-glarus-veterinary-services-new-glarus",
+   "name": "New Glarus Veterinary Services",
+   "summary": "New Glarus Veterinary Services is a veterinarian in New Glarus, WI at 1106 State Highway 69, New Glarus, WI 53574. Phone: +16085272212. Website: https://newglarusvet.vetsfirstchoice.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-glarus-veterinary-services-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-glarus-veterinary-services-new-glarus.json",
+   "address": {
+    "streetAddress": "1106 State Highway 69",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8095601,
+    "lon": -89.6307934
+   },
+   "phone": "+16085272212",
+   "website": "https://newglarusvet.vetsfirstchoice.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/37692527",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rpm-motors-new-glarus",
+   "name": "RPM Motors",
+   "summary": "RPM Motors is an used car dealer in New Glarus, WI at 98 State Highway 69, New Glarus, WI 53574. Phone: +16085275050. Website: https://www.rpm4sale.com/temps/index.cfm.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rpm-motors-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rpm-motors-new-glarus.json",
+   "address": {
+    "streetAddress": "98 State Highway 69",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8212171,
+    "lon": -89.6318754
+   },
+   "phone": "+16085275050",
+   "website": "https://www.rpm4sale.com/temps/index.cfm",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/496895515",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "small-world-childcare-center-new-glarus",
+   "name": "Small World Childcare Center",
+   "summary": "Small World Childcare Center is a daycare in New Glarus, WI at 107 2nd Street, New Glarus, WI 53574. Phone: +16085272954. Website: https://www.smallworldchildcare.org/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/small-world-childcare-center-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/small-world-childcare-center-new-glarus.json",
+   "address": {
+    "streetAddress": "107 2nd Street",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8186706,
+    "lon": -89.6355407
+   },
+   "phone": "+16085272954",
+   "website": "https://www.smallworldchildcare.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/39017427",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-new-glarus",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in New Glarus, WI at 407 2nd Street, New Glarus, WI 53574. Phone: +16085272900. Website: https://www.cowandquince.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-new-glarus.json",
+   "address": {
+    "streetAddress": "407 2nd Street",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8160153,
+    "lon": -89.6355267
+   },
+   "phone": "+16085272900",
+   "website": "https://www.cowandquince.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/291826757",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "top-notch-feed-and-pet-supply-new-glarus",
+   "name": "Top Notch Feed & Pet Supply",
+   "summary": "Top Notch Feed & Pet Supply is a pet store in New Glarus, WI at 211 Hoesly Drive, New Glarus, WI 53574. Phone: +16085273333. Website: https://www.topnotchfeed.com/.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/top-notch-feed-and-pet-supply-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/top-notch-feed-and-pet-supply-new-glarus.json",
+   "address": {
+    "streetAddress": "211 Hoesly Drive",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8195352,
+    "lon": -89.6301984
+   },
+   "phone": "+16085273333",
+   "website": "https://www.topnotchfeed.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12342561958",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wrecktify-collision-and-restoration-new-glarus",
+   "name": "Wrecktify Collision & Restoration",
+   "summary": "Wrecktify Collision & Restoration is an auto repair shop in New Glarus, WI at 207 Hoesly Drive, New Glarus, WI 53574. Phone: +16085272246. Website: https://wrecktifycollision.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wrecktify-collision-and-restoration-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wrecktify-collision-and-restoration-new-glarus.json",
+   "address": {
+    "streetAddress": "207 Hoesly Drive",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8199071,
+    "lon": -89.6303867
+   },
+   "phone": "+16085272246",
+   "website": "https://wrecktifycollision.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/26827888",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zentner-beal-funeral-home-new-glarus",
+   "name": "Zentner-Beal Funeral Home",
+   "summary": "Zentner-Beal Funeral Home is a funeral home in New Glarus, WI at 29 6th Avenue, New Glarus, WI 53574. Phone: +16085272211. Website: https://www.bealfuneralhomes.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zentner-beal-funeral-home-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zentner-beal-funeral-home-new-glarus.json",
+   "address": {
+    "streetAddress": "29 6th Avenue",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8142775,
+    "lon": -89.6335407
+   },
+   "phone": "+16085272211",
+   "website": "https://www.bealfuneralhomes.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/496882131",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alpenhaus-market-new-glarus",
+   "name": "Alpenhaus Market",
+   "summary": "Alpenhaus Market is a gift shop in New Glarus, WI at 618 Railroad Street, New Glarus, WI 53574. Phone: +16085274247.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alpenhaus-market-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alpenhaus-market-new-glarus.json",
+   "address": {
+    "streetAddress": "618 Railroad Street",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8138022,
+    "lon": -89.6325757
+   },
+   "phone": "+16085274247",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/27123523",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hutch-hide-new-glarus",
+   "name": "Hutch + Hide",
+   "summary": "Hutch + Hide is a gift shop in New Glarus, WI at 600 1st Street, New Glarus, WI 53574. Phone: +16086362300.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hutch-hide-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hutch-hide-new-glarus.json",
+   "address": {
+    "streetAddress": "600 1st Street",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8142718,
+    "lon": -89.6337049
+   },
+   "phone": "+16086362300",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/291722634",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-rose-new-glarus",
+   "name": "New Rose",
+   "summary": "New Rose is a gift shop in New Glarus, WI at 523 1st Street, New Glarus, WI 53574. Phone: +16085275558.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-rose-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-rose-new-glarus.json",
+   "address": {
+    "streetAddress": "523 1st Street",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.814954,
+    "lon": -89.6340917
+   },
+   "phone": "+16085275558",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4885388257",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jackies-european-imports-new-glarus",
+   "name": "Jackie's European Imports",
+   "summary": "Jackie's European Imports is a gift shop in New Glarus, WI at 526 1st Street #2, New Glarus, WI 53574.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jackies-european-imports-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jackies-european-imports-new-glarus.json",
+   "address": {
+    "streetAddress": "526 1st Street #2",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8150045,
+    "lon": -89.6335494
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13090655236",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kinderladen-new-glarus",
+   "name": "Kinderladen",
+   "summary": "Kinderladen is a gift shop in New Glarus, WI at 523 1st Street, New Glarus, WI 53574.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kinderladen-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kinderladen-new-glarus.json",
+   "address": {
+    "streetAddress": "523 1st Street",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.814916,
+    "lon": -89.634092
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4885388256",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-glarus-w-sche-center-and-storage-new-glarus",
+   "name": "New Glarus Wäsche Center and Storage",
+   "summary": "New Glarus Wäsche Center and Storage is a car wash in New Glarus, WI at 1500 State Highway 69, New Glarus, WI 53574.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-glarus-w-sche-center-and-storage-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-glarus-w-sche-center-and-storage-new-glarus.json",
+   "address": {
+    "streetAddress": "1500 State Highway 69",
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "postalCode": "53574",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "zip": "53574",
+   "geo": {
+    "lat": 42.8038985,
+    "lon": -89.6314608
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/451422047",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-glarus-brewing-gift-shop-new-glarus",
+   "name": "New Glarus Brewing Gift Shop",
+   "summary": "New Glarus Brewing Gift Shop is a gift shop in New Glarus, WI.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-glarus-brewing-gift-shop-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-glarus-brewing-gift-shop-new-glarus.json",
+   "address": {
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "geo": {
+    "lat": 42.817792,
+    "lon": -89.6294474
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13090655240",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-glarus-wasche-center-new-glarus",
+   "name": "New Glarus Wasche Center",
+   "summary": "New Glarus Wasche Center is a car wash in New Glarus, WI.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-glarus-wasche-center-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-glarus-wasche-center-new-glarus.json",
+   "address": {
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "geo": {
+    "lat": 42.8040021,
+    "lon": -89.6314425
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1424307185",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-alpine-new-glarus",
+   "name": "The Alpine",
+   "summary": "The Alpine is a gift shop in New Glarus, WI.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-alpine-new-glarus/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-alpine-new-glarus.json",
+   "address": {
+    "addressLocality": "New Glarus",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "New Glarus",
+   "state": "WI",
+   "geo": {
+    "lat": 42.8155513,
+    "lon": -89.6349606
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13091373917",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -13,6 +13,7 @@ FedEx Office is a printing service in Houston, TX at 1420 Gulfgate Center, Houst
 - Website: https://local.fedex.com/en-us/tx/houston/office-1622
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

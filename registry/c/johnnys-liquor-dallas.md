@@ -13,6 +13,7 @@ Johnny's Liquor is a liquor store in Dallas, TX at 4928 Columbia Avenue, Dallas,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

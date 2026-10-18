@@ -13,6 +13,7 @@ Allstate Insurance: Al Hicks is an insurance agent in Friendswood, TX at 1560 We
 - Website: https://agents.allstate.com/al-hicks-friendswood-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

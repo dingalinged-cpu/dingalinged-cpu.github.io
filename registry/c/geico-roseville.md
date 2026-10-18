@@ -13,6 +13,7 @@ GEICO is an insurance agent in Roseville, MN at 2174 Snelling Avenue North, Rose
 - Website: https://www.geico.com/insurance-agents/minnesota/minneapolis-st-paul/steven-blome/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00
+- Registry Score: 50.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

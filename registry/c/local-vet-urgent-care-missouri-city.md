@@ -13,6 +13,7 @@ Local Vet Urgent Care is a veterinarian in Missouri City, TX at 9402 Highway 6, 
 - Website: https://localvettx.com/
 - Email: info@localvettx.com
 - Opening hours (OSM syntax): Th-Tu 13:00-22:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

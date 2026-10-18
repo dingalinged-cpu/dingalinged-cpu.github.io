@@ -13,6 +13,7 @@ Green Bay Cycles is a bike shop in Winnetka, IL at 999 Green Bay Road #1, Winnet
 - Website: https://www.greenbaycycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:30; Sa 9:00-17:00
+- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

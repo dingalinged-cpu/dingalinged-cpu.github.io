@@ -13,6 +13,7 @@ Hi-Tech Roofing & Home Service is a roofer in New Caney, TX at 23610 3rd Street,
 - Website: https://hi-techroofing.net/
 - Email: hitechroofingmb@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa,Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

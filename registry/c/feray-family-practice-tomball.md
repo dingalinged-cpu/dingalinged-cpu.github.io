@@ -13,6 +13,7 @@ Feray Family Practice is a family medicine practice in Tomball, TX at 720 Lawren
 - Website: https://www.drferay.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-16:00; Fr-Sa 07:00-10:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

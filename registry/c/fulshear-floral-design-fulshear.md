@@ -13,6 +13,7 @@ Fulshear Floral Design is a florist in Fulshear, TX at 8525 FM 359, Fulshear, TX
 - Website: https://fulshearfloraldesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; Sa 09:00-12:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

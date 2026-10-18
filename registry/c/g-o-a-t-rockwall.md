@@ -13,6 +13,7 @@ G.O.A.T. is a roofer in Rockwall, TX at 903 Davy Crockett Drive, Rockwall, TX 75
 - Website: https://goatroof.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

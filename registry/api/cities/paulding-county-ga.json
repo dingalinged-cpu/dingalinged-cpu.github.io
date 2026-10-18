@@ -1,0 +1,1017 @@
+{
+ "place": "Paulding County, GA",
+ "slug": "paulding-county-ga",
+ "count": 33,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-paulding-county-ga.json"
+  },
+  {
+   "keyword": "barber shop paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/barber-shop-paulding-county-ga.json"
+  },
+  {
+   "keyword": "car wash paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-paulding-county-ga.json"
+  },
+  {
+   "keyword": "daycare paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-paulding-county-ga.json"
+  },
+  {
+   "keyword": "dentist paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-paulding-county-ga.json"
+  },
+  {
+   "keyword": "dry cleaners paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-paulding-county-ga.json"
+  },
+  {
+   "keyword": "furniture store paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-paulding-county-ga.json"
+  },
+  {
+   "keyword": "gym paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-paulding-county-ga.json"
+  },
+  {
+   "keyword": "hair salon paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-paulding-county-ga.json"
+  },
+  {
+   "keyword": "haircut paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-paulding-county-ga.json"
+  },
+  {
+   "keyword": "insurance agency paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-paulding-county-ga.json"
+  },
+  {
+   "keyword": "insurance agent paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-paulding-county-ga.json"
+  },
+  {
+   "keyword": "insurance agents paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-paulding-county-ga.json"
+  },
+  {
+   "keyword": "massage paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-paulding-county-ga.json"
+  },
+  {
+   "keyword": "mechanic paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-paulding-county-ga.json"
+  },
+  {
+   "keyword": "nail salon paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-paulding-county-ga.json"
+  },
+  {
+   "keyword": "pet store paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-paulding-county-ga.json"
+  },
+  {
+   "keyword": "physical therapy paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-paulding-county-ga.json"
+  },
+  {
+   "keyword": "preschool paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-paulding-county-ga.json"
+  },
+  {
+   "keyword": "storage units paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-paulding-county-ga.json"
+  },
+  {
+   "keyword": "tanning salon paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-paulding-county-ga.json"
+  },
+  {
+   "keyword": "tax preparation paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-paulding-county-ga.json"
+  },
+  {
+   "keyword": "tax preparer paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-paulding-county-ga.json"
+  },
+  {
+   "keyword": "thrift store paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-paulding-county-ga.json"
+  },
+  {
+   "keyword": "tire shop paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-paulding-county-ga.json"
+  },
+  {
+   "keyword": "used cars for sale paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-paulding-county-ga.json"
+  },
+  {
+   "keyword": "vet paulding county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-paulding-county-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "kids-time-academy-paulding-county",
+   "name": "Kids Time Academy",
+   "summary": "Kids Time Academy is a daycare in Paulding County, GA. Website: https://www.kidztymeacademy.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-time-academy-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-time-academy-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0088337,
+    "lon": -84.7515861
+   },
+   "website": "https://www.kidztymeacademy.com/",
+   "opening_hours": "Mo-Fr 06:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/552227186",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hardy-superstore-paulding-county",
+   "name": "Hardy Superstore",
+   "summary": "Hardy Superstore is an used car dealer in Paulding County, GA. Website: https://www.hardysuperstore.com/.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hardy-superstore-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hardy-superstore-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.917897,
+    "lon": -84.770607
+   },
+   "website": "https://www.hardysuperstore.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010624926",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pt-solutions-paulding-county",
+   "name": "PT Solutions",
+   "summary": "PT Solutions is a physical therapy clinic in Paulding County, GA. Website: https://atl.ptappointment.com/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pt-solutions-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pt-solutions-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9583582,
+    "lon": -84.7871321
+   },
+   "website": "https://atl.ptappointment.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235332712",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-paulding-county",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Paulding County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9570327,
+    "lon": -84.7863878
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235346573",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "best-cleaners-paulding-county",
+   "name": "Best Cleaners",
+   "summary": "Best Cleaners is a dry cleaner in Paulding County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/best-cleaners-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/best-cleaners-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9573464,
+    "lon": -84.7867137
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235332721",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "big-blue-marble-paulding-county",
+   "name": "Big Blue Marble",
+   "summary": "Big Blue Marble is a preschool in Paulding County, GA.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-blue-marble-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-blue-marble-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0315898,
+    "lon": -84.7403446
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1502059306",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bio-clean-cleaners-paulding-county",
+   "name": "Bio-Clean Cleaners",
+   "summary": "Bio-Clean Cleaners is a dry cleaner in Paulding County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bio-clean-cleaners-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bio-clean-cleaners-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0097479,
+    "lon": -84.7530494
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13246039646",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "boxdrop-matress-paulding-county",
+   "name": "Boxdrop Matress",
+   "summary": "Boxdrop Matress is a furniture store in Paulding County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/boxdrop-matress-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/boxdrop-matress-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9568703,
+    "lon": -84.7861196
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235346574",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crossfit-paulding-county",
+   "name": "CrossFit",
+   "summary": "CrossFit is a gym in Paulding County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossfit-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossfit-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9559509,
+    "lon": -84.7865219
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235350994",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crossroads-christian-school-paulding-county",
+   "name": "Crossroads Christian School",
+   "summary": "Crossroads Christian School is a daycare in Paulding County, GA.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossroads-christian-school-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossroads-christian-school-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0094924,
+    "lon": -84.7526265
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13234671774",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dallas-collision-paulding-county",
+   "name": "Dallas Collision",
+   "summary": "Dallas Collision is an auto repair shop in Paulding County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dallas-collision-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dallas-collision-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.915865,
+    "lon": -84.770863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010625470",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dallas-nails-paulding-county",
+   "name": "Dallas Nails",
+   "summary": "Dallas Nails is a nail salon in Paulding County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dallas-nails-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dallas-nails-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9581084,
+    "lon": -84.7870946
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235332714",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-paulding-county",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Paulding County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8893843,
+    "lon": -84.7461509
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010620341",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elite-nails-paulding-county",
+   "name": "Elite Nails",
+   "summary": "Elite Nails is a nail salon in Paulding County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-nails-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-nails-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0103132,
+    "lon": -84.7527168
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13246039636",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "evan-blake-salon-paulding-county",
+   "name": "Evan-Blake Salon",
+   "summary": "Evan-Blake Salon is a hair salon in Paulding County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/evan-blake-salon-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/evan-blake-salon-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9559654,
+    "lon": -84.7871549
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235350999",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "family-shopping-thrift-store-paulding-county",
+   "name": "Family Shopping Thrift Store",
+   "summary": "Family Shopping Thrift Store is a thrift store in Paulding County, GA.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-shopping-thrift-store-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-shopping-thrift-store-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9459675,
+    "lon": -84.7369105
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010622952",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-paulding-county",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Paulding County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9559543,
+    "lon": -84.7867016
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235350995",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-paulding-county",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Paulding County, GA.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8903515,
+    "lon": -84.7490275
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010620284",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-paulding-county",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Paulding County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9581574,
+    "lon": -84.787116
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235332713",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-paulding-county",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Paulding County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9559498,
+    "lon": -84.7864334
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235350993",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kauffman-tire-paulding-county",
+   "name": "Kauffman Tire",
+   "summary": "Kauffman Tire is an auto repair shop in Paulding County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kauffman-tire-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kauffman-tire-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8896679,
+    "lon": -84.7510763
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/411214651",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lavida-massage-paulding-county",
+   "name": "LaVida Massage",
+   "summary": "LaVida Massage is a massage studio in Paulding County, GA.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lavida-massage-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lavida-massage-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0100086,
+    "lon": -84.7529422
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13246039643",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lee-family-dentistry-paulding-county",
+   "name": "Lee Family Dentistry",
+   "summary": "Lee Family Dentistry is a dentist in Paulding County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lee-family-dentistry-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lee-family-dentistry-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9160635,
+    "lon": -84.7699415
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010625171",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lifesmiles-paulding-county",
+   "name": "LifeSmiles",
+   "summary": "LifeSmiles is a dentist in Paulding County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lifesmiles-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lifesmiles-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9559632,
+    "lon": -84.7869215
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235350997",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nails-and-toes-paulding-county",
+   "name": "Nails & Toes",
+   "summary": "Nails & Toes is a nail salon in Paulding County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-and-toes-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-and-toes-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.890066,
+    "lon": -84.7479638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9366726720",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-hope-animal-hospital-paulding-county",
+   "name": "New Hope Animal Hospital",
+   "summary": "New Hope Animal Hospital is a veterinarian in Paulding County, GA.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-hope-animal-hospital-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-hope-animal-hospital-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9559498,
+    "lon": -84.786361
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13235350992",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-supermarket-paulding-county",
+   "name": "Pet Supermarket",
+   "summary": "Pet Supermarket is a pet store in Paulding County, GA.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supermarket-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supermarket-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0109665,
+    "lon": -84.7553798
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13234880060",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petes-barber-shop-paulding-county",
+   "name": "Pete's Barber Shop",
+   "summary": "Pete's Barber Shop is a barber shop in Paulding County, GA.",
+   "categories": [
+    "barber shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petes-barber-shop-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petes-barber-shop-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.957379,
+    "lon": -84.7910386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13239223618",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "robbys-auto-repair-paulding-county",
+   "name": "Robby's Auto Repair",
+   "summary": "Robby's Auto Repair is an auto repair shop in Paulding County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/robbys-auto-repair-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/robbys-auto-repair-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9560185,
+    "lon": -84.791643
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/992836053",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rock-solid-self-storage-paulding-county",
+   "name": "Rock Solid Self Storage",
+   "summary": "Rock Solid Self Storage is a self-storage facility in Paulding County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rock-solid-self-storage-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rock-solid-self-storage-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0123525,
+    "lon": -84.755939
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/992861478",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-paulding-county",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Paulding County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8900933,
+    "lon": -84.7480818
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9366726718",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tan-paulding-county",
+   "name": "Tan",
+   "summary": "Tan is a tanning salon in Paulding County, GA.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tan-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tan-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0101665,
+    "lon": -84.7528375
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13246039641",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "zips-express-car-wash-paulding-county",
+   "name": "Zips Express Car Wash",
+   "summary": "Zips Express Car Wash is a car wash in Paulding County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/zips-express-car-wash-paulding-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/zips-express-car-wash-paulding-county.json",
+   "address": {
+    "addressLocality": "Paulding County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Paulding County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0119799,
+    "lon": -84.7546798
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1442406951",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

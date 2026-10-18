@@ -13,6 +13,7 @@ Edward Jones is a financial advisor in Edina, MN. Website: https://www.edwardjon
 - Website: https://www.edwardjones.com/us-en/financial-advisor/darin-mastroianni
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 40.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

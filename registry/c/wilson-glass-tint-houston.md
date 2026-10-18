@@ -13,6 +13,7 @@ Wilson Glass Tint is an auto repair shop in Houston, TX at 11436 South Post Oak 
 - Website: https://www.wilsonglasstint.com/
 - Email: wilson_glass_tint@yahoo.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

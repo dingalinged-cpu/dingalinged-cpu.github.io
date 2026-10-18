@@ -13,6 +13,7 @@ Curl Revolution Salon is a hair salon in Frisco, TX at 9200 Lebanon Road #40-241
 - Website: https://curlrevolution.com/
 - Email: valdeh@curlrevolution.com
 - Opening hours (OSM syntax): Mo-Sa 06:00-22:00
+- Registry Score: 67.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

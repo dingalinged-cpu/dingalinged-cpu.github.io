@@ -13,6 +13,7 @@ Eden Prairie Liquor is a liquor store in Eden Prairie, MN at 8018 Den Road, Eden
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09-00:22:00; Su 11:00-18:00
+- Registry Score: 57.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

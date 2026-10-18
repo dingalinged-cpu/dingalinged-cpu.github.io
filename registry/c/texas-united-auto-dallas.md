@@ -13,6 +13,7 @@ Texas United Auto is an used car dealer in Dallas, TX at 2413 Community Drive, D
 - Website: https://texasunitedauto.com/
 - Email: uawcba@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 11:00-17:00
+- Registry Score: 67.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

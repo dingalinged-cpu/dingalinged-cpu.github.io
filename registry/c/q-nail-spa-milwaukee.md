@@ -13,6 +13,7 @@ Q Nail-Spa is a nail salon in Milwaukee, WI at 1431 North Jefferson Street, Milw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:30-18:00; Su 11:00-16:00
+- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

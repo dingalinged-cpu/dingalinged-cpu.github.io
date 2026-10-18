@@ -13,6 +13,7 @@ cPanel is an IT support company in Houston, TX at 2550 North Loop West #4006, Ho
 - Website: https://cpanel.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

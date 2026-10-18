@@ -13,6 +13,7 @@ Queen Bee Early Childhood Center is a preschool in Glendale Heights, IL. Phone: 
 - Website: https://www.queenbee16.org/Queen%20Bee%20Early%20Childhood%20Center
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

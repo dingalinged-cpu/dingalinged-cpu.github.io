@@ -13,6 +13,7 @@ National Bakery & Deli is a bakery in Milwaukee, WI at 3200 South 16th Street, M
 - Website: https://www.nationalbakery.com/
 - Email: bakery@NationalBakery.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-15:00; Sa 06:30-14:00; Su off
+- Registry Score: 53.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Sivananda Yoga Vedanta Center is a yoga studio in Chicago, IL at 1246 West Bryn 
 - Website: https://sivanandachicago.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 06:00-21:30; We,Th 06:00-21:00; Fr 06:00-20:00; Sa 06:00-12:30; Su 14:00-20:30
+- Registry Score: 65.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

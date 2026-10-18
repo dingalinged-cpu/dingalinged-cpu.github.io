@@ -1,0 +1,24 @@
+Craig N. Fievet D.M.D. is a dentist in Lilburn, GA at 1003 Oak Road Southwest #Suite A, Lilburn, GA 30047.
+
+# Craig N. Fievet D.M.D.
+
+- Category: dentist
+- Services: dentist
+- Address: 1003 Oak Road Southwest #Suite A, Lilburn, GA 30047
+- City: Lilburn
+- State: GA
+- ZIP: 30047
+- Coordinates: 33.8846273, -84.0593476
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/craig-n-fievet-d-m-d-lilburn/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/craig-n-fievet-d-m-d-lilburn.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7570551995 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

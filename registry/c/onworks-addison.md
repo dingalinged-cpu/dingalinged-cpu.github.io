@@ -13,6 +13,7 @@ OnWorks is an architect in Addison, TX at 5048 Spectrum Drive, Addison, TX 75001
 - Website: https://www.onworks.design/
 - Email: Info@OnWorks.design
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

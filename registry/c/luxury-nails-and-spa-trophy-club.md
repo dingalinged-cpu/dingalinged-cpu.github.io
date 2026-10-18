@@ -13,6 +13,7 @@ Luxury Nails and Spa is a nail salon in Trophy Club, TX at 301 Trophy Lake Drive
 - Website: https://myluxurynails.com/about-us.html
 - Email: luxurynailstrophyclub@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 09:30-19:00; Su 11:00-18:00
+- Registry Score: 65.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

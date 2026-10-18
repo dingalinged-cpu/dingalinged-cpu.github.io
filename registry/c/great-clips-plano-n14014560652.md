@@ -13,6 +13,7 @@ Great Clips is a hair salon in Plano, TX at 9605 Coit Road #103, Plano, TX 75024
 - Website: https://salons.greatclips.com/us/tx/plano/9605-coit-rd
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

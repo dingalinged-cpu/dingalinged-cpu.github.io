@@ -1,0 +1,24 @@
+Orangetheory Fitness is a gym in Smyrna, GA at 4495 West Village Way Southeast, Smyrna, GA 30080. Phone: +16785399715.
+
+# Orangetheory Fitness
+
+- Category: gym
+- Services: gym
+- Address: 4495 West Village Way Southeast, Smyrna, GA 30080
+- City: Smyrna
+- State: GA
+- ZIP: 30080
+- Coordinates: 33.844538, -84.490451
+- Phone: +16785399715
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-smyrna/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-smyrna.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1022013957 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Kildeer, IL at 20505 North Rand Road, Kilde
 - Website: https://www.mattressfirm.com/en-us/stores/il/kildeer/119101/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

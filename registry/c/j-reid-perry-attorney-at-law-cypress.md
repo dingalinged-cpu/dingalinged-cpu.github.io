@@ -13,6 +13,7 @@ J. Reid Perry, Attorney at Law is a lawyer in Cypress, TX at 16206 Cooper Lake D
 - Website: https://www.familylawmaster.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

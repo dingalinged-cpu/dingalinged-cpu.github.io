@@ -13,6 +13,7 @@ Cafe of Life Chiropractic is a chiropractor in Dallas, TX at 5619 Alta Avenue, D
 - Website: https://www.cafeoflifedallas.com/
 - Email: cafeoflifedallas@yahoo.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

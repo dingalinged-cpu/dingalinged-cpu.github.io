@@ -13,6 +13,7 @@ Petco is a pet store in Coon Rapids, MN at 3380 124th Avenue Northwest, Coon Rap
 - Website: https://stores.petco.com/mn/coonrapids/pet-supplies-coonrapids-mn-884.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Registry Score: 50.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

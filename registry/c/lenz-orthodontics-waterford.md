@@ -13,6 +13,7 @@ Lenz Orthodontics is a dentist in Waterford, WI at 793 Cornerstone Crossing, Wat
 - Website: https://lenzorthodontics.com/contact
 - Email: n/a
 - Opening hours (OSM syntax): M-Th 07:45-17:00; Fr 07:45-16:00
+- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

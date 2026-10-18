@@ -13,6 +13,7 @@ Saxony Storage is a self-storage facility in Village of Germantown, WI at N115W1
 - Website: https://www.saxonystorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

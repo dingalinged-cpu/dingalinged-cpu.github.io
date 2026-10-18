@@ -13,6 +13,7 @@ Stormcloud Trading is a gift shop in Saint Paul, MN at 725 Snelling Avenue, Sain
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:45; Sa 10:00-16:45
+- Registry Score: 57.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

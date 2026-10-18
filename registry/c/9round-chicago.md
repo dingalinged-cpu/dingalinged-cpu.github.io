@@ -13,6 +13,7 @@
 - Website: https://www.9round.com/locations/il/chicago/lakeview
 - Email: n/a
 - Opening hours (OSM syntax): Mo 06:30-12:00,15:30-20:00; Tu 06:00-12:00,15:30-20:00; We 06:30-12:00,15:30-20:00; Th 06:00-12:00,15:30-20:00; Fr 06:30-12:00,15:30-19:00; Sa-Su 08:30-12:30; PH off
+- Registry Score: 52.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

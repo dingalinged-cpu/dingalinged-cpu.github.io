@@ -13,6 +13,7 @@ VDA Architecture is an architect in Bloomingdale, IL at 222 Clearbrook Lane, Blo
 - Website: https://vdaarch.com/
 - Email: info@vdaarch.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

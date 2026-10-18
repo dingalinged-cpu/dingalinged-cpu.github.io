@@ -13,6 +13,7 @@ You Pick It We Stick It is a tattoo shop in Houston, TX at 8235 Almeda-Genoa Roa
 - Website: https://youpickitwestickit.com/
 - Email: rocketmike@youpickitwestickit.com
 - Opening hours (OSM syntax): Su 15:00-20:30; Tu-Th 12:00-20:30; Fr 12:00-23:30; Sa 15:00-23:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

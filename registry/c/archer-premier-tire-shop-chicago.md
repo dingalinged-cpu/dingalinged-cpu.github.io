@@ -13,6 +13,7 @@ Archer Premier Tire Shop is a tire shop in Chicago, IL at 4825 South Archer Aven
 - Website: https://archerpremiertireshop.com/
 - Email: premiershop2@yahoo.com
 - Opening hours (OSM syntax): Su 09:00-16:00, Mo-Fr 08:00-19:00, Sa 08:00-18:00
+- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

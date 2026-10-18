@@ -1,0 +1,24 @@
+Diny's Jewelers is a jewelry store in Middleton, WI at 1903 Cayuga Street #105, Middleton, WI 53562. Phone: +16088313469. Website: https://www.dinys.com/.
+
+# Diny's Jewelers
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 1903 Cayuga Street #105, Middleton, WI 53562
+- City: Middleton
+- State: WI
+- ZIP: 53562
+- Coordinates: 43.0966035, -89.5136597
+- Phone: +16088313469
+- Website: https://www.dinys.com/
+- Email: n/a
+- Opening hours (OSM syntax): Tu, We, Fr 10:00-17:00; Th 10:00-18:00; Sa 10:00-15:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dinys-jewelers-middleton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dinys-jewelers-middleton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4200734704 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

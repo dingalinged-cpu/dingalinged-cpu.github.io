@@ -13,6 +13,7 @@ Sonnets Academy is a daycare in Chicago, IL at 229 South Peoria Street, Chicago,
 - Website: https://www.sonnetsacademy.com/westloop
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00
+- Registry Score: 66.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

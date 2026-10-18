@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Shenandoah, TX at 100 Vision Park Drive, Sh
 - Website: https://www.mattressfirm.com/en-us/stores/tx/shenandoah/001056/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

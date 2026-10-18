@@ -13,6 +13,7 @@ $5 Tan is a tanning salon in Shakopee, MN at 1102 Vierling Drive East, Shakopee,
 - Website: https://5dollartan.com/l
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 8:00-20:00; Sa-Su 8:00-20:00
+- Registry Score: 53.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

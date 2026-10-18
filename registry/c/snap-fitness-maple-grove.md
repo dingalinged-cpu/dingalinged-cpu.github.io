@@ -13,6 +13,7 @@ Snap Fitness is a gym in Maple Grove, MN at 13408 Bass Lake Road, Maple Grove, M
 - Website: https://www.snapfitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

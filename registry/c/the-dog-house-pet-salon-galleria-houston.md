@@ -13,6 +13,7 @@ The Dog House Pet Salon - Galleria is a dog groomer in Houston, TX at 5917 Richm
 - Website: https://www.thedoghouseps.com/locations/galleria-pet-salon/
 - Email: galleria@thedoghouseps.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-09:00, 16:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

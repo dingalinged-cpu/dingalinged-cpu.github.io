@@ -13,6 +13,7 @@ Now Dental is a dentist in Webster, TX at 251 West Medical Center Boulevard #220
 - Website: https://now-dental.com/
 - Email: nowdental123@yahoo.com
 - Opening hours (OSM syntax): Mo-Th 09:00-16:00; Fr 09:00-15:00; Sa 09:00-13:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ H & P Contractor, Inc. is a general contractor in Chicago, IL at 2921 West Diver
 - Website: https://www.hp-contractor.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

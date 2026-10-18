@@ -13,6 +13,7 @@ Take 5 Oil Change is an auto repair shop in Sugar Land, TX at 3651 State Highway
 - Website: https://www.take5.com/locations/oil-change/texas/sugarland/30434/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

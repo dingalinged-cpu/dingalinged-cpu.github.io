@@ -13,6 +13,7 @@ Sloan Creek Dental is a dentist in Fairview, TX at 115 Whistlestop Way, Fairview
 - Website: https://sloancreekdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 08:00-17:00; We 09:00-18:00; Sa,Su off
+- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

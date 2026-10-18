@@ -13,6 +13,7 @@ The UPS Store is a printing service in Palos Heights, IL at 7156 West 127th Stre
 - Website: https://locations.theupsstore.com/il/palos-heights/7156-w-127th-st
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

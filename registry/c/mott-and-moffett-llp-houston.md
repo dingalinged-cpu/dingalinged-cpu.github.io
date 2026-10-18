@@ -13,6 +13,7 @@ Mott & Moffett LLP is a lawyer in Houston, TX at 4301 Yoakum Boulevard #200, Hou
 - Website: https://www.injurylawtx.com/
 - Email: info@injurylawtx.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

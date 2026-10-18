@@ -13,6 +13,7 @@ Southlake Jewelers is a jewelry store in Southlake, TX at 2140 East Southlake Bo
 - Website: https://www.southlakejewelers.org/
 - Email: southlakejewelers@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:30-16:00
+- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+Advanced Aesthetics is a plastic surgeon in Fayetteville, GA at 874 West Lanier Avenue #Suite 100, Fayetteville, GA 30214. Phone: +17704614000. Website: https://www.plasticsurgerycorner.com/.
+
+# Advanced Aesthetics
+
+- Category: plastic surgeon
+- Services: plastic surgeon
+- Address: 874 West Lanier Avenue #Suite 100, Fayetteville, GA 30214
+- City: Fayetteville
+- State: GA
+- ZIP: 30214
+- Coordinates: 33.4468509, -84.4770991
+- Phone: +17704614000
+- Website: https://www.plasticsurgerycorner.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/advanced-aesthetics-fayetteville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/advanced-aesthetics-fayetteville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/1935379082 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,6 +13,7 @@ Wright Group Real Estate is a real estate agency in North Richland Hills, TX at 
 - Website: https://buywright.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
+- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

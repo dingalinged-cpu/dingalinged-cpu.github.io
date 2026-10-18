@@ -13,6 +13,7 @@ Anytime Fitness is a gym in Mount Prospect, IL at 1317 North Wolf Road, Mount Pr
 - Website: https://www.anytimefitness.com/gyms/3334/mt-prospect-il-60056/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

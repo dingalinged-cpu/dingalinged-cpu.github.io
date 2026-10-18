@@ -13,6 +13,7 @@ CareNow is an urgent care clinic in Dallas, TX at 39769 I-20, Dallas, TX 75237. 
 - Website: https://www.carenow.com/locations/dallas-fort-worth/i-20-and-wheatland/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 44.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Petco is a pet store in Chicago, IL at 440 North Orleans Street, Chicago, IL 606
 - Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1965.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Registry Score: 49.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

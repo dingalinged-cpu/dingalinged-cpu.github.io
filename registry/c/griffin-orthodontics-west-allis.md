@@ -13,6 +13,7 @@ Griffin Orthodontics is a dentist in West Allis, WI at 11327 West Lincoln Avenue
 - Website: https://griffinortho.com/office-location/west-allis/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

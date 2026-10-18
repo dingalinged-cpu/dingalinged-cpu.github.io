@@ -13,6 +13,7 @@ Broadway Bikes is a bike shop in Chicago, IL at 4653 North Broadway, Chicago, IL
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th,F,Sa 11AM-6PM; M,W,Su Closed
+- Registry Score: 57.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

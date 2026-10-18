@@ -1,0 +1,2028 @@
+{
+ "place": "Waunakee, WI",
+ "slug": "waunakee-wi",
+ "count": 67,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-waunakee-wi.json"
+  },
+  {
+   "keyword": "attorney waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-waunakee-wi.json"
+  },
+  {
+   "keyword": "auto repair waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-waunakee-wi.json"
+  },
+  {
+   "keyword": "bike shop waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bike-shop-waunakee-wi.json"
+  },
+  {
+   "keyword": "car wash waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-waunakee-wi.json"
+  },
+  {
+   "keyword": "chiropractor waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-waunakee-wi.json"
+  },
+  {
+   "keyword": "dance studio waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-waunakee-wi.json"
+  },
+  {
+   "keyword": "daycare waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-waunakee-wi.json"
+  },
+  {
+   "keyword": "dentist waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-waunakee-wi.json"
+  },
+  {
+   "keyword": "dog groomer waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-waunakee-wi.json"
+  },
+  {
+   "keyword": "event venues waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-waunakee-wi.json"
+  },
+  {
+   "keyword": "eye doctor waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-waunakee-wi.json"
+  },
+  {
+   "keyword": "financial advisor waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-waunakee-wi.json"
+  },
+  {
+   "keyword": "florist waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-waunakee-wi.json"
+  },
+  {
+   "keyword": "furniture store waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-waunakee-wi.json"
+  },
+  {
+   "keyword": "gym waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-waunakee-wi.json"
+  },
+  {
+   "keyword": "hair salon waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-waunakee-wi.json"
+  },
+  {
+   "keyword": "haircut waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-waunakee-wi.json"
+  },
+  {
+   "keyword": "heating and air waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-waunakee-wi.json"
+  },
+  {
+   "keyword": "hvac repair waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-waunakee-wi.json"
+  },
+  {
+   "keyword": "insurance agency waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-waunakee-wi.json"
+  },
+  {
+   "keyword": "insurance agent waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-waunakee-wi.json"
+  },
+  {
+   "keyword": "insurance agents waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-waunakee-wi.json"
+  },
+  {
+   "keyword": "jewelry store waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-waunakee-wi.json"
+  },
+  {
+   "keyword": "lawyer waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-waunakee-wi.json"
+  },
+  {
+   "keyword": "liquor store waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-waunakee-wi.json"
+  },
+  {
+   "keyword": "martial arts waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-waunakee-wi.json"
+  },
+  {
+   "keyword": "mechanic waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-waunakee-wi.json"
+  },
+  {
+   "keyword": "nail salon waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-waunakee-wi.json"
+  },
+  {
+   "keyword": "painters waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/painters-waunakee-wi.json"
+  },
+  {
+   "keyword": "pet store waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-waunakee-wi.json"
+  },
+  {
+   "keyword": "preschool waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-waunakee-wi.json"
+  },
+  {
+   "keyword": "printing services waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-waunakee-wi.json"
+  },
+  {
+   "keyword": "real estate agent waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-waunakee-wi.json"
+  },
+  {
+   "keyword": "realtor waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-waunakee-wi.json"
+  },
+  {
+   "keyword": "storage units waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-waunakee-wi.json"
+  },
+  {
+   "keyword": "tax preparation waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-waunakee-wi.json"
+  },
+  {
+   "keyword": "tax preparer waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-waunakee-wi.json"
+  },
+  {
+   "keyword": "thrift store waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-waunakee-wi.json"
+  },
+  {
+   "keyword": "vet waunakee wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-waunakee-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "anytime-fitness-waunakee",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Waunakee, WI at 604 East Main Street, Waunakee, WI 53597. Phone: +16088498998. Website: https://www.anytimefitness.com/gyms/691/waunakee-wi-53597/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-waunakee.json",
+   "address": {
+    "streetAddress": "604 East Main Street",
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "postalCode": "53597",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "zip": "53597",
+   "geo": {
+    "lat": 43.191436,
+    "lon": -89.446199
+   },
+   "phone": "+16088498998",
+   "website": "https://www.anytimefitness.com/gyms/691/waunakee-wi-53597/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6859208446",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dental-care-at-woodland-crest-waunakee",
+   "name": "Dental Care at Woodland Crest",
+   "summary": "Dental Care at Woodland Crest is a dentist in Waunakee, WI at 1180 South Century Avenue #C, Waunakee, WI 53597. Phone: +16089974002. Website: https://dentalcareatwoodlandcrest.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-care-at-woodland-crest-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-care-at-woodland-crest-waunakee.json",
+   "address": {
+    "streetAddress": "1180 South Century Avenue #C",
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "postalCode": "53597",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "zip": "53597",
+   "geo": {
+    "lat": 43.1740416,
+    "lon": -89.4612393
+   },
+   "phone": "+16089974002",
+   "website": "https://dentalcareatwoodlandcrest.com/",
+   "opening_hours": "Mo-Th 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12802797092",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "duren-law-offices-llc-waunakee",
+   "name": "Duren Law Offices, LLC",
+   "summary": "Duren Law Offices, LLC is a lawyer in Waunakee, WI at 101 East Main Street #4, Waunakee, WI 53597. Phone: +16088491921. Website: https://durenlawoffice.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/duren-law-offices-llc-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/duren-law-offices-llc-waunakee.json",
+   "address": {
+    "streetAddress": "101 East Main Street #4",
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "postalCode": "53597",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "zip": "53597",
+   "geo": {
+    "lat": 43.1921568,
+    "lon": -89.4543495
+   },
+   "phone": "+16088491921",
+   "website": "https://durenlawoffice.com/",
+   "opening_hours": "Su, Su off; Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3952986948",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "christian-brothers-automotive-waunakee",
+   "name": "Christian Brothers Automotive",
+   "summary": "Christian Brothers Automotive is an auto repair shop in Waunakee, WI at 2820 Sarah Lane, Waunakee, WI 53597. Phone: +16089123848. Website: https://www.cbac.com/waunakee.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christian-brothers-automotive-waunakee.json",
+   "address": {
+    "streetAddress": "2820 Sarah Lane",
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "postalCode": "53597",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "zip": "53597",
+   "geo": {
+    "lat": 43.1750812,
+    "lon": -89.4596638
+   },
+   "phone": "+16089123848",
+   "website": "https://www.cbac.com/waunakee",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1382826561",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "home-again-living-assisted-waunakee",
+   "name": "Home Again Living. Assisted.",
+   "summary": "Home Again Living. Assisted. is an assisted living facility in Waunakee, WI at 1120 Connery Cove, Waunakee, WI 53597. Phone: +16088509684. Website: https://homeagainliving.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/home-again-living-assisted-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/home-again-living-assisted-waunakee.json",
+   "address": {
+    "streetAddress": "1120 Connery Cove",
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "postalCode": "53597",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "zip": "53597",
+   "geo": {
+    "lat": 43.1723097,
+    "lon": -89.4580984
+   },
+   "phone": "+16088509684",
+   "website": "https://homeagainliving.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1138530849",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kindercare-waunakee",
+   "name": "KinderCare",
+   "summary": "KinderCare is a preschool in Waunakee, WI at 1100 Connery Cove, Waunakee, WI 53597. Phone: +16088507298. Website: https://www.kindercare.com/our-centers/waunakee/wi/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kindercare-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kindercare-waunakee.json",
+   "address": {
+    "streetAddress": "1100 Connery Cove",
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "postalCode": "53597",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "zip": "53597",
+   "geo": {
+    "lat": 43.1732718,
+    "lon": -89.4581765
+   },
+   "phone": "+16088507298",
+   "website": "https://www.kindercare.com/our-centers/waunakee/wi/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1138530853",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "canine-corner-waunakee",
+   "name": "Canine Corner",
+   "summary": "Canine Corner is a dog groomer in Waunakee, WI. Phone: +16088372626. Website: https://www.caninecornerwi.com/.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/canine-corner-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/canine-corner-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1698764,
+    "lon": -89.4610746
+   },
+   "phone": "+16088372626",
+   "website": "https://www.caninecornerwi.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9414181406",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "first-choice-dental-waunakee",
+   "name": "First Choice Dental",
+   "summary": "First Choice Dental is a dentist in Waunakee, WI. Website: https://www.firstchoicedental.com/locations/waunakee/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-choice-dental-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-choice-dental-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1710394,
+    "lon": -89.4612683
+   },
+   "website": "https://www.firstchoicedental.com/locations/waunakee/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3925655657",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-legion-post-360-waunakee",
+   "name": "American Legion Post 360",
+   "summary": "American Legion Post 360 is an event venue in Waunakee, WI at 417 East Main Street, Waunakee, WI 53597.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-legion-post-360-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-legion-post-360-waunakee.json",
+   "address": {
+    "streetAddress": "417 East Main Street",
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "postalCode": "53597",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "zip": "53597",
+   "geo": {
+    "lat": 43.1926962,
+    "lon": -89.4491421
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/238980467",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "davis-duehr-dean-waunakee-waunakee",
+   "name": "Davis Duehr Dean Waunakee",
+   "summary": "Davis Duehr Dean Waunakee is an eye care practice in Waunakee, WI at 1300 South Century Avenue, Waunakee, WI 53597.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/davis-duehr-dean-waunakee-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/davis-duehr-dean-waunakee-waunakee.json",
+   "address": {
+    "streetAddress": "1300 South Century Avenue",
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "postalCode": "53597",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "zip": "53597",
+   "geo": {
+    "lat": 43.1733477,
+    "lon": -89.4612266
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3351013799",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "skalitzky-jewelers-inc-waunakee",
+   "name": "Skalitzky Jewelers Inc.",
+   "summary": "Skalitzky Jewelers Inc. is a jewelry store in Waunakee, WI at 118 West Main Street, Waunakee, WI 53597.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/skalitzky-jewelers-inc-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/skalitzky-jewelers-inc-waunakee.json",
+   "address": {
+    "streetAddress": "118 West Main Street",
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "postalCode": "53597",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "zip": "53597",
+   "geo": {
+    "lat": 43.1917948,
+    "lon": -89.455905
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241875388",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1-nails-and-spa-waunakee",
+   "name": "1 Nails and Spa",
+   "summary": "1 Nails and Spa is a nail salon in Waunakee, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1-nails-and-spa-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1-nails-and-spa-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1937142,
+    "lon": -89.461129
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835970661",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-family-insurance-katy-lea-waunakee",
+   "name": "American Family Insurance - Katy Lea",
+   "summary": "American Family Insurance - Katy Lea is an insurance agent in Waunakee, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-family-insurance-katy-lea-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-katy-lea-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1920833,
+    "lon": -89.4471244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6859208448",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "animart-waunakee",
+   "name": "Animart",
+   "summary": "Animart is a pet store in Waunakee, WI.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animart-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animart-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1698914,
+    "lon": -89.4612935
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5305008183",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "back-in-action-chiropractic-waunakee",
+   "name": "Back in Action Chiropractic",
+   "summary": "Back in Action Chiropractic is a chiropractor in Waunakee, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/back-in-action-chiropractic-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/back-in-action-chiropractic-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1922495,
+    "lon": -89.4546239
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6903741361",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bakke-chiropractic-waunakee",
+   "name": "Bakke Chiropractic",
+   "summary": "Bakke Chiropractic is a chiropractor in Waunakee, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bakke-chiropractic-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bakke-chiropractic-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1913871,
+    "lon": -89.4448645
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/681036660",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brown-automotive-waunakee",
+   "name": "Brown Automotive",
+   "summary": "Brown Automotive is an auto repair shop in Waunakee, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brown-automotive-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brown-automotive-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.192142,
+    "lon": -89.4535025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239813247",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "d-and-s-dental-lab-waunakee",
+   "name": "D&S Dental Lab",
+   "summary": "D&S Dental Lab is a dentist in Waunakee, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/d-and-s-dental-lab-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/d-and-s-dental-lab-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1815412,
+    "lon": -89.4305346
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/243106411",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dannys-painting-service-waunakee",
+   "name": "Danny's Painting Service",
+   "summary": "Danny's Painting Service is a painting contractor in Waunakee, WI.",
+   "categories": [
+    "painters"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dannys-painting-service-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dannys-painting-service-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1917574,
+    "lon": -89.4557596
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241875386",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dcar-waunakee",
+   "name": "DCAR",
+   "summary": "DCAR is an auto repair shop in Waunakee, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dcar-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dcar-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1862979,
+    "lon": -89.4225638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1161198749",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dynamic-dance-company-waunakee",
+   "name": "Dynamic Dance Company",
+   "summary": "Dynamic Dance Company is a dance studio in Waunakee, WI.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dynamic-dance-company-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dynamic-dance-company-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1916374,
+    "lon": -89.4560892
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835970667",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-waunakee",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Waunakee, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.19098,
+    "lon": -89.4628587
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3254714974",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-waunakee-n9414181395",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Waunakee, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-waunakee-n9414181395/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-waunakee-n9414181395.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1920612,
+    "lon": -89.4523787
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9414181395",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "erie-insurance-waunakee",
+   "name": "Erie Insurance",
+   "summary": "Erie Insurance is an insurance agent in Waunakee, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/erie-insurance-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/erie-insurance-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1927319,
+    "lon": -89.4550506
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835970673",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ferraro-waunakee",
+   "name": "Ferraro",
+   "summary": "Ferraro is a real estate agency in Waunakee, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ferraro-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ferraro-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1921776,
+    "lon": -89.4545704
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239813253",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "first-weber-waunakee",
+   "name": "First Weber",
+   "summary": "First Weber is a real estate agency in Waunakee, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/first-weber-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/first-weber-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1924237,
+    "lon": -89.4628102
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835858417",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "go-ninja-waunakee",
+   "name": "GO NINJA",
+   "summary": "GO NINJA is a gym in Waunakee, WI.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/go-ninja-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/go-ninja-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1894567,
+    "lon": -89.4308438
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835986451",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-waunakee",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Waunakee, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1905525,
+    "lon": -89.4629926
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835970665",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "greiber-heating-and-sheet-metal-waunakee",
+   "name": "Greiber Heating and Sheet Metal",
+   "summary": "Greiber Heating and Sheet Metal is a HVAC contractor in Waunakee, WI.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/greiber-heating-and-sheet-metal-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/greiber-heating-and-sheet-metal-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1916695,
+    "lon": -89.4607976
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241952302",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-waunakee",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Waunakee, WI.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1918103,
+    "lon": -89.4571409
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3254724400",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hr-chiropractic-waunakee",
+   "name": "HR Chiropractic",
+   "summary": "HR Chiropractic is a chiropractor in Waunakee, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hr-chiropractic-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hr-chiropractic-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1923768,
+    "lon": -89.4629255
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835858416",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hub-insurance-waunakee",
+   "name": "Hub Insurance",
+   "summary": "Hub Insurance is an insurance agent in Waunakee, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hub-insurance-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hub-insurance-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1910714,
+    "lon": -89.4331121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/681036634",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jennifer-hamilton-dds-waunakee",
+   "name": "Jennifer Hamilton DDS",
+   "summary": "Jennifer Hamilton DDS is a dentist in Waunakee, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jennifer-hamilton-dds-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jennifer-hamilton-dds-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1789029,
+    "lon": -89.4312603
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/243105720",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "karate-america-waunakee",
+   "name": "Karate America",
+   "summary": "Karate America is a martial arts school in Waunakee, WI.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/karate-america-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/karate-america-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1923396,
+    "lon": -89.4627887
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835858418",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "karls-family-dentistry-waunakee",
+   "name": "Karls Family Dentistry",
+   "summary": "Karls Family Dentistry is a dentist in Waunakee, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/karls-family-dentistry-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/karls-family-dentistry-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1906551,
+    "lon": -89.4607221
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/678799661",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kearney-tax-waunakee",
+   "name": "Kearney Tax",
+   "summary": "Kearney Tax is a tax preparation service in Waunakee, WI.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kearney-tax-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kearney-tax-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1917229,
+    "lon": -89.457584
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/678799512",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kurt-fauerbach-insurance-waunakee",
+   "name": "Kurt Fauerbach Insurance",
+   "summary": "Kurt Fauerbach Insurance is an insurance agent in Waunakee, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kurt-fauerbach-insurance-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kurt-fauerbach-insurance-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1916818,
+    "lon": -89.4561429
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3254724416",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kwik-trip-waunakee",
+   "name": "Kwik Trip",
+   "summary": "Kwik Trip is a car wash in Waunakee, WI.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kwik-trip-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kwik-trip-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1682716,
+    "lon": -89.460448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1382836525",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-petite-academy-waunakee",
+   "name": "La Petite Academy",
+   "summary": "La Petite Academy is a preschool in Waunakee, WI.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-petite-academy-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-petite-academy-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1777355,
+    "lon": -89.4457402
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/242902725",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lsm-chiropractic-waunakee",
+   "name": "LSM Chiropractic",
+   "summary": "LSM Chiropractic is a chiropractor in Waunakee, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lsm-chiropractic-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1903184,
+    "lon": -89.4629968
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835858410",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "luna-pet-resort-waunakee",
+   "name": "Luna Pet Resort",
+   "summary": "Luna Pet Resort is a veterinarian in Waunakee, WI.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luna-pet-resort-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luna-pet-resort-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1862703,
+    "lon": -89.4288385
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9414181397",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "madison-partners-waunakee",
+   "name": "Madison Partners",
+   "summary": "Madison Partners is a financial advisor in Waunakee, WI.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/madison-partners-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/madison-partners-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.191355,
+    "lon": -89.4548153
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239810414",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "main-street-chiropractic-waunakee",
+   "name": "Main Street Chiropractic",
+   "summary": "Main Street Chiropractic is a chiropractor in Waunakee, WI.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/main-street-chiropractic-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/main-street-chiropractic-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1911935,
+    "lon": -89.4521819
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239813243",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midwest-dental-waunakee",
+   "name": "Midwest Dental",
+   "summary": "Midwest Dental is a dentist in Waunakee, WI.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-dental-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-dental-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1776515,
+    "lon": -89.4464743
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/242902722",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midwest-performing-arts-waunakee",
+   "name": "Midwest Performing Arts",
+   "summary": "Midwest Performing Arts is a dance studio in Waunakee, WI.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midwest-performing-arts-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midwest-performing-arts-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1914673,
+    "lon": -89.4459308
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6859208447",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "minuteman-press-waunakee",
+   "name": "Minuteman Press",
+   "summary": "Minuteman Press is a printing service in Waunakee, WI.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/minuteman-press-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/minuteman-press-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.191156,
+    "lon": -89.4548616
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/239810415",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "moppet-play-house-waunakee",
+   "name": "Moppet Play House",
+   "summary": "Moppet Play House is a daycare in Waunakee, WI.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/moppet-play-house-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/moppet-play-house-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1921793,
+    "lon": -89.4569569
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241875114",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nails-by-marlo-waunakee",
+   "name": "Nails by Marlo",
+   "summary": "Nails by Marlo is a nail salon in Waunakee, WI.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nails-by-marlo-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nails-by-marlo-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1923111,
+    "lon": -89.4545863
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6903741362",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "neils-liquor-waunakee",
+   "name": "Neil's Liquor",
+   "summary": "Neil's Liquor is a liquor store in Waunakee, WI.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/neils-liquor-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/neils-liquor-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.189401,
+    "lon": -89.4612108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2495220648",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "re-max-waunakee",
+   "name": "RE/MAX",
+   "summary": "RE/MAX is a real estate agency in Waunakee, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/re-max-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/re-max-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1924135,
+    "lon": -89.4652283
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/242305196",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rg-heating-and-air-conditioning-waunakee",
+   "name": "RG Heating and Air Conditioning",
+   "summary": "RG Heating and Air Conditioning is a HVAC contractor in Waunakee, WI.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rg-heating-and-air-conditioning-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rg-heating-and-air-conditioning-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.184205,
+    "lon": -89.4269655
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9414181399",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "safeco-waunakee",
+   "name": "Safeco",
+   "summary": "Safeco is an insurance agent in Waunakee, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/safeco-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/safeco-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1921111,
+    "lon": -89.4504801
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835970675",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "secure-storage-waunakee",
+   "name": "Secure Storage",
+   "summary": "Secure Storage is a self-storage facility in Waunakee, WI.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/secure-storage-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/secure-storage-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1872468,
+    "lon": -89.4303718
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835986450",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sil-maly-realty-waunakee",
+   "name": "Sil Maly Realty",
+   "summary": "Sil Maly Realty is a real estate agency in Waunakee, WI.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sil-maly-realty-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sil-maly-realty-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1921683,
+    "lon": -89.4538749
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/243358233",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-waunakee",
+   "name": "Sport Clips",
+   "summary": "Sport Clips is a hair salon in Waunakee, WI.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1752917,
+    "lon": -89.4612415
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9414181404",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "st-vinnys-waunakee",
+   "name": "St. Vinny's",
+   "summary": "St. Vinny's is a thrift store in Waunakee, WI.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/st-vinnys-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/st-vinnys-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1902137,
+    "lon": -89.4639315
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/404166785",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-troy-salisbury-waunakee",
+   "name": "State Farm - Troy Salisbury",
+   "summary": "State Farm - Troy Salisbury is an insurance agent in Waunakee, WI.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-troy-salisbury-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-troy-salisbury-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1921306,
+    "lon": -89.4501354
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835970671",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "super-lube-waunakee",
+   "name": "Super Lube",
+   "summary": "Super Lube is an auto repair shop in Waunakee, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/super-lube-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/super-lube-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1923726,
+    "lon": -89.46499
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/242305197",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sweet-pea-floral-waunakee",
+   "name": "Sweet Pea Floral",
+   "summary": "Sweet Pea Floral is a florist in Waunakee, WI.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sweet-pea-floral-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sweet-pea-floral-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1917608,
+    "lon": -89.4578206
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9414181385",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-seventeenth-radish-waunakee",
+   "name": "The Seventeenth Radish",
+   "summary": "The Seventeenth Radish is a daycare in Waunakee, WI.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-seventeenth-radish-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-seventeenth-radish-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1764527,
+    "lon": -89.4134052
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5644343594",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-waunakee",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Waunakee, WI.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1911555,
+    "lon": -89.4628476
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3254714972",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "village-mobil-waunakee",
+   "name": "Village Mobil",
+   "summary": "Village Mobil is an auto repair shop in Waunakee, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/village-mobil-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/village-mobil-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1924687,
+    "lon": -89.4622112
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241952309",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wanabike-waunakee",
+   "name": "WanaBike",
+   "summary": "WanaBike is a bike shop in Waunakee, WI.",
+   "categories": [
+    "bike shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wanabike-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wanabike-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1917479,
+    "lon": -89.4570814
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241876236",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waunakee-furniture-etc-waunakee",
+   "name": "Waunakee Furniture ETC",
+   "summary": "Waunakee Furniture ETC is a furniture store in Waunakee, WI.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waunakee-furniture-etc-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waunakee-furniture-etc-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1923075,
+    "lon": -89.4561075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/241875260",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waunakee-neighborhood-connection-waunakee",
+   "name": "Waunakee Neighborhood Connection",
+   "summary": "Waunakee Neighborhood Connection is a thrift store in Waunakee, WI.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waunakee-neighborhood-connection-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waunakee-neighborhood-connection-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.188398,
+    "lon": -89.4611756
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835858412",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "waunakee-veterinary-clinic-waunakee",
+   "name": "Waunakee Veterinary Clinic",
+   "summary": "Waunakee Veterinary Clinic is a veterinarian in Waunakee, WI.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/waunakee-veterinary-clinic-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/waunakee-veterinary-clinic-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1800592,
+    "lon": -89.4303611
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/243104587",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "west-and-dunn-waunakee",
+   "name": "West & Dunn",
+   "summary": "West & Dunn is a lawyer in Waunakee, WI.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-and-dunn-waunakee/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-and-dunn-waunakee.json",
+   "address": {
+    "addressLocality": "Waunakee",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "Waunakee",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1916183,
+    "lon": -89.453519
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6835970676",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

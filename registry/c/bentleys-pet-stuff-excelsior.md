@@ -13,6 +13,7 @@ Bentley's Pet Stuff is a pet store in Excelsior, MN at 400 Water Street, Excelsi
 - Website: https://petstuff.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00, Sa 10:00-18:00, Su 10:00-17:00
+- Registry Score: 50/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

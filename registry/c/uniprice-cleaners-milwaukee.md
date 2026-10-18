@@ -13,6 +13,7 @@ UniPrice Cleaners is a dry cleaner in Milwaukee, WI at 1229 East Brady Street, M
 - Website: https://uniprice-cleaners.com/brady.htm
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00
+- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Pearl Acupuncture is an acupuncture clinic in Rockwall, TX at 2504 Ridge Road #1
 - Website: https://pearlacu.com/
 - Email: info@pearlacu.com
 - Opening hours (OSM syntax): Mo-Sa "by appointment"
+- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

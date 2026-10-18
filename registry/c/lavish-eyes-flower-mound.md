@@ -13,6 +13,7 @@ Lavish Eyes is a waxing salon in Flower Mound, TX at 3357 Long Prairie Road, Flo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Sa 10:00-19:00
+- Registry Score: 62/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

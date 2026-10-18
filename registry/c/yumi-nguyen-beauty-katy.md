@@ -13,6 +13,7 @@ Yumi Nguyen Beauty is a hair salon in Katy, TX at 1227 Grand Boulevard West #B20
 - Website: https://yumi-hair.square.site/
 - Email: yumihairandbeauty@gmail.com
 - Opening hours (OSM syntax): Tu 10:30-15:00; We 10:00-17:00; Th-Fr 09:00-16:00; Sa 10:00-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ National Tire and Battery is an auto repair shop in Houston, TX at 7474 South Sa
 - Website: https://www.ntb.com/store/tx/houston/7474-s-sam-houston-pkwy-w-77085/4478
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

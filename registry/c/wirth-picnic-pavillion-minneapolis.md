@@ -13,6 +13,7 @@ Wirth Picnic Pavillion is an event venue in Minneapolis, MN at 3275 Glenwood Ave
 - Website: https://www.minneapolisparks.org/rentals-permits/reception__event_sites/events_at_wirth_pavilion/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

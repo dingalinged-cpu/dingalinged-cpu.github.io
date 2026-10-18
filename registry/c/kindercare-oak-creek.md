@@ -13,6 +13,7 @@ KinderCare is a preschool in Oak Creek, WI at 7677 South Howell Avenue, Oak Cree
 - Website: https://www.kindercare.com/our-centers/oak-creek/wi/000579
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
+- Registry Score: 50.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

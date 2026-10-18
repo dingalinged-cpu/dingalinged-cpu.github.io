@@ -13,6 +13,7 @@ Edward Jones is a financial advisor in Dallas, TX at 6333 East Mockingbird Lane 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/mark-hawk
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:30
+- Registry Score: 50.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

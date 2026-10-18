@@ -13,6 +13,7 @@ Cycle Gear is a motorcycle repair shop in Houston, TX at 7204 Southwest Freeway,
 - Website: https://cyclegear.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

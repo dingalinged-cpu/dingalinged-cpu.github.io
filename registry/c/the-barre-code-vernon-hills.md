@@ -13,6 +13,7 @@ The Barre Code is a gym in Vernon Hills, IL at 850 North Milwaukee Avenue #200, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 41.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Bikefix is a bike shop in Oak Park, IL at 310 Lake Street #A, Oak Park, IL 60302
 - Website: https://bikefixinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

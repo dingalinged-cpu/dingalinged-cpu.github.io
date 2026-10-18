@@ -13,6 +13,7 @@ La Boulangerie is a bakery in Chicago, IL at 915 West Belmont Avenue, Chicago, I
 - Website: https://www.laboulangeriechicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 07:00-17:00
+- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

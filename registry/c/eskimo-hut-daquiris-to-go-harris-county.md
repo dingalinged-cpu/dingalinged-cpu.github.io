@@ -13,6 +13,7 @@ Eskimo Hut Daquiris To Go is a liquor store in Harris County, TX at 10701c North
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 11:00-23:00; Th-Sa 11:00-24:00; Su 12:00-24:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

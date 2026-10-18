@@ -13,6 +13,7 @@ Park Dental Grand is a dentist in Saint Paul, MN at 917 Grand Avenue #Ste 5, Sai
 - Website: https://www.parkdental.com/location/park-dental-grand-avenue/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

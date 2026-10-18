@@ -13,6 +13,7 @@ Shiatsu Renu is a massage studio in Bloomington, MN at 390 West Market, Blooming
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00
+- Registry Score: 55.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

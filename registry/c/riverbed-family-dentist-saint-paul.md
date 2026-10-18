@@ -13,6 +13,7 @@ Riverbed Family Dentist is a dentist in Saint Paul, MN. Phone: +16516993212. Web
 - Website: https://riverbenddentalmn.com/wordpress/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-17:00; Th 08:00-13:00
+- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

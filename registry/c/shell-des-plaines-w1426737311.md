@@ -13,6 +13,7 @@ Shell is a car wash in Des Plaines, IL at 680 North Wolf Road, Des Plaines, IL 6
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 46.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

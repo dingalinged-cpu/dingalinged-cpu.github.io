@@ -13,6 +13,7 @@ Food Building is an event venue in Minneapolis, MN at 1401 Northeast Marshall St
 - Website: https://www.foodbuilding.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

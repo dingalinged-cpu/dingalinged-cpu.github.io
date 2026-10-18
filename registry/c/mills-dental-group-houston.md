@@ -13,6 +13,7 @@ Mills Dental Group is a dentist in Houston, TX at 1011 S Texas 6 #Suite 300, Hou
 - Website: https://www.sedationdentistryhouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:00-19:00, Tu-Th 07:00-15:30, Sa 08:00-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

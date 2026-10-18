@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Berwyn, IL at 7112 West Cermak Road, Berwyn
 - Website: https://www.mattressfirm.com/en-us/stores/il/berwyn/119154/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

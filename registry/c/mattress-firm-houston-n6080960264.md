@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Houston, TX at 5885 San Felipe Street #600,
 - Website: https://www.mattressfirm.com/en-us/stores/tx/houston/001150/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

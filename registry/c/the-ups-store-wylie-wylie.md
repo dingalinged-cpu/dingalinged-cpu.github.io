@@ -13,6 +13,7 @@ The UPS Store Wylie is a printing service in Wylie, TX at 809 Woodbridge Parkway
 - Website: https://locations.theupsstore.com/tx/wylie/809-woodbridge-pkwy
 - Email: store7363@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 10:00-17:00; Su 11:00-16:00
+- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

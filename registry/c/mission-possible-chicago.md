@@ -13,6 +13,7 @@ Mission Possible is a thrift store in Chicago, IL at 4308 North Lincoln Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): We 10:00-16:30; Th-Sa 10:00-17:30; Su 13:30-16:30
+- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

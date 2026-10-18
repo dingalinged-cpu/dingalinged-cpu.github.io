@@ -13,6 +13,7 @@ Buy Wholesale Cabinents is a furniture store in Irving, TX at Luke Street, Irvin
 - Website: https://buywholesalecabinets.com/
 - Email: sales@buywholesalecabinets.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
+- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

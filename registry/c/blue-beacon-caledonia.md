@@ -13,6 +13,7 @@ Blue Beacon is a car wash in Caledonia, WI. Website: https://bluebeacon.com/loca
 - Website: https://bluebeacon.com/locations/listing/milwaukee-wi
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

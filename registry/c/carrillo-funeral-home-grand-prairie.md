@@ -13,6 +13,7 @@ Carrillo Funeral Home is a funeral home in Grand Prairie, TX at 800 Southwest 3r
 - Website: https://www.carrillofuneralhomes.com/location/grand-prairie-tx-funeral-home/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

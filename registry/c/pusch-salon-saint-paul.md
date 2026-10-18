@@ -13,6 +13,7 @@ Pusch Salon is a hair salon in Saint Paul, MN at 2040 Marshall Avenue, Saint Pau
 - Website: https://www.puschsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr 10:00-18:00; Sa 10:00-17:00
+- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Velarde Salon & Spa is a hair salon in Roselle, IL at 54 North Bokelman St, Rose
 - Website: https://www.velardesalon.com/
 - Email: velardesalon00@yahoo.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

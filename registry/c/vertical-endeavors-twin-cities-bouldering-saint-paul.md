@@ -13,6 +13,7 @@ Vertical Endeavors - Twin Cities Bouldering is a gym in Saint Paul, MN at 2550 W
 - Website: https://www.verticalendeavors.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-22:00; Sa 08:00-20:00; Su 08:00-18:00
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

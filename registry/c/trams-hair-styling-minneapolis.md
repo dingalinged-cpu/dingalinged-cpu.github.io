@@ -13,6 +13,7 @@ Tram's Hair Styling is a hair salon in Minneapolis, MN at 2620 Nicollet Avenue S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Th 10:00-17:00; Fr-Su 10:30-17:00
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

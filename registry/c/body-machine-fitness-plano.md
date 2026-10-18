@@ -13,6 +13,7 @@ Body Machine Fitness is a gym in Plano, TX at 6153 Windhaven Parkway #130, Plano
 - Website: https://bodymachinefitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 04:45-20:00; Fr 04:45-19:00; Sa 06:45-12:30; Su 08:45-13:30
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

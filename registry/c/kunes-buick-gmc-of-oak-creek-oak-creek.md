@@ -13,6 +13,7 @@ Kunes Buick GMC of Oak Creek is an used car dealer in Oak Creek, WI at 7020 Sout
 - Website: https://kunesbuickgmc.com/kunes-buick-gmc-of-oak-creek
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su,PH off
+- Registry Score: 46.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

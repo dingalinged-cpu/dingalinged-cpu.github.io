@@ -13,6 +13,7 @@ All Walks of Life II Childcare Center is a daycare in Milwaukee, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): +1 414-444-2784
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

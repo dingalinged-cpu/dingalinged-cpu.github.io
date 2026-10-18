@@ -13,6 +13,7 @@ Smile Image Dentists is a dentist in Houston, TX at 1560 Eldridge Parkway #170, 
 - Website: https://www.cosmeticdentisthoustontexas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-17:00; Th 09:00-15:00; Fr-Sa 09:00-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Car-X Tire & Auto is an auto repair shop in Golden Valley, MN at 6944 Wayzata Bo
 - Website: https://www.carx.com/minneapolis/6944-wayzata-blvd/?y_source=1_Njg3NjM2MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

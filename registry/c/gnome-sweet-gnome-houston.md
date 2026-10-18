@@ -13,6 +13,7 @@ Gnome Sweet Gnome is a gift shop in Houston, TX at 16 North Main Street, Houston
 - Website: https://gnomegiftshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

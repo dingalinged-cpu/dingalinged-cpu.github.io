@@ -1,0 +1,24 @@
+Salon Barber is a hair salon in Morrow, GA.
+
+# Salon Barber
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Morrow, GA
+- City: Morrow
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.5716833, -84.3431994
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-barber-morrow/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-barber-morrow.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8960250078 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

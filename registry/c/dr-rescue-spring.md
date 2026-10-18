@@ -13,6 +13,7 @@ Dr Rescue is a HVAC contractor in Spring, TX at 21619 Rhodes Road #B, Spring, TX
 - Website: n/a
 - Email: service@drrescue.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-22:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

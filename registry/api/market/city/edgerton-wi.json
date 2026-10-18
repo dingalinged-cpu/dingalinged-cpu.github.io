@@ -1,0 +1,33 @@
+{
+ "title": "Keyword market data: Edgerton, WI",
+ "description": "Top Edgerton, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "Edgerton, WI",
+ "geography": "Madison, WI metro",
+ "keywords": 1,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "therapist edgerton wi",
+    "slug": "therapist-edgerton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-edgerton-wi/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 460,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 2200,
+    "equivalent_google_ads_cost_month_usd": 150,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

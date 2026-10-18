@@ -13,6 +13,7 @@ Vinni's Salon & Spa is a spa in Westmont, IL at 1121 Fairview Avenue, Westmont, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:30-16:30; Tu 12:00-19:00; Th 12:00-19:00; Fr,Sa 07:00-13:30; We,Su off
+- Registry Score: 56.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

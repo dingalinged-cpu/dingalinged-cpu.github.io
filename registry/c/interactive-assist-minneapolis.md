@@ -13,6 +13,7 @@ InterActive Assist is a marketing agency in Minneapolis, MN at 1400 Van Buren St
 - Website: https://ia-assist.com/
 - Email: discover@ia-assist.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

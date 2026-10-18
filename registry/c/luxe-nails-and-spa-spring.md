@@ -13,6 +13,7 @@ Luxe Nails & Spa is a nail salon in Spring, TX at 3730 FM 2920 #103, Spring, TX 
 - Website: https://luxenailspring.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 09:30-19:00; Tu closed; Sa 09:00-19:00; Su 11:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

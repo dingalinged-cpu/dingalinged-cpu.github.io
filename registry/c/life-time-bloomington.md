@@ -13,6 +13,7 @@ Life Time is a gym in Bloomington, MN at 1001 West 98th Street, Bloomington, MN 
 - Website: https://www.lifetime.life/life-time-locations/mn-bloomington-south.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

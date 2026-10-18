@@ -13,6 +13,7 @@ MidInMod is a furniture store in Katy, TX at 605 South Mason Road, Katy, TX 7745
 - Website: https://midinmod.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 12:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

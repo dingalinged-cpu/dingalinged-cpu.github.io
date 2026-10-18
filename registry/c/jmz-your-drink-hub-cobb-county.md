@@ -1,0 +1,24 @@
+J'MZ - Your Drink Hub is a bakery in Cobb County, GA at 4400 Roswell Road #136, Cobb County, GA 30062. Phone: +14705194189. Website: https://www.jmzhub.com/.
+
+# J'MZ - Your Drink Hub
+
+- Category: bakery
+- Services: bakery
+- Address: 4400 Roswell Road #136, Cobb County, GA 30062
+- City: Cobb County
+- State: GA
+- ZIP: 30062
+- Coordinates: 33.9851593, -84.4219835
+- Phone: +14705194189
+- Website: https://www.jmzhub.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00; Su 08:00-20:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/jmz-your-drink-hub-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jmz-your-drink-hub-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12485361789 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

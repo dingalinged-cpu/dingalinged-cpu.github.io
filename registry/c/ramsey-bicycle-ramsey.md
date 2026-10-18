@@ -13,6 +13,7 @@ Ramsey Bicycle is a bike shop in Ramsey, MN at 6825 US-10, Ramsey, MN 55303.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

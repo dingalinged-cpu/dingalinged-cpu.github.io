@@ -13,6 +13,7 @@ Life Time is a gym in Edina, MN at 250 Southdale, Edina, MN 55435. Website: http
 - Website: https://www.lifetime.life/life-time-locations/mn-edina-southdale.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 04:00-23:00
+- Registry Score: 46/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+Ulta Beauty is a skin care studio in Douglasville, GA at 6700 Douglas Boulevard #1520, Douglasville, GA 30135. Phone: +17709493149. Website: https://www.ulta.com/stores/douglasville-ga-701.
+
+# Ulta Beauty
+
+- Category: facial
+- Services: facial
+- Address: 6700 Douglas Boulevard #1520, Douglasville, GA 30135
+- City: Douglasville
+- State: GA
+- ZIP: 30135
+- Coordinates: 33.7284949, -84.744368
+- Phone: +17709493149
+- Website: https://www.ulta.com/stores/douglasville-ga-701
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 11:00-20:00; Sa 11:00-22:00; Su 12:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ulta-beauty-douglasville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-douglasville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8902471914 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

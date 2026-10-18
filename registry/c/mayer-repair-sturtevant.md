@@ -13,6 +13,7 @@ Mayer Repair is an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, St
 - Website: https://mayerrepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

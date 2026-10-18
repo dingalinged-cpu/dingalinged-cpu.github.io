@@ -1,0 +1,2123 @@
+{
+ "place": "Acworth, GA",
+ "slug": "acworth-ga",
+ "count": 66,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "attorney acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-acworth-ga.json"
+  },
+  {
+   "keyword": "auto repair acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-acworth-ga.json"
+  },
+  {
+   "keyword": "car wash acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-acworth-ga.json"
+  },
+  {
+   "keyword": "chiropractor acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-acworth-ga.json"
+  },
+  {
+   "keyword": "dance studio acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dance-studio-acworth-ga.json"
+  },
+  {
+   "keyword": "dentist acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-acworth-ga.json"
+  },
+  {
+   "keyword": "dog boarding acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-acworth-ga.json"
+  },
+  {
+   "keyword": "event venues acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-acworth-ga.json"
+  },
+  {
+   "keyword": "family doctor acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-acworth-ga.json"
+  },
+  {
+   "keyword": "financial advisor acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-acworth-ga.json"
+  },
+  {
+   "keyword": "funeral home acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-acworth-ga.json"
+  },
+  {
+   "keyword": "furniture store acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-acworth-ga.json"
+  },
+  {
+   "keyword": "gift shop acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-acworth-ga.json"
+  },
+  {
+   "keyword": "hair salon acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-acworth-ga.json"
+  },
+  {
+   "keyword": "haircut acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-acworth-ga.json"
+  },
+  {
+   "keyword": "heating and air acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-acworth-ga.json"
+  },
+  {
+   "keyword": "hvac repair acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-acworth-ga.json"
+  },
+  {
+   "keyword": "lawyer acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-acworth-ga.json"
+  },
+  {
+   "keyword": "liquor store acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-acworth-ga.json"
+  },
+  {
+   "keyword": "martial arts acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-acworth-ga.json"
+  },
+  {
+   "keyword": "massage acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-acworth-ga.json"
+  },
+  {
+   "keyword": "mattress store acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-acworth-ga.json"
+  },
+  {
+   "keyword": "mechanic acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-acworth-ga.json"
+  },
+  {
+   "keyword": "nail salon acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-acworth-ga.json"
+  },
+  {
+   "keyword": "orthopedic surgeon acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/orthopedic-surgeon-acworth-ga.json"
+  },
+  {
+   "keyword": "pet store acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-acworth-ga.json"
+  },
+  {
+   "keyword": "physical therapy acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-acworth-ga.json"
+  },
+  {
+   "keyword": "podiatrist acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/podiatrist-acworth-ga.json"
+  },
+  {
+   "keyword": "preschool acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-acworth-ga.json"
+  },
+  {
+   "keyword": "primary care physician acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-acworth-ga.json"
+  },
+  {
+   "keyword": "printing services acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-acworth-ga.json"
+  },
+  {
+   "keyword": "real estate agent acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-acworth-ga.json"
+  },
+  {
+   "keyword": "realtor acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-acworth-ga.json"
+  },
+  {
+   "keyword": "roofer acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-acworth-ga.json"
+  },
+  {
+   "keyword": "roofing contractor acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-acworth-ga.json"
+  },
+  {
+   "keyword": "storage units acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-acworth-ga.json"
+  },
+  {
+   "keyword": "tattoo shop acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tattoo-shop-acworth-ga.json"
+  },
+  {
+   "keyword": "tax preparation acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-acworth-ga.json"
+  },
+  {
+   "keyword": "tax preparer acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-acworth-ga.json"
+  },
+  {
+   "keyword": "tire shop acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-acworth-ga.json"
+  },
+  {
+   "keyword": "used cars for sale acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-acworth-ga.json"
+  },
+  {
+   "keyword": "vet acworth ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-acworth-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "allatoona-heating-and-cooling-acworth",
+   "name": "Allatoona Heating & Cooling",
+   "summary": "Allatoona Heating & Cooling is a HVAC contractor in Acworth, GA at 4461 Bretton Court Northwest ##400, Acworth, GA 30101. Phone: +17709264023. Website: https://allatoonaheatingandair.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allatoona-heating-and-cooling-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allatoona-heating-and-cooling-acworth.json",
+   "address": {
+    "streetAddress": "4461 Bretton Court Northwest ##400",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0616066,
+    "lon": -84.6348635
+   },
+   "phone": "+17709264023",
+   "website": "https://allatoonaheatingandair.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9853167041",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "big-dans-car-wash-kennesaw",
+   "name": "Big Dan's Car Wash",
+   "summary": "Big Dan's Car Wash is a car wash in Kennesaw, GA at 3150 Blue Springs Road, Kennesaw, GA 30144. Phone: +17707623748. Website: https://bigdanscarwash.com/.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-dans-car-wash-kennesaw/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-dans-car-wash-kennesaw.json",
+   "address": {
+    "streetAddress": "3150 Blue Springs Road",
+    "addressLocality": "Kennesaw",
+    "addressRegion": "GA",
+    "postalCode": "30144",
+    "addressCountry": "US"
+   },
+   "city": "Kennesaw",
+   "state": "GA",
+   "zip": "30144",
+   "geo": {
+    "lat": 34.0299346,
+    "lon": -84.6491736
+   },
+   "phone": "+17707623748",
+   "website": "https://bigdanscarwash.com/",
+   "opening_hours": "Mo-Su 07:30-19:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1377000178",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "biologic-dentistry-acworth",
+   "name": "Biologic Dentistry",
+   "summary": "Biologic Dentistry is a dentist in Acworth, GA at 1781 Brookstone Walk Northwest #110, Acworth, GA 30101. Phone: +17704269994. Website: https://www.biologicdentistry.com/contact-us.html.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/biologic-dentistry-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/biologic-dentistry-acworth.json",
+   "address": {
+    "streetAddress": "1781 Brookstone Walk Northwest #110",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 33.9973248,
+    "lon": -84.709553
+   },
+   "phone": "+17704269994",
+   "website": "https://www.biologicdentistry.com/contact-us.html",
+   "opening_hours": "Mo,We 07:30-16:00; Tu,Th 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/982102049",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dayco-systems-acworth",
+   "name": "Dayco Systems",
+   "summary": "Dayco Systems is a HVAC contractor in Acworth, GA at 4422 Bretton Court Northwest, Acworth, GA 30101. Phone: +17709199509. Website: https://www.daycosystems.com/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dayco-systems-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dayco-systems-acworth.json",
+   "address": {
+    "streetAddress": "4422 Bretton Court Northwest",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0607342,
+    "lon": -84.6337462
+   },
+   "phone": "+17709199509",
+   "website": "https://www.daycosystems.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/961957215",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-acworth",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Acworth, GA at 3418 Cobb Parkway, Acworth, GA 30101. Phone: +17709742269. Website: https://www.discounttire.com/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-acworth.json",
+   "address": {
+    "streetAddress": "3418 Cobb Parkway",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0381736,
+    "lon": -84.6880636
+   },
+   "phone": "+17709742269",
+   "website": "https://www.discounttire.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533901080",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lake-city-animal-hospital-acworth",
+   "name": "Lake City Animal Hospital",
+   "summary": "Lake City Animal Hospital is a veterinarian in Acworth, GA at 3671 Cobb Parkway, Acworth, GA 30101. Phone: +17709743536. Website: https://thelakecityanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lake-city-animal-hospital-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lake-city-animal-hospital-acworth.json",
+   "address": {
+    "streetAddress": "3671 Cobb Parkway",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.04142,
+    "lon": -84.695285
+   },
+   "phone": "+17709743536",
+   "website": "https://thelakecityanimalhospital.com/",
+   "opening_hours": "Mo 07:30-19:00; Tu-We 07:30-18:00; Th 07:30-19:00; Fr 07:30-18:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533908925",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mancilla-roofing-and-construction-acworth",
+   "name": "Mancilla Roofing & Construction",
+   "summary": "Mancilla Roofing & Construction is a roofer in Acworth, GA at 6985 McCurley Road, Acworth, GA 30102. Phone: +16782643189. Website: https://mancillaroofing.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mancilla-roofing-and-construction-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mancilla-roofing-and-construction-acworth.json",
+   "address": {
+    "streetAddress": "6985 McCurley Road",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30102",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30102",
+   "geo": {
+    "lat": 34.1256941,
+    "lon": -84.6046287
+   },
+   "phone": "+16782643189",
+   "website": "https://mancillaroofing.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6322669284",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petco-acworth",
+   "name": "Petco",
+   "summary": "Petco is a pet store in Acworth, GA at 3372 Cobb Parkway Northwest #300, Acworth, GA 30101. Phone: +16785746592. Website: https://stores.petco.com/ga/acworth/pet-supplies-acworth-ga-2727.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petco-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petco-acworth.json",
+   "address": {
+    "streetAddress": "3372 Cobb Parkway Northwest #300",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0379154,
+    "lon": -84.6835388
+   },
+   "phone": "+16785746592",
+   "website": "https://stores.petco.com/ga/acworth/pet-supplies-acworth-ga-2727.html",
+   "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752053868",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-acworth",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Acworth, GA at 3335 Cobb Parkway Northwest #500, Acworth, GA 30101. Phone: +17705290748. Website: https://www.petsmart.com/stores/us/ga/acworth-store1259.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-acworth.json",
+   "address": {
+    "streetAddress": "3335 Cobb Parkway Northwest #500",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0334336,
+    "lon": -84.6827261
+   },
+   "phone": "+17705290748",
+   "website": "https://www.petsmart.com/stores/us/ga/acworth-store1259.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/993049138",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "total-joint-specialists-acworth-acworth",
+   "name": "Total Joint Specialists - Acworth",
+   "summary": "Total Joint Specialists - Acworth is an orthopedic surgeon in Acworth, GA at 4450 Calibre Xing, # 1106, Acworth, GA 30101. Phone: +17707219052. Website: https://www.totaljointspecialists.com/locations/acworth.",
+   "categories": [
+    "orthopedic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/total-joint-specialists-acworth-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/total-joint-specialists-acworth-acworth.json",
+   "address": {
+    "streetAddress": "4450 Calibre Xing, # 1106",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0640081,
+    "lon": -84.7217443
+   },
+   "phone": "+17707219052",
+   "website": "https://www.totaljointspecialists.com/locations/acworth",
+   "opening_hours": "Mo-Fr 08:00-16:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12330764025",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "georgia-funeral-care-and-cremation-services-funeral-home-acworth",
+   "name": "Georgia Funeral Care and Cremation Services Funeral Home",
+   "summary": "Georgia Funeral Care and Cremation Services Funeral Home is a funeral home in Acworth, GA at 4671 South Main Street, Acworth, GA 30101. Phone: +16785743016. Website: https://www.georgiafuneralcare.com/.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/georgia-funeral-care-and-cremation-services-funeral-home-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/georgia-funeral-care-and-cremation-services-funeral-home-acworth.json",
+   "address": {
+    "streetAddress": "4671 South Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.063967,
+    "lon": -84.6730959
+   },
+   "phone": "+16785743016",
+   "website": "https://www.georgiafuneralcare.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/741976232",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "glee-dential-acworth",
+   "name": "Glee Dential",
+   "summary": "Glee Dential is a dentist in Acworth, GA at 3485 Acworth Due West Road #160, Acworth, GA 30101. Phone: +16789613370. Website: https://glee-dental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glee-dential-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glee-dential-acworth.json",
+   "address": {
+    "streetAddress": "3485 Acworth Due West Road #160",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0381151,
+    "lon": -84.675738
+   },
+   "phone": "+16789613370",
+   "website": "https://glee-dental.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10797153655",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mccall-primary-school-acworth",
+   "name": "McCall Primary School",
+   "summary": "McCall Primary School is a preschool in Acworth, GA at 4496 Dixie Avenue, Acworth, GA 30101. Phone: +17709756775. Website: https://www.cobbk12.org/McCallPrimary/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mccall-primary-school-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mccall-primary-school-acworth.json",
+   "address": {
+    "streetAddress": "4496 Dixie Avenue",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0646619,
+    "lon": -84.6806254
+   },
+   "phone": "+17709756775",
+   "website": "https://www.cobbk12.org/McCallPrimary/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/34843301",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mountain-view-dental-acworth",
+   "name": "Mountain View Dental",
+   "summary": "Mountain View Dental is a dentist in Acworth, GA at 2320 Baker Road, Acworth, GA 30101. Phone: +17704298989. Website: https://dentistacworth.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mountain-view-dental-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mountain-view-dental-acworth.json",
+   "address": {
+    "streetAddress": "2320 Baker Road",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0553587,
+    "lon": -84.6177142
+   },
+   "phone": "+17704298989",
+   "website": "https://dentistacworth.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13322169916",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-goddard-school-kennesaw",
+   "name": "The Goddard School",
+   "summary": "The Goddard School is a preschool in Kennesaw, GA at 3190 Blue Springs Road Northwest, Kennesaw, GA 30144. Phone: +17709757555. Website: https://www.goddardschool.com/atlanta/kennesaw-cobb-parkway-ga.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-goddard-school-kennesaw/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-goddard-school-kennesaw.json",
+   "address": {
+    "streetAddress": "3190 Blue Springs Road Northwest",
+    "addressLocality": "Kennesaw",
+    "addressRegion": "GA",
+    "postalCode": "30144",
+    "addressCountry": "US"
+   },
+   "city": "Kennesaw",
+   "state": "GA",
+   "zip": "30144",
+   "geo": {
+    "lat": 34.0314292,
+    "lon": -84.6492103
+   },
+   "phone": "+17709757555",
+   "website": "https://www.goddardschool.com/atlanta/kennesaw-cobb-parkway-ga",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/357284783",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hildreth-dental-acworth",
+   "name": "Hildreth Dental",
+   "summary": "Hildreth Dental is a dentist in Acworth, GA at 4900 Ivey Road #1424, Acworth, GA 30101. Website: https://hildrethdental.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hildreth-dental-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hildreth-dental-acworth.json",
+   "address": {
+    "streetAddress": "4900 Ivey Road #1424",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0394965,
+    "lon": -84.6939468
+   },
+   "website": "https://hildrethdental.com/",
+   "opening_hours": "Mo-Th 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12791686283",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kams-auto-service-center-acworth",
+   "name": "KAMS Auto Service Center",
+   "summary": "KAMS Auto Service Center is an auto repair shop in Acworth, GA at 4978 Cobb Parkway, Acworth, GA 30101. Phone: +17709564060.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kams-auto-service-center-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kams-auto-service-center-acworth.json",
+   "address": {
+    "streetAddress": "4978 Cobb Parkway",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0748623,
+    "lon": -84.7265934
+   },
+   "phone": "+17709564060",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/531774844",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midgard-self-storage-acworth",
+   "name": "Midgard Self Storage",
+   "summary": "Midgard Self Storage is a self-storage facility in Acworth, GA at 5534 Highway 92, Acworth, GA 30102. Phone: +17709750555.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midgard-self-storage-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midgard-self-storage-acworth.json",
+   "address": {
+    "streetAddress": "5534 Highway 92",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30102",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30102",
+   "geo": {
+    "lat": 34.0880678,
+    "lon": -84.5971521
+   },
+   "phone": "+17709750555",
+   "opening_hours": "Mo-Su 08:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/511838721",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mills-animal-hospital-acworth",
+   "name": "Mills Animal Hospital",
+   "summary": "Mills Animal Hospital is a veterinarian in Acworth, GA at 4514 Cobb Parkway, Acworth, GA 30101. Website: https://www.millsanimalhospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mills-animal-hospital-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mills-animal-hospital-acworth.json",
+   "address": {
+    "streetAddress": "4514 Cobb Parkway",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0654577,
+    "lon": -84.7235486
+   },
+   "website": "https://www.millsanimalhospital.com/",
+   "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9172706464",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "logan-farm-house-acworth",
+   "name": "Logan Farm House",
+   "summary": "Logan Farm House is an event venue in Acworth, GA at 4756 Logan Road, Acworth, GA 30101. Website: https://loganfarmhouse.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/logan-farm-house-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/logan-farm-house-acworth.json",
+   "address": {
+    "streetAddress": "4756 Logan Road",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.070267,
+    "lon": -84.674721
+   },
+   "website": "https://loganfarmhouse.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999766661",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pearls-spa-acworth",
+   "name": "Pearl's Spa",
+   "summary": "Pearl's Spa is a massage studio in Acworth, GA at 4827 South Main Street, Acworth, GA 30101. Website: https://www.pearlsspa.org/.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pearls-spa-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pearls-spa-acworth.json",
+   "address": {
+    "streetAddress": "4827 South Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0658675,
+    "lon": -84.677496
+   },
+   "website": "https://www.pearlsspa.org/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812998909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "quicktrip-acworth",
+   "name": "QuickTrip",
+   "summary": "QuickTrip is a self-storage facility in Acworth, GA at 6090 Alabama Road, Acworth, GA 30102.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/quicktrip-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/quicktrip-acworth.json",
+   "address": {
+    "streetAddress": "6090 Alabama Road",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30102",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30102",
+   "geo": {
+    "lat": 34.0881764,
+    "lon": -84.5835598
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/288217247",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "acworth-primary-healthcare-acworth",
+   "name": "Acworth Primary Healthcare",
+   "summary": "Acworth Primary Healthcare is a family medicine practice in Acworth, GA at 5473 Lemon Street, Acworth, GA 30101.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acworth-primary-healthcare-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acworth-primary-healthcare-acworth.json",
+   "address": {
+    "streetAddress": "5473 Lemon Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.066704,
+    "lon": -84.6766392
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10813005976",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "beverage-mart-acworth",
+   "name": "Beverage Mart",
+   "summary": "Beverage Mart is a liquor store in Acworth, GA at 3482 Cobb Parkway, Acworth, GA 30101.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beverage-mart-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beverage-mart-acworth.json",
+   "address": {
+    "streetAddress": "3482 Cobb Parkway",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0401346,
+    "lon": -84.6913669
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/504586404",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bowling-law-llc-acworth",
+   "name": "Bowling Law, LLC",
+   "summary": "Bowling Law, LLC is a lawyer in Acworth, GA at 4807 South Main Street, Acworth, GA 30101.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bowling-law-llc-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bowling-law-llc-acworth.json",
+   "address": {
+    "streetAddress": "4807 South Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0656922,
+    "lon": -84.6770711
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812653666",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brenn-images-salon-acworth",
+   "name": "Brenn Images Salon",
+   "summary": "Brenn Images Salon is a hair salon in Acworth, GA at 4805 South Main Street, Acworth, GA 30101.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brenn-images-salon-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brenn-images-salon-acworth.json",
+   "address": {
+    "streetAddress": "4805 South Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0656409,
+    "lon": -84.6770244
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812653665",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "celebrity-ballroom-dance-studios-acworth",
+   "name": "Celebrity Ballroom Dance Studios",
+   "summary": "Celebrity Ballroom Dance Studios is a dance studio in Acworth, GA at 4857 North Main Street, Acworth, GA 30101.",
+   "categories": [
+    "dance studio"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/celebrity-ballroom-dance-studios-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/celebrity-ballroom-dance-studios-acworth.json",
+   "address": {
+    "streetAddress": "4857 North Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0663277,
+    "lon": -84.6784646
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812998917",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "implulse-ink-acworth",
+   "name": "Implulse Ink",
+   "summary": "Implulse Ink is a tattoo shop in Acworth, GA at 4801 South Main Street, Acworth, GA 30101.",
+   "categories": [
+    "tattoo shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/implulse-ink-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/implulse-ink-acworth.json",
+   "address": {
+    "streetAddress": "4801 South Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0655732,
+    "lon": -84.6769182
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812653663",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pampered-pink-acworth",
+   "name": "Pampered Pink",
+   "summary": "Pampered Pink is a nail salon in Acworth, GA at 4809 South Main Street, Acworth, GA 30101.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pampered-pink-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pampered-pink-acworth.json",
+   "address": {
+    "streetAddress": "4809 South Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0656574,
+    "lon": -84.6771633
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812998906",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pfister-jerald-w-dc-acworth",
+   "name": "Pfister Jerald W DC",
+   "summary": "Pfister Jerald W DC is a chiropractor in Acworth, GA at 4803 South Main Street, Acworth, GA 30101.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pfister-jerald-w-dc-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pfister-jerald-w-dc-acworth.json",
+   "address": {
+    "streetAddress": "4803 South Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0655984,
+    "lon": -84.6769672
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812653664",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "red-barn-reality-acworth",
+   "name": "Red Barn Reality",
+   "summary": "Red Barn Reality is a real estate agency in Acworth, GA at 4873 North Main Street, Acworth, GA 30101.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/red-barn-reality-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/red-barn-reality-acworth.json",
+   "address": {
+    "streetAddress": "4873 North Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0665588,
+    "lon": -84.6789246
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812998921",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "star-stuff-acworth",
+   "name": "Star Stuff",
+   "summary": "Star Stuff is a gift shop in Acworth, GA at 4549 Lemon Street, Acworth, GA 30101.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/star-stuff-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/star-stuff-acworth.json",
+   "address": {
+    "streetAddress": "4549 Lemon Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0654081,
+    "lon": -84.6769956
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13296014905",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stor-all-acworth",
+   "name": "Stor-All",
+   "summary": "Stor-All is a self-storage facility in Acworth, GA at 5745 Bells Ferry Road, Acworth, GA 30102.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stor-all-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stor-all-acworth.json",
+   "address": {
+    "streetAddress": "5745 Bells Ferry Road",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30102",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30102",
+   "geo": {
+    "lat": 34.0905711,
+    "lon": -84.5801288
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/3906583585",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-conservatory-at-waterstone-acworth",
+   "name": "The Conservatory At Waterstone",
+   "summary": "The Conservatory At Waterstone is an event venue in Acworth, GA at 4851 North Main Street, Acworth, GA 30101.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-conservatory-at-waterstone-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-conservatory-at-waterstone-acworth.json",
+   "address": {
+    "streetAddress": "4851 North Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0662344,
+    "lon": -84.6782168
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812998915",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-acworth-n9174483778",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Acworth, GA at 3330 Cobb Parkway Northwest #Suite 324, Acworth, GA 30101.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-acworth-n9174483778/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-acworth-n9174483778.json",
+   "address": {
+    "streetAddress": "3330 Cobb Parkway Northwest #Suite 324",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.0358943,
+    "lon": -84.6761609
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483778",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "warrior-brazilian-jiu-jitsu-academy-acworth",
+   "name": "Warrior Brazilian Jiu Jitsu Academy",
+   "summary": "Warrior Brazilian Jiu Jitsu Academy is a martial arts school in Acworth, GA at 4871 North Main Street, Acworth, GA 30101.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/warrior-brazilian-jiu-jitsu-academy-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/warrior-brazilian-jiu-jitsu-academy-acworth.json",
+   "address": {
+    "streetAddress": "4871 North Main Street",
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "postalCode": "30101",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "zip": "30101",
+   "geo": {
+    "lat": 34.066494,
+    "lon": -84.6788452
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10812998919",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "1st-source-tax-acworth",
+   "name": "1st Source Tax",
+   "summary": "1st Source Tax is a tax preparation service in Acworth, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/1st-source-tax-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/1st-source-tax-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0300639,
+    "lon": -84.6563707
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9175549388",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "3-minute-express-wash-acworth",
+   "name": "3 Minute Express Wash",
+   "summary": "3 Minute Express Wash is a car wash in Acworth, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/3-minute-express-wash-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/3-minute-express-wash-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0441624,
+    "lon": -84.6945989
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/755338711",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "asian-massage-acworth",
+   "name": "Asian Massage",
+   "summary": "Asian Massage is a massage studio in Acworth, GA.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asian-massage-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asian-massage-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.039353,
+    "lon": -84.6898798
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483530",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "benchmark-acworth",
+   "name": "BenchMark",
+   "summary": "BenchMark is a physical therapy clinic in Acworth, GA.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benchmark-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benchmark-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0392136,
+    "lon": -84.6897204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483532",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "braces-braces-acworth",
+   "name": "braces braces",
+   "summary": "braces braces is a dentist in Acworth, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/braces-braces-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/braces-braces-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0394587,
+    "lon": -84.6900451
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483526",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brooks-garage-acworth",
+   "name": "Brooks Garage",
+   "summary": "Brooks Garage is an auto repair shop in Acworth, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brooks-garage-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brooks-garage-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0555792,
+    "lon": -84.6641137
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752031590",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "christian-brothers-automotive-acworth",
+   "name": "Christian Brothers Automotive",
+   "summary": "Christian Brothers Automotive is an auto repair shop in Acworth, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/christian-brothers-automotive-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0377272,
+    "lon": -84.6867744
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/533901086",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "days-auto-super-center-acworth",
+   "name": "Days Auto Super Center",
+   "summary": "Days Auto Super Center is an used car dealer in Acworth, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/days-auto-super-center-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/days-auto-super-center-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0444751,
+    "lon": -84.6976541
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/755337579",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-acworth",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Acworth, GA.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0665685,
+    "lon": -84.6770969
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1162661899",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elite-nail-spa-acworth",
+   "name": "Elite Nail Spa",
+   "summary": "Elite Nail Spa is a nail salon in Acworth, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-nail-spa-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-nail-spa-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0380625,
+    "lon": -84.6836085
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483638",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-acworth",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Acworth, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.030991,
+    "lon": -84.663351
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/992866656",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-acworth-w993049126",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Acworth, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-acworth-w993049126/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-acworth-w993049126.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.036143,
+    "lon": -84.6884224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/993049126",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fantastic-sams-acworth",
+   "name": "Fantastic Sams",
+   "summary": "Fantastic Sams is a hair salon in Acworth, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fantastic-sams-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.029939,
+    "lon": -84.6557911
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752044287",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "foot-solutions-acworth",
+   "name": "Foot Solutions",
+   "summary": "Foot Solutions is a podiatrist in Acworth, GA.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/foot-solutions-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/foot-solutions-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0394202,
+    "lon": -84.6899958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483528",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "furniture-pond-acworth",
+   "name": "Furniture Pond",
+   "summary": "Furniture Pond is a furniture store in Acworth, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/furniture-pond-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/furniture-pond-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0342382,
+    "lon": -84.6843963
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483752",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "js-liquor-store-acworth",
+   "name": "J's Liquor Store",
+   "summary": "J's Liquor Store is a liquor store in Acworth, GA.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/js-liquor-store-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/js-liquor-store-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0315474,
+    "lon": -84.6574581
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5178523829",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ladin-and-associates-acworth",
+   "name": "Ladin & associates",
+   "summary": "Ladin & associates is a lawyer in Acworth, GA.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ladin-and-associates-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ladin-and-associates-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0321622,
+    "lon": -84.6557988
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5752057066",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-acworth",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Acworth, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0451257,
+    "lon": -84.6953564
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/755338326",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-acworth-w992879304",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is an auto repair shop in Acworth, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-acworth-w992879304/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-acworth-w992879304.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.038851,
+    "lon": -84.6928455
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/992879304",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "midtown-tire-acworth-acworth",
+   "name": "Midtown Tire - Acworth",
+   "summary": "Midtown Tire - Acworth is a tire shop in Acworth, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/midtown-tire-acworth-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/midtown-tire-acworth-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0758807,
+    "lon": -84.648184
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5012789859",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pep-boys-acworth",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Acworth, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0453509,
+    "lon": -84.695915
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/755338325",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "serene-nails-acworth",
+   "name": "Serene Nails",
+   "summary": "Serene Nails is a nail salon in Acworth, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/serene-nails-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/serene-nails-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0371514,
+    "lon": -84.6803766
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483769",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sleep-galleria-acworth",
+   "name": "Sleep Galleria",
+   "summary": "Sleep Galleria is a mattress store in Acworth, GA.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sleep-galleria-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sleep-galleria-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0378629,
+    "lon": -84.6854757
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483626",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "solar-nails-acworth",
+   "name": "Solar Nails",
+   "summary": "Solar Nails is a nail salon in Acworth, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/solar-nails-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/solar-nails-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0393986,
+    "lon": -84.6899523
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483531",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-acworth",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Acworth, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0393097,
+    "lon": -84.6898161
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483529",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "supercuts-acworth-n9174483637",
+   "name": "Supercuts",
+   "summary": "Supercuts is a hair salon in Acworth, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/supercuts-acworth-n9174483637/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/supercuts-acworth-n9174483637.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0381173,
+    "lon": -84.6836085
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483637",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-dog-house-pet-resort-acworth",
+   "name": "The Dog House Pet Resort",
+   "summary": "The Dog House Pet Resort is a dog boarding facility in Acworth, GA.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-dog-house-pet-resort-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-dog-house-pet-resort-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0634746,
+    "lon": -84.6507396
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12120908799",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-joint-chiropractic-acworth",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Acworth, GA.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0390189,
+    "lon": -84.6854735
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483631",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-acworth",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Acworth, GA.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0370888,
+    "lon": -84.6799478
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9174483770",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tidal-wave-auto-spa-acworth",
+   "name": "Tidal Wave Auto Spa",
+   "summary": "Tidal Wave Auto Spa is a car wash in Acworth, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-acworth/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tidal-wave-auto-spa-acworth.json",
+   "address": {
+    "addressLocality": "Acworth",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Acworth",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0310504,
+    "lon": -84.6560803
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1267940290",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

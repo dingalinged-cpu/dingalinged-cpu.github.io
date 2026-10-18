@@ -13,6 +13,7 @@ Hattie's Daycare & Preschool is a daycare in Gary, IN at 1108 Oklahoma Street, G
 - Website: https://hattiesdaycare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

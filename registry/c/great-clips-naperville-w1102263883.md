@@ -13,6 +13,7 @@ Great Clips is a hair salon in Naperville, IL at 1552 North Aurora Road #110, Na
 - Website: https://salons.greatclips.com/us/il/naperville/1552-n-aurora-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00, Sa 08:30-17:30, Su 09:00-16:00
+- Registry Score: 53.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

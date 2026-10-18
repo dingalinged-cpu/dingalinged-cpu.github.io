@@ -13,6 +13,7 @@ The Casket Store is a funeral home in Dallas, TX. Phone: +12146963123.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:30; Sa 09:00-14:00
+- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

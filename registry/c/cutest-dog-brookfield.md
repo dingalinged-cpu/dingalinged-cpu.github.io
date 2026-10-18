@@ -13,6 +13,7 @@ Cutest Dog is a dog groomer in Brookfield, IL at 9448 47th Street, Brookfield, I
 - Website: https://www.instagram.com/p/DPM0d32iWso/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

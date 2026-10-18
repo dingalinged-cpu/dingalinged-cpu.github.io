@@ -13,6 +13,7 @@ Gentle Dentistry is a dentist in Plymouth, MN at 15650 36th Avenue North #150, P
 - Website: https://smilemn.com/plymouth/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-17:00
+- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

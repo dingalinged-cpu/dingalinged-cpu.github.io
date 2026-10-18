@@ -13,6 +13,7 @@ Right Choice Dental Care is a dentist in Naperville, IL at 2048 Aurora Avenue #1
 - Website: https://www.rightchoicedentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-19:00; Tu-Fr 08:00-18:00; Sa 08:00-13:00
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+McCall Primary School is a preschool in Acworth, GA at 4496 Dixie Avenue, Acworth, GA 30101. Phone: +17709756775. Website: https://www.cobbk12.org/McCallPrimary/.
+
+# McCall Primary School
+
+- Category: preschool
+- Services: preschool
+- Address: 4496 Dixie Avenue, Acworth, GA 30101
+- City: Acworth
+- State: GA
+- ZIP: 30101
+- Coordinates: 34.0646619, -84.6806254
+- Phone: +17709756775
+- Website: https://www.cobbk12.org/McCallPrimary/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mccall-primary-school-acworth/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mccall-primary-school-acworth.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/34843301 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

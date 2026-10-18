@@ -1,0 +1,24 @@
+Puppy Haven is a dog boarding facility in Alpharetta, GA at 2854 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +14048858788. Website: https://www.puppyhavenatl.com/.
+
+# Puppy Haven
+
+- Category: dog boarding
+- Services: dog boarding
+- Address: 2854 Holcomb Bridge Road, Alpharetta, GA 30022
+- City: Alpharetta
+- State: GA
+- ZIP: 30022
+- Coordinates: 33.990848, -84.2779142
+- Phone: +14048858788
+- Website: https://www.puppyhavenatl.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/puppy-haven-alpharetta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/puppy-haven-alpharetta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/352451762 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

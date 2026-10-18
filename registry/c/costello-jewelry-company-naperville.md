@@ -13,6 +13,7 @@ Costello Jewelry Company is a jewelry store in Naperville, IL at 33 West Jeffers
 - Website: https://www.costello.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We, Fr 09:30-18:00; Th 09:30-20:00; Sa 09:00-17:00; Su off
+- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

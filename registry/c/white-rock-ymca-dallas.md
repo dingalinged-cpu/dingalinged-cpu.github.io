@@ -13,6 +13,7 @@ White Rock YMCA is a gym in Dallas, TX at 7112 Gaston Avenue, Dallas, TX. Phone:
 - Website: https://www.whiterockymca.org/
 - Email: n/a
 - Opening hours (OSM syntax): Su 12:00-18:00; Mo-Th 05:30-22:00; Fr 05:30-20:00; Sa 06:00-18:00
+- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

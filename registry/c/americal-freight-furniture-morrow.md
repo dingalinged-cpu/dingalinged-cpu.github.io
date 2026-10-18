@@ -1,0 +1,24 @@
+Americal Freight Furniture is a furniture store in Morrow, GA.
+
+# Americal Freight Furniture
+
+- Category: furniture store
+- Services: furniture store
+- Address: Morrow, GA
+- City: Morrow
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.572137, -84.3503705
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/americal-freight-furniture-morrow/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/americal-freight-furniture-morrow.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/847324111 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

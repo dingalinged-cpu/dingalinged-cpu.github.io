@@ -13,6 +13,7 @@ IN-FOCUS Photography is a photographer in Saint Francis, WI at 4160 South Kinnic
 - Website: https://infocusphotography.org/
 - Email: info@infocusphotography.org
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

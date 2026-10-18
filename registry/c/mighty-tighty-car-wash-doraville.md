@@ -1,0 +1,24 @@
+Mighty Tighty Car Wash is a car wash in Doraville, GA at 5456 Buford Highway, Doraville, GA 30340.
+
+# Mighty Tighty Car Wash
+
+- Category: car wash
+- Services: car wash
+- Address: 5456 Buford Highway, Doraville, GA 30340
+- City: Doraville
+- State: GA
+- ZIP: 30340
+- Coordinates: 33.9010015, -84.277202
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mighty-tighty-car-wash-doraville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mighty-tighty-car-wash-doraville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/902865827 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

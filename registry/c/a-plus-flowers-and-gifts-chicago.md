@@ -13,6 +13,7 @@ A Plus Flowers & Gifts is a florist in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:30-16:30; Mo 10:00-16:30
+- Registry Score: 53.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

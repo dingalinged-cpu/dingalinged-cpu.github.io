@@ -13,6 +13,7 @@ Beauty Nail Bar is a nail salon in Katy, TX at 1330 North Fry Road #1330, Katy, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:00-19:00; Su 11:00-17:00; PH closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Forest and Found is a thrift store in Lake Forest, IL at 1363 North Western Aven
 - Website: https://forestandfound.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-16:00; Th-Fr 10:00-16:00
+- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

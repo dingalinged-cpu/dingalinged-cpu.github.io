@@ -13,6 +13,7 @@ FloMo Dental is a dentist in Flower Mound, TX at Cross Timbers Road #108, Flower
 - Website: https://www.flomodental.com/
 - Email: flomodental@sonivahq.com
 - Opening hours (OSM syntax): Mo-Th 10:30-18:30
+- Registry Score: 65.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

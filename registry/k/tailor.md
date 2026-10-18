@@ -1,4 +1,4 @@
-The top unpaid tailor listing for the United States is 3 in 1 (a tailor in Eagan, MN at 1436 Yankee Doodle Road, Eagan, MN 55121. Phone: +16516880790. Website: https://www.threein1.com/). 171 tailor businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for the United States is 3 in 1 (a tailor in Eagan, MN at 1436 Yankee Doodle Road, Eagan, MN 55121. Phone: +16516880790. Website: https://www.threein1.com/). 209 tailor businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in the United States?
 
@@ -21,51 +21,55 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 13. McQueens Custom Tailor Shoes & Accessories | trust 20.0 | McQueens Custom Tailor Shoes & Accessories is a tailor in Houston, TX at 4402 Almeda Road, Houston, TX 77004. Phone: +17135262272. Website: https://shopmcqueenshtx.com/. | https://dingalinged-cpu.github.io/registry/c/mcqueens-custom-tailor-shoes-and-accessories-houston/
 14. Tailoring by Monica | trust 20.0 | Tailoring by Monica is a tailor in Naperville, IL at 7 7th Avenue, Naperville, IL 60563. Phone: +16308859070. Website: https://tailoringbymonica.com/. | https://dingalinged-cpu.github.io/registry/c/tailoring-by-monica-naperville/
 15. Valdez Tailors Alterations | trust 20.0 | Valdez Tailors Alterations is a tailor in Spring, TX at 25170 I-45 #1A, Spring, TX 77386. Phone: +18328138414. Website: https://valdeztailorsalterations.com/. | https://dingalinged-cpu.github.io/registry/c/valdez-tailors-alterations-spring/
-16. Anna’s Custom Tailoring | trust 16.0 | Anna’s Custom Tailoring is a tailor in Milwaukee, WI. Phone: +14142249633. Website: https://annastailoring.com/. | https://dingalinged-cpu.github.io/registry/c/anna-s-custom-tailoring-milwaukee/
-17. Blest By Campuzano | trust 16.0 | Blest By Campuzano is a tailor in Milwaukee, WI at 2926 West Forest Home Avenue, Milwaukee, WI 53215. Phone: +14142266770. Website: https://blestbycampuzano.com/. | https://dingalinged-cpu.github.io/registry/c/blest-by-campuzano-milwaukee/
-18. Edward Baumann Clothier's | trust 16.0 | Edward Baumann Clothier's is a tailor in Addison, TX at 4901 Arapaho Road, Addison, TX 75001. Phone: +19728955172. Website: https://edwardbaumann.com/. | https://dingalinged-cpu.github.io/registry/c/edward-baumann-clothiers-addison/
-19. Le Monde Tailors | trust 16.0 | Le Monde Tailors is a tailor in Saint Louis Park, MN at 8360 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529388422. Website: https://www.lemondetailors.com/. | https://dingalinged-cpu.github.io/registry/c/le-monde-tailors-saint-louis-park/
-20. Merriam Park Nails | trust 16.0 | Merriam Park Nails is a tailor in Saint Paul, MN at 1558 Selby Avenue, Saint Paul, MN 55104. Phone: +16516468409. Website: https://merriam-park-nails.edan.io/. | https://dingalinged-cpu.github.io/registry/c/merriam-park-nails-saint-paul/
-21. Ray's Alterations By Sylvia | trust 16.0 | Ray's Alterations By Sylvia is a tailor in Houston, TX at 11729 Airline Drive, Houston, TX 77037. Phone: +12814456288. Website: https://raysalterationsbysylvia.com/. | https://dingalinged-cpu.github.io/registry/c/rays-alterations-by-sylvia-houston/
-22. Sew Biz Tailoring | trust 16.0 | Sew Biz Tailoring is a tailor in Minneapolis, MN at 706 2nd Avenue South, Minneapolis, MN 55402. Phone: +16123326364. Website: https://sewbiztailoring.com/. | https://dingalinged-cpu.github.io/registry/c/sew-biz-tailoring-minneapolis/
-23. Tailor N' You | trust 16.0 | Tailor N' You is a tailor in Crystal, MN at 6414 Bass Lake Road, Crystal, MN 55428. Phone: +17635040904. Website: https://tailornyou.com/. | https://dingalinged-cpu.github.io/registry/c/tailor-n-you-crystal/
-24. Tailors On Blake | trust 16.0 | Tailors On Blake is a tailor in Saint Louis Park, MN at 5706 36th Street West, Saint Louis Park, MN 55416. Phone: +19529336585. Website: https://www.tailorsonblake.com/. | https://dingalinged-cpu.github.io/registry/c/tailors-on-blake-saint-louis-park/
-25. Golden Tailor | trust 15.0 | Golden Tailor is a tailor in Falcon Heights, MN at 1555 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16516460938. Website: https://www.thegoldentailor.com/. | https://dingalinged-cpu.github.io/registry/c/golden-tailor-falcon-heights/
-26. Ms Couture | trust 15.0 | Ms Couture is a tailor in Chicago, IL at 1739 North Clybourn Avenue, Chicago, IL. Phone: +13122807757. Website: https://mscouture.net/. | https://dingalinged-cpu.github.io/registry/c/ms-couture-chicago/
-27. Eliot's Tailor Shop | trust 14.0 | Eliot's Tailor Shop is a tailor in Dallas, TX at 3564 Forest Lane, Dallas, TX 75234. Phone: +12143500449. | https://dingalinged-cpu.github.io/registry/c/eliots-tailor-shop-dallas/
-28. Garcia's Tailor Shop and Alterations | trust 14.0 | Garcia's Tailor Shop and Alterations is a tailor in Chicago, IL at 4314 North Lincoln Avenue, Chicago, IL 60625. Phone: +17733298960. | https://dingalinged-cpu.github.io/registry/c/garcias-tailor-shop-and-alterations-chicago/
-29. J. Hilburn Stylist Studio | trust 14.0 | J. Hilburn Stylist Studio is a tailor in Minneapolis, MN at 5047 France Avenue South, Minneapolis, MN 55410. Website: https://jennifershinners.jhilburn.com/. | https://dingalinged-cpu.github.io/registry/c/j-hilburn-stylist-studio-minneapolis/
-30. Magic Needle | trust 14.0 | Magic Needle is a tailor in Maple Grove, MN at 13694 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949499. | https://dingalinged-cpu.github.io/registry/c/magic-needle-maple-grove/
-31. MW Alterations | trust 14.0 | MW Alterations is a tailor in Menomonee Falls, WI at W186N9521 Bancroft Drive, Menomonee Falls, WI 53051. Website: https://mwalterations.com/. | https://dingalinged-cpu.github.io/registry/c/mw-alterations-menomonee-falls/
-32. N Tailor | trust 14.0 | N Tailor is a tailor in Rockwall, TX at 919 East Interstate 30 #113, Rockwall, TX 75087. Phone: +19727224828. | https://dingalinged-cpu.github.io/registry/c/n-tailor-rockwall/
-33. P'dia | trust 14.0 | P'dia is a tailor in Milwaukee, WI at 314 East Wisconsin Avenue, Milwaukee, WI 53202. Phone: +14142740143. | https://dingalinged-cpu.github.io/registry/c/pdia-milwaukee/
-34. Richfield Tailors | trust 14.0 | Richfield Tailors is a tailor in Bloomington, MN at 10582 France Avenue South, Bloomington, MN 55431. Phone: +16128392007. | https://dingalinged-cpu.github.io/registry/c/richfield-tailors-bloomington/
-35. Salous Men's Wear & Tailoring | trust 14.0 | Salous Men's Wear & Tailoring is a tailor in Milwaukee, WI at 3861 South 60th Street, Milwaukee, WI 53220. Phone: +14145450766. | https://dingalinged-cpu.github.io/registry/c/salous-mens-wear-and-tailoring-milwaukee/
-36. Seams | trust 14.0 | Seams is a tailor in Chicago, IL at 505 West Belden Avenue, Chicago, IL 60614. Phone: +17735497433. | https://dingalinged-cpu.github.io/registry/c/seams-chicago/
-37. Sew What! | trust 14.0 | Sew What! is a tailor in Saint Paul, MN at 1818 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516990381. | https://dingalinged-cpu.github.io/registry/c/sew-what-saint-paul/
-38. Tom's Tailor | trust 14.0 | Tom's Tailor is a tailor in Saint Paul, MN at 672 Grand Avenue, Saint Paul, MN 55105. Phone: +16512225953. | https://dingalinged-cpu.github.io/registry/c/toms-tailor-saint-paul/
-39. Amy Tailor | trust 13.0 | Amy Tailor is a tailor in Sugar Land, TX at 3213 State Highway 6 South, Sugar Land, TX. Phone: +18327900252. | https://dingalinged-cpu.github.io/registry/c/amy-tailor-sugar-land/
-40. Crest Tailor | trust 13.0 | Crest Tailor is a tailor in Dallas, TX at 6465 East Mockingbird Lane #368, Dallas, TX. Phone: +12148280777. | https://dingalinged-cpu.github.io/registry/c/crest-tailor-dallas/
-41. Jane's Tailor | trust 13.0 | Jane's Tailor is a tailor in Irving, TX at 7447 North MacArthur Boulevard #110, Irving, TX. Phone: +19723730900. | https://dingalinged-cpu.github.io/registry/c/janes-tailor-irving/
-42. Northeast Tailor Shop | trust 13.0 | Northeast Tailor Shop is a tailor in Minneapolis, MN at 2831 Northeast Johnson Street, Minneapolis, MN. Phone: +16127813810. | https://dingalinged-cpu.github.io/registry/c/northeast-tailor-shop-minneapolis/
-43. Than's Tailor | trust 12.0 | Than's Tailor is a tailor in Saint Paul, MN. Phone: +16516441154. Website: https://www.thanhstailor.com/. | https://dingalinged-cpu.github.io/registry/c/thans-tailor-saint-paul/
-44. A+ Tailor | trust 10.0 | A+ Tailor is a tailor in Coppell, TX. Phone: +19723930445. | https://dingalinged-cpu.github.io/registry/c/a-tailor-coppell/
-45. Alterations & Custom Designs | trust 10.0 | Alterations & Custom Designs is a tailor in Arlington, TX at 1021 South Bowen Road, Arlington, TX 76013. Phone: +18172773828. | https://dingalinged-cpu.github.io/registry/c/alterations-and-custom-designs-arlington/
-46. Amazing Alterations | trust 10.0 | Amazing Alterations is a tailor in Anoka, MN at 2665 4th Avenue #29, Anoka, MN 55303. Website: https://www.amazingalterations.com/. | https://dingalinged-cpu.github.io/registry/c/amazing-alterations-anoka/
-47. Expert Alteration | trust 10.0 | Expert Alteration is a tailor in Cedar Hill, TX. Phone: +14692729077. | https://dingalinged-cpu.github.io/registry/c/expert-alteration-cedar-hill/
-48. F.M. Tailor | trust 10.0 | F.M. Tailor is a tailor in Flower Mound, TX. Phone: +19728740633. | https://dingalinged-cpu.github.io/registry/c/f-m-tailor-flower-mound/
-49. Golden Thimble Tailor | trust 10.0 | Golden Thimble Tailor is a tailor in Addison, TX at 4536 Belt Line Road, Addison, TX 75001. Website: https://www.golden-thimble.com/. | https://dingalinged-cpu.github.io/registry/c/golden-thimble-tailor-addison/
-50. Hanshaw Custom Tailoring & Alterations | trust 10.0 | Hanshaw Custom Tailoring & Alterations is a tailor in Chicago, IL at 3748 North Broadway, Chicago, IL 60613. Phone: +17735499131. | https://dingalinged-cpu.github.io/registry/c/hanshaw-custom-tailoring-and-alterations-chicago/
+16. J Lancaster Clothing | trust 19.0 | J Lancaster Clothing is a tailor in Marietta, GA at 1225 Kasandra Drive Southeast, Marietta, GA. Phone: +17705097433. Website: https://jlancasterclothing.com/. | https://dingalinged-cpu.github.io/registry/c/j-lancaster-clothing-marietta/
+17. Lace Alterations | trust 19.0 | Lace Alterations is a tailor in Roswell, GA at Unit 140 408 South Atlanta Street, Roswell, GA 30075, Roswell, GA. Phone: +17706950958. Website: https://www.bridalalterationsatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/lace-alterations-roswell/
+18. Anna’s Custom Tailoring | trust 16.0 | Anna’s Custom Tailoring is a tailor in Milwaukee, WI. Phone: +14142249633. Website: https://annastailoring.com/. | https://dingalinged-cpu.github.io/registry/c/anna-s-custom-tailoring-milwaukee/
+19. Blest By Campuzano | trust 16.0 | Blest By Campuzano is a tailor in Milwaukee, WI at 2926 West Forest Home Avenue, Milwaukee, WI 53215. Phone: +14142266770. Website: https://blestbycampuzano.com/. | https://dingalinged-cpu.github.io/registry/c/blest-by-campuzano-milwaukee/
+20. Brandi's Bridal Galleria | trust 16.0 | Brandi's Bridal Galleria is a tailor in New Glarus, WI at 12 14th Avenue, New Glarus, WI 53574. Phone: +16085274436. Website: https://brandisbridal.com/. | https://dingalinged-cpu.github.io/registry/c/brandis-bridal-galleria-new-glarus/
+21. Edward Baumann Clothier's | trust 16.0 | Edward Baumann Clothier's is a tailor in Addison, TX at 4901 Arapaho Road, Addison, TX 75001. Phone: +19728955172. Website: https://edwardbaumann.com/. | https://dingalinged-cpu.github.io/registry/c/edward-baumann-clothiers-addison/
+22. Le Monde Tailors | trust 16.0 | Le Monde Tailors is a tailor in Saint Louis Park, MN at 8360 Minnesota State Highway 7, Saint Louis Park, MN 55426. Phone: +19529388422. Website: https://www.lemondetailors.com/. | https://dingalinged-cpu.github.io/registry/c/le-monde-tailors-saint-louis-park/
+23. Merriam Park Nails | trust 16.0 | Merriam Park Nails is a tailor in Saint Paul, MN at 1558 Selby Avenue, Saint Paul, MN 55104. Phone: +16516468409. Website: https://merriam-park-nails.edan.io/. | https://dingalinged-cpu.github.io/registry/c/merriam-park-nails-saint-paul/
+24. Ray's Alterations By Sylvia | trust 16.0 | Ray's Alterations By Sylvia is a tailor in Houston, TX at 11729 Airline Drive, Houston, TX 77037. Phone: +12814456288. Website: https://raysalterationsbysylvia.com/. | https://dingalinged-cpu.github.io/registry/c/rays-alterations-by-sylvia-houston/
+25. Sew Biz Tailoring | trust 16.0 | Sew Biz Tailoring is a tailor in Minneapolis, MN at 706 2nd Avenue South, Minneapolis, MN 55402. Phone: +16123326364. Website: https://sewbiztailoring.com/. | https://dingalinged-cpu.github.io/registry/c/sew-biz-tailoring-minneapolis/
+26. Tailor N' You | trust 16.0 | Tailor N' You is a tailor in Crystal, MN at 6414 Bass Lake Road, Crystal, MN 55428. Phone: +17635040904. Website: https://tailornyou.com/. | https://dingalinged-cpu.github.io/registry/c/tailor-n-you-crystal/
+27. Tailors On Blake | trust 16.0 | Tailors On Blake is a tailor in Saint Louis Park, MN at 5706 36th Street West, Saint Louis Park, MN 55416. Phone: +19529336585. Website: https://www.tailorsonblake.com/. | https://dingalinged-cpu.github.io/registry/c/tailors-on-blake-saint-louis-park/
+28. Golden Tailor | trust 15.0 | Golden Tailor is a tailor in Falcon Heights, MN at 1555 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16516460938. Website: https://www.thegoldentailor.com/. | https://dingalinged-cpu.github.io/registry/c/golden-tailor-falcon-heights/
+29. Ms Couture | trust 15.0 | Ms Couture is a tailor in Chicago, IL at 1739 North Clybourn Avenue, Chicago, IL. Phone: +13122807757. Website: https://mscouture.net/. | https://dingalinged-cpu.github.io/registry/c/ms-couture-chicago/
+30. Alterations by Lee | trust 14.0 | Alterations by Lee is a tailor in Marietta, GA at 1205 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709735156. | https://dingalinged-cpu.github.io/registry/c/alterations-by-lee-marietta/
+31. Eliot's Tailor Shop | trust 14.0 | Eliot's Tailor Shop is a tailor in Dallas, TX at 3564 Forest Lane, Dallas, TX 75234. Phone: +12143500449. | https://dingalinged-cpu.github.io/registry/c/eliots-tailor-shop-dallas/
+32. Garcia's Tailor Shop and Alterations | trust 14.0 | Garcia's Tailor Shop and Alterations is a tailor in Chicago, IL at 4314 North Lincoln Avenue, Chicago, IL 60625. Phone: +17733298960. | https://dingalinged-cpu.github.io/registry/c/garcias-tailor-shop-and-alterations-chicago/
+33. J. Hilburn Stylist Studio | trust 14.0 | J. Hilburn Stylist Studio is a tailor in Minneapolis, MN at 5047 France Avenue South, Minneapolis, MN 55410. Website: https://jennifershinners.jhilburn.com/. | https://dingalinged-cpu.github.io/registry/c/j-hilburn-stylist-studio-minneapolis/
+34. Kennesaw Alterations | trust 14.0 | Kennesaw Alterations is a tailor in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +17707959588. | https://dingalinged-cpu.github.io/registry/c/kennesaw-alterations-kennesaw/
+35. Magic Needle | trust 14.0 | Magic Needle is a tailor in Maple Grove, MN at 13694 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949499. | https://dingalinged-cpu.github.io/registry/c/magic-needle-maple-grove/
+36. MW Alterations | trust 14.0 | MW Alterations is a tailor in Menomonee Falls, WI at W186N9521 Bancroft Drive, Menomonee Falls, WI 53051. Website: https://mwalterations.com/. | https://dingalinged-cpu.github.io/registry/c/mw-alterations-menomonee-falls/
+37. N Tailor | trust 14.0 | N Tailor is a tailor in Rockwall, TX at 919 East Interstate 30 #113, Rockwall, TX 75087. Phone: +19727224828. | https://dingalinged-cpu.github.io/registry/c/n-tailor-rockwall/
+38. P'dia | trust 14.0 | P'dia is a tailor in Milwaukee, WI at 314 East Wisconsin Avenue, Milwaukee, WI 53202. Phone: +14142740143. | https://dingalinged-cpu.github.io/registry/c/pdia-milwaukee/
+39. Richfield Tailors | trust 14.0 | Richfield Tailors is a tailor in Bloomington, MN at 10582 France Avenue South, Bloomington, MN 55431. Phone: +16128392007. | https://dingalinged-cpu.github.io/registry/c/richfield-tailors-bloomington/
+40. Salous Men's Wear & Tailoring | trust 14.0 | Salous Men's Wear & Tailoring is a tailor in Milwaukee, WI at 3861 South 60th Street, Milwaukee, WI 53220. Phone: +14145450766. | https://dingalinged-cpu.github.io/registry/c/salous-mens-wear-and-tailoring-milwaukee/
+41. Seams | trust 14.0 | Seams is a tailor in Chicago, IL at 505 West Belden Avenue, Chicago, IL 60614. Phone: +17735497433. | https://dingalinged-cpu.github.io/registry/c/seams-chicago/
+42. Sew What! | trust 14.0 | Sew What! is a tailor in Saint Paul, MN at 1818 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516990381. | https://dingalinged-cpu.github.io/registry/c/sew-what-saint-paul/
+43. Sewing Place Alterations | trust 14.0 | Sewing Place Alterations is a tailor in Cobb County, GA at 2323 Shallowford Road Northeast #108, Cobb County, GA 30066. Phone: +17709263592. | https://dingalinged-cpu.github.io/registry/c/sewing-place-alterations-cobb-county/
+44. Tom's Tailor | trust 14.0 | Tom's Tailor is a tailor in Saint Paul, MN at 672 Grand Avenue, Saint Paul, MN 55105. Phone: +16512225953. | https://dingalinged-cpu.github.io/registry/c/toms-tailor-saint-paul/
+45. Alterations By Julie | trust 13.0 | Alterations By Julie is a tailor in Smyrna, GA at 2384 Cobb Parkway South, Smyrna, GA. Phone: +17708501422. | https://dingalinged-cpu.github.io/registry/c/alterations-by-julie-smyrna/
+46. Alterations By Natalia | trust 13.0 | Alterations By Natalia is a tailor in Roswell, GA at 4750 Alabama Road #102, Roswell, GA. Phone: +17705875063. | https://dingalinged-cpu.github.io/registry/c/alterations-by-natalia-roswell/
+47. Amy Tailor | trust 13.0 | Amy Tailor is a tailor in Sugar Land, TX at 3213 State Highway 6 South, Sugar Land, TX. Phone: +18327900252. | https://dingalinged-cpu.github.io/registry/c/amy-tailor-sugar-land/
+48. Beverly Alterations | trust 13.0 | Beverly Alterations is a tailor in Cobb County, GA at 2550 Sandy Plains Road Northeast #355, Cobb County, GA. Phone: +17709738406. | https://dingalinged-cpu.github.io/registry/c/beverly-alterations-cobb-county/
+49. Crest Tailor | trust 13.0 | Crest Tailor is a tailor in Dallas, TX at 6465 East Mockingbird Lane #368, Dallas, TX. Phone: +12148280777. | https://dingalinged-cpu.github.io/registry/c/crest-tailor-dallas/
+50. Jane's Tailor | trust 13.0 | Jane's Tailor is a tailor in Irving, TX at 7447 North MacArthur Boulevard #110, Irving, TX. Phone: +19723730900. | https://dingalinged-cpu.github.io/registry/c/janes-tailor-irving/
 
-## More tailor listings (171 total; top 50 unpaid shown)
+## More tailor listings (209 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/tailor.jsonl
 - Chicago, IL: 18 listings: https://dingalinged-cpu.github.io/registry/k/tailor-chicago-il/
 - Houston, TX: 18 listings: https://dingalinged-cpu.github.io/registry/k/tailor-houston-tx/
 - Dallas, TX: 12 listings: https://dingalinged-cpu.github.io/registry/k/tailor-dallas-tx/
 - Minneapolis, MN: 10 listings: https://dingalinged-cpu.github.io/registry/k/tailor-minneapolis-mn/
 - Saint Paul, MN: 10 listings: https://dingalinged-cpu.github.io/registry/k/tailor-saint-paul-mn/
+- Marietta, GA: 7 listings: https://dingalinged-cpu.github.io/registry/k/tailor-marietta-ga/
 - Harris County, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/tailor-harris-county-tx/
+- Roswell, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/tailor-roswell-ga/
+- Cobb County, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/tailor-cobb-county-ga/
 - Milwaukee, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/tailor-milwaukee-wi/
+- Madison, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/tailor-madison-wi/
 - Saint Louis Park, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/tailor-saint-louis-park-mn/
 - Flower Mound, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/tailor-flower-mound-tx/
 - Irving, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/tailor-irving-tx/
@@ -85,6 +89,9 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Richardson, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/tailor-richardson-tx/
 - Allen, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/tailor-allen-tx/
 - Rockwall, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/tailor-rockwall-tx/
+- Smyrna, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/tailor-smyrna-ga/
+- Atlanta, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/tailor-atlanta-ga/
+- Kennesaw, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/tailor-kennesaw-ga/
 - Wauwatosa, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/tailor-wauwatosa-wi/
 - Anoka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-anoka-mn/
 - Eden Prairie, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-eden-prairie-mn/
@@ -117,6 +124,13 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Mckinney, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-mckinney-tx/
 - Mansfield, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-mansfield-tx/
 - Carrollton, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-carrollton-tx/
+- Lilburn, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-lilburn-ga/
+- Forsyth County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-forsyth-county-ga/
+- Alpharetta, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-alpharetta-ga/
+- Johns Creek, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-johns-creek-ga/
+- Morrow, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-morrow-ga/
+- Gwinnett County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-gwinnett-county-ga/
+- New Glarus, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-new-glarus-wi/
 - Franklin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-franklin-wi/
 - Mount Pleasant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-mount-pleasant-wi/
 - New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/tailor-new-berlin-wi/
@@ -129,7 +143,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 171
+- Registry businesses competing: 209
 - Equivalent Google Ads cost per month: ~$62,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

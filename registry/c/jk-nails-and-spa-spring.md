@@ -13,6 +13,7 @@ JK Nails & Spa is a nail salon in Spring, TX at 21346 Kuykendahl Road #C, Spring
 - Website: https://jknailsandspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo closed; Tu-Sa 09:00-19:00; Su 10:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

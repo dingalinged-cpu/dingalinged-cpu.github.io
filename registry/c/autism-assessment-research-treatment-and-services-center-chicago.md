@@ -13,6 +13,7 @@ Autism Assessment, Research, Treatment & Services Center is a therapy practice i
 - Website: https://www.rush.edu/locations/autism-assessment-research-treatment-services-aarts-center
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

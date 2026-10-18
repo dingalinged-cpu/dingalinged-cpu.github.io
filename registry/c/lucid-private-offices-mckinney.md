@@ -13,6 +13,7 @@ Lucid Private Offices is a coworking space in McKinney, TX at 7300 State Highway
 - Website: https://www.lucidprivateoffices.com/texas/mckinney/7300-state-highway-121/
 - Email: workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

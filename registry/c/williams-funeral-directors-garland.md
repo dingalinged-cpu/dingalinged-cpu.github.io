@@ -13,6 +13,7 @@ Williams Funeral Directors is a funeral home in Garland, TX at 1600 South Garlan
 - Website: https://www.williamsfuneral.com/
 - Email: webquestions@williamsfuneral.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

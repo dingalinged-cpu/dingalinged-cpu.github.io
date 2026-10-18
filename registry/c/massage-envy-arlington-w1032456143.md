@@ -13,6 +13,7 @@ Massage Envy is a massage studio in Arlington, TX at 3900 Arlington Highlands Bl
 - Website: https://www.massageenvy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-22:00; Su 09:00-21:00
+- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

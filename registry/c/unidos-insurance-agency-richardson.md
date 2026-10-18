@@ -13,6 +13,7 @@ Unidos Insurance Agency is an insurance agent in Richardson, TX at 200 North Coi
 - Website: https://customers.empowerins.com/Insurance/Auto/Contact-Us/tx/richardson/unidos-insurance-agency-llc/27976
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-14:00
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

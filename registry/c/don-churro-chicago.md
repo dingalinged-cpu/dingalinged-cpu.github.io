@@ -13,6 +13,7 @@ Don Churro is a bakery in Chicago, IL at 1626 South Blue Island Avenue, Chicago,
 - Website: https://www.don-churro.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

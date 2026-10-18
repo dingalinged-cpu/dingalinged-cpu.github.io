@@ -13,6 +13,7 @@ Pines Federal is a lawyer in Houston, TX at 10101 Fondren Road #575, Houston, TX
 - Website: https://www.pinesfederal.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr,Su 00:00-24:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

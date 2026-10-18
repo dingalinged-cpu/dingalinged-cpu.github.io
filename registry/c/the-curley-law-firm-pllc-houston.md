@@ -13,6 +13,7 @@ The Curley Law Firm PLLC is a lawyer in Houston, TX at 201 West 16th Street #A, 
 - Website: https://curleybusinesslaw.com/
 - Email: info@thecurleylawfirm.com
 - Opening hours (OSM syntax): Mo-Su 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

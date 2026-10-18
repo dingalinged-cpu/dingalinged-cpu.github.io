@@ -13,6 +13,7 @@ Aspen Dental is a dentist in Merrillville, IN at 6 West 81st Avenue, Merrillvill
 - Website: https://www.aspendental.com/dentist/in/merrillville/6-w-lincoln-hwy
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 46/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

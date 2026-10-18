@@ -13,6 +13,7 @@ Assistance League of the Bay is a thrift store in Webster, TX at 100 NASA Parkwa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

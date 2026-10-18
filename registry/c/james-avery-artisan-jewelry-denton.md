@@ -13,6 +13,7 @@ James Avery Artisan Jewelry is a jewelry store in Denton, TX at 2500 West Univer
 - Website: https://www.jamesavery.com/store-details?store=095
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
+- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Family Thrift Outlett is a thrift store in Plano, TX at 2430 K Avenue, Plano, TX
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 09:00-21:00, We 09:00-11:30, Th 07:00-21:00, Fr-Sa 09:00-21:00, Su 12:00-18:00
+- Registry Score: 56.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

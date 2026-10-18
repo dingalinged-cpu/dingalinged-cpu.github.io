@@ -22,6 +22,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/acworth-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/addison-il.jsonl",
    "format": "jsonl"
   },
@@ -39,6 +43,10 @@
   },
   {
    "path": "city/allen-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/alpharetta-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -78,11 +86,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/arlington-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/atascocita-tx.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/atlanta-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/aubrey-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/austell-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/avondale-estates-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -114,6 +138,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/bartow-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bayside-wi.jsonl",
    "format": "jsonl"
   },
@@ -134,6 +162,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/belleville-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bellwood-il.jsonl",
    "format": "jsonl"
   },
@@ -146,11 +178,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/berkeley-lake-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/berwyn-il.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/black-earth-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/blaine-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/blooming-grove-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -194,11 +238,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/brookhaven-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/brooklyn-center-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/brooklyn-park-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/brooklyn-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -254,6 +306,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/cambridge-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/carol-stream-il.jsonl",
    "format": "jsonl"
   },
@@ -278,6 +334,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/chamblee-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/champlin-mn.jsonl",
    "format": "jsonl"
   },
@@ -291,6 +351,14 @@
   },
   {
    "path": "city/chaska-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/chattahoochee-hills-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cherokee-county-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -322,6 +390,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/clarkston-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/clayton-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/clear-lake-shores-tx.jsonl",
    "format": "jsonl"
   },
@@ -330,7 +406,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/cobb-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/college-park-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/colleyville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/collin-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -342,7 +430,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/columbus-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/conroe-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/conyers-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -367,6 +463,10 @@
   },
   {
    "path": "city/countryside-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/coweta-county-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -406,6 +506,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/cumming-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/cut-and-shoot-tx.jsonl",
    "format": "jsonl"
   },
@@ -414,11 +518,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/dallas-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dallas-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/dallas-tx.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/dalworthington-gardens-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dane-county-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -434,6 +550,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/decatur-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/deer-park-il.jsonl",
    "format": "jsonl"
   },
@@ -443,6 +563,18 @@
   },
   {
    "path": "city/deerfield-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/deforest-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dekalb-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/denton-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -474,7 +606,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/doraville-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/double-oak-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/douglas-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/douglasville-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -482,7 +626,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/duluth-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/duncanville-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dunwoody-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/dupage-county-il.jsonl",
    "format": "jsonl"
   },
   {
@@ -506,7 +662,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/east-point-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/eden-prairie-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/edgerton-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -523,6 +687,10 @@
   },
   {
    "path": "city/elk-grove-village-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/ellis-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -554,11 +722,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/evansville-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/evergreen-park-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/excelsior-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fairburn-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -574,6 +750,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/fall-river-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/farmers-branch-tx.jsonl",
    "format": "jsonl"
   },
@@ -586,7 +766,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/fayette-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fayetteville-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ferris-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fitchburg-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -602,6 +794,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/forest-park-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/forest-park-il.jsonl",
    "format": "jsonl"
   },
@@ -611,6 +807,10 @@
   },
   {
    "path": "city/forney-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/forsyth-county-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -655,6 +855,10 @@
   },
   {
    "path": "city/fulshear-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/fulton-county-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -746,6 +950,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/gwinnett-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/hales-corners-wi.jsonl",
    "format": "jsonl"
   },
@@ -763,6 +971,10 @@
   },
   {
    "path": "city/hanover-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/hapeville-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -799,6 +1011,10 @@
   },
   {
    "path": "city/hempstead-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/henry-county-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -842,6 +1058,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/hiram-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/hitchcock-tx.jsonl",
    "format": "jsonl"
   },
@@ -859,6 +1079,10 @@
   },
   {
    "path": "city/hoffman-estates-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/holly-springs-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -938,7 +1162,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/johns-creek-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/joliet-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/jonesboro-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -947,6 +1179,10 @@
   },
   {
    "path": "city/katy-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kaufman-county-tx.jsonl",
    "format": "jsonl"
   },
   {
@@ -971,6 +1207,10 @@
   },
   {
    "path": "city/kennedale-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kennesaw-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1006,6 +1246,18 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lake-city-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lake-county-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lake-county-in.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lake-dallas-tx.jsonl",
    "format": "jsonl"
   },
@@ -1038,6 +1290,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lawrenceville-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/league-city-tx.jsonl",
    "format": "jsonl"
   },
@@ -1066,6 +1322,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lilburn-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lilydale-mn.jsonl",
    "format": "jsonl"
   },
@@ -1086,6 +1346,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lithia-springs-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lithonia-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/little-canada-mn.jsonl",
    "format": "jsonl"
   },
@@ -1095,6 +1363,10 @@
   },
   {
    "path": "city/lockport-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lodi-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1114,6 +1386,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lovejoy-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lucas-tx.jsonl",
    "format": "jsonl"
   },
@@ -1127,6 +1403,14 @@
   },
   {
    "path": "city/lyons-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mableton-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/madison-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1154,6 +1438,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/maple-bluff-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/maple-grove-mn.jsonl",
    "format": "jsonl"
   },
@@ -1166,7 +1454,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/mareitta-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/marietta-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/markham-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/marshall-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1178,7 +1478,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/mazomanie-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/mccook-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mcdonough-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mcfarland-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1230,11 +1542,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/middleton-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/midlothian-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/midlothian-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/milton-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1270,6 +1590,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/monona-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/mont-belvieu-tx.jsonl",
    "format": "jsonl"
   },
@@ -1282,6 +1606,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/monticello-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/morrow-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/morton-grove-il.jsonl",
    "format": "jsonl"
   },
@@ -1291,6 +1623,10 @@
   },
   {
    "path": "city/mounds-view-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mount-horeb-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1346,6 +1682,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/new-glarus-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/new-hope-mn.jsonl",
    "format": "jsonl"
   },
@@ -1358,11 +1698,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/newnan-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/newport-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/niles-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/norcross-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1450,6 +1798,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/oregon-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/orland-hills-il.jsonl",
    "format": "jsonl"
   },
@@ -1471,6 +1823,10 @@
   },
   {
    "path": "city/palmer-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/palmetto-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1499,6 +1855,18 @@
   },
   {
    "path": "city/pasadena-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/paulding-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/peachtree-city-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/peachtree-corners-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1543,6 +1911,10 @@
   },
   {
    "path": "city/posen-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/powder-springs-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1610,6 +1982,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/riverdale-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/riverdale-il.jsonl",
    "format": "jsonl"
   },
@@ -1635,6 +2011,10 @@
   },
   {
    "path": "city/rochester-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/rockdale-county-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1686,6 +2066,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/roswell-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/rowlett-tx.jsonl",
    "format": "jsonl"
   },
@@ -1730,7 +2114,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/sandy-springs-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/santa-fe-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/sauk-city-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1754,6 +2146,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/scottdale-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/seabrook-tx.jsonl",
    "format": "jsonl"
   },
@@ -1770,11 +2166,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/sharpsburg-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/shenandoah-tx.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/shoreview-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/shorewood-hills-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1798,11 +2202,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/smyrna-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/snellville-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/south-barrington-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/south-chicago-heights-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/south-fulton-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1870,7 +2286,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/stockbridge-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/stone-mountain-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/stone-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/stonecrest-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/stoughton-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1882,6 +2314,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/sugar-hill-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/sugar-land-tx.jsonl",
    "format": "jsonl"
   },
@@ -1890,11 +2326,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/sun-prairie-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/sunnyvale-tx.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/sussex-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/suwanee-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1934,7 +2378,31 @@
    "format": "jsonl"
   },
   {
+   "path": "city/town-of-albany-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-arlington-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-baraboo-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-black-earth-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-blue-mounds-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/town-of-brookfield-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-burke-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1942,7 +2410,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/town-of-columbus-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-cottage-grove-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/town-of-dover-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-dunn-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-fulton-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1950,11 +2434,51 @@
    "format": "jsonl"
   },
   {
+   "path": "city/town-of-magnolia-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-middleton-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-montrose-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/town-of-norway-wi.jsonl",
    "format": "jsonl"
   },
   {
+   "path": "city/town-of-oregon-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/town-of-polk-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-prairie-du-sac-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-rutland-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-springdale-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-springfield-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-union-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/town-of-verona-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -1967,6 +2491,18 @@
   },
   {
    "path": "city/trophy-club-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/tucker-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/tyrone-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/union-city-ga.jsonl",
    "format": "jsonl"
   },
   {
@@ -1994,11 +2530,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/verona-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/victoria-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/villa-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/village-of-cottage-grove-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/village-of-cross-plains-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -2011,6 +2559,10 @@
   },
   {
    "path": "city/village-of-pewaukee-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/village-of-prairie-du-sac-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -2046,11 +2598,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/waterloo-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/wauconda-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/waukesha-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/waunakee-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -2142,6 +2702,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/will-county-il.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/willow-springs-il.jsonl",
    "format": "jsonl"
   },
@@ -2151,6 +2715,10 @@
   },
   {
    "path": "city/wilmette-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/windsor-wi.jsonl",
    "format": "jsonl"
   },
   {
@@ -2179,6 +2747,10 @@
   },
   {
    "path": "city/woodridge-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/woodstock-ga.jsonl",
    "format": "jsonl"
   },
   {

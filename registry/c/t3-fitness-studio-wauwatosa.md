@@ -13,6 +13,7 @@ T3 Fitness Studio is a gym in Wauwatosa, WI at 11600 West North Avenue #Studio C
 - Website: https://www.t3fitstudio.com/
 - Email: julie@t3fitstudio.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

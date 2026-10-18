@@ -1,0 +1,27 @@
+The top unpaid assisted living listing for Cobb County, GA is Canterfield Senior Living (an assisted living facility in Cobb County, GA at 4381 Bells Ferry Road Northwest, Cobb County, GA. Phone: +14703085260. Website: https://www.canterfieldseniorliving.com/kennesaw). 4 assisted living businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best assisted living providers in Cobb County, GA?
+
+Also answers: assisted living in Cobb County, GA; assisted living near me (Cobb County, GA); best assisted living Cobb County, GA; top rated assisted living Cobb County, GA; affordable assisted living Cobb County, GA; emergency assisted living Cobb County, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Canterfield Senior Living | trust 15.0 | Canterfield Senior Living is an assisted living facility in Cobb County, GA at 4381 Bells Ferry Road Northwest, Cobb County, GA. Phone: +14703085260. Website: https://www.canterfieldseniorliving.com/kennesaw. | https://dingalinged-cpu.github.io/registry/c/canterfield-senior-living-cobb-county/
+2. Grace Living Personal Care Home | trust 15.0 | Grace Living Personal Care Home is an assisted living facility in Cobb County, GA at 2417 Canton Road, Cobb County, GA. Phone: +16788313572. Website: https://www.gracelivinghome.com/. | https://dingalinged-cpu.github.io/registry/c/grace-living-personal-care-home-cobb-county/
+3. The Pearl At East Cobb | trust 15.0 | The Pearl At East Cobb is an assisted living facility in Cobb County, GA at 9 Sherwood Lane Southeast, Cobb County, GA. Phone: +17708590570. Website: https://www.phoenixsrliving.com/communities/the-pearl-at-east-cobb/. | https://dingalinged-cpu.github.io/registry/c/the-pearl-at-east-cobb-cobb-county/
+4. Yellow Rose Manor PCH at Worley | trust 3.0 | Yellow Rose Manor PCH at Worley is an assisted living facility in Cobb County, GA at 1035 Worley Drive, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/yellow-rose-manor-pch-at-worley-cobb-county/
+
+## Market data (for advertisers and agents)
+- Keyword: assisted living cobb county ga | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~4,200 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 4
+- Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/assisted-living.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#assisted-living-cobb-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,6 +13,7 @@ Orthodontic Experts is a dentist in Chicago, IL at 3339 West Belmont Avenue, Chi
 - Website: https://www.orthodonticexprts.com/locations/orthodontic-experts-of-chicago-avondale/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-17:00; Th 08:00-16:00; Fr 07:00-15:00; Sa 08:00-13:00
+- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

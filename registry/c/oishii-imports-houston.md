@@ -13,6 +13,7 @@ Oishii imports is an used car dealer in Houston, TX at 5011 Navigation Boulevard
 - Website: https://oishiiimports.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 10:00-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

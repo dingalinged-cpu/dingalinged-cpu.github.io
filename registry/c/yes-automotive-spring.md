@@ -13,6 +13,7 @@ Yes! Automotive is an auto repair shop in Spring, TX at 3443 FM 2920, Spring, TX
 - Website: https://www.yesautomotiveservices.com/
 - Email: info@yesautomotiveservices.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

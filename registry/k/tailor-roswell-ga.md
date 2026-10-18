@@ -1,0 +1,29 @@
+The top unpaid tailor listing for Roswell, GA is Lace Alterations (a tailor in Roswell, GA at Unit 140 408 South Atlanta Street, Roswell, GA 30075, Roswell, GA. Phone: +17706950958. Website: https://www.bridalalterationsatlanta.com/). 6 tailor businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tailor providers in Roswell, GA?
+
+Also answers: tailor in Roswell, GA; tailor near me (Roswell, GA); best tailor Roswell, GA; top rated tailor Roswell, GA; affordable tailor Roswell, GA; emergency tailor Roswell, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Lace Alterations | trust 19.0 | Lace Alterations is a tailor in Roswell, GA at Unit 140 408 South Atlanta Street, Roswell, GA 30075, Roswell, GA. Phone: +17706950958. Website: https://www.bridalalterationsatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/lace-alterations-roswell/
+2. Alterations By Natalia | trust 13.0 | Alterations By Natalia is a tailor in Roswell, GA at 4750 Alabama Road #102, Roswell, GA. Phone: +17705875063. | https://dingalinged-cpu.github.io/registry/c/alterations-by-natalia-roswell/
+3. Classic Tailor | trust 10.0 | Classic Tailor is a tailor in Roswell, GA at 10800 Alpharetta Highway #Suite 204, Roswell, GA 30076. Phone: +17706421400. | https://dingalinged-cpu.github.io/registry/c/classic-tailor-roswell/
+4. Chantelia Sewing & Alterations | trust 4.0 | Chantelia Sewing & Alterations is a tailor in Roswell, GA at 770 Old Roswell Place #A-200, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/chantelia-sewing-and-alterations-roswell/
+5. Alterations | trust 0.0 | Alterations is a tailor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/alterations-roswell/
+6. Lee's Tailors | trust 0.0 | Lee's Tailors is a tailor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/lees-tailors-roswell/
+
+## Market data (for advertisers and agents)
+- Keyword: tailor roswell ga | category: Professional & financial services | industry benchmark: Finance & Insurance
+- US monthly searches: 220,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 150,000-370,000)
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~4,200 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 6
+- Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tailor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tailor-roswell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

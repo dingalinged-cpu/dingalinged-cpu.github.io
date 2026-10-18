@@ -13,6 +13,7 @@ Affordable Self Storage is a self-storage facility in Denton, TX at 1239 Teasley
 - Website: https://www.affordableselfstoragetexas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Donna Jewelry is a jewelry store in Houston, TX at 650 West Bough Lane #136, Hou
 - Website: https://donnajewelryllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:30; Sa 10:00-17:00; Su closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

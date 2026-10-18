@@ -13,6 +13,7 @@ Spec's Liqours is a liquor store in Houston, TX at 12901 Queensbury Lane, Housto
 - Website: https://www.specsonline.com/cgi-bin/showmap?store=49
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

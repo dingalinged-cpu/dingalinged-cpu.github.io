@@ -13,6 +13,7 @@ Red Star Bicycles is a bike shop in Dallas, TX. Phone: +19729134884.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-18:30
+- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

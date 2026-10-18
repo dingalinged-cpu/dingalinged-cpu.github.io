@@ -13,6 +13,7 @@ Grandeur Nail is a nail salon in Saint Paul, MN at 760 Grand Avenue, Saint Paul,
 - Website: https://grandeurnail.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00,09:00-18:00; Su off
+- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

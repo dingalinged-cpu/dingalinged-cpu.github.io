@@ -13,6 +13,7 @@ Pet Supplies Plus is a pet store in Bloomington, MN at 3701 West Old Shakopee Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Registry Score: 45.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

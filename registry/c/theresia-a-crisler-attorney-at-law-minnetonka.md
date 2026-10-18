@@ -13,6 +13,7 @@ Theresia A. Crisler Attorney At Law is a lawyer in Minnetonka, MN at 10925 Wayza
 - Website: https://tacrislerfamilyandprobatelaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:30
+- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

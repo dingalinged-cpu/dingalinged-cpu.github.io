@@ -13,6 +13,7 @@ State Farm is an insurance agent in Minneapolis, MN at 5007 France Avenue South 
 - Website: https://agents.farmers.com/mn/minneapolis/darren-burch/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 44.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

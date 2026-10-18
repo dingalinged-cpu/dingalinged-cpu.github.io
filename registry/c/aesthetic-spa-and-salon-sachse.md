@@ -13,6 +13,7 @@ Aesthetic Spa & Salon is a nail salon in Sachse, TX at 5250 State Highway 78 #60
 - Website: https://www.aestheticsalonandspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,We,Th,Fr 10:30-18:30; Sa 10:00-18:00; Su 12:00-18:00
+- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

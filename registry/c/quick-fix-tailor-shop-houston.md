@@ -13,6 +13,7 @@ Quick Fix Tailor Shop is a tailor in Houston, TX at 3912 North Shepherd Drive, H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:08-17:00; Su 10:00-16:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

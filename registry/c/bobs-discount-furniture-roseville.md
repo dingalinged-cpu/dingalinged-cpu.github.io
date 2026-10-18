@@ -13,6 +13,7 @@ Bob's Discount Furniture is a furniture store in Roseville, MN at 2401 Fairview 
 - Website: https://www.mybobs.com/store/minnesota/roseville-mn
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-19:00; Mo-Sa 10:00-20:00
+- Registry Score: 50.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

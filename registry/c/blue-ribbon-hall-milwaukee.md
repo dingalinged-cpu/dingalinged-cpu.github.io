@@ -13,6 +13,7 @@ Blue Ribbon Hall is an event venue in Milwaukee, WI. Website: https://bestplacem
 - Website: https://bestplacemilwaukee.com/index.php/rentals
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

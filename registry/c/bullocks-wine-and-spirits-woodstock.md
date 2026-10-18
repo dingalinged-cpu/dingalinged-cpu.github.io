@@ -1,0 +1,24 @@
+Bullock's Wine & Spirits is a liquor store in Woodstock, GA at 1050 Buckhead Crossing, Woodstock, GA 30189. Phone: +16784455222.
+
+# Bullock's Wine & Spirits
+
+- Category: liquor store
+- Services: liquor store
+- Address: 1050 Buckhead Crossing, Woodstock, GA 30189
+- City: Woodstock
+- State: GA
+- ZIP: 30189
+- Coordinates: 34.1057682, -84.5408448
+- Phone: +16784455222
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 08:00-23:00; Fr-Sa 08:00-23:45; Su 12:30-22:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bullocks-wine-and-spirits-woodstock/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bullocks-wine-and-spirits-woodstock.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/476978370 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

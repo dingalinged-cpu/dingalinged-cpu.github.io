@@ -1,0 +1,24 @@
+Buck's Barber Shop is a barber shop in Dallas, GA at 8876 Dallas Acworth Highway, Dallas, GA 30132. Website: https://bucksbarbershop.com/.
+
+# Buck's Barber Shop
+
+- Category: barber shop
+- Services: barber shop, haircut
+- Address: 8876 Dallas Acworth Highway, Dallas, GA 30132
+- City: Dallas
+- State: GA
+- ZIP: 30132
+- Coordinates: 34.0102776, -84.7527464
+- Phone: n/a
+- Website: https://bucksbarbershop.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/bucks-barber-shop-dallas/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bucks-barber-shop-dallas.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13246039637 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

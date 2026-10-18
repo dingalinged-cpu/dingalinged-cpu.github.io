@@ -13,6 +13,7 @@ Edward Jones is a financial advisor in Hurst, TX at 1222 W Hurst Boulevard #500,
 - Website: https://www.edwardjones.com/financial-advisor/index.html?CIRN=OPI8NBq8fk2jTTdk8coX4IEpFiNxBo%2F07PZQ7tdHpw3vlJd57DVzTGPB8zd%2BJhUV
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
+- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

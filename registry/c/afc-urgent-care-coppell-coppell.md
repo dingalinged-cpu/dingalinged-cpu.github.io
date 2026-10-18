@@ -13,6 +13,7 @@ AFC Urgent Care Coppell is a family medicine practice in Coppell, TX at 760 Nort
 - Website: https://www.afcurgentcare.com/coppell/
 - Email: afccoppell@afcurgentcare.com
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
+- Registry Score: 48.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

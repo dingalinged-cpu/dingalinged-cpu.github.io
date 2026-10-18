@@ -13,6 +13,7 @@ Planet Fitness is a gym in Deerfield, IL at 35 North Waukegan Road, Deerfield, I
 - Website: https://www.planetfitness.com/gyms/deerfield-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 46.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

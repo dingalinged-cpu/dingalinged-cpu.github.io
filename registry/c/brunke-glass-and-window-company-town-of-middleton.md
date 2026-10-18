@@ -1,0 +1,24 @@
+Brunke Glass and Window Company is a window repair service in Town of Middleton, WI.
+
+# Brunke Glass and Window Company
+
+- Category: window repair
+- Services: window repair
+- Address: Town of Middleton, WI
+- City: Town of Middleton
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0505881, -89.49828
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/brunke-glass-and-window-company-town-of-middleton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brunke-glass-and-window-company-town-of-middleton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/319286904 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

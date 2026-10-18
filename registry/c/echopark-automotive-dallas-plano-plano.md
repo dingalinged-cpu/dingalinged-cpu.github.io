@@ -13,6 +13,7 @@ EchoPark Automotive Dallas (Plano) is an used car dealer in Plano, TX at 4400 We
 - Website: https://www.echopark.com/dealerships/plano.htm
 - Email: inquiry@EchoPark.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su off
+- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

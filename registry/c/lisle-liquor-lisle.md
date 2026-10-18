@@ -13,6 +13,7 @@ Lisle Liquor is a liquor store in Lisle, IL at 1045 Burlington Ave #1, Lisle, IL
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Th-Sa 10:00-23:00; Su 10:00-21:00; Mo-We 10:00-22:00
+- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

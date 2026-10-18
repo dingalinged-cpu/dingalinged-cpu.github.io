@@ -13,6 +13,7 @@ McKinsey & Company is a business consultant in Minneapolis, MN. Phone: +16123713
 - Website: https://www.mckinsey.com/midwest/minneapolis
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 41.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

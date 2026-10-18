@@ -13,6 +13,7 @@ Freewheel Bike is a bike shop in Minneapolis, MN at 750 Southeast 9th Street, Mi
 - Website: https://www.freewheelbike.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00
+- Registry Score: 50.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

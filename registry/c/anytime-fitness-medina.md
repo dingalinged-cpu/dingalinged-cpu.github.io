@@ -13,6 +13,7 @@ Anytime Fitness is a gym in Medina, MN at 5145 County Road 101 #1010, Medina, MN
 - Website: https://www.anytimefitness.com/gyms/795/medina-mn-55340/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

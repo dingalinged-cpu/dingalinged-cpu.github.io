@@ -13,6 +13,7 @@ Ulta Beauty is a skin care studio in Menomonee Falls, WI at N91W16051 Falls Park
 - Website: https://www.ulta.com/stores/menomonee-falls-wi-1200
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+- Registry Score: 47.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

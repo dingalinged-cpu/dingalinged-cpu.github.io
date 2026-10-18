@@ -13,6 +13,7 @@ Glynnis Neal at Pura Vida Salon is a hair salon in Dallas, TX at 3324 McKinney A
 - Website: https://glynnis-neal-in-dallas.square.site/
 - Email: glynnis_neal@yahoo.com
 - Opening hours (OSM syntax): Mo 10:00-20:30; Tu-Fr 10:00-20:00; Sa-Su 09:00-20:00
+- Registry Score: 67.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

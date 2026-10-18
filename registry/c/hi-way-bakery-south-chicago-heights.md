@@ -13,6 +13,7 @@ Hi-Way Bakery is a bakery in South Chicago Heights, IL at 2633 Chicago Road, Sou
 - Website: https://www.hiwaybakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ TwinTown Fitness is a gym in Minneapolis, MN at 723 West 26th Street, Minneapoli
 - Website: https://twintownfitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ El Tapatio Auto Sales is an used car dealer in Milwaukee, WI at 2606 West Greenf
 - Website: n/a
 - Email: eltapatio007@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:30; Sa 09:00-15:30
+- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

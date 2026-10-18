@@ -13,6 +13,7 @@ Metrocrest Funeral Home is a funeral home in Carrollton, TX at 1810 Perry Road, 
 - Website: https://www.dignitymemorial.com/funeral-homes/carrollton-tx/metrocrest-funeral-home/9657
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

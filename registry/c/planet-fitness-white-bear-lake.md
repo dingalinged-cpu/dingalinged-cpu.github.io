@@ -13,6 +13,7 @@ Planet Fitness is a gym in White Bear Lake, MN at 1930 Buerkle Road, White Bear 
 - Website: https://www.planetfitness.com/gyms/white-bear-lake-mn
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

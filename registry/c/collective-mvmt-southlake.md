@@ -13,6 +13,7 @@ Collective MVMT is a gym in Southlake, TX at 2251 East Southlake Boulevard #100,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 05:15-14:30,18:00-19:30; Mo,We 06:30-13:30,17:00-19:30; Fr 08:30-14:30; Sa 09:00-12:30; Su 09:00-11:30
+- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

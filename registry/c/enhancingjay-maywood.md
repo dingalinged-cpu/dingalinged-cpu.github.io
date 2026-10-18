@@ -13,6 +13,7 @@ EnhancingJay is a barber shop in Maywood, IL at 1200 South 17th Avenue, Maywood,
 - Website: https://enhancingjay.square.site/
 - Email: jaywile18@gmail.com
 - Opening hours (OSM syntax): Sa 09:00-20:00; Su-Fr 09:00-17:00
+- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

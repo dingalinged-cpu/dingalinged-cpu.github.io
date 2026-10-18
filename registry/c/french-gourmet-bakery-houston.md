@@ -13,6 +13,7 @@ French Gourmet Bakery is a bakery in Houston, TX at 2250 Westheimer Road, Housto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 07:30-15:00; Sa 08:00-15:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

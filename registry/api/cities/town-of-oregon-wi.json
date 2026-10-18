@@ -1,0 +1,49 @@
+{
+ "place": "Town Of Oregon, WI",
+ "slug": "town-of-oregon-wi",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "vet town of oregon wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-town-of-oregon-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "country-view-veterinary-service-oregon",
+   "name": "Country View Veterinary Service",
+   "summary": "Country View Veterinary Service is a veterinarian in Oregon, WI at 1350 South Fish Hatchery Road, Oregon, WI 53575. Website: https://countryviewvets.com/oregon/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/country-view-veterinary-service-oregon/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/country-view-veterinary-service-oregon.json",
+   "address": {
+    "streetAddress": "1350 South Fish Hatchery Road",
+    "addressLocality": "Oregon",
+    "addressRegion": "WI",
+    "postalCode": "53575",
+    "addressCountry": "US"
+   },
+   "city": "Oregon",
+   "state": "WI",
+   "zip": "53575",
+   "geo": {
+    "lat": 42.9281398,
+    "lon": -89.4369318
+   },
+   "website": "https://countryviewvets.com/oregon/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/682178847",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

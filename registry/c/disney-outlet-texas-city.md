@@ -13,6 +13,7 @@ Disney Outlet is a gift shop in Texas City, TX at 5885 Gulf Freeway #735, Texas 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 11:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

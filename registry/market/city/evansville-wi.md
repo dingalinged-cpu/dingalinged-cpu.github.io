@@ -1,0 +1,58 @@
+Keyword market for Evansville, WI: 29 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Madison, WI metro (US volume x population share).
+
+# Top keywords in Evansville, WI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash evansville wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-evansville-wi/
+2. dentist evansville wi | searches/mo 3,800 (est) | CPC $4.70 | value $18,000 | Google Ads equiv $970/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-evansville-wi/
+3. hair salon evansville wi | searches/mo 3,100 (est) | CPC $0.55 | value $1,700 | Google Ads equiv $97.00/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/hair-salon-evansville-wi/
+4. mechanic evansville wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-evansville-wi/
+5. vet evansville wi | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-evansville-wi/
+6. dog groomer evansville wi | searches/mo 930 (est) | CPC $4.06 | value $3,800 | Google Ads equiv $250/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-evansville-wi/
+7. haircut evansville wi | searches/mo 760 (est) | CPC $4.62 | value $3,500 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-evansville-wi/
+8. auto repair evansville wi | searches/mo 620 (est) | CPC $4.35 | value $2,700 | Google Ads equiv $150/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-evansville-wi/
+9. chiropractor evansville wi | searches/mo 510 (est) | CPC $4.76 | value $2,400 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-evansville-wi/
+10. dog boarding evansville wi | searches/mo 510 (est) | CPC $4.06 | value $2,100 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-evansville-wi/
+11. real estate agent evansville wi | searches/mo 420 (est) | CPC $3.61 | value $1,500 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-evansville-wi/
+12. insurance agency evansville wi | searches/mo 190 (est) | CPC $3.39 | value $640 | Google Ads equiv $54.00/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-evansville-wi/
+13. realtor evansville wi | searches/mo 190 (est) | CPC $3.70 | value $700 | Google Ads equiv $59.00/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/realtor-evansville-wi/
+14. yoga classes evansville wi | searches/mo 150 (est) | CPC $1.78 | value $270 | Google Ads equiv $19.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/yoga-classes-evansville-wi/
+15. auto body shop evansville wi | searches/mo 130 (est) | CPC $4.35 | value $570 | Google Ads equiv $31.00/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-body-shop-evansville-wi/
+
+## By CPC
+1. florist evansville wi | searches/mo 460 (est) | CPC $7.17 | value $3,300 | Google Ads equiv $250/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-evansville-wi/
+2. accounting services evansville wi | searches/mo 25.00 (est) | CPC $5.87 | value $150 | Google Ads equiv $8.30/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accounting-services-evansville-wi/
+3. accountant evansville wi | searches/mo 69.00 (est) | CPC $5.23 | value $360 | Google Ads equiv $20.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accountant-evansville-wi/
+4. daycare evansville wi | searches/mo 460 (est) | CPC $4.81 | value $2,200 | Google Ads equiv $130/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/daycare-evansville-wi/
+5. chiropractor evansville wi | searches/mo 510 (est) | CPC $4.76 | value $2,400 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-evansville-wi/
+6. physical therapy evansville wi | searches/mo 460 (est) | CPC $4.76 | value $2,200 | Google Ads equiv $150/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/physical-therapy-evansville-wi/
+7. dentist evansville wi | searches/mo 3,800 (est) | CPC $4.70 | value $18,000 | Google Ads equiv $970/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-evansville-wi/
+8. haircut evansville wi | searches/mo 760 (est) | CPC $4.62 | value $3,500 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-evansville-wi/
+9. tattoo shop evansville wi | searches/mo 1,900 (est) | CPC $4.62 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tattoo-shop-evansville-wi/
+10. auto body shop evansville wi | searches/mo 130 (est) | CPC $4.35 | value $570 | Google Ads equiv $31.00/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-body-shop-evansville-wi/
+11. auto repair evansville wi | searches/mo 620 (est) | CPC $4.35 | value $2,700 | Google Ads equiv $150/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-evansville-wi/
+12. car wash evansville wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-evansville-wi/
+13. mechanic evansville wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-evansville-wi/
+14. bike shop evansville wi | searches/mo 290 (est) | CPC $4.14 | value $1,200 | Google Ads equiv $110/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/bike-shop-evansville-wi/
+15. furniture store evansville wi | searches/mo 290 (est) | CPC $4.14 | value $1,200 | Google Ads equiv $110/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/furniture-store-evansville-wi/
+
+## By value (searches x CPC)
+1. dentist evansville wi | searches/mo 3,800 (est) | CPC $4.70 | value $18,000 | Google Ads equiv $970/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-evansville-wi/
+2. car wash evansville wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-evansville-wi/
+3. mechanic evansville wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-evansville-wi/
+4. vet evansville wi | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-evansville-wi/
+5. dog groomer evansville wi | searches/mo 930 (est) | CPC $4.06 | value $3,800 | Google Ads equiv $250/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-evansville-wi/
+6. haircut evansville wi | searches/mo 760 (est) | CPC $4.62 | value $3,500 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-evansville-wi/
+7. auto repair evansville wi | searches/mo 620 (est) | CPC $4.35 | value $2,700 | Google Ads equiv $150/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-evansville-wi/
+8. chiropractor evansville wi | searches/mo 510 (est) | CPC $4.76 | value $2,400 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-evansville-wi/
+9. dog boarding evansville wi | searches/mo 510 (est) | CPC $4.06 | value $2,100 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-evansville-wi/
+10. hair salon evansville wi | searches/mo 3,100 (est) | CPC $0.55 | value $1,700 | Google Ads equiv $97.00/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/hair-salon-evansville-wi/
+11. real estate agent evansville wi | searches/mo 420 (est) | CPC $3.61 | value $1,500 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-evansville-wi/
+12. realtor evansville wi | searches/mo 190 (est) | CPC $3.70 | value $700 | Google Ads equiv $59.00/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/realtor-evansville-wi/
+13. insurance agency evansville wi | searches/mo 190 (est) | CPC $3.39 | value $640 | Google Ads equiv $54.00/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-evansville-wi/
+14. auto body shop evansville wi | searches/mo 130 (est) | CPC $4.35 | value $570 | Google Ads equiv $31.00/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-body-shop-evansville-wi/
+15. accountant evansville wi | searches/mo 69.00 (est) | CPC $5.23 | value $360 | Google Ads equiv $20.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/accountant-evansville-wi/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

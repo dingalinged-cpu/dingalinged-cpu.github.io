@@ -1,0 +1,24 @@
+Salon Red is a hair salon in Decatur, GA at 119 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/.
+
+# Salon Red
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 119 East Ponce de Leon Avenue, Decatur, GA
+- City: Decatur
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.7754635, -84.2955432
+- Phone: n/a
+- Website: https://salonred.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-red-decatur/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-red-decatur.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/544532186 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

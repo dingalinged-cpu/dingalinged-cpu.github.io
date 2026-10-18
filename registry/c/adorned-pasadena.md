@@ -13,6 +13,7 @@ Adorned is a hair salon in Pasadena, TX. Phone: +12815087257. Website: https://w
 - Website: https://www.adornedbeautyparlor.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

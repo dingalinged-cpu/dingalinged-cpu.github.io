@@ -1,0 +1,24 @@
+Aashi-Aashi Foot & Leg Hydrotherapy Suite is a physical therapy clinic in Atlanta, GA at 5835 Campbellton Road Southwest #105, Atlanta, GA 30331. Phone: +14043340696. Website: https://aashi-aashi.com/.
+
+# Aashi-Aashi Foot & Leg Hydrotherapy Suite
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 5835 Campbellton Road Southwest #105, Atlanta, GA 30331
+- City: Atlanta
+- State: GA
+- ZIP: 30331
+- Coordinates: 33.700098, -84.5798662
+- Phone: +14043340696
+- Website: https://aashi-aashi.com/
+- Email: info@aashi-aashi.com
+- Opening hours (OSM syntax): Mo,Tu,Th 08:15-16:00; We,Fr 08:15-15:00; Sa "By appointment only"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13808272581 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

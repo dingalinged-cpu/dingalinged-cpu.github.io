@@ -13,6 +13,7 @@ SWS Roofing is a roofer in Orland Park, IL at 15255 South 94th Avenue, Orland Pa
 - Website: https://swsroofing.com/orland-park-il/
 - Email: pete@swsroofing.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

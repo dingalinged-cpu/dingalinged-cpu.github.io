@@ -13,6 +13,7 @@ Prime Eye Care is an eye care practice in Rockwall, TX at 2006 South Goliad Stre
 - Website: https://www.primeeyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 13:30-15:00; Tu-Fr 09:00-17:00
+- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

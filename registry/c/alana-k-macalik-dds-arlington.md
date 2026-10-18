@@ -13,6 +13,7 @@ Alana K. Macalik, DDS is a dentist in Arlington, TX at 2265 West Green Oaks Boul
 - Website: https://macalikdds.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

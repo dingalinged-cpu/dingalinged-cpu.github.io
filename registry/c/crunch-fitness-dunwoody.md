@@ -1,0 +1,24 @@
+Crunch Fitness is a gym in Dunwoody, GA at 4530 Olde Perimeter Way, Dunwoody, GA.
+
+# Crunch Fitness
+
+- Category: gym
+- Services: gym
+- Address: 4530 Olde Perimeter Way, Dunwoody, GA
+- City: Dunwoody
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.9298704, -84.3438486
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/crunch-fitness-dunwoody/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crunch-fitness-dunwoody.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/342844660 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

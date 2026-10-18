@@ -13,6 +13,7 @@ Chanhassen Family Dentistry is a dentist in Chanhassen, MN at 8116 Mallory Court
 - Website: https://chandent.com/
 - Email: office@chandent.com
 - Opening hours (OSM syntax): Mo-Th 07:00-12:00, 13:00-17:00
+- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

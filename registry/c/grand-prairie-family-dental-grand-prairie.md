@@ -13,6 +13,7 @@ Grand Prairie Family Dental is a dentist in Grand Prairie, TX at 2475 W Pioneer 
 - Website: https://www.gentlegrandprairiedentist.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-17:00; Th 11:00-19:00
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

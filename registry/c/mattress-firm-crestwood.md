@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Crestwood, IL at 13235 Cicero Avenue, Crest
 - Website: https://www.mattressfirm.com/en-us/stores/il/crestwood/119162/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

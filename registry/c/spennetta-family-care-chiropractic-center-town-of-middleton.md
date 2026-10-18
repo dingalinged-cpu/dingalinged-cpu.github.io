@@ -1,0 +1,24 @@
+Spennetta Family Care Chiropractic Center is a chiropractor in Town of Middleton, WI.
+
+# Spennetta Family Care Chiropractic Center
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: Town of Middleton, WI
+- City: Town of Middleton
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0506075, -89.5003459
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/spennetta-family-care-chiropractic-center-town-of-middleton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/spennetta-family-care-chiropractic-center-town-of-middleton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/200516258 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

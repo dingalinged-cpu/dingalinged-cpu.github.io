@@ -13,6 +13,7 @@ Masterson Staffing is a staffing agency in Inver Grove Heights, MN at 1354 Mendo
 - Website: https://www.mastersonstaffing.com/staffing-solutions/staffing-agency-inver-grove-heights/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 54.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

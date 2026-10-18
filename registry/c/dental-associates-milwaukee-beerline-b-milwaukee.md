@@ -13,6 +13,7 @@ Dental Associates Milwaukee - Beerline B is a dentist in Milwaukee, WI at 220 Ea
 - Website: https://www.dentalassociates.com/locations/milwaukee-beerline-b
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:00-15:00; Tu 10:00-18:00; We 07:00-17:00; Th 10:00-18:00; Fr 07:00-12:00
+- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

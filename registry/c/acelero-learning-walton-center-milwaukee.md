@@ -13,6 +13,7 @@ Acelero Learning Walton Center is a preschool in Milwaukee, WI at 7833 West Capi
 - Website: https://acelerolearning.com/center/walton/
 - Email: n/a
 - Opening hours (OSM syntax): 07:00-17:30
+- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

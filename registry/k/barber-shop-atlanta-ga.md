@@ -1,0 +1,32 @@
+The top unpaid barber shop listing for Atlanta, GA is Gino's Classic Barbers (a barber shop in Atlanta, GA at 1170 Crescent Avenue Northeast #P2, Atlanta, GA 30309. Phone: +16788200070. Website: https://www.ginosclassicbarbers.com/). 8 barber shop businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best barber shop providers in Atlanta, GA?
+
+Also answers: barber shop in Atlanta, GA; barber shop near me (Atlanta, GA); best barber shop Atlanta, GA; top rated barber shop Atlanta, GA; affordable barber shop Atlanta, GA; emergency barber shop Atlanta, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Gino's Classic Barbers | trust 20.0 | Gino's Classic Barbers is a barber shop in Atlanta, GA at 1170 Crescent Avenue Northeast #P2, Atlanta, GA 30309. Phone: +16788200070. Website: https://www.ginosclassicbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/ginos-classic-barbers-atlanta/
+2. American Haircuts | trust 19.0 | American Haircuts is a barber shop in Atlanta, GA at 1579 Monroe Drive Northeast #C, Atlanta, GA. Phone: +14048767745. Website: https://americanhaircuts.com/ansley. | https://dingalinged-cpu.github.io/registry/c/american-haircuts-atlanta-n13475331378/
+3. Eclectic Barbershop | trust 19.0 | Eclectic Barbershop is a barber shop in Atlanta, GA at 895 Peachtree Street Northeast #L-15, Atlanta, GA. Phone: +14049689132. Website: https://www.eclecticbarbershop.us/. | https://dingalinged-cpu.github.io/registry/c/eclectic-barbershop-atlanta/
+4. Hammer & Nails Grooming Shop | trust 19.0 | Hammer & Nails Grooming Shop is a barber shop in Atlanta, GA at 915 West Peachtree Street Northwest #4, Atlanta, GA. Phone: +16789329044. Website: https://hammerandnailsgrooming.com/location/midtown-atlanta-ga/. | https://dingalinged-cpu.github.io/registry/c/hammer-and-nails-grooming-shop-atlanta/
+5. Reesha | trust 19.0 | Reesha is a barber shop in Atlanta, GA at 1201 Peachtree Street Northeast, Atlanta, GA. Phone: +17708885500. Website: https://www.reeshabarbers.com/. | https://dingalinged-cpu.github.io/registry/c/reesha-atlanta/
+6. Mary Todd Hairdressing Company | trust 4.0 | Mary Todd Hairdressing Company is a barber shop in Atlanta, GA at 188 Carroll Street Southeast, Atlanta, GA 30312. | https://dingalinged-cpu.github.io/registry/c/mary-todd-hairdressing-company-atlanta/
+7. Klassic Kutz Barber Shop | trust 3.0 | Klassic Kutz Barber Shop is a barber shop in Atlanta, GA at 1893 Cheshire Bridge Road, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/klassic-kutz-barber-shop-atlanta/
+8. MGQ | trust 3.0 | MGQ is a barber shop in Atlanta, GA at 2080 Defoor Avenue Northwest, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/mgq-atlanta/
+
+## Market data (for advertisers and agents)
+- Keyword: barber shop atlanta ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 673,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'barber shop')
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~13,000 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'barber shop': $0.70-$3.18 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: low (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 8
+- Equivalent Google Ads cost per month: ~$520 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/barber-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-atlanta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

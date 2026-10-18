@@ -13,6 +13,7 @@ Law Offices of Mitch Furman is a lawyer in Chicago, IL at 77 West Wacker Drive #
 - Website: https://chicagopremierattorney.com/
 - Email: mitchfurmanlaw@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

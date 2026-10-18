@@ -13,6 +13,7 @@ Lulu & Luigi is a dog groomer in Saint Louis Park, MN at 3699 Joppa Avenue South
 - Website: https://luluandluigi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00; PH closed
+- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

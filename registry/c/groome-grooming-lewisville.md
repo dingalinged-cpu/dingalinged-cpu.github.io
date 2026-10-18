@@ -13,6 +13,7 @@ Groome Grooming is a dog groomer in Lewisville, TX at 101 East Corporate Drive #
 - Website: https://groomelewisville.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Mo 09:30-18:00
+- Registry Score: 64.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

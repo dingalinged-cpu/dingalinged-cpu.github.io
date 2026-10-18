@@ -13,6 +13,7 @@ Above and Beyond Auto Sales is an used car dealer in Milwaukee, WI at 5211 West 
 - Website: https://www.aboveandbeyond-auto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

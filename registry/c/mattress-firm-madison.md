@@ -1,0 +1,24 @@
+Mattress Firm is a mattress store in Madison, WI at 2200 West Beltline Highway, Madison, WI 53713. Phone: +16082770103. Website: https://www.mattressfirm.com/en-us/stores/wi/madison/111009/.
+
+# Mattress Firm
+
+- Category: mattress store
+- Services: mattress store
+- Address: 2200 West Beltline Highway, Madison, WI 53713
+- City: Madison
+- State: WI
+- ZIP: 53713
+- Coordinates: 43.0367947, -89.4173792
+- Phone: +16082770103
+- Website: https://www.mattressfirm.com/en-us/stores/wi/madison/111009/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-madison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-madison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/371992671 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

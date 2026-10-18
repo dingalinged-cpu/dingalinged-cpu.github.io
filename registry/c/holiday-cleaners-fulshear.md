@@ -13,6 +13,7 @@ Holiday Cleaners is a dry cleaner in Fulshear, TX at 8411 FM 359, Fulshear, TX. 
 - Website: https://www.holidaydrycleanerstx.com/fulshear-tx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

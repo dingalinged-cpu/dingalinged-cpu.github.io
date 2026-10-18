@@ -13,6 +13,7 @@ Sugar Land Mortuary is a funeral home in Sugar Land, TX at 1818 Eldridge Road, S
 - Website: https://slmortuary.com/
 - Email: christopher@slmortuary.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 10:00-14:00; Su open "by appointment only" || "only by phone call"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

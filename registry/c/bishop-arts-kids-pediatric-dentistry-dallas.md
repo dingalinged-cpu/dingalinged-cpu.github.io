@@ -13,6 +13,7 @@ Bishop Arts Kids Pediatric Dentistry is a dentist in Dallas, TX at 400 North Zan
 - Website: https://www.bishopartskidsdentist.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Fr 08:00-17:00
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

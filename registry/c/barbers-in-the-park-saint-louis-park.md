@@ -13,6 +13,7 @@ Barbers In the Park is a hair salon in Saint Louis Park, MN at 7124 Minnetonka B
 - Website: https://www.facebook.com/BarbersInThePark/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

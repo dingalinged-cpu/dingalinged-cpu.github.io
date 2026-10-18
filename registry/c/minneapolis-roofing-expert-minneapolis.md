@@ -13,6 +13,7 @@ Minneapolis Roofing Expert is a roofer in Minneapolis, MN at 212 3rd Avenue Nort
 - Website: https://www.minneapolisroofingexperts.com/
 - Email: info@minneapolisroofingexperts.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

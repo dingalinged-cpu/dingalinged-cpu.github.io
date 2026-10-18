@@ -13,6 +13,7 @@ Thread Away is a waxing salon in Chicago, IL at 500 North Wells Street, Chicago,
 - Website: https://www.threadaway.com/
 - Email: info@threadaway.com
 - Opening hours (OSM syntax): Mo-Fr 11:00-18:00; Sa 10:00-18:00; Su 10:00-17:00
+- Registry Score: 66.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

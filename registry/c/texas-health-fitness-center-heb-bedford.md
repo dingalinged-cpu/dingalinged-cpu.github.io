@@ -13,6 +13,7 @@ Texas Health Fitness Center HEB is a gym in Bedford, TX at 1616 Hospital Parkway
 - Website: https://www.texashealth.org/health-and-wellness/fitness/heb
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-19:00, Sa 08:00-12:00, Su closed
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Pure Barre is a gym in Chicago, IL at 2309 West Lawrence Avenue, Chicago, IL 606
 - Website: https://www.purebarre.com/location/chicago-lincoln-square-il
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We 06:45-20:30; Tu, Th 05:45-20:30; Su 08:00-15:15; Fr 05:45-18:30; Sa 08:00-14:30
+- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

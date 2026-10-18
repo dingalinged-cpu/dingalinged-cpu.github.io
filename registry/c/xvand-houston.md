@@ -13,6 +13,7 @@ XVAND is an IT support company in Houston, TX at 11333 Chimney Rock Road, Housto
 - Website: https://xvand.com/
 - Email: sales@xvand.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

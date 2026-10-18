@@ -13,6 +13,7 @@ CMIT Solutions is an IT support company in Bellaire, TX at 6575 West Loop South 
 - Website: https://cmitsolutions.com/houston-tx-1194/
 - Email: info@cmitsolutions.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

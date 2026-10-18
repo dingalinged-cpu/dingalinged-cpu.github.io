@@ -13,6 +13,7 @@ Snap Fitness is a gym in Saint Paul, MN at 1960 Cliff Lake Road #115, Saint Paul
 - Website: https://www.snapfitness.com/us/gyms/eagan-cliff-lake-rd-mn
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

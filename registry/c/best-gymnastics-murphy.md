@@ -13,6 +13,7 @@ Best Gymnastics is a gym in Murphy, TX at 611 E FM 544, Murphy, TX 75094. Phone:
 - Website: https://www.bestgymmu.com/
 - Email: infomu@bestgymnastics.net
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Su 09:00-12:00
+- Registry Score: 55/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Royal Academy of Dance is a dance studio in Elk Grove Village, IL. Website: http
 - Website: https://royaldance.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 52.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

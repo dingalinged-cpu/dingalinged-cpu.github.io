@@ -13,6 +13,7 @@ A & M Accounting is an accountant in Minneapolis, MN at 2529 Nicollet Avenue Sou
 - Website: https://www.amaccounting.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
+- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Sandberg Jewelers is a jewelry store in Skokie, IL at 7096 Carpenter Road #27, S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

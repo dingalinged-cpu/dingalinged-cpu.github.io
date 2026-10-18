@@ -13,6 +13,7 @@ Tintn is an auto repair shop in League City, TX at 2809 Calder Drive #100, Leagu
 - Website: https://windowtintn.com/
 - Email: windowtintn@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

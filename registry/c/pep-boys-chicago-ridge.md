@@ -13,6 +13,7 @@ Pep Boys is an auto repair shop in Chicago Ridge, IL at 10100 South Ridgeland Av
 - Website: https://pepboys.com/stores/il/chicago-ridge/10100-s-ridgeland-ave
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Amazing Smiles is a dentist in Sugar Land, TX at 14090 Southwest Freeway #402, S
 - Website: https://amazingsmiles1.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

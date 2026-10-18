@@ -13,6 +13,7 @@ Polish Nail Bar is a nail salon in Richmond, TX at 8323 FM 723 #105, Richmond, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

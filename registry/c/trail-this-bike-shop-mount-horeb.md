@@ -1,0 +1,24 @@
+Trail This Bike Shop is a bike shop in Mount Horeb, WI.
+
+# Trail This Bike Shop
+
+- Category: bike shop
+- Services: bike shop
+- Address: Mount Horeb, WI
+- City: Mount Horeb
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0082393, -89.7381334
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/trail-this-bike-shop-mount-horeb/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/trail-this-bike-shop-mount-horeb.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/516850352 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

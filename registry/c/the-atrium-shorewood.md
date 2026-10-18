@@ -13,6 +13,7 @@ The Atrium is an event venue in Shorewood, WI at 2107 East Capitol Drive, Shorew
 - Website: https://www.theatriummke.com/
 - Email: josh@campbarmke.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

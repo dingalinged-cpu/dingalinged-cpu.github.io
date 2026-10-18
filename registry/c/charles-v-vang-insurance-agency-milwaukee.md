@@ -13,6 +13,7 @@ Charles V. Vang Insurance Agency is an insurance agent in Milwaukee, WI at 3616 
 - Website: https://cvvinsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

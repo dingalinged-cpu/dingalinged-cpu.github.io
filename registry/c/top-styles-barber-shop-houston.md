@@ -13,6 +13,7 @@ Top Styles Barber Shop is a hair salon in Houston, TX at 14768 Tomball Parkway, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa unknown; Su closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

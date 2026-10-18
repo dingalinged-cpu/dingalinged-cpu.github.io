@@ -13,6 +13,7 @@ Cory Logan DDS is a dentist in Houston, TX at 530 Waugh Drive, Houston, TX 77019
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-15:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

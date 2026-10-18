@@ -13,6 +13,7 @@ The Pillars Christian Learning Centers is a preschool in Grapevine, TX at 2301 H
 - Website: https://thepillarsclc.com/the-pillars-grapevine-colleyville/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
+- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Wake-N-Bakery is a bakery in Chicago, IL at 3508 North Broadway, Chicago, IL 606
 - Website: https://wakenbakery.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu, We-Su 08:00-20:00; Fr-Sa 08:00-22:00
+- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

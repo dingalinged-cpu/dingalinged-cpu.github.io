@@ -1,0 +1,24 @@
+The Law Offices Of Gary Martin Hays is a lawyer in Atlanta, GA at 75 Ponce de Leon Avenue Northeast #101, Atlanta, GA. Phone: +17709348000.
+
+# The Law Offices Of Gary Martin Hays
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 75 Ponce de Leon Avenue Northeast #101, Atlanta, GA
+- City: Atlanta
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.7719292, -84.3847446
+- Phone: +17709348000
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-law-offices-of-gary-martin-hays-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-law-offices-of-gary-martin-hays-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12417463370 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

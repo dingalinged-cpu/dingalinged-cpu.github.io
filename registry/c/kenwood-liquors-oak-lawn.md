@@ -13,6 +13,7 @@ Kenwood Liquors is a liquor store in Oak Lawn, IL at 10750 South Cicero Avenue, 
 - Website: https://www.kenwoodliquors.biz/locations/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

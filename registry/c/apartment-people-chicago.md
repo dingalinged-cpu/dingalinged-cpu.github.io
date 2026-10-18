@@ -13,6 +13,7 @@ Apartment People is a real estate agency in Chicago, IL at 3121 North Broadway, 
 - Website: https://apartmentpeople.com/about_us/locations/lakeview
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00
+- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

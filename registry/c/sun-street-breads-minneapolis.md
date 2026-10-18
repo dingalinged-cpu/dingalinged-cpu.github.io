@@ -13,6 +13,7 @@ Sun Street Breads is a bakery in Minneapolis, MN at 4600 Nicollet Avenue South, 
 - Website: https://www.sunstreetbreads.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Su 06:30-14:00; Th 17:00-20:00 "Pizza Night"
+- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

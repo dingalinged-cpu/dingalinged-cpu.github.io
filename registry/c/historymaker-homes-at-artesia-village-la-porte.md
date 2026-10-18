@@ -13,6 +13,7 @@ HistoryMaker Homes at Artesia Village is a real estate agency in La Porte, TX at
 - Website: https://www.historymaker.com/communities/houston/la-porte/artesia-village
 - Email: n/a
 - Opening hours (OSM syntax): Su,Mo 12:00-19:00; Tu-Sa 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

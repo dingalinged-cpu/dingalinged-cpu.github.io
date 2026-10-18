@@ -13,6 +13,7 @@ Insurance Navy Brokers is an insurance agent in Chicago, IL at 5016 South Pulask
 - Website: https://www.insurancenavy.com/locations/il/archer-heights/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
+- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

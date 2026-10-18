@@ -13,6 +13,7 @@ Greg's Kozy Cuts is a hair salon in West Allis, WI at 5918 West Burnham Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00, Su 07:00-12:00
+- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

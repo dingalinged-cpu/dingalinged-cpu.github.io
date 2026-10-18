@@ -13,6 +13,7 @@ Banfield Pet Hospital is a veterinarian in Humble, TX at 20518 Eastex Freeway, H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

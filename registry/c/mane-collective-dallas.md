@@ -13,6 +13,7 @@ Mane Collective is a hair salon in Dallas, TX at 1920 North Haskell Avenue, Dall
 - Website: https://manecollectivedallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 11:00-19:00; Fr 11:00-18:00; Sa 09:00-19:00
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

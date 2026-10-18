@@ -13,6 +13,7 @@ Metro Dentalcare is a dentist in Saint Louis Park, MN at 4959 Excelsior Boulevar
 - Website: https://www.metro-dentalcare.com/practices/metro-dentalcare-st-louis-park
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-20:00; Fr 08:15-14:00; Sa open "By appointment"; PH closed
+- Registry Score: 52.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

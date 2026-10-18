@@ -13,6 +13,7 @@ Sugar Moon is a bakery in Chicago, IL at 3616 West Wrightwood Avenue, Chicago, I
 - Website: https://www.sugarmoonchicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 53.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

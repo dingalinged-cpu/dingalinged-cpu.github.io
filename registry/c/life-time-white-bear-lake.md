@@ -13,6 +13,7 @@ Life Time is a gym in White Bear Lake, MN at 4800 White Bear Parkway, White Bear
 - Website: https://www.lifetime.life/life-time-locations/mn-white-bear-lake.html
 - Email: n/a
 - Opening hours (OSM syntax): Sa-Su 06:00-23:00; Mo-Fr 05:00-23:00
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

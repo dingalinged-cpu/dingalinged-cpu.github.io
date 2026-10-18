@@ -13,6 +13,7 @@ Law Offices of Nathan J Mays is a lawyer in Houston, TX at 402 Main Street #300,
 - Website: https://www.themaysfirm.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

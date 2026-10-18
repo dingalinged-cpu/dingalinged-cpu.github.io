@@ -13,6 +13,7 @@ Elite Spectrum ABA is a therapy practice in Baytown, TX at 3711 Garth Road, Bayt
 - Website: https://www.elitespectrumaba.com/
 - Email: info@elitespectrumaba.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

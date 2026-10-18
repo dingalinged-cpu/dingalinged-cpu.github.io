@@ -13,6 +13,7 @@ RE/MAX is a real estate agency in Naperville, IL at 1220 Iroquois Avenue #100, N
 - Website: https://www.remax.com/real-estate-offices/remax-of-naperville-naperville-il/100425600
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

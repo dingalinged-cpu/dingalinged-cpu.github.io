@@ -13,6 +13,7 @@ The Foundations Montessori is a daycare in Richmond, TX at 10530 FM 1464, Richmo
 - Website: https://www.thefoundationsmontessori.com/
 - Email: info@thefoundationsmontessori.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

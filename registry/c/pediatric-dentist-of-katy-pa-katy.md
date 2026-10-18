@@ -13,6 +13,7 @@ Pediatric Dentist of Katy, PA is a dentist in Katy, TX at 24022 Cinco Village Ce
 - Website: https://www.pediatricdentistofkaty.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 10:00-18:00; We-Th 08:00-17:00; Fr 08:00-15:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

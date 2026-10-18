@@ -1,0 +1,24 @@
+Arte d'Oro Diamonds is a jewelry store in Alpharetta, GA at 8400 Holcomb Bridge Road #420, Alpharetta, GA 30022. Phone: +14047495222. Website: https://www.artedorodiamondsinc.com/.
+
+# Arte d'Oro Diamonds
+
+- Category: jewelry store
+- Services: jewelry store
+- Address: 8400 Holcomb Bridge Road #420, Alpharetta, GA 30022
+- City: Alpharetta
+- State: GA
+- ZIP: 30022
+- Coordinates: 33.985582, -84.2708428
+- Phone: +14047495222
+- Website: https://www.artedorodiamondsinc.com/
+- Email: artedorodiamonds@gmail.com
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/arte-doro-diamonds-alpharetta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/arte-doro-diamonds-alpharetta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7947152375 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

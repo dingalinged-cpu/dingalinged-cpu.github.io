@@ -13,6 +13,7 @@ Total Wine is a liquor store in Dallas, TX at 9350 North Central Expressway, Dal
 - Website: https://www.totalwine.com/store-info/501
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
+- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

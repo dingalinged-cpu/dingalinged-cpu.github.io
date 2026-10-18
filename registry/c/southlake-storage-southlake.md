@@ -13,6 +13,7 @@ Southlake Storage is a self-storage facility in Southlake, TX at 2060 East Conti
 - Website: https://www.premiumspaces.com/storage-locations/tx/southlake/2060-e-continental-blvd/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 64/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

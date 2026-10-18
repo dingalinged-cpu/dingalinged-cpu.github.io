@@ -1,0 +1,24 @@
+Strickland Brothers 10 Minute Oil Change is an auto repair shop in Cobb County, GA at 2063 Roswell Road, Cobb County, GA. Phone: +17704859513. Website: https://sboilchange.com/locations/706-strickland-brothers-10-minute-oil-change/.
+
+# Strickland Brothers 10 Minute Oil Change
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change
+- Address: 2063 Roswell Road, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.9648763, -84.4930338
+- Phone: +17704859513
+- Website: https://sboilchange.com/locations/706-strickland-brothers-10-minute-oil-change/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su,PH off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/strickland-brothers-10-minute-oil-change-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/strickland-brothers-10-minute-oil-change-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/992818537 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

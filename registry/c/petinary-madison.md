@@ -1,0 +1,24 @@
+Petinary is a veterinarian in Madison, WI. Phone: +16082551239.
+
+# Petinary
+
+- Category: vet
+- Services: vet
+- Address: Madison, WI
+- City: Madison
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0811816, -89.3674742
+- Phone: +16082551239
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 07:30-13:00; Sa 08:00-11:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/petinary-madison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/petinary-madison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12793289009 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

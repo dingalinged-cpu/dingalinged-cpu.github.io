@@ -1,0 +1,24 @@
+H&R Block is a tax preparation service in Smyrna, GA at 2473 Cobb Parkway South, Smyrna, GA. Phone: +17708586523. Website: https://www.hrblock.com/local-tax-offices/georgia/smyrna/2473-cobb-pkwy/11307.
+
+# H&R Block
+
+- Category: tax preparation
+- Services: tax preparation, tax preparer
+- Address: 2473 Cobb Parkway South, Smyrna, GA
+- City: Smyrna
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.8917665, -84.4761136
+- Phone: +17708586523
+- Website: https://www.hrblock.com/local-tax-offices/georgia/smyrna/2473-cobb-pkwy/11307
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-smyrna/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-smyrna.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/6419750771 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,6 +13,7 @@ Great Harvest Bread Co is a bakery in Saint Paul, MN at 534 Selby Avenue, Saint 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Sa 07:00-17:00,07:30-16:00; Su 08:00-15:00
+- Registry Score: 56.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

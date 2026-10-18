@@ -13,6 +13,7 @@ Sugaring NYC is a waxing salon in Sugar Land, TX at 13513 University Boulevard #
 - Website: https://www.sugaringnyc.com/locations/sugaringnyc-sugarland-sugarwaxing/
 - Email: sugarland@sugaringnyc.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa-Su 10:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

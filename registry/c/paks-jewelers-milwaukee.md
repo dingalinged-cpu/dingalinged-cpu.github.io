@@ -13,6 +13,7 @@ Pak's Jewelers is a jewelry store in Milwaukee, WI at 224 West Wisconsin Avenue,
 - Website: https://www.paksjewelers.com/
 - Email: paksjewelers@yahoo.com
 - Opening hours (OSM syntax): Mo-Sa 11:00-17:30
+- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

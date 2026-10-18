@@ -13,6 +13,7 @@ Hair1 EZsu is a hair salon in Frisco, TX at 9244 Prestmont Place #206, Frisco, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Sa 10:00-19:00; Tu off; Su 10:00-18:00
+- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

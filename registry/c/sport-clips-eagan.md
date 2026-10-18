@@ -13,6 +13,7 @@ Sport Clips is a hair salon in Eagan, MN at 1270 Promenade Place, Eagan, MN 5512
 - Website: https://sportclips.com/us-mn-eagan-mn109
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 09:00-19:00; We 09:00-17:00; Sa 08:00-16:00; Su 10:00-15:00
+- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

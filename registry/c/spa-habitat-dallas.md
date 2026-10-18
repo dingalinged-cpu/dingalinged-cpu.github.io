@@ -13,6 +13,7 @@ Spa Habitat is a massage studio in Dallas, TX at 5959 Royal Lane #629, Dallas, T
 - Website: https://spahabitat.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Daniel P. Malloy, DDS is a dentist in Milwaukee, WI at 230 North 76th Street, Mi
 - Website: https://www.malloydental76.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Fr 08:30-17:00; We 12:00-20:00; Th,Sa,Su off
+- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

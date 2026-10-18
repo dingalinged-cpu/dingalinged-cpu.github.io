@@ -13,6 +13,7 @@ Epiphany Dermatology is a dermatologist in Rockwall, TX at 2504 Ridge Road #102,
 - Website: https://www.epiphanydermatology.com/location/rockwall-tx/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

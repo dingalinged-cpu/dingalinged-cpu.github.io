@@ -13,6 +13,7 @@ Health Sense Dental is a dentist in Chanhassen, MN at 6140 Lake Linden Drive #23
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00, Fr 07:00-12:00
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

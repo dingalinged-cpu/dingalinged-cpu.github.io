@@ -1,0 +1,24 @@
+Roswell Barber Shop is a hair salon in Roswell, GA at 10800 Alpharetta Highway #Suite 200, Roswell, GA 30076. Phone: +17705874050. Website: https://www.roswellbarbershops.com/.
+
+# Roswell Barber Shop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 10800 Alpharetta Highway #Suite 200, Roswell, GA 30076
+- City: Roswell
+- State: GA
+- ZIP: 30076
+- Coordinates: 34.0442872, -84.3411473
+- Phone: +17705874050
+- Website: https://www.roswellbarbershops.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/roswell-barber-shop-roswell/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/roswell-barber-shop-roswell.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9789310065 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

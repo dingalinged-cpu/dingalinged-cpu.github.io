@@ -13,6 +13,7 @@ El Jalisciense Auto Sales is an used car dealer in Milwaukee, WI at 1509 South M
 - Website: https://eljaliscienseautos.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

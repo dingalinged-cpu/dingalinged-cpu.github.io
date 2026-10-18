@@ -1,0 +1,822 @@
+{
+ "place": "Jonesboro, GA",
+ "slug": "jonesboro-ga",
+ "count": 26,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-jonesboro-ga.json"
+  },
+  {
+   "keyword": "accounting services jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-jonesboro-ga.json"
+  },
+  {
+   "keyword": "auto body shop jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-jonesboro-ga.json"
+  },
+  {
+   "keyword": "auto repair jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-jonesboro-ga.json"
+  },
+  {
+   "keyword": "car wash jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-jonesboro-ga.json"
+  },
+  {
+   "keyword": "chiropractor jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-jonesboro-ga.json"
+  },
+  {
+   "keyword": "dry cleaners jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-jonesboro-ga.json"
+  },
+  {
+   "keyword": "furniture store jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-jonesboro-ga.json"
+  },
+  {
+   "keyword": "hair salon jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-jonesboro-ga.json"
+  },
+  {
+   "keyword": "haircut jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-jonesboro-ga.json"
+  },
+  {
+   "keyword": "insurance agency jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-jonesboro-ga.json"
+  },
+  {
+   "keyword": "insurance agent jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-jonesboro-ga.json"
+  },
+  {
+   "keyword": "insurance agents jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-jonesboro-ga.json"
+  },
+  {
+   "keyword": "liquor store jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-jonesboro-ga.json"
+  },
+  {
+   "keyword": "mechanic jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-jonesboro-ga.json"
+  },
+  {
+   "keyword": "motorcycle repair jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/motorcycle-repair-jonesboro-ga.json"
+  },
+  {
+   "keyword": "podiatrist jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/podiatrist-jonesboro-ga.json"
+  },
+  {
+   "keyword": "storage units jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-jonesboro-ga.json"
+  },
+  {
+   "keyword": "tanning salon jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-jonesboro-ga.json"
+  },
+  {
+   "keyword": "tire shop jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-jonesboro-ga.json"
+  },
+  {
+   "keyword": "used cars for sale jonesboro ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-jonesboro-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "injury-2-wellness-centers-jonesboro",
+   "name": "Injury 2 Wellness Centers",
+   "summary": "Injury 2 Wellness Centers is a chiropractor in Jonesboro, GA at 6348 1/2 Tara Blvd, Jonesboro, GA 30236. Phone: +14042888433. Website: https://injury2wellness.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/injury-2-wellness-centers-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/injury-2-wellness-centers-jonesboro.json",
+   "address": {
+    "streetAddress": "6348 1/2 Tara Blvd",
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "postalCode": "30236",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "zip": "30236",
+   "geo": {
+    "lat": 33.581387,
+    "lon": -84.375738
+   },
+   "phone": "+14042888433",
+   "website": "https://injury2wellness.com/",
+   "opening_hours": "Mon, Wed, Fri: 08:00AM-07:00PM, Tue: 08:00AM-03:00PM, Sat: 09:00AM-03:00PM, Thu, Sun: Closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13622063544",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tara-auto-service-jonesboro",
+   "name": "Tara Auto Service",
+   "summary": "Tara Auto Service is a motorcycle repair shop in Jonesboro, GA at Roberts Road, Jonesboro, GA 30238. Phone: +17704784108. Website: https://taraautoservice.com/.",
+   "categories": [
+    "motorcycle repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tara-auto-service-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tara-auto-service-jonesboro.json",
+   "address": {
+    "streetAddress": "Roberts Road",
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "postalCode": "30238",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "zip": "30238",
+   "geo": {
+    "lat": 33.5160951,
+    "lon": -84.3756916
+   },
+   "phone": "+17704784108",
+   "website": "https://taraautoservice.com/",
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9855420584",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wright-automotive-touch-jonesboro",
+   "name": "Wright Automotive Touch",
+   "summary": "Wright Automotive Touch is an auto repair shop in Jonesboro, GA at 9876 Feagan Road, Jonesboro, GA 30236. Phone: +14047497040.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wright-automotive-touch-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wright-automotive-touch-jonesboro.json",
+   "address": {
+    "streetAddress": "9876 Feagan Road",
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "postalCode": "30236",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "zip": "30236",
+   "geo": {
+    "lat": 33.4856151,
+    "lon": -84.3370359
+   },
+   "phone": "+14047497040",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13319715692",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aarons-jonesboro",
+   "name": "Aaron's",
+   "summary": "Aaron's is a furniture store in Jonesboro, GA at 7899 Tara Boulevard, Jonesboro, GA 30236.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aarons-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aarons-jonesboro.json",
+   "address": {
+    "streetAddress": "7899 Tara Boulevard",
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "postalCode": "30236",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "zip": "30236",
+   "geo": {
+    "lat": 33.5303975,
+    "lon": -84.3629315
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258849",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tire-center-jonesboro",
+   "name": "Tire Center",
+   "summary": "Tire Center is a tire shop in Jonesboro, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tire-center-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tire-center-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "postalCode": "30236",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "zip": "30236",
+   "geo": {
+    "lat": 33.5253975,
+    "lon": -84.3640281
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258839",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "alianza-latin-group-jonesboro",
+   "name": "Alianza Latin Group",
+   "summary": "Alianza Latin Group is an insurance agent in Jonesboro, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/alianza-latin-group-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/alianza-latin-group-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5315571,
+    "lon": -84.3560648
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8959275370",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "betsills-transmission-service-jonesboro",
+   "name": "Betsill's Transmission Service",
+   "summary": "Betsill's Transmission Service is an auto repair shop in Jonesboro, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/betsills-transmission-service-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/betsills-transmission-service-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.531338,
+    "lon": -84.354923
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968164751",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "davids-cleaners-and-laundry-jonesboro",
+   "name": "David's Cleaners & Laundry",
+   "summary": "David's Cleaners & Laundry is a dry cleaner in Jonesboro, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/davids-cleaners-and-laundry-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/davids-cleaners-and-laundry-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.538522,
+    "lon": -84.3506125
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968162104",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "easy-walk-foot-clinic-jonesboro",
+   "name": "Easy Walk Foot Clinic",
+   "summary": "Easy Walk Foot Clinic is a podiatrist in Jonesboro, GA.",
+   "categories": [
+    "podiatrist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/easy-walk-foot-clinic-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/easy-walk-foot-clinic-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5317979,
+    "lon": -84.3563565
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8959275365",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-jonesboro",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Jonesboro, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5094656,
+    "lon": -84.3559208
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1158303694",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-home-furniture-jonesboro",
+   "name": "Farmers Home Furniture",
+   "summary": "Farmers Home Furniture is a furniture store in Jonesboro, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-home-furniture-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-home-furniture-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5213749,
+    "lon": -84.3624023
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017692",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "final-cuts-jonesboro",
+   "name": "Final Cuts",
+   "summary": "Final Cuts is a hair salon in Jonesboro, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/final-cuts-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/final-cuts-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5317625,
+    "lon": -84.3563169
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8959275366",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-saloon-jonesboro",
+   "name": "Hair Saloon",
+   "summary": "Hair Saloon is a hair salon in Jonesboro, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-saloon-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-saloon-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5206583,
+    "lon": -84.362537
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8958017690",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "j-and-h-motors-jonesboro",
+   "name": "J & H Motors",
+   "summary": "J & H Motors is an used car dealer in Jonesboro, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-and-h-motors-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-and-h-motors-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.528374,
+    "lon": -84.362254
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968165333",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "joys-barber-shop-jonesboro",
+   "name": "Joy's Barber Shop",
+   "summary": "Joy's Barber Shop is a hair salon in Jonesboro, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joys-barber-shop-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joys-barber-shop-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.538023,
+    "lon": -84.3507776
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8959275378",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "maaco-jonesboro",
+   "name": "MAACO",
+   "summary": "MAACO is an auto repair shop in Jonesboro, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/maaco-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/maaco-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5263055,
+    "lon": -84.362471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968165348",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "metro-automotive-services-jonesboro",
+   "name": "Metro Automotive Services",
+   "summary": "Metro Automotive Services is an auto repair shop in Jonesboro, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-automotive-services-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-automotive-services-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5266665,
+    "lon": -84.3624865
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968165635",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "securcare-jonesboro",
+   "name": "SecurCare",
+   "summary": "SecurCare is a self-storage facility in Jonesboro, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/securcare-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/securcare-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5111813,
+    "lon": -84.3577306
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9178565876",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sparta-auto-sales-jonesboro",
+   "name": "Sparta Auto Sales",
+   "summary": "Sparta Auto Sales is an used car dealer in Jonesboro, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sparta-auto-sales-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sparta-auto-sales-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.537659,
+    "lon": -84.35075
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968162281",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sunset-loans-jonesboro",
+   "name": "Sunset Loans",
+   "summary": "Sunset Loans is an accountant in Jonesboro, GA.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunset-loans-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunset-loans-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5317294,
+    "lon": -84.3562857
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8959275367",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tanama-jonesboro",
+   "name": "Tanama",
+   "summary": "Tanama is a tanning salon in Jonesboro, GA.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tanama-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tanama-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5316279,
+    "lon": -84.3561639
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8959275369",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tara-package-jonesboro",
+   "name": "Tara Package",
+   "summary": "Tara Package is a liquor store in Jonesboro, GA.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tara-package-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tara-package-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5220747,
+    "lon": -84.3641204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968258832",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tire-village-jonesboro",
+   "name": "Tire Village",
+   "summary": "Tire Village is a tire shop in Jonesboro, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tire-village-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tire-village-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5277915,
+    "lon": -84.362631
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968165046",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "titan-insurance-jonesboro",
+   "name": "Titan Insurance",
+   "summary": "Titan Insurance is an insurance agent in Jonesboro, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/titan-insurance-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/titan-insurance-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5378423,
+    "lon": -84.3508099
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8959275376",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tommys-express-car-wash-jonesboro",
+   "name": "Tommy's Express Car Wash",
+   "summary": "Tommy's Express Car Wash is a car wash in Jonesboro, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tommys-express-car-wash-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.5307997,
+    "lon": -84.3628222
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1205508329",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wades-collision-repair-jonesboro",
+   "name": "Wade's Collision Repair",
+   "summary": "Wade's Collision Repair is an auto repair shop in Jonesboro, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wades-collision-repair-jonesboro/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wades-collision-repair-jonesboro.json",
+   "address": {
+    "addressLocality": "Jonesboro",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Jonesboro",
+   "state": "GA",
+   "geo": {
+    "lat": 33.525827,
+    "lon": -84.3625595
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/968164999",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

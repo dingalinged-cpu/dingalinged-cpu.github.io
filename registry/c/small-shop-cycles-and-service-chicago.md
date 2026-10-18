@@ -13,6 +13,7 @@ Small Shop Cycles & Service is a bike shop in Chicago, IL at 4250 South Cottage 
 - Website: https://smallshopchicago.com/
 - Email: info@smallshopchicago.com
 - Opening hours (OSM syntax): Tu-Sa 13:00-18:00
+- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

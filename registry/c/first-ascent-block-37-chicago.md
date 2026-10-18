@@ -13,6 +13,7 @@ First Ascent Block 37 is a yoga studio in Chicago, IL at 108 North State Street 
 - Website: https://faclimbing.com/chicago/block-37/
 - Email: info@firstascentclimbing.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-23:00; Sa-Su 18:00-20:00
+- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

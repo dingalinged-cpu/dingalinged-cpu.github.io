@@ -1,0 +1,44 @@
+The top unpaid car wash listing for Cobb County, GA is Fast Trac Car Wash (a car wash in Cobb County, GA at 2870 Delk Road Southeast, Cobb County, GA. Phone: +16782309942. Website: https://www.ftcarwash.com/location-marietta/). 21 car wash businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best car wash providers in Cobb County, GA?
+
+Also answers: car wash in Cobb County, GA; car wash near me (Cobb County, GA); best car wash Cobb County, GA; top rated car wash Cobb County, GA; affordable car wash Cobb County, GA; emergency car wash Cobb County, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Fast Trac Car Wash | trust 19.0 | Fast Trac Car Wash is a car wash in Cobb County, GA at 2870 Delk Road Southeast, Cobb County, GA. Phone: +16782309942. Website: https://www.ftcarwash.com/location-marietta/. | https://dingalinged-cpu.github.io/registry/c/fast-trac-car-wash-cobb-county/
+2. Hernandez Hand Car Wash | trust 19.0 | Hernandez Hand Car Wash is a car wash in Cobb County, GA at 4780 Alabama Road, Cobb County, GA. Phone: +14049808553. Website: https://www.hernandezhandcarwash.com/. | https://dingalinged-cpu.github.io/registry/c/hernandez-hand-car-wash-cobb-county/
+3. Landshark Car Wash | trust 19.0 | Landshark Car Wash is a car wash in Cobb County, GA at 145 Barrett Parkway, Cobb County, GA. Phone: +16789034935. Website: https://landsharkwash.com/. | https://dingalinged-cpu.github.io/registry/c/landshark-car-wash-cobb-county/
+4. Pop's Detail And Shine | trust 19.0 | Pop's Detail And Shine is a car wash in Cobb County, GA at 2690 Sandy Plains Road Northeast, Cobb County, GA. Phone: +14707767964. Website: https://pops-detail-and-shine.business.site/. | https://dingalinged-cpu.github.io/registry/c/pops-detail-and-shine-cobb-county/
+5. Swifty Car Wash | trust 19.0 | Swifty Car Wash is a car wash in Cobb County, GA at 4280 Bells Ferry Road Northwest, Cobb County, GA. Phone: +17702851422. Website: https://swiftycarwash.com/locations/bells-ferry/. | https://dingalinged-cpu.github.io/registry/c/swifty-car-wash-cobb-county/
+6. Tidal Wave Auto Spa | trust 19.0 | Tidal Wave Auto Spa is a car wash in Cobb County, GA at 3144 Canton Road, Cobb County, GA. Phone: +17069380991. Website: https://www.tidalwaveautospa.com/location/marietta-ga-canton-road/. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-cobb-county/
+7. Trail Hand Wash | trust 19.0 | Trail Hand Wash is a car wash in Cobb County, GA at 2063 Roswell Road, Cobb County, GA. Phone: +17709938000. Website: https://trailhandwash.com/. | https://dingalinged-cpu.github.io/registry/c/trail-hand-wash-cobb-county-w992819180/
+8. Washworks Car Wash | trust 19.0 | Washworks Car Wash is a car wash in Cobb County, GA at 2072 Cobb Parkway, Cobb County, GA. Phone: +17704249798. Website: https://washworkscarwash.com/. | https://dingalinged-cpu.github.io/registry/c/washworks-car-wash-cobb-county/
+9. Whistle Express Car Wash | trust 19.0 | Whistle Express Car Wash is a car wash in Cobb County, GA at 1274 Johnson Ferry Road Northeast, Cobb County, GA. Phone: +17705654867. Website: https://whistleexpresscarwash.com/locations/1274-johnson-ferry-road-marietta-ga/. | https://dingalinged-cpu.github.io/registry/c/whistle-express-car-wash-cobb-county/
+10. Whitecap Car Wash | trust 19.0 | Whitecap Car Wash is a car wash in Cobb County, GA at 2811 Chastain Meadows Parkway Northwest, Cobb County, GA. Phone: +18776751595. Website: https://whitecapcarwash.com/locations/mariettaga/. | https://dingalinged-cpu.github.io/registry/c/whitecap-car-wash-cobb-county/
+11. Trail Hand Wash | trust 13.0 | Trail Hand Wash is a car wash in Cobb County, GA at 1075 Johnson Ferry Road Northeast, Cobb County, GA. Website: https://trailhandwash.com/. | https://dingalinged-cpu.github.io/registry/c/trail-hand-wash-cobb-county/
+12. Trail Hand Wash | trust 13.0 | Trail Hand Wash is a car wash in Cobb County, GA at 3028 Canton Road, Cobb County, GA. Website: https://trailhandwash.com/. | https://dingalinged-cpu.github.io/registry/c/trail-hand-wash-cobb-county-w311615028/
+13. Jonathan's Han Car Wash & Auto Detail | trust 9.0 | Jonathan's Han Car Wash & Auto Detail is a car wash in Cobb County, GA at 3190 Canton Road, Cobb County, GA. Phone: +14703852146. | https://dingalinged-cpu.github.io/registry/c/jonathans-han-car-wash-and-auto-detail-cobb-county/
+14. 2 Lions Hand Car Wash | trust 3.0 | 2 Lions Hand Car Wash is a car wash in Cobb County, GA at 1913 Piedmont Road Northeast, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/2-lions-hand-car-wash-cobb-county/
+15. Captain Kleen Speed Wash | trust 3.0 | Captain Kleen Speed Wash is a car wash in Cobb County, GA at 1480 George Busbee Parkway Northwest, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/captain-kleen-speed-wash-cobb-county/
+16. Feydi's Hand Car Wash And Detailing | trust 3.0 | Feydi's Hand Car Wash And Detailing is a car wash in Cobb County, GA at 2243 Roswell Road, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/feydis-hand-car-wash-and-detailing-cobb-county/
+17. Mr. Clean Car Wash | trust 3.0 | Mr. Clean Car Wash is a car wash in Cobb County, GA at 3950 Shallowford Road Northeast, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/mr-clean-car-wash-cobb-county/
+18. Mr. Foamy Hand Car Wash | trust 3.0 | Mr. Foamy Hand Car Wash is a car wash in Cobb County, GA at 4261 Bells Ferry Road Northwest, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/mr-foamy-hand-car-wash-cobb-county/
+19. Blessed Up Hand Car Wash | trust 0.0 | Blessed Up Hand Car Wash is a car wash in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/blessed-up-hand-car-wash-cobb-county/
+20. Success Hand Car Wash | trust 0.0 | Success Hand Car Wash is a car wash in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/success-hand-car-wash-cobb-county/
+21. Vinings Victory Carwash | trust 0.0 | Vinings Victory Carwash is a car wash in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/vinings-victory-carwash-cobb-county/
+
+## Market data (for advertisers and agents)
+- Keyword: car wash cobb county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 1,830,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'car wash near me')
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~35,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 21
+- Equivalent Google Ads cost per month: ~$8,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-cobb-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

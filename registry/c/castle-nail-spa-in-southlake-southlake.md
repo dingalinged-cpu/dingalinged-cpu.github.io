@@ -13,6 +13,7 @@ Castle Nail Spa in Southlake is a nail salon in Southlake, TX at 2251 South Kimb
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:30; Su 11:30-17:30
+- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

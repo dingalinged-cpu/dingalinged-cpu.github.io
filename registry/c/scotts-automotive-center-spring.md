@@ -13,6 +13,7 @@ Scott's Automotive Center is an auto repair shop in Spring, TX at 3327 Spring St
 - Website: https://www.scottsautomotivecentertx.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

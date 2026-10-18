@@ -13,6 +13,7 @@ Max's is a jewelry store in Saint Louis Park, MN at 3826 Grand Way, Saint Louis 
 - Website: https://www.stylebymax.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

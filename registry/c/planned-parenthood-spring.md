@@ -13,6 +13,7 @@ Planned Parenthood is a therapy practice in Spring, TX at 4747 Louetta Road, Spr
 - Website: https://www.plannedparenthood.org/health-center/texas/spring/77388/spring-health-center-4097-91650
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-19:00; Tu-Th 08:30-16:30; Fr 19:30-16:30; Sa-Su closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

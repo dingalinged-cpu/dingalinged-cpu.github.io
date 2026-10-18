@@ -1,0 +1,24 @@
+Public Storage is a self-storage facility in Marietta, GA at 895 Cobb Parkway North, Marietta, GA. Phone: +16782732723. Website: https://www.publicstorage.com/self-storage-ga-marietta/598.html.
+
+# Public Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 895 Cobb Parkway North, Marietta, GA
+- City: Marietta
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.9720315, -84.5423792
+- Phone: +16782732723
+- Website: https://www.publicstorage.com/self-storage-ga-marietta/598.html
+- Email: n/a
+- Opening hours (OSM syntax): 06:00-21:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-marietta-w1448092894/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-marietta-w1448092894.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1448092894 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

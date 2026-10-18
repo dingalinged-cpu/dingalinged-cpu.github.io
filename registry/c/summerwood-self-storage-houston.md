@@ -13,6 +13,7 @@ Summerwood Self Storage is a self-storage facility in Houston, TX at 14411 West 
 - Website: https://www.summerwoodselfstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00, Su 10:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

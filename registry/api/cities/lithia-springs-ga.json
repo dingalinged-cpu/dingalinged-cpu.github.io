@@ -1,0 +1,708 @@
+{
+ "place": "Lithia Springs, GA",
+ "slug": "lithia-springs-ga",
+ "count": 23,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [],
+ "companies": [
+  {
+   "slug": "injury-2-wellness-centers-lithia-springs",
+   "name": "Injury 2 Wellness Centers",
+   "summary": "Injury 2 Wellness Centers is a chiropractor in Lithia Springs, GA at 1777 Lee Rd #Suite D, Lithia Springs, GA 30122. Phone: +14042888433. Website: https://injury2wellness.com/.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/injury-2-wellness-centers-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/injury-2-wellness-centers-lithia-springs.json",
+   "address": {
+    "streetAddress": "1777 Lee Rd #Suite D",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7572627,
+    "lon": -84.6527397
+   },
+   "phone": "+14042888433",
+   "website": "https://injury2wellness.com/",
+   "opening_hours": "Mon,Wed, Fri: 08:00AM-07:00PM, Thu: 08:00AM-02:00PM, Sat: 09:00AM-03:00PM",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13425565798",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aaction-air-conditioning-and-heating-co-lithia-springs",
+   "name": "AAction Air Conditioning & Heating Co.",
+   "summary": "AAction Air Conditioning & Heating Co. is a HVAC contractor in Lithia Springs, GA at 7336 Lee Road, Lithia Springs, GA 30122. Phone: +14706982247. Website: https://atlanta.aactionair.net/.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aaction-air-conditioning-and-heating-co-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aaction-air-conditioning-and-heating-co-lithia-springs.json",
+   "address": {
+    "streetAddress": "7336 Lee Road",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.776266,
+    "lon": -84.652844
+   },
+   "phone": "+14706982247",
+   "website": "https://atlanta.aactionair.net/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/713942286",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-lithia-springs",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Lithia Springs, GA at 10370 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-lithia-springs.json",
+   "address": {
+    "streetAddress": "10370 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.797466,
+    "lon": -84.652938
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010685960",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "austell-lithia-self-storage-lithia-springs",
+   "name": "Austell / Lithia Self Storage",
+   "summary": "Austell / Lithia Self Storage is a self-storage facility in Lithia Springs, GA at 10261 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/austell-lithia-self-storage-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/austell-lithia-self-storage-lithia-springs.json",
+   "address": {
+    "streetAddress": "10261 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7958415,
+    "lon": -84.6481001
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5863637387",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ayres-realty-co-lithia-springs",
+   "name": "Ayres Realty Co",
+   "summary": "Ayres Realty Co is a real estate agency in Lithia Springs, GA at 10551 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ayres-realty-co-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ayres-realty-co-lithia-springs.json",
+   "address": {
+    "streetAddress": "10551 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7945689,
+    "lon": -84.6592088
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5865923538",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brothers-tires-lithia-springs",
+   "name": "Brothers Tires",
+   "summary": "Brothers Tires is a tire shop in Lithia Springs, GA at 10850 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brothers-tires-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brothers-tires-lithia-springs.json",
+   "address": {
+    "streetAddress": "10850 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7934784,
+    "lon": -84.6741224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5866348217",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "family-and-cosmetic-dentistry-lithia-springs",
+   "name": "Family & Cosmetic Dentistry",
+   "summary": "Family & Cosmetic Dentistry is a dentist in Lithia Springs, GA at 10470 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-and-cosmetic-dentistry-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-and-cosmetic-dentistry-lithia-springs.json",
+   "address": {
+    "streetAddress": "10470 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7974603,
+    "lon": -84.6560321
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5865863792",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hwy-78-body-shop-lithia-springs",
+   "name": "HWY 78 Body Shop",
+   "summary": "HWY 78 Body Shop is an auto repair shop in Lithia Springs, GA at 10330 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hwy-78-body-shop-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hwy-78-body-shop-lithia-springs.json",
+   "address": {
+    "streetAddress": "10330 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7969554,
+    "lon": -84.6504574
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5864329992",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "joyce-pike-sparks-ea-lithia-springs",
+   "name": "Joyce Pike Sparks, EA",
+   "summary": "Joyce Pike Sparks, EA is an accountant in Lithia Springs, GA at 10297 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joyce-pike-sparks-ea-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joyce-pike-sparks-ea-lithia-springs.json",
+   "address": {
+    "streetAddress": "10297 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7960638,
+    "lon": -84.6495723
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5864329991",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "low-cost-animal-hospital-lithia-springs",
+   "name": "Low Cost Animal Hospital",
+   "summary": "Low Cost Animal Hospital is a veterinarian in Lithia Springs, GA at 10781 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/low-cost-animal-hospital-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/low-cost-animal-hospital-lithia-springs.json",
+   "address": {
+    "streetAddress": "10781 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7930573,
+    "lon": -84.6699054
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5866348209",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lucks-barber-shop-lithia-springs",
+   "name": "Luck's Barber Shop",
+   "summary": "Luck's Barber Shop is a hair salon in Lithia Springs, GA at 10561 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lucks-barber-shop-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lucks-barber-shop-lithia-springs.json",
+   "address": {
+    "streetAddress": "10561 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7945049,
+    "lon": -84.6593419
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5865923539",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mctyre-lock-and-safe-lithia-springs",
+   "name": "McTyre Lock & Safe",
+   "summary": "McTyre Lock & Safe is a locksmith in Lithia Springs, GA at 10861 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "locksmith"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mctyre-lock-and-safe-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mctyre-lock-and-safe-lithia-springs.json",
+   "address": {
+    "streetAddress": "10861 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7930398,
+    "lon": -84.6742905
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5866348218",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "metro-self-storage-lithia-springs",
+   "name": "Metro Self Storage",
+   "summary": "Metro Self Storage is a self-storage facility in Lithia Springs, GA at 10240 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-self-storage-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-self-storage-lithia-springs.json",
+   "address": {
+    "streetAddress": "10240 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7964324,
+    "lon": -84.646027
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5863521487",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nationwide-lithia-springs",
+   "name": "Nationwide",
+   "summary": "Nationwide is an insurance agent in Lithia Springs, GA at 10362 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nationwide-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nationwide-lithia-springs.json",
+   "address": {
+    "streetAddress": "10362 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7976665,
+    "lon": -84.652635
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010686857",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "neighborhood-auto-center-lithia-springs",
+   "name": "Neighborhood Auto Center",
+   "summary": "Neighborhood Auto Center is an auto repair shop in Lithia Springs, GA at 10711 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/neighborhood-auto-center-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/neighborhood-auto-center-lithia-springs.json",
+   "address": {
+    "streetAddress": "10711 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7930631,
+    "lon": -84.6649786
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5866275037",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "okis-body-shop-and-painting-llc-lithia-springs",
+   "name": "Okis Body Shop & Painting LLC",
+   "summary": "Okis Body Shop & Painting LLC is an auto repair shop in Lithia Springs, GA at 10870 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/okis-body-shop-and-painting-llc-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/okis-body-shop-and-painting-llc-lithia-springs.json",
+   "address": {
+    "streetAddress": "10870 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7934687,
+    "lon": -84.6746081
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5866348220",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pep-boys-lithia-springs",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Lithia Springs, GA at 10181 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-lithia-springs.json",
+   "address": {
+    "streetAddress": "10181 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7964295,
+    "lon": -84.643732
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010685715",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pro-body-shop-lithia-springs",
+   "name": "Pro Body Shop",
+   "summary": "Pro Body Shop is an auto repair shop in Lithia Springs, GA at 10731 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-body-shop-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-body-shop-lithia-springs.json",
+   "address": {
+    "streetAddress": "10731 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7931854,
+    "lon": -84.6662722
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5866275039",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "r-and-h-tire-and-auto-lithia-springs",
+   "name": "R & H Tire & Auto",
+   "summary": "R & H Tire & Auto is an auto repair shop in Lithia Springs, GA at 11030 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/r-and-h-tire-and-auto-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/r-and-h-tire-and-auto-lithia-springs.json",
+   "address": {
+    "streetAddress": "11030 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7939049,
+    "lon": -84.6815229
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5866407730",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rolling-wheels-and-tires-lithia-springs",
+   "name": "Rolling Wheels & Tires",
+   "summary": "Rolling Wheels & Tires is a tire shop in Lithia Springs, GA at 10510 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rolling-wheels-and-tires-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rolling-wheels-and-tires-lithia-springs.json",
+   "address": {
+    "streetAddress": "10510 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7967073,
+    "lon": -84.6569841
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5865923537",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "smart-auto-care-lithia-springs",
+   "name": "Smart Auto Care",
+   "summary": "Smart Auto Care is an auto repair shop in Lithia Springs, GA at 11101 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smart-auto-care-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smart-auto-care-lithia-springs.json",
+   "address": {
+    "streetAddress": "11101 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.791743,
+    "lon": -84.68636
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010687975",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-lithia-springs",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Lithia Springs, GA at 10270 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-lithia-springs.json",
+   "address": {
+    "streetAddress": "10270 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7963115,
+    "lon": -84.647355
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1010685779",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tire-kingz-lithia-springs",
+   "name": "Tire Kingz",
+   "summary": "Tire Kingz is a tire shop in Lithia Springs, GA at 10603 Veterans Memorial Highway, Lithia Springs, GA 30122.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tire-kingz-lithia-springs/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tire-kingz-lithia-springs.json",
+   "address": {
+    "streetAddress": "10603 Veterans Memorial Highway",
+    "addressLocality": "Lithia Springs",
+    "addressRegion": "GA",
+    "postalCode": "30122",
+    "addressCountry": "US"
+   },
+   "city": "Lithia Springs",
+   "state": "GA",
+   "zip": "30122",
+   "geo": {
+    "lat": 33.7937403,
+    "lon": -84.6609857
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5865923541",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

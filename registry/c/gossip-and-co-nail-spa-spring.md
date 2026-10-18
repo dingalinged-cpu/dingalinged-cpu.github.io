@@ -13,6 +13,7 @@ Gossip & Co. Nail Spa is a nail salon in Spring, TX at 5240 FM 2920 #100, Spring
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 11:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

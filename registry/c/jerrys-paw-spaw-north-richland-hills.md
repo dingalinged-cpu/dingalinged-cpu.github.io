@@ -13,6 +13,7 @@ Jerry's Paw Spaw is a dog groomer in North Richland Hills, TX at 7800 Davis Boul
 - Website: https://www.jerryspawspaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 13:00-15:00; Tu-Fr 08:00-16:00; Sa 08:00-14:00; Su 12:00-13:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

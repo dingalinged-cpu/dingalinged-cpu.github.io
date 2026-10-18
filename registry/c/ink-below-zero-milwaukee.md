@@ -13,6 +13,7 @@ Ink Below Zero is a tattoo shop in Milwaukee, WI at 7530 West Appleton Avenue, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 54.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

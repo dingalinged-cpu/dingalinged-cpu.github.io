@@ -13,6 +13,7 @@ A Q Nails is a nail salon in Elk Grove Village, IL at 140 Biesterfield Road, Elk
 - Website: https://aqnailsil.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

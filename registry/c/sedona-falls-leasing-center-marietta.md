@@ -1,0 +1,24 @@
+Sedona Falls Leasing Center is a property management company in Marietta, GA at 1717 Waterfall Village Drive Southeast, Marietta, GA 30067. Phone: +17709520070. Website: https://www.sedonafallsapartments.com/.
+
+# Sedona Falls Leasing Center
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: 1717 Waterfall Village Drive Southeast, Marietta, GA 30067
+- City: Marietta
+- State: GA
+- ZIP: 30067
+- Coordinates: 33.9113698, -84.48741
+- Phone: +17709520070
+- Website: https://www.sedonafallsapartments.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 09:00-18:00;Sa 10:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sedona-falls-leasing-center-marietta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sedona-falls-leasing-center-marietta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/300104864 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

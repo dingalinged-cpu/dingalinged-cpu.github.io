@@ -1,0 +1,24 @@
+Monda's Family Hair Care McFarland is a hair salon in McFarland, WI at 5910 US-51, McFarland, WI 53558. Phone: +16085791400. Website: https://www.mondashaircare.com/.
+
+# Monda's Family Hair Care McFarland
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 5910 US-51, McFarland, WI 53558
+- City: McFarland
+- State: WI
+- ZIP: 53558
+- Coordinates: 43.0143454, -89.3029921
+- Phone: +16085791400
+- Website: https://www.mondashaircare.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mondas-family-hair-care-mcfarland-mcfarland/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mondas-family-hair-care-mcfarland-mcfarland.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4590081900 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

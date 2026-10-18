@@ -13,6 +13,7 @@ The Wealth is an event venue in Houston, TX at 422 West Crosstimbers Street, Hou
 - Website: https://www.thewealthhtx.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

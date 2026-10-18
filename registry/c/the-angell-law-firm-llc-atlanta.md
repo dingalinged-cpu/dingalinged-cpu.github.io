@@ -1,0 +1,24 @@
+The Angell Law Firm, LLC is a lawyer in Atlanta, GA at 3391 Peachtree Road Northeast, Atlanta, GA 30326. Phone: +17702174954. Website: https://www.georgiainjurylawyer.com/.
+
+# The Angell Law Firm, LLC
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: 3391 Peachtree Road Northeast, Atlanta, GA 30326
+- City: Atlanta
+- State: GA
+- ZIP: 30326
+- Coordinates: 33.8476275, -84.3664756
+- Phone: +17702174954
+- Website: https://www.georgiainjurylawyer.com/
+- Email: bryce@atlantalawyer.com
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-angell-law-firm-llc-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-angell-law-firm-llc-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5601534242 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

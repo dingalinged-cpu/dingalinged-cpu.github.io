@@ -1,0 +1,24 @@
+Main Street Music is an event venue in Brooklyn, WI at 102 West Main Street, Brooklyn, WI 53521.
+
+# Main Street Music
+
+- Category: event venues
+- Services: event venues
+- Address: 102 West Main Street, Brooklyn, WI 53521
+- City: Brooklyn
+- State: WI
+- ZIP: 53521
+- Coordinates: 42.8539647, -89.3720786
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/main-street-music-brooklyn/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/main-street-music-brooklyn.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/432827076 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

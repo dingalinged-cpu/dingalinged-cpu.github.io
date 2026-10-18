@@ -13,6 +13,7 @@ The UPS Store is a printing service in Sachse, TX at 5250 State Highway 78 #750,
 - Website: https://locations.theupsstore.com/tx/sachse/5250-hwy-78
 - Email: store5631@theupsstore.com
 - Opening hours (OSM syntax): Su 11:00-16:00; Mo,Tu,We,Th,Fr 08:00-19:00; Sa 09:00-17:00
+- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

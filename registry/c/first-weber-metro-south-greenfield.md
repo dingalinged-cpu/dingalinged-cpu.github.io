@@ -13,6 +13,7 @@ First Weber Metro South is a real estate agency in Greenfield, WI at 10521 West 
 - Website: https://www.firstweber.com/bio/metrosouth
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

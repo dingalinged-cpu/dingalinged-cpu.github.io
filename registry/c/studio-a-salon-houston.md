@@ -13,6 +13,7 @@ Studio A Salon is a hair salon in Houston, TX at 803 Usener Street #300, Houston
 - Website: https://www.studioahouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Sa 09:00-17:00; Tu-Fr 09:00-20:00; Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

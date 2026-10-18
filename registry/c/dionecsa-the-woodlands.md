@@ -13,6 +13,7 @@ DIONECSA is a graphic designer in The Woodlands, TX at 21 Waterway Avenue #300, 
 - Website: https://dionecsa.com/
 - Email: info@dionecsa.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Chapel at Entrada is an event venue in Westlake, TX at 49 Tarragona Drive, Westl
 - Website: https://waltersweddingestates.com/venues/chapel-at-entrada-westlake/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+Chloes Auto Repair and Tire is an auto repair shop in Woodstock, GA at 6422 Bells Ferry Road ##100, Woodstock, GA 30189. Phone: +17705758800. Website: https://chloesautorepair.com/.
+
+# Chloes Auto Repair and Tire
+
+- Category: auto repair
+- Services: auto repair, mechanic, oil change, brake repair, transmission repair, tire shop
+- Address: 6422 Bells Ferry Road ##100, Woodstock, GA 30189
+- City: Woodstock
+- State: GA
+- ZIP: 30189
+- Coordinates: 34.1128424, -84.5804403
+- Phone: +17705758800
+- Website: https://chloesautorepair.com/
+- Email: storetl@chloesautorepair.com
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-and-tire-woodstock/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chloes-auto-repair-and-tire-woodstock.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8778017125 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

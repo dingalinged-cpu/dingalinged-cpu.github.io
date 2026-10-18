@@ -13,6 +13,7 @@ Finally Vegan Macarons is a bakery in Houston, TX at 4819 Blossom Street, Housto
 - Website: https://finallyveganmacarons.com/
 - Email: finallyveganmacarons@gmail.com
 - Opening hours (OSM syntax): We-Sa 13:30-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

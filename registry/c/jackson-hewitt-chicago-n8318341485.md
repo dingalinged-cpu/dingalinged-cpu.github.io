@@ -13,6 +13,7 @@ Jackson Hewitt is a tax preparation service in Chicago, IL at 2221 West Howard S
 - Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/il/chicago/2221-w-howard-street/11552
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

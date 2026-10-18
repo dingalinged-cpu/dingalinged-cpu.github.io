@@ -13,6 +13,7 @@ DinoDental is a dentist in Houston, TX at 6421 West 43rd Street, Houston, TX 770
 - Website: https://www.dinodental.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

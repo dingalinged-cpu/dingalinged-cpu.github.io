@@ -13,6 +13,7 @@ Finesse Detailing is a car wash in Denton, TX. Phone: +14697760000. Website: htt
 - Website: https://fdetail.com/denton/
 - Email: support@fdetail.com
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
+- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

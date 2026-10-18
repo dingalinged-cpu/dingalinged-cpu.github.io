@@ -13,6 +13,7 @@ A&S Beverages is a liquor store in Chicago, IL at 1214 East 53rd Street, Chicago
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-23:00; Mo-We 10:00-23:00; Th-Sa 10:00-00:00
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

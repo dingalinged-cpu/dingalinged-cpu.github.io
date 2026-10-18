@@ -13,6 +13,7 @@ MedVet Chicago is a veterinarian in Chicago, IL at 3305 North California Avenue,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 57.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

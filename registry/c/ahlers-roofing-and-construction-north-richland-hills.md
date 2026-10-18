@@ -13,6 +13,7 @@ Ahlers Roofing and Construction is a roofer in North Richland Hills, TX at 7709 
 - Website: https://www.ahlersroofing.com/roofing-and-construction-in-north-richland-hills-texas
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 53.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

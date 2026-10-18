@@ -13,6 +13,7 @@ Wrigglyville Veterinary is a veterinarian in Chicago, IL at 3651 North Halsted S
 - Website: https://wrigleyvillevet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa-Su off
+- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

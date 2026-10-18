@@ -13,6 +13,7 @@ Consignment Store is a thrift store in Saint Paul, MN at 1412 Arcade Street, Sai
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th 11:00-16:00; We,Fr off; Sa-Su 11:00-17:00
+- Registry Score: 57.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

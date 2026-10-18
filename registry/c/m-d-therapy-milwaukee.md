@@ -13,6 +13,7 @@ M.D. Therapy is a therapy practice in Milwaukee, WI. Phone: +14144663204. Websit
 - Website: https://mdtherapybh.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa "by appointment"; Su off
+- Registry Score: 56.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

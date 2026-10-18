@@ -13,6 +13,7 @@ Specialized is a bike shop in Chicago, IL at 2104 North Halsted Street, Chicago,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-18:00
+- Registry Score: 45/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Occasions at Stone River is an event venue in Royse City, TX at 1250 Farm to Mar
 - Website: https://occasionsatstoneriver.com/
 - Email: office@occasionsatstoneriver.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

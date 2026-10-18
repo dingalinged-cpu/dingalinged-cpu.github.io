@@ -1,0 +1,24 @@
+Hairlarious is a hair salon in Atlanta, GA at 2227 College Avenue Northeast, Atlanta, GA 30317. Website: https://square.site/book/7QGB9C8RE9C1P/hairlarious-haircuts-salon-atlanta-ga.
+
+# Hairlarious
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 2227 College Avenue Northeast, Atlanta, GA 30317
+- City: Atlanta
+- State: GA
+- ZIP: 30317
+- Coordinates: 33.7646137, -84.3144192
+- Phone: n/a
+- Website: https://square.site/book/7QGB9C8RE9C1P/hairlarious-haircuts-salon-atlanta-ga
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hairlarious-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hairlarious-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8309489057 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

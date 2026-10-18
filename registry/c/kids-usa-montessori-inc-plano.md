@@ -13,6 +13,7 @@ KIDS USA Montessori Inc. is a daycare in Plano, TX at 6205 Coit Road #118, Plano
 - Website: https://kidsusamontessori.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
+- Registry Score: 64/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

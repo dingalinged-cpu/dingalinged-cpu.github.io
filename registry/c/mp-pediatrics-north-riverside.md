@@ -13,6 +13,7 @@ MP Pediatrics is a pediatrician in North Riverside, IL at 7222 Cermak Road #504,
 - Website: https://mppediatrics.com/our-locations
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

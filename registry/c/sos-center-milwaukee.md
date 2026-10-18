@@ -13,6 +13,7 @@ SOS Center is a daycare in Milwaukee, WI at 4620 West North Avenue, Milwaukee, W
 - Website: https://soscenterinc.org/
 - Email: info@soscenterinc.com
 - Opening hours (OSM syntax): Mo-Th 15:00-18:00; Sa 10:00-14:00; Fr,Su off
+- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

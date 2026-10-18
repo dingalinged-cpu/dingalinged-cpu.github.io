@@ -13,6 +13,7 @@ Rose Massage is a massage studio in West Allis, WI at 11084 West National Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:30-22:00
+- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

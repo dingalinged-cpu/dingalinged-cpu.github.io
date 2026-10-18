@@ -13,6 +13,7 @@ Apple Spice Box Lunch Delivery and Catering is a caterer in Addison, TX at 15004
 - Website: https://www.applespice.com/locations/texas/dallas-tx/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 54.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Newville PLC is a lawyer in Minneapolis, MN. Phone: +16129002563. Website: https
 - Website: https://www.newville.com/
 - Email: inquiry@newville.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00
+- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

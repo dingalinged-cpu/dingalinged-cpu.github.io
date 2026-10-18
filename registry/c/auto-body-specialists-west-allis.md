@@ -13,6 +13,7 @@ Auto Body Specialists is an auto repair shop in West Allis, WI at 6024 West Mitc
 - Website: https://www.autobodyspecialistsllc.net/
 - Email: autobodyspecialists@hotmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

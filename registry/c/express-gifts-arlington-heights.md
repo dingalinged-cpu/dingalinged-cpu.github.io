@@ -13,6 +13,7 @@ Express Gifts is a gift shop in Arlington Heights, IL at 2300 East Rand Road, Ar
 - Website: https://expressgiftsil.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 10:00-16:00
+- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

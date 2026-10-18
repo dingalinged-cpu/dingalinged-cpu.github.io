@@ -13,6 +13,7 @@ Fans Spot Barbershop is a barber shop in Milwaukee, WI at 333 West National Aven
 - Website: https://fans-spot-barber-shop.hub.biz/
 - Email: jjjariel2@gmail.com
 - Opening hours (OSM syntax): Mo,We 14:00-18:00; Th-Fr 10:00-17:00
+- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

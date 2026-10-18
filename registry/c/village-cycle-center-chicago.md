@@ -13,6 +13,7 @@ Village Cycle Center is a bike shop in Chicago, IL at 1337 North Wells Street, C
 - Website: https://www.villagecycle.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa, Su 10:00-18:00
+- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

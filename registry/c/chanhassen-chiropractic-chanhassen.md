@@ -13,6 +13,7 @@ Chanhassen Chiropractic is a chiropractor in Chanhassen, MN at 7800 Market Boule
 - Website: https://chanhassenchiro.com/
 - Email: drrohin@chanhassenchiro.com
 - Opening hours (OSM syntax): Mo,We 09:00-12:00,15:00-18:00; Tu 09:00-12:00,13:00-16:00; Th 14:00-18:00; Fr 09:00-12:00
+- Registry Score: 64.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

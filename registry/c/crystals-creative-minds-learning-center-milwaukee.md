@@ -13,6 +13,7 @@ Crystal's Creative Minds Learning Center is a daycare in Milwaukee, WI at 3601 W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-19:00
+- Registry Score: 56.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

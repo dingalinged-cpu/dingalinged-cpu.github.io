@@ -1,0 +1,58 @@
+Keyword market for Mcfarland, WI: 20 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Madison, WI metro (US volume x population share).
+
+# Top keywords in Mcfarland, WI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash mcfarland wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-mcfarland-wi/
+2. gym mcfarland wi | searches/mo 3,800 (est) | CPC $1.67 | value $6,300 | Google Ads equiv $460/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-mcfarland-wi/
+3. hair salon mcfarland wi | searches/mo 3,100 (est) | CPC $0.55 | value $1,700 | Google Ads equiv $97.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-mcfarland-wi/
+4. nail salon mcfarland wi | searches/mo 2,100 (est) | CPC $0.61 | value $1,300 | Google Ads equiv $73.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-mcfarland-wi/
+5. mechanic mcfarland wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-mcfarland-wi/
+6. vet mcfarland wi | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-mcfarland-wi/
+7. haircut mcfarland wi | searches/mo 760 (est) | CPC $4.62 | value $3,500 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-mcfarland-wi/
+8. auto repair mcfarland wi | searches/mo 620 (est) | CPC $4.35 | value $2,700 | Google Ads equiv $150/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-mcfarland-wi/
+9. chiropractor mcfarland wi | searches/mo 510 (est) | CPC $4.76 | value $2,400 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-mcfarland-wi/
+10. financial advisor mcfarland wi | searches/mo 510 (est) | CPC $3.39 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-mcfarland-wi/
+11. real estate agent mcfarland wi | searches/mo 420 (est) | CPC $3.61 | value $1,500 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-mcfarland-wi/
+12. insurance agency mcfarland wi | searches/mo 190 (est) | CPC $3.39 | value $640 | Google Ads equiv $54.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-mcfarland-wi/
+13. realtor mcfarland wi | searches/mo 190 (est) | CPC $3.70 | value $700 | Google Ads equiv $59.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-mcfarland-wi/
+14. insurance agents mcfarland wi | searches/mo 100 (est) | CPC $3.39 | value $340 | Google Ads equiv $28.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-mcfarland-wi/
+15. insurance agent mcfarland wi | searches/mo 84.00 (est) | CPC $3.39 | value $280 | Google Ads equiv $24.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-mcfarland-wi/
+
+## By CPC
+1. martial arts mcfarland wi | searches/mo 620 (est) | CPC $6.17 | value $3,800 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/martial-arts-mcfarland-wi/
+2. daycare mcfarland wi | searches/mo 460 (est) | CPC $4.81 | value $2,200 | Google Ads equiv $130/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-mcfarland-wi/
+3. chiropractor mcfarland wi | searches/mo 510 (est) | CPC $4.76 | value $2,400 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-mcfarland-wi/
+4. haircut mcfarland wi | searches/mo 760 (est) | CPC $4.62 | value $3,500 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-mcfarland-wi/
+5. tattoo shop mcfarland wi | searches/mo 1,900 (est) | CPC $4.62 | value $8,800 | Google Ads equiv $500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tattoo-shop-mcfarland-wi/
+6. auto repair mcfarland wi | searches/mo 620 (est) | CPC $4.35 | value $2,700 | Google Ads equiv $150/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-mcfarland-wi/
+7. car wash mcfarland wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-mcfarland-wi/
+8. mechanic mcfarland wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-mcfarland-wi/
+9. liquor store mcfarland wi | searches/mo 290 (est) | CPC $4.14 | value $1,200 | Google Ads equiv $110/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/liquor-store-mcfarland-wi/
+10. vet mcfarland wi | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-mcfarland-wi/
+11. realtor mcfarland wi | searches/mo 190 (est) | CPC $3.70 | value $700 | Google Ads equiv $59.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-mcfarland-wi/
+12. real estate agent mcfarland wi | searches/mo 420 (est) | CPC $3.61 | value $1,500 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-mcfarland-wi/
+13. financial advisor mcfarland wi | searches/mo 510 (est) | CPC $3.39 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-mcfarland-wi/
+14. funeral home mcfarland wi | searches/mo 460 (est) | CPC $3.39 | value $1,600 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/funeral-home-mcfarland-wi/
+15. insurance agency mcfarland wi | searches/mo 190 (est) | CPC $3.39 | value $640 | Google Ads equiv $54.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-mcfarland-wi/
+
+## By value (searches x CPC)
+1. car wash mcfarland wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-mcfarland-wi/
+2. gym mcfarland wi | searches/mo 3,800 (est) | CPC $1.67 | value $6,300 | Google Ads equiv $460/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-mcfarland-wi/
+3. mechanic mcfarland wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-mcfarland-wi/
+4. vet mcfarland wi | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-mcfarland-wi/
+5. haircut mcfarland wi | searches/mo 760 (est) | CPC $4.62 | value $3,500 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/haircut-mcfarland-wi/
+6. auto repair mcfarland wi | searches/mo 620 (est) | CPC $4.35 | value $2,700 | Google Ads equiv $150/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-mcfarland-wi/
+7. chiropractor mcfarland wi | searches/mo 510 (est) | CPC $4.76 | value $2,400 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-mcfarland-wi/
+8. financial advisor mcfarland wi | searches/mo 510 (est) | CPC $3.39 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-mcfarland-wi/
+9. hair salon mcfarland wi | searches/mo 3,100 (est) | CPC $0.55 | value $1,700 | Google Ads equiv $97.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/hair-salon-mcfarland-wi/
+10. real estate agent mcfarland wi | searches/mo 420 (est) | CPC $3.61 | value $1,500 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-mcfarland-wi/
+11. nail salon mcfarland wi | searches/mo 2,100 (est) | CPC $0.61 | value $1,300 | Google Ads equiv $73.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-mcfarland-wi/
+12. realtor mcfarland wi | searches/mo 190 (est) | CPC $3.70 | value $700 | Google Ads equiv $59.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-mcfarland-wi/
+13. insurance agency mcfarland wi | searches/mo 190 (est) | CPC $3.39 | value $640 | Google Ads equiv $54.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-mcfarland-wi/
+14. insurance agents mcfarland wi | searches/mo 100 (est) | CPC $3.39 | value $340 | Google Ads equiv $28.00/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-mcfarland-wi/
+15. insurance agent mcfarland wi | searches/mo 84.00 (est) | CPC $3.39 | value $280 | Google Ads equiv $24.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agent-mcfarland-wi/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

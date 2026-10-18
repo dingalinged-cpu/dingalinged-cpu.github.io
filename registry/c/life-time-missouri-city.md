@@ -13,6 +13,7 @@ Life Time is a yoga studio in Missouri City, TX at 8421 Highway 6, Missouri City
 - Website: https://www.lifetime.life/locations/tx/missouri-city.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 04:00-24:00; Sa-Su 05:00-23:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

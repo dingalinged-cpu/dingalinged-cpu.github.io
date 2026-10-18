@@ -13,6 +13,7 @@ Crescent Tide Funeral & Cremation is a funeral home in Saint Paul, MN at 774 Tra
 - Website: https://www.crescenttide.com/
 - Email: CrescentTide@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 64.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

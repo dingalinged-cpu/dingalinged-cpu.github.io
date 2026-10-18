@@ -1,0 +1,24 @@
+Aparna's Dance Academy is a dance studio in Johns Creek, GA at 11950 Jones Bridge Road, Johns Creek, GA 30005.
+
+# Aparna's Dance Academy
+
+- Category: dance studio
+- Services: dance studio
+- Address: 11950 Jones Bridge Road, Johns Creek, GA 30005
+- City: Johns Creek
+- State: GA
+- ZIP: 30005
+- Coordinates: 34.0712317, -84.2045722
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/aparnas-dance-academy-johns-creek/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/aparnas-dance-academy-johns-creek.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5944637254 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

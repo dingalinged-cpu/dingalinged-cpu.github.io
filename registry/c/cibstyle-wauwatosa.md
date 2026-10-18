@@ -13,6 +13,7 @@ Cibstyle is a nail salon in Wauwatosa, WI. Phone: +19203058545. Website: https:/
 - Website: https://cibstyle.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00, Su 11:00-18:00
+- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

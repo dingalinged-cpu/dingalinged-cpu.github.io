@@ -13,6 +13,7 @@ LGI Homes - Vacek Country Meadows is a real estate agency in Richmond, TX at 107
 - Website: https://www.lgihomes.com/texas/houston/vacek-country-meadows
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:30-20:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

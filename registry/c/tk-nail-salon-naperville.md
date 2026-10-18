@@ -13,6 +13,7 @@ TK Nail Salon is a nail salon in Naperville, IL at 860 West 75th Street #116, Na
 - Website: https://tknailsalonnaperville.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:30-20:00, Fr 09:00-20:00, Sa 09:00-18:30, Su 10:30-17:00
+- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ A&T Barbershop is a barber shop in The Colony, TX at 3805 Main Street ##202, The
 - Website: https://atbarbers.com/
 - Email: At.barbershop90@gmail.com
 - Opening hours (OSM syntax): Mo-Su 10:00-21:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

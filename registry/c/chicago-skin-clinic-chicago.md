@@ -13,6 +13,7 @@ Chicago Skin Clinic is a dermatologist in Chicago, IL at 5440 West Belmont Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 10:00-14:00; Tu,Th 11:00-18:00; Fr 12:00-18:00
+- Registry Score: 57.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

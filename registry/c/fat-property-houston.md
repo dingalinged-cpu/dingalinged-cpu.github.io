@@ -13,6 +13,7 @@ Fat Property is a real estate agency in Houston, TX at 3800 Garrott Street, Hous
 - Website: https://fatproperty.com/
 - Email: admin@fatproperty.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

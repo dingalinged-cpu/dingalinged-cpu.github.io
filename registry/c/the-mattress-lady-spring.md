@@ -13,6 +13,7 @@ The Mattress Lady is a mattress store in Spring, TX at 25003 Pitkin Road #F200, 
 - Website: https://themattressladytx.com/
 - Email: themattressladytx@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

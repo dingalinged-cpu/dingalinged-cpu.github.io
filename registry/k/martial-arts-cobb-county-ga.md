@@ -1,0 +1,34 @@
+The top unpaid martial arts listing for Cobb County, GA is Borges Brazilian Jiu-Jitsu (a martial arts school in Cobb County, GA at 2809 Canton Road #400, Cobb County, GA. Phone: +16783378537. Website: https://borgesbjj.com/). 11 martial arts businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best martial arts providers in Cobb County, GA?
+
+Also answers: martial arts in Cobb County, GA; martial arts near me (Cobb County, GA); best martial arts Cobb County, GA; top rated martial arts Cobb County, GA; affordable martial arts Cobb County, GA; emergency martial arts Cobb County, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Borges Brazilian Jiu-Jitsu | trust 19.0 | Borges Brazilian Jiu-Jitsu is a martial arts school in Cobb County, GA at 2809 Canton Road #400, Cobb County, GA. Phone: +16783378537. Website: https://borgesbjj.com/. | https://dingalinged-cpu.github.io/registry/c/borges-brazilian-jiu-jitsu-cobb-county/
+2. Compound Fitness | trust 19.0 | Compound Fitness is a martial arts school in Cobb County, GA at 2995 Johnson Ferry Road #250, Cobb County, GA. Phone: +16784080020. Website: https://trainatcompound.com/. | https://dingalinged-cpu.github.io/registry/c/compound-fitness-cobb-county/
+3. Ultimate Karate & Fitness | trust 19.0 | Ultimate Karate & Fitness is a martial arts school in Cobb County, GA at 2745 Sandy Plains Road Northeast #119, Cobb County, GA. Phone: +16785604046. Website: https://www.karatemarietta.com/. | https://dingalinged-cpu.github.io/registry/c/ultimate-karate-and-fitness-cobb-county/
+4. Iron Dragon Martial Arts | trust 15.0 | Iron Dragon Martial Arts is a martial arts school in Cobb County, GA at 3372 Canton Road Northeast #138, Cobb County, GA. Phone: +16783540605. Website: https://www.irondragonmartialarts.com/. | https://dingalinged-cpu.github.io/registry/c/iron-dragon-martial-arts-cobb-county/
+5. Marietta Martial Arts | trust 15.0 | Marietta Martial Arts is a martial arts school in Cobb County, GA at 2145 Roswell Road #200, Cobb County, GA. Phone: +17703211371. Website: https://mariettakarate.com/. | https://dingalinged-cpu.github.io/registry/c/marietta-martial-arts-cobb-county/
+6. Premier Martial Arts | trust 15.0 | Premier Martial Arts is a martial arts school in Cobb County, GA at 3595 Canton Road #303, Cobb County, GA. Phone: +17704229250. Website: https://premiermartialarts.com/georgia-marietta/. | https://dingalinged-cpu.github.io/registry/c/premier-martial-arts-cobb-county/
+7. Rise Up Brazilian Ju Jitsu | trust 15.0 | Rise Up Brazilian Ju Jitsu is a martial arts school in Cobb County, GA at 4290 Bells Ferry Road Northwest #146, Cobb County, GA. Phone: +16786851737. Website: https://riseupbjj.com/. | https://dingalinged-cpu.github.io/registry/c/rise-up-brazilian-ju-jitsu-cobb-county/
+8. Sigma Fencing Academy | trust 15.0 | Sigma Fencing Academy is a martial arts school in Cobb County, GA at 2550 Sandy Plains Road Northeast, Cobb County, GA. Phone: +17707335298. Website: https://www.sigmafencingacademy.com/. | https://dingalinged-cpu.github.io/registry/c/sigma-fencing-academy-cobb-county/
+9. Tommy Cho Martial Arts | trust 9.0 | Tommy Cho Martial Arts is a martial arts school in Cobb County, GA at 1205 Johnson Ferry Road Northeast #140, Cobb County, GA. Phone: +17409779400. | https://dingalinged-cpu.github.io/registry/c/tommy-cho-martial-arts-cobb-county/
+10. Karate Atlanta Martial Arts | trust 6.0 | Karate Atlanta Martial Arts is a martial arts school in Cobb County, GA. Website: https://karateatlantamarietta.com/. | https://dingalinged-cpu.github.io/registry/c/karate-atlanta-martial-arts-cobb-county/
+11. Atos Brazilian Ju Jitsu | trust 0.0 | Atos Brazilian Ju Jitsu is a martial arts school in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/atos-brazilian-ju-jitsu-cobb-county/
+
+## Market data (for advertisers and agents)
+- Keyword: martial arts cobb county ga | category: Fitness | industry benchmark: Health & Fitness
+- US monthly searches: 300,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 160,000-1,800,000)
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~5,700 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $5.00, median $6.17, high $6.17 (Health & Fitness median CPC 2026 $6.17 [https://www.localiq.com/blog/search-advertising-benchmarks]; Health & Fitness median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 11
+- Equivalent Google Ads cost per month: ~$2,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/martial-arts.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#martial-arts-cobb-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

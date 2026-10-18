@@ -13,6 +13,7 @@ Flip N Styles is a hair salon in Milwaukee, WI at 817 West National Avenue, Milw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-18:00; Tu,We,Th 10:00-19:00; Fr 08:00-19:00; Sa 08:00-17:00; Su off
+- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

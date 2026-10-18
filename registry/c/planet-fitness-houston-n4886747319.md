@@ -13,6 +13,7 @@ Planet Fitness is a gym in Houston, TX at 8150 Southwest Freeway, Houston, TX 77
 - Website: https://www.planetfitness.com/gyms/houston-sharpstown-tx
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Ivanhoe Dental Group is a dentist in Riverdale, IL at 61 West 144th Street, Rive
 - Website: https://www.ivanhoedental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-15:00; Sa 08:00-14:00
+- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

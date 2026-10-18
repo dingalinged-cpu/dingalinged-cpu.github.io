@@ -13,6 +13,7 @@ Sport Clips is a hair salon in Crestwood, IL at 13422 Cicero Avenue, Crestwood, 
 - Website: https://sportclips.com/us-il-crestwood-il169
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

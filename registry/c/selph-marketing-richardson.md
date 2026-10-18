@@ -13,6 +13,7 @@ Selph Marketing is a marketing agency in Richardson, TX at 1001 South Sherman St
 - Website: https://www.selphmarketing.com/
 - Email: info@selphmarketing.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
+- Registry Score: 62/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

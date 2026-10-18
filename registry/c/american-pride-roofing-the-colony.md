@@ -13,6 +13,7 @@ American Pride Roofing is a roofer in The Colony, TX at 5201 South Colony Boulev
 - Website: https://americanprideroofing.com/the-colony-tx-roofing-company/
 - Email: TheColony@AmericanPrideRoofing.com
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00
+- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

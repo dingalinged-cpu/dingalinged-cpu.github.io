@@ -13,6 +13,7 @@ Anytime Fitness is a gym in Conroe, TX at 9420 College Park Drive #20, Conroe, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

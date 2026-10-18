@@ -13,6 +13,7 @@ The Dog District is a dog boarding facility in Darien, IL at 1100 North Frontage
 - Website: https://www.dogdistrictdarien.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

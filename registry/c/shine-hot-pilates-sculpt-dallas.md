@@ -13,6 +13,7 @@ Shine Hot Pilates + Sculpt is a gym in Dallas, TX. Website: https://shinehotpila
 - Website: https://shinehotpilates.com/schedule-a-class/?_mt=%2Fschedule%2Fdaily%2F48541%3Flocations%3D48717
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:30-13:00; Su 09:00-15:00
+- Registry Score: 57.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

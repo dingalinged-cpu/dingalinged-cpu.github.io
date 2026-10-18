@@ -13,6 +13,7 @@ Strand on Second is a hair salon in Milwaukee, WI at 716 South 2nd Street, Milwa
 - Website: https://strand-on-second.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:00-15:00; Su off
+- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

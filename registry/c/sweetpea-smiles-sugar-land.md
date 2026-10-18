@@ -13,6 +13,7 @@ Sweetpea Smiles is a dentist in Sugar Land, TX at 15850 Southwest Freeway #400, 
 - Website: https://www.sweetpeasmiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00 open, 12:00-13:00 off "Lunch"; Fr 08:00-14:00; Sa open "By appointment only"; Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

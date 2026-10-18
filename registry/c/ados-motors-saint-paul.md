@@ -13,6 +13,7 @@ Ado's Motors is an used car dealer in Saint Paul, MN at 834 7th Street West, Sai
 - Website: https://adosmotorsmn.com/
 - Email: sales@adosmotorsmn.com
 - Opening hours (OSM syntax): Mo,We-Fr 11:00-19:00; Tu 09:00-17:00; Sa 10:00-16:00
+- Registry Score: 67.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

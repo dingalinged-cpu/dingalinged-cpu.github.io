@@ -13,6 +13,7 @@ Christensen Tire & Automotive is an auto repair shop in Richardson, TX at 2161 E
 - Website: n/a
 - Email: christensentire1@msn.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 07:30-17:00
+- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ CFC Therapy is a therapy practice in Chicago, IL at 1731 North Marcy Street #505
 - Website: https://cfctherapy.com/contact/
 - Email: scheduling@cfctherapy.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa, Su 09:00-15:00
+- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

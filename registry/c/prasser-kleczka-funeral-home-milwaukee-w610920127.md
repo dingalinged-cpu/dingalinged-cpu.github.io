@@ -13,6 +13,7 @@ Prasser-Kleczka Funeral Home is a funeral home in Milwaukee, WI at 6080 South 27
 - Website: https://www.pkfuneralhomes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

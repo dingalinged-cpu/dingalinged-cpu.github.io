@@ -13,6 +13,7 @@ Valley Ranch Pet Clinic is a veterinarian in Irving, TX at 455 Cimarron Trail, I
 - Website: https://www.valleyranchpetclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 07:00-18:00; Tu,Th 07:00-19:00; Sa 08:00-12:00
+- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

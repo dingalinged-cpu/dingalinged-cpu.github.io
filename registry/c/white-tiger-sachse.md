@@ -13,6 +13,7 @@ White Tiger is a martial arts school in Sachse, TX at 5250 State Highway 78 #700
 - Website: https://mywhitetigermartialarts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 13:00-20:15; Tu,We,Th,Fr 13:00-19:30; Sa 09:00-12:00, Su off
+- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

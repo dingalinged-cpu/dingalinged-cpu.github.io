@@ -13,6 +13,7 @@ Great Clips is a hair salon in New Lenox, IL at 523 East Lincoln Highway, New Le
 - Website: https://www.greatclips.com/salons/1469
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 50.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

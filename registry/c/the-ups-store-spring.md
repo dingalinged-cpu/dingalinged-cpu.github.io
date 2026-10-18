@@ -13,6 +13,7 @@ The UPS Store is a printing service in Spring, TX at 6046 FM 2920, Spring, TX 77
 - Website: n/a
 - Email: store4478@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa 08:30-15:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

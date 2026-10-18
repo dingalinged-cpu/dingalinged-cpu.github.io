@@ -13,6 +13,7 @@ The Orchid: Luxury Flower Design is a florist in Hurst, TX at 755 Mid Cities Blv
 - Website: https://www.theorchidflowerdesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 14:00-22:00; Sa 10:00-14:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

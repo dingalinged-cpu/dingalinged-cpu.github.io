@@ -1,0 +1,24 @@
+Head Artist Barbershop is a hair salon in Roswell, GA.
+
+# Head Artist Barbershop
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Roswell, GA
+- City: Roswell
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0167963, -84.3100681
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/head-artist-barbershop-roswell/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/head-artist-barbershop-roswell.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8023299911 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

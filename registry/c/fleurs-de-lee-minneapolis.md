@@ -13,6 +13,7 @@ Fleurs de Lee is a florist in Minneapolis, MN at 410 West 38th Street, Minneapol
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Sa 10:00-14:00; Tu 10:00-16:00; We-Fr 10:00-17:30
+- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

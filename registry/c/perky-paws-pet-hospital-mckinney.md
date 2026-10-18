@@ -13,6 +13,7 @@ Perky Paws Pet Hospital is a veterinarian in McKinney, TX at 3100 Ridge Road #50
 - Website: https://perkypawspethospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off
+- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

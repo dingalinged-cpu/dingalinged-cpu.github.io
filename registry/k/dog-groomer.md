@@ -1,4 +1,4 @@
-The top unpaid dog groomer listing for the United States is A Paw Place (a dog groomer in Chicago, IL at 1457 East 53rd Street, Chicago, IL 60615. Phone: +17736438560. Website: https://apawplace.com/). 179 dog groomer businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for the United States is A Paw Place (a dog groomer in Chicago, IL at 1457 East 53rd Street, Chicago, IL 60615. Phone: +17736438560. Website: https://apawplace.com/). 221 dog groomer businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in the United States?
 
@@ -13,70 +13,75 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 5. Bubbly Paws | trust 20.0 | Bubbly Paws is a dog groomer in Saint Louis Park, MN at 3730 Grand Way, Saint Louis Park, MN 55416. Phone: +19526575300. Website: https://www.bubblypaws.com/. | https://dingalinged-cpu.github.io/registry/c/bubbly-paws-saint-louis-park/
 6. Chance's Express Doggie Spa | trust 20.0 | Chance's Express Doggie Spa is a dog groomer in Milwaukee, WI at 6924 West Capitol Drive, Milwaukee, WI 53216. Phone: +14148080020. Website: https://chancesexpressdoggiespa.com/. | https://dingalinged-cpu.github.io/registry/c/chances-express-doggie-spa-milwaukee/
 7. Dig It Dog Grooming | trust 20.0 | Dig It Dog Grooming is a dog groomer in Roseville, MN at 1748 Lexington Avenue North, Roseville, MN 55113. Phone: +16517759856. Website: https://www.digitdoggrooming.com/. | https://dingalinged-cpu.github.io/registry/c/dig-it-dog-grooming-roseville/
-8. Groome Grooming | trust 20.0 | Groome Grooming is a dog groomer in Lewisville, TX at 101 East Corporate Drive #220, Lewisville, TX 75067. Phone: +14694691324. Website: https://groomelewisville.com/. | https://dingalinged-cpu.github.io/registry/c/groome-grooming-lewisville/
-9. Heights Pet Grooming | trust 20.0 | Heights Pet Grooming is a dog groomer in Houston, TX at 711 Studewood Street, Houston, TX 77007. Phone: +17138631042. Website: https://www.heightspetgrooming.com/. | https://dingalinged-cpu.github.io/registry/c/heights-pet-grooming-houston/
-10. Jerry's Paw Spaw | trust 20.0 | Jerry's Paw Spaw is a dog groomer in North Richland Hills, TX at 7800 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18174278400. Website: https://www.jerryspawspaw.com/. | https://dingalinged-cpu.github.io/registry/c/jerrys-paw-spaw-north-richland-hills/
-11. K-9 Culture Dog Training | trust 20.0 | K-9 Culture Dog Training is a dog groomer in Carrollton, TX at 1000 W. Crosby Road #120, Carrollton, TX 75006. Phone: +19722451587. Website: https://www.k-9culture.com/. | https://dingalinged-cpu.github.io/registry/c/k-9-culture-dog-training-carrollton/
-12. Kriser's Natural Pet | trust 20.0 | Kriser's Natural Pet is a dog groomer in Naperville, IL at 8 West Gartner Road, Naperville, IL 60540. Phone: +13312810509. Website: https://krisers.com/a/pages/locations/86/naperville. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-naperville/
-13. Lakeside Pet Spa | trust 20.0 | Lakeside Pet Spa is a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/. | https://dingalinged-cpu.github.io/registry/c/lakeside-pet-spa-plano/
-14. Legacy Grooming | trust 20.0 | Legacy Grooming is a dog groomer in McKinney, TX at 5261 McKinney Ranch Pkwy #200, McKinney, TX 75070. Phone: +14696310929. Website: https://legacygrooming.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-grooming-mckinney/
-15. Lulu & Luigi | trust 20.0 | Lulu & Luigi is a dog groomer in Saint Louis Park, MN at 3699 Joppa Avenue South, Saint Louis Park, MN 55416. Phone: +19529291200. Website: https://luluandluigi.com/. | https://dingalinged-cpu.github.io/registry/c/lulu-and-luigi-saint-louis-park/
-16. Natural Grooming | trust 20.0 | Natural Grooming is a dog groomer in North Richland Hills, TX at 8415 Davis Boulevard #309, North Richland Hills, TX 76182. Phone: +18176050423. Website: https://natural-grooming.edan.io/. | https://dingalinged-cpu.github.io/registry/c/natural-grooming-north-richland-hills/
-17. Pawtown Pet Boarding | trust 20.0 | Pawtown Pet Boarding is a dog groomer in Spring, TX at 2447 FM 2920, Spring, TX 77388. Phone: +12812887297. Website: https://www.pawtown.org/. | https://dingalinged-cpu.github.io/registry/c/pawtown-pet-boarding-spring/
-18. PurrFurred | trust 20.0 | PurrFurred is a dog groomer in Naperville, IL at 670 West 5th Avenue #104, Naperville, IL 60563. Phone: +16305777652. Website: https://purrfurredpetstyling.com/naperville/. | https://dingalinged-cpu.github.io/registry/c/purrfurred-naperville/
-19. Rogers Bark Pet Salon | trust 20.0 | Rogers Bark Pet Salon is a dog boarding facility in Chicago, IL at 1447 West Jarvis Avenue, Chicago, IL 60626. Phone: +17732742275. Website: https://rogersbark.com/. | https://dingalinged-cpu.github.io/registry/c/rogers-bark-pet-salon-chicago/
-20. Salty Dog Pet Spa | trust 20.0 | Salty Dog Pet Spa is a dog groomer in Menomonee Falls, WI at N86W16392 Appleton Avenue, Menomonee Falls, WI 53051. Phone: +12627357622. Website: https://www.saltydogpetsspa.com/. | https://dingalinged-cpu.github.io/registry/c/salty-dog-pet-spa-menomonee-falls/
-21. Shaggy Dog Shop, Inc | trust 20.0 | Shaggy Dog Shop, Inc is a dog groomer in Lake Forest, IL at 1339 North Western Avenue, Lake Forest, IL 60045. Phone: +18472342383. Website: https://shaggydogshop.com/. | https://dingalinged-cpu.github.io/registry/c/shaggy-dog-shop-inc-lake-forest/
-22. Splash and Dash | trust 20.0 | Splash and Dash is a dog groomer in Sugar Land, TX at 13513 University Boulevard #B900, Sugar Land, TX 77479. Phone: +13465214010. Website: https://splashanddashfordogs.com/sugarland/. | https://dingalinged-cpu.github.io/registry/c/splash-and-dash-sugar-land/
-23. Spotted Paw Pet Supplies & Grooming | trust 20.0 | Spotted Paw Pet Supplies & Grooming is a dog groomer in Warrenville, IL at 28341 West Diehl Road, Warrenville, IL 60555. Phone: +16302259457. Website: https://spottedpawshop.com/. | https://dingalinged-cpu.github.io/registry/c/spotted-paw-pet-supplies-and-grooming-warrenville/
-24. Spring Branch Pet Patrol Pet Sitting Srvc. | trust 20.0 | Spring Branch Pet Patrol Pet Sitting Srvc. is a dog groomer in Houston, TX at 2098 Laverne Street #3, Houston, TX 77080. Phone: +17134612857. Website: https://sbpetpatrol.com/. | https://dingalinged-cpu.github.io/registry/c/spring-branch-pet-patrol-pet-sitting-srvc-houston/
-25. The Dog House Pet Salon - Galleria | trust 20.0 | The Dog House Pet Salon - Galleria is a dog groomer in Houston, TX at 5917 Richmond Avenue, Houston, TX 77057. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/galleria-pet-salon/. | https://dingalinged-cpu.github.io/registry/c/the-dog-house-pet-salon-galleria-houston/
-26. The Dog House Pet Salon - Memorial Park | trust 20.0 | The Dog House Pet Salon - Memorial Park is a dog groomer in Houston, TX at 6434 Washington Avenue, Houston, TX 77007. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/memorial-park-location/. | https://dingalinged-cpu.github.io/registry/c/the-dog-house-pet-salon-memorial-park-houston/
-27. The Dog House Pet Salon - Pearland | trust 20.0 | The Dog House Pet Salon - Pearland is a dog groomer in Pearland, TX at 2810 Business Center Drive #126, Pearland, TX 77584. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/pearland-location/. | https://dingalinged-cpu.github.io/registry/c/the-dog-house-pet-salon-pearland-pearland/
-28. The Dog Stop | trust 20.0 | The Dog Stop is a dog boarding facility in Deerfield, IL at 495 Lake Cook Rd, Deerfield, IL 60015. Phone: +12242354646. Website: https://thedogstop.com/il-deerfield/. | https://dingalinged-cpu.github.io/registry/c/the-dog-stop-deerfield/
-29. Wag n Wheel | trust 20.0 | Wag n Wheel is a dog groomer in Wauconda, IL at 375 West Liberty Street, Wauconda, IL 60084. Phone: +18474874990. Website: https://www.wagnwheeldoggrooming.com/. | https://dingalinged-cpu.github.io/registry/c/wag-n-wheel-wauconda/
-30. Waggamuffins Grooming and Doggy Daycare | trust 20.0 | Waggamuffins Grooming and Doggy Daycare is a dog groomer in Hurst, TX at 846 West Pipeline Road, Hurst, TX 76053. Phone: +18176163346. Website: https://waggamuffinsdfw.com/. | https://dingalinged-cpu.github.io/registry/c/waggamuffins-grooming-and-doggy-daycare-hurst/
-31. Woof Gang Bakery and Grooming | trust 20.0 | Woof Gang Bakery and Grooming is a dog groomer in The Woodlands, TX at 3091 College Park Drive #280, The Woodlands, TX 77384. Phone: +13462209663. Website: https://woofgangbakery.com/. | https://dingalinged-cpu.github.io/registry/c/woof-gang-bakery-and-grooming-the-woodlands/
-32. Community Bark | trust 19.0 | Community Bark is a dog groomer in Milwaukee, WI at 2440 South Kinnickinnic Avenue, Milwaukee, WI. Phone: +14147442275. Website: https://communitybark.net/. | https://dingalinged-cpu.github.io/registry/c/community-bark-milwaukee/
-33. petbar | trust 19.0 | petbar is a dog groomer in Dallas, TX at 6465 East Mockingbird Lane, Dallas, TX. Phone: +12147300063. Website: https://www.petbarinc.com/locations/dallas-lakewood/. | https://dingalinged-cpu.github.io/registry/c/petbar-dallas/
-34. The Paw Spa | trust 19.0 | The Paw Spa is a dog groomer in New Brighton, MN at 151 Silver Lake Road Northwest #108, New Brighton, MN. Phone: +16516399177. Website: https://www.facebook.com/ThePawSpaNB/. | https://dingalinged-cpu.github.io/registry/c/the-paw-spa-new-brighton/
-35. The Upscale Tail | trust 19.0 | The Upscale Tail is a dog groomer in Naperville, IL at 1419 Plainfield Naperville Road, Naperville, IL. Phone: +16306328245. Website: https://theupscaletail.com/. | https://dingalinged-cpu.github.io/registry/c/the-upscale-tail-naperville/
-36. Barks & Bows Dog Spa | trust 16.0 | Barks & Bows Dog Spa is a dog groomer in Northbrook, IL at 300 Skokie Boulevard #K, Northbrook, IL 60062. Phone: +18477159240. Website: https://barksandbowsdogspa.com/. | https://dingalinged-cpu.github.io/registry/c/barks-and-bows-dog-spa-northbrook/
-37. Barksville Dog Daycare and Boarding | trust 16.0 | Barksville Dog Daycare and Boarding is a dog groomer in Chicago, IL at 3301 West Belmont Avenue, Chicago, IL 60618. Phone: +18722042275. Website: https://barksvillechicago.com/. | https://dingalinged-cpu.github.io/registry/c/barksville-dog-daycare-and-boarding-chicago/
-38. Beau's Bath House & Doggie Spa | trust 16.0 | Beau's Bath House & Doggie Spa is a dog groomer in Denton, TX at 1800 Brinker Road #Suite 270, Denton, TX 76208. Phone: +19403829274. Website: https://www.beausbathhouse.com/. | https://dingalinged-cpu.github.io/registry/c/beaus-bath-house-and-doggie-spa-denton/
-39. Blissful Bark Dog Wash | trust 16.0 | Blissful Bark Dog Wash is a dog groomer in Flower Mound, TX. Phone: +19725396047. Website: https://www.blissfulbarkdogwash.com/. | https://dingalinged-cpu.github.io/registry/c/blissful-bark-dog-wash-flower-mound/
-40. Blue Ribbon Grooming | trust 16.0 | Blue Ribbon Grooming is a dog groomer in Oakdale, MN at 5679 Geneva Avenue North, Oakdale, MN 55128. Phone: +16517488885. Website: https://www.facebook.com/brgrooming/. | https://dingalinged-cpu.github.io/registry/c/blue-ribbon-grooming-oakdale/
-41. Bubbles & Ecouture | trust 16.0 | Bubbles & Ecouture is a dog groomer in West Saint Paul, MN at 883 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514571816. Website: https://bubblesnecouture.com/. | https://dingalinged-cpu.github.io/registry/c/bubbles-and-ecouture-west-saint-paul/
-42. Bubbly Paws | trust 16.0 | Bubbly Paws is a dog groomer in Minneapolis, MN at 4737 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16126053245. Website: https://www.bubblypaws.com/minneapolis. | https://dingalinged-cpu.github.io/registry/c/bubbly-paws-minneapolis/
-43. Cruisin Canines | trust 16.0 | Cruisin Canines is a dog groomer in Chicago, IL at 2332 West Melrose Street, Chicago, IL 60618. Phone: +17733274419. Website: https://www.cruisincanines.com/. | https://dingalinged-cpu.github.io/registry/c/cruisin-canines-chicago/
-44. Cutest Dog | trust 16.0 | Cutest Dog is a dog groomer in Brookfield, IL at 9448 47th Street, Brookfield, IL 60513. Phone: +17733359499. Website: https://www.instagram.com/p/DPM0d32iWso/. | https://dingalinged-cpu.github.io/registry/c/cutest-dog-brookfield/
-45. Doggie Doo's Spa and Retreat | trust 16.0 | Doggie Doo's Spa and Retreat is a dog groomer in Shakopee, MN at 2555 Vierling Drive West, Shakopee, MN 55379. Phone: +19524455262. Website: https://www.doggiedoosspaandretreat.com/. | https://dingalinged-cpu.github.io/registry/c/doggie-doos-spa-and-retreat-shakopee/
-46. Fancy Pants Pet Salon | trust 16.0 | Fancy Pants Pet Salon is a dog groomer in Wauwatosa, WI at 6421 West North Avenue, Wauwatosa, WI 53213. Phone: +14149053647. Website: https://www.fancypantspetsalon.com/. | https://dingalinged-cpu.github.io/registry/c/fancy-pants-pet-salon-wauwatosa/
-47. Foxy Dogs | trust 16.0 | Foxy Dogs is a dog groomer in Minneapolis, MN at 5457 Nicollet Avenue South, Minneapolis, MN 55419. Phone: +16128243699. Website: https://www.foxydogs.com/. | https://dingalinged-cpu.github.io/registry/c/foxy-dogs-minneapolis/
-48. Grand Groomers | trust 16.0 | Grand Groomers is a dog groomer in Saint Paul, MN at 956 Grand Avenue, Saint Paul, MN 55105. Phone: +16512271733. Website: https://www.facebook.com/Grand-Groomers-110815275649763/. | https://dingalinged-cpu.github.io/registry/c/grand-groomers-saint-paul/
-49. Legacy Grooming | trust 16.0 | Legacy Grooming is a dog groomer in Frisco, TX at 8756 Teel Pkwy ##318, Frisco, TX 75034. Phone: +12148721018. Website: https://legacygrooming.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-grooming-frisco/
-50. Pampered Paws Grooming | trust 16.0 | Pampered Paws Grooming is a dog groomer in Chicago, IL at 6135 North Northwest Highway, Chicago, IL 60631. Phone: +17737757297. Website: https://www.pamperedpawsgroom.com/. | https://dingalinged-cpu.github.io/registry/c/pampered-paws-grooming-chicago/
+8. Furs Gonna Fly | trust 20.0 | Furs Gonna Fly is a dog groomer in Marietta, GA at 2323 Shallowford Road Northeast, Marietta, GA 30066. Phone: +17709284433. Website: https://www.fursgonnafly.com/. | https://dingalinged-cpu.github.io/registry/c/furs-gonna-fly-marietta/
+9. Groome Grooming | trust 20.0 | Groome Grooming is a dog groomer in Lewisville, TX at 101 East Corporate Drive #220, Lewisville, TX 75067. Phone: +14694691324. Website: https://groomelewisville.com/. | https://dingalinged-cpu.github.io/registry/c/groome-grooming-lewisville/
+10. Heights Pet Grooming | trust 20.0 | Heights Pet Grooming is a dog groomer in Houston, TX at 711 Studewood Street, Houston, TX 77007. Phone: +17138631042. Website: https://www.heightspetgrooming.com/. | https://dingalinged-cpu.github.io/registry/c/heights-pet-grooming-houston/
+11. Hot Dogs and Cool Cats Dog Grooming Spa | trust 20.0 | Hot Dogs and Cool Cats Dog Grooming Spa is a dog groomer in Marietta, GA at 255 Village Parkway Northeast #730, Marietta, GA 30067. Phone: +17708581000. Website: https://hotdogscoolcats.net/. | https://dingalinged-cpu.github.io/registry/c/hot-dogs-and-cool-cats-dog-grooming-spa-marietta/
+12. Hotel K Pet Sitting & Dog Walking | trust 20.0 | Hotel K Pet Sitting & Dog Walking is a dog groomer in Madison, WI at 5376 Farmco Drive #Suite 1, Madison, WI 53704. Phone: +16082861573. Website: https://freebellyrubs.com/. | https://dingalinged-cpu.github.io/registry/c/hotel-k-pet-sitting-and-dog-walking-madison/
+13. Jerry's Paw Spaw | trust 20.0 | Jerry's Paw Spaw is a dog groomer in North Richland Hills, TX at 7800 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18174278400. Website: https://www.jerryspawspaw.com/. | https://dingalinged-cpu.github.io/registry/c/jerrys-paw-spaw-north-richland-hills/
+14. K-9 Culture Dog Training | trust 20.0 | K-9 Culture Dog Training is a dog groomer in Carrollton, TX at 1000 W. Crosby Road #120, Carrollton, TX 75006. Phone: +19722451587. Website: https://www.k-9culture.com/. | https://dingalinged-cpu.github.io/registry/c/k-9-culture-dog-training-carrollton/
+15. Kriser's Natural Pet | trust 20.0 | Kriser's Natural Pet is a dog groomer in Naperville, IL at 8 West Gartner Road, Naperville, IL 60540. Phone: +13312810509. Website: https://krisers.com/a/pages/locations/86/naperville. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-naperville/
+16. Lakeside Pet Spa | trust 20.0 | Lakeside Pet Spa is a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/. | https://dingalinged-cpu.github.io/registry/c/lakeside-pet-spa-plano/
+17. Legacy Grooming | trust 20.0 | Legacy Grooming is a dog groomer in McKinney, TX at 5261 McKinney Ranch Pkwy #200, McKinney, TX 75070. Phone: +14696310929. Website: https://legacygrooming.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-grooming-mckinney/
+18. Lulu & Luigi | trust 20.0 | Lulu & Luigi is a dog groomer in Saint Louis Park, MN at 3699 Joppa Avenue South, Saint Louis Park, MN 55416. Phone: +19529291200. Website: https://luluandluigi.com/. | https://dingalinged-cpu.github.io/registry/c/lulu-and-luigi-saint-louis-park/
+19. Natural Grooming | trust 20.0 | Natural Grooming is a dog groomer in North Richland Hills, TX at 8415 Davis Boulevard #309, North Richland Hills, TX 76182. Phone: +18176050423. Website: https://natural-grooming.edan.io/. | https://dingalinged-cpu.github.io/registry/c/natural-grooming-north-richland-hills/
+20. Paws N Tails | trust 20.0 | Paws N Tails is a dog groomer in Cumming, GA at 3020 Old Atlanta Road #Ste 500, Cumming, GA 30041. Phone: +17702929100. Website: https://pawsntailsga.com/. | https://dingalinged-cpu.github.io/registry/c/paws-n-tails-cumming/
+21. Pawtown Pet Boarding | trust 20.0 | Pawtown Pet Boarding is a dog groomer in Spring, TX at 2447 FM 2920, Spring, TX 77388. Phone: +12812887297. Website: https://www.pawtown.org/. | https://dingalinged-cpu.github.io/registry/c/pawtown-pet-boarding-spring/
+22. Perk n Pooch | trust 20.0 | Perk n Pooch is a dog groomer in Sandy Springs, GA at 6690 Roswell Road, Sandy Springs, GA 30328. Phone: +16785009237. Website: https://www.perk-n-pooch.com/. | https://dingalinged-cpu.github.io/registry/c/perk-n-pooch-sandy-springs/
+23. PurrFurred | trust 20.0 | PurrFurred is a dog groomer in Naperville, IL at 670 West 5th Avenue #104, Naperville, IL 60563. Phone: +16305777652. Website: https://purrfurredpetstyling.com/naperville/. | https://dingalinged-cpu.github.io/registry/c/purrfurred-naperville/
+24. Rogers Bark Pet Salon | trust 20.0 | Rogers Bark Pet Salon is a dog boarding facility in Chicago, IL at 1447 West Jarvis Avenue, Chicago, IL 60626. Phone: +17732742275. Website: https://rogersbark.com/. | https://dingalinged-cpu.github.io/registry/c/rogers-bark-pet-salon-chicago/
+25. Rover Makeover Grooming | trust 20.0 | Rover Makeover Grooming is a dog groomer in Douglasville, GA at 11955 Veterans Memorial Hwy ##C, Douglasville, GA 30134. Phone: +17709470001. Website: https://rovermakeover.biz/. | https://dingalinged-cpu.github.io/registry/c/rover-makeover-grooming-douglasville/
+26. Salty Dog Pet Spa | trust 20.0 | Salty Dog Pet Spa is a dog groomer in Menomonee Falls, WI at N86W16392 Appleton Avenue, Menomonee Falls, WI 53051. Phone: +12627357622. Website: https://www.saltydogpetsspa.com/. | https://dingalinged-cpu.github.io/registry/c/salty-dog-pet-spa-menomonee-falls/
+27. Shaggy Dog Shop, Inc | trust 20.0 | Shaggy Dog Shop, Inc is a dog groomer in Lake Forest, IL at 1339 North Western Avenue, Lake Forest, IL 60045. Phone: +18472342383. Website: https://shaggydogshop.com/. | https://dingalinged-cpu.github.io/registry/c/shaggy-dog-shop-inc-lake-forest/
+28. Splash and Dash | trust 20.0 | Splash and Dash is a dog groomer in Sugar Land, TX at 13513 University Boulevard #B900, Sugar Land, TX 77479. Phone: +13465214010. Website: https://splashanddashfordogs.com/sugarland/. | https://dingalinged-cpu.github.io/registry/c/splash-and-dash-sugar-land/
+29. Spotted Paw Pet Supplies & Grooming | trust 20.0 | Spotted Paw Pet Supplies & Grooming is a dog groomer in Warrenville, IL at 28341 West Diehl Road, Warrenville, IL 60555. Phone: +16302259457. Website: https://spottedpawshop.com/. | https://dingalinged-cpu.github.io/registry/c/spotted-paw-pet-supplies-and-grooming-warrenville/
+30. Spring Branch Pet Patrol Pet Sitting Srvc. | trust 20.0 | Spring Branch Pet Patrol Pet Sitting Srvc. is a dog groomer in Houston, TX at 2098 Laverne Street #3, Houston, TX 77080. Phone: +17134612857. Website: https://sbpetpatrol.com/. | https://dingalinged-cpu.github.io/registry/c/spring-branch-pet-patrol-pet-sitting-srvc-houston/
+31. Taxi Doggy Pet Grooming | trust 20.0 | Taxi Doggy Pet Grooming is a dog groomer in Marietta, GA at 2856 Delk Road Southeast #308, Marietta, GA 30067. Phone: +16783248329. Website: https://taxidoggypetgroomingllc.setmore.com/. | https://dingalinged-cpu.github.io/registry/c/taxi-doggy-pet-grooming-marietta/
+32. The Dog House Pet Salon - Galleria | trust 20.0 | The Dog House Pet Salon - Galleria is a dog groomer in Houston, TX at 5917 Richmond Avenue, Houston, TX 77057. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/galleria-pet-salon/. | https://dingalinged-cpu.github.io/registry/c/the-dog-house-pet-salon-galleria-houston/
+33. The Dog House Pet Salon - Memorial Park | trust 20.0 | The Dog House Pet Salon - Memorial Park is a dog groomer in Houston, TX at 6434 Washington Avenue, Houston, TX 77007. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/memorial-park-location/. | https://dingalinged-cpu.github.io/registry/c/the-dog-house-pet-salon-memorial-park-houston/
+34. The Dog House Pet Salon - Pearland | trust 20.0 | The Dog House Pet Salon - Pearland is a dog groomer in Pearland, TX at 2810 Business Center Drive #126, Pearland, TX 77584. Phone: +17138206140. Website: https://www.thedoghouseps.com/locations/pearland-location/. | https://dingalinged-cpu.github.io/registry/c/the-dog-house-pet-salon-pearland-pearland/
+35. The Dog Stop | trust 20.0 | The Dog Stop is a dog boarding facility in Deerfield, IL at 495 Lake Cook Rd, Deerfield, IL 60015. Phone: +12242354646. Website: https://thedogstop.com/il-deerfield/. | https://dingalinged-cpu.github.io/registry/c/the-dog-stop-deerfield/
+36. The Fuzzy Dawg Pet Salon | trust 20.0 | The Fuzzy Dawg Pet Salon is a dog groomer in Alpharetta, GA at 8465 Holcomb Bridge Road #160, Alpharetta, GA 30022. Phone: +17709933294. Website: https://www.thefuzzydawg.com/. | https://dingalinged-cpu.github.io/registry/c/the-fuzzy-dawg-pet-salon-alpharetta/
+37. Tsuru Pet Spa | trust 20.0 | Tsuru Pet Spa is a dog groomer in Roswell, GA at 1575 Old Alabama Road, Roswell, GA 30076. Phone: +17708800008. Website: https://tsurupets.com/. | https://dingalinged-cpu.github.io/registry/c/tsuru-pet-spa-roswell/
+38. Wag n Wheel | trust 20.0 | Wag n Wheel is a dog groomer in Wauconda, IL at 375 West Liberty Street, Wauconda, IL 60084. Phone: +18474874990. Website: https://www.wagnwheeldoggrooming.com/. | https://dingalinged-cpu.github.io/registry/c/wag-n-wheel-wauconda/
+39. Waggamuffins Grooming and Doggy Daycare | trust 20.0 | Waggamuffins Grooming and Doggy Daycare is a dog groomer in Hurst, TX at 846 West Pipeline Road, Hurst, TX 76053. Phone: +18176163346. Website: https://waggamuffinsdfw.com/. | https://dingalinged-cpu.github.io/registry/c/waggamuffins-grooming-and-doggy-daycare-hurst/
+40. Woof Gang Bakery and Grooming | trust 20.0 | Woof Gang Bakery and Grooming is a dog groomer in The Woodlands, TX at 3091 College Park Drive #280, The Woodlands, TX 77384. Phone: +13462209663. Website: https://woofgangbakery.com/. | https://dingalinged-cpu.github.io/registry/c/woof-gang-bakery-and-grooming-the-woodlands/
+41. Coatly Bath & Groom | trust 19.0 | Coatly Bath & Groom is a dog groomer in Atlanta, GA at 1985 Howell Mill Road Northwest, Atlanta, GA. Phone: +14702311465. Website: https://coatly.com/. | https://dingalinged-cpu.github.io/registry/c/coatly-bath-and-groom-atlanta/
+42. Community Bark | trust 19.0 | Community Bark is a dog groomer in Milwaukee, WI at 2440 South Kinnickinnic Avenue, Milwaukee, WI. Phone: +14147442275. Website: https://communitybark.net/. | https://dingalinged-cpu.github.io/registry/c/community-bark-milwaukee/
+43. Fancy Paws Grooming | trust 19.0 | Fancy Paws Grooming is a dog groomer in Johns Creek, GA at 6000 Medlock Bridge Road #A300, Johns Creek, GA. Phone: +16783369140. Website: https://fancypawsgrooming.us/. | https://dingalinged-cpu.github.io/registry/c/fancy-paws-grooming-johns-creek/
+44. Furrever Fluffy Grooming | trust 19.0 | Furrever Fluffy Grooming is a dog groomer in Kennesaw, GA at 2851 Cobb Parkway #102, Kennesaw, GA. Phone: +17068790888. Website: https://furreverfluffy.com/. | https://dingalinged-cpu.github.io/registry/c/furrever-fluffy-grooming-kennesaw/
+45. Haven The Dog Spot | trust 19.0 | Haven The Dog Spot is a dog groomer in Cobb County, GA at 4719 Lower Roswell Road Northeast #160, Cobb County, GA. Phone: +17706727343. Website: https://www.havendog.com/. | https://dingalinged-cpu.github.io/registry/c/haven-the-dog-spot-cobb-county/
+46. JP's Top Dog Professional Grooming | trust 19.0 | JP's Top Dog Professional Grooming is a dog groomer in Cobb County, GA at 2300 Shallowford Road Northeast #10, Cobb County, GA. Phone: +17705166558. Website: https://jpstopdog.weebly.com/. | https://dingalinged-cpu.github.io/registry/c/jps-top-dog-professional-grooming-cobb-county/
+47. Lux Dog Grooming | trust 19.0 | Lux Dog Grooming is a dog groomer in Peachtree Corners, GA at 6365 Spalding Drive, Peachtree Corners, GA. Phone: +14707701843. Website: https://www.lux-dogroomer.com/. | https://dingalinged-cpu.github.io/registry/c/lux-dog-grooming-peachtree-corners/
+48. Pet Boutique Grooming | trust 19.0 | Pet Boutique Grooming is a dog groomer in Cobb County, GA at 2995 Johnson Ferry Road #450, Cobb County, GA. Phone: +17709985525. Website: https://petboutique-grooming.com/. | https://dingalinged-cpu.github.io/registry/c/pet-boutique-grooming-cobb-county/
+49. petbar | trust 19.0 | petbar is a dog groomer in Dallas, TX at 6465 East Mockingbird Lane, Dallas, TX. Phone: +12147300063. Website: https://www.petbarinc.com/locations/dallas-lakewood/. | https://dingalinged-cpu.github.io/registry/c/petbar-dallas/
+50. Puppy United | trust 19.0 | Puppy United is a dog groomer in Atlanta, GA at 976 Piedmont Avenue Northeast, Atlanta, GA. Phone: +14044016634. Website: https://www.puppyunited.com/. | https://dingalinged-cpu.github.io/registry/c/puppy-united-atlanta/
 
-## More dog groomer listings (179 total; top 50 unpaid shown)
+## More dog groomer listings (221 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/dog-groomer.jsonl
 - Chicago, IL: 17 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-chicago-il/
 - Dallas, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-dallas-tx/
 - Houston, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-houston-tx/
+- Cobb County, GA: 8 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-cobb-county-ga/
+- Milwaukee, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-milwaukee-wi/
 - Naperville, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-naperville-il/
 - Frisco, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-frisco-tx/
-- Milwaukee, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-milwaukee-wi/
+- Madison, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-madison-wi/
 - Flower Mound, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-flower-mound-tx/
 - Harris County, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-harris-county-tx/
+- Atlanta, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-atlanta-ga/
+- Marietta, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-marietta-ga/
 - Minneapolis, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-minneapolis-mn/
 - Saint Louis Park, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-saint-louis-park-mn/
 - Saint Paul, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-saint-paul-mn/
+- Wauwatosa, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-wauwatosa-wi/
 - Brookfield, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-brookfield-il/
 - Mesquite, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-mesquite-tx/
 - Arlington, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-arlington-tx/
 - Lewisville, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-lewisville-tx/
 - Plano, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-plano-tx/
-- Wauwatosa, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-wauwatosa-wi/
 - White Bear Lake, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-white-bear-lake-mn/
+- West Bend, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-west-bend-wi/
 - Des Plaines, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-des-plaines-il/
 - La Grange, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-la-grange-il/
 - Wauconda, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-wauconda-il/
@@ -89,9 +94,23 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Addison, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-addison-tx/
 - Sugar Land, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-sugar-land-tx/
 - Hurst, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-hurst-tx/
-- West Bend, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-west-bend-wi/
+- Johns Creek, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-johns-creek-ga/
+- Kennesaw, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-kennesaw-ga/
+- Roswell, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-roswell-ga/
 - West Saint Paul, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-west-saint-paul-mn/
 - Eagan, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-eagan-mn/
+- Middleton, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-middleton-wi/
+- Shorewood, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-wi/
+- Waunakee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-waunakee-wi/
+- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-new-berlin-wi/
+- Saint Francis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-saint-francis-wi/
+- West Allis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-west-allis-wi/
+- Shorewood Hills, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-hills-wi/
+- Cudahy, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-cudahy-wi/
+- Franklin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-franklin-wi/
+- Menomonee Falls, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-menomonee-falls-wi/
+- Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-brookfield-wi/
+- Evansville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-evansville-wi/
 - La Grange Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-la-grange-park-il/
 - Mokena, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-mokena-il/
 - Downers Grove, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-downers-grove-il/
@@ -128,14 +147,18 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Katy, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-katy-tx/
 - The Woodlands, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-the-woodlands-tx/
 - Prosper, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-prosper-tx/
-- Shorewood, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-wi/
-- New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-new-berlin-wi/
-- Saint Francis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-saint-francis-wi/
-- West Allis, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-west-allis-wi/
-- Cudahy, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-cudahy-wi/
-- Franklin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-franklin-wi/
-- Menomonee Falls, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-menomonee-falls-wi/
-- Brookfield, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-brookfield-wi/
+- Woodstock, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-woodstock-ga/
+- Dunwoody, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-dunwoody-ga/
+- Smyrna, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-smyrna-ga/
+- Peachtree Corners, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-peachtree-corners-ga/
+- Sandy Springs, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-sandy-springs-ga/
+- Gwinnett County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-gwinnett-county-ga/
+- Douglasville, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-douglasville-ga/
+- Powder Springs, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-powder-springs-ga/
+- Alpharetta, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-alpharetta-ga/
+- Dallas, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-dallas-ga/
+- Avondale Estates, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-avondale-estates-ga/
+- Suwanee, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-suwanee-ga/
 - Robbinsdale, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-robbinsdale-mn/
 - Oakdale, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-oakdale-mn/
 - Roseville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dog-groomer-roseville-mn/
@@ -154,7 +177,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 179
+- Registry businesses competing: 221
 - Equivalent Google Ads cost per month: ~$120,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

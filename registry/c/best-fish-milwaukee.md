@@ -13,6 +13,7 @@ Best Fish is a pet store in Milwaukee, WI at 1335 North Doctor Martin Luther Kin
 - Website: https://bestfish.us/
 - Email: best-fish@earthlink.net
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00;Su 12:00-17:00
+- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

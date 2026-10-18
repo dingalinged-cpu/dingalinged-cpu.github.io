@@ -13,6 +13,7 @@ Orangetheory Fitness is a gym in Chicago, IL at 211 East Grand Avenue, Chicago, 
 - Website: https://www.orangetheory.com/en-us/locations/illinois/chicago/211-e-grand-street/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 46.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

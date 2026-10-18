@@ -13,6 +13,7 @@ Valvoline is an auto repair shop in Blue Island, IL at 2331 West 127th Street, B
 - Website: https://store.vioc.com/il/blueisland/oil-change-gr0047.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

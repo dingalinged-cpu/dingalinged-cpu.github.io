@@ -13,6 +13,7 @@ Bamboo Isle Massage is a massage studio in New Berlin, WI at 3560 South Moorland
 - Website: https://nbgad2022.wixsite.com/bamboo-isle-massage
 - Email: n/a
 - Opening hours (OSM syntax): 09:00-22:00
+- Registry Score: 66.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

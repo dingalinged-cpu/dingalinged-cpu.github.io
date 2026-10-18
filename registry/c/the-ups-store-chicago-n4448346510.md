@@ -13,6 +13,7 @@ The UPS Store is a printing service in Chicago, IL at 17 East Monroe Street, Chi
 - Website: https://locations.theupsstore.com/il/chicago/17-e-monroe-st
 - Email: store5905@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-15:00; Su 10:00-15:00
+- Registry Score: 52.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

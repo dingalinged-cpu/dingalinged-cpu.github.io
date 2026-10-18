@@ -13,6 +13,7 @@ Supercuts is a hair salon in Houston, TX at 4015 Washington Avenue #C, Houston, 
 - Website: https://www.supercuts.com/locations/tx/houston/washington-central-haircuts-82732.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-19:00; Su 10:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

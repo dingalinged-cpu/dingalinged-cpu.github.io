@@ -13,6 +13,7 @@ Mainland Dental Center is a dentist in Texas City, TX at 2501 Palmer Highway #10
 - Website: https://mainland-dental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-13:00; Tu,Th 09:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

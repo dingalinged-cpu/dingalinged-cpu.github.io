@@ -13,6 +13,7 @@ West Point School of Music is a music school in Chicago, IL at 1233 West 109th P
 - Website: https://westpointsom.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

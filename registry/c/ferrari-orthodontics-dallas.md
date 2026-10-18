@@ -13,6 +13,7 @@ Ferrari Orthodontics is a dentist in Dallas, TX at 6465 East Mockingbird Lane #3
 - Website: https://www.ferrarismiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00
+- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

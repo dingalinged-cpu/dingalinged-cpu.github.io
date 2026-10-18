@@ -13,6 +13,7 @@ RSI Agency is an insurance agent in Newport, MN at 745 High Street #3, Newport, 
 - Website: https://www.rsiins.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 54.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

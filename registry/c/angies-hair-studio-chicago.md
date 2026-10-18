@@ -13,6 +13,7 @@ Angie's Hair Studio is a hair salon in Chicago, IL at 8251 West Irving Park Road
 - Website: https://www.angieshairstudio.us/
 - Email: angieshairstudio@outlook.com
 - Opening hours (OSM syntax): We 10:00-17:00; Th-Fr 10:00-18:00; Sa 09:00-17:00
+- Registry Score: 67.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

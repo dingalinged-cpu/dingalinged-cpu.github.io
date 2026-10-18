@@ -13,6 +13,7 @@ Lott Hall is an event venue in Houston, TX at 6201 Hermann Park Drive, Houston, 
 - Website: https://hermannpark.org/plans-projects/historic-clubhouse/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

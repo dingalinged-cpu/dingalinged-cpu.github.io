@@ -13,6 +13,7 @@ CarTalk Repair is an auto repair shop in Bellaire, TX at 5211 Spruce Street, Bel
 - Website: https://www.cartalkrepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

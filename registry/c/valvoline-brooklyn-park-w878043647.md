@@ -13,6 +13,7 @@ Valvoline is an auto repair shop in Brooklyn Park, MN. Website: https://store.vi
 - Website: https://store.vioc.com/mn/brooklynpark/oil-change-010085.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 42.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

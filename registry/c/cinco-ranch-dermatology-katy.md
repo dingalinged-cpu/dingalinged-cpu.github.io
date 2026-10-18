@@ -13,6 +13,7 @@ Cinco Ranch Dermatology is a dermatologist in Katy, TX at 2643 Commercial Center
 - Website: https://www.cincoderm.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Spark Dental is a dentist in North Richland Hills, TX at 7259 Boulevard 26, Nort
 - Website: https://www.thesparkdental.com/
 - Email: care@thesparkdental.com
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 08:30-16:00; We,Sa "by appointment"
+- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

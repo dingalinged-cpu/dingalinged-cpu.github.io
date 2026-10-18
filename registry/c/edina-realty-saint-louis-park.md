@@ -13,6 +13,7 @@ Edina Realty is a real estate agency in Saint Louis Park, MN at 4100 Minnetonka 
 - Website: https://www.edinarealty.com/office/minneapolis-city-lakes
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

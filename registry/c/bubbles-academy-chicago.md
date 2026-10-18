@@ -13,6 +13,7 @@ Bubbles Academy is a preschool in Chicago, IL at 2184 North Elston Avenue, Chica
 - Website: https://bubblesacademy.com/bubbles-academy-at-2184-n-elston-ave/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

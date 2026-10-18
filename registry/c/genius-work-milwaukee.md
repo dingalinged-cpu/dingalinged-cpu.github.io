@@ -13,6 +13,7 @@ Genius@Work is a coworking space in Milwaukee, WI. Phone: +14142716611.
 - Website: n/a
 - Email: GeniusAtWork@fhginc.com
 - Opening hours (OSM syntax): 06:00-23:00
+- Registry Score: 56.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

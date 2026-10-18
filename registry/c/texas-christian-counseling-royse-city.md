@@ -13,6 +13,7 @@ Texas Christian Counseling is a therapy practice in Royse City, TX at 118 East M
 - Website: https://texaschristiancounseling.com/locations/royse-city
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 54.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

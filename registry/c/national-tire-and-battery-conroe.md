@@ -13,6 +13,7 @@ National Tire and Battery is an auto repair shop in Conroe, TX at 806 Interstate
 - Website: https://www.ntb.com/store/tx/conroe/806-interstate-45-n-77301/4444
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

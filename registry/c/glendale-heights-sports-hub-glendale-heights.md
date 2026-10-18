@@ -13,6 +13,7 @@ Glendale Heights Sports Hub is a gym in Glendale Heights, IL at 250 Civic Centre
 - Website: https://www.ghrec.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:30; Sa, Su 08:00-16:00
+- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

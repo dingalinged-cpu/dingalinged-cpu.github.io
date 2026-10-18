@@ -13,6 +13,7 @@ Milwaukee Power Yoga is a yoga studio in Milwaukee, WI at 1924 North Farwell Ave
 - Website: https://www.milwaukeepoweryoga.com/
 - Email: milwaukeepoweryoga@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

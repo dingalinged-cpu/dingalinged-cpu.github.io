@@ -13,6 +13,7 @@ PetSmart is a pet store in Glenview, IL at 1523 Waukegan Road, Glenview, IL 6002
 - Website: https://www.petsmart.com/stores/us/il/glenview-store2579.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

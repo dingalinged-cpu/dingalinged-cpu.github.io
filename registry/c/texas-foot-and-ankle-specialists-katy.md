@@ -13,6 +13,7 @@ Texas Foot and Ankle Specialists is a podiatrist in Katy, TX at 24022 Cinco Vill
 - Website: https://www.txfootankle.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

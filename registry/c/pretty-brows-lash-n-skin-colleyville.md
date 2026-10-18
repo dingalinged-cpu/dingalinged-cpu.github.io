@@ -13,6 +13,7 @@ Pretty Brows Lash N' Skin is a skin care studio in Colleyville, TX at 4902 Colle
 - Website: https://prettybrowsnskin.com/
 - Email: Pratima7698@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-18:00
+- Registry Score: 67.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Nailed It & Spa is a nail salon in Little Canada, MN at 2900 Rice Street #300, L
 - Website: https://www.naileditinlittlecanadamn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:30-18:00
+- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

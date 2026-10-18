@@ -13,6 +13,7 @@ Joyful Living Chiropractic & Wellness Center is a chiropractor in Wauwatosa, WI 
 - Website: https://www.joyfullivingchiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-18:00; Tu 08:00-13:30; We 08:00-12:00,14:00-18:00; Th 09:00-15:00; Fr-Su off
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

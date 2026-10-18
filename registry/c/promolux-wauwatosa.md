@@ -13,6 +13,7 @@ Promolux is a printing service in Wauwatosa, WI at 6027 West Vliet Street, Wauwa
 - Website: https://epromolux.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00
+- Registry Score: 57.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

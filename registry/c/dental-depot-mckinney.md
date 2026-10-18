@@ -13,6 +13,7 @@ Dental Depot is a dentist in McKinney, TX at 5250 Stacy Road, McKinney, TX 75070
 - Website: https://dentaldepotdfw.com/locations/mckinney/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa,Su off
+- Registry Score: 50.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

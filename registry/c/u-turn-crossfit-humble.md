@@ -13,6 +13,7 @@ U Turn Crossfit is a CrossFit gym in Humble, TX at 21909 Eastex Freeway, Humble,
 - Website: https://uturncrossfit.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

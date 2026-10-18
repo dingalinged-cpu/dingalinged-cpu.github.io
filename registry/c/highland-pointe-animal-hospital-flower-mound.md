@@ -13,6 +13,7 @@ Highland Pointe Animal Hospital is a veterinarian in Flower Mound, TX at 6150 Mo
 - Website: https://www.hpah.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

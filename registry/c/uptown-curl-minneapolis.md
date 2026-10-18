@@ -13,6 +13,7 @@ Uptown Curl is a hair salon in Minneapolis, MN at 2004,2006 Hennepin Avenue Sout
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-20:00; Sa 09:00-17:00; Su 11:00-17:00; PH closed
+- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

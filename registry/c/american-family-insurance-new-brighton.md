@@ -13,6 +13,7 @@ American Family Insurance is an insurance agent in New Brighton, MN at 201 Silve
 - Website: https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 46.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Lavender Nails & Spa Evanston is a nail salon in Evanston, IL at 1524 Chicago Av
 - Website: https://lavendernailsandspaevanston.com/
 - Email: burul0192@gmail.com
 - Opening hours (OSM syntax): Su 10:00-18:00, Mo-Sa 09:00-19:00
+- Registry Score: 64.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

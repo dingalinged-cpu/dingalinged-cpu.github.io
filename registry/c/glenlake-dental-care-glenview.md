@@ -13,6 +13,7 @@ Glenlake Dental Care is a dentist in Glenview, IL at 946 Harlem Avenue, Glenview
 - Website: https://www.glenlakedentalcare.com/
 - Email: glenlakeinfo@yahoo.com
 - Opening hours (OSM syntax): Mo-Tu 12:00-20:00; We-Th 09:00-17:00; Fr 09:00-15:00; Sa 09:00-14:00
+- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

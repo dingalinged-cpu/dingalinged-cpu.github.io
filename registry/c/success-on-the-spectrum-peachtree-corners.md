@@ -1,0 +1,24 @@
+Success On The Spectrum is a therapy practice in Peachtree Corners, GA at 4046 Wetherburn Way NW #suite 1-6, Peachtree Corners, GA 30092. Website: https://successonthespectrum.com/location/Peachtree-Corners/.
+
+# Success On The Spectrum
+
+- Category: therapist
+- Services: therapist
+- Address: 4046 Wetherburn Way NW #suite 1-6, Peachtree Corners, GA 30092
+- City: Peachtree Corners
+- State: GA
+- ZIP: 30092
+- Coordinates: 33.9677668, -84.255634
+- Phone: n/a
+- Website: https://successonthespectrum.com/location/Peachtree-Corners/
+- Email: PeachtreeCorners@SuccessOnTheSpectrum.com
+- Opening hours (OSM syntax): Mon to Friday : 8am to 4pm
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/success-on-the-spectrum-peachtree-corners/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/success-on-the-spectrum-peachtree-corners.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13685756508 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

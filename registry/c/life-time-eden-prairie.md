@@ -13,6 +13,7 @@ Life Time is a gym in Eden Prairie, MN at 755 Prairie Center Drive, Eden Prairie
 - Website: https://www.lifetime.life/life-time-locations/mn-eden-prairie-athletic.html
 - Email: n/a
 - Opening hours (OSM syntax): Su 06:00-22:00; Mo-Fr 05:00-23:00; Sa 06:00-22:00
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

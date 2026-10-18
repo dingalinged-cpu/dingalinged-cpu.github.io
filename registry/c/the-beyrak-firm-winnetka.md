@@ -13,6 +13,7 @@ The Beyrak Firm is an accountant in Winnetka, IL at 545 Lincoln Avenue, Winnetka
 - Website: https://www.beyrakfirm.com/
 - Email: cpa@beyrakfirm.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

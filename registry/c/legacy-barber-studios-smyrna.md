@@ -1,0 +1,24 @@
+Legacy Barber Studios is a hair salon in Smyrna, GA.
+
+# Legacy Barber Studios
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: Smyrna, GA
+- City: Smyrna
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.875746, -84.5294064
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/legacy-barber-studios-smyrna/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/legacy-barber-studios-smyrna.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1014114468 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

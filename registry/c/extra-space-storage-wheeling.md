@@ -13,6 +13,7 @@ Extra Space Storage is a self-storage facility in Wheeling, IL at 991 North Milw
 - Website: https://www.extraspace.com/storage/facilities/us/illinois/deerfield/501795/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

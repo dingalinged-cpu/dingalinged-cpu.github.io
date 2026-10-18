@@ -13,6 +13,7 @@ Partners Animal Hopsital is a veterinarian in Chicago, IL at 550 South Dearborn 
 - Website: https://partnersvetsl.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

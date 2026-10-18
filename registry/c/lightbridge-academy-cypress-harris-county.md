@@ -13,6 +13,7 @@ Lightbridge Academy Cypress is a preschool in Harris County, TX at 8742 Barker C
 - Website: https://lightbridgeacademy.com/cypress-tx/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

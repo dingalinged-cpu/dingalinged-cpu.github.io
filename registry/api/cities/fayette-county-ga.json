@@ -1,0 +1,169 @@
+{
+ "place": "Fayette County, GA",
+ "slug": "fayette-county-ga",
+ "count": 5,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "dentist fayette county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-fayette-county-ga.json"
+  },
+  {
+   "keyword": "gym fayette county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-fayette-county-ga.json"
+  },
+  {
+   "keyword": "heating and air fayette county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-fayette-county-ga.json"
+  },
+  {
+   "keyword": "hvac repair fayette county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-fayette-county-ga.json"
+  },
+  {
+   "keyword": "storage units fayette county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-fayette-county-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "dental-traditions-fayette-county",
+   "name": "Dental Traditions",
+   "summary": "Dental Traditions is a dentist in Fayette County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-traditions-fayette-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-traditions-fayette-county.json",
+   "address": {
+    "addressLocality": "Fayette County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Fayette County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4378943,
+    "lon": -84.5471236
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11659905297",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "heritage-dental-fayette-county",
+   "name": "Heritage Dental",
+   "summary": "Heritage Dental is a dentist in Fayette County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/heritage-dental-fayette-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/heritage-dental-fayette-county.json",
+   "address": {
+    "addressLocality": "Fayette County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Fayette County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4260469,
+    "lon": -84.4584476
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11675923233",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-fayette-county",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Fayette County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-fayette-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-fayette-county.json",
+   "address": {
+    "addressLocality": "Fayette County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Fayette County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.423189,
+    "lon": -84.4609099
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13394115112",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "southern-comfort-heating-and-air-fayette-county",
+   "name": "Southern Comfort Heating & Air",
+   "summary": "Southern Comfort Heating & Air is a HVAC contractor in Fayette County, GA.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southern-comfort-heating-and-air-fayette-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southern-comfort-heating-and-air-fayette-county.json",
+   "address": {
+    "addressLocality": "Fayette County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Fayette County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4545585,
+    "lon": -84.4254845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1314691926",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ultimate-fitness-fayette-county",
+   "name": "Ultimate Fitness",
+   "summary": "Ultimate Fitness is a gym in Fayette County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ultimate-fitness-fayette-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ultimate-fitness-fayette-county.json",
+   "address": {
+    "addressLocality": "Fayette County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Fayette County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.4265633,
+    "lon": -84.4581964
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5057454015",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

@@ -13,6 +13,7 @@ Planet Fitness is a gym in Houston, TX at 13435 East Freeway, Houston, TX 77015.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 00:00-24:00; Sa-Su 06:00-21:00; Mo 04:00-24:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

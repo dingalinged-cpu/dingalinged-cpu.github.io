@@ -13,6 +13,7 @@ Kristi Hopper Designs is a graphic designer in Lewisville, TX. Phone: +197289798
 - Website: https://www.kristihopper.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

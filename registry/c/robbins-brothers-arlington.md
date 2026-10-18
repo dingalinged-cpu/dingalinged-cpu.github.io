@@ -13,6 +13,7 @@ Robbin's Brothers is a jewelry store in Arlington, TX at 127 East Interstate 20,
 - Website: https://www.robbinsbrothers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-19:00; Su 12:00-18:00
+- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

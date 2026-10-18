@@ -13,6 +13,7 @@ Clear Lake Dental Care and Implant Center is a dentist in Webster, TX at 202 Wes
 - Website: https://clearlakedentalcare.com/
 - Email: appointments@clearlakedentalcare.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

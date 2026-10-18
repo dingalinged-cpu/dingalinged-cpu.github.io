@@ -13,6 +13,7 @@ Anytime Fitness is a gym in Irving, TX at 3401 West Airport Freeway #216, Irving
 - Website: https://www.anytimefitness.com/gyms/4106/irving-tx-75062/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-19:00; Fr-Sa 11:00-14:00; 24/7 open "Member Access."
+- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

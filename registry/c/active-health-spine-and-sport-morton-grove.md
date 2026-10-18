@@ -13,6 +13,7 @@ Active Health Spine & Sport is a chiropractor in Morton Grove, IL at 5814 Dempst
 - Website: https://www.activehealthchicago.com/
 - Email: info@activehealthchicago.com
 - Opening hours (OSM syntax): Mo 08:00-11:00,13:00-17:30; Tu 14:00-17:30; We-Th 13:00-18:00; Fr 11:30-15:00
+- Registry Score: 66.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

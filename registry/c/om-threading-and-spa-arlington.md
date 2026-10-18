@@ -13,6 +13,7 @@ Om Threading & Spa is a waxing salon in Arlington, TX at 2131 North Collins Stre
 - Website: https://www.omthreadings.com/index.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

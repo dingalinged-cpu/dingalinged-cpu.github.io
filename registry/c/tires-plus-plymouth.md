@@ -13,6 +13,7 @@ Tires Plus is a tire shop in Plymouth, MN. Phone: +17635757940. Website: https:/
 - Website: https://local.tiresplus.com/minnesota/minneapolis/14350-28th-pl-n/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
+- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

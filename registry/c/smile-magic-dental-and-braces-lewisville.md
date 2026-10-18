@@ -13,6 +13,7 @@ Smile Magic Dental and Braces is a dentist in Lewisville, TX at 2470 South Stemm
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 10:00-18:00; Fr 10:00-16:00; PH closed; Sa 09:00-14:00; Mo open "Seasonal, i.e. depends on the time of the year."
+- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Space Montrose is a gift shop in Houston, TX at 1706 Westheimer Road, Houston, T
 - Website: https://spacemontrose.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Fr 11:00-19:00; Sa 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

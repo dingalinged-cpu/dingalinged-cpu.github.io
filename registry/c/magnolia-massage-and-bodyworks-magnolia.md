@@ -13,6 +13,7 @@ Magnolia Massage and Bodyworks is a massage studio in Magnolia, TX at 33130 Magn
 - Website: https://www.massagebook.com/therapists/magnoliamassageandbodyworks
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-15:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

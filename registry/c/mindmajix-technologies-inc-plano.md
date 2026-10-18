@@ -13,6 +13,7 @@ Mindmajix Technologies INC is an IT support company in Plano, TX at 4608 spaldin
 - Website: https://mindmajix.com/
 - Email: info@mindmajix.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

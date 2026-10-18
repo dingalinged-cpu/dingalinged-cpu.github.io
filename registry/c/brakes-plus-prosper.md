@@ -13,6 +13,7 @@ Brakes Plus is an auto repair shop in Prosper, TX at 5010 West University Drive,
 - Website: https://www.brakesplus.com/stores/prosper/tx/0313/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
+- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

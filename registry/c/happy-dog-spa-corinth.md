@@ -13,6 +13,7 @@ Happy Dog Spa is a dog groomer in Corinth, TX at 4451 Swisher Road #Suite 1oo, C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 53.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

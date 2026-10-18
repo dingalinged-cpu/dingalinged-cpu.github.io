@@ -13,6 +13,7 @@ Otto's Emporium is a furniture store in Tomball, TX at 707 West Main Street, Tom
 - Website: https://www.ottosemporium.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

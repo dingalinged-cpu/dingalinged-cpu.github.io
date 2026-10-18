@@ -13,6 +13,7 @@ Chrome Beauty Lounge is a nail salon in Chicago, IL at 2504 West Division Street
 - Website: https://booksy.com/en-us/1025463_chrome-beauty-lounge_nail-salon_18229_chicago
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-16:00
+- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

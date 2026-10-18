@@ -1,0 +1,24 @@
+C&N Cleaners is a dry cleaner in Austell, GA at 10173 Veterans Memorial Highway, Austell, GA 30168.
+
+# C&N Cleaners
+
+- Category: dry cleaners
+- Services: dry cleaners
+- Address: 10173 Veterans Memorial Highway, Austell, GA 30168
+- City: Austell
+- State: GA
+- ZIP: 30168
+- Coordinates: 33.7972215, -84.6414201
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/c-and-n-cleaners-austell/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/c-and-n-cleaners-austell.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5863637396 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

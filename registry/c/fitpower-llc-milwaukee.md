@@ -13,6 +13,7 @@ FitPOWER LLC is a gym in Milwaukee, WI at 5425 West Vliet Street, Milwaukee, WI 
 - Website: https://www.fitpowermke.com/
 - Email: jessica@fitpowermke.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

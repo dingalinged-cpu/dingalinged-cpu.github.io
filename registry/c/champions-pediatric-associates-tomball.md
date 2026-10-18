@@ -13,6 +13,7 @@ Champions Pediatric Associates is a pediatrician in Tomball, TX at 25201 Kuykend
 - Website: https://www.championspediatric.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

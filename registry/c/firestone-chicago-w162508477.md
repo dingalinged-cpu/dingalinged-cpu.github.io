@@ -13,6 +13,7 @@ Firestone is an auto repair shop in Chicago, IL at 5945-5949 South Archer Avenue
 - Website: https://local.firestonecompleteautocare.com/illinois/chicago/5945-s-archer-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Su 08:00-17:00; Mo-Fr 07:00-19:00; Sa 07:00-18:00
+- Registry Score: 50.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

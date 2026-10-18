@@ -13,6 +13,7 @@ Two Guys Automotive is an auto repair shop in Greenfield, WI at 4280 South 108th
 - Website: https://twoguysautomotive.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00
+- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

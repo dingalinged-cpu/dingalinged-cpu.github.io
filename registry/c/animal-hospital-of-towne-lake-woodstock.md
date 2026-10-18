@@ -1,0 +1,24 @@
+Animal Hospital of Towne Lake is a veterinarian in Woodstock, GA at 3105 Parkbrooke Circle, Woodstock, GA 30189.
+
+# Animal Hospital of Towne Lake
+
+- Category: vet
+- Services: vet
+- Address: 3105 Parkbrooke Circle, Woodstock, GA 30189
+- City: Woodstock
+- State: GA
+- ZIP: 30189
+- Coordinates: 34.1109235, -84.559115
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-towne-lake-woodstock/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/animal-hospital-of-towne-lake-woodstock.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13458584880 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

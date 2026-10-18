@@ -13,6 +13,7 @@ Govednik Automotive, inc. is an auto repair shop in Racine, WI at 3724 Durand Av
 - Website: https://www.goautoracine.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-16:30
+- Registry Score: 60.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

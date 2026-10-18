@@ -1,0 +1,24 @@
+Extra Space Storage is a self-storage facility in Fitchburg, WI. Website: https://www.extraspace.com/storage/facilities/us/wisconsin/fitchburg/6975.
+
+# Extra Space Storage
+
+- Category: storage units
+- Services: storage units
+- Address: Fitchburg, WI
+- City: Fitchburg
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0211086, -89.4691594
+- Phone: n/a
+- Website: https://www.extraspace.com/storage/facilities/us/wisconsin/fitchburg/6975
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-fitchburg/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-fitchburg.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1509767353 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

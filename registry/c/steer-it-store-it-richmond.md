@@ -13,6 +13,7 @@ Steer It Store It is a self-storage facility in Richmond, TX at 1610 Settegast R
 - Website: https://bigboatstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

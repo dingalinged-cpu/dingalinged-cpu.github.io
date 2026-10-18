@@ -13,6 +13,7 @@ Milwaukee Ballet School & Academy is a dance studio in Fox Point, WI at 8655 Nor
 - Website: https://www.milwaukeeballet.org/school-academy/
 - Email: kvonrabenau@milwaukeeballet.org
 - Opening hours (OSM syntax): n/a
+- Registry Score: 64.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

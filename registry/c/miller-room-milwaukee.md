@@ -13,6 +13,7 @@ Miller Room is an event venue in Milwaukee, WI. Phone: +14142771056. Website: ht
 - Website: https://www.zillihospitalitygroup.com/venues/miller-room/
 - Email: info@zillilakeandgardens.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Rao's Bakery & Coffee Cafe is a bakery in Harris County, TX at 6915 Cypresswood 
 - Website: https://raosbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Garden Ridge Animal Hospital is a veterinarian in Lewisville, TX at 349 Glencair
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 07:30-18:00; Sa-Su closed; PH closed; Th 07:30-12:00
+- Registry Score: 58.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

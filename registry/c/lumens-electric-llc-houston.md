@@ -13,6 +13,7 @@ Lumens Electric LLC is an electrician in Houston, TX at 3500 South Richey Street
 - Website: https://lumenselectric.com/
 - Email: service@umenselectric.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

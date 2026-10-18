@@ -1,0 +1,24 @@
+Red Caboose Childcare Center is a daycare in Madison, WI at 2346 Winnebago, Madison, WI. Website: https://www.redcaboosechildcare.org/.
+
+# Red Caboose Childcare Center
+
+- Category: daycare
+- Services: daycare
+- Address: 2346 Winnebago, Madison, WI
+- City: Madison
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0977689, -89.3508808
+- Phone: n/a
+- Website: https://www.redcaboosechildcare.org/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/red-caboose-childcare-center-madison/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/red-caboose-childcare-center-madison.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11178644425 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

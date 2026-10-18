@@ -13,6 +13,7 @@ iVision Eye Care Center is an eye care practice in Houston, TX at 920 Studemont 
 - Website: https://www.ivisionhouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00, Sa 10:00-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

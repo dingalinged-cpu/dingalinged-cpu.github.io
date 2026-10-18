@@ -13,6 +13,7 @@ Belle Tire is a tire shop in Crestwood, IL at 14066 Cicero Avenue, Crestwood, IL
 - Website: https://www.belletire.com/stores/detail/184/belle-tire-crestwood-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

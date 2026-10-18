@@ -13,6 +13,7 @@ Sanjiva Medical Spa is a dermatologist in Dallas, TX at 5633 West Lovers Lane, D
 - Website: https://sanjivamedspa.com/
 - Email: hello@sanjivamedspa.com
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-17:00; Tu,Th 09:00-20:00; Sa 09:00-14:00
+- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

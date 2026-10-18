@@ -1,0 +1,48 @@
+{
+ "title": "Keyword market data: Lodi, WI",
+ "description": "Top Lodi, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "Lodi, WI",
+ "geography": "Madison, WI metro",
+ "keywords": 2,
+ "lists": {
+  "by_volume": [],
+  "by_cpc": [
+   {
+    "keyword": "daycare lodi wi",
+    "slug": "daycare-lodi-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-lodi-wi/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 460,
+    "cpc_basis_usd": 4.81,
+    "cpc_median_usd": 4.81,
+    "search_value_index_usd": 2200,
+    "equivalent_google_ads_cost_month_usd": 130,
+    "featured_spot_min_usd": 20,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "gift shop lodi wi",
+    "slug": "gift-shop-lodi-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-lodi-wi/",
+    "us_monthly_searches": 18000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 37.0,
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "search_value_index_usd": 150,
+    "equivalent_google_ads_cost_month_usd": 14.0,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": []
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

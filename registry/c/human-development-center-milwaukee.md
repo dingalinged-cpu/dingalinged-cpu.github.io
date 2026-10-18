@@ -13,6 +13,7 @@ Human Development Center is a therapy practice in Milwaukee, WI at 6833 West Fon
 - Website: https://humdevctr.org/
 - Email: referral@humdevctr.org
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

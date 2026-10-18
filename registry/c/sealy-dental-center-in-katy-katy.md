@@ -13,6 +13,7 @@ Sealy Dental Center in Katy is a dentist in Katy, TX at 2731 FM 1463 #500, Katy,
 - Website: https://www.sealydentalkaty.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

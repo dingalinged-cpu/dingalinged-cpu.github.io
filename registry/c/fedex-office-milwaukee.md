@@ -13,6 +13,7 @@ FedEx Office is a printing service in Milwaukee, WI at 312 East Wisconsin Avenue
 - Website: https://local.fedex.com/wi/milwaukee/office-0658/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-21:00
+- Registry Score: 49.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

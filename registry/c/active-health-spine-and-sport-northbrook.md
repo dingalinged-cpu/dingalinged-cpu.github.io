@@ -13,6 +13,7 @@ Active Health Spine and Sport is a chiropractor in Northbrook, IL at 450 Skokie 
 - Website: https://www.activehealthchicago.com/
 - Email: info@activehealthchicago.com
 - Opening hours (OSM syntax): Tu,Fr 09:00-14:00
+- Registry Score: 66.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

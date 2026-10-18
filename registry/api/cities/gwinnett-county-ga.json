@@ -1,0 +1,5840 @@
+{
+ "place": "Gwinnett County, GA",
+ "slug": "gwinnett-county-ga",
+ "count": 205,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "accountant gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accountant-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "accounting services gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/accounting-services-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "attorney gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "auto body shop gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "auto repair gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "bakery gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "business consultant gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/business-consultant-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "car wash gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "chiropractor gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "daycare gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "dentist gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "dermatologist gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dermatologist-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "dog groomer gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "dry cleaners gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "electrician gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/electrician-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "event venues gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "eye doctor gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "facial gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "financial advisor gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "flooring companies gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "florist gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "funeral home gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "furniture store gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "general contractor gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/general-contractor-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "gift shop gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "gym gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "hair salon gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "haircut gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "heating and air gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/heating-and-air-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "hvac repair gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hvac-repair-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "insurance agency gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "insurance agent gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "insurance agents gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "it support gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "jewelry store gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "landscaping gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/landscaping-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "lawyer gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "liquor store gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "martial arts gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "massage gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "mechanic gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "nail salon gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "oil change gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "pet store gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "phone repair gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "physical therapy gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "plumber gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumber-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "plumbers gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbers-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "plumbing services gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plumbing-services-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "preschool gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "printing services gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "roofer gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "roofing contractor gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "staffing agency gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/staffing-agency-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "storage units gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "tailor gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tailor-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "tanning salon gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tanning-salon-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "tax preparation gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "tax preparer gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "therapist gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "thrift store gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "tire shop gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "used cars for sale gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/used-cars-for-sale-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "vet gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-gwinnett-county-ga.json"
+  },
+  {
+   "keyword": "waxing gwinnett county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-gwinnett-county-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "mustangs-unlimited-gwinnett-county",
+   "name": "Mustangs Unlimited",
+   "summary": "Mustangs Unlimited is an auto repair shop in Gwinnett County, GA. Phone: +18882292929. Website: https://www.mustangsunlimited.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mustangs-unlimited-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mustangs-unlimited-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9710218,
+    "lon": -84.0865267
+   },
+   "phone": "+18882292929",
+   "website": "https://www.mustangsunlimited.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/372413776",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sk-tax-group-gwinnett-county",
+   "name": "SK Tax Group",
+   "summary": "SK Tax Group is an accountant in Gwinnett County, GA. Phone: +17708816682. Website: https://www.sktaxgroup.com/.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sk-tax-group-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sk-tax-group-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9534265,
+    "lon": -84.1351454
+   },
+   "phone": "+17708816682",
+   "website": "https://www.sktaxgroup.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 12.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10938913098",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kenneth-m-sissel-gwinnett-county",
+   "name": "Kenneth M. Sissel",
+   "summary": "Kenneth M. Sissel is a lawyer in Gwinnett County, GA at 746, Gwinnett County, GA. Phone: +14043251244.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kenneth-m-sissel-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kenneth-m-sissel-gwinnett-county.json",
+   "address": {
+    "streetAddress": "746",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9195089,
+    "lon": -84.1131431
+   },
+   "phone": "+14043251244",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/816358167",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-gwinnett-county",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Gwinnett County, GA at 3803 Venture Drive Northwest, Gwinnett County, GA. Website: https://www.petsmart.com/stores/us/ga/duluth-store0283.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-gwinnett-county.json",
+   "address": {
+    "streetAddress": "3803 Venture Drive Northwest",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9527781,
+    "lon": -84.1371611
+   },
+   "website": "https://www.petsmart.com/stores/us/ga/duluth-store0283.html",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13708813970",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wood-n-choices-gwinnett-county",
+   "name": "Wood-N-Choices",
+   "summary": "Wood-N-Choices is a furniture store in Gwinnett County, GA at 6428 Dawson Boulevard, Gwinnett County, GA. Website: https://www.wood-n-choices.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wood-n-choices-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wood-n-choices-gwinnett-county.json",
+   "address": {
+    "streetAddress": "6428 Dawson Boulevard",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9098583,
+    "lon": -84.2180269
+   },
+   "website": "https://www.wood-n-choices.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/388284311",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pep-boys-auto-service-and-tires-gwinnett-county",
+   "name": "Pep Boys Auto Service & Tires",
+   "summary": "Pep Boys Auto Service & Tires is an auto repair shop in Gwinnett County, GA at 883 Dogwood Road, Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-auto-service-and-tires-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-auto-service-and-tires-gwinnett-county.json",
+   "address": {
+    "streetAddress": "883 Dogwood Road",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8885326,
+    "lon": -84.0598638
+   },
+   "opening_hours": "Mo-Sa 07:00-19:00; Su 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97189934",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "terry-britt-agency-gwinnett-county",
+   "name": "Terry Britt Agency",
+   "summary": "Terry Britt Agency is an insurance agent in Gwinnett County, GA at 3070 Five Forks Trickum Road, Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/terry-britt-agency-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/terry-britt-agency-gwinnett-county.json",
+   "address": {
+    "streetAddress": "3070 Five Forks Trickum Road",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8839272,
+    "lon": -84.0617692
+   },
+   "opening_hours": "Mo-Fr 08:30-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97046784",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aarth-accounting-gwinnett-county",
+   "name": "Aarth Accounting",
+   "summary": "Aarth Accounting is an accountant in Gwinnett County, GA. Phone: +14044889160.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aarth-accounting-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aarth-accounting-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8842608,
+    "lon": -84.0590304
+   },
+   "phone": "+14044889160",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7570423180",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-gwinnett-county-n7553886846",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Gwinnett County, GA. Phone: +16788095100.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-gwinnett-county-n7553886846/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-gwinnett-county-n7553886846.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8671618,
+    "lon": -84.0905866
+   },
+   "phone": "+16788095100",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7553886846",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "georgia-baby-and-kids-gwinnett-county",
+   "name": "Georgia Baby and Kids",
+   "summary": "Georgia Baby and Kids is a furniture store in Gwinnett County, GA. Website: https://www.georgiababy.com/.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/georgia-baby-and-kids-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/georgia-baby-and-kids-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9101602,
+    "lon": -84.2127007
+   },
+   "website": "https://www.georgiababy.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/388281936",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-clinique-hair-salon-gwinnett-county",
+   "name": "Hair Clinique Hair Salon",
+   "summary": "Hair Clinique Hair Salon is a hair salon in Gwinnett County, GA. Website: https://haircaregwinnett.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-clinique-hair-salon-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-clinique-hair-salon-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9564133,
+    "lon": -84.1286331
+   },
+   "website": "https://haircaregwinnett.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11582507365",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lifetime-construction-gwinnett-county",
+   "name": "Lifetime Construction",
+   "summary": "Lifetime Construction is a general contractor in Gwinnett County, GA. Phone: +14045030843.",
+   "categories": [
+    "general contractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lifetime-construction-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lifetime-construction-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9103671,
+    "lon": -84.065465
+   },
+   "phone": "+14045030843",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7595657789",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oak-road-family-chiropractic-gwinnett-county",
+   "name": "Oak Road Family Chiropractic",
+   "summary": "Oak Road Family Chiropractic is a chiropractor in Gwinnett County, GA. Phone: +17709793701.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oak-road-family-chiropractic-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oak-road-family-chiropractic-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8843159,
+    "lon": -84.059079
+   },
+   "phone": "+17709793701",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7570423181",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "outdoor-swings-gliders-and-adirondacks-gwinnett-county",
+   "name": "Outdoor Swings, Gliders, and Adirondacks",
+   "summary": "Outdoor Swings, Gliders, and Adirondacks is a furniture store in Gwinnett County, GA. Phone: +14048015798.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/outdoor-swings-gliders-and-adirondacks-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/outdoor-swings-gliders-and-adirondacks-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8672937,
+    "lon": -84.0942622
+   },
+   "phone": "+14048015798",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/807676121",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brookwood-animal-hospital-gwinnett-county",
+   "name": "Brookwood Animal Hospital",
+   "summary": "Brookwood Animal Hospital is a veterinarian in Gwinnett County, GA.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brookwood-animal-hospital-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brookwood-animal-hospital-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8885667,
+    "lon": -84.0569325
+   },
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97046752",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "compass-self-storage-gwinnett-county",
+   "name": "Compass Self Storage",
+   "summary": "Compass Self Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/compass-self-storage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/compass-self-storage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8458283,
+    "lon": -84.0515576
+   },
+   "opening_hours": "Mo 09:30-18:00; Tu-Th 10:00-14:00; Fr 09:30-18:00; Sa 10:00-17:00; Su 10:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12032612930",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "field-house-gwinnett-county",
+   "name": "Field House",
+   "summary": "Field House is a gym in Gwinnett County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/field-house-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/field-house-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8823108,
+    "lon": -84.0424998
+   },
+   "opening_hours": "\"Open by permission\"",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/575098440",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "joes-barber-shop-gwinnett-county",
+   "name": "Joe's Barber Shop",
+   "summary": "Joe's Barber Shop is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/joes-barber-shop-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/joes-barber-shop-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8863216,
+    "lon": -84.0614534
+   },
+   "opening_hours": "Mo-Fr 09:00-18:00; Sa 07:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7542898729",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "siam-cleaners-gwinnett-county",
+   "name": "Siam Cleaners",
+   "summary": "Siam Cleaners is a dry cleaner in Gwinnett County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/siam-cleaners-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/siam-cleaners-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8675304,
+    "lon": -84.0927623
+   },
+   "opening_hours": "Mo-Fr 08:00-18:45; Sa 09:30-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551746958",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coopers-pond-clubhouse-gwinnett-county",
+   "name": "Cooper's Pond Clubhouse",
+   "summary": "Cooper's Pond Clubhouse is an event venue in Gwinnett County, GA at 97 Coopers Pond Drive, Gwinnett County, GA.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coopers-pond-clubhouse-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coopers-pond-clubhouse-gwinnett-county.json",
+   "address": {
+    "streetAddress": "97 Coopers Pond Drive",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9030376,
+    "lon": -84.0533514
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999432800",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dans-car-wash-gwinnett-county",
+   "name": "Dan's Car Wash",
+   "summary": "Dan's Car Wash is a car wash in Gwinnett County, GA at 2379, Gwinnett County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dans-car-wash-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dans-car-wash-gwinnett-county.json",
+   "address": {
+    "streetAddress": "2379",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9269686,
+    "lon": -84.0609036
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999428401",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jake-johnsons-garage-gwinnett-county",
+   "name": "Jake Johnson's Garage",
+   "summary": "Jake Johnson's Garage is an auto repair shop in Gwinnett County, GA at 5932, Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jake-johnsons-garage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jake-johnsons-garage-gwinnett-county.json",
+   "address": {
+    "streetAddress": "5932",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1192509,
+    "lon": -84.0781648
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/387400784",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-hope-eye-center-gwinnett-county",
+   "name": "New Hope Eye Center",
+   "summary": "New Hope Eye Center is an eye care practice in Gwinnett County, GA at 2070 Pleasant Hill Road, Gwinnett County, GA.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-hope-eye-center-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-hope-eye-center-gwinnett-county.json",
+   "address": {
+    "streetAddress": "2070 Pleasant Hill Road",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9561467,
+    "lon": -84.1320805
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11582498949",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tom-m-wages-funeral-service-llc-gwinnett-county",
+   "name": "Tom M. Wages Funeral Service, LLC",
+   "summary": "Tom M. Wages Funeral Service, LLC is a funeral home in Gwinnett County, GA at 3705, Gwinnett County, GA.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tom-m-wages-funeral-service-llc-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tom-m-wages-funeral-service-llc-gwinnett-county.json",
+   "address": {
+    "streetAddress": "3705",
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8435032,
+    "lon": -84.0587444
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392466271",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aarons-gwinnett-county",
+   "name": "Aaron's",
+   "summary": "Aaron's is a furniture store in Gwinnett County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aarons-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aarons-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8441858,
+    "lon": -84.0546544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12033592554",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "abd-motorsports-gwinnett-county",
+   "name": "ABD Motorsports",
+   "summary": "ABD Motorsports is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abd-motorsports-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abd-motorsports-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8878765,
+    "lon": -84.0601838
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7579013475",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "acceptance-insurance-gwinnett-county",
+   "name": "Acceptance Insurance",
+   "summary": "Acceptance Insurance is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/acceptance-insurance-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/acceptance-insurance-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8236203,
+    "lon": -84.1230448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603157980",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aire-central-gwinnett-county",
+   "name": "Aire Central",
+   "summary": "Aire Central is a HVAC contractor in Gwinnett County, GA.",
+   "categories": [
+    "hvac repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aire-central-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aire-central-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8429857,
+    "lon": -84.059427
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10585730409",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-star-karate-gwinnett-county",
+   "name": "All Star Karate",
+   "summary": "All Star Karate is a martial arts school in Gwinnett County, GA.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-star-karate-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-star-karate-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8871429,
+    "lon": -84.060922
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814232",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-gwinnett-county",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8830943,
+    "lon": -84.0620546
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7549218655",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "american-cleaners-gwinnett-county",
+   "name": "American Cleaners",
+   "summary": "American Cleaners is a dry cleaner in Gwinnett County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/american-cleaners-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/american-cleaners-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8871857,
+    "lon": -84.061036
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814233",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "annas-massage-gwinnett-county",
+   "name": "AnNa's Massage",
+   "summary": "AnNa's Massage is a massage studio in Gwinnett County, GA.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/annas-massage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/annas-massage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9265507,
+    "lon": -84.1143577
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805894",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "arcado-repairs-gwinnett-county",
+   "name": "Arcado Repairs",
+   "summary": "Arcado Repairs is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arcado-repairs-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arcado-repairs-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.89259,
+    "lon": -84.1130685
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/487499403",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "armen-and-joseph-gwinnett-county",
+   "name": "Armen & Joseph",
+   "summary": "Armen & Joseph is a jewelry store in Gwinnett County, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/armen-and-joseph-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/armen-and-joseph-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9965529,
+    "lon": -84.091174
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13785844385",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "at-home-gwinnett-county",
+   "name": "At Home",
+   "summary": "At Home is a furniture store in Gwinnett County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/at-home-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/at-home-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.928522,
+    "lon": -84.1722539
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11132976254",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "auto-check-plus-gwinnett-county",
+   "name": "Auto Check Plus",
+   "summary": "Auto Check Plus is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auto-check-plus-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auto-check-plus-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9215942,
+    "lon": -84.1133532
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7626277409",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "auto-quest-gwinnett-county",
+   "name": "Auto Quest",
+   "summary": "Auto Quest is an used car dealer in Gwinnett County, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/auto-quest-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/auto-quest-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.927692,
+    "lon": -84.058397
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999427278",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "beauty-and-braids-salon-gwinnett-county",
+   "name": "Beauty & Braids Salon",
+   "summary": "Beauty & Braids Salon is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/beauty-and-braids-salon-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/beauty-and-braids-salon-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9520923,
+    "lon": -84.0500421
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251486206",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "befit-studio-gwinnett-county",
+   "name": "BeFit Studio",
+   "summary": "BeFit Studio is a gym in Gwinnett County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/befit-studio-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/befit-studio-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.887857,
+    "lon": -84.0626983
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814260",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "benchmark-physical-therapy-gwinnett-county",
+   "name": "BenchMark Physical Therapy",
+   "summary": "BenchMark Physical Therapy is a physical therapy clinic in Gwinnett County, GA.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benchmark-physical-therapy-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benchmark-physical-therapy-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.955244,
+    "lon": -84.0519564
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251486219",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bp-gwinnett-county",
+   "name": "BP",
+   "summary": "BP is a car wash in Gwinnett County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8428459,
+    "lon": -84.0598452
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999091979",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "branded-barrel-gwinnett-county",
+   "name": "Branded Barrel",
+   "summary": "Branded Barrel is a liquor store in Gwinnett County, GA.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/branded-barrel-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/branded-barrel-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9185742,
+    "lon": -84.1143825
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/816306412",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brays-auto-service-gwinnett-county",
+   "name": "Bray's Auto Service",
+   "summary": "Bray's Auto Service is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brays-auto-service-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brays-auto-service-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8519124,
+    "lon": -84.0414648
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392466999",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "childtime-learning-centers-gwinnett-county",
+   "name": "Childtime Learning Centers",
+   "summary": "Childtime Learning Centers is a preschool in Gwinnett County, GA.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/childtime-learning-centers-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/childtime-learning-centers-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8667159,
+    "lon": -84.089768
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/806265433",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chris-barbershop-gwinnett-county",
+   "name": "Chris' Barbershop",
+   "summary": "Chris' Barbershop is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chris-barbershop-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chris-barbershop-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8422094,
+    "lon": -84.1304993
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603167372",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "constellation-park-apartments-gwinnett-county",
+   "name": "Constellation Park Apartments",
+   "summary": "Constellation Park Apartments is an IT support company in Gwinnett County, GA.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/constellation-park-apartments-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/constellation-park-apartments-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9696776,
+    "lon": -84.0999579
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4103909709",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cr-auto-collisions-and-pait-shop-gwinnett-county",
+   "name": "CR Auto Collisions & Pait Shop",
+   "summary": "CR Auto Collisions & Pait Shop is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cr-auto-collisions-and-pait-shop-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cr-auto-collisions-and-pait-shop-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8516314,
+    "lon": -84.0419865
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392467007",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dcache-salon-de-belleza-gwinnett-county",
+   "name": "D'Cache Salon de Belleza",
+   "summary": "D'Cache Salon de Belleza is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dcache-salon-de-belleza-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dcache-salon-de-belleza-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9175601,
+    "lon": -84.1157135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7624356847",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dpedro-auto-gwinnett-county",
+   "name": "D'Pedro Auto",
+   "summary": "D'Pedro Auto is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dpedro-auto-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dpedro-auto-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8917146,
+    "lon": -84.1124223
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/809266178",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "deck-jewelers-gwinnett-county",
+   "name": "Deck Jewelers",
+   "summary": "Deck Jewelers is a jewelry store in Gwinnett County, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/deck-jewelers-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/deck-jewelers-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8900914,
+    "lon": -84.061828
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814268",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dinoland-car-wash-gwinnett-county",
+   "name": "Dinoland Car Wash",
+   "summary": "Dinoland Car Wash is a car wash in Gwinnett County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dinoland-car-wash-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dinoland-car-wash-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8506294,
+    "lon": -84.0459282
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/991852945",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "divine-grace-hair-braiding-gwinnett-county",
+   "name": "Divine Grace Hair Braiding",
+   "summary": "Divine Grace Hair Braiding is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/divine-grace-hair-braiding-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/divine-grace-hair-braiding-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8374923,
+    "lon": -84.0676773
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12033632145",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dolphin-car-wash-and-lube-gwinnett-county",
+   "name": "Dolphin Car wash & Lube",
+   "summary": "Dolphin Car wash & Lube is a car wash in Gwinnett County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dolphin-car-wash-and-lube-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dolphin-car-wash-and-lube-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8860116,
+    "lon": -84.0587848
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/100760425",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dominican-barber-shop-gwinnett-county",
+   "name": "Dominican Barber Shop",
+   "summary": "Dominican Barber Shop is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dominican-barber-shop-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dominican-barber-shop-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9247391,
+    "lon": -84.1131312
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805903",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eakaan-automotive-gwinnett-county",
+   "name": "Eakaan Automotive",
+   "summary": "Eakaan Automotive is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eakaan-automotive-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eakaan-automotive-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.851499,
+    "lon": -84.0429124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392467009",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "early-scholars-daycare-gwinnett-county",
+   "name": "Early Scholars Daycare",
+   "summary": "Early Scholars Daycare is a daycare in Gwinnett County, GA.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/early-scholars-daycare-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/early-scholars-daycare-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9264239,
+    "lon": -84.1142772
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805897",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-gwinnett-county",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Gwinnett County, GA.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8691951,
+    "lon": -84.0945442
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551804356",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-gwinnett-county-n7567814225",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Gwinnett County, GA.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-gwinnett-county-n7567814225/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-gwinnett-county-n7567814225.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8868946,
+    "lon": -84.0606719
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814225",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "el-var-n-dominican-barber-shop-gwinnett-county",
+   "name": "El Varón Dominican Barber Shop",
+   "summary": "El Varón Dominican Barber Shop is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/el-var-n-dominican-barber-shop-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/el-var-n-dominican-barber-shop-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9525829,
+    "lon": -84.0514598
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251486195",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "empire-dominican-barbers-gwinnett-county",
+   "name": "Empire Dominican Barbers",
+   "summary": "Empire Dominican Barbers is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/empire-dominican-barbers-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/empire-dominican-barbers-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8871768,
+    "lon": -84.0608107
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814231",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "esportsinsurance-gwinnett-county",
+   "name": "eSportsInsurance",
+   "summary": "eSportsInsurance is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/esportsinsurance-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/esportsinsurance-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8834138,
+    "lon": -84.0619815
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7549218654",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eternal-hills-funeral-home-and-cremation-services-gwinnett-county",
+   "name": "Eternal Hills Funeral Home & Cremation Services",
+   "summary": "Eternal Hills Funeral Home & Cremation Services is a funeral home in Gwinnett County, GA.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eternal-hills-funeral-home-and-cremation-services-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eternal-hills-funeral-home-and-cremation-services-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8436526,
+    "lon": -84.0555507
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12033592555",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eurotech-automotive-gwinnett-county",
+   "name": "EuroTech Automotive",
+   "summary": "EuroTech Automotive is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eurotech-automotive-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eurotech-automotive-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8445552,
+    "lon": -84.0539006
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12033592552",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-gwinnett-county",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9112635,
+    "lon": -84.1000433
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9434107871",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-gwinnett-county-w392464933",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-gwinnett-county-w392464933/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-gwinnett-county-w392464933.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8387713,
+    "lon": -84.06617
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392464933",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-gwinnett-county-w729799694",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-gwinnett-county-w729799694/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-gwinnett-county-w729799694.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8183948,
+    "lon": -84.1222623
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/729799694",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-gwinnett-county-w893556407",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-gwinnett-county-w893556407/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-gwinnett-county-w893556407.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9229264,
+    "lon": -84.2505357
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/893556407",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-gwinnett-county-w999428450",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-gwinnett-county-w999428450/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-gwinnett-county-w999428450.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9288795,
+    "lon": -84.0480305
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999428450",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "family-haircuts-and-styles-gwinnett-county",
+   "name": "Family haircuts and styles",
+   "summary": "Family haircuts and styles is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-haircuts-and-styles-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-haircuts-and-styles-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8417237,
+    "lon": -84.1306602
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603167378",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "family-healthcare-clinic-gwinnett-county",
+   "name": "Family Healthcare Clinic",
+   "summary": "Family Healthcare Clinic is a chiropractor in Gwinnett County, GA.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/family-healthcare-clinic-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/family-healthcare-clinic-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8942515,
+    "lon": -84.0550674
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/809551251",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "farmers-insurance-gwinnett-county",
+   "name": "Farmers Insurance",
+   "summary": "Farmers Insurance is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/farmers-insurance-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9264684,
+    "lon": -84.1143121
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805896",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fine-clipper-hair-salon-gwinnett-county",
+   "name": "Fine Clipper Hair Salon",
+   "summary": "Fine Clipper Hair Salon is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fine-clipper-hair-salon-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fine-clipper-hair-salon-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8905812,
+    "lon": -84.0614752
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567573163",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fitness-19-gwinnett-county",
+   "name": "Fitness 19",
+   "summary": "Fitness 19 is a gym in Gwinnett County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fitness-19-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fitness-19-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8704832,
+    "lon": -84.0912758
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97026409",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fitness-621-gwinnett-county",
+   "name": "Fitness 621",
+   "summary": "Fitness 621 is a gym in Gwinnett County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fitness-621-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fitness-621-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9556138,
+    "lon": -84.0525425
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251486252",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "five-forks-automotive-gwinnett-county",
+   "name": "Five Forks Automotive",
+   "summary": "Five Forks Automotive is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/five-forks-automotive-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/five-forks-automotive-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8839045,
+    "lon": -84.062893
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97046785",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "flowerama-gwinnett-county",
+   "name": "Flowerama",
+   "summary": "Flowerama is a florist in Gwinnett County, GA.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flowerama-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flowerama-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.953323,
+    "lon": -84.0501605
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999420525",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fraser-roofing-gwinnett-county",
+   "name": "Fraser Roofing",
+   "summary": "Fraser Roofing is a roofer in Gwinnett County, GA.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fraser-roofing-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fraser-roofing-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8840631,
+    "lon": -84.0626879
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97046776",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "friedman-family-law-gwinnett-county",
+   "name": "Friedman Family Law",
+   "summary": "Friedman Family Law is a lawyer in Gwinnett County, GA.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/friedman-family-law-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/friedman-family-law-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8831655,
+    "lon": -84.0611125
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7549218647",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "friendship-paint-and-body-shop-gwinnett-county",
+   "name": "Friendship Paint & Body Shop",
+   "summary": "Friendship Paint & Body Shop is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/friendship-paint-and-body-shop-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/friendship-paint-and-body-shop-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8443124,
+    "lon": -84.0537343
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12033592553",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fuerza-latina-insurance-gwinnett-county",
+   "name": "Fuerza Latina Insurance",
+   "summary": "Fuerza Latina Insurance is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fuerza-latina-insurance-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fuerza-latina-insurance-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9174376,
+    "lon": -84.1156438
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7624356849",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "garrison-insurance-group-gwinnett-county",
+   "name": "Garrison Insurance Group",
+   "summary": "Garrison Insurance Group is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/garrison-insurance-group-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/garrison-insurance-group-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8842285,
+    "lon": -84.0592017
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7570423179",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "georgia-auto-gallery-gwinnett-county",
+   "name": "Georgia Auto Gallery",
+   "summary": "Georgia Auto Gallery is an used car dealer in Gwinnett County, GA.",
+   "categories": [
+    "used cars for sale"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/georgia-auto-gallery-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/georgia-auto-gallery-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.845482,
+    "lon": -84.0519845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999092324",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gill-plumbing-co-gwinnett-county",
+   "name": "Gill Plumbing Co.",
+   "summary": "Gill Plumbing Co. is a plumber in Gwinnett County, GA.",
+   "categories": [
+    "plumber"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gill-plumbing-co-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gill-plumbing-co-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8911635,
+    "lon": -84.112085
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/487499400",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "glam-luxe-hair-studio-gwinnett-county",
+   "name": "Glam Luxe Hair Studio",
+   "summary": "Glam Luxe Hair Studio is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/glam-luxe-hair-studio-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/glam-luxe-hair-studio-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8688533,
+    "lon": -84.0914369
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551804358",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-gwinnett-county",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Gwinnett County, GA.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.943192,
+    "lon": -84.1216471
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12511786301",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-gwinnett-county-w392457996",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Gwinnett County, GA.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-gwinnett-county-w392457996/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-gwinnett-county-w392457996.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8220934,
+    "lon": -84.113052
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392457996",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-gwinnett-county",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8849652,
+    "lon": -84.059703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7542898736",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "guardian-insurance-gwinnett-county",
+   "name": "Guardian Insurance",
+   "summary": "Guardian Insurance is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/guardian-insurance-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/guardian-insurance-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9245666,
+    "lon": -84.1133156
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805907",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gwinett-gymnastics-center-gwinnett-county",
+   "name": "Gwinett Gymnastics Center",
+   "summary": "Gwinett Gymnastics Center is a gym in Gwinnett County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gwinett-gymnastics-center-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gwinett-gymnastics-center-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8684314,
+    "lon": -84.0964395
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/96765124",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gwinnett-furniture-gwinnett-county",
+   "name": "Gwinnett Furniture",
+   "summary": "Gwinnett Furniture is a furniture store in Gwinnett County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gwinnett-furniture-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gwinnett-furniture-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8908526,
+    "lon": -84.0611382
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97046755",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gwinnett-orthodontics-gwinnett-county",
+   "name": "Gwinnett Orthodontics",
+   "summary": "Gwinnett Orthodontics is a dentist in Gwinnett County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gwinnett-orthodontics-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gwinnett-orthodontics-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8693087,
+    "lon": -84.0943229
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551804354",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gwinnett-self-storage-gwinnett-county",
+   "name": "Gwinnett Self Storage",
+   "summary": "Gwinnett Self Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gwinnett-self-storage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gwinnett-self-storage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8699731,
+    "lon": -84.0886398
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/96777794",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-gwinnett-county",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Gwinnett County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8412336,
+    "lon": -84.1319638
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603167392",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hair-and-beyond-gwinnett-county",
+   "name": "Hair & Beyond",
+   "summary": "Hair & Beyond is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hair-and-beyond-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hair-and-beyond-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8670883,
+    "lon": -84.0904659
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7553886844",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "halls-car-wash-gwinnett-county",
+   "name": "Hall's Car Wash",
+   "summary": "Hall's Car Wash is a car wash in Gwinnett County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/halls-car-wash-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/halls-car-wash-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8855546,
+    "lon": -84.0598242
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97189938",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "havoline-xpress-lube-gwinnett-county",
+   "name": "Havoline Xpress Lube",
+   "summary": "Havoline Xpress Lube is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/havoline-xpress-lube-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/havoline-xpress-lube-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8883483,
+    "lon": -84.0606577
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97189935",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "howard-harris-and-associates-gwinnett-county",
+   "name": "Howard Harris & Associates",
+   "summary": "Howard Harris & Associates is a therapy practice in Gwinnett County, GA.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/howard-harris-and-associates-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/howard-harris-and-associates-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8694646,
+    "lon": -84.096517
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551746979",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "i-love-nails-gwinnett-county",
+   "name": "I Love Nails",
+   "summary": "I Love Nails is a nail salon in Gwinnett County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/i-love-nails-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/i-love-nails-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9551858,
+    "lon": -84.0519032
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251486218",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ian-event-hall-gwinnett-county",
+   "name": "Ian Event Hall",
+   "summary": "Ian Event Hall is an event venue in Gwinnett County, GA.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ian-event-hall-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ian-event-hall-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9109414,
+    "lon": -84.1323352
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7633910931",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ishop-auto-gwinnett-county",
+   "name": "iShop Auto",
+   "summary": "iShop Auto is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ishop-auto-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ishop-auto-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8452224,
+    "lon": -84.0521942
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392466333",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "itax-gwinnett-county",
+   "name": "iTax",
+   "summary": "iTax is a tax preparation service in Gwinnett County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/itax-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/itax-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9267622,
+    "lon": -84.1145025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805890",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "iwillfixyourphone-gwinnett-county",
+   "name": "iwillfixyourphone",
+   "summary": "iwillfixyourphone is a phone repair shop in Gwinnett County, GA.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/iwillfixyourphone-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/iwillfixyourphone-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9265062,
+    "lon": -84.1143295
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805895",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "j-a-c-hair-salon-gwinnett-county",
+   "name": "J.A.C. Hair Salon",
+   "summary": "J.A.C. Hair Salon is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/j-a-c-hair-salon-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/j-a-c-hair-salon-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8707919,
+    "lon": -84.0919814
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7550246841",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jazzles-hair-design-gwinnett-county",
+   "name": "Jazzles Hair Design",
+   "summary": "Jazzles Hair Design is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jazzles-hair-design-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jazzles-hair-design-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8907349,
+    "lon": -84.0602455
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567573164",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jill-and-raymond-lyew-dds-gwinnett-county",
+   "name": "Jill & Raymond Lyew, DDS",
+   "summary": "Jill & Raymond Lyew, DDS is a dentist in Gwinnett County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jill-and-raymond-lyew-dds-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jill-and-raymond-lyew-dds-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8868994,
+    "lon": -84.063233
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97189929",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jordans-garage-gwinnett-county",
+   "name": "Jordan's Garage",
+   "summary": "Jordan's Garage is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jordans-garage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jordans-garage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8944549,
+    "lon": -84.1137679
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/487499386",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "juniors-barber-shop-gwinnett-county",
+   "name": "Junior's Barber Shop",
+   "summary": "Junior's Barber Shop is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/juniors-barber-shop-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/juniors-barber-shop-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8413227,
+    "lon": -84.1310787
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603167380",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kare-bear-academy-gwinnett-county",
+   "name": "Kare Bear Academy",
+   "summary": "Kare Bear Academy is a daycare in Gwinnett County, GA.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kare-bear-academy-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kare-bear-academy-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8687112,
+    "lon": -84.0969005
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/96765127",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kaushal-thakkar-agency-gwinnett-county",
+   "name": "Kaushal Thakkar Agency",
+   "summary": "Kaushal Thakkar Agency is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kaushal-thakkar-agency-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kaushal-thakkar-agency-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.886987,
+    "lon": -84.0607309
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814227",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kay-cleaners-gwinnett-county",
+   "name": "Kay Cleaners",
+   "summary": "Kay Cleaners is a dry cleaner in Gwinnett County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kay-cleaners-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kay-cleaners-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8863897,
+    "lon": -84.0614095
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7542898730",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kids-r-kids-gwinnett-county",
+   "name": "Kids 'R' Kids",
+   "summary": "Kids 'R' Kids is a daycare in Gwinnett County, GA.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kids-r-kids-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kids-r-kids-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8421826,
+    "lon": -84.1330098
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603167388",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "kidzwise-academy-gwinnett-county",
+   "name": "KidzWise Academy",
+   "summary": "KidzWise Academy is a daycare in Gwinnett County, GA.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/kidzwise-academy-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/kidzwise-academy-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8497097,
+    "lon": -84.0454048
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392467006",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "killian-hill-animal-hospital-gwinnett-county",
+   "name": "Killian Hill Animal Hospital",
+   "summary": "Killian Hill Animal Hospital is a veterinarian in Gwinnett County, GA.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/killian-hill-animal-hospital-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/killian-hill-animal-hospital-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8669516,
+    "lon": -84.0918177
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97045168",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "killian-hill-dental-care-gwinnett-county",
+   "name": "Killian Hill Dental Care",
+   "summary": "Killian Hill Dental Care is a dentist in Gwinnett County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/killian-hill-dental-care-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/killian-hill-dental-care-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8695203,
+    "lon": -84.0962729
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551746980",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-fitness-gwinnett-county",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Gwinnett County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8246089,
+    "lon": -84.1147303
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9482810893",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-kutz-barber-shop-gwinnett-county",
+   "name": "LA Kutz Barber Shop",
+   "summary": "LA Kutz Barber Shop is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-kutz-barber-shop-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-kutz-barber-shop-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9266225,
+    "lon": -84.1144194
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805892",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-roka-dominican-barber-shop-gwinnett-county",
+   "name": "La Roka Dominican Barber Shop",
+   "summary": "La Roka Dominican Barber Shop is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-roka-dominican-barber-shop-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-roka-dominican-barber-shop-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9110849,
+    "lon": -84.1321984
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7633910933",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "latino-consulting-gwinnett-county",
+   "name": "Latino Consulting",
+   "summary": "Latino Consulting is a business consultant in Gwinnett County, GA.",
+   "categories": [
+    "business consultant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/latino-consulting-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/latino-consulting-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.882473,
+    "lon": -84.0617475
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7544874763",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "law-office-of-elaine-a-nietmann-gwinnett-county",
+   "name": "Law Office of Elaine A Nietmann",
+   "summary": "Law Office of Elaine A Nietmann is a lawyer in Gwinnett County, GA.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/law-office-of-elaine-a-nietmann-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/law-office-of-elaine-a-nietmann-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8695125,
+    "lon": -84.0964761
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551746974",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lightening-detail-gwinnett-county",
+   "name": "Lightening Detail",
+   "summary": "Lightening Detail is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lightening-detail-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lightening-detail-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8680714,
+    "lon": -84.0923801
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/97045173",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lilburn-cleaners-gwinnett-county",
+   "name": "Lilburn Cleaners",
+   "summary": "Lilburn Cleaners is a dry cleaner in Gwinnett County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lilburn-cleaners-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lilburn-cleaners-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8670694,
+    "lon": -84.0904163
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7553886843",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lipson-dental-group-gwinnett-county",
+   "name": "Lipson Dental Group",
+   "summary": "Lipson Dental Group is a dentist in Gwinnett County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lipson-dental-group-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lipson-dental-group-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8661306,
+    "lon": -84.0953348
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7552955794",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "live-life-intentionally-gwinnett-county",
+   "name": "Live Life Intentionally",
+   "summary": "Live Life Intentionally is a therapy practice in Gwinnett County, GA.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/live-life-intentionally-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/live-life-intentionally-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.869478,
+    "lon": -84.0964318
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551746975",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lumber-liquidators-gwinnett-county",
+   "name": "Lumber Liquidators",
+   "summary": "Lumber Liquidators is a flooring company in Gwinnett County, GA.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lumber-liquidators-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lumber-liquidators-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9512979,
+    "lon": -84.1400286
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13708813975",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "magictouch-gwinnett-county",
+   "name": "MagicTouch",
+   "summary": "MagicTouch is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/magictouch-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/magictouch-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9260711,
+    "lon": -84.1150939
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805899",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "major-tae-kwan-do-gwinnett-county",
+   "name": "Major Tae Kwan Do",
+   "summary": "Major Tae Kwan Do is a martial arts school in Gwinnett County, GA.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/major-tae-kwan-do-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/major-tae-kwan-do-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8684076,
+    "lon": -84.0920031
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/806265439",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mcgregor-bookkeeping-gwinnett-county",
+   "name": "McGregor Bookkeeping",
+   "summary": "McGregor Bookkeeping is an accountant in Gwinnett County, GA.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mcgregor-bookkeeping-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mcgregor-bookkeeping-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8695626,
+    "lon": -84.0965518
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551746978",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "metro-self-storage-gwinnett-county",
+   "name": "Metro Self Storage",
+   "summary": "Metro Self Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metro-self-storage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metro-self-storage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.926312,
+    "lon": -84.0543531
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1133356282",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "metroderm-gwinnett-county",
+   "name": "MetroDerm",
+   "summary": "MetroDerm is a dermatologist in Gwinnett County, GA.",
+   "categories": [
+    "dermatologist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/metroderm-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/metroderm-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8659942,
+    "lon": -84.0951303
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7552955793",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mirage-nail-salon-gwinnett-county",
+   "name": "Mirage Nail Salon",
+   "summary": "Mirage Nail Salon is a nail salon in Gwinnett County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mirage-nail-salon-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mirage-nail-salon-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8358516,
+    "lon": -84.0689234
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12033632154",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "morningstar-storage-gwinnett-county",
+   "name": "Morningstar Storage",
+   "summary": "Morningstar Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/morningstar-storage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/morningstar-storage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9997356,
+    "lon": -84.0715651
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8220085626",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mr-tire-auto-service-centers-gwinnett-county",
+   "name": "Mr. Tire Auto Service Centers",
+   "summary": "Mr. Tire Auto Service Centers is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mr-tire-auto-service-centers-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mr-tire-auto-service-centers-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8240942,
+    "lon": -84.1104588
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392458473",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "multiservices-gwinnett-county",
+   "name": "Multiservices",
+   "summary": "Multiservices is an accountant in Gwinnett County, GA.",
+   "categories": [
+    "accountant"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/multiservices-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/multiservices-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9244909,
+    "lon": -84.1133009
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805909",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nail-charm-gwinnett-county",
+   "name": "Nail Charm",
+   "summary": "Nail Charm is a nail salon in Gwinnett County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nail-charm-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nail-charm-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8371724,
+    "lon": -84.06744
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12033632148",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nen-auto-service-and-repair-gwinnett-county",
+   "name": "NEN Auto Service & Repair",
+   "summary": "NEN Auto Service & Repair is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nen-auto-service-and-repair-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nen-auto-service-and-repair-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8483097,
+    "lon": -84.0467498
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392466996",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nery-auto-repair-gwinnett-county",
+   "name": "Nery Auto Repair",
+   "summary": "Nery Auto Repair is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nery-auto-repair-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nery-auto-repair-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9214015,
+    "lon": -84.1133025
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/816358176",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "new-hair-professionals-gwinnett-county",
+   "name": "New Hair Professionals",
+   "summary": "New Hair Professionals is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/new-hair-professionals-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/new-hair-professionals-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8876004,
+    "lon": -84.0585516
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7569585558",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nguyen-tran-law-firm-gwinnett-county",
+   "name": "Nguyen Tran Law Firm",
+   "summary": "Nguyen Tran Law Firm is a lawyer in Gwinnett County, GA.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nguyen-tran-law-firm-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nguyen-tran-law-firm-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8825966,
+    "lon": -84.062009
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7549218646",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oakwood-apci-gwinnett-county",
+   "name": "Oakwood APCI",
+   "summary": "Oakwood APCI is a landscaping company in Gwinnett County, GA.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oakwood-apci-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oakwood-apci-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8939931,
+    "lon": -84.1135469
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/809266183",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oh-my-hair-studio-gwinnett-county",
+   "name": "Oh My Hair Studio",
+   "summary": "Oh My Hair Studio is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oh-my-hair-studio-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oh-my-hair-studio-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9247224,
+    "lon": -84.1131882
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805904",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "one-stop-cleaner-gwinnett-county",
+   "name": "One Stop Cleaner",
+   "summary": "One Stop Cleaner is a dry cleaner in Gwinnett County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/one-stop-cleaner-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/one-stop-cleaner-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8899823,
+    "lon": -84.0618964
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814267",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "onyx-gwinnett-county",
+   "name": "Onyx",
+   "summary": "Onyx is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/onyx-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/onyx-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.824539,
+    "lon": -84.1226296
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603158137",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "osborne-bodyworks-gwinnett-county",
+   "name": "Osborne Bodyworks",
+   "summary": "Osborne Bodyworks is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/osborne-bodyworks-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/osborne-bodyworks-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8934298,
+    "lon": -84.1135217
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/487499408",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "peach-smiles-gwinnett-county",
+   "name": "Peach Smiles",
+   "summary": "Peach Smiles is a dentist in Gwinnett County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peach-smiles-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peach-smiles-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9553071,
+    "lon": -84.0520141
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251486220",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "peachstate-insurance-gwinnett-county",
+   "name": "Peachstate Insurance",
+   "summary": "Peachstate Insurance is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peachstate-insurance-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peachstate-insurance-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8430076,
+    "lon": -84.0593741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10585730408",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pep-boys-gwinnett-county",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8365909,
+    "lon": -84.0726932
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392464925",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pep-boys-gwinnett-county-w984741354",
+   "name": "Pep Boys",
+   "summary": "Pep Boys is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pep-boys-gwinnett-county-w984741354/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pep-boys-gwinnett-county-w984741354.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8700825,
+    "lon": -84.188755
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/984741354",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-laundry-gwinnett-county",
+   "name": "Pet Laundry",
+   "summary": "Pet Laundry is a dog groomer in Gwinnett County, GA.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-laundry-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-laundry-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.86888,
+    "lon": -84.0913658
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7551804357",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-gwinnett-county",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Gwinnett County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8246432,
+    "lon": -84.1181284
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/729799656",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "platinum-insurance-services-gwinnett-county",
+   "name": "Platinum Insurance Services",
+   "summary": "Platinum Insurance Services is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/platinum-insurance-services-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/platinum-insurance-services-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9111339,
+    "lon": -84.1321595
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7633910934",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pleasant-hill-car-wash-and-lube-gwinnett-county",
+   "name": "Pleasant Hill Car Wash & Lube",
+   "summary": "Pleasant Hill Car Wash & Lube is a car wash in Gwinnett County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pleasant-hill-car-wash-and-lube-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pleasant-hill-car-wash-and-lube-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9655456,
+    "lon": -84.1423874
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13708813979",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "primerica-gwinnett-county",
+   "name": "Primerica",
+   "summary": "Primerica is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/primerica-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/primerica-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9608487,
+    "lon": -84.1070509
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13613159561",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "primrose-school-of-five-forks-gwinnett-county",
+   "name": "Primrose School of Five Forks",
+   "summary": "Primrose School of Five Forks is a preschool in Gwinnett County, GA.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/primrose-school-of-five-forks-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/primrose-school-of-five-forks-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.886738,
+    "lon": -84.0624241
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/807280939",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pro-tax-service-gwinnett-county",
+   "name": "Pro Tax Service",
+   "summary": "Pro Tax Service is a tax preparation service in Gwinnett County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pro-tax-service-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pro-tax-service-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8371238,
+    "lon": -84.0674108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12033632149",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "professional-cleaners-gwinnett-county",
+   "name": "Professional Cleaners",
+   "summary": "Professional Cleaners is a dry cleaner in Gwinnett County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/professional-cleaners-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/professional-cleaners-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8888111,
+    "lon": -84.062131
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814266",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "progressive-gwinnett-county",
+   "name": "Progressive",
+   "summary": "Progressive is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/progressive-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/progressive-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8234866,
+    "lon": -84.1228517
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603158096",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-gwinnett-county",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8706548,
+    "lon": -84.1744696
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9426322329",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-gwinnett-county-n13475075246",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-gwinnett-county-n13475075246/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-gwinnett-county-n13475075246.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0023367,
+    "lon": -84.0752889
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13475075246",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-gwinnett-county-n9482810892",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-gwinnett-county-n9482810892/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-gwinnett-county-n9482810892.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8233522,
+    "lon": -84.1171497
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9482810892",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "regal-nails-gwinnett-county",
+   "name": "Regal Nails",
+   "summary": "Regal Nails is a nail salon in Gwinnett County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/regal-nails-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/regal-nails-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8243626,
+    "lon": -84.1257491
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9251126641",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rooms-to-go-gwinnett-county",
+   "name": "Rooms To Go",
+   "summary": "Rooms To Go is a furniture store in Gwinnett County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rooms-to-go-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rooms-to-go-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9625279,
+    "lon": -84.13846
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10846803001",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "rooms-to-go-outlet-gwinnett-county",
+   "name": "Rooms To Go Outlet",
+   "summary": "Rooms To Go Outlet is a furniture store in Gwinnett County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/rooms-to-go-outlet-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/rooms-to-go-outlet-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.910493,
+    "lon": -84.2103572
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13708830210",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sajido-gwinnett-county",
+   "name": "Sajido",
+   "summary": "Sajido is a martial arts school in Gwinnett County, GA.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sajido-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sajido-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8419911,
+    "lon": -84.1306656
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603167370",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-j-christian-gwinnett-county",
+   "name": "Salon J. Christian",
+   "summary": "Salon J. Christian is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-j-christian-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-j-christian-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8235758,
+    "lon": -84.1229804
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603157973",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-vii-gwinnett-county",
+   "name": "Salon VII",
+   "summary": "Salon VII is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-vii-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-vii-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9265936,
+    "lon": -84.1143912
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805893",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "seva-beauty-gwinnett-county",
+   "name": "Seva Beauty",
+   "summary": "Seva Beauty is a skin care studio in Gwinnett County, GA.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seva-beauty-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seva-beauty-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8243016,
+    "lon": -84.1258678
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9251126639",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "shane-co-gwinnett-county",
+   "name": "Shane Co.",
+   "summary": "Shane Co. is a jewelry store in Gwinnett County, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/shane-co-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/shane-co-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9558911,
+    "lon": -84.140869
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11561034604",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "simpli-printing-gwinnett-county",
+   "name": "Simpli Printing",
+   "summary": "Simpli Printing is a printing service in Gwinnett County, GA.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/simpli-printing-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/simpli-printing-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9208475,
+    "lon": -84.1132741
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7626277413",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "smartstyle-gwinnett-county",
+   "name": "SmartStyle",
+   "summary": "SmartStyle is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/smartstyle-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/smartstyle-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8244572,
+    "lon": -84.1259078
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9251126640",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "snapbox-self-storage-gwinnett-county",
+   "name": "Snapbox Self Storage",
+   "summary": "Snapbox Self Storage is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snapbox-self-storage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snapbox-self-storage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9588028,
+    "lon": -84.0578365
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999419257",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "snellville-auto-center-gwinnett-county",
+   "name": "Snellville Auto Center",
+   "summary": "Snellville Auto Center is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/snellville-auto-center-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/snellville-auto-center-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8473598,
+    "lon": -84.0479422
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392467010",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spencers-gwinnett-county",
+   "name": "Spencer's",
+   "summary": "Spencer's is a gift shop in Gwinnett County, GA.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spencers-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spencers-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9807386,
+    "lon": -84.0793256
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13474999191",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "staffmark-gwinnett-county",
+   "name": "Staffmark",
+   "summary": "Staffmark is a staffing agency in Gwinnett County, GA.",
+   "categories": [
+    "staffing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/staffmark-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/staffmark-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9549481,
+    "lon": -84.0517831
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251486213",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "starlight-massage-gwinnett-county",
+   "name": "Starlight Massage",
+   "summary": "Starlight Massage is a massage studio in Gwinnett County, GA.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/starlight-massage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/starlight-massage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0029024,
+    "lon": -84.0820166
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11600114461",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "state-farm-gwinnett-county",
+   "name": "State Farm",
+   "summary": "State Farm is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/state-farm-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/state-farm-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9549979,
+    "lon": -84.0517995
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251486214",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sues-alteration-gwinnett-county",
+   "name": "Sue's Alteration",
+   "summary": "Sue's Alteration is a tailor in Gwinnett County, GA.",
+   "categories": [
+    "tailor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sues-alteration-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sues-alteration-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8707674,
+    "lon": -84.0920404
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7550246842",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sugarloaf-car-wash-gwinnett-county",
+   "name": "Sugarloaf Car Wash",
+   "summary": "Sugarloaf Car Wash is a car wash in Gwinnett County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sugarloaf-car-wash-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sugarloaf-car-wash-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9536025,
+    "lon": -84.0504004
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/389916359",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sugarloaf-family-dental-gwinnett-county",
+   "name": "Sugarloaf Family Dental",
+   "summary": "Sugarloaf Family Dental is a dentist in Gwinnett County, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sugarloaf-family-dental-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sugarloaf-family-dental-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.954316,
+    "lon": -84.0510798
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/389916376",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sugarloaf-vision-center-gwinnett-county",
+   "name": "Sugarloaf Vision Center",
+   "summary": "Sugarloaf Vision Center is an eye care practice in Gwinnett County, GA.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sugarloaf-vision-center-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sugarloaf-vision-center-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9550887,
+    "lon": -84.0518293
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251486216",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sun-city-tanning-gwinnett-county",
+   "name": "Sun City Tanning",
+   "summary": "Sun City Tanning is a tanning salon in Gwinnett County, GA.",
+   "categories": [
+    "tanning salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sun-city-tanning-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sun-city-tanning-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8706995,
+    "lon": -84.0922
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7550246844",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sunrise-massage-gwinnett-county",
+   "name": "Sunrise Massage",
+   "summary": "Sunrise Massage is a massage studio in Gwinnett County, GA.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunrise-massage-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunrise-massage-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8869308,
+    "lon": -84.0606961
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7567814226",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "t-and-g-automotive-gwinnett-county",
+   "name": "T&G Automotive",
+   "summary": "T&G Automotive is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/t-and-g-automotive-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/t-and-g-automotive-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8241726,
+    "lon": -84.1100895
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392458470",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tax-office-gwinnett-county",
+   "name": "Tax Office",
+   "summary": "Tax Office is a tax preparation service in Gwinnett County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tax-office-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tax-office-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9247764,
+    "lon": -84.1130172
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7627805901",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-carter-insurance-agency-gwinnett-county",
+   "name": "The Carter Insurance Agency",
+   "summary": "The Carter Insurance Agency is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-carter-insurance-agency-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-carter-insurance-agency-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8826829,
+    "lon": -84.062068
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7549218644",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-fitness-center-of-lilburn-gwinnett-county",
+   "name": "The Fitness Center of Lilburn",
+   "summary": "The Fitness Center of Lilburn is a gym in Gwinnett County, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-fitness-center-of-lilburn-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-fitness-center-of-lilburn-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8685366,
+    "lon": -84.0904448
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10979156914",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-green-group-gwinnett-county",
+   "name": "The Green Group",
+   "summary": "The Green Group is a tax preparation service in Gwinnett County, GA.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-green-group-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-green-group-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9324275,
+    "lon": -84.0413425
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999114421",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-salvation-army-gwinnett-county",
+   "name": "The Salvation Army",
+   "summary": "The Salvation Army is a thrift store in Gwinnett County, GA.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-salvation-army-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-salvation-army-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8412854,
+    "lon": -84.062861
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392466258",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-gwinnett-county",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Gwinnett County, GA.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.837088,
+    "lon": -84.0673784
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12033632150",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tidal-wave-gwinnett-county",
+   "name": "Tidal Wave",
+   "summary": "Tidal Wave is a car wash in Gwinnett County, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tidal-wave-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tidal-wave-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8266012,
+    "lon": -84.0962275
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/827126718",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tiffanys-nails-gwinnett-county",
+   "name": "Tiffany's Nails",
+   "summary": "Tiffany's Nails is a nail salon in Gwinnett County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tiffanys-nails-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tiffanys-nails-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8411712,
+    "lon": -84.1320282
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603167391",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tire-latina-gwinnett-county",
+   "name": "Tire Latina",
+   "summary": "Tire Latina is a tire shop in Gwinnett County, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tire-latina-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tire-latina-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9216822,
+    "lon": -84.113372
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7626277410",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "titan-electric-georgia-gwinnett-county",
+   "name": "Titan Electric Georgia",
+   "summary": "Titan Electric Georgia is an electrician in Gwinnett County, GA.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/titan-electric-georgia-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/titan-electric-georgia-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9518841,
+    "lon": -84.1247484
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8901301443",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tray-communications-gwinnett-county",
+   "name": "Tray Communications",
+   "summary": "Tray Communications is an IT support company in Gwinnett County, GA.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tray-communications-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tray-communications-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9208781,
+    "lon": -84.1132043
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7626277412",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "treehouse-academy-gwinnett-county",
+   "name": "Treehouse Academy",
+   "summary": "Treehouse Academy is a daycare in Gwinnett County, GA.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/treehouse-academy-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/treehouse-academy-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8946615,
+    "lon": -84.0544134
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/809551248",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "u-haul-gwinnett-county",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Gwinnett County, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8426808,
+    "lon": -84.0612455
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/392466327",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "united-collision-center-gwinnett-county",
+   "name": "United Collision Center",
+   "summary": "United Collision Center is an auto repair shop in Gwinnett County, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/united-collision-center-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/united-collision-center-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9594225,
+    "lon": -84.1408476
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13708813978",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "v-star-nails-gwinnett-county",
+   "name": "V-Star Nails",
+   "summary": "V-Star Nails is a nail salon in Gwinnett County, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/v-star-nails-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/v-star-nails-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8478139,
+    "lon": -84.0475218
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12032612921",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vincent-bakery-gwinnett-county",
+   "name": "Vincent Bakery",
+   "summary": "Vincent Bakery is a bakery in Gwinnett County, GA.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vincent-bakery-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vincent-bakery-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.9663847,
+    "lon": -84.141522
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13336787418",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "vital-salon-studio-gwinnett-county",
+   "name": "Vital Salon Studio",
+   "summary": "Vital Salon Studio is a hair salon in Gwinnett County, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/vital-salon-studio-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/vital-salon-studio-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8671518,
+    "lon": -84.0920967
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7553886849",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wesley-glaze-agency-farmers-gwinnett-county",
+   "name": "Wesley Glaze Agency (Farmers)",
+   "summary": "Wesley Glaze Agency (Farmers) is an insurance agent in Gwinnett County, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wesley-glaze-agency-farmers-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wesley-glaze-agency-farmers-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8706583,
+    "lon": -84.0922737
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7550246845",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wilkins-electric-company-inc-gwinnett-county",
+   "name": "Wilkins Electric Company, Inc.",
+   "summary": "Wilkins Electric Company, Inc. is an electrician in Gwinnett County, GA.",
+   "categories": [
+    "electrician"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wilkins-electric-company-inc-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wilkins-electric-company-inc-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.910928,
+    "lon": -84.0649138
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7595657790",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodcraft-cabinets-factory-outlet-gwinnett-county",
+   "name": "Woodcraft Cabinets Factory Outlet",
+   "summary": "Woodcraft Cabinets Factory Outlet is a furniture store in Gwinnett County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodcraft-cabinets-factory-outlet-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodcraft-cabinets-factory-outlet-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.922627,
+    "lon": -84.1135101
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7626277404",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ww-studio-gwinnett-county",
+   "name": "WW Studio",
+   "summary": "WW Studio is a therapy practice in Gwinnett County, GA.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ww-studio-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ww-studio-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8401197,
+    "lon": -84.1324788
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/603167397",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "youngs-cleaners-gwinnett-county",
+   "name": "Young's Cleaners",
+   "summary": "Young's Cleaners is a dry cleaner in Gwinnett County, GA.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/youngs-cleaners-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/youngs-cleaners-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.8850671,
+    "lon": -84.0594924
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7542898737",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "your-home-furniture-gwinnett-county",
+   "name": "Your Home Furniture",
+   "summary": "Your Home Furniture is a furniture store in Gwinnett County, GA.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/your-home-furniture-gwinnett-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/your-home-furniture-gwinnett-county.json",
+   "address": {
+    "addressLocality": "Gwinnett County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Gwinnett County",
+   "state": "GA",
+   "geo": {
+    "lat": 33.979548,
+    "lon": -84.0834373
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10251512201",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

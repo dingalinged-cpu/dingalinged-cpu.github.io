@@ -13,6 +13,7 @@ Arlington Heights School of Martial Arts is a martial arts school in Arlington H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 17:00-20:00; Tu 10:00-13:30,16:15-20:00; We 16:15-20:30; Th 10:00-13:30,16:15-21:00; Sa 08:00-14:00
+- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Service Department is a motorcycle repair shop in Pasadena, TX. Phone: +17133640
 - Website: https://www.stubbshd.com/Departments/Service-Department
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

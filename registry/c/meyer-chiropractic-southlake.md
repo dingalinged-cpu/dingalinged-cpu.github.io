@@ -13,6 +13,7 @@ Meyer Chiropractic is a physical therapy clinic in Southlake, TX at 100 West Sou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Th 08:00-12:30,15:30-18:00; Fr 08:00-12:30; PH closed; Sa 08:00-11:00
+- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

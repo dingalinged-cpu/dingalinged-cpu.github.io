@@ -13,6 +13,7 @@ Rothko Chapel Welcome House is a gift shop in Houston, TX at 1410 Sul Ross Stree
 - Website: https://rothkochapel.org/visit/welcome-house/
 - Email: info@rothkochapel.org
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

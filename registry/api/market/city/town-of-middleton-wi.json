@@ -1,0 +1,170 @@
+{
+ "title": "Keyword market data: Town Of Middleton, WI",
+ "description": "Top Town Of Middleton, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
+ "updated": "2026-10-18",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "place": "Town Of Middleton, WI",
+ "geography": "Madison, WI metro",
+ "keywords": 6,
+ "lists": {
+  "by_volume": [
+   {
+    "keyword": "chiropractor town of middleton wi",
+    "slug": "chiropractor-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-town-of-middleton-wi/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 510,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 2400,
+    "equivalent_google_ads_cost_month_usd": 160,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_volume"
+   },
+   {
+    "keyword": "landscaping town of middleton wi",
+    "slug": "landscaping-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-town-of-middleton-wi/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 420,
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "search_value_index_usd": 3700,
+    "equivalent_google_ads_cost_month_usd": 230,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_volume"
+   }
+  ],
+  "by_cpc": [
+   {
+    "keyword": "landscaping town of middleton wi",
+    "slug": "landscaping-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-town-of-middleton-wi/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 420,
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "search_value_index_usd": 3700,
+    "equivalent_google_ads_cost_month_usd": 230,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "window repair town of middleton wi",
+    "slug": "window-repair-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/window-repair-town-of-middleton-wi/",
+    "us_monthly_searches": 40000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 83.0,
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "search_value_index_usd": 730,
+    "equivalent_google_ads_cost_month_usd": 46.0,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "storage units town of middleton wi",
+    "slug": "storage-units-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-town-of-middleton-wi/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 460,
+    "cpc_basis_usd": 8.33,
+    "cpc_median_usd": 8.33,
+    "search_value_index_usd": 3800,
+    "equivalent_google_ads_cost_month_usd": 240,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 2,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "chiropractor town of middleton wi",
+    "slug": "chiropractor-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-town-of-middleton-wi/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 510,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 2400,
+    "equivalent_google_ads_cost_month_usd": 160,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "furniture store town of middleton wi",
+    "slug": "furniture-store-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-town-of-middleton-wi/",
+    "us_monthly_searches": 140000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 290,
+    "cpc_basis_usd": 4.14,
+    "cpc_median_usd": 4.14,
+    "search_value_index_usd": 1200,
+    "equivalent_google_ads_cost_month_usd": 110,
+    "featured_spot_min_usd": 10,
+    "registry_competitors": 3,
+    "ranked_by": "by_cpc"
+   },
+   {
+    "keyword": "dry cleaners town of middleton wi",
+    "slug": "dry-cleaners-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-town-of-middleton-wi/",
+    "us_monthly_searches": 220000,
+    "us_volume_method": "estimate",
+    "local_monthly_searches_est": 460,
+    "cpc_basis_usd": 3.39,
+    "cpc_median_usd": 3.39,
+    "search_value_index_usd": 1600,
+    "equivalent_google_ads_cost_month_usd": 130,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_cpc"
+   }
+  ],
+  "by_value": [
+   {
+    "keyword": "landscaping town of middleton wi",
+    "slug": "landscaping-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-town-of-middleton-wi/",
+    "us_monthly_searches": 201000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 420,
+    "cpc_basis_usd": 8.76,
+    "cpc_median_usd": 8.76,
+    "search_value_index_usd": 3700,
+    "equivalent_google_ads_cost_month_usd": 230,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 3,
+    "ranked_by": "by_value"
+   },
+   {
+    "keyword": "chiropractor town of middleton wi",
+    "slug": "chiropractor-town-of-middleton-wi",
+    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-town-of-middleton-wi/",
+    "us_monthly_searches": 246000,
+    "us_volume_method": "cited",
+    "local_monthly_searches_est": 510,
+    "cpc_basis_usd": 4.76,
+    "cpc_median_usd": 4.76,
+    "search_value_index_usd": 2400,
+    "equivalent_google_ads_cost_month_usd": 160,
+    "featured_spot_min_usd": 50,
+    "registry_competitors": 1,
+    "ranked_by": "by_value"
+   }
+  ]
+ },
+ "license": {
+  "keyword_metrics": "© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution"
+ }
+}

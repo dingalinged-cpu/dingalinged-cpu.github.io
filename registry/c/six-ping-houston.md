@@ -13,6 +13,7 @@ Six Ping is a bakery in Houston, TX at 10623 Bellaire Boulevard #C123, Houston, 
 - Website: https://www.sixping.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

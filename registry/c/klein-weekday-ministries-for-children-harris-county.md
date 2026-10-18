@@ -13,6 +13,7 @@ Klein Weekday Ministries for Children is a preschool in Harris County, TX. Phone
 - Website: https://www.kleinumc.org/klein-weekday-1
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

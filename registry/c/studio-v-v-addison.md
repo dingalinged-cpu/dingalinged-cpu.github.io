@@ -13,6 +13,7 @@ Studio V + V is an event venue in Addison, TX at 15570 Spectrum Drive, Addison, 
 - Website: https://www.studiovandv.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

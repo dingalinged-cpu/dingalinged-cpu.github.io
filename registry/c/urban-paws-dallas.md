@@ -13,6 +13,7 @@ Urban Paws is a dog boarding facility in Dallas, TX at 2526 Elm Street, Dallas, 
 - Website: https://urbanpawsdallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-16:00; Mo-Fr 07:00-19:00
+- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

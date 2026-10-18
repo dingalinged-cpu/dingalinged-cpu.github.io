@@ -13,6 +13,7 @@ Sonrisa Family Dental is a dentist in Chicago, IL at 9718 South Halsted Street, 
 - Website: https://sonrisafamilydental.com/locations/christian/
 - Email: info@sfdchicago.com
 - Opening hours (OSM syntax): Mo-We 09:00-17:30; Th 09:00-18:00; Fr: 09:00-17:00
+- Registry Score: 54.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

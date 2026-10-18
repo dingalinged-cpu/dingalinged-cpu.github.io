@@ -13,6 +13,7 @@ Davis & Davis, Attorneys at Law is a lawyer in Houston, TX at 440 Louisiana Stre
 - Website: https://www.davis-davislaw.com/
 - Email: info@davis-davislaw.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

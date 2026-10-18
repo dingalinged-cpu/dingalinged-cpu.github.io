@@ -13,6 +13,7 @@ Freewheel Bike is a bike shop in Saint Paul, MN at 799 Grand Avenue, Saint Paul,
 - Website: https://www.freewheelbike.com/about/saint-paul-pg1194.htm
 - Email: saintpaul@freewheelbike.com
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00
+- Registry Score: 55.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

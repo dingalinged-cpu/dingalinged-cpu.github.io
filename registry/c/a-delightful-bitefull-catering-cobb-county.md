@@ -1,0 +1,24 @@
+A Delightful Bitefull Catering is a caterer in Cobb County, GA at 2217 Roswell Road #104, Cobb County, GA. Phone: +17705654146. Website: https://bitefull.com/.
+
+# A Delightful Bitefull Catering
+
+- Category: caterers
+- Services: caterers
+- Address: 2217 Roswell Road #104, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.9716045, -84.4887827
+- Phone: +17705654146
+- Website: https://bitefull.com/
+- Email: info@bitefull.com
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/a-delightful-bitefull-catering-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-delightful-bitefull-catering-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13523319302 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,6 +13,7 @@ Jiffy Lube is an auto repair shop in Oak Park, IL at 6845 West North Avenue, Oak
 - Website: https://www.jiffylube.com/locations/il/oak-park/2675
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

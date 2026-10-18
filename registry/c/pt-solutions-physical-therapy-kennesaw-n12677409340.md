@@ -1,0 +1,24 @@
+PT Solutions Physical Therapy is a physical therapy clinic in Kennesaw, GA at 4430 Wade Green Road Northwest #60, Kennesaw, GA 30144. Phone: +16782939527. Website: https://ptsolutions.com/clinics/ga/wade-green-village/.
+
+# PT Solutions Physical Therapy
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 4430 Wade Green Road Northwest #60, Kennesaw, GA 30144
+- City: Kennesaw
+- State: GA
+- ZIP: 30144
+- Coordinates: 34.0611222, -84.5907987
+- Phone: +16782939527
+- Website: https://ptsolutions.com/clinics/ga/wade-green-village/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/pt-solutions-physical-therapy-kennesaw-n12677409340/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pt-solutions-physical-therapy-kennesaw-n12677409340.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12677409340 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

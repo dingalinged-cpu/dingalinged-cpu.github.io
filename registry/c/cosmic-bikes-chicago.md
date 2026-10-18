@@ -13,6 +13,7 @@ Cosmic Bikes is a bike shop in Chicago, IL at 4641 North Milwaukee Avenue, Chica
 - Website: https://www.cosmicbikes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th,Sa 12:00-18:00; Fr off; Su 10:00-14:00
+- Registry Score: 62/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

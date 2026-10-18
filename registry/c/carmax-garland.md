@@ -13,6 +13,7 @@ CarMax is an used car dealer in Garland, TX at 12715 Lyndon B Johnson Freeway, G
 - Website: https://www.carmax.com/stores/7109
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

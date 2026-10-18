@@ -13,6 +13,7 @@ Eos Fitness is a gym in Plano, TX at 600 West 15th Street #Ste B, Plano, TX 7507
 - Website: https://eosfitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

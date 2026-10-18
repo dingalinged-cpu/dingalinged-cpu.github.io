@@ -13,6 +13,7 @@ Sacred Soul Yoga is a yoga studio in North Richland Hills, TX at 8000 Main Stree
 - Website: https://www.sacredsoulyogastudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

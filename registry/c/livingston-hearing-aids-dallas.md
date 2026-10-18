@@ -13,6 +13,7 @@ Livingston Hearing Aids is an audiologist in Dallas, TX at 11661 Preston Road #1
 - Website: https://lhac.com/location/dallas-north/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 08:30-17:00
+- Registry Score: 58.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

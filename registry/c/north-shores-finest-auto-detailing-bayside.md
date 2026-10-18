@@ -13,6 +13,7 @@ North Shore's Finest Auto Detailing is a car wash in Bayside, WI at 310 East Bro
 - Website: https://www.northshoresfinestautodetailing.com/
 - Email: northshoresfinest@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:30
+- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

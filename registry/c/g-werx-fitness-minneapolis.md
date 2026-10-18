@@ -13,6 +13,7 @@ G-Werx Fitness is a gym in Minneapolis, MN at 820 West 50th Street, Minneapolis,
 - Website: https://www.gwerx.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

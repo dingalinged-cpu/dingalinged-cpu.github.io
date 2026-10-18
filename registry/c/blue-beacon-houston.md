@@ -13,6 +13,7 @@ Blue Beacon is a car wash in Houston, TX at 8991 North Loop East, Houston, TX. W
 - Website: https://bluebeacon.com/locations/listing/houston-tx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

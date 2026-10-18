@@ -13,6 +13,7 @@ Parker & Aguilar, Family Law Attorneys is a lawyer in Sugar Land, TX at 2245 Tex
 - Website: https://blairparkerlaw.com/
 - Email: blair@parkeraguilarlaw.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

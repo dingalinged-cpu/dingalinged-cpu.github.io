@@ -13,6 +13,7 @@ MO Digital Services is a marketing agency in Roseville, MN at 3135 Sandy Hook Dr
 - Website: https://mods.agency/
 - Email: nick@mods.agency
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

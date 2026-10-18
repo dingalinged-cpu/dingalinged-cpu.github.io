@@ -13,6 +13,7 @@ Interfaith Caring Ministries (ICM) Resale Shop is a thrift store in Webster, TX 
 - Website: https://icmtx.org/resale
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

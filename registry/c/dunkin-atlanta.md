@@ -1,0 +1,24 @@
+Dunkin' is a bakery in Atlanta, GA at 2022 Powers Ferry Road, Atlanta, GA 30339. Phone: +17708592954. Website: https://locations.dunkindonuts.com/en/ga/atlanta/2022-powers-ferry-rd/347022.
+
+# Dunkin'
+
+- Category: bakery
+- Services: bakery
+- Address: 2022 Powers Ferry Road, Atlanta, GA 30339
+- City: Atlanta
+- State: GA
+- ZIP: 30339
+- Coordinates: 33.9018244, -84.4545579
+- Phone: +17708592954
+- Website: https://locations.dunkindonuts.com/en/ga/atlanta/2022-powers-ferry-rd/347022
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 05:00-22:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/dunkin-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dunkin-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/3195032671 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

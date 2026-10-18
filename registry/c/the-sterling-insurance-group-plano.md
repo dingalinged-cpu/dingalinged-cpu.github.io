@@ -13,6 +13,7 @@ The Sterling Insurance Group is an insurance agent in Plano, TX at 3415 Custer R
 - Website: https://sterlinginsnow.com/
 - Email: info@sterlinginsnow.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Excel Printing & Mailing is a printing service in South Holland, IL at 924 East 
 - Website: https://www.excelprintmail.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

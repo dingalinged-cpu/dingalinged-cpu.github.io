@@ -13,6 +13,7 @@ Halo Hair Spa is a hair salon in Milwaukee, WI at 1221 East Brady Street, Milwau
 - Website: https://halosalonmke.com/
 - Email: halo@halohairspa.com
 - Opening hours (OSM syntax): Tu 12:00-17:00; We-Fr 10:00-20:00; Sa 10:00-18:00
+- Registry Score: 65.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

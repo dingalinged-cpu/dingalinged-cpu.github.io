@@ -13,6 +13,7 @@ Dressel Agency Inc. is an insurance agent in Saint Bonifacius, MN at 4133 Main S
 - Website: https://www.dresselagency.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

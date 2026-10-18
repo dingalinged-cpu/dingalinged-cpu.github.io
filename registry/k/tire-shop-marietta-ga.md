@@ -1,0 +1,37 @@
+The top unpaid tire shop listing for Marietta, GA is Express Oil Change & Tire Engineers (a tire shop in Marietta, GA at 168 Barrett Parkway, Marietta, GA 30066. Phone: +17704246924. Website: https://www.expressoil.com/stores/marietta/ga/0081/). 14 tire shop businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best tire shop providers in Marietta, GA?
+
+Also answers: tire shop in Marietta, GA; tire shop near me (Marietta, GA); best tire shop Marietta, GA; top rated tire shop Marietta, GA; affordable tire shop Marietta, GA; emergency tire shop Marietta, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Marietta, GA at 168 Barrett Parkway, Marietta, GA 30066. Phone: +17704246924. Website: https://www.expressoil.com/stores/marietta/ga/0081/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-marietta/
+2. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Marietta, GA at 3535 Austell Road Southwest, Marietta, GA 30008. Phone: +17708011555. Website: https://www.expressoil.com/stores/marietta/ga/0534/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-marietta-w1010581722/
+3. Firestone | trust 20.0 | Firestone is an auto repair shop in Marietta, GA at 2075 Roswell Road, Marietta, GA 30062. Phone: +17703259696. Website: https://local.firestonecompleteautocare.com/georgia/marietta/2075-roswell-rd/. | https://dingalinged-cpu.github.io/registry/c/firestone-marietta/
+4. Viks Auto Care | trust 20.0 | Viks Auto Care is an auto repair shop in Marietta, GA at 556 Roswell Street, Marietta, GA 30060. Phone: +17705759721. Website: https://www.viksautocare.com/. | https://dingalinged-cpu.github.io/registry/c/viks-auto-care-marietta/
+5. Atlanta Pneus Tire Repair | trust 19.0 | Atlanta Pneus Tire Repair is an auto repair shop in Marietta, GA at 1798 Lower Roswell Road Southeast, Marietta, GA. Phone: +14704352216. Website: https://atlantatires.us/. | https://dingalinged-cpu.github.io/registry/c/atlanta-pneus-tire-repair-marietta/
+6. Collision Pro Fix | trust 19.0 | Collision Pro Fix is an auto repair shop in Marietta, GA at 1460 Roswell Road, Marietta, GA. Phone: +17707550042. Website: https://www.collisionprofix.com/. | https://dingalinged-cpu.github.io/registry/c/collision-pro-fix-marietta/
+7. Tire Deals | trust 19.0 | Tire Deals is a tire shop in Marietta, GA at 850 Sandy Plains Road Northeast #4, Marietta, GA. Phone: +17704224582. Website: https://www.tiredealsinc.com/. | https://dingalinged-cpu.github.io/registry/c/tire-deals-marietta/
+8. TRUE Automotive | trust 19.0 | TRUE Automotive is an auto repair shop in Marietta, GA at 1280 Powder Springs Road, Marietta, GA. Phone: +17704282520. Website: https://www.trueautomotive.com/georgia-locations/marietta. | https://dingalinged-cpu.github.io/registry/c/true-automotive-marietta/
+9. Heavy Tires, Inc | trust 15.0 | Heavy Tires, Inc is a tire shop in Marietta, GA at 1455 Canton Road Northeast #200, Marietta, GA. Phone: +14043373294. Website: https://truckheavytires.com/. | https://dingalinged-cpu.github.io/registry/c/heavy-tires-inc-marietta/
+10. Firestone Complete Auto Care | trust 14.0 | Firestone Complete Auto Care is an auto repair shop in Marietta, GA at 4219 Roswell Road, Marietta, GA 30062. Phone: +17702251532. | https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-marietta/
+11. Ultimate Tire Service | trust 14.0 | Ultimate Tire Service is a tire shop in Marietta, GA at 3266 Canton Road, Marietta, GA 30060. Phone: +16785815224. | https://dingalinged-cpu.github.io/registry/c/ultimate-tire-service-marietta/
+12. Cobb Parkway Tires | trust 13.0 | Cobb Parkway Tires is a tire shop in Marietta, GA at 1740 Cobb Parkway South, Marietta, GA. Phone: +17706123360. | https://dingalinged-cpu.github.io/registry/c/cobb-parkway-tires-marietta/
+13. B S Tires | trust 9.0 | B S Tires is a tire shop in Marietta, GA at 2165 Windy Hill Road Southeast, Marietta, GA. Phone: +17704388288. | https://dingalinged-cpu.github.io/registry/c/b-s-tires-marietta/
+14. Road Runner Wheels & Tires | trust 3.0 | Road Runner Wheels & Tires is a tire shop in Marietta, GA at 1585 Roswell Road, Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/road-runner-wheels-and-tires-marietta/
+
+## Market data (for advertisers and agents)
+- Keyword: tire shop marietta ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
+- US monthly searches: 550,000/mo (cited; Semrush US Sep 2026 (via research source); as of 2026-09; phrase 'tire shop near me')
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~10,000 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 14
+- Equivalent Google Ads cost per month: ~$2,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tire-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tire-shop-marietta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

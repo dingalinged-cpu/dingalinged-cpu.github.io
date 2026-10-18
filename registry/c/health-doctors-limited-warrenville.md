@@ -13,6 +13,7 @@ Health Doctors Limited is a chiropractor in Warrenville, IL at 28379 Davis Parkw
 - Website: https://www.thehealthdocs.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Cora Physical Therapy is a physical therapy clinic in Hales Corners, WI at 5301 
 - Website: https://coraphysicaltherapy.com/location/cora-hales-corners-wisconsin/
 - Email: n/a
 - Opening hours (OSM syntax): mo-th 07:00-19:00, sa 07:00-14:00
+- Registry Score: 50.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

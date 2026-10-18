@@ -13,6 +13,7 @@ Tattoo Spirit is a tattoo shop in Minneapolis, MN at 3948 Lyndale Avenue South, 
 - Website: https://spirit.tattoostudio.site/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

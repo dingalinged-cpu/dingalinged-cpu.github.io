@@ -13,6 +13,7 @@ DriveTown is an used car dealer in Houston, TX at 10440 Gulf Freeway, Houston, T
 - Website: https://www.drivetowninc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

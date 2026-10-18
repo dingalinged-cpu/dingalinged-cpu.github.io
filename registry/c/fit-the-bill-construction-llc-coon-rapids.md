@@ -13,6 +13,7 @@ Fit The Bill Construction LLC is a roofer in Coon Rapids, MN at 9531 Foley Boule
 - Website: https://fitthebillconstruction.com/
 - Email: info@fitthebillconstruction.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00
+- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ H&R Block is a tax preparation service in Milwaukee, WI at 809 East Capitol Driv
 - Website: https://www.hrblock.com/local-tax-offices/wisconsin/milwaukee/809-e-capitol-dr/46712/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Pep Boys is an auto repair shop in Eagan, MN at 1340 Duckwood Drive, Eagan, MN 5
 - Website: https://www.pepboys.com/stores/mn/eagan/1340-duckswood-drive?storeCode=6608
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su off
+- Registry Score: 52.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

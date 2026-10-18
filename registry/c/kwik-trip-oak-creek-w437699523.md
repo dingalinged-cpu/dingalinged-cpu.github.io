@@ -13,6 +13,7 @@ Kwik Trip is a car wash in Oak Creek, WI at 2040 West Ryan Road, Oak Creek, WI 5
 - Website: https://www.kwiktrip.com/locator/store?id=576
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

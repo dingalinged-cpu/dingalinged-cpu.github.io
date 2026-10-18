@@ -1,0 +1,24 @@
+Midwest Decorative Stone is a concrete contractor in Fitchburg, WI at 6149 McKee Road, Fitchburg, WI.
+
+# Midwest Decorative Stone
+
+- Category: concrete contractor
+- Services: concrete contractor
+- Address: 6149 McKee Road, Fitchburg, WI
+- City: Fitchburg
+- State: WI
+- ZIP: n/a
+- Coordinates: 43.0149602, -89.4702884
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/midwest-decorative-stone-fitchburg/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/midwest-decorative-stone-fitchburg.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/469886059 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

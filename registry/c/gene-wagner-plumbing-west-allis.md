@@ -13,6 +13,7 @@ Gene Wagner Plumbing is a plumber in West Allis, WI at 2017 South 60th Street, W
 - Website: https://www.genewagnerplumbing.com/
 - Email: scott@genewagnerplumbing.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

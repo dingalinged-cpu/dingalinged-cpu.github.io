@@ -13,6 +13,7 @@ CLUB4 Fitness is a gym in Grapevine, TX at 4000 William D Tate Avenue, Grapevine
 - Website: https://www.club4fitness.com/location/grapevine-tx/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-23:00; Fr 05:00-21:00; Sa 07:00-20:00; Su 08:00-20:00
+- Registry Score: 54.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

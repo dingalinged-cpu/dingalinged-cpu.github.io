@@ -13,6 +13,7 @@ Dylan's Liquor Store is a liquor store in The Woodlands, TX at 8000 Research For
 - Website: https://www.dylansliquor.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 13:00-21:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

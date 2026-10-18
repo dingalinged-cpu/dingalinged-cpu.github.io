@@ -13,6 +13,7 @@ KinderCare is a preschool in Spring, TX at 625 Brandt Road, Spring, TX 77373. We
 - Website: https://www.kindercare.com/our-centers/spring/tx/301939
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

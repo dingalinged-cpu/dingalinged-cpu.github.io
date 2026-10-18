@@ -1,0 +1,275 @@
+{
+ "place": "Collin County, TX",
+ "slug": "collin-county-tx",
+ "count": 8,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto body shop collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-body-shop-collin-county-tx.json"
+  },
+  {
+   "keyword": "auto repair collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-collin-county-tx.json"
+  },
+  {
+   "keyword": "car wash collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-collin-county-tx.json"
+  },
+  {
+   "keyword": "dog boarding collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-collin-county-tx.json"
+  },
+  {
+   "keyword": "hair salon collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-collin-county-tx.json"
+  },
+  {
+   "keyword": "haircut collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-collin-county-tx.json"
+  },
+  {
+   "keyword": "mechanic collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-collin-county-tx.json"
+  },
+  {
+   "keyword": "storage units collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-collin-county-tx.json"
+  },
+  {
+   "keyword": "vet collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-collin-county-tx.json"
+  },
+  {
+   "keyword": "yoga classes collin county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-collin-county-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "club-inspiration-collin-county",
+   "name": "Club Inspiration",
+   "summary": "Club Inspiration is a yoga studio in Collin County, TX. Website: https://inspirationtexas.com/amenities/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/club-inspiration-collin-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/club-inspiration-collin-county.json",
+   "address": {
+    "addressLocality": "Collin County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Collin County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.0592965,
+    "lon": -96.5461671
+   },
+   "website": "https://inspirationtexas.com/amenities/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1270695225",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "clean-freak-car-wash-collin-county",
+   "name": "Clean Freak Car Wash",
+   "summary": "Clean Freak Car Wash is a car wash in Collin County, TX at 1520 West Frontier Parkway, Collin County, TX.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/clean-freak-car-wash-collin-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/clean-freak-car-wash-collin-county.json",
+   "address": {
+    "streetAddress": "1520 West Frontier Parkway",
+    "addressLocality": "Collin County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Collin County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2632149,
+    "lon": -96.8071413
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1421212139",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "legendary-automotive-and-diesel-repair-collin-county",
+   "name": "Legendary Automotive & Diesel Repair",
+   "summary": "Legendary Automotive & Diesel Repair is an auto repair shop in Collin County, TX at 9630 Virginia Parkway, Collin County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/legendary-automotive-and-diesel-repair-collin-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/legendary-automotive-and-diesel-repair-collin-county.json",
+   "address": {
+    "streetAddress": "9630 Virginia Parkway",
+    "addressLocality": "Collin County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Collin County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2040446,
+    "lon": -96.744276
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13721995865",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sharkey-s-cuts-for-kids-collin-county",
+   "name": "Sharkey’s Cuts for Kids",
+   "summary": "Sharkey’s Cuts for Kids is a hair salon in Collin County, TX at 1640 West Frontier Parkway #110, Collin County, TX.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sharkey-s-cuts-for-kids-collin-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sharkey-s-cuts-for-kids-collin-county.json",
+   "address": {
+    "streetAddress": "1640 West Frontier Parkway #110",
+    "addressLocality": "Collin County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Collin County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2632335,
+    "lon": -96.8089274
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13389420296",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "u-haul-collin-county",
+   "name": "U-Haul",
+   "summary": "U-Haul is a self-storage facility in Collin County, TX at 10057 West University Drive, Collin County, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/u-haul-collin-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/u-haul-collin-county.json",
+   "address": {
+    "streetAddress": "10057 West University Drive",
+    "addressLocality": "Collin County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Collin County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2178277,
+    "lon": -96.7456072
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13609760382",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "caliber-collision-collin-county",
+   "name": "Caliber Collision",
+   "summary": "Caliber Collision is an auto repair shop in Collin County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/caliber-collision-collin-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/caliber-collision-collin-county.json",
+   "address": {
+    "addressLocality": "Collin County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Collin County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2205289,
+    "lon": -96.7318468
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13591007763",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "neighborhood-vet-care-collin-county",
+   "name": "Neighborhood Vet Care",
+   "summary": "Neighborhood Vet Care is a veterinarian in Collin County, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/neighborhood-vet-care-collin-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/neighborhood-vet-care-collin-county.json",
+   "address": {
+    "addressLocality": "Collin County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Collin County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2635045,
+    "lon": -96.7926204
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307553458",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-paradise-resort-collin-county",
+   "name": "Pet Paradise Resort",
+   "summary": "Pet Paradise Resort is a dog boarding facility in Collin County, TX.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-paradise-resort-collin-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-paradise-resort-collin-county.json",
+   "address": {
+    "addressLocality": "Collin County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Collin County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.274063,
+    "lon": -96.5434425
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/708127516",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

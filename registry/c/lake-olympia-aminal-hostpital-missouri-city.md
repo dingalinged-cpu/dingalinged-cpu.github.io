@@ -13,6 +13,7 @@ Lake Olympia Aminal hostpital is a veterinarian in Missouri City, TX at 20413 S 
 - Website: https://lakeolympiaanimal.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 07:30-12:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

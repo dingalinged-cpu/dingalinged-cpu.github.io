@@ -13,6 +13,7 @@ PKA Architecture is an architect in Minneapolis, MN at 2919 James Avenue South, 
 - Website: https://pkarch.com/
 - Email: info@pkarch.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

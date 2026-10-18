@@ -13,6 +13,7 @@ Jackson Hewitt is a tax preparation service in Chicago, IL at 3950 West Cermak R
 - Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/il/chicago/3950-w-cermak-rd/10329/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Kreig is a lawyer in Houston, TX at 335 T C Jester Boulevard, Houston, TX 77007.
 - Website: https://houston-probate-law.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

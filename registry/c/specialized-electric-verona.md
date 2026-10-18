@@ -1,0 +1,24 @@
+Specialized Electric is an electrician in Verona, WI at 1041 Thousand Oaks Trail, Verona, WI.
+
+# Specialized Electric
+
+- Category: electrician
+- Services: electrician
+- Address: 1041 Thousand Oaks Trail, Verona, WI
+- City: Verona
+- State: WI
+- ZIP: n/a
+- Coordinates: 42.9705261, -89.5064791
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/specialized-electric-verona/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/specialized-electric-verona.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/545729310 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

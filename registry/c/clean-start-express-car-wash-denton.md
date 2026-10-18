@@ -13,6 +13,7 @@ Clean Start Express Car Wash is a car wash in Denton, TX at 3961 North Loop 288,
 - Website: https://cleanstartexpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

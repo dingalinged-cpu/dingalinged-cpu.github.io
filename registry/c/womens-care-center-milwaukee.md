@@ -13,6 +13,7 @@ Women's Care Center is a therapy practice in Milwaukee, WI at 1441 North Farwell
 - Website: https://www.womenscarecenter.org/locations/milwaukee/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 09:00-17:00; Tu,Th 11:00-19:00; Sa 09:00-13:00
+- Registry Score: 66.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

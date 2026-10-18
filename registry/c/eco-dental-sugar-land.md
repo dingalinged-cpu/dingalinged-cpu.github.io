@@ -13,6 +13,7 @@ Eco Dental is a dentist in Sugar Land, TX at 15870 Southwest Freeway #500, Sugar
 - Website: https://www.ecodentalgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 09:00-17:00; We 10:00-17:00; Sa 09:00-15:00; Su off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

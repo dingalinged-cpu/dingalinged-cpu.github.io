@@ -13,6 +13,7 @@ Benny’s Barber Shop is a hair salon in White Bear Lake, MN at 4758 Washington 
 - Website: https://www.bennyshaircut.com/
 - Email: bennysmarketing@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 09:00-16:00; Sa 08:30-15:00
+- Registry Score: 67.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

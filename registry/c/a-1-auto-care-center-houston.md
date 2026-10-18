@@ -13,6 +13,7 @@ A-1 Auto Care Center is an auto repair shop in Houston, TX at 5761 Cullen Boulev
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

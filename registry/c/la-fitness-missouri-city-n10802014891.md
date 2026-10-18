@@ -13,6 +13,7 @@ LA Fitness is a gym in Missouri City, TX at 5402 Highway 6, Missouri City, TX 77
 - Website: https://www.lafitness.com/Pages/clubhome.aspx?clubid=293
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

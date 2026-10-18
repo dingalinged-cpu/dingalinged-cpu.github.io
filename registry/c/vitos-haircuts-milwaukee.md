@@ -13,6 +13,7 @@ Vito's Haircuts is a hair salon in Milwaukee, WI at 5830 West Bluemound Road, Mi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 10:00-21:00, Fr 09:00-17:00, Sa 08:00-16:00
+- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

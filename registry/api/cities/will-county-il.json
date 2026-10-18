@@ -1,0 +1,198 @@
+{
+ "place": "Will County, IL",
+ "slug": "will-county-il",
+ "count": 6,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "car wash will county il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-will-county-il.json"
+  },
+  {
+   "keyword": "printing services will county il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-will-county-il.json"
+  },
+  {
+   "keyword": "storage units will county il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-will-county-il.json"
+  },
+  {
+   "keyword": "vet will county il",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-will-county-il.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "archer-veterinary-clinic-will-county",
+   "name": "Archer Veterinary Clinic",
+   "summary": "Archer Veterinary Clinic is a veterinarian in Will County, IL at 13731 Cokes Road, Will County, IL 60439. Phone: +16302575121. Website: https://www.archerveterinary.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/archer-veterinary-clinic-will-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/archer-veterinary-clinic-will-county.json",
+   "address": {
+    "streetAddress": "13731 Cokes Road",
+    "addressLocality": "Will County",
+    "addressRegion": "IL",
+    "postalCode": "60439",
+    "addressCountry": "US"
+   },
+   "city": "Will County",
+   "state": "IL",
+   "zip": "60439",
+   "geo": {
+    "lat": 41.6373816,
+    "lon": -88.0077652
+   },
+   "phone": "+16302575121",
+   "website": "https://www.archerveterinary.com/",
+   "opening_hours": "Sa 08:00-14:00; Mo-Th 08:00-19:30; Fr 08:00-19:00; Su Off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12117524201",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bp-will-county",
+   "name": "BP",
+   "summary": "BP is a car wash in Will County, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bp-will-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bp-will-county.json",
+   "address": {
+    "addressLocality": "Will County",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Will County",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5983738,
+    "lon": -87.9778844
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1155321248",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cubesmart-will-county",
+   "name": "CubeSmart",
+   "summary": "CubeSmart is a self-storage facility in Will County, IL.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cubesmart-will-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cubesmart-will-county.json",
+   "address": {
+    "addressLocality": "Will County",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Will County",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5980718,
+    "lon": -87.9774269
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1155321223",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gas-n-wash-will-county",
+   "name": "Gas N Wash",
+   "summary": "Gas N Wash is a car wash in Will County, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gas-n-wash-will-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gas-n-wash-will-county.json",
+   "address": {
+    "addressLocality": "Will County",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Will County",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5989917,
+    "lon": -88.0055514
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1078929333",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "speedy-wash-will-county",
+   "name": "Speedy Wash",
+   "summary": "Speedy Wash is a car wash in Will County, IL.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/speedy-wash-will-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/speedy-wash-will-county.json",
+   "address": {
+    "addressLocality": "Will County",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Will County",
+   "state": "IL",
+   "geo": {
+    "lat": 41.5305539,
+    "lon": -87.7913386
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/806672507",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-will-county",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Will County, IL.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-will-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-will-county.json",
+   "address": {
+    "addressLocality": "Will County",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+   },
+   "city": "Will County",
+   "state": "IL",
+   "geo": {
+    "lat": 41.6350186,
+    "lon": -87.9306275
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6901533482",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

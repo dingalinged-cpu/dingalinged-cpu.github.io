@@ -13,6 +13,7 @@ Tobin Jewelers is a jewelry store in New Berlin, WI at 3502 South Moorland Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Friday	10 AM–5 PM Saturday	10 AM–4 PM Sunday	Closed Monday	Closed Tuesday	10 AM–5 PM Wednesday	10 AM–5 PM Thursday	10 AM–5 PM
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

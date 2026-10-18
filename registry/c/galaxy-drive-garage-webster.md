@@ -13,6 +13,7 @@ Galaxy Drive Garage is an auto repair shop in Webster, TX at 18004 State Highway
 - Website: https://www.galaxydrivegaragetx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 10:00-17:00; We-Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

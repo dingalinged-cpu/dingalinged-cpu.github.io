@@ -13,6 +13,7 @@ Fred Loya Insurance is an insurance agent in Dallas, TX at 5004 Columbia Avenue 
 - Website: https://www.fredloya.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-14:00
+- Registry Score: 50.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

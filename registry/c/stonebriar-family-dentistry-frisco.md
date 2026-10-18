@@ -13,6 +13,7 @@ Stonebriar Family Dentistry is a dentist in Frisco, TX at 3685 Preston Road #145
 - Website: https://www.yourfriscodentist.com/
 - Email: stonebriarfamilydentistry1@gmail.com
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; Th-Fr 08:00-17:00
+- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

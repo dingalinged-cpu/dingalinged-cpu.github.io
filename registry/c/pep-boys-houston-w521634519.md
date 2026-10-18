@@ -13,6 +13,7 @@ Pep Boys is an auto repair shop in Houston, TX at 6900 North Highway 6, Houston,
 - Website: https://www.pepboys.com/stores/tx/houston/6900-hwy-6-north?Cid=gbp_appt_AN%3APB%7CPB%3AG%7CTT%3AGBP%7CCG%3ACONVERSION%7CCD%3ASERVICE
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

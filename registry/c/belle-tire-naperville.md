@@ -13,6 +13,7 @@ Belle Tire is a tire shop in Naperville, IL at 1126 East Ogden Avenue, Napervill
 - Website: https://www.belletire.com/stores/detail/160/belle-tire-naperville-il
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed
+- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Workout Anytime is a gym in Dallas, TX at 2425 Gus Thomasson Road, Dallas, TX. W
 - Website: https://workoutanytime.com/casa-view-tx/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 46.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

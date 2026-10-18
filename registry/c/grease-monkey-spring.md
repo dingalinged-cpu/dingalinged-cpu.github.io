@@ -13,6 +13,7 @@ Grease Monkey is an auto repair shop in Spring, TX at 3535 FM 2920, Spring, TX 7
 - Website: https://www.greasemonkeyauto.com/locations/us/tx/spring/3535-farm-to-market-2920
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

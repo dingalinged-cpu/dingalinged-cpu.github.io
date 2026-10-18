@@ -13,6 +13,7 @@ The Red Peacock is an event venue in Houston, TX at 2736 Virginia Street, Housto
 - Website: n/a
 - Email: events@fivecentralhouston.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

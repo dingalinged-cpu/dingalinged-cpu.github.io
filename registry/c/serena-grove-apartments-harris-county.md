@@ -13,6 +13,7 @@ Serena Grove Apartments is a property management company in Harris County, TX at
 - Website: https://www.villaserenacommunities.com/serena-grove-i
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-18:00; Tu,Th 10:00-18:00; Sa 10:00-17:00; Su 13:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

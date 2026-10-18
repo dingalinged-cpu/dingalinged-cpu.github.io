@@ -13,6 +13,7 @@ Hope Law is a lawyer in Minneapolis, MN at 4999 France Avenue South #245, Minnea
 - Website: https://hopelawoffice.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 53.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

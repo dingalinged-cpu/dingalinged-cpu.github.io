@@ -13,6 +13,7 @@ Savory Bake House is a bakery in Minneapolis, MN at 3008 36th Avenue South, Minn
 - Website: https://www.savorybakehouse.com/
 - Email: n/a
 - Opening hours (OSM syntax): Fr-Su 09:00-12:00
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

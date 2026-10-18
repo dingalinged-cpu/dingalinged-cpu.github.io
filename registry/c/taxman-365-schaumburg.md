@@ -13,6 +13,7 @@ Taxman 365 is a tax preparation service in Schaumburg, IL at 953 North Plum Grov
 - Website: https://taxman365.com/
 - Email: info@taxman365.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
+- Registry Score: 66.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

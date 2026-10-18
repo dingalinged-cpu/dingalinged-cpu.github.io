@@ -13,6 +13,7 @@ Amped Fitness is a gym in Houston, TX at 11320 Chimney Rock Road, Houston, TX 77
 - Website: https://join.ampedfitness.com/embed/location/4
 - Email: westbury@ampedfitness.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

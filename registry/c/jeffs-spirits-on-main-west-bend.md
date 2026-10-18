@@ -13,6 +13,7 @@ Jeff's Spirits on Main is a liquor store in West Bend, WI at 821 South Main Stre
 - Website: https://www.spiritsonmain.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

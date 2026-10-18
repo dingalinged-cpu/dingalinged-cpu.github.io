@@ -1,0 +1,24 @@
+Compound Fitness is a martial arts school in Cobb County, GA at 2995 Johnson Ferry Road #250, Cobb County, GA. Phone: +16784080020. Website: https://trainatcompound.com/.
+
+# Compound Fitness
+
+- Category: martial arts
+- Services: martial arts
+- Address: 2995 Johnson Ferry Road #250, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0219958, -84.4272152
+- Phone: +16784080020
+- Website: https://trainatcompound.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su 09:00-14:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/compound-fitness-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/compound-fitness-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12313071422 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

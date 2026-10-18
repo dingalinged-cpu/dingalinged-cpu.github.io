@@ -13,6 +13,7 @@ Power Cleaners & Alterations is a dry cleaner in Murphy, TX. Phone: +13316271585
 - Website: https://powercleaners.us/
 - Email: powercleaners01@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:30; Sa 08:00-16:00; Su 11:00-14:00
+- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

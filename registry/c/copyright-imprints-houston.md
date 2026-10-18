@@ -13,6 +13,7 @@ Copyright Imprints is a printing service in Houston, TX at 14000 South Post Oak 
 - Website: n/a
 - Email: copyrightimprints@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ The UPS Store is a printing service in Saint Louis Park, MN at 5115 Excelsior Bo
 - Website: https://locations.theupsstore.com/mn/saint-louis-park/5115-excelsior-blvd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-16:00; PH closed
+- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

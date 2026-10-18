@@ -13,6 +13,7 @@ Conroe Comprehensive Dental Center is a dentist in Conroe, TX at 2210 North Fraz
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 08:00-17:00; Fr 07:00-15:00; Mo 09:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

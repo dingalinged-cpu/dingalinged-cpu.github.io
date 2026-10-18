@@ -13,6 +13,7 @@ Great Clips is a hair salon in Arlington, TX at 137 Merchants Row Drive #B-105, 
 - Website: https://www.greatclips.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-19:00
+- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

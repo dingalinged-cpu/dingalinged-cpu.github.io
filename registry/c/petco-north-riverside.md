@@ -13,6 +13,7 @@ Petco is a pet store in North Riverside, IL at 2204 South Harlem Avenue, North R
 - Website: https://stores.petco.com/il/northriverside/pet-supplies-northriverside-il-648.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 42.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

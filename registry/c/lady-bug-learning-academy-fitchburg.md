@@ -1,0 +1,24 @@
+Lady Bug Learning Academy is a daycare in Fitchburg, WI at 2095 Red Arrow Trail, Fitchburg, WI 53711.
+
+# Lady Bug Learning Academy
+
+- Category: daycare
+- Services: daycare
+- Address: 2095 Red Arrow Trail, Fitchburg, WI 53711
+- City: Fitchburg
+- State: WI
+- ZIP: 53711
+- Coordinates: 43.0316548, -89.456281
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/lady-bug-learning-academy-fitchburg/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lady-bug-learning-academy-fitchburg.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/102128119 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

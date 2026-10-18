@@ -13,6 +13,7 @@ Wiley Wheeler, P.C. is a lawyer in Houston, TX at 1651 Richmond Avenue, Houston,
 - Website: https://www.wiley-wheeler.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa off; Su off; PH off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

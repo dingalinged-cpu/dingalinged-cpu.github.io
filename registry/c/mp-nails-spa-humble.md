@@ -13,6 +13,7 @@ MP Nails Spa is a nail salon in Humble, TX at 4801 Wilson Road #300, Humble, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:30; Su 11:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+GB's Stables is a dog boarding facility in Smyrna, GA at 448 Hurt Road Southwest, Smyrna, GA 30082. Website: https://www.gbstable.com/.
+
+# GB's Stables
+
+- Category: dog boarding
+- Services: dog boarding
+- Address: 448 Hurt Road Southwest, Smyrna, GA 30082
+- City: Smyrna
+- State: GA
+- ZIP: 30082
+- Coordinates: 33.868284, -84.5672727
+- Phone: n/a
+- Website: https://www.gbstable.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/gbs-stables-smyrna/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gbs-stables-smyrna.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2993464631 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

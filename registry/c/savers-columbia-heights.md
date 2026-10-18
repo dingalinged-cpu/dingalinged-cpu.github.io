@@ -13,6 +13,7 @@ Savers is a thrift store in Columbia Heights, MN at 4849 Central Avenue Northeas
 - Website: https://stores.savers.com/mn/columbiaheights/savers-thrift-store-1029.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-19:00
+- Registry Score: 50.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

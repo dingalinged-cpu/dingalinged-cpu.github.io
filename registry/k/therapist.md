@@ -1,4 +1,4 @@
-The top unpaid therapist listing for the United States is A Better You Wellness (a therapy practice in Frisco, TX at 5300 Town and Country Boulevard #240-28, Frisco, TX 75034. Phone: +18328108034. Website: https://abetteryouwellnessus.com/). 276 therapist businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for the United States is A Better You Wellness (a therapy practice in Frisco, TX at 5300 Town and Country Boulevard #240-28, Frisco, TX 75034. Phone: +18328108034. Website: https://abetteryouwellnessus.com/). 312 therapist businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in the United States?
 
@@ -29,41 +29,42 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 21. Action Behavior Centers - ABA Therapy for Autism | trust 20.0 | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Sugar Land, TX at 18726 University Boulevard #J, Sugar Land, TX 77479. Phone: +17135747525. Website: https://www.actionbehavior.com/locations/texas/houston/aba-therapy-sienna-riverstone-tx/. | https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-sugar-land/
 22. Action Behavior Centers - ABA Therapy for Autism | trust 20.0 | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Westmont, IL at 760 Pasquinelli Drive #314, Westmont, IL 60559. Phone: +16306182442. Website: https://www.actionbehavior.com/locations/illinois/chicago/aba-therapy-westmont-il/. | https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-westmont/
 23. Ambitions ABA | trust 20.0 | Ambitions ABA is a therapy practice in Lincolnwood, IL at 6633 North Lincoln Avenue, Lincolnwood, IL 60712. Phone: +18479204441. Website: https://www.ambitionsaba.com/. | https://dingalinged-cpu.github.io/registry/c/ambitions-aba-lincolnwood/
-24. Care Clinics of Naperville | trust 20.0 | Care Clinics of Naperville is a therapy practice in Naperville, IL at 121 North Washington Street, Naperville, IL 60540. Phone: +16303572012. Website: https://www.careclinicsofnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/care-clinics-of-naperville-naperville/
-25. Complete Plus Healthcare Inc | trust 20.0 | Complete Plus Healthcare Inc is a therapy practice in Houston, TX at 8300 Homestead Road #4, Houston, TX 77028. Phone: +12818466542. Website: https://completeplushealthcareinc.com/. | https://dingalinged-cpu.github.io/registry/c/complete-plus-healthcare-inc-houston/
-26. DFW Diagnostics and Consulting | trust 20.0 | DFW Diagnostics and Consulting is a therapy practice in Dallas, TX at 509 North Winnetka Avenue #102B-4, Dallas, TX 75208. Phone: +12144179538. Website: https://dfwdiag.com/. | https://dingalinged-cpu.github.io/registry/c/dfw-diagnostics-and-consulting-dallas/
-27. Elevate Counseling + Wellness | trust 20.0 | Elevate Counseling + Wellness is a therapy practice in Westmont, IL at 305 Quail Ridge Drive, Westmont, IL 60559. Phone: +16305808080. Website: https://www.elevatecounseling.com/. | https://dingalinged-cpu.github.io/registry/c/elevate-counseling-wellness-westmont/
-28. Elite Spectrum ABA | trust 20.0 | Elite Spectrum ABA is a therapy practice in Baytown, TX at 3711 Garth Road, Baytown, TX 77521. Phone: +18322813997. Website: https://www.elitespectrumaba.com/. | https://dingalinged-cpu.github.io/registry/c/elite-spectrum-aba-baytown/
-29. Frisco Behavioral Health Group, LLC | trust 20.0 | Frisco Behavioral Health Group, LLC is a therapy practice in Frisco, TX at 4500 Hillcrest Road #115, Frisco, TX 75035. Phone: +14692136400. Website: https://www.friscobehavioralhealth.com/. | https://dingalinged-cpu.github.io/registry/c/frisco-behavioral-health-group-llc-frisco/
-30. Guided Path Psychological Services, LLC | trust 20.0 | Guided Path Psychological Services, LLC is a therapy practice in Palatine, IL at 201 East Dundee Road, Palatine, IL 60074. Phone: +18478093031. Website: https://www.guidedpathpsychologicalservices.com/. | https://dingalinged-cpu.github.io/registry/c/guided-path-psychological-services-llc-palatine/
-31. HIR Wellness Institute | trust 20.0 | HIR Wellness Institute is a therapy practice in Milwaukee, WI at 3136 West Kilbourn Avenue, Milwaukee, WI 53208. Phone: +14147635815. Website: https://www.hirwellness.org/. | https://dingalinged-cpu.github.io/registry/c/hir-wellness-institute-milwaukee/
-32. Holistic Psychiatry | trust 20.0 | Holistic Psychiatry is a therapy practice in Houston, TX at 3411 Cedar Knolls Drive, Houston, TX 77339. Phone: +12815325462. Website: https://texasholisticpsychiatry.com/. | https://dingalinged-cpu.github.io/registry/c/holistic-psychiatry-houston/
-33. Houston DBT Center | trust 20.0 | Houston DBT Center is a therapy practice in Houston, TX at 1348 Heights Boulevard, Houston, TX 77008. Phone: +17139732800. Website: https://houstondbtcenter.com/. | https://dingalinged-cpu.github.io/registry/c/houston-dbt-center-houston/
-34. Howard Brown Health Counseling Center | trust 20.0 | Howard Brown Health Counseling Center is a therapy practice in Chicago, IL at 3948 North Sheridan Road, Chicago, IL 60613. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/counseling-center/. | https://dingalinged-cpu.github.io/registry/c/howard-brown-health-counseling-center-chicago/
-35. Impact Infusions | trust 20.0 | Impact Infusions is a therapy practice in Argyle, TX at 415 South US Highway 377 #115, Argyle, TX 76226. Phone: +19404658118. Website: https://impactinfusions.com/. | https://dingalinged-cpu.github.io/registry/c/impact-infusions-argyle/
-36. Intuitive Counseling | trust 20.0 | Intuitive Counseling is a therapy practice in Lincolnshire, IL at 100 Tri State International #135, Lincolnshire, IL 60069. Phone: +18476071520. Website: https://www.theintuitivecounselinggroup.com/chicago/. | https://dingalinged-cpu.github.io/registry/c/intuitive-counseling-lincolnshire/
-37. Jenny Craig | trust 20.0 | Jenny Craig is a therapy practice in Arlington, TX at 137 Merchants Row Drive #B-115, Arlington, TX 76018. Phone: +18174680007. Website: https://locations.jennycraig.com/tx/arlington/. | https://dingalinged-cpu.github.io/registry/c/jenny-craig-arlington/
-38. Jenny Craig | trust 20.0 | Jenny Craig is a therapy practice in Naperville, IL at 1547 North Aurora Road #103-107, Naperville, IL 60563. Phone: +16303694411. Website: https://locations.jennycraig.com/il/naperville/weight-loss-center-210.html. | https://dingalinged-cpu.github.io/registry/c/jenny-craig-naperville/
-39. LifeStance Health | trust 20.0 | LifeStance Health is a therapy practice in Greenfield, WI at 4811 South 76th Street #Suite 208, Greenfield, WI 53220. Phone: +12627891191. Website: https://lifestance.com/location/greenfield-wi-4811-s-76th-st/. | https://dingalinged-cpu.github.io/registry/c/lifestance-health-greenfield/
-40. Medrina | trust 20.0 | Medrina is a therapy practice in Chicago, IL at 401 North Michigan Avenue, Chicago, IL 60611. Phone: +13126350973. Website: https://medrina.com/. | https://dingalinged-cpu.github.io/registry/c/medrina-chicago/
-41. Mental Health Resources | trust 20.0 | Mental Health Resources is a therapy practice in Saint Paul, MN at 762 Transfer Road ##21, Saint Paul, MN 55114. Phone: +16516592900. Website: https://www.mhresources.org/. | https://dingalinged-cpu.github.io/registry/c/mental-health-resources-saint-paul/
-42. Michael Haas Brophy, M.D. | trust 20.0 | Michael Haas Brophy, M.D. is a therapy practice in Bedford, TX at 2700 Tibbets Drive #404, Bedford, TX 76022. Phone: +18172836300. Website: https://michaelhaasbrophymd.com/. | https://dingalinged-cpu.github.io/registry/c/michael-haas-brophy-m-d-bedford/
-43. Mind Body Optimization | trust 20.0 | Mind Body Optimization is a therapy practice in Southlake, TX at 271 West Southlake Boulevard, Southlake, TX 76092. Phone: +19723918885. Website: https://mindbodyo.com/. | https://dingalinged-cpu.github.io/registry/c/mind-body-optimization-southlake/
-44. Minnesota Center for Psychology | trust 20.0 | Minnesota Center for Psychology is a therapy practice in Saint Paul, MN at 2324 University Avenue West ##120, Saint Paul, MN 55114. Phone: +16516444100. Website: https://www.minnesotacenterforpsychology.com/. | https://dingalinged-cpu.github.io/registry/c/minnesota-center-for-psychology-saint-paul/
-45. Natalis Counseling & Psychology Solutions | trust 20.0 | Natalis Counseling & Psychology Solutions is a therapy practice in Saint Paul, MN at 1600 University Avenue ##12, Saint Paul, MN 55104. Phone: +16513795157. Website: https://www.natalispsychology.com/. | https://dingalinged-cpu.github.io/registry/c/natalis-counseling-and-psychology-solutions-saint-paul/
-46. Paramount Counseling Services, PLLC | trust 20.0 | Paramount Counseling Services, PLLC is a therapy practice in Northbrook, IL at 899 Skokie Boulevard #408, Northbrook, IL 60062. Phone: +18473053555. Website: https://www.paramountil.com/. | https://dingalinged-cpu.github.io/registry/c/paramount-counseling-services-pllc-northbrook/
-47. Pauline A Clansy Edd Psychologist | trust 20.0 | Pauline A Clansy Edd Psychologist is a therapy practice in Houston, TX at 8303 Southwest Freeway, Houston, TX 77074. Phone: +17137778633. Website: https://paulineclansypsychology.com/. | https://dingalinged-cpu.github.io/registry/c/pauline-a-clansy-edd-psychologist-houston/
-48. Philip J. Metres Jr., Ph.D., P.C. | trust 20.0 | Philip J. Metres Jr., Ph.D., P.C. is a therapy practice in Lincolnshire, IL at 175 Olde Half Day Road #205, Lincolnshire, IL 60069. Phone: +18474983623. Website: https://veteranhealer.com/. | https://dingalinged-cpu.github.io/registry/c/philip-j-metres-jr-ph-d-p-c-lincolnshire/
-49. Planned Parenthood | trust 20.0 | Planned Parenthood is a therapy practice in Hammond, IN at 7131 Indianapolis Boulevard, Hammond, IN 46324. Phone: +18007690045. Website: https://www.plannedparenthood.org/health-center/indiana/hammond/46324/hammond-health-center-2922-91810. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-hammond/
-50. Planned Parenthood | trust 20.0 | Planned Parenthood is a therapy practice in Merrillville, IN at 8645 Connecticut Street, Merrillville, IN 46410. Phone: +18007690045. Website: https://www.plannedparenthood.org/health-center/indiana/merrillville/46410/merrillville-health-center-2923-91810. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-merrillville/
+24. Atlanta Sober Living | trust 20.0 | Atlanta Sober Living is a therapy practice in Atlanta, GA at 828 Ralph McGill Boulevard ##308, Atlanta, GA 30306. Phone: +14049913355. Website: https://atlantasoberliving.org/. | https://dingalinged-cpu.github.io/registry/c/atlanta-sober-living-atlanta/
+25. Bar Talk with Jay | trust 20.0 | Bar Talk with Jay is a therapy practice in Powder Springs, GA at Brittany Drive, Powder Springs, GA 30127. Phone: +17702867526. Website: https://bartalkwithjay.com/. | https://dingalinged-cpu.github.io/registry/c/bar-talk-with-jay-powder-springs/
+26. Care Clinics of Naperville | trust 20.0 | Care Clinics of Naperville is a therapy practice in Naperville, IL at 121 North Washington Street, Naperville, IL 60540. Phone: +16303572012. Website: https://www.careclinicsofnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/care-clinics-of-naperville-naperville/
+27. Christine McGinnis, Psy.D | trust 20.0 | Christine McGinnis, Psy.D is a therapy practice in Roswell, GA at 703 Macy Drive, Roswell, GA 30076. Phone: +17706438029. Website: https://drchristinemcginnis.com/. | https://dingalinged-cpu.github.io/registry/c/christine-mcginnis-psy-d-roswell/
+28. Complete Plus Healthcare Inc | trust 20.0 | Complete Plus Healthcare Inc is a therapy practice in Houston, TX at 8300 Homestead Road #4, Houston, TX 77028. Phone: +12818466542. Website: https://completeplushealthcareinc.com/. | https://dingalinged-cpu.github.io/registry/c/complete-plus-healthcare-inc-houston/
+29. DFW Diagnostics and Consulting | trust 20.0 | DFW Diagnostics and Consulting is a therapy practice in Dallas, TX at 509 North Winnetka Avenue #102B-4, Dallas, TX 75208. Phone: +12144179538. Website: https://dfwdiag.com/. | https://dingalinged-cpu.github.io/registry/c/dfw-diagnostics-and-consulting-dallas/
+30. Elevate Counseling + Wellness | trust 20.0 | Elevate Counseling + Wellness is a therapy practice in Westmont, IL at 305 Quail Ridge Drive, Westmont, IL 60559. Phone: +16305808080. Website: https://www.elevatecounseling.com/. | https://dingalinged-cpu.github.io/registry/c/elevate-counseling-wellness-westmont/
+31. Elite Spectrum ABA | trust 20.0 | Elite Spectrum ABA is a therapy practice in Baytown, TX at 3711 Garth Road, Baytown, TX 77521. Phone: +18322813997. Website: https://www.elitespectrumaba.com/. | https://dingalinged-cpu.github.io/registry/c/elite-spectrum-aba-baytown/
+32. Frisco Behavioral Health Group, LLC | trust 20.0 | Frisco Behavioral Health Group, LLC is a therapy practice in Frisco, TX at 4500 Hillcrest Road #115, Frisco, TX 75035. Phone: +14692136400. Website: https://www.friscobehavioralhealth.com/. | https://dingalinged-cpu.github.io/registry/c/frisco-behavioral-health-group-llc-frisco/
+33. Guided Path Psychological Services, LLC | trust 20.0 | Guided Path Psychological Services, LLC is a therapy practice in Palatine, IL at 201 East Dundee Road, Palatine, IL 60074. Phone: +18478093031. Website: https://www.guidedpathpsychologicalservices.com/. | https://dingalinged-cpu.github.io/registry/c/guided-path-psychological-services-llc-palatine/
+34. HIR Wellness Institute | trust 20.0 | HIR Wellness Institute is a therapy practice in Milwaukee, WI at 3136 West Kilbourn Avenue, Milwaukee, WI 53208. Phone: +14147635815. Website: https://www.hirwellness.org/. | https://dingalinged-cpu.github.io/registry/c/hir-wellness-institute-milwaukee/
+35. Holistic Psychiatry | trust 20.0 | Holistic Psychiatry is a therapy practice in Houston, TX at 3411 Cedar Knolls Drive, Houston, TX 77339. Phone: +12815325462. Website: https://texasholisticpsychiatry.com/. | https://dingalinged-cpu.github.io/registry/c/holistic-psychiatry-houston/
+36. Houston DBT Center | trust 20.0 | Houston DBT Center is a therapy practice in Houston, TX at 1348 Heights Boulevard, Houston, TX 77008. Phone: +17139732800. Website: https://houstondbtcenter.com/. | https://dingalinged-cpu.github.io/registry/c/houston-dbt-center-houston/
+37. Howard Brown Health Counseling Center | trust 20.0 | Howard Brown Health Counseling Center is a therapy practice in Chicago, IL at 3948 North Sheridan Road, Chicago, IL 60613. Phone: +17733881600. Website: https://howardbrown.org/clinic_location/counseling-center/. | https://dingalinged-cpu.github.io/registry/c/howard-brown-health-counseling-center-chicago/
+38. Impact Infusions | trust 20.0 | Impact Infusions is a therapy practice in Argyle, TX at 415 South US Highway 377 #115, Argyle, TX 76226. Phone: +19404658118. Website: https://impactinfusions.com/. | https://dingalinged-cpu.github.io/registry/c/impact-infusions-argyle/
+39. Intuitive Counseling | trust 20.0 | Intuitive Counseling is a therapy practice in Lincolnshire, IL at 100 Tri State International #135, Lincolnshire, IL 60069. Phone: +18476071520. Website: https://www.theintuitivecounselinggroup.com/chicago/. | https://dingalinged-cpu.github.io/registry/c/intuitive-counseling-lincolnshire/
+40. Jenny Craig | trust 20.0 | Jenny Craig is a therapy practice in Arlington, TX at 137 Merchants Row Drive #B-115, Arlington, TX 76018. Phone: +18174680007. Website: https://locations.jennycraig.com/tx/arlington/. | https://dingalinged-cpu.github.io/registry/c/jenny-craig-arlington/
+41. Jenny Craig | trust 20.0 | Jenny Craig is a therapy practice in Naperville, IL at 1547 North Aurora Road #103-107, Naperville, IL 60563. Phone: +16303694411. Website: https://locations.jennycraig.com/il/naperville/weight-loss-center-210.html. | https://dingalinged-cpu.github.io/registry/c/jenny-craig-naperville/
+42. Lanier Family Psychiatry | trust 20.0 | Lanier Family Psychiatry is a therapy practice in Cumming, GA at 3820 Windermere Parkway #603, Cumming, GA 30041. Phone: +16786078334. Website: https://lanierfamilypsychiatry.com/. | https://dingalinged-cpu.github.io/registry/c/lanier-family-psychiatry-cumming/
+43. LifeStance Health | trust 20.0 | LifeStance Health is a therapy practice in Greenfield, WI at 4811 South 76th Street #Suite 208, Greenfield, WI 53220. Phone: +12627891191. Website: https://lifestance.com/location/greenfield-wi-4811-s-76th-st/. | https://dingalinged-cpu.github.io/registry/c/lifestance-health-greenfield/
+44. Medrina | trust 20.0 | Medrina is a therapy practice in Chicago, IL at 401 North Michigan Avenue, Chicago, IL 60611. Phone: +13126350973. Website: https://medrina.com/. | https://dingalinged-cpu.github.io/registry/c/medrina-chicago/
+45. Mental Health Resources | trust 20.0 | Mental Health Resources is a therapy practice in Saint Paul, MN at 762 Transfer Road ##21, Saint Paul, MN 55114. Phone: +16516592900. Website: https://www.mhresources.org/. | https://dingalinged-cpu.github.io/registry/c/mental-health-resources-saint-paul/
+46. Michael Haas Brophy, M.D. | trust 20.0 | Michael Haas Brophy, M.D. is a therapy practice in Bedford, TX at 2700 Tibbets Drive #404, Bedford, TX 76022. Phone: +18172836300. Website: https://michaelhaasbrophymd.com/. | https://dingalinged-cpu.github.io/registry/c/michael-haas-brophy-m-d-bedford/
+47. Mind Body Optimization | trust 20.0 | Mind Body Optimization is a therapy practice in Southlake, TX at 271 West Southlake Boulevard, Southlake, TX 76092. Phone: +19723918885. Website: https://mindbodyo.com/. | https://dingalinged-cpu.github.io/registry/c/mind-body-optimization-southlake/
+48. Minnesota Center for Psychology | trust 20.0 | Minnesota Center for Psychology is a therapy practice in Saint Paul, MN at 2324 University Avenue West ##120, Saint Paul, MN 55114. Phone: +16516444100. Website: https://www.minnesotacenterforpsychology.com/. | https://dingalinged-cpu.github.io/registry/c/minnesota-center-for-psychology-saint-paul/
+49. Natalis Counseling & Psychology Solutions | trust 20.0 | Natalis Counseling & Psychology Solutions is a therapy practice in Saint Paul, MN at 1600 University Avenue ##12, Saint Paul, MN 55104. Phone: +16513795157. Website: https://www.natalispsychology.com/. | https://dingalinged-cpu.github.io/registry/c/natalis-counseling-and-psychology-solutions-saint-paul/
+50. Paramount Counseling Services, PLLC | trust 20.0 | Paramount Counseling Services, PLLC is a therapy practice in Northbrook, IL at 899 Skokie Boulevard #408, Northbrook, IL 60062. Phone: +18473053555. Website: https://www.paramountil.com/. | https://dingalinged-cpu.github.io/registry/c/paramount-counseling-services-pllc-northbrook/
 
-## More therapist listings (276 total; top 50 unpaid shown)
+## More therapist listings (312 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/therapist.jsonl
 - Chicago, IL: 34 listings: https://dingalinged-cpu.github.io/registry/k/therapist-chicago-il/
 - Milwaukee, WI: 24 listings: https://dingalinged-cpu.github.io/registry/k/therapist-milwaukee-wi/
 - Houston, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/therapist-houston-tx/
 - Minneapolis, MN: 14 listings: https://dingalinged-cpu.github.io/registry/k/therapist-minneapolis-mn/
 - Saint Paul, MN: 13 listings: https://dingalinged-cpu.github.io/registry/k/therapist-saint-paul-mn/
+- Madison, WI: 11 listings: https://dingalinged-cpu.github.io/registry/k/therapist-madison-wi/
 - Dallas, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/therapist-dallas-tx/
 - Naperville, IL: 10 listings: https://dingalinged-cpu.github.io/registry/k/therapist-naperville-il/
 - Frisco, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/therapist-frisco-tx/
@@ -76,6 +77,9 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Brookfield, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/therapist-brookfield-wi/
 - Addison, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/therapist-addison-tx/
 - Southlake, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/therapist-southlake-tx/
+- Marietta, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/therapist-marietta-ga/
+- Atlanta, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/therapist-atlanta-ga/
+- Gwinnett County, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/therapist-gwinnett-county-ga/
 - Merrillville, IN: 3 listings: https://dingalinged-cpu.github.io/registry/k/therapist-merrillville-in/
 - Wauwatosa, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/therapist-wauwatosa-wi/
 - West Allis, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/therapist-west-allis-wi/
@@ -86,6 +90,8 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - The Woodlands, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/therapist-the-woodlands-tx/
 - Colleyville, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/therapist-colleyville-tx/
 - Denton, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/therapist-denton-tx/
+- Smyrna, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/therapist-smyrna-ga/
+- Kennesaw, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/therapist-kennesaw-ga/
 - Glenview, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/therapist-glenview-il/
 - Westmont, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/therapist-westmont-il/
 - Lincolnshire, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/therapist-lincolnshire-il/
@@ -115,6 +121,14 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Hedwig Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-hedwig-village-tx/
 - Prosper, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-prosper-tx/
 - Montgomery County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-montgomery-county-tx/
+- Powder Springs, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-powder-springs-ga/
+- Roswell, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-roswell-ga/
+- Alpharetta, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-alpharetta-ga/
+- Cobb County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-cobb-county-ga/
+- Chamblee, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-chamblee-ga/
+- Woodstock, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-woodstock-ga/
+- Peachtree Corners, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-peachtree-corners-ga/
+- Tucker, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-tucker-ga/
 - Alsip, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-alsip-il/
 - Frankfort, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-frankfort-il/
 - Mokena, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-mokena-il/
@@ -153,8 +167,11 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Roseville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-roseville-mn/
 - Shorewood, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-shorewood-wi/
 - Waukesha, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-waukesha-wi/
+- Sun Prairie, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-sun-prairie-wi/
+- Edgerton, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-edgerton-wi/
 - Greendale, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-greendale-wi/
 - Mount Pleasant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-mount-pleasant-wi/
+- Monona, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/therapist-monona-wi/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons
@@ -162,7 +179,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 276
+- Registry businesses competing: 312
 - Equivalent Google Ads cost per month: ~$70,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -13,6 +13,7 @@ Aztec Athletics is a gym in Manvel, TX. Phone: +18325742325.
 - Website: n/a
 - Email: aztecathleticsgym@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

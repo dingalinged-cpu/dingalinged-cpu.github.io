@@ -13,6 +13,7 @@ Edwards Center For Young Learners is a preschool in Chicago, IL at 4950 South La
 - Website: https://edwards.cps.edu/apps/pages/index.jsp?uREC_ID=239886&type=d
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

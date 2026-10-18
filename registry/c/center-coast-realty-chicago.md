@@ -13,6 +13,7 @@ Center Coast Realty is a real estate agency in Chicago, IL at 2256 West North Av
 - Website: https://centercoastrealty.com/
 - Email: contact@centercoastrealty.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa, Su off
+- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

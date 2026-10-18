@@ -13,6 +13,7 @@ Trek is a bike shop in Cypress, TX at 25807 Northwest Freeway, Cypress, TX 77429
 - Website: https://www.trekbikes.com/retail/cypress/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 10:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

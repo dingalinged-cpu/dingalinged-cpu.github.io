@@ -13,6 +13,7 @@ Petco is a pet store in Houston, TX at 1417 Wirt Road, Houston, TX 77055. Phone:
 - Website: https://stores.petco.com/tx/houston/pet-supplies-houston-tx-5408.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ The Volkswagen Man is an auto repair shop in Minneapolis, MN at 831 East Hennepi
 - Website: https://www.vwman.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

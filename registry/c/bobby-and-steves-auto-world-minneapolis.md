@@ -13,6 +13,7 @@ Bobby & Steve's Auto World is an auto repair shop in Minneapolis, MN at 328 Ceda
 - Website: https://bobbyandstevesautoworld.com/my_installers/map
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

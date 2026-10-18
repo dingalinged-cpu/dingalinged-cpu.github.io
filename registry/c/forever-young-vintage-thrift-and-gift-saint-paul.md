@@ -13,6 +13,7 @@ Forever Young Vintage, Thrift & Gift is a thrift store in Saint Paul, MN at 30 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Saturday 12–5 PM  Sunday Closed  Monday Closed  Tuesday 12–5 PM  Wednesday 12–5 PM  Thursday Closed  Friday 12–5 PM
+- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

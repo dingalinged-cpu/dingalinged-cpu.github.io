@@ -13,6 +13,7 @@ Bucklet & Jensen is a lawyer in White Bear Lake, MN at 1257 Gun Club Road, White
 - Website: https://www.buckleyjensen.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 52.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

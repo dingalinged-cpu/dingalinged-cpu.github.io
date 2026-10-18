@@ -13,6 +13,7 @@ Meehan Orthodontics is a dentist in Palos Heights, IL at 12505 South Ridgeland A
 - Website: n/a
 - Email: info@meehanorthodontics.com
 - Opening hours (OSM syntax): Mo 09:00-18:00, Tu 08:00-16:00, We 08:00-16:00, Th 08:00-16:00
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

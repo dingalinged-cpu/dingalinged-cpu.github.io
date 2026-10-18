@@ -13,6 +13,7 @@ Braga Truck Center is an auto repair shop in Houston, TX at 12521 Green River Dr
 - Website: n/a
 - Email: wguillermomejia@gmail.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

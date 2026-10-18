@@ -13,6 +13,7 @@ Consumer Beverages Outlet is a liquor store in Hales Corners, WI at 5313 South 1
 - Website: https://www.consumerbeverageoutlet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00, Su 09:30-16:00
+- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

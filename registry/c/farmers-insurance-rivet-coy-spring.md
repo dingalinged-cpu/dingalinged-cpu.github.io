@@ -13,6 +13,7 @@ Farmers Insurance: Rivet Coy is an insurance agent in Spring, TX at 6215 Spring 
 - Website: https://www.farmersagent.com/rcoy1
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

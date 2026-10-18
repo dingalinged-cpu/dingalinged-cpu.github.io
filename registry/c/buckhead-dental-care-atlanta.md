@@ -1,0 +1,24 @@
+Buckhead Dental Care is a dentist in Atlanta, GA at 2964 Peachtree Road, Atlanta, GA 30305.
+
+# Buckhead Dental Care
+
+- Category: dentist
+- Services: dentist
+- Address: 2964 Peachtree Road, Atlanta, GA 30305
+- City: Atlanta
+- State: GA
+- ZIP: 30305
+- Coordinates: 33.8357397, -84.3828712
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/buckhead-dental-care-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/buckhead-dental-care-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4643468358 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

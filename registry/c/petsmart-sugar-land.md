@@ -13,6 +13,7 @@ PetSmart is a pet store in Sugar Land, TX at 16758 Southwest Freeway, Sugar Land
 - Website: https://www.petsmart.com/stores/us/tx/sugarland-store0631.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

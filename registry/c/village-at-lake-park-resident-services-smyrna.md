@@ -1,0 +1,24 @@
+Village at Lake Park Resident Services is a property management company in Smyrna, GA.
+
+# Village at Lake Park Resident Services
+
+- Category: property management company
+- Services: property management company, property management companies
+- Address: Smyrna, GA
+- City: Smyrna
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.888792, -84.4884683
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/village-at-lake-park-resident-services-smyrna/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-at-lake-park-resident-services-smyrna.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/619908712 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

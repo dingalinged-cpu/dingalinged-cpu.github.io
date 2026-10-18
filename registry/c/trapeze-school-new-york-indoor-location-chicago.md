@@ -13,6 +13,7 @@ Trapeze School New York - indoor location is a gym in Chicago, IL at 5917 North 
 - Website: https://chicago.trapezeschool.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

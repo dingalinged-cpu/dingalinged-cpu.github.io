@@ -13,6 +13,7 @@ Fitness Connection is a gym in Webster, TX at 20761 Gulf Freeway, Webster, TX 77
 - Website: https://fitnessconnection.com/gyms/clear-lake/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ WhysIdeas is a business consultant in McKinney, TX at 7300 State Highway 121 #30
 - Website: https://whysideas.com/
 - Email: info@whysideas.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
+- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

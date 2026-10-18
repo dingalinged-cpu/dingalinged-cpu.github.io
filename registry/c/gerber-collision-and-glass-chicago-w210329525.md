@@ -13,6 +13,7 @@ Gerber Collision & Glass is an auto repair shop in Chicago, IL at 3425 North Hal
 - Website: https://www.gerbercollision.com/locations/chicago-halsted-st-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

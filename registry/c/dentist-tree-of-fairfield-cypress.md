@@ -13,6 +13,7 @@ Dentist Tree of Fairfield is a dentist in Cypress, TX at Suite G-03 28404 US-290
 - Website: https://www.txdentisttree.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

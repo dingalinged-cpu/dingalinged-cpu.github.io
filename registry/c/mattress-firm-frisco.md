@@ -13,6 +13,7 @@ Mattress Firm is a mattress store in Frisco, TX at 6111 Custer Road #130, Frisco
 - Website: https://www.mattressfirm.com/en-us/stores/tx/frisco/002156/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

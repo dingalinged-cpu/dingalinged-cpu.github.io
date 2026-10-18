@@ -1,0 +1,24 @@
+Mini Mall Storage is a self-storage facility in Cobb County, GA at 1971 Powers Ferry Road Southeast, Cobb County, GA. Phone: +17707286855. Website: https://minimallstorage.com/storage-units/georgia/marietta/powers-ferry-road.
+
+# Mini Mall Storage
+
+- Category: storage units
+- Services: storage units
+- Address: 1971 Powers Ferry Road Southeast, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.9030041, -84.4549058
+- Phone: +17707286855
+- Website: https://minimallstorage.com/storage-units/georgia/marietta/powers-ferry-road
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Su 06:00-22:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mini-mall-storage-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mini-mall-storage-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1128279369 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

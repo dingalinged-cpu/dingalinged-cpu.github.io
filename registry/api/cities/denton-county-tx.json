@@ -1,0 +1,512 @@
+{
+ "place": "Denton County, TX",
+ "slug": "denton-county-tx",
+ "count": 16,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-denton-county-tx.json"
+  },
+  {
+   "keyword": "daycare denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-denton-county-tx.json"
+  },
+  {
+   "keyword": "dentist denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-denton-county-tx.json"
+  },
+  {
+   "keyword": "gym denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-denton-county-tx.json"
+  },
+  {
+   "keyword": "liquor store denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-denton-county-tx.json"
+  },
+  {
+   "keyword": "martial arts denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-denton-county-tx.json"
+  },
+  {
+   "keyword": "mechanic denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-denton-county-tx.json"
+  },
+  {
+   "keyword": "property management companies denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-denton-county-tx.json"
+  },
+  {
+   "keyword": "property management company denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-denton-county-tx.json"
+  },
+  {
+   "keyword": "storage units denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-denton-county-tx.json"
+  },
+  {
+   "keyword": "tax preparation denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-denton-county-tx.json"
+  },
+  {
+   "keyword": "tax preparer denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-denton-county-tx.json"
+  },
+  {
+   "keyword": "vet denton county tx",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-denton-county-tx.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "north-texas-ultrasonic-denton-county",
+   "name": "North Texas Ultrasonic",
+   "summary": "North Texas Ultrasonic is an auto repair shop in Denton County, TX at 9053 Ike Byrom Rd, Denton County, TX. Phone: +14697666494. Website: https://northtexasultrasonic.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/north-texas-ultrasonic-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/north-texas-ultrasonic-denton-county.json",
+   "address": {
+    "streetAddress": "9053 Ike Byrom Rd",
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2721597,
+    "lon": -96.9780643
+   },
+   "phone": "+14697666494",
+   "website": "https://northtexasultrasonic.com/",
+   "opening_hours": "Mo-Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6473273571",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "anytime-fitness-denton-county",
+   "name": "Anytime Fitness",
+   "summary": "Anytime Fitness is a gym in Denton County, TX at 26735 US Highway 380 East #116, Denton County, TX.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/anytime-fitness-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-denton-county.json",
+   "address": {
+    "streetAddress": "26735 US Highway 380 East #116",
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2215514,
+    "lon": -96.9354317
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 7.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13253083138",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "swanson-reed-denton-county",
+   "name": "Swanson Reed",
+   "summary": "Swanson Reed is a tax preparation service in Denton County, TX. Website: https://www.swansonreed.com/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/swanson-reed-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/swanson-reed-denton-county.json",
+   "address": {
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1401705,
+    "lon": -96.9894083
+   },
+   "website": "https://www.swansonreed.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6485636507",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "west-argyle-storage-denton-county",
+   "name": "West Argyle Storage",
+   "summary": "West Argyle Storage is a self-storage facility in Denton County, TX. Website: https://westargylestorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/west-argyle-storage-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/west-argyle-storage-denton-county.json",
+   "address": {
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1176474,
+    "lon": -97.2188002
+   },
+   "website": "https://westargylestorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 6.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1490516724",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "childrens-lighthouse-of-little-elm-denton-county",
+   "name": "Children's Lighthouse of Little Elm",
+   "summary": "Children's Lighthouse of Little Elm is a daycare in Denton County, TX at 3001 Woodlake Parkway, Denton County, TX.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-of-little-elm-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/childrens-lighthouse-of-little-elm-denton-county.json",
+   "address": {
+    "streetAddress": "3001 Woodlake Parkway",
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1930023,
+    "lon": -96.8872708
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13688797055",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-denton-county",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Denton County, TX at 11901 Farm-to-Market Road 423, Denton County, TX.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-denton-county.json",
+   "address": {
+    "streetAddress": "11901 Farm-to-Market Road 423",
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1938557,
+    "lon": -96.8859285
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13688803137",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lucky-teeth-pediatric-dentistry-denton-county",
+   "name": "Lucky Teeth Pediatric Dentistry",
+   "summary": "Lucky Teeth Pediatric Dentistry is a dentist in Denton County, TX at 11851 Farm-to-Market Road 423 #500, Denton County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lucky-teeth-pediatric-dentistry-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lucky-teeth-pediatric-dentistry-denton-county.json",
+   "address": {
+    "streetAddress": "11851 Farm-to-Market Road 423 #500",
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1935523,
+    "lon": -96.8862135
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13688797054",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mezzo-denton-county",
+   "name": "Mezzo",
+   "summary": "Mezzo is a property management company in Denton County, TX at 703 University Drive, Denton County, TX.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mezzo-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mezzo-denton-county.json",
+   "address": {
+    "streetAddress": "703 University Drive",
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2208373,
+    "lon": -96.899564
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13307492114",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "panther-creek-animal-hospital-denton-county",
+   "name": "Panther Creek Animal Hospital",
+   "summary": "Panther Creek Animal Hospital is a veterinarian in Denton County, TX at 11851 Farm-to-Market Road 423 #100, Denton County, TX.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/panther-creek-animal-hospital-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/panther-creek-animal-hospital-denton-county.json",
+   "address": {
+    "streetAddress": "11851 Farm-to-Market Road 423 #100",
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1933182,
+    "lon": -96.8863612
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13688797050",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "whitetree-dental-denton-county",
+   "name": "Whitetree Dental",
+   "summary": "Whitetree Dental is a dentist in Denton County, TX at 11851 Farm-to-Market Road 423 #300, Denton County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/whitetree-dental-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/whitetree-dental-denton-county.json",
+   "address": {
+    "streetAddress": "11851 Farm-to-Market Road 423 #300",
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1934334,
+    "lon": -96.8862846
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13688797052",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "asana-dental-denton-county",
+   "name": "Asana Dental",
+   "summary": "Asana Dental is a dentist in Denton County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/asana-dental-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/asana-dental-denton-county.json",
+   "address": {
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2247799,
+    "lon": -96.9779627
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13248546167",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dental-studio-denton-county",
+   "name": "Dental Studio",
+   "summary": "Dental Studio is a dentist in Denton County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-studio-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-studio-denton-county.json",
+   "address": {
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2203895,
+    "lon": -96.9004743
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9938210773",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "eldorado-transmissions-denton-county",
+   "name": "Eldorado Transmissions",
+   "summary": "Eldorado Transmissions is an auto repair shop in Denton County, TX.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/eldorado-transmissions-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/eldorado-transmissions-denton-county.json",
+   "address": {
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.1593006,
+    "lon": -96.9786544
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/4627374552",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "specs-denton-county",
+   "name": "Spec's",
+   "summary": "Spec's is a liquor store in Denton County, TX.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/specs-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/specs-denton-county.json",
+   "address": {
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2189837,
+    "lon": -96.9030997
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1109088715",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "star-smiles-of-aubrey-denton-county",
+   "name": "Star Smiles of Aubrey",
+   "summary": "Star Smiles of Aubrey is a dentist in Denton County, TX.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/star-smiles-of-aubrey-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/star-smiles-of-aubrey-denton-county.json",
+   "address": {
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2204226,
+    "lon": -96.9068909
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13253064579",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tae-kwon-do-denton-county",
+   "name": "Tae Kwon Do",
+   "summary": "Tae Kwon Do is a martial arts school in Denton County, TX.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tae-kwon-do-denton-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tae-kwon-do-denton-county.json",
+   "address": {
+    "addressLocality": "Denton County",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+   },
+   "city": "Denton County",
+   "state": "TX",
+   "geo": {
+    "lat": 33.2203825,
+    "lon": -96.8999592
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9938210779",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

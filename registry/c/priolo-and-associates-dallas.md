@@ -13,6 +13,7 @@ Priolo & Associates is an accountant in Dallas, TX at 3704 Abrams Road, Dallas, 
 - Website: https://www.priolo.cpa/
 - Email: mpriolo@priolocpa.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

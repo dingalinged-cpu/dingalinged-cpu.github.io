@@ -13,6 +13,7 @@ Morningstar Storage is a self-storage facility in Harris County, TX at 3506 Gree
 - Website: https://www.morningstarstorage.com/location/302/tx/houston/greenhouse-rd/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

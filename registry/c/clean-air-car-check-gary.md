@@ -13,6 +13,7 @@ Clean Air Car Check is an auto repair shop in Gary, IN at 3901 West 4th Avenue, 
 - Website: https://cleanaircarcheck.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00
+- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

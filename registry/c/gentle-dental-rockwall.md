@@ -13,6 +13,7 @@ Gentle Dental is a dentist in Rockwall, TX at 406 West Rusk Street, Rockwall, TX
 - Website: https://www.rockwallgentledental.com/rockwall-gentle-dental/contact
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-17:00
+- Registry Score: 66.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

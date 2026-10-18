@@ -13,6 +13,7 @@ Pella Windows & Doors of Naperville is a window installer in Naperville, IL at 1
 - Website: https://www.pellabranch.com/chicago/showrooms/naperville-experience-center/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa, Su off
+- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

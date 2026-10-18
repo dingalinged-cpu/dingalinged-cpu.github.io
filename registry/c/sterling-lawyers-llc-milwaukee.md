@@ -13,6 +13,7 @@ Sterling Lawyers, LLC is a lawyer in Milwaukee, WI at 1433 N Water Street #Suite
 - Website: https://www.sterlinglawyers.com/wisconsin/locations/milwaukee/
 - Email: office@sterlinglawyers.com
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 52.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

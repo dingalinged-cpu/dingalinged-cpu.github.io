@@ -13,6 +13,7 @@ Firestone is an auto repair shop in Milwaukee, WI at 4060 North 60th Street, Mil
 - Website: https://www.firestonecompleteautocare.com/wisconsin/milwaukee/4060-n-60th-st/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-18:00; Su 09:00-17:00
+- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

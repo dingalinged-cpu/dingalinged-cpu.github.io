@@ -13,6 +13,7 @@ PetSmart is a pet store in Katy, TX at 26960 FM 1093, Katy, TX 77494.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

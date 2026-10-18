@@ -1,0 +1,187 @@
+{
+ "place": "Deforest, WI",
+ "slug": "deforest-wi",
+ "count": 5,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair deforest wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-deforest-wi.json"
+  },
+  {
+   "keyword": "daycare deforest wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-deforest-wi.json"
+  },
+  {
+   "keyword": "liquor store deforest wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-deforest-wi.json"
+  },
+  {
+   "keyword": "mechanic deforest wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-deforest-wi.json"
+  },
+  {
+   "keyword": "storage units deforest wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-deforest-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "a-storage-deforest",
+   "name": "A Storage",
+   "summary": "A Storage is a self-storage facility in DeForest, WI at 4202 Reardon Road, DeForest, WI 53532. Phone: +16088461002. Website: https://www.madisonareaselfstorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/a-storage-deforest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/a-storage-deforest.json",
+   "address": {
+    "streetAddress": "4202 Reardon Road",
+    "addressLocality": "DeForest",
+    "addressRegion": "WI",
+    "postalCode": "53532",
+    "addressCountry": "US"
+   },
+   "city": "DeForest",
+   "state": "WI",
+   "zip": "53532",
+   "geo": {
+    "lat": 43.2084762,
+    "lon": -89.321616
+   },
+   "phone": "+16088461002",
+   "website": "https://www.madisonareaselfstorage.com/",
+   "opening_hours": "Mo-Th 09:00-16:00; Fr 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5795062980",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lakestone-storage-deforest",
+   "name": "Lakestone Storage",
+   "summary": "Lakestone Storage is a self-storage facility in DeForest, WI at 5954 Daentil Road, DeForest, WI 53532. Phone: +16087655253. Website: https://www.lakestonestorage.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lakestone-storage-deforest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lakestone-storage-deforest.json",
+   "address": {
+    "streetAddress": "5954 Daentil Road",
+    "addressLocality": "DeForest",
+    "addressRegion": "WI",
+    "postalCode": "53532",
+    "addressCountry": "US"
+   },
+   "city": "DeForest",
+   "state": "WI",
+   "zip": "53532",
+   "geo": {
+    "lat": 43.1722394,
+    "lon": -89.3259313
+   },
+   "phone": "+16087655253",
+   "website": "https://www.lakestonestorage.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1193390552",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "yahara-river-learning-center-deforest",
+   "name": "Yahara River Learning Center",
+   "summary": "Yahara River Learning Center is a daycare in DeForest, WI at 4165 Timothy Court, DeForest, WI 53532. Website: https://www.yaharariverlearningcenter.com/.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/yahara-river-learning-center-deforest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/yahara-river-learning-center-deforest.json",
+   "address": {
+    "streetAddress": "4165 Timothy Court",
+    "addressLocality": "DeForest",
+    "addressRegion": "WI",
+    "postalCode": "53532",
+    "addressCountry": "US"
+   },
+   "city": "DeForest",
+   "state": "WI",
+   "zip": "53532",
+   "geo": {
+    "lat": 43.2151722,
+    "lon": -89.3192673
+   },
+   "website": "https://www.yaharariverlearningcenter.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/753599146",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "deforest-liquor-mart-deforest",
+   "name": "Deforest Liquor Mart",
+   "summary": "Deforest Liquor Mart is a liquor store in DeForest, WI at 424 North Main Street, DeForest, WI 53532.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/deforest-liquor-mart-deforest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/deforest-liquor-mart-deforest.json",
+   "address": {
+    "streetAddress": "424 North Main Street",
+    "addressLocality": "DeForest",
+    "addressRegion": "WI",
+    "postalCode": "53532",
+    "addressCountry": "US"
+   },
+   "city": "DeForest",
+   "state": "WI",
+   "zip": "53532",
+   "geo": {
+    "lat": 43.2523515,
+    "lon": -89.3444703
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/583602811",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fleet-farm-service-deforest",
+   "name": "Fleet Farm Service",
+   "summary": "Fleet Farm Service is an auto repair shop in DeForest, WI.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fleet-farm-service-deforest/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fleet-farm-service-deforest.json",
+   "address": {
+    "addressLocality": "DeForest",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+   },
+   "city": "DeForest",
+   "state": "WI",
+   "geo": {
+    "lat": 43.1967231,
+    "lon": -89.3489301
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11342681274",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

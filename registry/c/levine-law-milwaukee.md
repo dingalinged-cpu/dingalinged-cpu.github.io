@@ -13,6 +13,7 @@ Levine Law is a lawyer in Milwaukee, WI at 630 North Broadway, Milwaukee, WI 532
 - Website: https://rlevinelaw.com/milwaukee-office/
 - Email: info@rlevinelaw.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

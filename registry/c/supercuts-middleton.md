@@ -1,0 +1,24 @@
+Supercuts is a hair salon in Middleton, WI at 6715 Frank Lloyd Wright Avenue, Middleton, WI 53562.
+
+# Supercuts
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 6715 Frank Lloyd Wright Avenue, Middleton, WI 53562
+- City: Middleton
+- State: WI
+- ZIP: 53562
+- Coordinates: 43.1068498, -89.4979067
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/supercuts-middleton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/supercuts-middleton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4334749887 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

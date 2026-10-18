@@ -13,6 +13,7 @@ The Shop is a gift shop in Milwaukee, WI at 401 West Canal Street, Milwaukee, WI
 - Website: https://www.harley-davidson.com/us/en/museum/shop.html
 - Email: theshop@h-dmuseum.com
 - Opening hours (OSM syntax): Fr-We 10:00-17:30; Th 10:00-20:30
+- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

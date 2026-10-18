@@ -13,6 +13,7 @@ Grand Groomers is a dog groomer in Saint Paul, MN at 956 Grand Avenue, Saint Pau
 - Website: https://www.facebook.com/Grand-Groomers-110815275649763/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

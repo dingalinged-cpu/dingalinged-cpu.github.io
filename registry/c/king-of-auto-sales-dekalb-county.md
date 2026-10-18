@@ -1,0 +1,24 @@
+King of Auto Sales is an used car dealer in DeKalb County, GA.
+
+# King of Auto Sales
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: DeKalb County, GA
+- City: DeKalb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.7997124, -84.1974729
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/king-of-auto-sales-dekalb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/king-of-auto-sales-dekalb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11296353541 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

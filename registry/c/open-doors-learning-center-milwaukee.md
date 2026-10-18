@@ -13,6 +13,7 @@ Open Doors Learning Center is a daycare in Milwaukee, WI at 4068 North 68th Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-24:00
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Texas Children’s Pediatrics is a pediatrician in Katy, TX at 24022 Cinco Villa
 - Website: https://texaschildrenspediatrics.org/locations/texas-childrens-pediatrics-cinco-ranch/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-12:00,13:30-17:00; Sa "by appointment"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

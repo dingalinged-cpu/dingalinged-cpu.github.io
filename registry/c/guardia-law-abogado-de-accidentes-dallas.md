@@ -13,6 +13,7 @@ Guardia Law | Abogado de Accidentes is a lawyer in Dallas, TX at 6301 Gaston Ave
 - Website: https://guardialaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00
+- Registry Score: 58.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

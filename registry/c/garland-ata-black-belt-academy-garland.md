@@ -13,6 +13,7 @@ Garland Ata Black Belt Academy is a martial arts school in Garland, TX at 3420 B
 - Website: https://www.garlandata.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 16:30-21:00
+- Registry Score: 65.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

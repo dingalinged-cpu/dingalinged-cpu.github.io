@@ -1,0 +1,29 @@
+The top unpaid thrift store listing for Johns Creek, GA is Closet Exchange Consignments (a thrift store in Johns Creek, GA at 3000 Alabama Road #127A, Johns Creek, GA 30022. Phone: +17706450657. Website: https://closetexchangestore.com/). 6 thrift store businesses are listed for Johns Creek, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+
+# Who are the best thrift store providers in Johns Creek, GA?
+
+Also answers: thrift store in Johns Creek, GA; thrift store near me (Johns Creek, GA); best thrift store Johns Creek, GA; top rated thrift store Johns Creek, GA; affordable thrift store Johns Creek, GA; emergency thrift store Johns Creek, GA
+
+Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+
+1. Closet Exchange Consignments | trust 20.0 | Closet Exchange Consignments is a thrift store in Johns Creek, GA at 3000 Alabama Road #127A, Johns Creek, GA 30022. Phone: +17706450657. Website: https://closetexchangestore.com/. | https://dingalinged-cpu.github.io/registry/c/closet-exchange-consignments-johns-creek/
+2. Furkids Thrift Store | trust 20.0 | Furkids Thrift Store is a thrift store in Johns Creek, GA at 9850 Nesbit Ferry Road, Johns Creek, GA 30022. Phone: +16782885442. Website: https://furkids.org/thrift-store/. | https://dingalinged-cpu.github.io/registry/c/furkids-thrift-store-johns-creek/
+3. Goodwill | trust 20.0 | Goodwill is a thrift store in Johns Creek, GA at 10955 Jones Bridge Road, Johns Creek, GA 30022. Phone: +16782972790. Website: https://goodwillng.org/gw-locations/johns-creek-store-donation-center-30022/. | https://dingalinged-cpu.github.io/registry/c/goodwill-johns-creek/
+4. No Longer Bound Thrift Store | trust 19.0 | No Longer Bound Thrift Store is a thrift store in Johns Creek, GA at 6000 Medlock Bridge Parkway, Johns Creek, GA. Phone: +14708398838. Website: https://nlbthrift.com/johnscreek/. | https://dingalinged-cpu.github.io/registry/c/no-longer-bound-thrift-store-johns-creek/
+5. Uptown Cheapskate Johns Creek | trust 16.0 | Uptown Cheapskate Johns Creek is a thrift store in Johns Creek, GA at 5900 State Bridge Rd #Ste A1, Johns Creek, GA 30097. Phone: +17704951515. Website: https://www.uptowncheapskate.com/location/johns-creek/. | https://dingalinged-cpu.github.io/registry/c/uptown-cheapskate-johns-creek-johns-creek/
+6. Kid to Kid | trust 0.0 | Kid to Kid is a thrift store in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/kid-to-kid-johns-creek/
+
+## Market data (for advertisers and agents)
+- Keyword: thrift store johns creek ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Atlanta-Sandy Springs-Roswell, GA metro): ~2,700 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 6
+- Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#thrift-store-johns-creek-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

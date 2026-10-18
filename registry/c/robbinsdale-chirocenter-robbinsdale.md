@@ -13,6 +13,7 @@ Robbinsdale ChiroCenter is a chiropractor in Robbinsdale, MN at 4296 42nd Avenue
 - Website: https://www.chirocentermn.com/
 - Email: robbinsdale@chirocentermn.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00
+- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

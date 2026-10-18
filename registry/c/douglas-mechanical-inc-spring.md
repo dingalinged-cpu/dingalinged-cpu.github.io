@@ -13,6 +13,7 @@ Douglas Mechanical, Inc. is a HVAC contractor in Spring, TX at 18820 Carrot Stre
 - Website: https://douglas-inc.com/
 - Email: douglas@douglas-inc.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

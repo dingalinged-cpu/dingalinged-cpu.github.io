@@ -1,0 +1,24 @@
+Nail Tech Of Roswell is a nail salon in Cobb County, GA at 4401 Shallowford Road Northeast #124, Cobb County, GA. Phone: +17705189802.
+
+# Nail Tech Of Roswell
+
+- Category: nail salon
+- Services: nail salon
+- Address: 4401 Shallowford Road Northeast #124, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0281305, -84.4229257
+- Phone: +17705189802
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/nail-tech-of-roswell-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nail-tech-of-roswell-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12283242790 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,6 +13,7 @@ Phenix Salon Suites is a nail salon in Houston, TX. Phone: +17133489732. Website
 - Website: https://phenixsalonsuites.com/locations-detail/?id=331
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

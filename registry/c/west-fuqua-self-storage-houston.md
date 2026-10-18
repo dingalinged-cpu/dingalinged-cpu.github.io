@@ -13,6 +13,7 @@ West Fuqua Self Storage is a self-storage facility in Houston, TX at 5755 West F
 - Website: https://www.westfuquaselfstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

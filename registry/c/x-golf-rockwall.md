@@ -13,6 +13,7 @@ X Golf is a gym in Rockwall, TX at 2455 Ridge Road #115, Rockwall, TX 75087. Pho
 - Website: https://playxgolf.com/locations/rockwall/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-22:00; Su 10:00-20:00
+- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

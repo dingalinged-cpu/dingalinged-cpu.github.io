@@ -13,6 +13,7 @@ Durand & Associates, P.C. is a lawyer in Lewisville, TX. Phone: +19722215655. We
 - Website: https://www.durandlaw.com/
 - Email: diana@durandlaw.com
 - Opening hours (OSM syntax): Mo-Fr open "By appointment only."
+- Registry Score: 58.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

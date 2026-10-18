@@ -13,6 +13,7 @@ Osterbauer Law Firm is a lawyer in Minneapolis, MN at 404 3rd Avenue North #201,
 - Website: https://www.osterbauerlawfirm.com/
 - Email: josterbauer@osterbauerlawfirm.net
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

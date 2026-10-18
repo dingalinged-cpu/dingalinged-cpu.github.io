@@ -13,6 +13,7 @@ TCM Health Center / AAAOM Clinic is an acupuncture clinic in Saint Paul, MN at 6
 - Website: https://www.acupuncturemn.com/grand-avenue
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

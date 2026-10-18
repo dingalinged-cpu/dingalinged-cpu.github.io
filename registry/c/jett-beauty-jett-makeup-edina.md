@@ -13,6 +13,7 @@ Jett Beauty - Jett Makeup is a skin care studio in Edina, MN. Website: https://j
 - Website: https://jettbeauty.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th,Sa 09:00-17:00; We,Fr 09:00-20:00
+- Registry Score: 52.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

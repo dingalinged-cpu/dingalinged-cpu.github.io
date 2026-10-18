@@ -13,6 +13,7 @@ Farmers Insurance - Martha Janie Holmes is an insurance agent in League City, TX
 - Website: https://agents.farmers.com/tx/league-city/martha-holmes
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Elite Salon Suites is a hair salon in Plymouth, MN at 10700 Highway 55 #100, Ply
 - Website: https://elite-salons.com/
 - Email: info@elite-salons.com
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
+- Registry Score: 65.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

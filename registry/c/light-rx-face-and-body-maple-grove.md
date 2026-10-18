@@ -13,6 +13,7 @@ Light Rx Face and Body is a plastic surgeon in Maple Grove, MN at 11720 Elm Cree
 - Website: https://www.lightrx.com/maple-grove/
 - Email: maplegrove@lightrx.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

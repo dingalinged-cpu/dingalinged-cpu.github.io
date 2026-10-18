@@ -13,6 +13,7 @@ Lily's Nails & Spa is a nail salon in Cedar Hill, TX at 408 North Highway 67 #A,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr-Sa 09:00-19:30; Su 11:30-18:00
+- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

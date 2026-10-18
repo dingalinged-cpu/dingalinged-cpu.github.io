@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for the United States is 209 Salon (a hair salon in Plano, TX at 7300 Lone Star Drive #C-138, Plano, TX 75024. Phone: +19725482815. Website: https://www.209salon.com/plano-tx). 2166 hair salon businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for the United States is 209 Salon (a hair salon in Plano, TX at 7300 Lone Star Drive #C-138, Plano, TX 75024. Phone: +19725482815. Website: https://www.209salon.com/plano-tx). 2758 hair salon businesses are listed for the United States as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in the United States?
 
@@ -12,63 +12,70 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 4. Africa Hair Braiding | trust 20.0 | Africa Hair Braiding is a hair salon in Chicago, IL at 102 East 47th Street, Chicago, IL 60653. Phone: +17736244405. Website: https://africahairbraiding.com/. | https://dingalinged-cpu.github.io/registry/c/africa-hair-braiding-chicago/
 5. Ale's Hair Salon | trust 20.0 | Ale's Hair Salon is a hair salon in Cypress, TX at 13802 Fleur de Lis Boulevard #E, Cypress, TX 77429. Phone: +18326885447. Website: https://cypresshairstylist.com/. | https://dingalinged-cpu.github.io/registry/c/ales-hair-salon-cypress/
 6. Amber Waves | trust 20.0 | Amber Waves is a hair salon in Naperville, IL at 144 West Jefferson Avenue, Naperville, IL 60540. Phone: +16309611108. Website: https://amberwavessalon.com/. | https://dingalinged-cpu.github.io/registry/c/amber-waves-naperville/
-7. Angie's Hair Studio | trust 20.0 | Angie's Hair Studio is a hair salon in Chicago, IL at 8251 West Irving Park Road, Chicago, IL 60634. Phone: +17735894288. Website: https://www.angieshairstudio.us/. | https://dingalinged-cpu.github.io/registry/c/angies-hair-studio-chicago/
-8. Anomalía Beauty Society | trust 20.0 | Anomalía Beauty Society is a hair salon in Carrollton, TX at 2414, Unit 105 Marsh Lane, Carrollton, TX 75006. Phone: +14694634393. Website: https://www.anomaliasociety.com/. | https://dingalinged-cpu.github.io/registry/c/anomal-a-beauty-society-carrollton/
-9. Anthony Lullo's Hair Designs | trust 20.0 | Anthony Lullo's Hair Designs is a hair salon in Oak Park, IL at 721 South Boulevard, Oak Park, IL 60302. Phone: +17088484455. Website: https://anthonylullohairdesigns.com/. | https://dingalinged-cpu.github.io/registry/c/anthony-lullos-hair-designs-oak-park/
-10. Archambeaus Salon | trust 20.0 | Archambeaus Salon is a hair salon in Milwaukee, WI at 419 East Menomonee Street, Milwaukee, WI 53202. Phone: +14142721028. Website: https://www.stephaniebarenz.com/. | https://dingalinged-cpu.github.io/registry/c/archambeaus-salon-milwaukee/
-11. Art's Barber Shop | trust 20.0 | Art's Barber Shop is a hair salon in Roseville, MN at 1129 1/2 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514891411. Website: https://artsbarbershop-barbershop.business.site/. | https://dingalinged-cpu.github.io/registry/c/arts-barber-shop-roseville/
-12. Artistic Creations | trust 20.0 | Artistic Creations is a hair salon in Naperville, IL at 22 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303575467. Website: https://www.artisticcreationssalon.com/. | https://dingalinged-cpu.github.io/registry/c/artistic-creations-naperville/
-13. Azul Salon | trust 20.0 | Azul Salon is a hair salon in Houston, TX at 536 Waugh Drive, Houston, TX 77019. Phone: +17135217676. Website: https://www.azulsalonhouston.com/. | https://dingalinged-cpu.github.io/registry/c/azul-salon-houston/
-14. Barber's Company | trust 20.0 | Barber's Company is a hair salon in Milwaukee, WI at 4546 West Forest Home Avenue, Milwaukee, WI 53219. Phone: +14148004080. Website: https://www.barberscompanyllc.com/. | https://dingalinged-cpu.github.io/registry/c/barbers-company-milwaukee/
-15. Beautiful Grace Salon | trust 20.0 | Beautiful Grace Salon is a hair salon in Houston, TX at 255 Assay Street #1, Houston, TX 77044. Phone: +18324666478. Website: https://beautifulgracesalon.com/. | https://dingalinged-cpu.github.io/registry/c/beautiful-grace-salon-houston/
-16. Beautifully Loc'd | trust 20.0 | Beautifully Loc'd is a hair salon in Milwaukee, WI at 7212 West Appleton Avenue, Milwaukee, WI 53216. Phone: +14143884693. Website: https://www.beautifullylocd.com/. | https://dingalinged-cpu.github.io/registry/c/beautifully-locd-milwaukee/
-17. Beauty | trust 20.0 | Beauty is a hair salon in Milwaukee, WI at 1633 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142765054. Website: https://www.beautymilwaukee.com/. | https://dingalinged-cpu.github.io/registry/c/beauty-milwaukee/
-18. Benny’s Barber Shop | trust 20.0 | Benny’s Barber Shop is a hair salon in White Bear Lake, MN at 4758 Washington Avenue, White Bear Lake, MN 55110. Phone: +16514261082. Website: https://www.bennyshaircut.com/. | https://dingalinged-cpu.github.io/registry/c/benny-s-barber-shop-white-bear-lake/
-19. Biby's Hair Studio | trust 20.0 | Biby's Hair Studio is a hair salon in Houston, TX at 175 Greens Road #C, Houston, TX 77060. Phone: +18324611747. Website: https://bibyshairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/bibys-hair-studio-houston/
-20. Blanca's Hair Styling | trust 20.0 | Blanca's Hair Styling is a hair salon in Houston, TX at 228 Harbor Street, Houston, TX 77020. Phone: +17136724767. Website: https://www.blancashairstylingtx.com/. | https://dingalinged-cpu.github.io/registry/c/blancas-hair-styling-houston/
-21. Blend Salon & Skincare | trust 20.0 | Blend Salon & Skincare is a hair salon in Lisle, IL at 1111 Burlington Avenue #102, Lisle, IL 60532. Phone: +16302169296. Website: https://www.blendhairandskincare.com/. | https://dingalinged-cpu.github.io/registry/c/blend-salon-and-skincare-lisle/
-22. Blissful Beauty HTX | trust 20.0 | Blissful Beauty HTX is a hair salon in Houston, TX at 3100 Richmond Avenue #103-1, Houston, TX 77098. Phone: +17133771330. Website: https://blissfulbeauty-htx.square.site/. | https://dingalinged-cpu.github.io/registry/c/blissful-beauty-htx-houston/
-23. Boho Blonde Chicago | trust 20.0 | Boho Blonde Chicago is a hair salon in Chicago, IL at 3740 North Broadway, Chicago, IL 60613. Phone: +17738570913. Website: https://bohoblondechicago.com/. | https://dingalinged-cpu.github.io/registry/c/boho-blonde-chicago-chicago/
-24. BoRics | trust 20.0 | BoRics is a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Phone: +18474708586. Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388. | https://dingalinged-cpu.github.io/registry/c/borics-niles/
-25. Born Cutterz Barbershop | trust 20.0 | Born Cutterz Barbershop is a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/. | https://dingalinged-cpu.github.io/registry/c/born-cutterz-barbershop-humble/
-26. Bourne Blonde | trust 20.0 | Bourne Blonde is a hair salon in Dallas, TX at 4528 Cabell Drive, Dallas, TX 75204. Phone: +12145977907. Website: https://bourne-blonde-dallas.square.site/. | https://dingalinged-cpu.github.io/registry/c/bourne-blonde-dallas/
-27. Bulldog Barber Shop | trust 20.0 | Bulldog Barber Shop is a hair salon in Richardson, TX at 318 South Central Expressway #108, Richardson, TX 75080. Phone: +14694940086. Website: https://www.bulldog-barbershops.com/. | https://dingalinged-cpu.github.io/registry/c/bulldog-barber-shop-richardson/
-28. C'zar Salon & Spa | trust 20.0 | C'zar Salon & Spa is a hair salon in Naperville, IL at 237 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303573444. Website: https://czarspa.com/locations/naperville/. | https://dingalinged-cpu.github.io/registry/c/czar-salon-and-spa-naperville/
-29. Caroline's Hair Design | trust 20.0 | Caroline's Hair Design is a hair salon in Elmwood Park, IL at 12.5 Conti Parkway, Elmwood Park, IL 60707. Phone: +17084531967. Website: https://carolineshairdesign.com/. | https://dingalinged-cpu.github.io/registry/c/carolines-hair-design-elmwood-park/
-30. Charbella Salon | trust 20.0 | Charbella Salon is a hair salon in Chicago, IL at 749 West Irving Park Road, Chicago, IL 60613. Phone: +17739353373. Website: https://www.charbellasalon.com/services. | https://dingalinged-cpu.github.io/registry/c/charbella-salon-chicago/
-31. Chroma Beauty | trust 20.0 | Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/. | https://dingalinged-cpu.github.io/registry/c/chroma-beauty-palos-hills/
-32. Ciara’s Hair Magic | trust 20.0 | Ciara’s Hair Magic is a hair salon in Minneapolis, MN at 4547 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +15072000511. Website: https://ciaras-hair-magic.square.site/. | https://dingalinged-cpu.github.io/registry/c/ciara-s-hair-magic-minneapolis/
-33. City Looks | trust 20.0 | City Looks is a hair salon in Roseville, MN at 1684 Lexington Avenue North, Roseville, MN 55113. Phone: +16514885559. Website: https://www.signaturestyle.com/locations/mn/roseville/city-looks-city-looks-haircuts-16702.html. | https://dingalinged-cpu.github.io/registry/c/city-looks-roseville/
-34. Class Act - Barber/Stylists | trust 20.0 | Class Act - Barber/Stylists is a hair salon in Bayside, WI at 8850 North Port Washington Road #Suite A, Bayside, WI 53217. Phone: +14143529115. Website: https://classactbarber-stylist.com/. | https://dingalinged-cpu.github.io/registry/c/class-act-barber-stylists-bayside/
-35. Clean Cuts | trust 20.0 | Clean Cuts is a hair salon in Saint Paul, MN at 1728 University Avenue, Saint Paul, MN 55104. Phone: +16519173060. Website: https://cleancutsbarbershops.com/. | https://dingalinged-cpu.github.io/registry/c/clean-cuts-saint-paul/
-36. Coil and Bloom at Image Studios | trust 20.0 | Coil and Bloom at Image Studios is a hair salon in Chicago, IL at 460 West Chicago Avenue #135, Chicago, IL 60654. Phone: +12246318979. Website: https://coilandbloom.com/. | https://dingalinged-cpu.github.io/registry/c/coil-and-bloom-at-image-studios-chicago/
-37. Colorbar 1025 | trust 20.0 | Colorbar 1025 is a hair salon in Milwaukee, WI at 1025 West Historic Mitchell Street, Milwaukee, WI 53204. Phone: +14145956284. Website: https://my-site-109443-101022.square.site/. | https://dingalinged-cpu.github.io/registry/c/colorbar-1025-milwaukee/
-38. Company Bliss Salon | trust 20.0 | Company Bliss Salon is a hair salon in Naperville, IL at 1160 East Ogden Avenue #104, Naperville, IL 60563. Phone: +13314724747. Website: https://www.companyblisssalon.com/. | https://dingalinged-cpu.github.io/registry/c/company-bliss-salon-naperville/
-39. Cost Cutters | trust 20.0 | Cost Cutters is a hair salon in Houston, TX at 9650 Westheimer Road #200, Houston, TX 77063. Phone: +17132668700. Website: https://www.costcutters.com/locations/tx/houston/woodlake-square-haircuts-15697.html. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-houston-n9611895944/
-40. Cost Cutters | trust 20.0 | Cost Cutters is a hair salon in Houston, TX at 1510 Eldridge Parkway #128, Houston, TX 77077. Phone: +12817592221. Website: https://www.costcutters.com/locations/tx/houston/parkway-village-haircuts-15712.html. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-houston-w834041979/
-41. Curl Revolution Salon | trust 20.0 | Curl Revolution Salon is a hair salon in Frisco, TX at 9200 Lebanon Road #40-241, Frisco, TX 75035. Phone: +12147075554. Website: https://curlrevolution.com/. | https://dingalinged-cpu.github.io/registry/c/curl-revolution-salon-frisco/
-42. Cutflix | trust 20.0 | Cutflix is a hair salon in Milwaukee, WI at 3923 South 76th Street, Milwaukee, WI 53220. Phone: +14149300020. Website: https://www.cutflixmke.com/. | https://dingalinged-cpu.github.io/registry/c/cutflix-milwaukee/
-43. Cutthroat | trust 20.0 | Cutthroat is a hair salon in Houston, TX at 2203 Washington Avenue, Houston, TX 77007. Phone: +17138647000. Website: https://www.cutthroatbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/cutthroat-houston/
-44. Cutting Group | trust 20.0 | Cutting Group is a hair salon in Milwaukee, WI at 2216 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142269998. Website: https://cuttinggroupmilwaukee.com/. | https://dingalinged-cpu.github.io/registry/c/cutting-group-milwaukee/
-45. Doll Revolution | trust 20.0 | Doll Revolution is a hair salon in Chicago, IL at 3635 West Montrose Avenue, Chicago, IL 60618. Phone: +17737705908. Website: https://www.iamdollrevolution.com/. | https://dingalinged-cpu.github.io/registry/c/doll-revolution-chicago/
-46. Drybar | trust 20.0 | Drybar is a hair salon in Milwaukee, WI at 243 East Buffalo Street, Milwaukee, WI 53202. Phone: +14143958075. Website: https://www.thedrybar.com/locations/Milwaukee/. | https://dingalinged-cpu.github.io/registry/c/drybar-milwaukee/
-47. Drybar | trust 20.0 | Drybar is a hair salon in Plano, TX at 7300 Lone Star Drive #C-126, Plano, TX 75024. Phone: +14694441580. Website: https://www.drybarshops.com/. | https://dingalinged-cpu.github.io/registry/c/drybar-plano/
-48. Edged & Fades Barbershop & Hair Salon | trust 20.0 | Edged & Fades Barbershop & Hair Salon is a hair salon in Fort Worth, TX at 1225 Woodhaven Boulevard, Fort Worth, TX 76112. Phone: +16822132224. Website: https://edgesandfades.com/. | https://dingalinged-cpu.github.io/registry/c/edged-and-fades-barbershop-and-hair-salon-fort-worth/
-49. Elite Salon Suites | trust 20.0 | Elite Salon Suites is a hair salon in Plymouth, MN at 10700 Highway 55 #100, Plymouth, MN 55441. Phone: +16124045588. Website: https://elite-salons.com/. | https://dingalinged-cpu.github.io/registry/c/elite-salon-suites-plymouth/
-50. Ellie K Salon | trust 20.0 | Ellie K Salon is a hair salon in Frisco, TX at 2552 Stonebrook Parkway #200, Frisco, TX 75034. Phone: +14694762400. Website: https://ellieksalon.com/. | https://dingalinged-cpu.github.io/registry/c/ellie-k-salon-frisco/
+7. American Haircuts | trust 20.0 | American Haircuts is a hair salon in Kennesaw, GA at 600 Chastain Road Northwest, Kennesaw, GA 30144. Phone: +17709190502. Website: https://americanhaircuts.com/kennesaw. | https://dingalinged-cpu.github.io/registry/c/american-haircuts-kennesaw/
+8. Angie's Hair Studio | trust 20.0 | Angie's Hair Studio is a hair salon in Chicago, IL at 8251 West Irving Park Road, Chicago, IL 60634. Phone: +17735894288. Website: https://www.angieshairstudio.us/. | https://dingalinged-cpu.github.io/registry/c/angies-hair-studio-chicago/
+9. Anomalía Beauty Society | trust 20.0 | Anomalía Beauty Society is a hair salon in Carrollton, TX at 2414, Unit 105 Marsh Lane, Carrollton, TX 75006. Phone: +14694634393. Website: https://www.anomaliasociety.com/. | https://dingalinged-cpu.github.io/registry/c/anomal-a-beauty-society-carrollton/
+10. Anthony Lullo's Hair Designs | trust 20.0 | Anthony Lullo's Hair Designs is a hair salon in Oak Park, IL at 721 South Boulevard, Oak Park, IL 60302. Phone: +17088484455. Website: https://anthonylullohairdesigns.com/. | https://dingalinged-cpu.github.io/registry/c/anthony-lullos-hair-designs-oak-park/
+11. Archambeaus Salon | trust 20.0 | Archambeaus Salon is a hair salon in Milwaukee, WI at 419 East Menomonee Street, Milwaukee, WI 53202. Phone: +14142721028. Website: https://www.stephaniebarenz.com/. | https://dingalinged-cpu.github.io/registry/c/archambeaus-salon-milwaukee/
+12. Art's Barber Shop | trust 20.0 | Art's Barber Shop is a hair salon in Roseville, MN at 1129 1/2 Larpenteur Avenue West, Roseville, MN 55113. Phone: +16514891411. Website: https://artsbarbershop-barbershop.business.site/. | https://dingalinged-cpu.github.io/registry/c/arts-barber-shop-roseville/
+13. Artistic Creations | trust 20.0 | Artistic Creations is a hair salon in Naperville, IL at 22 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303575467. Website: https://www.artisticcreationssalon.com/. | https://dingalinged-cpu.github.io/registry/c/artistic-creations-naperville/
+14. Audra Hill Hair at Phenix Salon Suites | trust 20.0 | Audra Hill Hair at Phenix Salon Suites is a hair salon in Roswell, GA at 629 Holcomb Bridge Road, Roswell, GA 30076. Phone: +12059131411. Website: https://audrahillhair.com/. | https://dingalinged-cpu.github.io/registry/c/audra-hill-hair-at-phenix-salon-suites-roswell/
+15. Azul Salon | trust 20.0 | Azul Salon is a hair salon in Houston, TX at 536 Waugh Drive, Houston, TX 77019. Phone: +17135217676. Website: https://www.azulsalonhouston.com/. | https://dingalinged-cpu.github.io/registry/c/azul-salon-houston/
+16. Barber's Club | trust 20.0 | Barber's Club is a hair salon in Marietta, GA at 279 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +16789784977. Website: https://www.barbersclubs.com/. | https://dingalinged-cpu.github.io/registry/c/barbers-club-marietta/
+17. Barber's Company | trust 20.0 | Barber's Company is a hair salon in Milwaukee, WI at 4546 West Forest Home Avenue, Milwaukee, WI 53219. Phone: +14148004080. Website: https://www.barberscompanyllc.com/. | https://dingalinged-cpu.github.io/registry/c/barbers-company-milwaukee/
+18. Beautiful Grace Salon | trust 20.0 | Beautiful Grace Salon is a hair salon in Houston, TX at 255 Assay Street #1, Houston, TX 77044. Phone: +18324666478. Website: https://beautifulgracesalon.com/. | https://dingalinged-cpu.github.io/registry/c/beautiful-grace-salon-houston/
+19. Beautifully Loc'd | trust 20.0 | Beautifully Loc'd is a hair salon in Milwaukee, WI at 7212 West Appleton Avenue, Milwaukee, WI 53216. Phone: +14143884693. Website: https://www.beautifullylocd.com/. | https://dingalinged-cpu.github.io/registry/c/beautifully-locd-milwaukee/
+20. Beauty | trust 20.0 | Beauty is a hair salon in Milwaukee, WI at 1633 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142765054. Website: https://www.beautymilwaukee.com/. | https://dingalinged-cpu.github.io/registry/c/beauty-milwaukee/
+21. Benny’s Barber Shop | trust 20.0 | Benny’s Barber Shop is a hair salon in White Bear Lake, MN at 4758 Washington Avenue, White Bear Lake, MN 55110. Phone: +16514261082. Website: https://www.bennyshaircut.com/. | https://dingalinged-cpu.github.io/registry/c/benny-s-barber-shop-white-bear-lake/
+22. Biby's Hair Studio | trust 20.0 | Biby's Hair Studio is a hair salon in Houston, TX at 175 Greens Road #C, Houston, TX 77060. Phone: +18324611747. Website: https://bibyshairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/bibys-hair-studio-houston/
+23. Blanca's Hair Styling | trust 20.0 | Blanca's Hair Styling is a hair salon in Houston, TX at 228 Harbor Street, Houston, TX 77020. Phone: +17136724767. Website: https://www.blancashairstylingtx.com/. | https://dingalinged-cpu.github.io/registry/c/blancas-hair-styling-houston/
+24. Blend Salon & Skincare | trust 20.0 | Blend Salon & Skincare is a hair salon in Lisle, IL at 1111 Burlington Avenue #102, Lisle, IL 60532. Phone: +16302169296. Website: https://www.blendhairandskincare.com/. | https://dingalinged-cpu.github.io/registry/c/blend-salon-and-skincare-lisle/
+25. Blissful Beauty HTX | trust 20.0 | Blissful Beauty HTX is a hair salon in Houston, TX at 3100 Richmond Avenue #103-1, Houston, TX 77098. Phone: +17133771330. Website: https://blissfulbeauty-htx.square.site/. | https://dingalinged-cpu.github.io/registry/c/blissful-beauty-htx-houston/
+26. Boho Blonde Chicago | trust 20.0 | Boho Blonde Chicago is a hair salon in Chicago, IL at 3740 North Broadway, Chicago, IL 60613. Phone: +17738570913. Website: https://bohoblondechicago.com/. | https://dingalinged-cpu.github.io/registry/c/boho-blonde-chicago-chicago/
+27. BoRics | trust 20.0 | BoRics is a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Phone: +18474708586. Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388. | https://dingalinged-cpu.github.io/registry/c/borics-niles/
+28. Born Cutterz Barbershop | trust 20.0 | Born Cutterz Barbershop is a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/. | https://dingalinged-cpu.github.io/registry/c/born-cutterz-barbershop-humble/
+29. Bourne Blonde | trust 20.0 | Bourne Blonde is a hair salon in Dallas, TX at 4528 Cabell Drive, Dallas, TX 75204. Phone: +12145977907. Website: https://bourne-blonde-dallas.square.site/. | https://dingalinged-cpu.github.io/registry/c/bourne-blonde-dallas/
+30. Bulldog Barber Shop | trust 20.0 | Bulldog Barber Shop is a hair salon in Richardson, TX at 318 South Central Expressway #108, Richardson, TX 75080. Phone: +14694940086. Website: https://www.bulldog-barbershops.com/. | https://dingalinged-cpu.github.io/registry/c/bulldog-barber-shop-richardson/
+31. C'zar Salon & Spa | trust 20.0 | C'zar Salon & Spa is a hair salon in Naperville, IL at 237 West Jefferson Avenue, Naperville, IL 60540. Phone: +16303573444. Website: https://czarspa.com/locations/naperville/. | https://dingalinged-cpu.github.io/registry/c/czar-salon-and-spa-naperville/
+32. Caroline's Hair Design | trust 20.0 | Caroline's Hair Design is a hair salon in Elmwood Park, IL at 12.5 Conti Parkway, Elmwood Park, IL 60707. Phone: +17084531967. Website: https://carolineshairdesign.com/. | https://dingalinged-cpu.github.io/registry/c/carolines-hair-design-elmwood-park/
+33. Charbella Salon | trust 20.0 | Charbella Salon is a hair salon in Chicago, IL at 749 West Irving Park Road, Chicago, IL 60613. Phone: +17739353373. Website: https://www.charbellasalon.com/services. | https://dingalinged-cpu.github.io/registry/c/charbella-salon-chicago/
+34. Chroma Beauty | trust 20.0 | Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/. | https://dingalinged-cpu.github.io/registry/c/chroma-beauty-palos-hills/
+35. Ciara’s Hair Magic | trust 20.0 | Ciara’s Hair Magic is a hair salon in Minneapolis, MN at 4547 Bloomington Avenue South, Minneapolis, MN 55407. Phone: +15072000511. Website: https://ciaras-hair-magic.square.site/. | https://dingalinged-cpu.github.io/registry/c/ciara-s-hair-magic-minneapolis/
+36. City Looks | trust 20.0 | City Looks is a hair salon in Roseville, MN at 1684 Lexington Avenue North, Roseville, MN 55113. Phone: +16514885559. Website: https://www.signaturestyle.com/locations/mn/roseville/city-looks-city-looks-haircuts-16702.html. | https://dingalinged-cpu.github.io/registry/c/city-looks-roseville/
+37. Class Act - Barber/Stylists | trust 20.0 | Class Act - Barber/Stylists is a hair salon in Bayside, WI at 8850 North Port Washington Road #Suite A, Bayside, WI 53217. Phone: +14143529115. Website: https://classactbarber-stylist.com/. | https://dingalinged-cpu.github.io/registry/c/class-act-barber-stylists-bayside/
+38. Clean Cuts | trust 20.0 | Clean Cuts is a hair salon in Saint Paul, MN at 1728 University Avenue, Saint Paul, MN 55104. Phone: +16519173060. Website: https://cleancutsbarbershops.com/. | https://dingalinged-cpu.github.io/registry/c/clean-cuts-saint-paul/
+39. Coil and Bloom at Image Studios | trust 20.0 | Coil and Bloom at Image Studios is a hair salon in Chicago, IL at 460 West Chicago Avenue #135, Chicago, IL 60654. Phone: +12246318979. Website: https://coilandbloom.com/. | https://dingalinged-cpu.github.io/registry/c/coil-and-bloom-at-image-studios-chicago/
+40. Colorbar 1025 | trust 20.0 | Colorbar 1025 is a hair salon in Milwaukee, WI at 1025 West Historic Mitchell Street, Milwaukee, WI 53204. Phone: +14145956284. Website: https://my-site-109443-101022.square.site/. | https://dingalinged-cpu.github.io/registry/c/colorbar-1025-milwaukee/
+41. Company Bliss Salon | trust 20.0 | Company Bliss Salon is a hair salon in Naperville, IL at 1160 East Ogden Avenue #104, Naperville, IL 60563. Phone: +13314724747. Website: https://www.companyblisssalon.com/. | https://dingalinged-cpu.github.io/registry/c/company-bliss-salon-naperville/
+42. Cost Cutters | trust 20.0 | Cost Cutters is a hair salon in Houston, TX at 9650 Westheimer Road #200, Houston, TX 77063. Phone: +17132668700. Website: https://www.costcutters.com/locations/tx/houston/woodlake-square-haircuts-15697.html. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-houston-n9611895944/
+43. Cost Cutters | trust 20.0 | Cost Cutters is a hair salon in Houston, TX at 1510 Eldridge Parkway #128, Houston, TX 77077. Phone: +12817592221. Website: https://www.costcutters.com/locations/tx/houston/parkway-village-haircuts-15712.html. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-houston-w834041979/
+44. Curl Revolution Salon | trust 20.0 | Curl Revolution Salon is a hair salon in Frisco, TX at 9200 Lebanon Road #40-241, Frisco, TX 75035. Phone: +12147075554. Website: https://curlrevolution.com/. | https://dingalinged-cpu.github.io/registry/c/curl-revolution-salon-frisco/
+45. Cutflix | trust 20.0 | Cutflix is a hair salon in Milwaukee, WI at 3923 South 76th Street, Milwaukee, WI 53220. Phone: +14149300020. Website: https://www.cutflixmke.com/. | https://dingalinged-cpu.github.io/registry/c/cutflix-milwaukee/
+46. Cutters Lounge | trust 20.0 | Cutters Lounge is a hair salon in Atlanta, GA at 1 Moreland Avenue Southeast #Suite D, Atlanta, GA 30316. Phone: +14042281025. Website: https://cuttersloungesalon.com/. | https://dingalinged-cpu.github.io/registry/c/cutters-lounge-atlanta/
+47. Cutthroat | trust 20.0 | Cutthroat is a hair salon in Houston, TX at 2203 Washington Avenue, Houston, TX 77007. Phone: +17138647000. Website: https://www.cutthroatbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/cutthroat-houston/
+48. Cutting Group | trust 20.0 | Cutting Group is a hair salon in Milwaukee, WI at 2216 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142269998. Website: https://cuttinggroupmilwaukee.com/. | https://dingalinged-cpu.github.io/registry/c/cutting-group-milwaukee/
+49. Doll Revolution | trust 20.0 | Doll Revolution is a hair salon in Chicago, IL at 3635 West Montrose Avenue, Chicago, IL 60618. Phone: +17737705908. Website: https://www.iamdollrevolution.com/. | https://dingalinged-cpu.github.io/registry/c/doll-revolution-chicago/
+50. Drybar | trust 20.0 | Drybar is a hair salon in Marietta, GA at 4475 Roswell Road #930, Marietta, GA 30062. Phone: +14704127580. Website: https://avenueeastcobb.com/directory/drybar-salon-blowouts-avenue-east-cobb-marietta-georgia/. | https://dingalinged-cpu.github.io/registry/c/drybar-marietta/
 
-## More hair salon listings (2166 total; top 50 unpaid shown)
+## More hair salon listings (2758 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/hair-salon.jsonl
 - Chicago, IL: 220 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-chicago-il/
 - Houston, TX: 191 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-houston-tx/
 - Milwaukee, WI: 148 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-milwaukee-wi/
 - Minneapolis, MN: 108 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-minneapolis-mn/
 - Dallas, TX: 90 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-dallas-tx/
+- Atlanta, GA: 88 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-atlanta-ga/
+- Cobb County, GA: 79 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-cobb-county-ga/
 - Harris County, TX: 78 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-harris-county-tx/
 - Saint Paul, MN: 65 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-saint-paul-mn/
+- Madison, WI: 60 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-madison-wi/
+- Marietta, GA: 38 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-marietta-ga/
 - Naperville, IL: 32 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-naperville-il/
 - Addison, TX: 29 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-addison-tx/
+- Smyrna, GA: 29 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-smyrna-ga/
 - Denton, TX: 28 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-denton-tx/
+- Kennesaw, GA: 28 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-kennesaw-ga/
+- Gwinnett County, GA: 27 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-gwinnett-county-ga/
 - Frisco, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-frisco-tx/
 - Saint Louis Park, MN: 24 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-saint-louis-park-mn/
 - Carrollton, TX: 22 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-carrollton-tx/
@@ -86,40 +93,53 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Racine, WI: 15 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-racine-wi/
 - Katy, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-katy-tx/
 - Mckinney, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-mckinney-tx/
+- Roswell, GA: 14 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-roswell-ga/
+- Alpharetta, GA: 14 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-alpharetta-ga/
+- Woodstock, GA: 14 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-woodstock-ga/
+- Sun Prairie, WI: 13 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-sun-prairie-wi/
 - Arlington Heights, IL: 13 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-arlington-heights-il/
 - Eagan, MN: 13 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-eagan-mn/
 - Countryside, IL: 12 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-countryside-il/
 - Des Plaines, IL: 12 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-des-plaines-il/
 - La Grange, IL: 12 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-la-grange-il/
+- Dekalb County, GA: 11 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-dekalb-county-ga/
 - Eden Prairie, MN: 11 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-eden-prairie-mn/
 - Sugar Land, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-sugar-land-tx/
 - Flower Mound, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-flower-mound-tx/
 - Humble, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-humble-tx/
+- Middleton, WI: 10 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-middleton-wi/
 - Orland Park, IL: 10 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-orland-park-il/
+- Decatur, GA: 10 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-decatur-ga/
 - Edina, MN: 10 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-edina-mn/
 - Maple Grove, MN: 10 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-maple-grove-mn/
 - Grapevine, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-grapevine-tx/
 - Cedar Hill, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-cedar-hill-tx/
 - Montgomery County, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-montgomery-county-tx/
-- Niles, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-niles-il/
-- New Lenox, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-new-lenox-il/
 - Waukesha, WI: 9 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-waukesha-wi/
 - Brookfield, WI: 9 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-brookfield-wi/
+- Niles, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-niles-il/
+- New Lenox, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-new-lenox-il/
 - Rockwall, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-rockwall-tx/
 - Richmond, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-richmond-tx/
 - Fort Bend County, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-fort-bend-county-tx/
 - Garland, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-garland-tx/
+- West Bend, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-west-bend-wi/
 - Bolingbrook, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-bolingbrook-il/
 - Forest Park, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-forest-park-il/
 - Downers Grove, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-downers-grove-il/
+- Morrow, GA: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-morrow-ga/
+- Stone Mountain, GA: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-stone-mountain-ga/
+- Forest Park, GA: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-forest-park-ga/
 - Roseville, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-roseville-mn/
 - Minnetonka, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-minnetonka-mn/
-- West Bend, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-west-bend-wi/
 - Rosenberg, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-rosenberg-tx/
 - Pearland, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-pearland-tx/
 - Wylie, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-wylie-tx/
+- Evansville, WI: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-evansville-wi/
 - Orland Hills, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-orland-hills-il/
 - Lombard, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-lombard-il/
+- Lovejoy, GA: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-lovejoy-ga/
+- Douglasville, GA: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-douglasville-ga/
 - Coon Rapids, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-coon-rapids-mn/
 - Plymouth, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-plymouth-mn/
 - Bedford, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-bedford-tx/
@@ -127,6 +147,9 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Southlake, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-southlake-tx/
 - Coppell, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-coppell-tx/
 - Conroe, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-conroe-tx/
+- Greenfield, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-greenfield-wi/
+- New Berlin, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-new-berlin-wi/
+- Shorewood, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-wi/
 - Wheaton, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-wheaton-il/
 - Vernon Hills, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-vernon-hills-il/
 - Park Ridge, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-park-ridge-il/
@@ -134,15 +157,18 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Skokie, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-skokie-il/
 - Wauconda, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-wauconda-il/
 - Westchester, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-westchester-il/
+- Lilburn, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-lilburn-ga/
+- Johns Creek, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-johns-creek-ga/
+- Clayton County, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-clayton-county-ga/
 - Rogers, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-rogers-mn/
 - West Saint Paul, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-west-saint-paul-mn/
 - Bloomington, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-bloomington-mn/
-- Greenfield, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-greenfield-wi/
-- New Berlin, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-new-berlin-wi/
-- Shorewood, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-wi/
 - Hurst, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-hurst-tx/
 - Royse City, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-royse-city-tx/
 - Allen, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-allen-tx/
+- Oak Creek, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-oak-creek-wi/
+- Mount Pleasant, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-mount-pleasant-wi/
+- Franklin, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-franklin-wi/
 - Mount Prospect, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-mount-prospect-il/
 - Oak Lawn, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-oak-lawn-il/
 - Oak Park, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-oak-park-il/
@@ -150,12 +176,13 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Homer Glen, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-homer-glen-il/
 - Harwood Heights, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-harwood-heights-il/
 - Glenview, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-glenview-il/
+- Austell, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-austell-ga/
+- Brookhaven, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-brookhaven-ga/
+- Tucker, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-tucker-ga/
+- Forsyth County, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-forsyth-county-ga/
 - White Bear Lake, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-white-bear-lake-mn/
 - Crystal, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-crystal-mn/
 - New Hope, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-new-hope-mn/
-- Oak Creek, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-oak-creek-wi/
-- Mount Pleasant, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-mount-pleasant-wi/
-- Franklin, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-franklin-wi/
 - Whiting, IN: 5 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-whiting-in/
 - Stafford, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-stafford-tx/
 - Fate, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-fate-tx/
@@ -166,6 +193,9 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Forney, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-forney-tx/
 - Waxahachie, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-waxahachie-tx/
 - League City, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-league-city-tx/
+- Union Grove, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-union-grove-wi/
+- Burlington, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-burlington-wi/
+- West Allis, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-west-allis-wi/
 - Woodridge, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-woodridge-il/
 - Romeoville, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-romeoville-il/
 - La Grange Park, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-la-grange-park-il/
@@ -174,12 +204,12 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Palatine, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-palatine-il/
 - Western Springs, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-western-springs-il/
 - Wheeling, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-wheeling-il/
+- Doraville, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-doraville-ga/
+- Acworth, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-acworth-ga/
+- Peachtree Corners, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-peachtree-corners-ga/
 - Vadnais Heights, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-vadnais-heights-mn/
 - Shakopee, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-shakopee-mn/
 - Brooklyn Park, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-brooklyn-park-mn/
-- Union Grove, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-union-grove-wi/
-- Burlington, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-burlington-wi/
-- West Allis, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-west-allis-wi/
 - Pasadena, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-pasadena-tx/
 - Galveston County, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-galveston-county-tx/
 - Kaufman, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-kaufman-tx/
@@ -189,19 +219,31 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Deer Park, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-deer-park-tx/
 - Corinth, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-corinth-tx/
 - Prosper, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-prosper-tx/
+- Verona, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-verona-wi/
+- Town Of Norway, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-town-of-norway-wi/
+- Fitchburg, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-fitchburg-wi/
+- Monona, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-monona-wi/
+- Caledonia, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-caledonia-wi/
+- Stoughton, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-stoughton-wi/
 - Lemont Township, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-lemont-township-il/
 - Flossmoor, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-flossmoor-il/
+- Dupage County, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-dupage-county-il/
 - Tinley Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-tinley-park-il/
 - Indian Head Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-indian-head-park-il/
 - Joliet, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-joliet-il/
 - Norridge, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-norridge-il/
+- Fulton County, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-fulton-county-ga/
+- Union City, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-union-city-ga/
+- Mableton, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-mableton-ga/
+- Dunwoody, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-dunwoody-ga/
+- Paulding County, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-paulding-county-ga/
+- Jonesboro, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-jonesboro-ga/
+- Suwanee, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-suwanee-ga/
 - Robbinsdale, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-robbinsdale-mn/
 - New Brighton, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-new-brighton-mn/
 - Champlin, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-champlin-mn/
 - Chanhassen, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-chanhassen-mn/
 - Richfield, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-richfield-mn/
-- Town Of Norway, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-town-of-norway-wi/
-- Caledonia, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-caledonia-wi/
 - Sachse, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-sachse-tx/
 - Magnolia, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-magnolia-tx/
 - South Houston, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-south-houston-tx/
@@ -214,6 +256,12 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Mansfield, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-mansfield-tx/
 - Highland Village, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-highland-village-tx/
 - Cleveland, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-cleveland-tx/
+- Saint Francis, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-saint-francis-wi/
+- Fox Point, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-fox-point-wi/
+- Shorewood Hills, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-hills-wi/
+- Menomonee Falls, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-menomonee-falls-wi/
+- Waunakee, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-waunakee-wi/
+- Columbus, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-columbus-wi/
 - Maywood, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-maywood-il/
 - Oak Forest, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-oak-forest-il/
 - Wilmette, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-wilmette-il/
@@ -236,6 +284,12 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Burr Ridge, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-burr-ridge-il/
 - Melrose Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-melrose-park-il/
 - Lincolnshire, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-lincolnshire-il/
+- South Fulton, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-south-fulton-ga/
+- Douglas County, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-douglas-county-ga/
+- Hiram, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-hiram-ga/
+- Sandy Springs, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-sandy-springs-ga/
+- Coweta County, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-coweta-county-ga/
+- Sugar Hill, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-sugar-hill-ga/
 - Wayzata, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-wayzata-mn/
 - Saint Michael, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-saint-michael-mn/
 - South Saint Paul, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-south-saint-paul-mn/
@@ -244,9 +298,6 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Maplewood, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-maplewood-mn/
 - Shorewood, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-mn/
 - Inver Grove Heights, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-inver-grove-heights-mn/
-- Saint Francis, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-saint-francis-wi/
-- Fox Point, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-fox-point-wi/
-- Menomonee Falls, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-menomonee-falls-wi/
 - Schererville, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-schererville-in/
 - Dyer, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-dyer-in/
 - Munster, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-munster-in/
@@ -269,6 +320,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Crandall, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-crandall-tx/
 - Colleyville, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-colleyville-tx/
 - Bellaire, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-bellaire-tx/
+- Collin County, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-collin-county-tx/
 - Lake Dallas, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-lake-dallas-tx/
 - Hickory Creek, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-hickory-creek-tx/
 - Spring Valley Village, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-spring-valley-village-tx/
@@ -279,6 +331,17 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Missouri City, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-missouri-city-tx/
 - Midlothian, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-midlothian-tx/
 - Alvarado, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-alvarado-tx/
+- Yorkville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-yorkville-wi/
+- Bayside, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-bayside-wi/
+- Mount Horeb, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-mount-horeb-wi/
+- South Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-south-milwaukee-wi/
+- Slinger, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-slinger-wi/
+- Cedarburg, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-cedarburg-wi/
+- Village Of Pewaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-village-of-pewaukee-wi/
+- Oregon, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-oregon-wi/
+- Mcfarland, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-mcfarland-wi/
+- Town Of Dover, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-town-of-dover-wi/
+- Sturtevant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-sturtevant-wi/
 - Lisle, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-lisle-il/
 - Palos Hills, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-palos-hills-il/
 - Bellwood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-bellwood-il/
@@ -313,6 +376,17 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Highland Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-highland-park-il/
 - Roselle, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-roselle-il/
 - Schiller Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-schiller-park-il/
+- Cherokee County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-cherokee-county-ga/
+- Henry County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-henry-county-ga/
+- Powder Springs, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-powder-springs-ga/
+- Lake City, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-lake-city-ga/
+- Fayetteville, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-fayetteville-ga/
+- Clarkston, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-clarkston-ga/
+- Milton, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-milton-ga/
+- Hapeville, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-hapeville-ga/
+- Peachtree City, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-peachtree-city-ga/
+- Chamblee, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-chamblee-ga/
+- Mcdonough, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-mcdonough-ga/
 - Little Canada, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-little-canada-mn/
 - Hugo, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-hugo-mn/
 - Newport, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-newport-mn/
@@ -328,14 +402,6 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Excelsior, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-excelsior-mn/
 - Shoreview, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-shoreview-mn/
 - Chaska, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-chaska-mn/
-- Yorkville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-yorkville-wi/
-- Bayside, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-bayside-wi/
-- South Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-south-milwaukee-wi/
-- Slinger, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-slinger-wi/
-- Cedarburg, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-cedarburg-wi/
-- Village Of Pewaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-village-of-pewaukee-wi/
-- Town Of Dover, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-town-of-dover-wi/
-- Sturtevant, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-sturtevant-wi/
 - Hammond, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-hammond-in/
 - Griffith, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-griffith-in/
 - Highland, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/hair-salon-highland-in/
@@ -348,7 +414,7 @@ Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked
 - Google Keyword Planner top-of-page bid for 'hair salon near me': $0.55-$2.85 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2166
+- Registry businesses competing: 2758
 - Equivalent Google Ads cost per month: ~$47,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

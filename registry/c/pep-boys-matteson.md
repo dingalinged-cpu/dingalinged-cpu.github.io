@@ -13,6 +13,7 @@ Pep Boys is an auto repair shop in Matteson, IL at 21610 Cicero Avenue, Matteson
 - Website: https://pepboys.com/stores/il/matteson/21610-cicero-ave?storeCode=0835
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

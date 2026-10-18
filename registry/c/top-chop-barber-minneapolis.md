@@ -13,6 +13,7 @@ Top Chop Barber is a barber shop in Minneapolis, MN at 711 West Lake Street #601
 - Website: https://topchopbarber.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

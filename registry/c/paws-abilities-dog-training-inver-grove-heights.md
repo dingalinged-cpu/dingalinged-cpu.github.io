@@ -13,6 +13,7 @@ Paws Abilities Dog Training is a pet store in Inver Grove Heights, MN at 6475 Ca
 - Website: https://pawsabilitiesmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 53.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

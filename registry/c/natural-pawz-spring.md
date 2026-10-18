@@ -13,6 +13,7 @@ Natural Pawz is a pet store in Spring, TX at 2174 Spring Stuebner Road #Suite 34
 - Website: https://naturalpawz.com/a/pages/locations/103/springwoods
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

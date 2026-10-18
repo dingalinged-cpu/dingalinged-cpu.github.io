@@ -13,6 +13,7 @@ Visionworks is an eye care practice in Pearland, TX at 2730 Smith Ranch Road #11
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

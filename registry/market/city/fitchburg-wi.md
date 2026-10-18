@@ -1,0 +1,58 @@
+Keyword market for Fitchburg, WI: 48 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Madison, WI metro (US volume x population share).
+
+# Top keywords in Fitchburg, WI
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage fitchburg wi | searches/mo 10,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-fitchburg-wi/
+2. car wash fitchburg wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/car-wash-fitchburg-wi/
+3. dentist fitchburg wi | searches/mo 3,800 (est) | CPC $4.70 | value $18,000 | Google Ads equiv $970/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-fitchburg-wi/
+4. gym fitchburg wi | searches/mo 3,800 (est) | CPC $1.67 | value $6,300 | Google Ads equiv $460/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/gym-fitchburg-wi/
+5. oil change fitchburg wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-fitchburg-wi/
+6. hair salon fitchburg wi | searches/mo 3,100 (est) | CPC $0.55 | value $1,700 | Google Ads equiv $97.00/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-fitchburg-wi/
+7. nail salon fitchburg wi | searches/mo 2,100 (est) | CPC $0.61 | value $1,300 | Google Ads equiv $73.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-fitchburg-wi/
+8. plumber fitchburg wi | searches/mo 1,700 (est) | CPC $12.04 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/plumber-fitchburg-wi/
+9. barber shop fitchburg wi | searches/mo 1,400 (est) | CPC $0.70 | value $980 | Google Ads equiv $56.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/barber-shop-fitchburg-wi/
+10. mechanic fitchburg wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/mechanic-fitchburg-wi/
+11. vet fitchburg wi | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/vet-fitchburg-wi/
+12. haircut fitchburg wi | searches/mo 760 (est) | CPC $4.62 | value $3,500 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-fitchburg-wi/
+13. auto repair fitchburg wi | searches/mo 620 (est) | CPC $4.35 | value $2,700 | Google Ads equiv $150/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-fitchburg-wi/
+14. chiropractor fitchburg wi | searches/mo 510 (est) | CPC $4.76 | value $2,400 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-fitchburg-wi/
+15. dog boarding fitchburg wi | searches/mo 510 (est) | CPC $4.06 | value $2,100 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-fitchburg-wi/
+
+## By CPC
+1. plumbing services fitchburg wi | searches/mo 100 (est) | CPC $13.90 | value $1,400 | Google Ads equiv $89.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/plumbing-services-fitchburg-wi/
+2. plumber fitchburg wi | searches/mo 1,700 (est) | CPC $12.04 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/plumber-fitchburg-wi/
+3. concrete contractor fitchburg wi | searches/mo 83.00 (est) | CPC $8.33 | value $690 | Google Ads equiv $44.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/concrete-contractor-fitchburg-wi/
+4. flooring companies fitchburg wi | searches/mo 38.00 (est) | CPC $8.33 | value $320 | Google Ads equiv $20.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/flooring-companies-fitchburg-wi/
+5. plumbers fitchburg wi | searches/mo 7.50 (est) | CPC $8.33 | value $62.00 | Google Ads equiv $4.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/plumbers-fitchburg-wi/
+6. storage units fitchburg wi | searches/mo 460 (est) | CPC $8.33 | value $3,800 | Google Ads equiv $240/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/storage-units-fitchburg-wi/
+7. bakery fitchburg wi | searches/mo 460 (est) | CPC $7.17 | value $3,300 | Google Ads equiv $250/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/bakery-fitchburg-wi/
+8. caterers fitchburg wi | searches/mo 460 (est) | CPC $7.17 | value $3,300 | Google Ads equiv $250/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/caterers-fitchburg-wi/
+9. event venues fitchburg wi | searches/mo 460 (est) | CPC $7.17 | value $3,300 | Google Ads equiv $250/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-fitchburg-wi/
+10. florist fitchburg wi | searches/mo 460 (est) | CPC $7.17 | value $3,300 | Google Ads equiv $250/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/florist-fitchburg-wi/
+11. dance studio fitchburg wi | searches/mo 83.00 (est) | CPC $6.17 | value $510 | Google Ads equiv $37.00/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dance-studio-fitchburg-wi/
+12. martial arts fitchburg wi | searches/mo 620 (est) | CPC $6.17 | value $3,800 | Google Ads equiv $270/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/martial-arts-fitchburg-wi/
+13. staffing agency fitchburg wi | searches/mo 290 (est) | CPC $5.87 | value $1,700 | Google Ads equiv $96.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/staffing-agency-fitchburg-wi/
+14. tax preparer fitchburg wi | searches/mo 130 (est) | CPC $5.87 | value $760 | Google Ads equiv $43.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-fitchburg-wi/
+15. daycare fitchburg wi | searches/mo 460 (est) | CPC $4.81 | value $2,200 | Google Ads equiv $130/mo | our featured min $20/mo | registry competitors 8 | https://dingalinged-cpu.github.io/registry/k/daycare-fitchburg-wi/
+
+## By value (searches x CPC)
+1. massage fitchburg wi | searches/mo 10,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $46,000 | Google Ads equiv $2,600/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-fitchburg-wi/
+2. plumber fitchburg wi | searches/mo 1,700 (est) | CPC $12.04 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/plumber-fitchburg-wi/
+3. dentist fitchburg wi | searches/mo 3,800 (est) | CPC $4.70 | value $18,000 | Google Ads equiv $970/mo | our featured min $100/mo | registry competitors 5 | https://dingalinged-cpu.github.io/registry/k/dentist-fitchburg-wi/
+4. car wash fitchburg wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/car-wash-fitchburg-wi/
+5. oil change fitchburg wi | searches/mo 3,800 (est) | CPC $4.35 | value $17,000 | Google Ads equiv $920/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/oil-change-fitchburg-wi/
+6. gym fitchburg wi | searches/mo 3,800 (est) | CPC $1.67 | value $6,300 | Google Ads equiv $460/mo | our featured min $50/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/gym-fitchburg-wi/
+7. mechanic fitchburg wi | searches/mo 1,400 (est) | CPC $4.35 | value $6,100 | Google Ads equiv $340/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/mechanic-fitchburg-wi/
+8. vet fitchburg wi | searches/mo 1,100 (est) | CPC $4.06 | value $4,500 | Google Ads equiv $290/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/vet-fitchburg-wi/
+9. haircut fitchburg wi | searches/mo 760 (est) | CPC $4.62 | value $3,500 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/haircut-fitchburg-wi/
+10. auto repair fitchburg wi | searches/mo 620 (est) | CPC $4.35 | value $2,700 | Google Ads equiv $150/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-fitchburg-wi/
+11. chiropractor fitchburg wi | searches/mo 510 (est) | CPC $4.76 | value $2,400 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-fitchburg-wi/
+12. dog boarding fitchburg wi | searches/mo 510 (est) | CPC $4.06 | value $2,100 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dog-boarding-fitchburg-wi/
+13. financial advisor fitchburg wi | searches/mo 510 (est) | CPC $3.39 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-fitchburg-wi/
+14. hair salon fitchburg wi | searches/mo 3,100 (est) | CPC $0.55 | value $1,700 | Google Ads equiv $97.00/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-fitchburg-wi/
+15. real estate agent fitchburg wi | searches/mo 420 (est) | CPC $3.61 | value $1,500 | Google Ads equiv $130/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-fitchburg-wi/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

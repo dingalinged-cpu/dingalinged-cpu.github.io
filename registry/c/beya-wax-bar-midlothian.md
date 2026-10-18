@@ -13,6 +13,7 @@ Beya Wax Bar is a waxing salon in Midlothian, IL at 4708 147th Street #Suite 1, 
 - Website: https://www.beyawaxbar.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-14:00
+- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Refine Dentistry is a dentist in Stafford, TX at 11221 West Airport Boulevard, S
 - Website: https://www.refinedentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

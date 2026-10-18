@@ -1,0 +1,24 @@
+Body Laboratory is a gym in Marietta, GA at 2000 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +14047232729.
+
+# Body Laboratory
+
+- Category: gym
+- Services: gym
+- Address: 2000 Powers Ferry Road Southeast, Marietta, GA 30067
+- City: Marietta
+- State: GA
+- ZIP: 30067
+- Coordinates: 33.9062052, -84.4650488
+- Phone: +14047232729
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): "by appointment"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/body-laboratory-marietta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/body-laboratory-marietta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11125354077 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

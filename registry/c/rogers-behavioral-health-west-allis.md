@@ -13,6 +13,7 @@ Rogers Behavioral Health is a therapy practice in West Allis, WI at 2424 South 1
 - Website: https://rogersbh.org/locations/west-allis/west-allis-child-and-adolescent-center
 - Email: info@rogersbh.org
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

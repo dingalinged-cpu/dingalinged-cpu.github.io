@@ -13,6 +13,7 @@ Dental Associates is a dentist in Milwaukee, WI. Phone: +14147783600. Website: h
 - Website: https://www.dentalassociates.com/locations/milwaukee-downtown
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th 10:00-18:00; We 10:00-18:00; Fr,Sa[1] 07:00-12:00
+- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ USA Ninja Challenge is a gym in Royse City, TX at 6705 I-30 Frontage Road, Royse
 - Website: https://www.ninjaroysecity.com/
 - Email: roysecity@usaninjachallenge.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

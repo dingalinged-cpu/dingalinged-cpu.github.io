@@ -13,6 +13,7 @@ Orange Rhino Insurance is an insurance agent in Dallas, TX at 2355 Gus Thomasson
 - Website: https://www.myorangerhino.com/contact.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

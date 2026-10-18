@@ -13,6 +13,7 @@ Pure Barre is a gym in Allen, TX at 972 Village Green Drive, Allen, TX 75013. Ph
 - Website: https://www.purebarre.com/location/allen-tx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Mills Orthodontics is a dentist in Richardson, TX at 100 North Central Expresswa
 - Website: https://www.millsorthodontics.com/
 - Email: info@millsorthodontics.com
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00
+- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ The Professionals Moving and Storage is a moving company in Chicago, IL at 415 W
 - Website: https://professionalsmovingandstorage.com/
 - Email: info@professionalsmovingandstorage.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00, Sa 10:00-13:00
+- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

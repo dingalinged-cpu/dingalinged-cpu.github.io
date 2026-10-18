@@ -13,6 +13,7 @@ Smiles At France is a dentist in Minneapolis, MN at 4999 France Avenue South #23
 - Website: https://smilesatfrance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

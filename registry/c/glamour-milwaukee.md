@@ -13,6 +13,7 @@ Glamour is a hair salon in Milwaukee, WI at 5919 West North Avenue, Milwaukee, W
 - Website: https://glamourhb.com/
 - Email: n/a
 - Opening hours (OSM syntax): 11:00-16:00
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

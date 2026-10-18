@@ -13,6 +13,7 @@ Modern Press is a printing service in New Brighton, MN at 808 1st Street Southwe
 - Website: https://superprinter.com/
 - Email: info@superprinter.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Otto’s Wine & Spirits is a liquor store in Bayside, WI at 8850 North Port Wash
 - Website: https://ottoswineandspirits.com/locations/ottos-bayside-wine-spirits/
 - Email: bayside@ottoswineandspirits.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-17:00
+- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

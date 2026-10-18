@@ -13,6 +13,7 @@ Michael Haas Brophy, M.D. is a therapy practice in Bedford, TX at 2700 Tibbets D
 - Website: https://michaelhaasbrophymd.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 14:00-17:00; Fr 10:00-13:00; Sa-Su off
+- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

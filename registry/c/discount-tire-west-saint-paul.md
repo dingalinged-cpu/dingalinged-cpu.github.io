@@ -13,6 +13,7 @@ Discount Tire is a tire shop in West Saint Paul, MN at 1540 Robert Street South,
 - Website: https://www.discounttire.com/store/mn/west-st-paul/s/1796
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00, Sa 08:00-17:00
+- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

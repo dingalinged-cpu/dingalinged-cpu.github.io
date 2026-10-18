@@ -13,6 +13,7 @@ Crash Champions is an auto repair shop in Webster, TX. Phone: +12812125000. Webs
 - Website: https://crashchampions.com/locations/crash-champions-clear-lake
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

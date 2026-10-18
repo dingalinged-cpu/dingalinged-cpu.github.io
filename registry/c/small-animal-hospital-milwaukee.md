@@ -13,6 +13,7 @@ Small Animal Hospital is a veterinarian in Milwaukee, WI. Phone: +14142760701. W
 - Website: https://www.smallanimalhospitalllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Th 07:30-19:00; Tu,Fr 07:30-17:00; Sa 09:00-12:00
+- Registry Score: 64.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

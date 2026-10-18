@@ -13,6 +13,7 @@ Cutthroat is a hair salon in Houston, TX at 2203 Washington Avenue, Houston, TX 
 - Website: https://www.cutthroatbarbers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-19:00; Fr 09:00-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

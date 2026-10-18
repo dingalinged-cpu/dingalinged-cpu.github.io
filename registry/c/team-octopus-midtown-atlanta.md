@@ -1,0 +1,24 @@
+Team Octopus Midtown is a martial arts school in Atlanta, GA at 503 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +16786663838. Website: https://mmaatl.com/midtown-location/.
+
+# Team Octopus Midtown
+
+- Category: martial arts
+- Services: martial arts
+- Address: 503 Amsterdam Avenue Northeast, Atlanta, GA
+- City: Atlanta
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.7879408, -84.3699491
+- Phone: +16786663838
+- Website: https://mmaatl.com/midtown-location/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/team-octopus-midtown-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/team-octopus-midtown-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13472583661 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,6 +13,7 @@ Pampered Pooch Playground is a pet store in Saint Louis Park, MN at 7020 Walker 
 - Website: https://www.pamperedpoochplayground.com/?y_source=1_MjU3NDY4OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 56.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

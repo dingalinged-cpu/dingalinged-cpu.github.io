@@ -1,0 +1,24 @@
+Barefoot Massage Health Spa is a massage studio in Atlanta, GA at 826 Juniper Street Northeast, Atlanta, GA.
+
+# Barefoot Massage Health Spa
+
+- Category: massage
+- Services: massage
+- Address: 826 Juniper Street Northeast, Atlanta, GA
+- City: Atlanta
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.7771552, -84.3830291
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/barefoot-massage-health-spa-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/barefoot-massage-health-spa-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13070138150 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

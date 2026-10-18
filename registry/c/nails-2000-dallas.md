@@ -13,6 +13,7 @@ Nails 2000 is a nail salon in Dallas, TX at 9440 Garland Road #198, Dallas, TX 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 54.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

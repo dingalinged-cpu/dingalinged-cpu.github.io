@@ -13,6 +13,7 @@ Hearst Elementary School is a preschool in Chicago, IL at 4640 South Lamon Avenu
 - Website: https://www.hearst.cps.edu/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 51/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

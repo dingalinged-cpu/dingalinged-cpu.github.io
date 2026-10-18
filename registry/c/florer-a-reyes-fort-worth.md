@@ -13,6 +13,7 @@ Florería Reyes is a florist in Fort Worth, TX at 2617 Handley Drive, Fort Worth
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-14:00; Su 09:00-14:00
+- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

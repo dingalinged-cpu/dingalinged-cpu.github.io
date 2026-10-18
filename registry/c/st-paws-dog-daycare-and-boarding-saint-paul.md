@@ -13,6 +13,7 @@ St. Paws Dog Daycare & Boarding is a dog boarding facility in Saint Paul, MN at 
 - Website: https://stpaws.dog/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa-Su 09:00-17:00
+- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

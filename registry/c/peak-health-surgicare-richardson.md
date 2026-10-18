@@ -13,6 +13,7 @@ Peak Health Surgicare is an orthopedic surgeon in Richardson, TX at 610 North Co
 - Website: https://horizonmedcenter.com/locations/horizon-richardson/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00
+- Registry Score: 62/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

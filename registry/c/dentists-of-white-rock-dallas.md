@@ -13,6 +13,7 @@ Dentists of White Rock is a dentist in Dallas, TX at 9323 Garland Road #105, Dal
 - Website: https://www.dentistsofwhiterock.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Rosewood Funeral Home is a funeral home in Porter, TX at 22271 Eastex Freeway, P
 - Website: https://www.rosewood.cc/
 - Email: info@rosewood.cc
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ The Scarlet Barbell Club is a gym in New Caney, TX at 18790 Highway 59, New Cane
 - Website: https://www.thescarletbarbellclub.com/
 - Email: thescarletbarbellclub@gmail.com
 - Opening hours (OSM syntax): Mo-Su 09:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

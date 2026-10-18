@@ -13,6 +13,7 @@ Fidelity Investments is a financial advisor in Edina, MN at 7740 France Avenue S
 - Website: https://www.fidelity.com/branches/investor-center-Minneapolis-Edina-Minnesota-55435
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Registry Score: 52.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Johnsen Schmaling Architects is an architect in Milwaukee, WI. Phone: +141428790
 - Website: https://www.johnsenschmaling.com/
 - Email: info@johnsenschmaling.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

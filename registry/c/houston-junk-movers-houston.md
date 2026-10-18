@@ -13,6 +13,7 @@ Houston Junk Movers is a moving company in Houston, TX at 9639 Hillcroft Avenue,
 - Website: https://www.houstonjunkmovers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

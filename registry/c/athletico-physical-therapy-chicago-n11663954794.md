@@ -13,6 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 1511 E
 - Website: https://www.athletico.com/locations/hyde-park-west/
 - Email: HydeParkWest@athletico.com
 - Opening hours (OSM syntax): Mo-Th 07:00-20:00; Fr 07:00-18:30; Sa 07:00-12:00
+- Registry Score: 54/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

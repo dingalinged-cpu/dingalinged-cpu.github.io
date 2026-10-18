@@ -13,6 +13,7 @@ WING 8 Pest Services is a pest control company in Forney, TX at 30 Mustang Ct., 
 - Website: https://wing8pest.com/
 - Email: customerservice@wing8pest.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
+- Registry Score: 58.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

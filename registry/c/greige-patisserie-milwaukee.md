@@ -13,6 +13,7 @@ Greige Patisserie is a bakery in Milwaukee, WI at 408 West Florida Street #104, 
 - Website: https://www.greigemke.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Sa 07:30-14:00; Su 08:00-12:00
+- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Spec's is a liquor store in Magnolia, TX at 3588 FM 1488, Magnolia, TX 77354.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su closed
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

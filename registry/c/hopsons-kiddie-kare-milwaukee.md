@@ -13,6 +13,7 @@ Hopson's Kiddie Kare is a preschool in Milwaukee, WI at 323 East Garfield Avenue
 - Website: https://www.hopsonskiddiekare.com.previewc45.carrierzone.com/
 - Email: jhopson1@wi.rr.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-23:00
+- Registry Score: 64/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

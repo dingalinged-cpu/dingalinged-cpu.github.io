@@ -13,6 +13,7 @@ MFAH Gift Shop is a gift shop in Houston, TX at 5601 Main Street, Houston, TX 77
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu,We 10:00-17:00; Th 10:00-21:00; Fr,Sa 10:00-19:00; Su 12:15-19:00; Nov Th[4] off; Dec 25 off
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

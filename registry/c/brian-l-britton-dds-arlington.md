@@ -13,6 +13,7 @@ Brian L. Britton, DDS is a dentist in Arlington, TX at 4821 West Arkansas Lane, 
 - Website: https://www.drbrianbritton.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

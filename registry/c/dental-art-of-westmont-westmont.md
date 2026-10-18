@@ -13,6 +13,7 @@ Dental Art Of Westmont is a dentist in Westmont, IL at 6418 South Cass Avenue, W
 - Website: https://westmontdental.com/
 - Email: atassidds@gmail.com
 - Opening hours (OSM syntax): Mo 10:00-18:00; Tu off; We 10:00-1800 ; Th 09:00-15:00 ; Sat 09:00-15:00
+- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

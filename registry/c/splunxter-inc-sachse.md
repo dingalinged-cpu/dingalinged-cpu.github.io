@@ -13,6 +13,7 @@ Splunxter, Inc. is a business consultant in Sachse, TX at 5706 Pecan Grove Drive
 - Website: https://www.splunxter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 57.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

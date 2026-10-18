@@ -13,6 +13,7 @@ Pinnacle Dental is a dentist in Frisco, TX at 2552 Stonebrook Parkway #650, Fris
 - Website: https://pinnacledds.com/best-dentist-in-frisco/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-15:00
+- Registry Score: 66.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

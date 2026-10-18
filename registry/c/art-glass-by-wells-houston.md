@@ -13,6 +13,7 @@ Art Glass By Wells is a window repair service in Houston, TX at 12307 Chimney Ro
 - Website: n/a
 - Email: artglass1962@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

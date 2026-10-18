@@ -13,6 +13,7 @@ Lumber Liquidators is a flooring company in Denton, TX at 2311 Colorado Boulevar
 - Website: https://www.llflooring.com/stores/tx/denton/2311-colorado-boulevard
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

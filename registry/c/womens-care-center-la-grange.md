@@ -13,6 +13,7 @@ Women's Care Center is an OB-GYN practice in La Grange, IL at 136 North La Grang
 - Website: https://www.womenscarecenter.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

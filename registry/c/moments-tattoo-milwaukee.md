@@ -13,6 +13,7 @@ Moments Tattoo is a tattoo shop in Milwaukee, WI at 1014 South 5th Street, Milwa
 - Website: https://momentstattoo.square.site/
 - Email: thatcesar@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

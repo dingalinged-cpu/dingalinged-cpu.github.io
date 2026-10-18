@@ -13,6 +13,7 @@ Knox Jewelers is a jewelry store in Minneapolis, MN at 2921 Lyndale Avenue South
 - Website: https://www.knoxjewelers.biz/
 - Email: n/a
 - Opening hours (OSM syntax): "By Appointment only"
+- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

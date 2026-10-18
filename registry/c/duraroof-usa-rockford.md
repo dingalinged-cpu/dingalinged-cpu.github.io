@@ -13,6 +13,7 @@ Duraroof USA is a roofer in Rockford, MN at 8906 Autumn Oaks Drive, Rockford, MN
 - Website: https://www.duraroofusa.com/
 - Email: info@duraroofusa.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 55.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

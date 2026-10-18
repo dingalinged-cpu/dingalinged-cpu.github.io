@@ -13,6 +13,7 @@ The Barbershop is a hair salon in Mount Pleasant, WI at 7115 Durand Avenue, Moun
 - Website: https://thebarbershops.com/racine/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 08:00-16:00; Su 10:00-14:00
+- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

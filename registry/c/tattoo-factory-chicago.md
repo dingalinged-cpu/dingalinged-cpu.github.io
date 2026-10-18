@@ -13,6 +13,7 @@ Tattoo Factory is a tattoo shop in Chicago, IL at 4441 North Broadway, Chicago, 
 - Website: https://www.tattoofactory.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

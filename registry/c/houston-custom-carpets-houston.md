@@ -13,6 +13,7 @@ Houston Custom Carpets is a flooring company in Houston, TX at 23920 Highway 59 
 - Website: https://houstoncustomcarpets.com/
 - Email: htncustomcarpets@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

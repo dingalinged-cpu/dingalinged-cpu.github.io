@@ -13,6 +13,7 @@ Cheesecake Royale is a bakery in Dallas, TX at 9018 Garland Road, Dallas, TX. We
 - Website: https://www.cheesecakeroyale.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

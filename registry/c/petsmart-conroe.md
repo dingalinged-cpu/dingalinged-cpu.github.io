@@ -13,6 +13,7 @@ PetSmart is a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe,
 - Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

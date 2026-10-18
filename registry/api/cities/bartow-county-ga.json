@@ -1,0 +1,45 @@
+{
+ "place": "Bartow County, GA",
+ "slug": "bartow-county-ga",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "liquor store bartow county ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-bartow-county-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "allatoona-liquor-and-wine-bartow-county",
+   "name": "Allatoona Liquor and Wine",
+   "summary": "Allatoona Liquor and Wine is a liquor store in Bartow County, GA.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allatoona-liquor-and-wine-bartow-county/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allatoona-liquor-and-wine-bartow-county.json",
+   "address": {
+    "addressLocality": "Bartow County",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Bartow County",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1167454,
+    "lon": -84.6808224
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12851007732",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

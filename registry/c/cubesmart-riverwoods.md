@@ -13,6 +13,7 @@ CubeSmart is a self-storage facility in Riverwoods, IL at 3725 Deerfield Road, R
 - Website: https://www.cubesmart.com/illinois-self-storage/riverwoods-self-storage/3492.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

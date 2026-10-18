@@ -13,6 +13,7 @@ Dariusz Jewelers is a jewelry store in Downers Grove, IL. Phone: +16309694332. W
 - Website: https://www.dariuszjewelers.com/
 - Email: dariuszjewelers@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

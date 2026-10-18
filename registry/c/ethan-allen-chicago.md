@@ -13,6 +13,7 @@ Ethan Allen is a furniture store in Chicago, IL at 1500 North Halsted Street, Ch
 - Website: https://www.ethanallen.com/on/demandware.store/Sites-ethanallen-us-Site/en_US/Stores-Details?StoreID=567
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 47.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

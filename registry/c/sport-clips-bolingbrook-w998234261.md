@@ -13,6 +13,7 @@ Sport Clips is a hair salon in Bolingbrook, IL at 139 North Weber Road, Bolingbr
 - Website: https://haircutmenlandingsofbolingbrookil.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Su off; Tu-Fr 10:00-18:00; Sa 09:00-16:00
+- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

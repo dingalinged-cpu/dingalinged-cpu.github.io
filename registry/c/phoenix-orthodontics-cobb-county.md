@@ -1,0 +1,24 @@
+Phoenix Orthodontics is a dentist in Cobb County, GA at 3750 Palladian Village Drive #410, Cobb County, GA. Phone: +17706438896. Website: https://phoenixorthodonticsgeorgia.com/ortho/.
+
+# Phoenix Orthodontics
+
+- Category: dentist
+- Services: dentist
+- Address: 3750 Palladian Village Drive #410, Cobb County, GA
+- City: Cobb County
+- State: GA
+- ZIP: n/a
+- Coordinates: 34.0408574, -84.4768946
+- Phone: +17706438896
+- Website: https://phoenixorthodonticsgeorgia.com/ortho/
+- Email: orders@phoenixorthoga.com
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/phoenix-orthodontics-cobb-county/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/phoenix-orthodontics-cobb-county.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12163795976 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

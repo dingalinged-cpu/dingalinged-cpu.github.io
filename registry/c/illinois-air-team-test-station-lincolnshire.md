@@ -13,6 +13,7 @@ Illinois Air Team Test Station is a vehicle inspection station in Lincolnshire, 
 - Website: https://www.epa.illinois.gov/topics/air-quality/mobile-sources/vehicle-emissions-testing/testing-station-locations/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-13:00
+- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

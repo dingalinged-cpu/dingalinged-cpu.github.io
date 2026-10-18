@@ -13,6 +13,7 @@ Midway Express Car Wash is a car wash in Saint Paul, MN at 1610 Energy Park Driv
 - Website: https://metroexpresscarwash.wordpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-19:00
+- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

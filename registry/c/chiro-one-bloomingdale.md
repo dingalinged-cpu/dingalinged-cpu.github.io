@@ -13,6 +13,7 @@ Chiro One is a chiropractor in Bloomingdale, IL at 366 West Army Trail Road #Sui
 - Website: https://www.chiroone.com/locations/bloomingdale-illinois/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-10:30, 16:00-18:30
+- Registry Score: 46/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

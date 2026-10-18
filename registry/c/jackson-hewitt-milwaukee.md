@@ -13,6 +13,7 @@ Jackson Hewitt is a tax preparation service in Milwaukee, WI at 501 West Histori
 - Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/wi/milwaukee/501-historic-w-mitchell-st/10598
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

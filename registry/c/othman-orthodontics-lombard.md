@@ -13,6 +13,7 @@ Othman Orthodontics is a dentist in Lombard, IL at 2340 South Highland Avenue, L
 - Website: https://othmanorthodontics.com/
 - Email: othmandds@gmail.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

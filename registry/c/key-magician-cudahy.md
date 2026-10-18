@@ -13,6 +13,7 @@ Key Magician is a locksmith in Cudahy, WI at 4716 South Packard Avenue, Cudahy, 
 - Website: https://keymagician.com/
 - Email: service@keymagician.com
 - Opening hours (OSM syntax): n/a
+- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

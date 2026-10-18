@@ -13,6 +13,7 @@ Mel-O-Glaze Bakery is a bakery in Minneapolis, MN at 4800 28th Avenue South, Min
 - Website: https://www.meloglazebakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa-Su 07:30-18:00
+- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

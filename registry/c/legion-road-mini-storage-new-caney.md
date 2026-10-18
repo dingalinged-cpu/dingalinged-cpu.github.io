@@ -13,6 +13,7 @@ Legion Road Mini Storage is a self-storage facility in New Caney, TX at 21130 Le
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

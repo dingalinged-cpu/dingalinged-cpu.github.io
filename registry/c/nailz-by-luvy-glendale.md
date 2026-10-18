@@ -13,6 +13,7 @@ Nailz By Luvy is a nail salon in Glendale, WI at 6803 North Green Bay Avenue #1,
 - Website: https://nailzbyluvy.as.me/schedule/9554b0e3
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 09:30-15:30
+- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

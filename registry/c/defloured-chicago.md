@@ -13,6 +13,7 @@ Defloured is a bakery in Chicago, IL at 1477 West Balmoral Avenue, Chicago, IL 6
 - Website: https://www.deflouredbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 11:00-19:00; Sa,Su 09:00-17:00
+- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

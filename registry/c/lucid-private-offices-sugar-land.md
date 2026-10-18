@@ -13,6 +13,7 @@ Lucid Private Offices is a coworking space in Sugar Land, TX at 77 Sugar Creek C
 - Website: https://www.lucidprivateoffices.com/texas/sugar-land/77-sugar-creek-center-blvd/
 - Email: Workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

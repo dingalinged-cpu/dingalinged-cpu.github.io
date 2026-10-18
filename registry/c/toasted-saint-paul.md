@@ -13,6 +13,7 @@ Toasted is a liquor store in Saint Paul, MN at 560 Como Avenue, Saint Paul, MN. 
 - Website: https://toastedstpaul.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-21:00; Th-Sa 10:00-22:00; Su 11:00-18:00
+- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

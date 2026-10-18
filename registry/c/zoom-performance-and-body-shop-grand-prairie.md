@@ -13,6 +13,7 @@ Zoom Performance & Body Shop is an auto repair shop in Grand Prairie, TX at 2100
 - Website: https://www.zoomperformance.shop/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 09:00-16:00
+- Registry Score: 65.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

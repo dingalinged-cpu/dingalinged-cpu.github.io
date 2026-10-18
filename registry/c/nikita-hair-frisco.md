@@ -13,6 +13,7 @@ Nikita Hair is a hair salon in Frisco, TX at 13030 Preston Road #500, Frisco, TX
 - Website: https://nikitahair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su closed
+- Registry Score: 53.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

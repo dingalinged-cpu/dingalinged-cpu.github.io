@@ -13,6 +13,7 @@ Farley Orthodontics is a dentist in The Woodlands, TX at 8000 Research Forest Dr
 - Website: https://getitstraightnow.com/
 - Email: n/a
 - Opening hours (OSM syntax): "see website"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

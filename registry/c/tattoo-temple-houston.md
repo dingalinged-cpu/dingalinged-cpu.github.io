@@ -13,6 +13,7 @@ Tattoo Temple is a tattoo shop in Houston, TX at 3346 East T C Jester Boulevard,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off "by appointment only"; Tu-Sa 12:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

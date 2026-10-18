@@ -13,6 +13,7 @@ HealthPartners Dental is a dentist in Saint Louis Park, MN at 5500 Excelsior Bou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-16:00; Tu 09:00-19:00; We 08:00-17:30; Th-Fr 07:30-17:00; PH closed
+- Registry Score: 57.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

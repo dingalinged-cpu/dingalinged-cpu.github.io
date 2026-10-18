@@ -13,6 +13,7 @@ Blu Dot Outlet is a furniture store in Minneapolis, MN at 1331 Tyler ST NE, Minn
 - Website: https://www.bludot.com/pages/minneapolis-outlet
 - Email: n/a
 - Opening hours (OSM syntax): Th-Sa 10:00-17:00; Su 11:00-16:00
+- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

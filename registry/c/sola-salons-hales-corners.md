@@ -13,6 +13,7 @@ Sola Salons is a nail salon in Hales Corners, WI at 5319 South Lovers Lane Road,
 - Website: https://www.solasalonstudios.com/locations/hales-corners
 - Email: milwaukeesolasalons@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00, Sa 08:00-18:00
+- Registry Score: 52.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

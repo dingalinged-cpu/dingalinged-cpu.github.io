@@ -1,0 +1,5139 @@
+{
+ "place": "Woodstock, GA",
+ "slug": "woodstock-ga",
+ "count": 161,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "assisted living woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/assisted-living-woodstock-ga.json"
+  },
+  {
+   "keyword": "attorney woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/attorney-woodstock-ga.json"
+  },
+  {
+   "keyword": "auto repair woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-woodstock-ga.json"
+  },
+  {
+   "keyword": "bakery woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/bakery-woodstock-ga.json"
+  },
+  {
+   "keyword": "brake repair woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/brake-repair-woodstock-ga.json"
+  },
+  {
+   "keyword": "car wash woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/car-wash-woodstock-ga.json"
+  },
+  {
+   "keyword": "chiropractor woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/chiropractor-woodstock-ga.json"
+  },
+  {
+   "keyword": "coworking space woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/coworking-space-woodstock-ga.json"
+  },
+  {
+   "keyword": "daycare woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/daycare-woodstock-ga.json"
+  },
+  {
+   "keyword": "dentist woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dentist-woodstock-ga.json"
+  },
+  {
+   "keyword": "dog boarding woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-boarding-woodstock-ga.json"
+  },
+  {
+   "keyword": "dog groomer woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dog-groomer-woodstock-ga.json"
+  },
+  {
+   "keyword": "dry cleaners woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/dry-cleaners-woodstock-ga.json"
+  },
+  {
+   "keyword": "event venues woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/event-venues-woodstock-ga.json"
+  },
+  {
+   "keyword": "eye doctor woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/eye-doctor-woodstock-ga.json"
+  },
+  {
+   "keyword": "facial woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/facial-woodstock-ga.json"
+  },
+  {
+   "keyword": "family doctor woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/family-doctor-woodstock-ga.json"
+  },
+  {
+   "keyword": "financial advisor woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/financial-advisor-woodstock-ga.json"
+  },
+  {
+   "keyword": "flooring companies woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/flooring-companies-woodstock-ga.json"
+  },
+  {
+   "keyword": "florist woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/florist-woodstock-ga.json"
+  },
+  {
+   "keyword": "funeral home woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/funeral-home-woodstock-ga.json"
+  },
+  {
+   "keyword": "furniture store woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/furniture-store-woodstock-ga.json"
+  },
+  {
+   "keyword": "gift shop woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gift-shop-woodstock-ga.json"
+  },
+  {
+   "keyword": "gym woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/gym-woodstock-ga.json"
+  },
+  {
+   "keyword": "hair salon woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/hair-salon-woodstock-ga.json"
+  },
+  {
+   "keyword": "haircut woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/haircut-woodstock-ga.json"
+  },
+  {
+   "keyword": "insurance agency woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agency-woodstock-ga.json"
+  },
+  {
+   "keyword": "insurance agent woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agent-woodstock-ga.json"
+  },
+  {
+   "keyword": "insurance agents woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/insurance-agents-woodstock-ga.json"
+  },
+  {
+   "keyword": "it support woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/it-support-woodstock-ga.json"
+  },
+  {
+   "keyword": "jewelry store woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/jewelry-store-woodstock-ga.json"
+  },
+  {
+   "keyword": "landscaping woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/landscaping-woodstock-ga.json"
+  },
+  {
+   "keyword": "lawyer woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/lawyer-woodstock-ga.json"
+  },
+  {
+   "keyword": "liquor store woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/liquor-store-woodstock-ga.json"
+  },
+  {
+   "keyword": "marketing agency woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/marketing-agency-woodstock-ga.json"
+  },
+  {
+   "keyword": "martial arts woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/martial-arts-woodstock-ga.json"
+  },
+  {
+   "keyword": "massage woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/massage-woodstock-ga.json"
+  },
+  {
+   "keyword": "mattress store woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mattress-store-woodstock-ga.json"
+  },
+  {
+   "keyword": "mechanic woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-woodstock-ga.json"
+  },
+  {
+   "keyword": "nail salon woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/nail-salon-woodstock-ga.json"
+  },
+  {
+   "keyword": "oil change woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/oil-change-woodstock-ga.json"
+  },
+  {
+   "keyword": "pet store woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pet-store-woodstock-ga.json"
+  },
+  {
+   "keyword": "phone repair woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/phone-repair-woodstock-ga.json"
+  },
+  {
+   "keyword": "physical therapy woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/physical-therapy-woodstock-ga.json"
+  },
+  {
+   "keyword": "pilates woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/pilates-woodstock-ga.json"
+  },
+  {
+   "keyword": "plastic surgeon woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/plastic-surgeon-woodstock-ga.json"
+  },
+  {
+   "keyword": "preschool woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/preschool-woodstock-ga.json"
+  },
+  {
+   "keyword": "primary care physician woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/primary-care-physician-woodstock-ga.json"
+  },
+  {
+   "keyword": "printing services woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/printing-services-woodstock-ga.json"
+  },
+  {
+   "keyword": "property management companies woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-companies-woodstock-ga.json"
+  },
+  {
+   "keyword": "property management company woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/property-management-company-woodstock-ga.json"
+  },
+  {
+   "keyword": "real estate agent woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/real-estate-agent-woodstock-ga.json"
+  },
+  {
+   "keyword": "realtor woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/realtor-woodstock-ga.json"
+  },
+  {
+   "keyword": "roofer woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofer-woodstock-ga.json"
+  },
+  {
+   "keyword": "roofing contractor woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/roofing-contractor-woodstock-ga.json"
+  },
+  {
+   "keyword": "storage units woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/storage-units-woodstock-ga.json"
+  },
+  {
+   "keyword": "tax preparation woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparation-woodstock-ga.json"
+  },
+  {
+   "keyword": "tax preparer woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tax-preparer-woodstock-ga.json"
+  },
+  {
+   "keyword": "therapist woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/therapist-woodstock-ga.json"
+  },
+  {
+   "keyword": "thrift store woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/thrift-store-woodstock-ga.json"
+  },
+  {
+   "keyword": "tire shop woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/tire-shop-woodstock-ga.json"
+  },
+  {
+   "keyword": "transmission repair woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/transmission-repair-woodstock-ga.json"
+  },
+  {
+   "keyword": "vet woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/vet-woodstock-ga.json"
+  },
+  {
+   "keyword": "waxing woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/waxing-woodstock-ga.json"
+  },
+  {
+   "keyword": "window replacement woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/window-replacement-woodstock-ga.json"
+  },
+  {
+   "keyword": "yoga classes woodstock ga",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/yoga-classes-woodstock-ga.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "arac-roof-it-forward-woodstock",
+   "name": "ARAC Roof It Forward",
+   "summary": "ARAC Roof It Forward is a roofer in Woodstock, GA at 296 Bell Park Drive, Woodstock, GA 30188. Phone: +17706757650. Website: https://www.roofitforward.com/.",
+   "categories": [
+    "roofer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/arac-roof-it-forward-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/arac-roof-it-forward-woodstock.json",
+   "address": {
+    "streetAddress": "296 Bell Park Drive",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.1227285,
+    "lon": -84.5143003
+   },
+   "phone": "+17706757650",
+   "website": "https://www.roofitforward.com/",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13909859566",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ascend-seo-marketing-woodstock",
+   "name": "Ascend SEO Marketing",
+   "summary": "Ascend SEO Marketing is a marketing agency in Woodstock, GA at 135 Miramont Lake Drive, Woodstock, GA 30189. Phone: +17704215730. Website: https://ascendseomarketing.com/.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ascend-seo-marketing-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ascend-seo-marketing-woodstock.json",
+   "address": {
+    "streetAddress": "135 Miramont Lake Drive",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1190103,
+    "lon": -84.5836852
+   },
+   "phone": "+17704215730",
+   "website": "https://ascendseomarketing.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11733818046",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bailey-cosmetic-med-spa-woodstock",
+   "name": "Bailey Cosmetic Med Spa",
+   "summary": "Bailey Cosmetic Med Spa is a skin care studio in Woodstock, GA at 9236 Main Street #3C, Woodstock, GA 30188. Phone: +14042207689. Website: https://www.baileycosmetic.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bailey-cosmetic-med-spa-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bailey-cosmetic-med-spa-woodstock.json",
+   "address": {
+    "streetAddress": "9236 Main Street #3C",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0917052,
+    "lon": -84.5200594
+   },
+   "phone": "+14042207689",
+   "website": "https://www.baileycosmetic.com/",
+   "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-15:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13624440391",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chase-woodstock",
+   "name": "Chase",
+   "summary": "Chase is a financial advisor in Woodstock, GA at 9859 Highway 92, Woodstock, GA 30188. Phone: +16782850040. Website: https://www.chase.com/locator/banking/us/ga/woodstock/9859-highway-92.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chase-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chase-woodstock.json",
+   "address": {
+    "streetAddress": "9859 Highway 92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0865403,
+    "lon": -84.5246394
+   },
+   "phone": "+16782850040",
+   "website": "https://www.chase.com/locator/banking/us/ga/woodstock/9859-highway-92",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/536777037",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cherokee-emergency-veterinary-clinic-woodstock",
+   "name": "Cherokee Emergency Veterinary Clinic",
+   "summary": "Cherokee Emergency Veterinary Clinic is a veterinarian in Woodstock, GA at 7800 Highway 92, Woodstock, GA 30189. Phone: +16782380700. Website: https://www.cobbevc.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cherokee-emergency-veterinary-clinic-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cherokee-emergency-veterinary-clinic-woodstock.json",
+   "address": {
+    "streetAddress": "7800 Highway 92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.0842226,
+    "lon": -84.5588324
+   },
+   "phone": "+16782380700",
+   "website": "https://www.cobbevc.com/",
+   "opening_hours": "Mo-Th 16:00-09:00; Fr 16:00-24:00; Sa-Su 00:00-24:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/2715934561",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "es-tonsorial-barber-shop-woodstock",
+   "name": "E's Tonsorial Barber Shop",
+   "summary": "E's Tonsorial Barber Shop is a hair salon in Woodstock, GA at 9999 Highway 92 #170, Woodstock, GA 30188. Phone: +17709266488. Website: https://esbarbershop.com/woodstock/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/es-tonsorial-barber-shop-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/es-tonsorial-barber-shop-woodstock.json",
+   "address": {
+    "streetAddress": "9999 Highway 92 #170",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0865812,
+    "lon": -84.5214165
+   },
+   "phone": "+17709266488",
+   "website": "https://esbarbershop.com/woodstock/",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7636919145",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-woodstock",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Woodstock, GA at 170 Village Center West, Woodstock, GA 30188. Phone: +17705174747. Website: https://www.expressoil.com/stores/woodstock/ga/6024/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-woodstock.json",
+   "address": {
+    "streetAddress": "170 Village Center West",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.087819,
+    "lon": -84.467185
+   },
+   "phone": "+17705174747",
+   "website": "https://www.expressoil.com/stores/woodstock/ga/6024/",
+   "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5649894677",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "express-oil-change-and-tire-engineers-woodstock-n5649894678",
+   "name": "Express Oil Change & Tire Engineers",
+   "summary": "Express Oil Change & Tire Engineers is a tire shop in Woodstock, GA at 3001 Parkbrooke Circle, Woodstock, GA 30189. Phone: +17709242000. Website: https://www.expressoil.com/stores/woodstock/ga/6023/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-woodstock-n5649894678/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/express-oil-change-and-tire-engineers-woodstock-n5649894678.json",
+   "address": {
+    "streetAddress": "3001 Parkbrooke Circle",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.109857,
+    "lon": -84.554199
+   },
+   "phone": "+17709242000",
+   "website": "https://www.expressoil.com/stores/woodstock/ga/6023/",
+   "opening_hours": "Mo-Fr 08:00-18:00;Sa 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5649894678",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "firestone-woodstock",
+   "name": "Firestone",
+   "summary": "Firestone is an auto repair shop in Woodstock, GA at 9421 GA 92, Woodstock, GA 30188. Phone: +17702251527. Website: https://local.firestonecompleteautocare.com/georgia/woodstock/9421-highway-92/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/firestone-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/firestone-woodstock.json",
+   "address": {
+    "streetAddress": "9421 GA 92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0863424,
+    "lon": -84.5335455
+   },
+   "phone": "+17702251527",
+   "website": "https://local.firestonecompleteautocare.com/georgia/woodstock/9421-highway-92/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00; Nov Th[4] closed",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/536765126",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "g-and-s-auto-and-muffler-woodstock",
+   "name": "G & S Auto & Muffler",
+   "summary": "G & S Auto & Muffler is an auto repair shop in Woodstock, GA at 10260 Main Street, Woodstock, GA 30188. Phone: +16782382886. Website: https://gsauto-mufflerkennesaw.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/g-and-s-auto-and-muffler-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/g-and-s-auto-and-muffler-woodstock.json",
+   "address": {
+    "streetAddress": "10260 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0785885,
+    "lon": -84.5219131
+   },
+   "phone": "+16782382886",
+   "website": "https://gsauto-mufflerkennesaw.com/",
+   "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6361898129",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jw-collection-south-on-main-woodstock",
+   "name": "JW Collection | South On Main",
+   "summary": "JW Collection | South On Main is a property management company in Woodstock, GA at 9200 Main Street #3A-4A, Woodstock, GA 30188. Phone: +17709700200. Website: https://www.jwcollectionhomes.com/home/south-on-main.",
+   "categories": [
+    "property management company"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jw-collection-south-on-main-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jw-collection-south-on-main-woodstock.json",
+   "address": {
+    "streetAddress": "9200 Main Street #3A-4A",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0915652,
+    "lon": -84.5200333
+   },
+   "phone": "+17709700200",
+   "website": "https://www.jwcollectionhomes.com/home/south-on-main",
+   "opening_hours": "Mo-Fr 12:00-18:00; Sa 10:00-18:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13616236809",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "life-time-woodstock",
+   "name": "Life Time",
+   "summary": "Life Time is a gym in Woodstock, GA at 14200 Highway 92, Woodstock, GA 30188. Phone: +17709267544. Website: https://www.lifetime.life/life-time-locations/ga-woodstock.html.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/life-time-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/life-time-woodstock.json",
+   "address": {
+    "streetAddress": "14200 Highway 92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0803686,
+    "lon": -84.4546447
+   },
+   "phone": "+17709267544",
+   "website": "https://www.lifetime.life/life-time-locations/ga-woodstock.html",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/317417387",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "madlife-stage-and-studios-woodstock",
+   "name": "MadLife Stage & Studios",
+   "summary": "MadLife Stage & Studios is an event venue in Woodstock, GA at 8722 Main Street, Woodstock, GA 30188. Phone: +16783842363. Website: https://madlifestageandstudios.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/madlife-stage-and-studios-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/madlife-stage-and-studios-woodstock.json",
+   "address": {
+    "streetAddress": "8722 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0990477,
+    "lon": -84.5205455
+   },
+   "phone": "+16783842363",
+   "website": "https://madlifestageandstudios.com/",
+   "opening_hours": "Tu-Th 17:00-21:00; Fr-Sa 17:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/961504295",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "main-street-nail-studio-woodstock",
+   "name": "Main Street Nail Studio",
+   "summary": "Main Street Nail Studio is a nail salon in Woodstock, GA at 127 East Main Street #100, Woodstock, GA 30188. Phone: +17709282662. Website: https://www.mainstreetnailstudio.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/main-street-nail-studio-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/main-street-nail-studio-woodstock.json",
+   "address": {
+    "streetAddress": "127 East Main Street #100",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0986563,
+    "lon": -84.5197327
+   },
+   "phone": "+17709282662",
+   "website": "https://www.mainstreetnailstudio.com/",
+   "opening_hours": "Tu-Fr 08:00-19:00; Sa 08:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13688943582",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mosaic-insurance-group-woodstock",
+   "name": "Mosaic Insurance Group",
+   "summary": "Mosaic Insurance Group is an insurance agent in Woodstock, GA at 4595 Towne Lake Parkway #100-110, Woodstock, GA 30189. Phone: +14702877405. Website: https://www.mosaicinsure.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mosaic-insurance-group-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mosaic-insurance-group-woodstock.json",
+   "address": {
+    "streetAddress": "4595 Towne Lake Parkway #100-110",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1270728,
+    "lon": -84.5788765
+   },
+   "phone": "+14702877405",
+   "website": "https://www.mosaicinsure.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/10759218258",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "nikki-fernando-woodstock",
+   "name": "Nikki Fernando",
+   "summary": "Nikki Fernando is a hair salon in Woodstock, GA at 174 Towne Lake Parkway, Woodstock, GA 30188. Phone: +14705072444. Website: https://alkalinedrybar.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/nikki-fernando-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/nikki-fernando-woodstock.json",
+   "address": {
+    "streetAddress": "174 Towne Lake Parkway",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.1023275,
+    "lon": -84.5227744
+   },
+   "phone": "+14705072444",
+   "website": "https://alkalinedrybar.com/",
+   "opening_hours": "09:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/9631646711",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "petsmart-woodstock",
+   "name": "PetSmart",
+   "summary": "PetSmart is a pet store in Woodstock, GA at 142 Woodstock Square Avenue, Woodstock, GA 30189. Phone: +16784452741. Website: https://www.petsmart.com/stores/us/ga/woodstock-store1029.html.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/petsmart-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/petsmart-woodstock.json",
+   "address": {
+    "streetAddress": "142 Woodstock Square Avenue",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.0862082,
+    "lon": -84.5460696
+   },
+   "phone": "+16784452741",
+   "website": "https://www.petsmart.com/stores/us/ga/woodstock-store1029.html",
+   "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6567524097",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "planet-fitness-woodstock",
+   "name": "Planet Fitness",
+   "summary": "Planet Fitness is a gym in Woodstock, GA at 299 Molly Lane, Woodstock, GA 30189. Phone: +16789038846. Website: https://www.planetfitness.com/gyms/woodstock-ga.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/planet-fitness-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/planet-fitness-woodstock.json",
+   "address": {
+    "streetAddress": "299 Molly Lane",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.0834116,
+    "lon": -84.5389857
+   },
+   "phone": "+16789038846",
+   "website": "https://www.planetfitness.com/gyms/woodstock-ga",
+   "opening_hours": "Mo-Fr 06:00-21:00; Sa-Su 07:00-19:00; Dec 25 off; Nov Th[-1] off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/536798250",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pritchard-injury-firm-woodstock",
+   "name": "Pritchard Injury Firm",
+   "summary": "Pritchard Injury Firm is a lawyer in Woodstock, GA at 9244 Main Street #100, Woodstock, GA 30188. Phone: +14705778152. Website: https://www.pritchardinjuryfirm.com/.",
+   "categories": [
+    "lawyer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pritchard-injury-firm-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pritchard-injury-firm-woodstock.json",
+   "address": {
+    "streetAddress": "9244 Main Street #100",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0914906,
+    "lon": -84.5200194
+   },
+   "phone": "+14705778152",
+   "website": "https://www.pritchardinjuryfirm.com/",
+   "opening_hours": "Mo-Fr 08:30-17:30; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13616236808",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "resha-woodstock",
+   "name": "Resha",
+   "summary": "Resha is a hair salon in Woodstock, GA at 9236 Main Street #4C, Woodstock, GA 30188. Phone: +17708885500. Website: https://www.reeshabarbers.com/woodstock-barber-shop.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/resha-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/resha-woodstock.json",
+   "address": {
+    "streetAddress": "9236 Main Street #4C",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0916331,
+    "lon": -84.5200459
+   },
+   "phone": "+17708885500",
+   "website": "https://www.reeshabarbers.com/woodstock-barber-shop",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-17:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11839326767",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-w-parkside-woodstock",
+   "name": "Salon W Parkside",
+   "summary": "Salon W Parkside is a hair salon in Woodstock, GA at 105 East Main Street #130, Woodstock, GA 30188. Phone: +16784452658. Website: https://salonwparkside.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-w-parkside-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-w-parkside-woodstock.json",
+   "address": {
+    "streetAddress": "105 East Main Street #130",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.1020785,
+    "lon": -84.5181362
+   },
+   "phone": "+16784452658",
+   "website": "https://salonwparkside.com/",
+   "opening_hours": "Mo-Tu,Su off; We-Fr 10:00-19:00; Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13689130173",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "seeds-thrift-store-woodstock",
+   "name": "Seeds Thrift Store",
+   "summary": "Seeds Thrift Store is a thrift store in Woodstock, GA at 295 Molly Lane #110, Woodstock, GA 30189. Phone: +17705174450. Website: https://www.seedsthriftstore.com/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/seeds-thrift-store-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/seeds-thrift-store-woodstock.json",
+   "address": {
+    "streetAddress": "295 Molly Lane #110",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.0837683,
+    "lon": -84.5403977
+   },
+   "phone": "+17705174450",
+   "website": "https://www.seedsthriftstore.com/",
+   "opening_hours": "Mo,Su off; Tu-Fr 11:00-17:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7609711456",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sucre-woodstock",
+   "name": "Sucre",
+   "summary": "Sucre is a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sucre-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sucre-woodstock.json",
+   "address": {
+    "streetAddress": "8654 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.1001769,
+    "lon": -84.5200138
+   },
+   "phone": "+18774141708",
+   "website": "https://www.shopsucre.com/",
+   "opening_hours": "Mo-Th,Su 09:00-21:00; Fr-Sa 09:00-23:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1493961628",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-patch-boys-of-canton-and-rome-ga-woodstock",
+   "name": "The Patch Boys of Canton & Rome GA",
+   "summary": "The Patch Boys of Canton & Rome GA is a window installer in Woodstock, GA at 615 Overhill Drive, Woodstock, GA 30189. Phone: +16786808606. Website: https://www.thepatchboys.com/canton-rome/.",
+   "categories": [
+    "window replacement"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-patch-boys-of-canton-and-rome-ga-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-patch-boys-of-canton-and-rome-ga-woodstock.json",
+   "address": {
+    "streetAddress": "615 Overhill Drive",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1179553,
+    "lon": -84.5335163
+   },
+   "phone": "+16786808606",
+   "website": "https://www.thepatchboys.com/canton-rome/",
+   "opening_hours": "Monday To Friday - 8:00 am - 8:00 pm,Saturday and Sunday - 10:00 am - 4:00 pm",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13893775691",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ulta-beauty-woodstock",
+   "name": "Ulta Beauty",
+   "summary": "Ulta Beauty is a skin care studio in Woodstock, GA at 124 Woodstock Square Avenue, Woodstock, GA 30189. Phone: +16784940081. Website: https://www.ulta.com/stores/woodstock-ga-105.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ulta-beauty-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ulta-beauty-woodstock.json",
+   "address": {
+    "streetAddress": "124 Woodstock Square Avenue",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.0833164,
+    "lon": -84.5464062
+   },
+   "phone": "+16784940081",
+   "website": "https://www.ulta.com/stores/woodstock-ga-105",
+   "opening_hours": "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6567524105",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodstock-plastic-surgery-woodstock",
+   "name": "Woodstock Plastic Surgery",
+   "summary": "Woodstock Plastic Surgery is a plastic surgeon in Woodstock, GA at 9236 Main Street #3C, Woodstock, GA 30188. Phone: +14042207689. Website: https://www.woodstockplasticsurgery.com/.",
+   "categories": [
+    "plastic surgeon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodstock-plastic-surgery-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodstock-plastic-surgery-woodstock.json",
+   "address": {
+    "streetAddress": "9236 Main Street #3C",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0916786,
+    "lon": -84.5200544
+   },
+   "phone": "+14042207689",
+   "website": "https://www.woodstockplasticsurgery.com/",
+   "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-15:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13624440390",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "100-chiropractic-woodstock",
+   "name": "100% Chiropractic",
+   "summary": "100% Chiropractic is a chiropractor in Woodstock, GA at 2990 Eagle Drive #102, Woodstock, GA. Phone: +16789197788. Website: https://www.100percentchiropractic.com/locations/woodstock-ga.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/100-chiropractic-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/100-chiropractic-woodstock.json",
+   "address": {
+    "streetAddress": "2990 Eagle Drive #102",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.112208,
+    "lon": -84.5607756
+   },
+   "phone": "+16789197788",
+   "website": "https://www.100percentchiropractic.com/locations/woodstock-ga",
+   "opening_hours": "Mo,We-Th 08:00-12:00,14:00-18:00; Tu,Fr 08:00-12:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13382204472",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aamco-transmissions-and-total-car-care-woodstock",
+   "name": "AAMCO Transmissions & Total Car Care",
+   "summary": "AAMCO Transmissions & Total Car Care is an auto repair shop in Woodstock, GA at 9880 Main Street #104, Woodstock, GA. Phone: +17705167110. Website: https://www.aamcowoodstock-mainst.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aamco-transmissions-and-total-car-care-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aamco-transmissions-and-total-car-care-woodstock.json",
+   "address": {
+    "streetAddress": "9880 Main Street #104",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.080454,
+    "lon": -84.5209291
+   },
+   "phone": "+17705167110",
+   "website": "https://www.aamcowoodstock-mainst.com/",
+   "opening_hours": "Mo-Fr 08:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13613546712",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "aimc-woodstock",
+   "name": "AIMC",
+   "summary": "AIMC is an insurance agent in Woodstock, GA at 220 Cinema View, Woodstock, GA. Phone: +18003210102. Website: https://aimc.net/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/aimc-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/aimc-woodstock.json",
+   "address": {
+    "streetAddress": "220 Cinema View",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1069485,
+    "lon": -84.5439373
+   },
+   "phone": "+18003210102",
+   "website": "https://aimc.net/",
+   "opening_hours": "Mo-Th 08:30-17:00; Fr 08:30-12:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12442623549",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "b-and-p-tire-and-automotive-repair-woodstock",
+   "name": "B & P Tire And Automotive Repair",
+   "summary": "B & P Tire And Automotive Repair is an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/b-and-p-tire-and-automotive-repair-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/b-and-p-tire-and-automotive-repair-woodstock.json",
+   "address": {
+    "streetAddress": "9405 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0891113,
+    "lon": -84.5192746
+   },
+   "phone": "+17705910190",
+   "website": "https://thetirepatch.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:30; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999782906",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "banfield-pet-hospital-woodstock",
+   "name": "Banfield Pet Hospital",
+   "summary": "Banfield Pet Hospital is a veterinarian in Woodstock, GA at 142 Woodstock Square Avenue, Woodstock, GA. Phone: +17705920424. Website: https://www.banfield.com/locations/veterinarians/ga/woodstock/wsk.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/banfield-pet-hospital-woodstock.json",
+   "address": {
+    "streetAddress": "142 Woodstock Square Avenue",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0860983,
+    "lon": -84.546068
+   },
+   "phone": "+17705920424",
+   "website": "https://www.banfield.com/locations/veterinarians/ga/woodstock/wsk",
+   "opening_hours": "Mo-Sa 08:00-18:00; Su 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6567526894",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brendas-house-of-flowers-woodstock",
+   "name": "Brenda's House Of Flowers",
+   "summary": "Brenda's House Of Flowers is a florist in Woodstock, GA at 200 Chambers Street, Woodstock, GA. Phone: +17709263306. Website: https://www.brendashouseofflowers.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brendas-house-of-flowers-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brendas-house-of-flowers-woodstock.json",
+   "address": {
+    "streetAddress": "200 Chambers Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.098826,
+    "lon": -84.5192611
+   },
+   "phone": "+17709263306",
+   "website": "https://www.brendashouseofflowers.com/",
+   "opening_hours": "Mo-Sa 09:00-17:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13687162506",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "capri-nails-woodstock",
+   "name": "Capri Nails",
+   "summary": "Capri Nails is a nail salon in Woodstock, GA at 1075 Buckhead Crossing #120, Woodstock, GA. Phone: +16784451242. Website: https://caprinailsalon.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/capri-nails-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/capri-nails-woodstock.json",
+   "address": {
+    "streetAddress": "1075 Buckhead Crossing #120",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1062122,
+    "lon": -84.5419002
+   },
+   "phone": "+16784451242",
+   "website": "https://caprinailsalon.com/",
+   "opening_hours": "Mo-We 10:00-19:30; Fr 10:00-20:00; Sa 09:30-19:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12442634441",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cherokee-reprographics-woodstock",
+   "name": "Cherokee Reprographics",
+   "summary": "Cherokee Reprographics is a printing service in Woodstock, GA at 9740 Main Street #300, Woodstock, GA. Phone: +16784942000. Website: https://cherokeerepro.com/.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cherokee-reprographics-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cherokee-reprographics-woodstock.json",
+   "address": {
+    "streetAddress": "9740 Main Street #300",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0832864,
+    "lon": -84.5197181
+   },
+   "phone": "+16784942000",
+   "website": "https://cherokeerepro.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723234",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "club-pilates-woodstock",
+   "name": "Club Pilates",
+   "summary": "Club Pilates is a pilates studio in Woodstock, GA at 1428 Towne Lake Parkway #104, Woodstock, GA. Phone: +17704009557. Website: https://www.clubpilates.com/woodstock/.",
+   "categories": [
+    "pilates"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/club-pilates-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/club-pilates-woodstock.json",
+   "address": {
+    "streetAddress": "1428 Towne Lake Parkway #104",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1057715,
+    "lon": -84.5391081
+   },
+   "phone": "+17704009557",
+   "website": "https://www.clubpilates.com/woodstock/",
+   "opening_hours": "Mo 06:00-20:00; Tu,Th 06:30-20:00; We 07:00-20:00; Fr 07:00-18:00; Sa 08:30-14:30; Su 08:00-14:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644187",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "coast-dental-and-orthodontics-woodstock",
+   "name": "Coast Dental & Orthodontics",
+   "summary": "Coast Dental & Orthodontics is a dentist in Woodstock, GA at 12195 Highway 92 #148, Woodstock, GA. Phone: +17705172772. Website: https://www.coastdental.com/dentist-office/woodstock-ga-30188.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/coast-dental-and-orthodontics-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/coast-dental-and-orthodontics-woodstock.json",
+   "address": {
+    "streetAddress": "12195 Highway 92 #148",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0889791,
+    "lon": -84.4828856
+   },
+   "phone": "+17705172772",
+   "website": "https://www.coastdental.com/dentist-office/woodstock-ga-30188",
+   "opening_hours": "Mo 08:30-16:00; Tu-Fr 08:30-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13175838994",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "crossroads-veterinary-hospital-woodstock",
+   "name": "Crossroads Veterinary Hospital",
+   "summary": "Crossroads Veterinary Hospital is a veterinarian in Woodstock, GA at 9500 Main Street, Woodstock, GA. Phone: +17705915474. Website: https://www.mycrossvethospital.com/.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/crossroads-veterinary-hospital-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/crossroads-veterinary-hospital-woodstock.json",
+   "address": {
+    "streetAddress": "9500 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.087716,
+    "lon": -84.519934
+   },
+   "phone": "+17705915474",
+   "website": "https://www.mycrossvethospital.com/",
+   "opening_hours": "Mo-Tu,Th-Fr 07:00-18:30; We 07:00-13:00; Sa 08:00-13:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999782405",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cultured-brilliance-woodstock",
+   "name": "Cultured Brilliance",
+   "summary": "Cultured Brilliance is a jewelry store in Woodstock, GA at 8744 Main Street #103, Woodstock, GA. Phone: +16787225664. Website: https://culturedbrilliance.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cultured-brilliance-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cultured-brilliance-woodstock.json",
+   "address": {
+    "streetAddress": "8744 Main Street #103",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0988977,
+    "lon": -84.5205594
+   },
+   "phone": "+16787225664",
+   "website": "https://culturedbrilliance.com/",
+   "opening_hours": "Mo,Su off; Tu-Fr 10:00-17:30; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13619263620",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dental-care-of-woodstock-woodstock",
+   "name": "Dental Care of Woodstock",
+   "summary": "Dental Care of Woodstock is a dentist in Woodstock, GA at 10080 Highway 92, Woodstock, GA. Phone: +17705925921. Website: https://www.dentalcareofwoodstock.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dental-care-of-woodstock-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dental-care-of-woodstock-woodstock.json",
+   "address": {
+    "streetAddress": "10080 Highway 92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0855279,
+    "lon": -84.5204758
+   },
+   "phone": "+17705925921",
+   "website": "https://www.dentalcareofwoodstock.com/",
+   "opening_hours": "Mo 11:00-19:00; Tu 10:00-18:00; We 09:00-17:00; Th 09:00-13:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12051443962",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discount-tire-woodstock",
+   "name": "Discount Tire",
+   "summary": "Discount Tire is a tire shop in Woodstock, GA at 160 Woodstock Square Avenue, Woodstock, GA. Phone: +16784941238. Website: https://www.discounttire.com/store/ga/woodstock/s/1483.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discount-tire-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-woodstock.json",
+   "address": {
+    "streetAddress": "160 Woodstock Square Avenue",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0867562,
+    "lon": -84.5456298
+   },
+   "phone": "+16784941238",
+   "website": "https://www.discounttire.com/store/ga/woodstock/s/1483",
+   "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su,PH off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6567526893",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dog-house-boxing-and-fitness-woodstock",
+   "name": "Dog House Boxing And Fitness",
+   "summary": "Dog House Boxing And Fitness is a gym in Woodstock, GA at 9525 Main Street, Woodstock, GA. Phone: +14042453995. Website: https://info127099.wixsite.com/doghouseboxing.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dog-house-boxing-and-fitness-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dog-house-boxing-and-fitness-woodstock.json",
+   "address": {
+    "streetAddress": "9525 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0874224,
+    "lon": -84.5186042
+   },
+   "phone": "+14042453995",
+   "website": "https://info127099.wixsite.com/doghouseboxing",
+   "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-16:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13175832514",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dr-fahrenheit-hvac-woodstock",
+   "name": "Dr. Fahrenheit HVAC",
+   "summary": "Dr. Fahrenheit HVAC is a tax preparation service in Woodstock, GA at 8926 Main Street, Woodstock, GA. Phone: +17709266773. Website: https://drfahrenheithvac.com/location/marietta/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dr-fahrenheit-hvac-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dr-fahrenheit-hvac-woodstock.json",
+   "address": {
+    "streetAddress": "8926 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0960764,
+    "lon": -84.5207992
+   },
+   "phone": "+17709266773",
+   "website": "https://drfahrenheithvac.com/location/marietta/",
+   "opening_hours": "Mo-Fr 07:00-18:30; Sa 07:30-12:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999782726",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ember-hot-yoga-woodstock",
+   "name": "Ember Hot Yoga",
+   "summary": "Ember Hot Yoga is a yoga studio in Woodstock, GA at 330 Chambers Street, Woodstock, GA. Phone: +17704855583. Website: https://www.emberyoga.com/.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ember-hot-yoga-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ember-hot-yoga-woodstock.json",
+   "address": {
+    "streetAddress": "330 Chambers Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0993407,
+    "lon": -84.519098
+   },
+   "phone": "+17704855583",
+   "website": "https://www.emberyoga.com/",
+   "opening_hours": "06:00-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13687162503",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "findlay-rowe-gift-shop-and-boutique-woodstock",
+   "name": "Findlay Rowe Gift Shop & Boutique",
+   "summary": "Findlay Rowe Gift Shop & Boutique is a gift shop in Woodstock, GA at 102 Fowler Street, Woodstock, GA. Phone: +14708250262. Website: https://www.findlayrowedesigns.com/.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/findlay-rowe-gift-shop-and-boutique-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/findlay-rowe-gift-shop-and-boutique-woodstock.json",
+   "address": {
+    "streetAddress": "102 Fowler Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.098129,
+    "lon": -84.5199737
+   },
+   "phone": "+14708250262",
+   "website": "https://www.findlayrowedesigns.com/",
+   "opening_hours": "Mo 11:00-18:00; Tu-Sa 10:00-18:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999781639",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "flyin-wrench-motorsports-woodstock",
+   "name": "Flyin' Wrench Motorsports",
+   "summary": "Flyin' Wrench Motorsports is an auto repair shop in Woodstock, GA at 9575 Main Street, Woodstock, GA. Phone: +16783214888. Website: https://www.flyinwrench.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/flyin-wrench-motorsports-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/flyin-wrench-motorsports-woodstock.json",
+   "address": {
+    "streetAddress": "9575 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0865821,
+    "lon": -84.519137
+   },
+   "phone": "+16783214888",
+   "website": "https://www.flyinwrench.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723228",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "h-and-r-block-woodstock",
+   "name": "H&R Block",
+   "summary": "H&R Block is a tax preparation service in Woodstock, GA at 1075 Buckhead Crossing #100, Woodstock, GA. Phone: +17705169407. Website: https://www.hrblock.com/local-tax-offices/georgia/woodstock/1075-buckhead-crossing-ste-100/10934/.",
+   "categories": [
+    "tax preparation"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/h-and-r-block-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-woodstock.json",
+   "address": {
+    "streetAddress": "1075 Buckhead Crossing #100",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1060951,
+    "lon": -84.5419585
+   },
+   "phone": "+17705169407",
+   "website": "https://www.hrblock.com/local-tax-offices/georgia/woodstock/1075-buckhead-crossing-ste-100/10934/",
+   "opening_hours": "Mo 10:00-14:00; We,Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12051492414",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "holly-springs-jewelers-woodstock",
+   "name": "Holly Springs Jewelers",
+   "summary": "Holly Springs Jewelers is a jewelry store in Woodstock, GA at 510 Chambers Street, Woodstock, GA. Phone: +17709283280. Website: https://www.hollyspringsjewelers.com/.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/holly-springs-jewelers-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/holly-springs-jewelers-woodstock.json",
+   "address": {
+    "streetAddress": "510 Chambers Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1002498,
+    "lon": -84.5188091
+   },
+   "phone": "+17709283280",
+   "website": "https://www.hollyspringsjewelers.com/",
+   "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13687162509",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ice-box-cryotherapy-woodstock",
+   "name": "Ice Box Cryotherapy",
+   "summary": "Ice Box Cryotherapy is a physical therapy clinic in Woodstock, GA at 1428 Towne Lake Parkway #97, Woodstock, GA. Phone: +17705752432. Website: https://iceboxtherapy.com/woodstock-ga/.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ice-box-cryotherapy-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ice-box-cryotherapy-woodstock.json",
+   "address": {
+    "streetAddress": "1428 Towne Lake Parkway #97",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1060643,
+    "lon": -84.5396643
+   },
+   "phone": "+17705752432",
+   "website": "https://iceboxtherapy.com/woodstock-ga/",
+   "opening_hours": "Mo-Th 09:00-19:00; Fr-Su 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644181",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "ingrids-spa-and-wellness-woodstock",
+   "name": "Ingrid's Spa & Wellness",
+   "summary": "Ingrid's Spa & Wellness is a skin care studio in Woodstock, GA at 8720 Main Street #120, Woodstock, GA. Phone: +17707712481. Website: https://ingridwellness.com/.",
+   "categories": [
+    "facial"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/ingrids-spa-and-wellness-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/ingrids-spa-and-wellness-woodstock.json",
+   "address": {
+    "streetAddress": "8720 Main Street #120",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0993025,
+    "lon": -84.5204307
+   },
+   "phone": "+17707712481",
+   "website": "https://ingridwellness.com/",
+   "opening_hours": "10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13619263621",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jr-industries-woodstock",
+   "name": "JR Industries",
+   "summary": "JR Industries is a flooring company in Woodstock, GA at 9872 Main Street #B, Woodstock, GA. Phone: +17705922680. Website: https://www.jrindustries.net/.",
+   "categories": [
+    "flooring companies"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jr-industries-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jr-industries-woodstock.json",
+   "address": {
+    "streetAddress": "9872 Main Street #B",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0812788,
+    "lon": -84.5205119
+   },
+   "phone": "+17705922680",
+   "website": "https://www.jrindustries.net/",
+   "opening_hours": "Mo-Fr 07:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13613546714",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lamour-nails-woodstock",
+   "name": "L'Amour Nails",
+   "summary": "L'Amour Nails is a nail salon in Woodstock, GA at 2990 Eagle Drive #103, Woodstock, GA. Phone: +17705174757. Website: https://lamournailsga.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lamour-nails-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lamour-nails-woodstock.json",
+   "address": {
+    "streetAddress": "2990 Eagle Drive #103",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.112214,
+    "lon": -84.5609167
+   },
+   "phone": "+17705174757",
+   "website": "https://lamournailsga.com/",
+   "opening_hours": "Mo-Th 10:00-19:30; Fr-Sa 09:30-19:30; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13382204471",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "lamier-nail-bar-woodstock",
+   "name": "Lamier Nail Bar",
+   "summary": "Lamier Nail Bar is a nail salon in Woodstock, GA at 9550 Main Street #140, Woodstock, GA. Phone: +16787998888. Website: https://lamiernailbarga.com/.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/lamier-nail-bar-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/lamier-nail-bar-woodstock.json",
+   "address": {
+    "streetAddress": "9550 Main Street #140",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0871921,
+    "lon": -84.5199723
+   },
+   "phone": "+16787998888",
+   "website": "https://lamiernailbarga.com/",
+   "opening_hours": "Mo off; Tu-Sa 10:00-19:00; Su 12:00-17:30",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723222",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "made-mercantile-woodstock",
+   "name": "Made Mercantile",
+   "summary": "Made Mercantile is a coworking space in Woodstock, GA at 8636 Main Street, Woodstock, GA. Phone: +16784449134. Website: https://www.mademercantile.com/.",
+   "categories": [
+    "coworking space"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/made-mercantile-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/made-mercantile-woodstock.json",
+   "address": {
+    "streetAddress": "8636 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1004244,
+    "lon": -84.5200048
+   },
+   "phone": "+16784449134",
+   "website": "https://www.mademercantile.com/",
+   "opening_hours": "Mo-Th 13:00-17:00; Fr-Su 11:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/400661505",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "marietta-eye-clinic-woodstock",
+   "name": "Marietta Eye Clinic",
+   "summary": "Marietta Eye Clinic is an eye care practice in Woodstock, GA at 2990 Eagle Drive, Woodstock, GA. Phone: +16784604810. Website: https://www.mariettaeye.com/.",
+   "categories": [
+    "eye doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/marietta-eye-clinic-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/marietta-eye-clinic-woodstock.json",
+   "address": {
+    "streetAddress": "2990 Eagle Drive",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1123015,
+    "lon": -84.5614771
+   },
+   "phone": "+16784604810",
+   "website": "https://www.mariettaeye.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13382204466",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "michael-christian-salon-woodstock",
+   "name": "Michael Christian Salon",
+   "summary": "Michael Christian Salon is a hair salon in Woodstock, GA at 1428 Towne Lake Parkway #98, Woodstock, GA. Phone: +17706726183. Website: https://www.michaelchristiansalon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/michael-christian-salon-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/michael-christian-salon-woodstock.json",
+   "address": {
+    "streetAddress": "1428 Towne Lake Parkway #98",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1060447,
+    "lon": -84.5395932
+   },
+   "phone": "+17706726183",
+   "website": "https://www.michaelchristiansalon.com/",
+   "opening_hours": "Mo,Su off; Tu-Th 09:00-21:00; Fr-Sa 09:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644182",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "our-pals-place-woodstock",
+   "name": "Our Pal's Place",
+   "summary": "Our Pal's Place is a dog boarding facility in Woodstock, GA at 9533 Main Street, Woodstock, GA. Phone: +16784028351. Website: https://www.dbt.ourpalsplace.org/.",
+   "categories": [
+    "dog boarding"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/our-pals-place-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/our-pals-place-woodstock.json",
+   "address": {
+    "streetAddress": "9533 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0871443,
+    "lon": -84.5186524
+   },
+   "phone": "+16784028351",
+   "website": "https://www.dbt.ourpalsplace.org/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 10:00-17:00; Su 12:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13687745686",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "peachtree-immediate-care-woodstock",
+   "name": "Peachtree Immediate Care",
+   "summary": "Peachtree Immediate Care is a family medicine practice in Woodstock, GA at 9670 Main Street, Woodstock, GA. Phone: +16785401989. Website: https://www.peachtreemed.com/location/woodstock/.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/peachtree-immediate-care-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/peachtree-immediate-care-woodstock.json",
+   "address": {
+    "streetAddress": "9670 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0853425,
+    "lon": -84.5197887
+   },
+   "phone": "+16785401989",
+   "website": "https://www.peachtreemed.com/location/woodstock/",
+   "opening_hours": "08:00-20:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/627209065",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-supermarket-woodstock",
+   "name": "Pet Supermarket",
+   "summary": "Pet Supermarket is a pet store in Woodstock, GA at 1428 Towne Lake Parkway, Woodstock, GA. Phone: +17705173798. Website: https://www.petsupermarket.com/storelocator/?storeId=411.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supermarket-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supermarket-woodstock.json",
+   "address": {
+    "streetAddress": "1428 Towne Lake Parkway",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1058462,
+    "lon": -84.5393939
+   },
+   "phone": "+17705173798",
+   "website": "https://www.petsupermarket.com/storelocator/?storeId=411",
+   "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644184",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "polar-nite-services-woodstock",
+   "name": "Polar Nite Services",
+   "summary": "Polar Nite Services is an IT support company in Woodstock, GA at 8744 Main Street #401, Woodstock, GA. Phone: +16782220555. Website: https://polarnite.com/.",
+   "categories": [
+    "it support"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/polar-nite-services-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/polar-nite-services-woodstock.json",
+   "address": {
+    "streetAddress": "8744 Main Street #401",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0989208,
+    "lon": -84.5207467
+   },
+   "phone": "+16782220555",
+   "website": "https://polarnite.com/",
+   "opening_hours": "Mo-Fr 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13619263618",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "reeves-floral-woodstock",
+   "name": "Reeves Floral",
+   "summary": "Reeves Floral is a florist in Woodstock, GA at 10288 Highway 92, Woodstock, GA. Phone: +17709245230. Website: https://reevesfloral.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/reeves-floral-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/reeves-floral-woodstock.json",
+   "address": {
+    "streetAddress": "10288 Highway 92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0846626,
+    "lon": -84.5168481
+   },
+   "phone": "+17709245230",
+   "website": "https://reevesfloral.com/",
+   "opening_hours": "Mo-Fr 08:00-15:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13175832515",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sport-clips-haircuts-woodstock",
+   "name": "Sport Clips Haircuts",
+   "summary": "Sport Clips Haircuts is a hair salon in Woodstock, GA at 1428 Towne Lake Parkway #103, Woodstock, GA. Phone: +17709260987. Website: https://sportclips.com/us-ga-woodstock-ga105.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sport-clips-haircuts-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-haircuts-woodstock.json",
+   "address": {
+    "streetAddress": "1428 Towne Lake Parkway #103",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1057964,
+    "lon": -84.539195
+   },
+   "phone": "+17709260987",
+   "website": "https://sportclips.com/us-ga-woodstock-ga105",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644188",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "steadfast-psychiatry-woodstock",
+   "name": "Steadfast Psychiatry",
+   "summary": "Steadfast Psychiatry is a therapy practice in Woodstock, GA at 8744 Main Street #404, Woodstock, GA. Phone: +16788001411. Website: https://www.steadfastpsych.com/.",
+   "categories": [
+    "therapist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/steadfast-psychiatry-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/steadfast-psychiatry-woodstock.json",
+   "address": {
+    "streetAddress": "8744 Main Street #404",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0988664,
+    "lon": -84.5207565
+   },
+   "phone": "+16788001411",
+   "website": "https://www.steadfastpsych.com/",
+   "opening_hours": "We-Th 07:00-14:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13619263617",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stretch-zone-woodstock",
+   "name": "Stretch Zone",
+   "summary": "Stretch Zone is a gym in Woodstock, GA at 1426 Towne Lake Parkway #100, Woodstock, GA. Phone: +16784268985. Website: https://www.stretchzone.com/locations/woodstock/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stretch-zone-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stretch-zone-woodstock.json",
+   "address": {
+    "streetAddress": "1426 Towne Lake Parkway #100",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1055962,
+    "lon": -84.5388317
+   },
+   "phone": "+16784268985",
+   "website": "https://www.stretchzone.com/locations/woodstock/",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-16:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644190",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "studio-68-woodstock",
+   "name": "Studio 68",
+   "summary": "Studio 68 is a hair salon in Woodstock, GA at 8855 Main Street #B, Woodstock, GA. Phone: +14046416890. Website: https://www.studio68salon.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/studio-68-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/studio-68-woodstock.json",
+   "address": {
+    "streetAddress": "8855 Main Street #B",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0976375,
+    "lon": -84.5200157
+   },
+   "phone": "+14046416890",
+   "website": "https://www.studio68salon.com/",
+   "opening_hours": "Tu 12:00-18:00; We-Th 10:00-18:00; Fr 10:00-16:00; Sa-Mo off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999781707",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-joint-chiropractic-woodstock",
+   "name": "The Joint Chiropractic",
+   "summary": "The Joint Chiropractic is a chiropractor in Woodstock, GA at 1428 Towne Lake Parkway #102, Woodstock, GA. Phone: +17708093818. Website: https://www.thejoint.com/georgia/woodstock/woodstock-04031.",
+   "categories": [
+    "chiropractor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-woodstock.json",
+   "address": {
+    "streetAddress": "1428 Towne Lake Parkway #102",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1058172,
+    "lon": -84.5392953
+   },
+   "phone": "+17708093818",
+   "website": "https://www.thejoint.com/georgia/woodstock/woodstock-04031",
+   "opening_hours": "Mo-We,Fr 10:00-19:00; Th off; Sa 10:00-16:00; Su 11:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644189",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-peach-cobbler-factory-woodstock",
+   "name": "The Peach Cobbler Factory",
+   "summary": "The Peach Cobbler Factory is a bakery in Woodstock, GA at 1426 Towne Lake Parkway #104, Woodstock, GA. Phone: +17706793387. Website: https://www.peachcobblerfactory.com/the-peach-cobbler-factory-locations/646-woodstock-ga.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-peach-cobbler-factory-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-peach-cobbler-factory-woodstock.json",
+   "address": {
+    "streetAddress": "1426 Towne Lake Parkway #104",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.105408,
+    "lon": -84.5389137
+   },
+   "phone": "+17706793387",
+   "website": "https://www.peachcobblerfactory.com/the-peach-cobbler-factory-locations/646-woodstock-ga",
+   "opening_hours": "12:00-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644195",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tires-plus-woodstock",
+   "name": "Tires Plus",
+   "summary": "Tires Plus is a tire shop in Woodstock, GA at 9695 Main Street, Woodstock, GA. Phone: +17704505659. Website: https://www.tiresplus.com/georgia/woodstock/9695-main-st/.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tires-plus-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tires-plus-woodstock.json",
+   "address": {
+    "streetAddress": "9695 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0848559,
+    "lon": -84.5187158
+   },
+   "phone": "+17704505659",
+   "website": "https://www.tiresplus.com/georgia/woodstock/9695-main-st/",
+   "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 08:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13175832513",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "wellstar-primary-care-woodstock",
+   "name": "Wellstar Primary Care",
+   "summary": "Wellstar Primary Care is a family medicine practice in Woodstock, GA at 203 Woodpark Place #Building C, Suite 100, Woodstock, GA. Phone: +17709264150. Website: https://www.wellstar.org/locations/medical-practice/primary-care-woodstock-203-woodpark-place-building-c.",
+   "categories": [
+    "family doctor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/wellstar-primary-care-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/wellstar-primary-care-woodstock.json",
+   "address": {
+    "streetAddress": "203 Woodpark Place #Building C, Suite 100",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0880495,
+    "lon": -84.5244067
+   },
+   "phone": "+17709264150",
+   "website": "https://www.wellstar.org/locations/medical-practice/primary-care-woodstock-203-woodpark-place-building-c",
+   "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-14:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12674271391",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodstock-dental-care-woodstock",
+   "name": "Woodstock Dental Care",
+   "summary": "Woodstock Dental Care is a dentist in Woodstock, GA at 8950 Main Street, Woodstock, GA. Phone: +17709264447. Website: https://www.woodstocksmiles.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodstock-dental-care-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodstock-dental-care-woodstock.json",
+   "address": {
+    "streetAddress": "8950 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0957909,
+    "lon": -84.5210179
+   },
+   "phone": "+17709264447",
+   "website": "https://www.woodstocksmiles.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999781812",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodstock-dentistry-woodstock",
+   "name": "Woodstock Dentistry",
+   "summary": "Woodstock Dentistry is a dentist in Woodstock, GA at 1428 Towne Lake Parkway #99, Woodstock, GA. Phone: +16782032294. Website: https://www.woodstockdentistryoffice.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodstock-dentistry-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodstock-dentistry-woodstock.json",
+   "address": {
+    "streetAddress": "1428 Towne Lake Parkway #99",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1059192,
+    "lon": -84.5395779
+   },
+   "phone": "+16782032294",
+   "website": "https://www.woodstockdentistryoffice.com/",
+   "opening_hours": "Mo-Tu 08:00-17:00; We 09:00-19:00; Th 09:00-17:00; Fr 08:00-14:00; Sa 09:00-14:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644183",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodstock-flowers-woodstock",
+   "name": "Woodstock Flowers",
+   "summary": "Woodstock Flowers is a florist in Woodstock, GA at 9515 Main Street, Woodstock, GA. Phone: +16784458875. Website: https://woodstockflowers.com/.",
+   "categories": [
+    "florist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodstock-flowers-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodstock-flowers-woodstock.json",
+   "address": {
+    "streetAddress": "9515 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.087592,
+    "lon": -84.5191009
+   },
+   "phone": "+16784458875",
+   "website": "https://woodstockflowers.com/",
+   "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999781807",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodstock-funeral-home-woodstock",
+   "name": "Woodstock Funeral Home",
+   "summary": "Woodstock Funeral Home is a funeral home in Woodstock, GA at 8855 Main Street, Woodstock, GA. Phone: +17709263107. Website: https://www.dignitymemorial.com/funeral-homes/Georgia/woodstock/woodstock-funeral-home/7129.",
+   "categories": [
+    "funeral home"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodstock-funeral-home-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodstock-funeral-home-woodstock.json",
+   "address": {
+    "streetAddress": "8855 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0973955,
+    "lon": -84.519933
+   },
+   "phone": "+17709263107",
+   "website": "https://www.dignitymemorial.com/funeral-homes/Georgia/woodstock/woodstock-funeral-home/7129",
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999781864",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodstock-quality-paint-and-body-woodstock",
+   "name": "Woodstock Quality Paint & Body",
+   "summary": "Woodstock Quality Paint & Body is an auto repair shop in Woodstock, GA at 9285 Main Street, Woodstock, GA. Phone: +17709263898. Website: https://www.napaonline.com/en/autocare/?facilityId=244662.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodstock-quality-paint-and-body-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodstock-quality-paint-and-body-woodstock.json",
+   "address": {
+    "streetAddress": "9285 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.090443,
+    "lon": -84.5192385
+   },
+   "phone": "+17709263898",
+   "website": "https://www.napaonline.com/en/autocare/?facilityId=244662",
+   "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-12:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 19.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/1493786162",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "benton-house-woodstock",
+   "name": "Benton House",
+   "summary": "Benton House is an assisted living facility in Woodstock, GA at 3385 Trickum Road, Woodstock, GA 30188. Phone: +16789094930. Website: https://www.bentonhouse.com/.",
+   "categories": [
+    "assisted living"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benton-house-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benton-house-woodstock.json",
+   "address": {
+    "streetAddress": "3385 Trickum Road",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0822597,
+    "lon": -84.4837173
+   },
+   "phone": "+16789094930",
+   "website": "https://www.bentonhouse.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/relation/8416112",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chastain-heights-by-direct-residential-communities-woodstock",
+   "name": "Chastain Heights by Direct Residential Communities",
+   "summary": "Chastain Heights by Direct Residential Communities is a real estate agency in Woodstock, GA at 350 Lanier Circle, Woodstock, GA 30189. Phone: +16789449845. Website: https://www.directresidentialcommunities.com/new-homes/woodstock/chastain-heights/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chastain-heights-by-direct-residential-communities-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chastain-heights-by-direct-residential-communities-woodstock.json",
+   "address": {
+    "streetAddress": "350 Lanier Circle",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.0839683,
+    "lon": -84.5551545
+   },
+   "phone": "+16789449845",
+   "website": "https://www.directresidentialcommunities.com/new-homes/woodstock/chastain-heights/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13165657056",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "chloes-auto-repair-and-tire-woodstock",
+   "name": "Chloes Auto Repair and Tire",
+   "summary": "Chloes Auto Repair and Tire is an auto repair shop in Woodstock, GA at 6422 Bells Ferry Road ##100, Woodstock, GA 30189. Phone: +17705758800. Website: https://chloesautorepair.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-and-tire-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/chloes-auto-repair-and-tire-woodstock.json",
+   "address": {
+    "streetAddress": "6422 Bells Ferry Road ##100",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1128424,
+    "lon": -84.5804403
+   },
+   "phone": "+17705758800",
+   "website": "https://chloesautorepair.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8778017125",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-woodstock-w601421098",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Woodstock, GA at 42 Sycamore Lane, Woodstock, GA 30188. Phone: +17702571483. Website: https://www.extraspace.com/.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-woodstock-w601421098/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-woodstock-w601421098.json",
+   "address": {
+    "streetAddress": "42 Sycamore Lane",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.085573,
+    "lon": -84.4832497
+   },
+   "phone": "+17702571483",
+   "website": "https://www.extraspace.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/601421098",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "gathering-on-main-woodstock",
+   "name": "Gathering On Main",
+   "summary": "Gathering On Main is an event venue in Woodstock, GA at 8826 Main Street, Woodstock, GA 30188. Phone: +17709269280. Website: https://gatheringonmainwoodstock.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/gathering-on-main-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/gathering-on-main-woodstock.json",
+   "address": {
+    "streetAddress": "8826 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0976845,
+    "lon": -84.5208075
+   },
+   "phone": "+17709269280",
+   "website": "https://gatheringonmainwoodstock.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999783118",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "horton-benefits-company-woodstock",
+   "name": "Horton Benefits Company",
+   "summary": "Horton Benefits Company is an insurance agent in Woodstock, GA at 9194 Main Street #2B, Woodstock, GA 30188. Phone: +16785016727. Website: https://www.hortonbenefits.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/horton-benefits-company-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/horton-benefits-company-woodstock.json",
+   "address": {
+    "streetAddress": "9194 Main Street #2B",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0919977,
+    "lon": -84.5200708
+   },
+   "phone": "+16785016727",
+   "website": "https://www.hortonbenefits.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13686832137",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-fitness-woodstock",
+   "name": "LA Fitness",
+   "summary": "LA Fitness is a gym in Woodstock, GA at 2060 Eagle Drive, Woodstock, GA 30189. Phone: +16782025612. Website: https://lafitness.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-fitness-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-woodstock.json",
+   "address": {
+    "streetAddress": "2060 Eagle Drive",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1124096,
+    "lon": -84.5643864
+   },
+   "phone": "+16782025612",
+   "website": "https://lafitness.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/532388987",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mattress-firm-clearance-woodstock",
+   "name": "Mattress Firm Clearance",
+   "summary": "Mattress Firm Clearance is a mattress store in Woodstock, GA at 180 Woodstock Square Avenue #900, Woodstock, GA 30189. Phone: +17705920076. Website: https://www.mattressfirm.com/en-us/stores/ga/woodstock/007070/.",
+   "categories": [
+    "mattress store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mattress-firm-clearance-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-clearance-woodstock.json",
+   "address": {
+    "streetAddress": "180 Woodstock Square Avenue #900",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.0842996,
+    "lon": -84.5442012
+   },
+   "phone": "+17705920076",
+   "website": "https://www.mattressfirm.com/en-us/stores/ga/woodstock/007070/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6510990463",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "park-avenue-thrift-woodstock",
+   "name": "Park Avenue Thrift",
+   "summary": "Park Avenue Thrift is a thrift store in Woodstock, GA at 9740 Main Street, Woodstock, GA 30188. Phone: +17709311787. Website: https://parkavethrift.com/.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-avenue-thrift-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-avenue-thrift-woodstock.json",
+   "address": {
+    "streetAddress": "9740 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0840766,
+    "lon": -84.5207814
+   },
+   "phone": "+17709311787",
+   "website": "https://parkavethrift.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11407618260",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "park-view-childcare-and-montessori-school-woodstock",
+   "name": "Park View Childcare and Montessori School",
+   "summary": "Park View Childcare and Montessori School is a preschool in Woodstock, GA at 6689 Bells Ferry Road, Woodstock, GA 30189. Phone: +17709260044. Website: https://www.parkviewmontessorischool.com/.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/park-view-childcare-and-montessori-school-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/park-view-childcare-and-montessori-school-woodstock.json",
+   "address": {
+    "streetAddress": "6689 Bells Ferry Road",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1314082,
+    "lon": -84.5874989
+   },
+   "phone": "+17709260044",
+   "website": "https://www.parkviewmontessorischool.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/417329960",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "towne-lake-insurance-services-inc-woodstock",
+   "name": "Towne Lake Insurance Services Inc",
+   "summary": "Towne Lake Insurance Services Inc is an insurance agent in Woodstock, GA at 1194 Buckhead Crossing #A, Woodstock, GA 30189. Phone: +16784942039. Website: https://gahealthbroker.com/.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/towne-lake-insurance-services-inc-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/towne-lake-insurance-services-inc-woodstock.json",
+   "address": {
+    "streetAddress": "1194 Buckhead Crossing #A",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1075078,
+    "lon": -84.5402471
+   },
+   "phone": "+16784942039",
+   "website": "https://gahealthbroker.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5594308302",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "usa-ninja-challenge-woodstock",
+   "name": "USA Ninja Challenge",
+   "summary": "USA Ninja Challenge is a gym in Woodstock, GA at 185 Stockwood Drive #Suite 100, Woodstock, GA 30188. Phone: +14705672790. Website: https://ninjawoodstock.com/.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/usa-ninja-challenge-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/usa-ninja-challenge-woodstock.json",
+   "address": {
+    "streetAddress": "185 Stockwood Drive #Suite 100",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0816671,
+    "lon": -84.5218131
+   },
+   "phone": "+14705672790",
+   "website": "https://ninjawoodstock.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 16.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12828622502",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "berkshire-hathaway-homeservices-georgia-properties-woodstock",
+   "name": "Berkshire Hathaway HomeServices / Georgia Properties",
+   "summary": "Berkshire Hathaway HomeServices / Georgia Properties is a real estate agency in Woodstock, GA at 1085 Buckhead Crossing #S-100, Woodstock, GA. Phone: +17705172150. Website: https://woodstock.bhhsgeorgia.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/berkshire-hathaway-homeservices-georgia-properties-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/berkshire-hathaway-homeservices-georgia-properties-woodstock.json",
+   "address": {
+    "streetAddress": "1085 Buckhead Crossing #S-100",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1065427,
+    "lon": -84.5417567
+   },
+   "phone": "+17705172150",
+   "website": "https://woodstock.bhhsgeorgia.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12442633616",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "hew-fitness-woodstock",
+   "name": "HEW Fitness",
+   "summary": "HEW Fitness is a gym in Woodstock, GA at 1428 Towne Lake Parkway #106, Woodstock, GA. Phone: +16784025173. Website: https://hewfitness.com/woodstock.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/hew-fitness-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/hew-fitness-woodstock.json",
+   "address": {
+    "streetAddress": "1428 Towne Lake Parkway #106",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1056852,
+    "lon": -84.5389086
+   },
+   "phone": "+16784025173",
+   "website": "https://hewfitness.com/woodstock",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644185",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "realty-one-group-edge-woodstock-woodstock",
+   "name": "Realty ONE Group Edge - Woodstock",
+   "summary": "Realty ONE Group Edge - Woodstock is a real estate agency in Woodstock, GA at 790 Maple Street, Woodstock, GA. Phone: +16789097709. Website: https://edge.myrealtyonegroup.com/real-estate-office/319/woodstock-office.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/realty-one-group-edge-woodstock-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/realty-one-group-edge-woodstock-woodstock.json",
+   "address": {
+    "streetAddress": "790 Maple Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.09916,
+    "lon": -84.5211556
+   },
+   "phone": "+16789097709",
+   "website": "https://edge.myrealtyonegroup.com/real-estate-office/319/woodstock-office",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999781602",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-premier-group-woodstock",
+   "name": "The Premier Group",
+   "summary": "The Premier Group is a real estate agency in Woodstock, GA at 8604 Main Street, Woodstock, GA. Phone: +16784940102. Website: https://www.tpgsells.com/.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-premier-group-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-premier-group-woodstock.json",
+   "address": {
+    "streetAddress": "8604 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1008505,
+    "lon": -84.5197458
+   },
+   "phone": "+16784940102",
+   "website": "https://www.tpgsells.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 15.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13624440399",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bullocks-wine-and-spirits-woodstock",
+   "name": "Bullock's Wine & Spirits",
+   "summary": "Bullock's Wine & Spirits is a liquor store in Woodstock, GA at 1050 Buckhead Crossing, Woodstock, GA 30189. Phone: +16784455222.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bullocks-wine-and-spirits-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bullocks-wine-and-spirits-woodstock.json",
+   "address": {
+    "streetAddress": "1050 Buckhead Crossing",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1057682,
+    "lon": -84.5408448
+   },
+   "phone": "+16784455222",
+   "opening_hours": "Mo-Th 08:00-23:00; Fr-Sa 08:00-23:45; Su 12:30-22:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 14.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/476978370",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "abc-alterations-woodstock",
+   "name": "ABC Alterations",
+   "summary": "ABC Alterations is a dry cleaner in Woodstock, GA at 1426 Towne Lake Parkway #103, Woodstock, GA. Phone: +17709281098.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/abc-alterations-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/abc-alterations-woodstock.json",
+   "address": {
+    "streetAddress": "1426 Towne Lake Parkway #103",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.105485,
+    "lon": -84.5388735
+   },
+   "phone": "+17709281098",
+   "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644192",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "bascomb-mission-thrift-store-woodstock",
+   "name": "Bascomb Mission Thrift Store",
+   "summary": "Bascomb Mission Thrift Store is a thrift store in Woodstock, GA at 9550 Main Street #170, Woodstock, GA. Phone: +16783247937.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/bascomb-mission-thrift-store-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/bascomb-mission-thrift-store-woodstock.json",
+   "address": {
+    "streetAddress": "9550 Main Street #170",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0869666,
+    "lon": -84.5199574
+   },
+   "phone": "+16783247937",
+   "opening_hours": "Mo-Tu,Su off; We-Fr 10:00-17:00; Sa 10:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723205",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fabric-touch-cleaners-woodstock",
+   "name": "Fabric Touch Cleaners",
+   "summary": "Fabric Touch Cleaners is a dry cleaner in Woodstock, GA at 2990 Eagle Drive #112, Woodstock, GA. Phone: +17709268399.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fabric-touch-cleaners-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fabric-touch-cleaners-woodstock.json",
+   "address": {
+    "streetAddress": "2990 Eagle Drive #112",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1123326,
+    "lon": -84.5616225
+   },
+   "phone": "+17709268399",
+   "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13382204465",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jojos-massage-woodstock",
+   "name": "Jojo's Massage",
+   "summary": "Jojo's Massage is a massage studio in Woodstock, GA at 9550 Main Street #110, Woodstock, GA. Phone: +16783888650.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jojos-massage-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jojos-massage-woodstock.json",
+   "address": {
+    "streetAddress": "9550 Main Street #110",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0873182,
+    "lon": -84.5199891
+   },
+   "phone": "+16783888650",
+   "opening_hours": "09:30-21:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723224",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "signature-nail-spa-woodstock",
+   "name": "Signature Nail Spa",
+   "summary": "Signature Nail Spa is a nail salon in Woodstock, GA at 10029 Highway 92 #100, Woodstock, GA. Phone: +16784027184.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/signature-nail-spa-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/signature-nail-spa-woodstock.json",
+   "address": {
+    "streetAddress": "10029 Highway 92 #100",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0867204,
+    "lon": -84.5206225
+   },
+   "phone": "+16784027184",
+   "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7923866961",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "stevens-nails-woodstock",
+   "name": "Steven's Nails",
+   "summary": "Steven's Nails is a nail salon in Woodstock, GA at 1426 Towne Lake Parkway #101, Woodstock, GA. Phone: +17705910017.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/stevens-nails-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/stevens-nails-woodstock.json",
+   "address": {
+    "streetAddress": "1426 Towne Lake Parkway #101",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1055339,
+    "lon": -84.5388562
+   },
+   "phone": "+17705910017",
+   "opening_hours": "Mo-Fr 10:00-19:00; Sa 12:00-18:00; Su off",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 13.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11463644191",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "amber-celeste-woodstock",
+   "name": "Amber Celeste",
+   "summary": "Amber Celeste is a yoga studio in Woodstock, GA at 2340 Towne Lake Parkway, Woodstock, GA 30189. Phone: +17703655106.",
+   "categories": [
+    "yoga classes"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/amber-celeste-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/amber-celeste-woodstock.json",
+   "address": {
+    "streetAddress": "2340 Towne Lake Parkway",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1131252,
+    "lon": -84.5525451
+   },
+   "phone": "+17703655106",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13569692581",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "big-apple-nail-and-spa-1-woodstock",
+   "name": "Big Apple Nail & Spa 1",
+   "summary": "Big Apple Nail & Spa 1 is a nail salon in Woodstock, GA at 2068 Eagle Drive, Woodstock, GA 30189. Phone: +17705169996.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/big-apple-nail-and-spa-1-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/big-apple-nail-and-spa-1-woodstock.json",
+   "address": {
+    "streetAddress": "2068 Eagle Drive",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1126538,
+    "lon": -84.5630894
+   },
+   "phone": "+17705169996",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8777944641",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "castillo-hand-car-wash-woodstock",
+   "name": "Castillo Hand Car Wash",
+   "summary": "Castillo Hand Car Wash is a car wash in Woodstock, GA at 5195 Towne Lake Parkway, Woodstock, GA 30189. Phone: +16784125203.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/castillo-hand-car-wash-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/castillo-hand-car-wash-woodstock.json",
+   "address": {
+    "streetAddress": "5195 Towne Lake Parkway",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1282949,
+    "lon": -84.5850937
+   },
+   "phone": "+16784125203",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/417139842",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-woodstock",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Woodstock, GA at 12050 GA-92 #132, Woodstock, GA 30188. Website: https://www.greatclips.com/.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-woodstock.json",
+   "address": {
+    "streetAddress": "12050 GA-92 #132",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0866744,
+    "lon": -84.4854206
+   },
+   "website": "https://www.greatclips.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6533995101",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "luckys-woodstock",
+   "name": "Lucky's",
+   "summary": "Lucky's is a liquor store in Woodstock, GA at 610 Claremore Professional Way, Woodstock, GA 30188. Website: https://www.yelp.com/biz/luckys-beverage-world-woodstock.",
+   "categories": [
+    "liquor store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/luckys-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/luckys-woodstock.json",
+   "address": {
+    "streetAddress": "610 Claremore Professional Way",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0869999,
+    "lon": -84.4691286
+   },
+   "website": "https://www.yelp.com/biz/luckys-beverage-world-woodstock",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/993470110",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "mavis-tires-and-brakes-woodstock",
+   "name": "Mavis Tires & Brakes",
+   "summary": "Mavis Tires & Brakes is a tire shop in Woodstock, GA at 12005 GA-92, Woodstock, GA 30188. Phone: +16787866208.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-woodstock.json",
+   "address": {
+    "streetAddress": "12005 GA-92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0886193,
+    "lon": -84.4865765
+   },
+   "phone": "+16787866208",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/604097900",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "q-cleaners-woodstock",
+   "name": "Q Cleaners",
+   "summary": "Q Cleaners is a dry cleaner in Woodstock, GA at 12035 GA-92, Woodstock, GA 30188. Phone: +17705165525.",
+   "categories": [
+    "dry cleaners"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/q-cleaners-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/q-cleaners-woodstock.json",
+   "address": {
+    "streetAddress": "12035 GA-92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0885944,
+    "lon": -84.4855369
+   },
+   "phone": "+17705165525",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/5746202403",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "trickum-ridge-animal-hospital-woodstock",
+   "name": "Trickum Ridge Animal Hospital",
+   "summary": "Trickum Ridge Animal Hospital is a veterinarian in Woodstock, GA at 11990 GA-92, Woodstock, GA 30188. Phone: +17705161111.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/trickum-ridge-animal-hospital-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/trickum-ridge-animal-hospital-woodstock.json",
+   "address": {
+    "streetAddress": "11990 GA-92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0873101,
+    "lon": -84.4871443
+   },
+   "phone": "+17705161111",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603557113",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "venue-92-woodstock",
+   "name": "Venue 92",
+   "summary": "Venue 92 is an event venue in Woodstock, GA at 12015 GA-92, Woodstock, GA 30188. Website: https://www.venue92.com/.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/venue-92-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/venue-92-woodstock.json",
+   "address": {
+    "streetAddress": "12015 GA-92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0894077,
+    "lon": -84.486519
+   },
+   "website": "https://www.venue92.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 10.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/695831805",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "atlanta-epoxy-tables-woodstock",
+   "name": "Atlanta Epoxy Tables",
+   "summary": "Atlanta Epoxy Tables is a furniture store in Woodstock, GA at 9467 Main Street #110, Woodstock, GA. Phone: +14707648212.",
+   "categories": [
+    "furniture store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlanta-epoxy-tables-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlanta-epoxy-tables-woodstock.json",
+   "address": {
+    "streetAddress": "9467 Main Street #110",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.088416,
+    "lon": -84.5188496
+   },
+   "phone": "+14707648212",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13687745685",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "car-corner-woodstock",
+   "name": "Car Corner",
+   "summary": "Car Corner is an auto repair shop in Woodstock, GA at 10205 Highway 92, Woodstock, GA. Phone: +17705914555.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/car-corner-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/car-corner-woodstock.json",
+   "address": {
+    "streetAddress": "10205 Highway 92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0862054,
+    "lon": -84.5184958
+   },
+   "phone": "+17705914555",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999782305",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "dentistry-of-olde-towne-woodstock",
+   "name": "Dentistry Of Olde Towne",
+   "summary": "Dentistry Of Olde Towne is a dentist in Woodstock, GA at 113 Towne Lake Parkway #110, Woodstock, GA. Website: https://dentistryoldetowne.com/.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/dentistry-of-olde-towne-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/dentistry-of-olde-towne-woodstock.json",
+   "address": {
+    "streetAddress": "113 Towne Lake Parkway #110",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1015004,
+    "lon": -84.5210747
+   },
+   "website": "https://dentistryoldetowne.com/",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/14055150120",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-bastille-woodstock",
+   "name": "Salon Bastille",
+   "summary": "Salon Bastille is a hair salon in Woodstock, GA at 8654 Main Street, Woodstock, GA. Phone: +14049313073.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-bastille-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-bastille-woodstock.json",
+   "address": {
+    "streetAddress": "8654 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1002104,
+    "lon": -84.5201632
+   },
+   "phone": "+14049313073",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/400661503",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "taekwondo-survive-woodstock",
+   "name": "TaeKwonDo Survive",
+   "summary": "TaeKwonDo Survive is a martial arts school in Woodstock, GA at 9740 Main Street, Woodstock, GA. Phone: +14043978573.",
+   "categories": [
+    "martial arts"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/taekwondo-survive-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/taekwondo-survive-woodstock.json",
+   "address": {
+    "streetAddress": "9740 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0836528,
+    "lon": -84.5209776
+   },
+   "phone": "+14043978573",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 9.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723208",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "animal-hospital-of-towne-lake-woodstock",
+   "name": "Animal Hospital of Towne Lake",
+   "summary": "Animal Hospital of Towne Lake is a veterinarian in Woodstock, GA at 3105 Parkbrooke Circle, Woodstock, GA 30189.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-towne-lake-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/animal-hospital-of-towne-lake-woodstock.json",
+   "address": {
+    "streetAddress": "3105 Parkbrooke Circle",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1109235,
+    "lon": -84.559115
+   },
+   "opening_hours": "24/7",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 8.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13458584880",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "art-jewelers-woodstock",
+   "name": "Art Jewelers",
+   "summary": "Art Jewelers is a jewelry store in Woodstock, GA.",
+   "categories": [
+    "jewelry store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/art-jewelers-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/art-jewelers-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0845673,
+    "lon": -84.5462058
+   },
+   "opening_hours": "Tu-Sa 10:00-18:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6567524096",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "discovery-point-woodstock",
+   "name": "Discovery Point",
+   "summary": "Discovery Point is a preschool in Woodstock, GA at 12055 GA-92, Woodstock, GA 30188.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/discovery-point-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/discovery-point-woodstock.json",
+   "address": {
+    "streetAddress": "12055 GA-92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0901769,
+    "lon": -84.48678
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/603557116",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "goodwill-woodstock",
+   "name": "Goodwill",
+   "summary": "Goodwill is a thrift store in Woodstock, GA at 9425 Highway 92, Woodstock, GA 30188.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/goodwill-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/goodwill-woodstock.json",
+   "address": {
+    "streetAddress": "9425 Highway 92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0872343,
+    "lon": -84.5324575
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/718062111",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "old-towne-animal-hospital-woodstock",
+   "name": "Old Towne Animal Hospital",
+   "summary": "Old Towne Animal Hospital is a veterinarian in Woodstock, GA at 121 Mill Street, Woodstock, GA 30188.",
+   "categories": [
+    "vet"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/old-towne-animal-hospital-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/old-towne-animal-hospital-woodstock.json",
+   "address": {
+    "streetAddress": "121 Mill Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.1011195,
+    "lon": -84.5227234
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/642646791",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pet-supermarket-woodstock-w400655874",
+   "name": "Pet Supermarket",
+   "summary": "Pet Supermarket is a pet store in Woodstock, GA at 12185 GA-92, Woodstock, GA 30188.",
+   "categories": [
+    "pet store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pet-supermarket-woodstock-w400655874/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pet-supermarket-woodstock-w400655874.json",
+   "address": {
+    "streetAddress": "12185 GA-92",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0881559,
+    "lon": -84.482444
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/400655874",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "sunbrook-academy-at-deer-run-woodstock",
+   "name": "Sunbrook Academy At Deer Run",
+   "summary": "Sunbrook Academy At Deer Run is a daycare in Woodstock, GA at 1390 Buckhead Crossing, Woodstock, GA 30189.",
+   "categories": [
+    "daycare"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/sunbrook-academy-at-deer-run-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/sunbrook-academy-at-deer-run-woodstock.json",
+   "address": {
+    "streetAddress": "1390 Buckhead Crossing",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30189",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30189",
+   "geo": {
+    "lat": 34.1104537,
+    "lon": -84.5403227
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/642900793",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "thrift-store-woodstock",
+   "name": "Thrift Store",
+   "summary": "Thrift Store is a thrift store in Woodstock, GA.",
+   "categories": [
+    "thrift store"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/thrift-store-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/thrift-store-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1010686,
+    "lon": -84.5202794
+   },
+   "opening_hours": "Th-Sa 09:00-16:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 4.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6049239430",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "creative-award-and-promotions-woodstock",
+   "name": "Creative Award and Promotions",
+   "summary": "Creative Award and Promotions is a marketing agency in Woodstock, GA at 11299 Alabama Road, Woodstock, GA.",
+   "categories": [
+    "marketing agency"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/creative-award-and-promotions-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/creative-award-and-promotions-woodstock.json",
+   "address": {
+    "streetAddress": "11299 Alabama Road",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0870483,
+    "lon": -84.4999463
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7923866941",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "double-brush-car-wash-woodstock",
+   "name": "Double Brush Car Wash",
+   "summary": "Double Brush Car Wash is a car wash in Woodstock, GA at 8964 Main Street, Woodstock, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/double-brush-car-wash-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/double-brush-car-wash-woodstock.json",
+   "address": {
+    "streetAddress": "8964 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.095495,
+    "lon": -84.520873
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/999782260",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grease-monkey-woodstock-n12442623548",
+   "name": "Grease Monkey",
+   "summary": "Grease Monkey is an auto repair shop in Woodstock, GA at 1490 Towne Lake Parkway, Woodstock, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grease-monkey-woodstock-n12442623548/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grease-monkey-woodstock-n12442623548.json",
+   "address": {
+    "streetAddress": "1490 Towne Lake Parkway",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1056281,
+    "lon": -84.5431757
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12442623548",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jw-automotive-woodstock",
+   "name": "JW Automotive",
+   "summary": "JW Automotive is an auto repair shop in Woodstock, GA at 609 Mauldin Drive, Woodstock, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jw-automotive-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jw-automotive-woodstock.json",
+   "address": {
+    "streetAddress": "609 Mauldin Drive",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.083461,
+    "lon": -84.5187762
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13686832134",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "polished-peach-car-wash-woodstock",
+   "name": "Polished Peach Car Wash",
+   "summary": "Polished Peach Car Wash is a car wash in Woodstock, GA at 1490 Towne Lake Parkway, Woodstock, GA.",
+   "categories": [
+    "car wash"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/polished-peach-car-wash-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/polished-peach-car-wash-woodstock.json",
+   "address": {
+    "streetAddress": "1490 Towne Lake Parkway",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.105744,
+    "lon": -84.5433449
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12442623547",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tint-atlanta-woodstock",
+   "name": "Tint Atlanta",
+   "summary": "Tint Atlanta is an auto repair shop in Woodstock, GA at 9565 Main Street, Woodstock, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tint-atlanta-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tint-atlanta-woodstock.json",
+   "address": {
+    "streetAddress": "9565 Main Street",
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0865025,
+    "lon": -84.5191314
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 3.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723227",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "usa-health-insurance-woodstock",
+   "name": "USA Health Insurance",
+   "summary": "USA Health Insurance is an insurance agent in Woodstock, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/usa-health-insurance-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/usa-health-insurance-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "postalCode": "30188",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "zip": "30188",
+   "geo": {
+    "lat": 34.0917565,
+    "lon": -84.5200689
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 1.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13686832136",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "all-about-health-woodstock",
+   "name": "All About Health",
+   "summary": "All About Health is a gym in Woodstock, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/all-about-health-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/all-about-health-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0894508,
+    "lon": -84.4832245
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13175838996",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allcover-insurance-woodstock",
+   "name": "AllCover Insurance",
+   "summary": "AllCover Insurance is an insurance agent in Woodstock, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allcover-insurance-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allcover-insurance-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0846426,
+    "lon": -84.5205124
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723239",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "allstate-woodstock",
+   "name": "Allstate",
+   "summary": "Allstate is an insurance agent in Woodstock, GA.",
+   "categories": [
+    "insurance agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/allstate-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/allstate-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0878571,
+    "lon": -84.476044
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8042517658",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "angelas-grooming-woodstock",
+   "name": "Angela's Grooming",
+   "summary": "Angela's Grooming is a dog groomer in Woodstock, GA.",
+   "categories": [
+    "dog groomer"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/angelas-grooming-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/angelas-grooming-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0868025,
+    "lon": -84.5012157
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13092813610",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "atlanta-bread-woodstock",
+   "name": "Atlanta Bread",
+   "summary": "Atlanta Bread is a bakery in Woodstock, GA.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlanta-bread-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlanta-bread-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0843044,
+    "lon": -84.54462
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6567524108",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "atlanta-communities-real-estate-brokerage-woodstock",
+   "name": "Atlanta Communities Real Estate Brokerage",
+   "summary": "Atlanta Communities Real Estate Brokerage is a real estate agency in Woodstock, GA.",
+   "categories": [
+    "real estate agent"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/atlanta-communities-real-estate-brokerage-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/atlanta-communities-real-estate-brokerage-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0856293,
+    "lon": -84.5247766
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8042531193",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "benchmark-physical-therapy-woodstock",
+   "name": "Benchmark Physical Therapy",
+   "summary": "Benchmark Physical Therapy is a physical therapy clinic in Woodstock, GA.",
+   "categories": [
+    "physical therapy"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/benchmark-physical-therapy-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/benchmark-physical-therapy-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0867059,
+    "lon": -84.4856327
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7923866937",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "blush-nail-bar-woodstock",
+   "name": "Blush Nail Bar",
+   "summary": "Blush Nail Bar is a nail salon in Woodstock, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/blush-nail-bar-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/blush-nail-bar-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0868937,
+    "lon": -84.5301882
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8042517676",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "brazil-body-wax-woodstock",
+   "name": "Brazil Body Wax",
+   "summary": "Brazil Body Wax is a waxing salon in Woodstock, GA.",
+   "categories": [
+    "waxing"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/brazil-body-wax-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/brazil-body-wax-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.089456,
+    "lon": -84.4834086
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13175838992",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "cell-phone-repair-woodstock",
+   "name": "Cell Phone Repair",
+   "summary": "Cell Phone Repair is a phone repair shop in Woodstock, GA.",
+   "categories": [
+    "phone repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0866981,
+    "lon": -84.4855529
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8042531185",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "edward-jones-woodstock",
+   "name": "Edward Jones",
+   "summary": "Edward Jones is a financial advisor in Woodstock, GA.",
+   "categories": [
+    "financial advisor"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/edward-jones-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.1063769,
+    "lon": -84.5175527
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/11839358874",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "el-evento-perfecto-woodstock",
+   "name": "El Evento Perfecto",
+   "summary": "El Evento Perfecto is an event venue in Woodstock, GA.",
+   "categories": [
+    "event venues"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/el-evento-perfecto-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/el-evento-perfecto-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0832246,
+    "lon": -84.5208087
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723231",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "el-regalo-perfecto-woodstock",
+   "name": "El Regalo Perfecto",
+   "summary": "El Regalo Perfecto is a gift shop in Woodstock, GA.",
+   "categories": [
+    "gift shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/el-regalo-perfecto-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/el-regalo-perfecto-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0832863,
+    "lon": -84.5197928
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723235",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "elite-landscape-services-woodstock",
+   "name": "Elite Landscape Services",
+   "summary": "Elite Landscape Services is a landscaping company in Woodstock, GA.",
+   "categories": [
+    "landscaping"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/elite-landscape-services-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/elite-landscape-services-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0835503,
+    "lon": -84.4840108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13092860758",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "extra-space-storage-woodstock",
+   "name": "Extra Space Storage",
+   "summary": "Extra Space Storage is a self-storage facility in Woodstock, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/extra-space-storage-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.103781,
+    "lon": -84.5291599
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13208831472",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "fit-body-camp-woodstock",
+   "name": "Fit Body Camp",
+   "summary": "Fit Body Camp is a gym in Woodstock, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/fit-body-camp-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/fit-body-camp-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.087283,
+    "lon": -84.4707552
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7922936699",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "golds-gym-woodstock",
+   "name": "Gold's Gym",
+   "summary": "Gold's Gym is a gym in Woodstock, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/golds-gym-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/golds-gym-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0853872,
+    "lon": -84.4671947
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/way/993472559",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "grease-monkey-woodstock",
+   "name": "Grease Monkey",
+   "summary": "Grease Monkey is an auto repair shop in Woodstock, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/grease-monkey-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/grease-monkey-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0858244,
+    "lon": -84.5273894
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/12051443961",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "great-clips-woodstock-n6567524109",
+   "name": "Great Clips",
+   "summary": "Great Clips is a hair salon in Woodstock, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/great-clips-woodstock-n6567524109/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/great-clips-woodstock-n6567524109.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0843095,
+    "lon": -84.5444845
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6567524109",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "jerome-b-duncan-dds-general-dentistry-woodstock",
+   "name": "Jerome B Duncan DDS. General Dentistry",
+   "summary": "Jerome B Duncan DDS. General Dentistry is a dentist in Woodstock, GA.",
+   "categories": [
+    "dentist"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/jerome-b-duncan-dds-general-dentistry-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/jerome-b-duncan-dds-general-dentistry-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0844655,
+    "lon": -84.5205261
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723233",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-escondida-bakery-woodstock",
+   "name": "La Escondida Bakery",
+   "summary": "La Escondida Bakery is a bakery in Woodstock, GA.",
+   "categories": [
+    "bakery"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-escondida-bakery-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-escondida-bakery-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0832582,
+    "lon": -84.5210933
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723207",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "la-princesa-beauty-salon-woodstock",
+   "name": "La Princesa Beauty Salon",
+   "summary": "La Princesa Beauty Salon is a hair salon in Woodstock, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/la-princesa-beauty-salon-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/la-princesa-beauty-salon-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0845535,
+    "lon": -84.5205199
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723232",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "massage-envy-woodstock",
+   "name": "Massage Envy",
+   "summary": "Massage Envy is a massage studio in Woodstock, GA.",
+   "categories": [
+    "massage"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/massage-envy-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0844415,
+    "lon": -84.546208
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6567524095",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "oritz-tyres-llc-woodstock",
+   "name": "Oritz Tyres, LLC.",
+   "summary": "Oritz Tyres, LLC. is a tire shop in Woodstock, GA.",
+   "categories": [
+    "tire shop"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/oritz-tyres-llc-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/oritz-tyres-llc-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0824926,
+    "lon": -84.5191958
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13686832132",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "pavillion-nail-lounge-woodstock",
+   "name": "Pavillion Nail Lounge",
+   "summary": "Pavillion Nail Lounge is a nail salon in Woodstock, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/pavillion-nail-lounge-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/pavillion-nail-lounge-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0868182,
+    "lon": -84.4865927
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/7922936711",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "public-storage-woodstock",
+   "name": "Public Storage",
+   "summary": "Public Storage is a self-storage facility in Woodstock, GA.",
+   "categories": [
+    "storage units"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/public-storage-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/public-storage-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0885268,
+    "lon": -84.4703681
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13141408499",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-92-woodstock",
+   "name": "Salon 92",
+   "summary": "Salon 92 is a hair salon in Woodstock, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-92-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-92-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0885936,
+    "lon": -84.4858073
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13092860752",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-bellera-lisseth-woodstock",
+   "name": "Salon Bellera Lisseth",
+   "summary": "Salon Bellera Lisseth is a hair salon in Woodstock, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-bellera-lisseth-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-bellera-lisseth-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0832087,
+    "lon": -84.5202167
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13125723219",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "salon-brownline-woodstock",
+   "name": "Salon Brownline",
+   "summary": "Salon Brownline is a hair salon in Woodstock, GA.",
+   "categories": [
+    "hair salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/salon-brownline-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/salon-brownline-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0866723,
+    "lon": -84.4853598
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13092860757",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "southern-auto-woodstock",
+   "name": "Southern Auto",
+   "summary": "Southern Auto is an auto repair shop in Woodstock, GA.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/southern-auto-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/southern-auto-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0860662,
+    "lon": -84.5025423
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8042517667",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "spa-nails-woodstock",
+   "name": "Spa Nails",
+   "summary": "Spa Nails is a nail salon in Woodstock, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/spa-nails-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/spa-nails-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0898871,
+    "lon": -84.4850712
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13092860756",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "tapout-fitness-woodstock",
+   "name": "Tapout Fitness",
+   "summary": "Tapout Fitness is a gym in Woodstock, GA.",
+   "categories": [
+    "gym"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/tapout-fitness-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/tapout-fitness-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0857761,
+    "lon": -84.5258064
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/8042517669",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "the-ups-store-woodstock",
+   "name": "The UPS Store",
+   "summary": "The UPS Store is a printing service in Woodstock, GA.",
+   "categories": [
+    "printing services"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/the-ups-store-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0893755,
+    "lon": -84.4831745
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13175838997",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "usa-nails-woodstock",
+   "name": "Usa Nails",
+   "summary": "Usa Nails is a nail salon in Woodstock, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/usa-nails-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/usa-nails-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.084341,
+    "lon": -84.5444108
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/6567524111",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "woodhaven-academy-woodstock",
+   "name": "Woodhaven Academy",
+   "summary": "Woodhaven Academy is a preschool in Woodstock, GA.",
+   "categories": [
+    "preschool"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/woodhaven-academy-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/woodhaven-academy-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0915983,
+    "lon": -84.479785
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13092860755",
+   "last_checked": "2026-10-18"
+  },
+  {
+   "slug": "z-nails-woodstock",
+   "name": "Z Nails",
+   "summary": "Z Nails is a nail salon in Woodstock, GA.",
+   "categories": [
+    "nail salon"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/z-nails-woodstock/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/z-nails-woodstock.json",
+   "address": {
+    "addressLocality": "Woodstock",
+    "addressRegion": "GA",
+    "addressCountry": "US"
+   },
+   "city": "Woodstock",
+   "state": "GA",
+   "geo": {
+    "lat": 34.0892167,
+    "lon": -84.4830668
+   },
+   "verified": false,
+   "claimable": true,
+   "trust_score": 0.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13175838999",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

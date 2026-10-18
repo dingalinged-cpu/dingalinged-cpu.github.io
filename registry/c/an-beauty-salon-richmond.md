@@ -13,6 +13,7 @@ AN Beauty Salon is a hair salon in Richmond, TX at 11143 Harlem Road #440, Richm
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

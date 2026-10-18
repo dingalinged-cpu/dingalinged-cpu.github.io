@@ -13,6 +13,7 @@ Zarzycki Manor Chapels is a funeral home in Willow Springs, IL at 8999 South Arc
 - Website: https://www.zarzyckimanorchapels.com/contact/willow-springs
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

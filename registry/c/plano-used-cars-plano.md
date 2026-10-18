@@ -13,6 +13,7 @@ Plano Used Cars is an used car dealer in Plano, TX at 1608 14th Street, Plano, T
 - Website: https://www.planousedcars.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
+- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

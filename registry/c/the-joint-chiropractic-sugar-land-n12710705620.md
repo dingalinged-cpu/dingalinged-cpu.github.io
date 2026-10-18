@@ -13,6 +13,7 @@ The Joint Chiropractic is a chiropractor in Sugar Land, TX at 15870 Southwest Fr
 - Website: https://www.thejoint.com/texas/sugar-land/sugar-land-28035
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-14:00,14:45-19:00; Sa-Su 10:00-17:00; Jan 01 off; easter off; May Mo[-1] off; Jun 19 10:00-19:00; Jul 04 off; Sep Mo[1] 10:00-19:00; Nov We[4] 10:00-19:00; Nov Th[4] off; Dec 24 10:00-14:00; Dec 25 off; Dec 31 10:00-02:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

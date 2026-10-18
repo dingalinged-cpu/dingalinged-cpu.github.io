@@ -13,6 +13,7 @@ State Farm is an insurance agent in Naperville, IL at 131 West Jefferson Avenue 
 - Website: https://www.statefarm.com/agent/us/il/naperville/shannon-hallstrom
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We, Fr 08:30-17:00; Th 08:30-19:00; Sa 09:00-12:00
+- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

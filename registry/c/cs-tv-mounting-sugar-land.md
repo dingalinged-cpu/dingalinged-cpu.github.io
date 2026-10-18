@@ -13,6 +13,7 @@ CS TV Mounting is an IT support company in Sugar Land, TX at 14090 Southwest Fre
 - Website: https://www.cstvmounting.com/
 - Email: info@campbellservice.org
 - Opening hours (OSM syntax): "By appointment"
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

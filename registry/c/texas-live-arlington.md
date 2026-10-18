@@ -13,6 +13,7 @@ Texas Live! is an event venue in Arlington, TX at 1650 East Randol Mill Road, Ar
 - Website: https://texas-live.com/
 - Email: info@texas-live.com
 - Opening hours (OSM syntax): Su-Th 11:00-22:00; Fr-Sa 11:00-01:00
+- Registry Score: 67.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Roger T Yokubaitis PLLC is a lawyer in Houston, TX at 8303 Ivan Reid Dr, Houston
 - Website: https://www.rogerylaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 13:00-21:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

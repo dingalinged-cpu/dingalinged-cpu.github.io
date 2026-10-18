@@ -13,6 +13,7 @@ Anytime Fitness is a gym in Saint Paul, MN at 1059 Grand Avenue, Saint Paul, MN 
 - Website: https://www.anytimefitness.com/gyms/2074/st-paul-mn-55106/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

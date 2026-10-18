@@ -13,6 +13,7 @@ Style Exteriors is a roofer in Wauconda, IL at 388 West Liberty Street, Wauconda
 - Website: https://www.styleexteriors.com/
 - Email: office@styleexteriors.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-13:00, "by appointment"
+- Registry Score: 64.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

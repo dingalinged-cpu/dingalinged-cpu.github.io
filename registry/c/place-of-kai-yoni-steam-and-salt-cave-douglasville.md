@@ -1,0 +1,24 @@
+Place of Kai Yoni Steam and Salt Cave is a massage studio in Douglasville, GA at 12333 Veterans Memorial Highway, Douglasville, GA.
+
+# Place of Kai Yoni Steam and Salt Cave
+
+- Category: massage
+- Services: massage
+- Address: 12333 Veterans Memorial Highway, Douglasville, GA
+- City: Douglasville
+- State: GA
+- ZIP: n/a
+- Coordinates: 33.751386, -84.7476725
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/place-of-kai-yoni-steam-and-salt-cave-douglasville/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/place-of-kai-yoni-steam-and-salt-cave-douglasville.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/446702987 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

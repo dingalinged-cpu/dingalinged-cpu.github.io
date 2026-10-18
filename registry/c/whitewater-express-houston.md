@@ -13,6 +13,7 @@ Whitewater Express is a car wash in Houston, TX at 5306 Airline Drive, Houston, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 07:30-20:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

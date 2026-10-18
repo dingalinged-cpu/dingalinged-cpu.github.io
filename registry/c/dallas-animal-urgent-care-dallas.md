@@ -13,6 +13,7 @@ Dallas Animal Urgent Care is a veterinarian in Dallas, TX at 12835 Preston Road 
 - Website: https://dallasanimalurgentcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-22:00
+- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,6 +13,7 @@ Oak Brook Smiles is a dentist in Oakbrook Terrace, IL at 1S132 Summit Ave, #200,
 - Website: https://www.oakbrooksmiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mon-Thu: 8:30 AM-5:00 PM
+- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

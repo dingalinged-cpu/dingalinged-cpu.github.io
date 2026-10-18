@@ -13,6 +13,7 @@ PetSmart is a pet store in Evanston, IL at 2221 Oakton Street, Evanston, IL 6020
 - Website: https://www.petsmart.com/stores/us/il/evanston-store0427.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
+- Registry Score: 50.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

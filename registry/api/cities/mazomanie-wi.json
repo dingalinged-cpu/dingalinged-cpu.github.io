@@ -1,0 +1,55 @@
+{
+ "place": "Mazomanie, WI",
+ "slug": "mazomanie-wi",
+ "count": 1,
+ "updated": "2026-10-18",
+ "attribution": "Data © OpenStreetMap contributors, ODbL",
+ "attribution_url": "https://www.openstreetmap.org/copyright",
+ "license": "ODbL-1.0",
+ "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+ "keywords": [
+  {
+   "keyword": "auto repair mazomanie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/auto-repair-mazomanie-wi.json"
+  },
+  {
+   "keyword": "mechanic mazomanie wi",
+   "url": "https://dingalinged-cpu.github.io/registry/api/keywords/mechanic-mazomanie-wi.json"
+  }
+ ],
+ "companies": [
+  {
+   "slug": "willies-repair-mazomanie",
+   "name": "Willie's Repair",
+   "summary": "Willie's Repair is an auto repair shop in Mazomanie, WI at 510 Emily Road, Mazomanie, WI 53560. Phone: +16087952500. Website: https://shop.autovaluestores.com/.",
+   "categories": [
+    "auto repair"
+   ],
+   "url": "https://dingalinged-cpu.github.io/registry/c/willies-repair-mazomanie/",
+   "json": "https://dingalinged-cpu.github.io/registry/api/companies/willies-repair-mazomanie.json",
+   "address": {
+    "streetAddress": "510 Emily Road",
+    "addressLocality": "Mazomanie",
+    "addressRegion": "WI",
+    "postalCode": "53560",
+    "addressCountry": "US"
+   },
+   "city": "Mazomanie",
+   "state": "WI",
+   "zip": "53560",
+   "geo": {
+    "lat": 43.1696085,
+    "lon": -89.8010663
+   },
+   "phone": "+16087952500",
+   "website": "https://shop.autovaluestores.com/",
+   "opening_hours": "Mo-Fr 08:00-17:00",
+   "verified": false,
+   "claimable": true,
+   "trust_score": 20.0,
+   "source": "OpenStreetMap",
+   "source_url": "https://www.openstreetmap.org/node/13540631537",
+   "last_checked": "2026-10-18"
+  }
+ ]
+}

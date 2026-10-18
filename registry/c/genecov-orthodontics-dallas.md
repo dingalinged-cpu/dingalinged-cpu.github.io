@@ -13,6 +13,7 @@ Genecov Orthodontics is a dentist in Dallas, TX at 11661 Preston Road #106, Dall
 - Website: https://www.genecovorthodontics.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

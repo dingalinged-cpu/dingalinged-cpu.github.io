@@ -13,6 +13,7 @@ Valvoline Instant Oil Change is an auto repair shop in Milwaukee, WI at 1700 Eas
 - Website: https://store.vioc.com/wi/milwaukee/oil-change-gr0056.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-16:00
+- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

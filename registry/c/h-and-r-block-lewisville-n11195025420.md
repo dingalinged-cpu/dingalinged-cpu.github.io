@@ -13,6 +13,7 @@ H&R Block is a tax preparation service in Lewisville, TX at West Round Grove Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Jan-Apr Mo-Fr 10:00-19:00; Jan-Apr Sa 10:00-17:00; Jan-Apr Su 12:00-16:00; May-Dec Mo-Fr "By appointment only"
+- Registry Score: 54.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

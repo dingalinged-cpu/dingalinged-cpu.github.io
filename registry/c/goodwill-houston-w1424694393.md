@@ -13,6 +13,7 @@ Goodwill is a thrift store in Houston, TX at 6135 Westheimer Road, Houston, TX 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 12:00-18:00
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

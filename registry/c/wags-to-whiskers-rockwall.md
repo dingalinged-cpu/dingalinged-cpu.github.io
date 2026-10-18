@@ -13,6 +13,7 @@ Wags to Whiskers is a dog groomer in Rockwall, TX at 105 East Bourn Street, Rock
 - Website: https://www.wagstowhiskerspetspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
+- Registry Score: 58.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

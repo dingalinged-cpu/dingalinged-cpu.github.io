@@ -1,0 +1,58 @@
+Keyword market for Dunwoody, GA: 26 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Atlanta-Sandy Springs-Roswell, GA metro (US volume x population share).
+
+# Top keywords in Dunwoody, GA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. dentist dunwoody ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-dunwoody-ga/
+2. gym dunwoody ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-dunwoody-ga/
+3. hair salon dunwoody ga | searches/mo 28,000 (est) | CPC $0.55 | value $15,000 | Google Ads equiv $880/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-dunwoody-ga/
+4. nail salon dunwoody ga | searches/mo 19,000 (est) | CPC $0.61 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-dunwoody-ga/
+5. vet dunwoody ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-dunwoody-ga/
+6. dog groomer dunwoody ga | searches/mo 8,500 (est) | CPC $4.06 | value $35,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-dunwoody-ga/
+7. haircut dunwoody ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-dunwoody-ga/
+8. movers dunwoody ga | searches/mo 5,700 (est) | CPC $8.23 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-dunwoody-ga/
+9. chiropractor dunwoody ga | searches/mo 4,700 (est) | CPC $4.76 | value $22,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-dunwoody-ga/
+10. moving company dunwoody ga | searches/mo 3,800 (est) | CPC $12.41 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-dunwoody-ga/
+11. insurance agency dunwoody ga | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-dunwoody-ga/
+12. pediatrician dunwoody ga | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pediatrician-dunwoody-ga/
+13. attorney dunwoody ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-dunwoody-ga/
+14. insurance agents dunwoody ga | searches/mo 940 (est) | CPC $3.39 | value $3,200 | Google Ads equiv $270/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-dunwoody-ga/
+15. lawyer dunwoody ga | searches/mo 940 (est) | CPC $9.87 | value $9,300 | Google Ads equiv $550/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-dunwoody-ga/
+
+## By CPC
+1. moving company dunwoody ga | searches/mo 3,800 (est) | CPC $12.41 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-dunwoody-ga/
+2. attorney dunwoody ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-dunwoody-ga/
+3. lawyer dunwoody ga | searches/mo 940 (est) | CPC $9.87 | value $9,300 | Google Ads equiv $550/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-dunwoody-ga/
+4. movers dunwoody ga | searches/mo 5,700 (est) | CPC $8.23 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-dunwoody-ga/
+5. event venues dunwoody ga | searches/mo 4,200 (est) | CPC $7.17 | value $30,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-dunwoody-ga/
+6. audiologist dunwoody ga | searches/mo 630 (est) | CPC $4.76 | value $3,000 | Google Ads equiv $200/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/audiologist-dunwoody-ga/
+7. chiropractor dunwoody ga | searches/mo 4,700 (est) | CPC $4.76 | value $22,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-dunwoody-ga/
+8. pediatrician dunwoody ga | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pediatrician-dunwoody-ga/
+9. physical therapy dunwoody ga | searches/mo 4,200 (est) | CPC $4.76 | value $20,000 | Google Ads equiv $1,300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/physical-therapy-dunwoody-ga/
+10. dentist dunwoody ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-dunwoody-ga/
+11. haircut dunwoody ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-dunwoody-ga/
+12. furniture store dunwoody ga | searches/mo 2,700 (est) | CPC $4.14 | value $11,000 | Google Ads equiv $1,000/mo | our featured min $10/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/furniture-store-dunwoody-ga/
+13. jewelry store dunwoody ga | searches/mo 2,700 (est) | CPC $4.14 | value $11,000 | Google Ads equiv $1,000/mo | our featured min $10/mo | registry competitors 10 | https://dingalinged-cpu.github.io/registry/k/jewelry-store-dunwoody-ga/
+14. liquor store dunwoody ga | searches/mo 2,700 (est) | CPC $4.14 | value $11,000 | Google Ads equiv $1,000/mo | our featured min $10/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/liquor-store-dunwoody-ga/
+15. mattress store dunwoody ga | searches/mo 2,700 (est) | CPC $4.14 | value $11,000 | Google Ads equiv $1,000/mo | our featured min $10/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mattress-store-dunwoody-ga/
+
+## By value (searches x CPC)
+1. dentist dunwoody ga | searches/mo 35,000 (est) | CPC $4.70 | value $160,000 | Google Ads equiv $8,900/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-dunwoody-ga/
+2. gym dunwoody ga | searches/mo 35,000 (est) | CPC $1.67 | value $58,000 | Google Ads equiv $4,200/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/gym-dunwoody-ga/
+3. movers dunwoody ga | searches/mo 5,700 (est) | CPC $8.23 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/movers-dunwoody-ga/
+4. moving company dunwoody ga | searches/mo 3,800 (est) | CPC $12.41 | value $47,000 | Google Ads equiv $3,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/moving-company-dunwoody-ga/
+5. vet dunwoody ga | searches/mo 10,000 (est) | CPC $4.06 | value $41,000 | Google Ads equiv $2,700/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-dunwoody-ga/
+6. dog groomer dunwoody ga | searches/mo 8,500 (est) | CPC $4.06 | value $35,000 | Google Ads equiv $2,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dog-groomer-dunwoody-ga/
+7. haircut dunwoody ga | searches/mo 7,000 (est) | CPC $4.62 | value $32,000 | Google Ads equiv $1,800/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-dunwoody-ga/
+8. chiropractor dunwoody ga | searches/mo 4,700 (est) | CPC $4.76 | value $22,000 | Google Ads equiv $1,500/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-dunwoody-ga/
+9. hair salon dunwoody ga | searches/mo 28,000 (est) | CPC $0.55 | value $15,000 | Google Ads equiv $880/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-dunwoody-ga/
+10. attorney dunwoody ga | searches/mo 1,400 (est) | CPC $9.87 | value $14,000 | Google Ads equiv $820/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/attorney-dunwoody-ga/
+11. nail salon dunwoody ga | searches/mo 19,000 (est) | CPC $0.61 | value $12,000 | Google Ads equiv $660/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/nail-salon-dunwoody-ga/
+12. lawyer dunwoody ga | searches/mo 940 (est) | CPC $9.87 | value $9,300 | Google Ads equiv $550/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/lawyer-dunwoody-ga/
+13. pediatrician dunwoody ga | searches/mo 1,700 (est) | CPC $4.76 | value $8,100 | Google Ads equiv $540/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/pediatrician-dunwoody-ga/
+14. insurance agency dunwoody ga | searches/mo 1,700 (est) | CPC $3.39 | value $5,800 | Google Ads equiv $480/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-dunwoody-ga/
+15. insurance agents dunwoody ga | searches/mo 940 (est) | CPC $3.39 | value $3,200 | Google Ads equiv $270/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-dunwoody-ga/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

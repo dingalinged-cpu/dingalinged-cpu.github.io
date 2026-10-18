@@ -1,0 +1,24 @@
+WeWork is a coworking space in Atlanta, GA at 3340 Peachtree Road, Atlanta, GA 30326.
+
+# WeWork
+
+- Category: coworking space
+- Services: coworking space
+- Address: 3340 Peachtree Road, Atlanta, GA 30326
+- City: Atlanta
+- State: GA
+- ZIP: 30326
+- Coordinates: 33.8473722, -84.3709701
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/wework-atlanta/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wework-atlanta.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/4589677407 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

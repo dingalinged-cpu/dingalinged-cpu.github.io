@@ -13,6 +13,7 @@ Edina Liquor is a liquor store in Edina, MN. Phone: +19529035730. Website: https
 - Website: https://edinaliquor.com/
 - Email: edinaliquor@edinamn.gov
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
+- Registry Score: 53.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

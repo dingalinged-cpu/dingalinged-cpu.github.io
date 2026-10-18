@@ -13,6 +13,7 @@ Cool Hand Electric, Heating, & AC Repair is an electrician in Red Oak, TX at 206
 - Website: https://coolhandelectric.com/electrician-red-oak-tx/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
+- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

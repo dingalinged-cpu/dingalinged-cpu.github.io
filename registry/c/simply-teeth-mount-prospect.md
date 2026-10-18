@@ -13,6 +13,7 @@ Simply Teeth is a dentist in Mount Prospect, IL at 905 E Rand Rd #Ste 200, Mount
 - Website: https://www.simplyteethmountprospect.com/
 - Email: simplyteeth.dmp@gmail.com
 - Opening hours (OSM syntax): Monday – Thursday: 10 AM–7 PM Friday – Saturday:9 AM - 2 PM
+- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
